@@ -482,7 +482,7 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "注：红色的内容尚未实装。",
+      "",
       "游戏菜单",
       "画面",
       "分辨率： NL 最大帧数：",
@@ -492,10 +492,10 @@
       "背景音效",
       "偏好",
       "用金色数字显示伤害的总和。 NL 用蓝色数字显示被格挡伤害的总和。 NL 在只选择一张牌时，不需要确认。",
-      "常用提示 NL 卡牌提示",
-      "能力提示 NL 遗物提示",
+      "加速模式",
+      "",
       "杂项",
-      "#r语言：",
+      "语言：",
       "上传游戏数据 #b(?)",
       "退出游戏",
       "保存并退出",
@@ -836,7 +836,12 @@
       "7. 普通敌人拥有更多生命。",
       "8. 精英敌人拥有更多生命。",
       "9. Boss敌人拥有更多生命。",
-      "10. 寄生！"
+      "10. 寄生！",
+      "11. Potions are less potent.",
+      "12. Upgraded cards appear less often.",
+      "13. Poor bosses.",
+      "14. Lower Max HP.",
+      "15. Unfavorable Events."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -868,16 +873,32 @@
       "返回",
       "没有找到历史记录。 NL 还不去爬个塔先！",
       "攫升等级： ",
-      "在 ",
-      " 层，死于 ",
+      "Slain on Floor %1$d by %2$s",
+      "Abandoned Run on Floor %d",
       "胜利！",
       "牌组",
-      "遗物"
+      "遗物",
+      "Starter",
+      "Common",
+      "Uncommon",
+      "Rare",
+      "Special",
+      "Curse",
+      "Boss",
+      "Shop",
+      "Unknown",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "All Characters",
+      "Wins and Losses",
+      "Wins",
+      "Losses"
     ]
   },
   "CreditsScreen": {
     "TEXT": [
-      "click again to exit"
+      "再次点击退出"
     ]
   }
 }

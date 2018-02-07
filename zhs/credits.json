@@ -1,86 +1,88 @@
 {
   "DEV": {
-    "HEADER": "Development & Design",
+    "HEADER": "开发与设计",
     "NAMES": [
       "Anthony Giovannetti",
       "Casey Yano"
     ]
   },
   "OPS": {
-    "HEADER": "Operations & Metrics",
+    "HEADER": "运营与数据",
     "NAMES": [
       "Danielle Jenkins",
       "Jake Rabinowitz"
     ]
   },
   "SOUND": {
-    "HEADER": "Music & Sounds",
+    "HEADER": "音乐与声音",
     "NAMES": [
       "Clark Aboud"
     ]
   },
   "VOICE": {
-    "HEADER": "Development & Design",
+    "HEADER": "配音",
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Card Portraits & Event Art",
+    "HEADER": "牌面与事件美术",
     "NAMES": [
       "Anailis Dorta"
     ]
   },
   "ANIMATION": {
-    "HEADER": "Character Animation",
+    "HEADER": "角色动画",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
     ]
   },
   "ILLUSTRATION": {
-    "HEADER": "Promo & Background Illustration",
+    "HEADER": "推广与背景美术",
     "NAMES": [
       "Bruce Brenneise"
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Chinese (Simplified) Localization",
-    "NAMES": []
+    "HEADER": "本地化：简体中文",
+    "NAMES": [
+      "谜之声（Sound of Mystery）"
+    ]
   },
   "LOC_ZHT": {
-    "HEADER": "Chinese (Traditional) Localization",
+    "HEADER": "本地化：繁体中文",
     "NAMES": []
   },
   "LOC_FRA": {
-    "HEADER": "French Localization",
+    "HEADER": "本地化：法语",
     "NAMES": []
   },
   "LOC_DEU": {
-    "HEADER": "German Localization",
+    "HEADER": "本地化：德语",
     "NAMES": []
   },
   "LOC_ITA": {
-    "HEADER": "Italian Localization",
+    "HEADER": "本地化：意大利语",
     "NAMES": []
   },
   "LOC_JPN": {
-    "HEADER": "Japanese Localization",
+    "HEADER": "本地化：日语",
     "NAMES": [
       "Grezzz"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Korean Localization",
+    "HEADER": "本地化：韩语",
     "NAMES": []
   },
   "LOC_POL": {
-    "HEADER": "Polish Localization",
+    "HEADER": "本地化：波兰语",
     "NAMES": []
   },
   "LOC_RUS": {
-    "HEADER": "Russian Localization",
+    "HEADER": "本地化：俄罗斯语",
     "NAMES": [
       "Translation and coordination:",
       "Ivan \"Ingrett\" Khoroshunenko",
@@ -97,19 +99,19 @@
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Turkish Localization",
+    "HEADER": "本地化：土耳其语",
     "NAMES": [
       "Erdem Gürbüz"
     ]
   },
   "LOC_ADDITIONAL": {
-    "HEADER": "Additional Translations",
+    "HEADER": "追加翻译",
     "NAMES": [
       "MoGi Group"
     ]
   },
   "TEST": {
-    "HEADER": "Playtesters",
+    "HEADER": "测试玩家",
     "NAMES": [
       "Agari",
       "Daria Anderson",
@@ -141,7 +143,7 @@
     ]
   },
   "SPECIAL": {
-    "HEADER": "Operations & Metrics",
+    "HEADER": "特别鸣谢",
     "NAMES": [
       "Harry Rabinowitz",
       "Kevin \"Billy\" Matheson",
@@ -154,7 +156,7 @@
     ]
   },
   "THANKS_MSG": {
-    "HEADER": "...and thank YOU for playing!",
+    "HEADER": "……以及——感谢您的游玩！",
     "NAMES": []
   }
 }
