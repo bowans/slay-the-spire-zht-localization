@@ -482,7 +482,7 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "注：紅色的內容尚未實裝。",
+      "",
       "遊戲菜單",
       "畫面",
       "解析度： NL 最大幀數：",
@@ -492,10 +492,10 @@
       "背景音效",
       "偏好",
       "用金色數字顯示傷害的總和。 NL 用藍色數字顯示被格擋傷害的總和。 NL 在只選擇一張牌時，不需要確認。",
-      "常用提示 NL 卡牌提示",
-      "能力提示 NL 遺物提示",
+      "加速模式",
+      "",
       "雜項",
-      "#r語言：",
+      "語言：",
       "上傳遊戲數據 #b(?)",
       "退出遊戲",
       "保存並退出",
@@ -836,7 +836,12 @@
       "7. 普通敵人擁有更多生命。",
       "8. 精英敵人擁有更多生命。",
       "9. Boss敵人擁有更多生命。",
-      "10. 寄生！"
+      "10. 寄生！",
+      "11. Potions are less potent.",
+      "12. Upgraded cards appear less often.",
+      "13. Poor bosses.",
+      "14. Lower Max HP.",
+      "15. Unfavorable Events."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -868,16 +873,32 @@
       "返回",
       "沒有找到歷史記錄。 NL 還不去爬個塔先！",
       "攫升等級： ",
-      "在 ",
-      " 層，死於 ",
+      "Slain on Floor %1$d by %2$s",
+      "Abandoned Run on Floor %d",
       "勝利！",
       "牌組",
-      "遺物"
+      "遺物",
+      "Starter",
+      "Common",
+      "Uncommon",
+      "Rare",
+      "Special",
+      "Curse",
+      "Boss",
+      "Shop",
+      "Unknown",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "All Characters",
+      "Wins and Losses",
+      "Wins",
+      "Losses"
     ]
   },
   "CreditsScreen": {
     "TEXT": [
-      "click again to exit"
+      "再次點擊退出"
     ]
   }
 }
