@@ -1,0 +1,105 @@
+{
+  "Block Potion": {
+    "NAME": "格擋藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點 #y格擋 。"
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "敏捷藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點 #y敏捷 。"
+    ]
+  },
+  "Elixir": {
+    "NAME": "不死藥",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "#y消耗 你手牌中所有的 #y狀態 和 #y詛咒 牌。",
+      "",
+      "沒有效果……"
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "能量藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點能量。"
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "爆炸藥水",
+    "DESCRIPTIONS": [
+      "對所有敵人造成 #b",
+      " 點傷害。"
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "火焰藥水",
+    "DESCRIPTIONS": [
+      "造成 #b",
+      " 點傷害。"
+    ]
+  },
+  "Health Potion": {
+    "NAME": "生命藥水",
+    "DESCRIPTIONS": [
+      "回復 #b",
+      " 點生命。"
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "毒藥水",
+    "DESCRIPTIONS": [
+      "給予 #b",
+      " 層 #y中毒 。"
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "藥水欄",
+    "DESCRIPTIONS": [
+      "在戰鬥中使用藥水來獲得 #g增益 或 #r阻撓 敵人。",
+      "藥水欄"
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "再生藥水",
+    "DESCRIPTIONS": [
+      "在你的回合結束時回復 #b",
+      " 點 #y生命 ，效果持續 #b",
+      " 回合。"
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "力量藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點 #y力量 。"
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "迅捷藥水",
+    "DESCRIPTIONS": [
+      "",
+      "抽 #b",
+      " 張牌。"
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "虛弱藥水",
+    "DESCRIPTIONS": [
+      "給予 #b",
+      " 層 #y虛弱 。"
+    ]
+  },
+  "Ancient Potion": {
+    "NAME": "先古藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 層 #y人工製品 。"
+    ]
+  }
+}
