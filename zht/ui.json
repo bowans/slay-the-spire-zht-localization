@@ -836,7 +836,12 @@
       "7. 普通敵人擁有更多生命。",
       "8. 精英敵人擁有更多生命。",
       "9. Boss敵人擁有更多生命。",
-      "10. 寄生！"
+      "10. 寄生！",
+      "11. Potions are less potent.",
+      "12. Upgraded cards appear less often.",
+      "13. Poor bosses.",
+      "14. Lower Max HP.",
+      "15. Unfavorable Events."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -868,11 +873,27 @@
       "返回",
       "沒有找到歷史記錄。 NL 還不去爬個塔先！",
       "攫升等級： ",
-      "在 ",
-      " 層，死於 ",
+      "Slain on Floor %1$d by %2$s",
+      "Abandoned Run on Floor %d",
       "勝利！",
       "牌組",
-      "遺物"
+      "遺物",
+      "Starter",
+      "Common",
+      "Uncommon",
+      "Rare",
+      "Special",
+      "Curse",
+      "Boss",
+      "Shop",
+      "Unknown",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "All Characters",
+      "Wins and Losses",
+      "Wins",
+      "Losses"
     ]
   },
   "CreditsScreen": {

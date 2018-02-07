@@ -1,174 +1,174 @@
 {
   "Beyond Elites Killed": {
-    "NAME": "深處 精英擊殺",
+    "NAME": "Beyond Elites Killed",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "打敗Boss",
+    "NAME": "Bosses Slain",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "城市 精英擊殺",
+    "NAME": "City Elites Killed",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "塔底 精英擊殺",
+    "NAME": "Exordium Elites Killed",
     "DESCRIPTIONS": []
   },
   "Champion": {
-    "NAME": "勇士",
+    "NAME": "Champion",
     "DESCRIPTIONS": [
-      "不受傷害擊敗一名精英。"
+      "Defeat an Elite without taking damage."
     ]
   },
   "Perfect": {
-    "NAME": "完勝",
+    "NAME": "Perfect",
     "DESCRIPTIONS": [
-      "不受傷害擊敗一名Boss。"
+      "Defeat a Boss without taking damage."
     ]
   },
   "Beyond Perfect": {
-    "NAME": "全面完勝",
+    "NAME": "Beyond Perfect",
     "DESCRIPTIONS": [
-      "不受傷害擊敗三名Boss。"
+      "Defeat 3 bosses without taking damage."
     ]
   },
   "Overkill": {
-    "NAME": "虐殺",
+    "NAME": "Overkill",
     "DESCRIPTIONS": [
-      "單次攻擊造成99點傷害。"
+      "Deal 99 damage with a single attack."
     ]
   },
   "Combo": {
-    "NAME": "連續技",
+    "NAME": "C-c-c-combo",
     "DESCRIPTIONS": [
-      "單個回合內打出20張牌。"
+      "Play 20 cards in a single turn."
     ]
   },
   "Poopy": {
-    "NAME": "便便",
+    "NAME": "Poopy",
     "DESCRIPTIONS": [
-      "得到 精靈便便 。"
+      "Received the Spirit Poop."
     ]
   },
   "Cheater": {
-    "NAME": "作弊",
+    "NAME": "Cheater",
     "DESCRIPTIONS": [
-      "你作弊被發現啦。如果作弊被抓到兩次，你的分數就永遠不會被傳到積分榜上了哦。"
+      "Caught cheating. If caught twice, your score will never upload to the Leaderboards."
     ]
   },
   "Speedster": {
-    "NAME": "高速",
+    "NAME": "Speedster",
     "DESCRIPTIONS": [
-      "在60分鐘內獲勝。"
+      "Victory in under 60 minutes."
     ]
   },
   "Light Speed": {
-    "NAME": "光速",
+    "NAME": "Light Speed",
     "DESCRIPTIONS": [
-      "在45分鐘內獲勝。"
+      "Victory in under 45 minutes."
     ]
   },
   "Money Money": {
-    "NAME": "好多好多錢",
+    "NAME": "Money Money",
     "DESCRIPTIONS": [
-      "獲得1000金幣。"
+      "Accrued 1,000 gold."
     ]
   },
   "Raining Money": {
-    "NAME": "下錢雨啦",
+    "NAME": "Raining Money",
     "DESCRIPTIONS": [
-      "獲得2000金幣。"
+      "Accrued 2,000 gold."
     ]
   },
   "I Like Gold": {
-    "NAME": "真的好喜歡錢啊",
+    "NAME": "I Like Gold",
     "DESCRIPTIONS": [
-      "獲得3000金幣。"
+      "Accrued 3,000 gold."
     ]
   },
   "Minimalist": {
-    "NAME": "極簡主義",
+    "NAME": "Minimalist",
     "DESCRIPTIONS": [
-      "從牌組中移除5張或更多牌。"
+      "Removed 5+ cards from your deck."
     ]
   },
   "Highlander": {
-    "NAME": "獨一無二",
+    "NAME": "Highlander",
     "DESCRIPTIONS": [
-      "除了起始牌外，你的牌組中沒有任何重複的牌。"
+      "Your deck contains no duplicates (excluding starter cards)."
     ]
   },
   "Shiny": {
-    "NAME": "亮閃閃的好東西",
+    "NAME": "I Like Shiny",
     "DESCRIPTIONS": [
-      "擁有25件或更多物品。"
+      "Have 25+ relics."
     ]
   },
   "Collector": {
-    "NAME": "卡牌收藏者",
+    "NAME": "Collector",
     "DESCRIPTIONS": [
-      "不計起始牌，你的牌組中有4張相同的牌。"
+      "Have 4 copies of any non-starter card."
     ]
   },
   "Pauper": {
-    "NAME": "平淡是真",
+    "NAME": "Pauper",
     "DESCRIPTIONS": [
-      "沒有任何稀有牌。"
+      "Have 0 rare cards."
     ]
   },
   "Librarian": {
-    "NAME": "圖書管理員",
+    "NAME": "Librarian",
     "DESCRIPTIONS": [
-      "牌組總數超過35張。"
+      "Deck size greater than 35 cards."
     ]
   },
   "Encyclopedian": {
-    "NAME": "百科全書",
+    "NAME": "Encyclopedian",
     "DESCRIPTIONS": [
-      "牌組總數超過50張。"
+      "Deck size greater than 50 cards."
     ]
   },
   "Well Fed": {
-    "NAME": "飽餐",
+    "NAME": "Well Fed",
     "DESCRIPTIONS": [
-      "增加你的生命上限15點或更多。"
+      "Increased your Max HP by 15+."
     ]
   },
   "Stuffed": {
-    "NAME": "饕餮",
+    "NAME": "Stuffed",
     "DESCRIPTIONS": [
-      "增加你的生命上限30點或更多。"
+      "Increased your Max HP by 30+."
     ]
   },
   "Curses": {
-    "NAME": "詛咒！",
+    "NAME": "Curses!",
     "DESCRIPTIONS": [
-      "牌組中有5張詛咒牌。"
+      "Your deck contains 5 curses."
     ]
   },
   "Alchemist": {
-    "NAME": "煉金術士",
+    "NAME": "Alchemist",
     "DESCRIPTIONS": [
-      "購買5瓶藥水。"
+      "Bought 5 potions."
     ]
   },
   "Mystery Machine": {
-    "NAME": "尋謎問道",
+    "NAME": "Mystery Machine",
     "DESCRIPTIONS": [
-      "造訪15或更多個？房間。"
+      "Traveled to 15+ ? rooms."
     ]
   },
   "On My Own Terms": {
-    "NAME": "不死於敵手",
+    "NAME": "On My Own Terms",
     "DESCRIPTIONS": [
-      "自己殺死自己。"
+      "Killed yourself."
     ]
   },
   "Ascension": {
-    "NAME": "攫升",
+    "NAME": "Ascension",
     "DESCRIPTIONS": [
-      "每層攫升等級會增加5%的分數。"
+      "+5% score per Ascension Level."
     ]
   }
 }
