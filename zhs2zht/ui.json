@@ -433,7 +433,9 @@
     "TEXT": [
       "跳過",
       "選一張牌",
-      "+2 最大生命"
+      "+2 最大生命",
+      "VOTE NOW: ",
+      "s left."
     ]
   },
   "BossRelicSelectScreen": {
@@ -441,7 +443,9 @@
       "確認",
       "確認你的選擇",
       "選擇一樣遺物",
-      "跳過"
+      "跳過",
+      "VOTE NOW: ",
+      "s left."
     ]
   },
   "GridCardSelectScreen": {
@@ -615,10 +619,10 @@
       "靜默獵人",
       "烏鴉機器人",
       "返回",
-      "攫升模式 （等級 ",
-      "）",
+      "攫升",
+      "等級 ",
       "攫升模式",
-      "試驗性模式：隨著勝利次數增多，難度也會進一步提升……（不會影響連勝）"
+      "隨著勝利次數增多，難度也會進一步提升……（不會影響連勝）"
     ]
   },
   "AbstractMonster": {
@@ -837,11 +841,11 @@
       "8. 精英敵人擁有更多生命。",
       "9. Boss敵人擁有更多生命。",
       "10. 寄生！",
-      "11. Potions are less potent.",
-      "12. Upgraded cards appear less often.",
-      "13. Poor bosses.",
-      "14. Lower Max HP.",
-      "15. Unfavorable Events."
+      "11. 藥水效果下降。",
+      "12. 升級過的牌出現頻率下降。",
+      "13. Boss變窮。",
+      "14. 最大生命值下降。",
+      "15. 部分事件變得更加不利。"
     ]
   },
   "MerchantImageTextNotInGame": {
