@@ -877,32 +877,37 @@
       "返回",
       "没有找到历史记录。 NL 还不去爬个塔先！",
       "攫升等级： ",
-      "Slain on Floor %1$d by %2$s",
-      "Abandoned Run on Floor %d",
+      "在 %1$d 层 死于 %2$s",
+      "在 %d 放弃",
       "胜利！",
       "牌组",
       "遗物",
-      "Starter",
-      "Common",
-      "Uncommon",
-      "Rare",
-      "Special",
-      "Curse",
-      "Boss",
-      "Shop",
-      "Unknown",
+      " 初始",
+      " 普通",
+      " 罕见",
+      " 稀有",
+      " 特殊",
+      " 诅咒",
+      " Boss",
+      " 商店",
+      " 未知",
       "%1$d %2$s",
-      "%1$s (%2$d):",
-      "Score: %d",
-      "All Characters",
-      "Wins and Losses",
-      "Wins",
-      "Losses"
+      "%1$s (%2$d)：",
+      "分数： %d",
+      "所有角色",
+      "胜利与失败",
+      "胜利",
+      "失败"
     ]
   },
   "CreditsScreen": {
     "TEXT": [
       "再次点击退出"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTE NOW: "
     ]
   }
 }
