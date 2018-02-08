@@ -1,0 +1,146 @@
+{
+  "Ironclad": {
+    "NAMES": [
+      "Der Eiserne"
+    ],
+    "TEXT": [
+      "Der verbleibende Soldat der Eisernen. NL Verkaufte seine Seele, um dämonische Energien nutzen zu können."
+    ]
+  },
+  "Crowbot": {
+    "NAMES": [
+      "Krähbot"
+    ],
+    "TEXT": [
+      "BIEP BUUP"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Die Stille"
+    ],
+    "TEXT": [
+      "Eine tödliche Jägerin aus den Nebelländern. NL Beseitigt Gegner mit Dolchen und Giften."
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Sei~ ~gegrüßt~ NL ~Ich~ ~bin~ ~Neow …~",
+      "~Hallo …~ NL ~Noch mal …~",
+      "~Sei~ ~gegrüßt …~",
+      "~Noch~ ~ein~ NL ~Versuch …?~",
+      "~Erreiche~ ~den~ ~Boss …~ NL ~um~ ~meinen …~ ~Segen~ ~zu~ ~erhalten …~",
+      "~Stelle~ ~dich~ ~zumindest …~ NL ~dem~ ~ersten~ ~Boss …~",
+      "~Ich~ ~habe~ ~dich~ ~zurückgeholt …~",
+      "~Wähle …~",
+      "~Gewährt …~",
+      "~Risiko …~ NL ~…Belohnung …~"
+    ],
+    "OPTIONS": [
+      "[Fortsetzen]",
+      "[Reden]",
+      "[Überspringen]",
+      "[Verlassen]"
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gEine #gKarte #gwählen, #gum #gdiese #gzu #gerhalten ]",
+      "[ #gEine #gzufällige #gseltene #gKarte #gerhalten ]",
+      "[ #gEine #gKarte #gaus #gdeinem #gDeck #gentfernen ]",
+      "[ #gEine #gKarte #gverbessern ]",
+      "[ #gEine #gKarte #gtransformieren ]",
+      "[ #g3 #gzufällige #gTränke #gerhalten ]",
+      "[ #gEin #gzufälliges #ggewöhnliches #gRelikt #gerhalten ]",
+      "[ #gMax. #gTP #g+",
+      "[ #gDu #gerhältst #g",
+      " #gGold ]",
+      "#g2 #gKarten #gentfernen ]",
+      "#gEin #gseltenes #gRelikt #gerhalten ]",
+      "#gEine #gseltene #gKarte #gerhalten ]",
+      "#g",
+      " #gGold #gerhalten]",
+      "#g2 #gKarten #gtransformieren ]",
+      "#gMax. #gTP #g+",
+      "[ #rVerliere #r",
+      " #rmax. #rTP. ",
+      "[ #rVerliere #rdein #rgesamtes #rGold. ",
+      "[ #rErhalte #reinen #rFluch. ",
+      "[ #rVerliere #r50% #rdeiner #raktuellen #rTP. ",
+      "Eine Karte wählen",
+      "Eine Karte zum Entfernen wählen",
+      "2 Karten zum Entfernen wählen",
+      "Eine Karte zum Transformieren wählen",
+      "2 Karten zum Transformieren wählen",
+      "Eine Karte zum Verbessern wählen",
+      "[ #gDie #gnächsten #g3 #gGegner #ghaben #g1 #gTP ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rVerliere #rdein #rStartrelikt , um #gEin #gzufälliges #gBossrelikt #gzu #gerhalten ]"
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Fortfahren",
+      "~Willkommen!~"
+    ],
+    "TEXT": [
+      "Hi! NL Kauf etwas! NL Kauf, kauf, kauf!",
+      "Ich mag deine Frisur",
+      "Hast du die Zeit?",
+      "Bist du ein Hunde- oder ein Katzenmensch?",
+      "Du siehst ~gefährlich~ aus, NL hehe …",
+      "Lass dir Zeit … NL …… NL … oder auch nicht",
+      "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf",
+      "Unterstütze Kleinunternehmen!",
+      "Masken sind cool, ich muss es ja wissen!",
+      "Hmm … NL … hmm … NL Oh!",
+      "Bleib eine Weile und hör zu!",
+      "Es ist gefährlich, allein zu gehen! Gib mir all dein Gold!",
+      "Kauf was",
+      "~*GÄHN*~",
+      "Ich mag Gold.",
+      "Meine Lieblingsfarbe ist Blau. NL Und was ist deine?"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Willkommen,~ NL ~willkommen!~",
+      "He, NL du brauchst NL mehr #rGold.",
+      "Hey, Kumpel, du hast kein #rGeld!",
+      "Biste pleite?",
+      "Du hast nicht genug #rGold.",
+      "Das kannst du dir nicht leisten.",
+      "Das hier ist nicht die Wohlfahrt.",
+      "~Daaaanke~",
+      "Wieder was verkauft … NL hohoho! NL Ka – @Ching!@",
+      "@VERKAUFT!@",
+      "Rückerstattungen gibt’s bei mir nicht.",
+      "Einen schönen Tag noch.",
+      "Verlassen",
+      "Wähle eine Karte, die du aus deinem Deck entfernen möchtest."
+    ],
+    "TEXT": [
+      "Hi! NL Kauf etwas! NL Kauf, kauf, kauf!",
+      "Ich mag deine Frisur",
+      "Hast du die Zeit?",
+      "Bist du ein Hunde- oder ein Katzenmensch?",
+      "Du siehst ~gefährlich~ aus, NL hehe …",
+      "Lass dir Zeit … NL …… NL … oder auch nicht",
+      "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf",
+      "Unterstütze Kleinunternehmen!",
+      "Masken sind cool, ich muss es ja wissen!",
+      "Hast du meinen Kurier gesehen?",
+      "Bleib eine Weile und hör zu!",
+      "Es ist gefährlich, allein zu gehen! Gib mir all dein Gold!",
+      "Kauf was",
+      "~*GÄHN*~",
+      "Ich mag Gold.",
+      "Meine Lieblingsfarbe ist Blau. NL Und was ist deine?"
+    ]
+  }
+}

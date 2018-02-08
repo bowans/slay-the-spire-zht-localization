@@ -1,0 +1,257 @@
+{
+  "Game Dictionary": {
+    "UNPLAYABLE": {
+      "NAMES": [
+        "unplayable",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Unplayable cards cannot be played from your hand."
+    },
+    "FIRE": {
+      "NAMES": [
+        "fire",
+        "fired",
+        "DONT TRANSLATE FIRED STUFF",
+        "DONT TRANSLATE FIRED STUFF",
+        "DONT TRANSLATE FIRED STUFF"
+      ],
+      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
+    },
+    "INNATE": {
+      "NAMES": [
+        "innate",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Start each combat with this card in your hand."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "vulnerable",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Vulnerable creatures take #b50% more damage from Attacks."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "frail",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards."
+    },
+    "CURSE": {
+      "NAMES": [
+        "curse",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Curse cards are negative cards that stay in your deck."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transform",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Transformed cards become a random card of any rarity."
+    },
+    "WEAK": {
+      "NAMES": [
+        "weak",
+        "weaken",
+        "weakened",
+        "weakens",
+        ""
+      ],
+      "DESCRIPTION": "Weakened creatures deal #b25% less damage with Attacks."
+    },
+    "STATUS": {
+      "NAMES": [
+        "status",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Status cards are removed at the end of combat."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "strength",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Strength adds additional damage to attacks."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "dexterity",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Dexterity improves Block gained from cards."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "locked",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "This card has yet to be unlocked."
+    },
+    "WOUND": {
+      "NAMES": [
+        "wound",
+        "wounds",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Wounds are unplayable status cards."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "ethereal",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "upgrade",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "exhaust",
+        "exhausted",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Removed until end of combat."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "retain",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Retained cards are not discarded at the end of turn."
+    },
+    "POISON": {
+      "NAMES": [
+        "poison",
+        "poisoned",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "unknown",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "This card has yet to be encountered."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "block",
+        "blocks",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Until next turn, prevents damage."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "strike",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Any card with the word \"Strike\" in its name."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "confused",
+        "",
+        "",
+        "",
+        "praise the snecko!"
+      ],
+      "DESCRIPTION": "Whenever you draw a card, randomize its cost."
+    },
+    "TEXT": [
+      "Energy is used to play cards from your hand."
+    ],
+    "SHIV": {
+      "NAMES": [
+        "shiv",
+        "shivs",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Shivs are #b0 cost Attack cards which Exhaust."
+    },
+    "ARTIFACT": {
+      "NAMES": [
+        "artifact",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Negates the next debuff."
+    }
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "Game Dictionary": {
+    "INNATE": {
+      "NAMES": [
+        "angeboren",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Beginne jeden Kampf mit dieser Karte in deiner Hand."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "verletzlich",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Verletzliche Kreaturen erleiden #b50% mehr Schaden durch Angriffe."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "Stärke",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Stärke lässt Angriffe zusätzlichen Schaden verursachen."
+    },
+    "FIRE": {
+      "NAMES": [
+        "fire",
+        "fired",
+        "DONT TRANSLATE FIRED STUFF",
+        "DONT TRANSLATE FIRED STUFF",
+        "DONT TRANSLATE FIRED STUFF"
+      ],
+      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
+    },
+    "SHIV": {
+      "NAMES": [
+        "Klinge",
+        "Klingen",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Klingen sind #bkostenlose Angriffskarten die bei Benutzung erschöpfen."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "ätherisch",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Wenn diese Karte sich am Ende deines Zuges in deiner Hand befindet wird sie erschöpft. NL Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "verbessern",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Verbessern macht Karten mächtiger. Karten können nur ein mal verbessert werden."
+    },
+    "POISON": {
+      "NAMES": [
+        "gift",
+        "vergiftet",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Vergiftete Kreaturen verlieren zu ihrem Zugbeginn TP. In jedem Zug wird Gift um #b1 reduziert."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "gesperrt",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Diese Karte muss noch freigeschaltet werden."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "unbekannt",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Dieser Karte muss noch begegnet werden."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "unspielbar",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Unspielbare Karten können nicht aus deiner Hand ausgespielt werden."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "Block",
+        "blockt",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Verhindert Schaden bis zum nächsten Zug."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "verwirrt",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "Gepreised sei Snecko!"
+      ],
+      "DESCRIPTION": "Immer wenn du eine Karte ziehst, sind ihre Kosten zufällig."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "Schlag",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Jede Karte mit „Schlag“ in ihrem Namen."
+    },
+    "CURSE": {
+      "NAMES": [
+        "Fluch",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Fluchkarten sind negative Karten, die in deinem Deck bleiben."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transformieren",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Transformierte Karten werden zu einer Karte von zufälliger Seltenheit."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "erschöpfen",
+        "erschöpft",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "behalten",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Behaltene Karten werden am Ende des Zuges nicht abgeworfen."
+    },
+    "STATUS": {
+      "NAMES": [
+        "Status",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Statuskarten werden am Ende des Kampfes entfernt."
+    },
+    "WOUND": {
+      "NAMES": [
+        "Wunde",
+        "Wunden",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Wunden sind unspielbare Statuskarten."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "Geschicklichkeit",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Geschicklichkeit verbessert von Karten erhaltenen Block."
+    },
+    "TEXT": [
+      "Energie wird verwendet, um Karten aus deiner Hand auszuspielen."
+    ],
+    "WEAK": {
+      "NAMES": [
+        "schwach",
+        "schwächen",
+        "geschwächt",
+        "schwächt",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Geschwächte Kreaturen verursachen #b25% weniger Schaden mit Angriffen."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "gebrechlich",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Bist du Gebrechlich, erhältst du #b25% weniger #yBlocken von Karten."
+    },
+    "ARTIFACT": {
+      "NAMES": [
+        "Artifakt",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Negiert den nächsten Debuff."
+    }
+  }
+}

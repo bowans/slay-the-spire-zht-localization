@@ -1,0 +1,103 @@
+{
+  "AchievementGrid": {
+    "NAMES": [
+      "Nimm's gelassen",
+      "Reinheit",
+      "Greif schon an",
+      "Der Pakt",
+      "Adrenalin",
+      "Mächtig",
+      "Gejaxxt",
+      "Unempfindlich",
+      "Verbarrikadiert",
+      "Katalysator",
+      "Seuche",
+      "Ninja",
+      "Unendlichkeit",
+      "Du bist nichts",
+      "Perfekt",
+      "Der Wächter",
+      "Der Geist",
+      "Der Boss",
+      "Der Roboter",
+      "Der Kollektor",
+      "Der Champion",
+      "Die Krähe",
+      "Die Formen",
+      "Der Zeitfresser",
+      "Rubin",
+      "Smaragd",
+      "Versteckt"
+    ],
+    "TEXT": [
+      "Gewinne einen Kampf, in dem dir nur noch 1 TP bleibt.",
+      "Habe 3 Karten oder weniger (alle Karten auf der Hand und in den Aufnahme- und Abwurfstapeln zählen).",
+      "Gewinne einen Kampf, ohne einen Angriff auszuspielen.",
+      "Erschöpfe 20 Karten in einem einzigen Kampf.",
+      "Habe 9 Energie während eines einzigen Zuges eines Kampfes.",
+      "Habe 10 oder mehr Buffs während eines Kampfes.",
+      "Habe 50 oder mehr Stärke während eines Kampfes.",
+      "Habe 99 oder mehr Blocken während eines Kampfes.",
+      "Habe 999 Blocken während eines Kampfes.",
+      "Wende 99 oder mehr Gift auf einen einzigen Gegner an.",
+      "Besiege 3 Gegner mit Gift in einem einzigen Kampf.",
+      "Spiele 10 Klingen in einem einzigen Zug aus.",
+      "Spiele 25 Karten in einem einzigen Zug aus.",
+      "Besiege einen Boss in Zug 1.",
+      "Besiege einen Boss, ohne Schaden zu erleiden.",
+      "Den Wächter besiegt.",
+      "Hexageist besiegt.",
+      "Den Schleimboss besiegt.",
+      "Den Bronzeroboter besiegt.",
+      "Den Kollektor besiegt.",
+      "Den Champ besiegt.",
+      "Den Erweckten besiegt.",
+      "Donu & Deca besiegt.",
+      "Den Zeitfresser besiegt.",
+      "Schließe das Spiel mit dem Eisernen ab.",
+      "Schließe das Spiel mit der Stillen ab.",
+      "Details für diese Errungenschaft werden gezeigt, sobald sie freigeschaltet wurde."
+    ]
+  },
+  "CharStat": {
+    "NAMES": [],
+    "TEXT": [
+      "Spielzeit insgesamt: ",
+      "Siege insgesamt: #y",
+      "Tode insgesamt: #y",
+      "Anzahl insgesamt erklimmter Ebenen: #y",
+      "Anzahl insgesamt erschlagener Bosse: #y",
+      "Anzahl insgesamt erschlagener Gegner: #y",
+      "Anzahl insgesamt verfütterter Kristalle: #y",
+      "Karten entdeckt: #y",
+      "Karten freigeschaltet: #y",
+      "Relikte entdeckt: #y",
+      "Relikte freigeschaltet: #y",
+      "Höchster Aufstieg: #y",
+      "Höchste Daily: #y",
+      "Schnellster Sieg: ",
+      "Sieg über ",
+      ": #gJa NL ",
+      ": #rNein NL ",
+      "Siege: #y",
+      "Tode: #y",
+      "Ebenen erklimmt: #y",
+      "Bosse erschlagen: #y",
+      "Gegner erschlagen: #y",
+      "Beste Siegesserie: #y",
+      "Höchster SCore: #y"
+    ]
+  },
+  "StatsScreen": {
+    "NAMES": [
+      "#yGesamtstatistiken",
+      "#yErrungenschaften",
+      "#rDer #rEiserne",
+      "#gDie #gStille",
+      "#bKrähbot"
+    ],
+    "TEXT": [
+      "Zurück"
+    ]
+  }
+}

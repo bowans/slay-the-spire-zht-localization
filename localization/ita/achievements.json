@@ -1,0 +1,103 @@
+{
+  "AchievementGrid": {
+    "NAMES": [
+      "Spallucce",
+      "Purezza",
+      "Fatti Sotto",
+      "Il Patto",
+      "Adrenalina",
+      "Potente",
+      "Jaxxed",
+      "Impenetrabile",
+      "Barricato",
+      "Catalizzatore",
+      "Peste",
+      "Ninja",
+      "Infinito",
+      "Non Sei Nulla",
+      "Perfetto",
+      "Il Guardiano",
+      "Lo Spettro",
+      "Il Boss",
+      "L'Automa",
+      "Il Collezionista",
+      "Il Campione",
+      "Il Corvo",
+      "Le Forme",
+      "Il Mangiatempo",
+      "Rubino",
+      "Smeraldo",
+      "Nascosto"
+    ],
+    "TEXT": [
+      "Vinci un combattimento con 1 PV rimanente.",
+      "Sbloccato avendo 3 o meno carte considerando mano, Pila e Scarti.",
+      "Vinci un combattimento senza giocare un Attacco.",
+      "Esaurisci 20 carte in un singolo combattimento.",
+      "Ottieni almeno 9 di Energia in un singolo turno.",
+      "Ottieni 10 o più buff in combattimento.",
+      "Ottieni 50 o più di Forza in combattimento.",
+      "Ottieni 99 o più Blocco in combattimento.",
+      "Ottieni 999 Blocco in combattimento.",
+      "Applica almeno 99 Veleno ad un singolo nemico.",
+      "Sconfiggi 3 nemici tramite Veleno in un unico combattimento.",
+      "Gioca 10 Pugnali in un turno.",
+      "Gioca 25 carte in un turno.",
+      "Sconfiggi un boss al primo turno.",
+      "Sconfiggi un boss senza ricevere danni.",
+      "Sconfiggi il Guardiano.",
+      "Sconfiggi Spettragono.",
+      "Sconfiggi il Boss Melma.",
+      "Sconfiggi l'Automa di Bronzo.",
+      "Sconfiggi il Collezionista.",
+      "Sconfiggi il Campione.",
+      "Sconfiggi il Risvegliato.",
+      "Sconfiggi Donu & Deca.",
+      "Sconfiggi il Mangiatempo",
+      "Batti il gioco con l'Ironclad.",
+      "Batti il gioco con la Silent.",
+      "I dettagli su questo obiettivo verrano rivelati quando l'avrai sbloccato."
+    ]
+  },
+  "CharStat": {
+    "NAMES": [],
+    "TEXT": [
+      "Tempo di Gioco: ",
+      "Vittorie: #y",
+      "Morti: #y",
+      "Piani Scalati: #y",
+      "Boss Sconfitti: #y",
+      "Nemici Sconfitti: #y",
+      "Totale Cristalli Offerti: #y",
+      "Carte Trovate: #y",
+      "Carte Sbloccate: #y",
+      "Reliquie Trovate: #y",
+      "Reliquie Sbloccate: #y",
+      "Piano più Alto: #y",
+      "Piano più Alto nella Sfida del Giorno: #y",
+      "Vittora più Veloce: ",
+      "Sconfitto ",
+      ": #gSì NL ",
+      ": #rNo NL ",
+      "Vittorie: #y",
+      "Morti: #y",
+      "Piani Scalati: #y",
+      "Boss Sconfitti: #y",
+      "Nemici Sconfitti: #y",
+      "Migliore Serie di Vittorie: #y",
+      "Punteggio più Alto: #y"
+    ]
+  },
+  "StatsScreen": {
+    "NAMES": [
+      "#yDati #yGenerali",
+      "#yObiettivi",
+      "#rL'Ironclad",
+      "#gLa #gSilent",
+      "#bCrowbot"
+    ],
+    "TEXT": [
+      "Indietro"
+    ]
+  }
+}

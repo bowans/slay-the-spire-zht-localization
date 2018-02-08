@@ -1,0 +1,146 @@
+{
+  "Ironclad": {
+    "NAMES": [
+      "Le Soldat de fer"
+    ],
+    "TEXT": [
+      "Le seul survivant des Soldats de fer. NL Il a vendu son arme en échange de maîtrise des énergies démoniaques."
+    ]
+  },
+  "Crowbot": {
+    "NAMES": [
+      "Corbot"
+    ],
+    "TEXT": [
+      "BIP BOUP"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "La Silencieuse"
+    ],
+    "TEXT": [
+      "Une funeste chasseresse des terres brumeuses. NL Elle annihile ses ennemis à l'aide de dagues et de poisons."
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Salutations...~ NL ~je..~ ~m'appelle~ ~Neow...~",
+      "~Re...~ NL bonjour...~",
+      "~Salutations...~",
+      "~Voulez-vous~ NL ~réessayer... ?~",
+      "~Allez~ ~jusqu'au~ ~boss...~ NL ~pour~ ~recevoir~ ~ma...~ ~bénédiction...~",
+      "~Essayez~ ~au moins...~ ~d'affronter~ NL ~le~ ~premier~ ~boss...~",
+      "~Je~ ~pu~ ~vous~ ~ramener..~",
+      "~Faites un choix...~",
+      "~Je vous bénis...~",
+      "~Des risques...~ NL ~des récompenses...~"
+    ],
+    "OPTIONS": [
+      "[Continuer]",
+      "[Parler]",
+      "[Passer]",
+      "[Partir]"
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gChoisir#gune #gcarte #gà #grécupérer ]",
+      "[ #gRécupérer #gune #gcarte #grare #galéatoire ]",
+      "[ #gRetirer #gune #gcarte #gde #gvotre #gdeck ]",
+      "[ #gAméliorer #gune #gcarte ]",
+      "[ #gTransformer #gune #gcarte ]",
+      "[ #gRécupérer #g3 #gpotions ]",
+      "[ #gRecevoir #gune #gRelique #gordinaire #galéatoire ]",
+      "[ #gPV #gmax #g+",
+      "[ #gRécupérer #g",
+      " #gde #gl'or ]",
+      "#gretirer #g2 #gcartes ]",
+      "#grécupérer #gune #gRelique #grare ]",
+      "#grécupérer #gune #gcarte #grare ]",
+      "#gGagner #g",
+      " #gde #gl'or ]",
+      "#gtransformer #g2 #gcartes ]",
+      "#gPV #gmax #g+",
+      "[ #rPerdre #r",
+      " #rPV #rmax. ",
+      "[ #rPerdre #rtout #rvotre #ror. ",
+      "[ #rObtenir #rune #rMalédiction. ",
+      "[ #rPerdre #r50 % #rde #rvos #rPV #ractuels. ",
+      "Choisir une carte",
+      "Sélectionner une carte à retirer",
+      "Sélectionner 2 cartes à retirer",
+      "Sélectionner une carte à transformer",
+      "Sélectionner 2 cartes à transformer",
+      "Sélectionner une carte à améliorer",
+      "[ #gThe #gnext #g3 #genemies #ghave #g1 #gHP ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rLose #ryour #rstarting #rRelic #gObtain #ga #grandom #gboss #gRelic ]"
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Continuer",
+      "~Bienvenue !~"
+    ],
+    "TEXT": [
+      "Salut ! NL Faites un achat ! NL Achetez, achetez, achetez !",
+      "J'aime bien votre coupe de cheveux.",
+      "Avez-vous l'heure ?",
+      "Vous préférez les chats ou les chiens ?",
+      "Vous avez l'air ~redoutable,~ NL hé hé...",
+      "Prenez votre temps... NL ... NL ... ou pas.",
+      "Vous aimez ce tapis ? NL Il n'est pas à vendre.",
+      "Aidez les petits commerces !",
+      "J'adore les masques !",
+      "Hum... NL ...hum... NL Oh !",
+      "Restez un instant, et écoutez-moi !",
+      "C'est dangereux d'y aller seul ! Donnez-moi tout votre or !",
+      "Achetez quelque chose.",
+      "~*BÂILLE*~",
+      "J'aime l'or.",
+      "Le bleu est ma couleur préférée. NL Et vous ?"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Bienvenue~ NL ~bienvenue !~",
+      "Et non, NL il vous faut NL plus #rd'or.",
+      "Hé, vous n'avez pas #rd'argent !",
+      "Vous êtes à sec ?",
+      "Vous n'avez pas assez #rd'or.",
+      "Vous n'avez pas les moyens.",
+      "Je ne dirige pas une association caritative.",
+      "~Meeeeeeerci~",
+      "Encore une vente... NL oh oh oh ! NL Par ici la monnaie !",
+      "@VENDU !@",
+      "Pas de remboursement.",
+      "Bonne journée à vous.",
+      "Sortir",
+      "Choisir une carte à retirer du deck."
+    ],
+    "TEXT": [
+      "Salut ! NL Faites un achat ! NL Achetez, achetez, achetez !",
+      "J'aime bien votre coupe de cheveux.",
+      "Avez-vous l'heure ?",
+      "Vous préférez les chats ou les chiens ?",
+      "Vous avez l'air ~redoutable,~ NL hé hé...",
+      "Prenez votre temps... NL ... NL ... ou pas.",
+      "Vous aimez ce tapis ? NL Il n'est pas à vendre.",
+      "Aidez les petits commerces !",
+      "J'adore les masques !",
+      "Auriez-vous croisé mon coursier ?",
+      "Restez un instant, et écoutez-moi !",
+      "C'est dangereux d'y aller seul ! Donnez-moi tout votre or !",
+      "Achetez quelque chose.",
+      "~*BÂILLE*~",
+      "J'aime l'or.",
+      "Le bleu est ma couleur préférée. NL Et vous ?"
+    ]
+  }
+}

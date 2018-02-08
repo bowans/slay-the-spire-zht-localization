@@ -1,0 +1,146 @@
+{
+  "Ironclad": {
+    "NAMES": [
+      "L'Ironclad"
+    ],
+    "TEXT": [
+      "L'ultimo soldato Ironclad. NL Ha venduto l'anima per ottenere poteri demoniaci."
+    ]
+  },
+  "Crowbot": {
+    "NAMES": [
+      "Crowbot"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "La Silent"
+    ],
+    "TEXT": [
+      "Una letale cacciatrice dalle terre della nebbia. NL Assassina i nemici con veleno e pugnali."
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Salve...~ NL ~Io..~ ~sono~ ~Neow...~",
+      "~Salve...~ NL ~Di~ ~nuovo..~",
+      "~Saluti...~",
+      "~Un~ ~altro~ NL ~tentativo...?~",
+      "~Raggiungi~ ~il~ ~boss...~ NL ~per~ ~ricevere~ ~la~ ~mia..~ ~benedizione...~",
+      "~Almeno...~ ~affronta~ NL ~il~ ~primo~ ~boss...~",
+      "~Ti~ ~ho~ ~riportato~ ~in~ ~vita...~",
+      "~Scegli...~",
+      "~Conferito...~",
+      "~Rischio...~ NL ~..ricompensa....~"
+    ],
+    "OPTIONS": [
+      "[Continua]",
+      "[Parla]",
+      "[Salta]",
+      "[Esci]"
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gScegli #guna #gCarta #gda #gottenere ]",
+      "[ #gOttieni #guna #gCarta #grara #gcasuale ]",
+      "[ #gRimuovi #guna #gCarta #gdal #gtuo #gmazzo ]",
+      "[ #gPotenzia #guna #gCarta ]",
+      "[ #gTrasforma #guna #gCarta ]",
+      "[ #gOttieni #g3 #gPozioni #gcasuali ]",
+      "[ #gOttieni #guna #gReliquia #gcomune #gcasuale ]",
+      "[ #gPV #gMassimi #g+",
+      "[ #gOttieni #g",
+      " #gOro ]",
+      "#gRimuovi #g2 #gCarte ]",
+      "#gOttieni #guna #gReliquia #grara #gcasuale ]",
+      "#gScegli #guna #gCarta #grara #gda #gottenere ]",
+      "#gOttieni #g",
+      " #gOro ]",
+      "#gTrasforma #g2 #gCarte ]",
+      "#gPV #gMassimi #g+",
+      "[ #rPerdi #r",
+      " #rPV #rmassimi ",
+      "[ #rPerdi #rtutto #rl'Oro ",
+      "[ #rVieni #rMaledetto ",
+      "[ #rPerdi #ril #r50% #rdei #rtuoi #rPV #rattuali ",
+      "Scegli una Carta",
+      "Scegli una Carta da Rimuovere",
+      "Scegli 2 Carte da Rimuovere",
+      "Scegli una Carta da Trasformare",
+      "Scegli 2 Carte da Trasformare",
+      "Scegli una Carta da Potenziare",
+      "[ #gI #gnemici #gnei #gprossimi #gtre #gcombattimenti #gavranno #g1 #gPV ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rPerdi #rla #rReliquia #rIniziale, #gOttieni #guna #gReliquia #gboss #gcasuale ]"
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Procedi",
+      "~Benvenuto!~"
+    ],
+    "TEXT": [
+      "Ciao! NL Compra qualcosa! NL Compra Compra Compra!",
+      "Mi piace il tuo taglio di capelli",
+      "Sai mica che ore sono?",
+      "Preferisci i cani o i gatti?",
+      "Sembri ~pericoloso,~ NL hehe...",
+      "Hai tutto il tempo che vuoi... NL ..... NL ... o no",
+      "Ti piace questo tappeto? NL Non è in vendita",
+      "Sostieni i piccoli imprenditori!",
+      "Le maschere vanno di moda, io lo so!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Rimani un attimo ed ascolta!",
+      "È pericoloso viaggiare da soli! Dammi tutti i tuoi soldi!",
+      "Compra qualcosa",
+      "~*YAWN*~",
+      "Adoro l'oro.",
+      "Il mio colore preferito è il blu. NL Qual è il tuo invece?"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Hey!~ NL ~Ciao!~",
+      "Hey senti, NL hai bisogno NL di più #rOro.",
+      "Hey amico, non hai #rSoldi!",
+      "Sei al verde?",
+      "Non hai abbastanza #rOro.",
+      "Non te lo puoi permettere.",
+      "Non faccio beneficenza.",
+      "~Graaaaazie~",
+      "Un'altra vendita... NL hohoho! NL Cha - @Ching!@",
+      "@VENDUTO!@",
+      "Nessun Rimborso.",
+      "Abbi una buona giornata.",
+      "Prosegui",
+      "Scegli una carta da rimuovere dal tuo mazzo."
+    ],
+    "TEXT": [
+      "Ciao! NL Compra qualcosa! NL Compra Compra Compra!",
+      "Mi piace il tuo taglio di capelli",
+      "Sai mica che ore sono?",
+      "Preferisci i cani o i gatti?",
+      "Sembri ~pericoloso,~ NL hehe...",
+      "Hai tutto il tempo che vuoi... NL ..... NL ... oppure no",
+      "Ti piace questo tappeto? NL Non è in vendita",
+      "Sostieni i piccoli imprenditori!",
+      "Le maschere vanno di moda, io lo so!",
+      "Hai mica visto il mio corriere?",
+      "Rimani un attimo ed ascolta!",
+      "È pericoloso andare da soli! Dammi tutti i tuoi soldi!",
+      "Compra qualcosa",
+      "~*YAWN*~",
+      "Adoro l'oro.",
+      "Il mio colore preferito è il blu. NL Tu quale preferisci invece?"
+    ]
+  }
+}

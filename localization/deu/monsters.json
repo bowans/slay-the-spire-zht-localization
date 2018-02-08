@@ -1,0 +1,651 @@
+{
+  "Apology Slime": {
+    "MOVES": [],
+    "NAME": "Entschuldigungsschleim",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "CorruptHeart": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Verdorbenes Herz",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Nemesis": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Nemesis",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Chosen": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Auserwählter",
+    "DIALOG": [
+      "~Leide …~"
+    ]
+  },
+  "Byrd": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Fogl",
+    "DIALOG": [
+      "@KRÄCHZ!@ NL @KRÄÄÄCHZ@",
+      "Betäubt …"
+    ]
+  },
+  "Snecko": {
+    "MOVES": [
+      "Verwirrendes Blenden",
+      "Rutenschlag",
+      "Biss"
+    ],
+    "NAME": "Snecko",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinWizard": {
+    "MOVES": [
+      "Laden",
+      "Ultimativer Stoß"
+    ],
+    "NAME": "Gremlinzauberer",
+    "DIALOG": [
+      "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@ ",
+      "Wird geladen!",
+      "~Jetzt~ ~geht’s~ ~los!!~",
+      "@Ich …@ @bekomme …@ NL @Hilfe …!@",
+      "~Zu …~ NL ~gefährlich …~ NL ~Tschüss …~"
+    ]
+  },
+  "BanditChild": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Pointy",
+    "DIALOG": [
+      "Bääääär!!!!"
+    ]
+  },
+  "Orb Walker": {
+    "MOVES": [
+      "Verstärken"
+    ],
+    "NAME": "Kugelwandler",
+    "DIALOG": [
+      "Initiiere NL Schilde."
+    ]
+  },
+  "TheGuardian": {
+    "MOVES": [
+      "Defensivmodus",
+      "Erbitterter Hieb",
+      "Einrollen",
+      "Zwillingsschlag",
+      "Wirbelwind",
+      "Aufladen",
+      "Dampf ablassen"
+    ],
+    "NAME": "Der Wächter",
+    "DIALOG": [
+      "#b~… AB…~ NL #b~…KÜHLEN …~",
+      "Verteidigen …",
+      "#r@ZERSTÖREN@ NL #r@ZERSTÖREN@ NL #r@ZERSTÖREN@",
+      "#r@GEFAHR@ NL #r@GEFAHR@ NL #r@GEFAHR@"
+    ]
+  },
+  "TheGuardianOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "GremlinWarrior": {
+    "MOVES": [
+      "Kralle"
+    ],
+    "NAME": "Wütender Gremlin",
+    "DIALOG": [
+      "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@ ",
+      "@Ich@ @hole@ NL @Hilfe!@",
+      "Ich bin weg!"
+    ]
+  },
+  "GremlinThief": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Schleichender Gremlin",
+    "DIALOG": [
+      "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@ ",
+      "@Ich@ @werde@ NL @Hilfe@ @holen@ @gehen!@ ",
+      "@Was@ @zum …?!@"
+    ]
+  },
+  "Cultist": {
+    "MOVES": [
+      "",
+      "",
+      "Zauberformel"
+    ],
+    "NAME": "Kultist",
+    "DIALOG": [
+      "@MEINE@ @MACHT@ @IST@ NL @OHNEGLEICHEN!@",
+      "@DU@ @GEHÖRST@ @NICHT@ NL @HIERHER!@",
+      "~Meine~ ~Macht~ NL ~war~ ~doch~ ~nicht~ ~ohnegleichen …~"
+    ]
+  },
+  "FlameBruiser": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Flammenschläger",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinLeader": {
+    "MOVES": [
+      "Versammeln!"
+    ],
+    "NAME": "Gremlinanführer",
+    "DIALOG": [
+      "Gib niemals auf!",
+      "Wir sind noch nicht fertig!",
+      "Schnappt ihn euch, Jungs!",
+      "@Rückzug@ NL @Rückzuuug!@",
+      "@Lauuuuuuuft!@"
+    ]
+  },
+  "Centurion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Zenturio",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GiantHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Riesenkopf",
+    "DIALOG": [
+      "~Es~ ~ist~ ~Zeit~",
+      "~Auf~ ~Wiedersehen~",
+      "~Tick~ ~Tack~ NL ~Tick~ ~Tack~",
+      "~Wieso~ ~bist~ ~du~ NL ~noch~ ~hier?~"
+    ]
+  },
+  "BanditBear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bär",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BanditLeader": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Romeo",
+    "DIALOG": [
+      "Leg los, Bär!!",
+      "Dafür wirst du bezahlen!!",
+      "Neiiiiiiin, Bär!"
+    ]
+  },
+  "SpikeSlime_M": {
+    "MOVES": [
+      "Lecken"
+    ],
+    "NAME": "Stachelschleim (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_S": {
+    "MOVES": [],
+    "NAME": "Stachelschleim (K)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Mugger": {
+    "MOVES": [
+      "Ausfallschritt",
+      "Ausrauben"
+    ],
+    "NAME": "Straßenräuber",
+    "DIALOG": [
+      "Her damit!",
+      "Ich bin weg!"
+    ]
+  },
+  "TimeEater": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Zeitfresser",
+    "DIALOG": [
+      "~Ah …~ NL ~… Gesellschaft …~",
+      "~Töricht …~ NL @TÖRICHT!@"
+    ]
+  },
+  "TheCollector": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Der Kollektor",
+    "DIALOG": [
+      "@Du@ @gehörst@ @mir!@"
+    ]
+  },
+  "TorchHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Fackelkopf",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_M": {
+    "MOVES": [
+      "Ätzende Spucke",
+      "Lecken"
+    ],
+    "NAME": "Säureschleim (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_S": {
+    "MOVES": [],
+    "NAME": "Säureschleim (K)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SnakePlant": {
+    "MOVES": [
+      "Schwächende Sporen"
+    ],
+    "NAME": "Schlangenpflanze",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Champ": {
+    "MOVES": [
+      "Defensivhaltung",
+      "Hinrichten",
+      "Schlag ins Gesicht"
+    ],
+    "NAME": "Der Champ",
+    "DIALOG": [
+      "Das nennst du eine Waffe?",
+      "Greif schon an!",
+      "Gib alles! NL @HAHAHA!@",
+      "Komm schon, schlag zu! NL Nutzloser Schwächling!",
+      "~Jetzt~ ~hast~ ~du~ ~es~ ~geschafft …~",
+      "@EINE NIEDERLAGE??@ NL @UNMÖGLICH!!@",
+      "~STIRB~ ~.~ ~.~ ~.~",
+      "Spüre meinen Zorn!"
+    ]
+  },
+  "Exploder": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Explodierer",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FungiBeast": {
+    "MOVES": [
+      "Wachsen"
+    ],
+    "NAME": "Pilzbestie",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Spiker": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Stachler",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Zuchtmeister",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Repulsor": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Repulsor",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Looter": {
+    "MOVES": [
+      "Ausfallschritt",
+      "Ausrauben"
+    ],
+    "NAME": "Plünderer",
+    "DIALOG": [
+      "Gib mir dein Gold!",
+      "@NEIIiiiin!@",
+      "Wo ist meine Rauchbombe … Lass mal hier sehen …",
+      "Danke für das Geld, hehe"
+    ]
+  },
+  "Sentry": {
+    "MOVES": [
+      "Zerfallen"
+    ],
+    "NAME": "Wache",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "MOVES": [
+      "Speichelnetz"
+    ],
+    "NAME": "Laus",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "MOVES": [
+      "Wachsen"
+    ],
+    "NAME": "Laus",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Puppeteer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Puppenspieler",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Shelled Parasite": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Gepanzerter Parasit",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bronzeorb",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Hexaghost": {
+    "MOVES": [
+      "Entflammen",
+      "Versengen",
+      "Inferno"
+    ],
+    "NAME": "Hexageist",
+    "DIALOG": []
+  },
+  "HexaghostBody": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "HexaghostOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "SlaverRed": {
+    "MOVES": [
+      "Kratzen",
+      "Verwickeln"
+    ],
+    "NAME": "Sklavenhändler",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBlue": {
+    "MOVES": [
+      "Harken"
+    ],
+    "NAME": "Sklavenhändler",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlimeBoss": {
+    "MOVES": [
+      "Zuschlagen",
+      "Vorbereiten",
+      "Spalten",
+      "Klebriger Nebel"
+    ],
+    "NAME": "Schleimboss",
+    "DIALOG": [
+      "~Schleim …~ NL #r~ZERSCHMETTERN!!!~",
+      "Unterbrochen!"
+    ]
+  },
+  "AcidSlime_L": {
+    "MOVES": [
+      "Ätzende Spucke",
+      "Spalten",
+      "Lecken"
+    ],
+    "NAME": "Säureschleim (G)",
+    "DIALOG": [
+      "Unterbrochen!"
+    ]
+  },
+  "GremlinTsundere": {
+    "MOVES": [
+      "Beschützen",
+      "Schildstoß"
+    ],
+    "NAME": "Schildgremlin",
+    "DIALOG": [
+      "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@ ",
+      "~Auf~ ~Wiedersehen …~",
+      "Das nützt nichts …"
+    ]
+  },
+  "Lagavulin": {
+    "MOVES": [
+      "Seele aussaugen"
+    ],
+    "NAME": "Lagavulin",
+    "DIALOG": [
+      "Betäubt!",
+      "… NL ……",
+      "…? NL ……?!",
+      "@!!!@ NL @?!!!@"
+    ]
+  },
+  "JawWorm": {
+    "MOVES": [
+      "Brüllen",
+      "Dreschen"
+    ],
+    "NAME": "Kieferwurm",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Donu": {
+    "MOVES": [
+      "Machtkreis"
+    ],
+    "NAME": "Donu",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Serpent": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Giftschlange",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeAutomaton": {
+    "MOVES": [
+      "HYPERSTRAHL"
+    ],
+    "NAME": "Bronzeroboter",
+    "DIALOG": [
+      "Betäubt!"
+    ]
+  },
+  "Healer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Mystikerin",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinFat": {
+    "MOVES": [
+      "Zerschmettern"
+    ],
+    "NAME": "Fetter Gremlin",
+    "DIALOG": [
+      "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@",
+      "Ich hole meinen #rgroßen #rBruder!",
+      "@Oh@ @nein,@ NL @oh@ @nein,@ NL @oH@ @NEIN!@"
+    ]
+  },
+  "Deca": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Deca",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BookOfStabbing": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Buch des Stechens",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AwakenedOne": {
+    "MOVES": [
+      "Seelenschlag",
+      "Dunkles Echo",
+      "Reinigung",
+      "Schlamm"
+    ],
+    "NAME": "Der Erweckte",
+    "DIALOG": [
+      "~Grr~ ~.~ ~.~ ~.~",
+      "~Nein~ ~.~ ~.~ ~.~ ~nein~ ~.~ ~.~ NL ~.~ ~.~ ~nein~ ~.~ ~.~ ~.~"
+    ]
+  },
+  "SpikeSlime_L": {
+    "MOVES": [
+      "Lecken",
+      "Spalten"
+    ],
+    "NAME": "Stachelschleim (G)",
+    "DIALOG": [
+      "Unterbrochen!"
+    ]
+  },
+  "FireOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Feuerorb",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SphericGuardian": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sphärischer Wächter",
+    "DIALOG": [
+      "~Außenseiter~ NL ~aufgespürt~"
+    ]
+  },
+  "Darkling": {
+    "MOVES": [
+      "Mampf! Mampf!"
+    ],
+    "NAME": "Dunkeling",
+    "DIALOG": [
+      "Nachwachsen …"
+    ]
+  },
+  "Maw": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Der Schlund",
+    "DIALOG": [
+      "@RRrrohrrRGHhh!!@"
+    ]
+  },
+  "GremlinNob": {
+    "MOVES": [
+      "Schädelstoß",
+      "Bullenangriff"
+    ],
+    "NAME": "Gremlin-Aristo",
+    "DIALOG": [
+      "@RRrroohrrRGHHhhh!!@"
+    ]
+  }
+}

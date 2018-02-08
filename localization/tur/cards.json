@@ -1,0 +1,869 @@
+{
+  "Grand Finale": {
+    "NAME": "Büyük Final",
+    "DESCRIPTION": "Dağıtma yığınında kart yoksa oynanabilir. NL TÜM düşmanlara !D! hasar ver .",
+    "UPGRADE_DESCRIPTION": "Dağıtma yığınım NL #rBoş olmalı."
+  },
+  "Immolate": {
+    "NAME": "Kurban Et",
+    "DESCRIPTION": "1 kartı Tüket. Eğer seçilen kart Durum veya #gLanetse, TÜM düşmanlara !D! hasar ver."
+  },
+  "Regret": {
+    "NAME": "Pişmanlık",
+    "DESCRIPTION": "Oynanamaz. NL Turun sonunda elinde her bir kart için 1 HP kaybet."
+  },
+  "Crippling Poison": {
+    "NAME": "Kötürüm Zehir",
+    "DESCRIPTION": "!M! Zehirle. NL !M! Zayıflat."
+  },
+  "A Thousand Cuts": {
+    "NAME": "Binlerce Kesik",
+    "DESCRIPTION": "Kart oynadığında, TÜM düşmanlara !M! hasar ver."
+  },
+  "Spot Weakness": {
+    "NAME": "Zayıflık Noktası",
+    "DESCRIPTION": "Eğer düşmanın saldırma niyeti varsa, !M! Kuvvet kazan."
+  },
+  "Wound": {
+    "NAME": "Yara",
+    "DESCRIPTION": "Oynanamaz."
+  },
+  "Writhe": {
+    "NAME": "Kıvranma",
+    "DESCRIPTION": "Oynanamaz. NL İlk el."
+  },
+  "Dark Shackles": {
+    "NAME": "Koyu Kelepçeler",
+    "DESCRIPTION": "Düşman bu turun sonuna kadar !M! Kuvvet kaybeder. NL Tüken."
+  },
+  "Glass Knife": {
+    "NAME": "Cam Bıçak",
+    "DESCRIPTION": "2 kez !D! hasar ver. Cam Bıçak'ın hasarı bu dövüş boyunca 2 düşer."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Pelerin ve Hançer",
+    "DESCRIPTION": "!B! Blok kazan. NL Eline !M! Sustalı ekle.",
+    "UPGRADE_DESCRIPTION": "!B! Blok kazan. NL Eline !M! Sustalı ekle."
+  },
+  "Underhanded Strike": {
+    "NAME": "Saklı Vuruş",
+    "DESCRIPTION": "Oynanamaz. NL Eğer bu kart elinizden atılırsa, rastgele bir düşmana !D! hasar ver.",
+    "EXTENDED_DESCRIPTION": [
+      "Bu kartı oynayamam."
+    ]
+  },
+  "Anger": {
+    "NAME": "Hiddet",
+    "DESCRIPTION": " !D! hasar ver. NL Atılanlar yığınına bu kartın bir kopyasını yerleştir."
+  },
+  "Storm of Steel": {
+    "NAME": "Çelik Fırtınası",
+    "DESCRIPTION": "Elini tamamen at. NL Atılan her bir kart için 1 Sustalı ekle.",
+    "UPGRADE_DESCRIPTION": "Elindeki kartları at. NL Atılan her kart için eline 1 Geliştirilmiş Sustalı ekle."
+  },
+  "Cleave": {
+    "NAME": "Yar",
+    "DESCRIPTION": "Tüm düşmanara !D! hasar ver."
+  },
+  "Inflame": {
+    "NAME": "Alevlen",
+    "DESCRIPTION": " !M! Kuvvet kazan."
+  },
+  "Wraith Form": {
+    "NAME": "Hayalet Formu",
+    "DESCRIPTION": "Ne zaman yetenek oynarsan, rastgele bir düşmana !M! hasar ver."
+  },
+  "Sadistic Nature": {
+    "NAME": "Sadistik Tabiat",
+    "DESCRIPTION": "Ne zaman düşmana Debuff uygularsan, 4 hasar alırlar."
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "3 HP kaybet. NL 3 Kuvvet kazan. NL Tüken."
+  },
+  "Offering": {
+    "NAME": "Adak",
+    "DESCRIPTION": "4 HP kaybet. NL [R] [R] kazan. NL !M! kart çek. NL Tüken."
+  },
+  "Exhume": {
+    "NAME": "Canlandır",
+    "DESCRIPTION": "Tükenmiş bir kart seç, eline al. NL Tüken."
+  },
+  "Power Through": {
+    "NAME": "Delici Güç",
+    "DESCRIPTION": "Eline 2 Yara ekle. NL !B! Blok Kazan."
+  },
+  "Dual Wield": {
+    "NAME": "Çift Kullan",
+    "DESCRIPTION": "Elindeki Saldırı veya Güç kartının kopyasını oluştur.",
+    "UPGRADE_DESCRIPTION": "Elindeki Saldırı veya Güç Kartının 2 kopyasını oluştur."
+  },
+  "Deadly Poison": {
+    "NAME": "Ölümcül Zehir",
+    "DESCRIPTION": " !M! Zehirle."
+  },
+  "Leg Sweep": {
+    "NAME": "Ayağını Kaydır",
+    "DESCRIPTION": " !M! Zayıflat. NL !B! Blok kazan."
+  },
+  "Flex": {
+    "NAME": "Esne",
+    "DESCRIPTION": " !M! Kuvvet kazan. NL Turunun sonunda, !M! Kuvvet kaybet."
+  },
+  "Dagger Spray": {
+    "NAME": "Hançer Spreyi",
+    "DESCRIPTION": "Tüm düşmanlara iki kez !D! hasar ver."
+  },
+  "Bullet Time": {
+    "NAME": "Kurşun Zamanı",
+    "DESCRIPTION": "Bu tur başka kart çekemezsin. Bu tur için elindeki kartların enerjisini 0'a düşür."
+  },
+  "Catalyst": {
+    "NAME": "Katalizör",
+    "DESCRIPTION": "Düşmanın Zehrini ikiye katla. NL Tüken.",
+    "UPGRADE_DESCRIPTION": "Düşmanın Zehrini üçe katla. NL Tüken."
+  },
+  "Reaper": {
+    "NAME": "Can Alıcı",
+    "DESCRIPTION": "Tüm düşmanlara !D! hasar ver. Bloklanmamış hasar kadar can doldur. NL Tüken."
+  },
+  "Shiv": {
+    "NAME": "Sustalı",
+    "DESCRIPTION": " !D! hasar ver. NL Tüken."
+  },
+  "Tactician": {
+    "NAME": "Taktikçi",
+    "DESCRIPTION": "Oynanamaz. NL Eğer bu kart elinden atılırsa, [G] kazan.",
+    "UPGRADE_DESCRIPTION": "Oynanamaz. NL Eğer bu kart elinden atılırsa, [G] [G] kazan.",
+    "EXTENDED_DESCRIPTION": [
+      "Bu kartı oynayamam."
+    ]
+  },
+  "Bane": {
+    "NAME": "Felaket",
+    "DESCRIPTION": " !D! hasar ver. NL Eğer düşman Zehirlenmişse, tekrar !D! hasar ver."
+  },
+  "Infernal Blade": {
+    "NAME": "Şeytani Kılıç",
+    "DESCRIPTION": "Eline rastgele bir Saldırı kartı ekle. NL Bu tur enerjisi 0 olacak. NL Tüken."
+  },
+  "After Image": {
+    "NAME": "Sonraki Resim",
+    "DESCRIPTION": "Ne zaman kart oynarsan 1 Blok kazan.",
+    "UPGRADE_DESCRIPTION": "İlk el. NL Ne zaman kart oynarsan 1 Blok kazan."
+  },
+  "Unload": {
+    "NAME": "Yük Boşalt",
+    "DESCRIPTION": " !D! hasar ver. NL TÜM saldırı olmayan kartları elinden at."
+  },
+  "Blade Dance": {
+    "NAME": "Kılıç Dansı",
+    "DESCRIPTION": "Eline !M! Sustalı ekle."
+  },
+  "Deflect": {
+    "NAME": "Saptır",
+    "DESCRIPTION": " !B! Blok kazan."
+  },
+  "Trip": {
+    "NAME": "Çelme Tak",
+    "DESCRIPTION": " !M! Yarala.",
+    "UPGRADE_DESCRIPTION": "TÜM düşmanları !M! Yarala."
+  },
+  "Dagger Throw": {
+    "NAME": "Hançer At",
+    "DESCRIPTION": " !D! hasar ver. NL 1 kart çek. NL 1 kart at."
+  },
+  "Brutality": {
+    "NAME": "Vahşilik",
+    "DESCRIPTION": "Turunun başında, 1 HP kaybet ve 1 kart çek.",
+    "UPGRADE_DESCRIPTION": "İlk el. NL Turunun başında, 1 HP kaybet ve 1 kart çek."
+  },
+  "Iron Wave": {
+    "NAME": "Demir Dalga",
+    "DESCRIPTION": " !B! Blok kazan. NL !D! hasar ver."
+  },
+  "Reckless Charge": {
+    "NAME": "Bedel Umursamaz",
+    "DESCRIPTION": "1 Yaralan. NL !D! hasar ver."
+  },
+  "Decay": {
+    "NAME": "Çürüme",
+    "DESCRIPTION": "Oynanamaz. NL Turunun sonunda 2 hasar al."
+  },
+  "Tools of the Trade": {
+    "NAME": "Tüccarlık Araçları",
+    "DESCRIPTION": "Turunun başında, 1 kart çek ve 1 kart at."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Dramatik Giriş",
+    "DESCRIPTION": "İlk el. NL !D! TÜM düşmanlara hasar ver. NL Tüken."
+  },
+  "Hemokinesis": {
+    "NAME": "Kan Büken",
+    "DESCRIPTION": " !M! HP kaybet. NL !D! hasar ver."
+  },
+  "Intimidate": {
+    "NAME": "Gözünü Korkut",
+    "DESCRIPTION": "Tüm düşmanları !M! zayıflat. NL Tüken."
+  },
+  "Necronomicurse": {
+    "NAME": "Necronomilaneti",
+    "DESCRIPTION": "Oynanamaz. NL Bu Lanetten kaçış yok."
+  },
+  "Choke": {
+    "NAME": "Boğ",
+    "DESCRIPTION": " !D! hasar ver. NL Bu tur ne zaman kart oynarsan, hedeflenen düşman !M! HP kaybeder."
+  },
+  "Juggernaut": {
+    "NAME": "Juggernaut",
+    "DESCRIPTION": "Ne zaman Blok kazanırsan, rastgele bir düşmana !M! hasar ver."
+  },
+  "Caltrops": {
+    "NAME": "Çivili Zırh",
+    "DESCRIPTION": "Saldırıldığında, saldırana !M! hasar ver."
+  },
+  "Poisoned Stab": {
+    "NAME": "Zehirli Bıçak",
+    "DESCRIPTION": " !D! hasar ver. NL !M! Zehirle."
+  },
+  "Blur": {
+    "NAME": "Blur",
+    "DESCRIPTION": " !B! Blok kazan. NL Blok sıradaki turun başlangıcında silinmez."
+  },
+  "Body Slam": {
+    "NAME": "Vücutla Çarp",
+    "DESCRIPTION": "Blok'un kadar hasar ver.",
+    "UPGRADE_DESCRIPTION": " NL ( !D! hasar verir.)"
+  },
+  "True Grit": {
+    "NAME": "Gerçek Cesaret",
+    "DESCRIPTION": " !B! Blok kazan. NL Elindeki rastgele bir kartı tüket.",
+    "UPGRADE_DESCRIPTION": " !B! Blok kazan. NL Elindeki bir kartı tüket."
+  },
+  "Setup": {
+    "NAME": "Kurulum",
+    "DESCRIPTION": "Elindeki bir kartı dağıtma yığınına koy. NL Oynana kadar enerjisi 0 olacak."
+  },
+  "Blood for Blood": {
+    "NAME": "Kan için Kan",
+    "DESCRIPTION": "Dövüşte HP kaybettiğin her seferde NL 1 [R] azalır. NL !D! hasar ver."
+  },
+  "Impervious": {
+    "NAME": "Vurdumduymaz",
+    "DESCRIPTION": " !B! Blok kazan. NL Tüken."
+  },
+  "Shrug It Off": {
+    "NAME": "Omzunu Silk",
+    "DESCRIPTION": " !B! Blok kazan. NL 1 kart çek."
+  },
+  "Clash": {
+    "NAME": "Çarpışma",
+    "DESCRIPTION": "Elindeki tüm kartlar Saldırı kartıysa oyananabilir. NL !D! hasar ver.",
+    "EXTENDED_DESCRIPTION": [
+      "Elimde saldırı olmayan kartlar var."
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Gök Gürültüsü",
+    "DESCRIPTION": " !D! hasar ver ve TÜM düşmanlara 1 Savunmasızlık uygula."
+  },
+  "Flame Barrier": {
+    "NAME": "Alev Bariyeri",
+    "DESCRIPTION": " !B! Blok kazan. NL Bu tur her ne zaman saldırılırsan, saldırana !M! hasar ver. "
+  },
+  "Endless Agony": {
+    "NAME": "Bitmeyen Izdırap",
+    "DESCRIPTION": "Bu kartı ne zaman çekersen, eline bir kopyasını ekle. NL !D! hasar ver. NL Tüket."
+  },
+  "Berserk": {
+    "NAME": "Çılgına Dön",
+    "DESCRIPTION": "Eğer HP'n %50 veya altındaysa, her turun başında [R] kazan."
+  },
+  "Pummel": {
+    "NAME": "Yumrukla",
+    "DESCRIPTION": " !M! kere !D! hasar ver. NL Tüken."
+  },
+  "Riddle With Holes": {
+    "NAME": "Delikli Bilmece",
+    "DESCRIPTION": "5 kere !D! hasar ver."
+  },
+  "Burning Pact": {
+    "NAME": "Yanan Sözleşme",
+    "DESCRIPTION": "1 kart tüket. NL !M!  kart çek."
+  },
+  "Metallicize": {
+    "NAME": "Metalleş",
+    "DESCRIPTION": "Kendi turundan sonra !M! Blok kazan."
+  },
+  "Pommel Strike": {
+    "NAME": "Yumruk At",
+    "DESCRIPTION": " !D! hasar ver. NL !M! kart çek.",
+    "UPGRADE_DESCRIPTION": " !D! hasar. NL !M! kart çek."
+  },
+  "Pain": {
+    "NAME": "Pain",
+    "DESCRIPTION": "Oynanamaz. NL Elindeyken oynanan diğer kart için, NL 1 HP kaybet."
+  },
+  "Burst": {
+    "NAME": "Patlama",
+    "DESCRIPTION": "Bu tur, sıradaki Yeteneğin iki kez oynanır.",
+    "UPGRADE_DESCRIPTION": "Bu tur, sıradaki !M! Yeteneğin iki kez oynanır."
+  },
+  "Acrobatics": {
+    "NAME": "Akrobasi",
+    "DESCRIPTION": " !M! kart çek. NL 1 kart at."
+  },
+  "Blind": {
+    "NAME": "Kör Et",
+    "DESCRIPTION": "2 Zayıflatma uygular.",
+    "UPGRADE_DESCRIPTION": "TÜM düşmanları !M! Zayıflat."
+  },
+  "Doppelganger": {
+    "NAME": "Tıpatıp Aynı",
+    "DESCRIPTION": "Sıradaki tur, X kart çek ve X [G] kazan. NL Tüken.",
+    "UPGRADE_DESCRIPTION": "Sıradaki tur, X+1 kart çek ve X+1 [G] kazan. NL Tüken."
+  },
+  "Skewer": {
+    "NAME": "Şişle",
+    "DESCRIPTION": "Tüm [G] 'ni harca. NL X kere !D! hasar ver."
+  },
+  "Envenom": {
+    "NAME": "Zehir Kat",
+    "DESCRIPTION": "Bloklanmayan her Saldırı için, 1 Zehirle."
+  },
+  "Adrenaline": {
+    "NAME": "Adrenalin",
+    "DESCRIPTION": " [G] Kazan. NL 2 kart çek. NL Tüken.",
+    "UPGRADE_DESCRIPTION": " [G] [G] Kazan. NL 2 kart çek. NL Tüken."
+  },
+  "Quick Slash": {
+    "NAME": "Hızlıca Kes",
+    "DESCRIPTION": " !D! hasar ver. NL 1 kart çek."
+  },
+  "Twin Strike": {
+    "NAME": "Çift Vuruş",
+    "DESCRIPTION": "İki kez !D! hasar ver."
+  },
+  "Parasite": {
+    "NAME": "Parazit",
+    "DESCRIPTION": "Oynanamaz. NL Eğer desteden değiştirilir veya silinirse, Maksimum HP'niz 3 azalır."
+  },
+  "Bash": {
+    "NAME": "Darbe",
+    "DESCRIPTION": " !D! hasar ver. NL !M! Yarala."
+  },
+  "Clothesline": {
+    "NAME": "Çamaşır İpi",
+    "DESCRIPTION": " !D! hasar ver. NL !M! Zayıflat."
+  },
+  "Shockwave": {
+    "NAME": "Şok Dalgası",
+    "DESCRIPTION": "TÜM düşmanları !M! Zayıflat ve Yarala. NL Tüken."
+  },
+  "Rampage": {
+    "NAME": "Sataş",
+    "DESCRIPTION": " !D! hasar ver. NL Bu kart her oynandığında, hasarını bu dövüş için !M! artır."
+  },
+  "Bandage Up": {
+    "NAME": "Bandajlan",
+    "DESCRIPTION": " !M! iyileş. NL Tüken."
+  },
+  "The Bomb": {
+    "NAME": "Bomba",
+    "DESCRIPTION": "Herkese !D! hasar ver (kendin de dahil). NL Tüken."
+  },
+  "Sever Soul": {
+    "NAME": "Ayrı Ruh",
+    "DESCRIPTION": "Elindeki tüm saldırı olmayan kartları tüket. NL !D! hasar ver."
+  },
+  "Whirlwind": {
+    "NAME": "Kasırga",
+    "DESCRIPTION": "Tüm [R] harca. NL TÜM düşmanlara X kere !D! hasar ver."
+  },
+  "Warcry": {
+    "NAME": "Savaş Çığlığı",
+    "DESCRIPTION": " !M! kart çek. NL Elindeki bir kartı dağıtma yığının üstüne koy. NL Tüken.",
+    "UPGRADE_DESCRIPTION": " !M! kart çek. NL Elindeki bir kartı dağıtma yığının üstüne koy. NL Tüken."
+  },
+  "PiercingWail": {
+    "NAME": "İçe İşleyen Ağıt",
+    "DESCRIPTION": "TÜM düşmanlar 1 tur için !M! Kuvvet kaybeder. NL Tüken."
+  },
+  "Bite": {
+    "NAME": "Isır",
+    "DESCRIPTION": " !D! hasar ver. NL !M! HP iyileş."
+  },
+  "Secret Technique": {
+    "NAME": "Gizli Teknik",
+    "DESCRIPTION": "Dağıtma yığınından bir Yetenek seç eline yerleştir. NL Tüken.",
+    "UPGRADE_DESCRIPTION": "Dağıtma yığınından bir Yetenek seç eline yerleştir.",
+    "EXTENDED_DESCRIPTION": [
+      "Dağıtma yığınımda Yetenek yok."
+    ]
+  },
+  "Calculated Gamble": {
+    "NAME": "Hesaplanmış Kumar",
+    "DESCRIPTION": "Elindeki kartları at, NL attığın kadar kart çek. NL Tüken.",
+    "UPGRADE_DESCRIPTION": "Elindeki kartları at, NL attığın kadar kart çek."
+  },
+  "Combust": {
+    "NAME": "Yanık",
+    "DESCRIPTION": "Turundan sonra, 1 HP kaybet ve TÜM düşmanlara !M! hasar ver."
+  },
+  "Deep Breath": {
+    "NAME": "Derin Nefes",
+    "DESCRIPTION": "Atma yığındaki kartları dağıtma yığınına karıştır. NL !M! kart çek.",
+    "UPGRADE_DESCRIPTION": "Atma yığındaki kartları dağıtma yığınına karıştır. NL !M! kart çek."
+  },
+  "Doubt": {
+    "NAME": "Şüphe",
+    "DESCRIPTION": "Oynanmaz. NL Turundan sonra 1 Zayıflık edinirsin."
+  },
+  "Escape Plan": {
+    "NAME": "Kaçış Planı",
+    "DESCRIPTION": "1 kart çek. NL Eğer kart Yetenek ise !B! Blok kazan."
+  },
+  "Finisher": {
+    "NAME": "Bitirici",
+    "DESCRIPTION": "Bu tur oynanan her Saldırı için !D! hasar ver.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Oynadığın ",
+      " Saldırı var.)",
+      " Saldırı var.)"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Koyu Kucaklama",
+    "DESCRIPTION": "Her ne zaman bir kart tüketilirse, NL 1 kart çek."
+  },
+  "Die Die Die": {
+    "NAME": "Öl Öl Öl",
+    "DESCRIPTION": "TÜM düşmanlara !D! hasar ver. NL Tüken."
+  },
+  "Well Laid Plans": {
+    "NAME": "İyi İşlenmiş Plan",
+    "DESCRIPTION": "Turunun sonunda !M! karta kadar kartı elinde tut.",
+    "UPGRADE_DESCRIPTION": "Turunun sonunda !M! karta kadar kartı elinde tut."
+  },
+  "Defend_R": {
+    "NAME": "Savun",
+    "DESCRIPTION": " !B! Blok kazan."
+  },
+  "Defend_G": {
+    "NAME": "Savun",
+    "DESCRIPTION": " !B! Blok kazan."
+  },
+  "Defend_B": {
+    "NAME": "Savun",
+    "DESCRIPTION": " !B! Blok kazan."
+  },
+  "Seeing Red": {
+    "NAME": "Kızıl Görüş",
+    "DESCRIPTION": " [R] [R] kazan. NL Tüken."
+  },
+  "Disarm": {
+    "NAME": "Silahsızlandır",
+    "DESCRIPTION": "Düşman !M! Kuvvet kaybeder. NL Tüken."
+  },
+  "Panache": {
+    "NAME": "Gösteriş",
+    "DESCRIPTION": "Tek bir turda 5 kart kart oynadığın her seferinde, TÜM düşmanlara !M! hasar ver."
+  },
+  "Fiend Fire": {
+    "NAME": "Şeytani Ateş",
+    "DESCRIPTION": "Elini tüket. NL Her bir tüketilen kart için !D! hasar ver. NL Tüken."
+  },
+  "Terror": {
+    "NAME": "Terör",
+    "DESCRIPTION": "99 Yarala. NL Tüken."
+  },
+  "Dazed": {
+    "NAME": "Afallamış",
+    "DESCRIPTION": "Oynanamaz. NL Ruhani."
+  },
+  "Barricade": {
+    "NAME": "Barikat",
+    "DESCRIPTION": "Artır Blok turunuzun başında yok olmaz"
+  },
+  "Armaments": {
+    "NAME": "Silahlan",
+    "DESCRIPTION": " !B! Blok kazan. NL Dövüş sonuna kadar elindeki bir kartı geliştir.",
+    "UPGRADE_DESCRIPTION": " !B! Blok kazan. NL Dövüş sonuna kadar elindeki TÜM kartları geliştir."
+  },
+  "Havoc": {
+    "NAME": "Tahribat",
+    "DESCRIPTION": "Dağıtma yığınında en üstteki kartı oyna ve tüket."
+  },
+  "Secret Weapon": {
+    "NAME": "Gizli Silah",
+    "DESCRIPTION": "Dağıtma yığınından bir Saldırı seç ve eline yerleştir. NL Tüken.",
+    "UPGRADE_DESCRIPTION": "Dağıtma yığınından bir Saldırı seç ve eline yerleştir.",
+    "EXTENDED_DESCRIPTION": [
+      "Dağıtma yığınımda NL Saldırı yok."
+    ]
+  },
+  "Apotheosis": {
+    "NAME": "Yücelt",
+    "DESCRIPTION": "Dövüşün sonuna kadar TÜM kartlarını geliştir. NL Tüken."
+  },
+  "Feel No Pain": {
+    "NAME": "Acı Hissetme",
+    "DESCRIPTION": "Ne zaman kart tüketilirse, NL !M! Blok kazan."
+  },
+  "Hide": {
+    "NAME": "Saklan",
+    "DESCRIPTION": "Sıraki turun başlangıcına kadar HP kaybetmezsin. NL Tüken."
+  },
+  "Corruption": {
+    "NAME": "Bozulma",
+    "DESCRIPTION": "Yeteneklerin enerjisi 0 olur. NL Ne zaman Yenek oynarsan, tüketilir."
+  },
+  "Heel Hook": {
+    "NAME": "Toğunu Kıstır",
+    "DESCRIPTION": " !D! hasar ver. NL Eğer düşman Zayıflatılmışsa, NL [G] kazan ve NL 1 kart çek."
+  },
+  "Injury": {
+    "NAME": "Sakatlanma",
+    "DESCRIPTION": "Oynanamaz."
+  },
+  "Rage": {
+    "NAME": "Öfke",
+    "DESCRIPTION": "Bu tur ne zaman Saldırı oynarsan !M! Blok kazan."
+  },
+  "Headbutt": {
+    "NAME": "Kafa At",
+    "DESCRIPTION": " !D! hasar ver. NL Atma yığınından bir kartı Dağıtma yığınının en üstüne koy."
+  },
+  "Limit Break": {
+    "NAME": "Limitleri Aş",
+    "DESCRIPTION": "Gücünü ikiye katla. NL Tüken.",
+    "UPGRADE_DESCRIPTION": "Gücünü ikiye katla."
+  },
+  "Entrench": {
+    "NAME": "Sağlamlaştır",
+    "DESCRIPTION": "Şu anki Blok'unu ikiye katla.",
+    "UPGRADE_DESCRIPTION": "Şu anki Blok'unu ikiye katla."
+  },
+  "Noxious Fumes": {
+    "NAME": "Zehirli Gaz",
+    "DESCRIPTION": "Turunun başında, TÜM düşmanları !M! Zehirle."
+  },
+  "Infinite Blades": {
+    "NAME": "Sonsuz Kılıç",
+    "DESCRIPTION": "Turunun başında eline Sustalı ekle.",
+    "UPGRADE_DESCRIPTION": "İlk el. NL Turunun başında eline Sustalı ekle."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Hayali Katil",
+    "DESCRIPTION": "Sıradaki turunda, Saldırı hasarını ikiye katla."
+  },
+  "Malaise": {
+    "NAME": "Keyifsiz",
+    "DESCRIPTION": "Tüm [G] harca. NL Düşman X Kuvvet kaybeder. X Zayılar. NL Tüken.",
+    "UPGRADE_DESCRIPTION": "Tüm [G] harca. NL Düşman X+1 Kuvvet kaybeder. X+1 Zayılar. NL Tüken."
+  },
+  "Reflex": {
+    "NAME": "Refleks",
+    "DESCRIPTION": "Oynanamaz. NL Eğer bu kart elinden atılırsa, !M! kart çek.",
+    "UPGRADE_DESCRIPTION": "Oynanamaz. NL Eğer bu kart elinden atılırsa, !M! kart çek.",
+    "EXTENDED_DESCRIPTION": [
+      "Bu kartı oynayamam."
+    ]
+  },
+  "Sentinel": {
+    "NAME": "Nöbetçi",
+    "DESCRIPTION": " !B! Blok kazan. NL Eğer bu kart tüketilirse, NL [R] [R] kazan.",
+    "UPGRADE_DESCRIPTION": "!B! Blok kazan. NL Eğer bu kart tüketilirse, NL [R] [R] [R] kazan."
+  },
+  "Survivor": {
+    "NAME": "Hayatta Kalan",
+    "DESCRIPTION": " !B! Blok kazan. NL Bir kart at."
+  },
+  "Wild Strike": {
+    "NAME": "Vahşi Vuruş",
+    "DESCRIPTION": " !D! hasar ver. NL Dağıtma yığınına bir Yara karıştır."
+  },
+  "Eviscerate": {
+    "NAME": "İç Temizlik",
+    "DESCRIPTION": "Bu tur her atılan kart için NL enerjisi 1 [G] azalır. NL Üç kere !D! hasar ver."
+  },
+  "Flash of Steel": {
+    "NAME": "Çelik Işıltısı",
+    "DESCRIPTION": " !D! hasar ver. NL 1 kart çek."
+  },
+  "Battle Trance": {
+    "NAME": "Transa Geç",
+    "DESCRIPTION": " !M! kart çek. NL Bu tur daha fazla kart çekemezsiniz."
+  },
+  "Heavy Blade": {
+    "NAME": "Ağır Kılıç",
+    "DESCRIPTION": " !D! hasar ver. NL Kuvvet Ağır Kılıç'ı !M! kez etkiler."
+  },
+  "Clumsy": {
+    "NAME": "Sakar",
+    "DESCRIPTION": "Oynanamaz. NL Ruhani."
+  },
+  "Searing Blow": {
+    "NAME": "Yakıcı Darbe",
+    "DESCRIPTION": " !D! hasar ver. NL İstediğiniz kadar geliştirilebilir."
+  },
+  "Corpse Explosion": {
+    "NAME": "Ceset Patlaması",
+    "DESCRIPTION": "Düşman tüm Zehiri kaybeder. TÜM düşmanlara kaybedilen Zehirin 2 katı kadar hasar ver.",
+    "UPGRADE_DESCRIPTION": "Düşman tüm Zehiri kaybeder. TÜM düşmanlara kaybedilen Zehirin 3 katı kadar hasar ver.",
+    "EXTENDED_DESCRIPTION": [
+      "Bu düşman zehirlenmemiş."
+    ]
+  },
+  "Second Wind": {
+    "NAME": "İkinci Rüzgar",
+    "DESCRIPTION": "Tüm Saldırı olmayan kartları tüket ve her biri için !B! Blok kazan."
+  },
+  "Enlightenment": {
+    "NAME": "Aydınlanma",
+    "DESCRIPTION": "Elindeki bir kartların enerjisini bu tur boyunca 1'e düşür.",
+    "UPGRADE_DESCRIPTION": "Elindeki kartların enerjisini dövüşün sonuna kadar 1'e düşür."
+  },
+  "Purity": {
+    "NAME": "Arınma",
+    "DESCRIPTION": " !M! karta kadar Seç ve Tüket. NL Tüken."
+  },
+  "Panacea": {
+    "NAME": "Her Derde Deva",
+    "DESCRIPTION": " !M! Dokunulmazlık kazan. NL Tüken."
+  },
+  "Dash": {
+    "NAME": "İleriye Hamle",
+    "DESCRIPTION": " !B! Blok kazan. NL !D! hasar ver."
+  },
+  "Transmutation": {
+    "NAME": "Mutasyonla Dönüş",
+    "DESCRIPTION": "Eline X tane rastgele renksiz kart ekle. NL Tüken.",
+    "UPGRADE_DESCRIPTION": "Eline X tane rastgele geliştirilmiş renksiz kart ekle. NL Tüken."
+  },
+  "Backstab": {
+    "NAME": "Arkadan Bıçakla",
+    "DESCRIPTION": " !D! hasar ver. NL İlk el. NL Tüken."
+  },
+  "Step Through Time": {
+    "NAME": "Zamanlar Arası Adım",
+    "DESCRIPTION": "ENERJİ: 2 Yük. NL HP'n geçen turdaki değerine döner. NL Tüken."
+  },
+  "Feed": {
+    "NAME": "Beslen",
+    "DESCRIPTION": " !D! hasar ver. NL Eğer bu kart minyon olmayan düşmanı öldürürse, !M! kalıcı Maksimum HP kazan. Tüken."
+  },
+  "Rupture": {
+    "NAME": "Yırtılma",
+    "DESCRIPTION": "Ne zaman bir karttan HP kaybedersen, NL 1 Kuvvet kazan."
+  },
+  "Venomology": {
+    "NAME": "Simya",
+    "DESCRIPTION": "Rastgele bir iksir kazan. NL Tüken."
+  },
+  "Bouncing Flask": {
+    "NAME": "Zıplayan Şişe",
+    "DESCRIPTION": "Rastgele bir düşmanı !M! kere 3 Zehirle."
+  },
+  "Bludgeon": {
+    "NAME": "Sopala",
+    "DESCRIPTION": " !D! hasar ver."
+  },
+  "Finesse": {
+    "NAME": "Ustalık",
+    "DESCRIPTION": " !B! Blok kazan. NL 1 kart çek."
+  },
+  "Slice": {
+    "NAME": "Dilimle",
+    "DESCRIPTION": " !D! hasar ver."
+  },
+  "Backflip": {
+    "NAME": "Ters Takla",
+    "DESCRIPTION": " !B! Blok kazan. NL 2 kart çek."
+  },
+  "Outmaneuver": {
+    "NAME": "Taktiksel Üstünlük",
+    "DESCRIPTION": "Sıradaki tür NL [G] [G] kazan.",
+    "UPGRADE_DESCRIPTION": "Sıradaki tur NL [G] [G] [G] kazan."
+  },
+  "Night Terror": {
+    "NAME": "Kabus",
+    "DESCRIPTION": "Kart seç. NL Sıradaki tur, bu kartın !M! kopyasını eline yerleştir. Tüken.",
+    "EXTENDED_DESCRIPTION": [
+      "Her tur yalnızca NL ",
+      " NL bir kez oynayabilirim."
+    ]
+  },
+  "Bloodletting": {
+    "NAME": "Katliam",
+    "DESCRIPTION": " [R] kazan. NL 3 HP kaybet.",
+    "UPGRADE_DESCRIPTION": " [R] [R] kazan. NL 3 HP kaybet."
+  },
+  "Concentrate": {
+    "NAME": "Konsantre Ol",
+    "DESCRIPTION": " !M! kart at. NL [G] [G] kazan."
+  },
+  "Master of Strategy": {
+    "NAME": "Strateji Ustası",
+    "DESCRIPTION": "4 kart çek. NL Tüken."
+  },
+  "Flechettes": {
+    "NAME": "Dart Oku",
+    "DESCRIPTION": "Elindeki her Yetenek için !D! hasar ver.",
+    "EXTENDED_DESCRIPTION": [
+      " NL ( ",
+      " Yeteneğin var).",
+      " Yeteneğin var)."
+    ]
+  },
+  "Perfected Strike": {
+    "NAME": "Kusursuz Vuruş",
+    "DESCRIPTION": " !D! hasar ver. NL Destedeki her \"Vuruş\" için Ek olarak +2 hasar verir.",
+    "UPGRADE_DESCRIPTION": " !D! hasar ver. NL Destedeki her \"Vuruş\" için Ek olarak +3 hasar verir."
+  },
+  "Carnage": {
+    "NAME": "Katliam",
+    "DESCRIPTION": "Ruhani. NL !D! hasar ver."
+  },
+  "Masterful Stab": {
+    "NAME": "Ustaca Bıçakla",
+    "DESCRIPTION": "Elinde başka kart yoksa oynanabilir. NL !D! hasar ver.",
+    "UPGRADE_DESCRIPTION": "Bu elimdeki tek kart olmalı."
+  },
+  "Good Instincts": {
+    "NAME": "Kuvvetli İçgüdü",
+    "DESCRIPTION": " !B! Blok kazan."
+  },
+  "Prepared": {
+    "NAME": "Hazırlıklı",
+    "DESCRIPTION": " !M! kart çek. NL !M! kart at.",
+    "UPGRADE_DESCRIPTION": " !M! kart çek. NL !M! kart at."
+  },
+  "Dropkick": {
+    "NAME": "Düşerken Tekmele",
+    "DESCRIPTION": " !D! hasar ver. NL Eğer düşman Yaralıysa, NL [R] kazan ve NL 1 kart çek."
+  },
+  "Swift Strike": {
+    "NAME": "Hızlı Vuruş",
+    "DESCRIPTION": " !D! hasar ver."
+  },
+  "Normality": {
+    "NAME": "Olağan",
+    "DESCRIPTION": "Oynanamaz. NL Bu tur 3'ten fazla kart oynayamazsın.",
+    "EXTENDED_DESCRIPTION": [
+      "Bu tur en fazla NL #r3 kart oynayabilirim.",
+      "Oynanamaz. NL ",
+      "ten fazla kart oynayamazsın.",
+      "ten fazla kart oynayamazsın. NL Bu tur ",
+      " kart oynadın."
+    ]
+  },
+  "Accuracy": {
+    "NAME": "İsabet",
+    "DESCRIPTION": "Sustalılar !M! ek hasar verir."
+  },
+  "Sword Boomerang": {
+    "NAME": "Bomerang Kılıç",
+    "DESCRIPTION": "Rastgele bir düşmana !M! kere !D! hasar ver."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Takasların Valesi",
+    "DESCRIPTION": "Eline rastgele, renksiz 2 kart ekle. NL Tüken."
+  },
+  "Demon Form": {
+    "NAME": "Şeytani Form",
+    "DESCRIPTION": "Her turun başında, !M! Kuvvet kazan."
+  },
+  "Fire Breathing": {
+    "NAME": "Ateş Nefes",
+    "DESCRIPTION": "Turunun sonunda, oynanan her Saldırı için TÜM düşmanlara 1 hasar ver."
+  },
+  "Ghostly Armor": {
+    "NAME": "Hayalet Zırh",
+    "DESCRIPTION": "Ruhani. NL !B! Blok kazan."
+  },
+  "Uppercut": {
+    "NAME": "Aparkat",
+    "DESCRIPTION": " !D! hasar ver. NL !M! Zayıflat. NL !M! Yarala."
+  },
+  "Mind Blast": {
+    "NAME": "Akıl Dağıtan",
+    "DESCRIPTION": "Dağıtma yığınındaki kart sayısı kadar hasar ver.",
+    "UPGRADE_DESCRIPTION": "İlk el. Dağıtma yığınındaki kart sayısı kadar hasar ver.",
+    "EXTENDED_DESCRIPTION": [
+      " NL ( !D! hasar verir. )"
+    ]
+  },
+  "Neutralize": {
+    "NAME": "Etkisizleştir",
+    "DESCRIPTION": " !D! hasar ver. NL !M! Zayıflat."
+  },
+  "Strike_R": {
+    "NAME": "Vuruş",
+    "DESCRIPTION": " !D! hasar ver."
+  },
+  "Strike_G": {
+    "NAME": "Vuruş",
+    "DESCRIPTION": " !D! hasar ver."
+  },
+  "Strike_B": {
+    "NAME": "Vuruş",
+    "DESCRIPTION": " !D! hasar ver."
+  },
+  "Evolve": {
+    "NAME": "Evrim",
+    "DESCRIPTION": "Dağıtma yığınına 2 Yara karıştır. NL Ne zaman Yara çekersen, !M! kart çek.",
+    "UPGRADE_DESCRIPTION": "Dağıtma yığınına 2 Yara karıştır. NL Ne zaman Yara çekersen, !M! kart çek."
+  },
+  "Burn": {
+    "NAME": "Yanık",
+    "DESCRIPTION": "Oynanamaz. NL Turunun sonunda 2 hasar al.",
+    "UPGRADE_DESCRIPTION": "Oynanamaz. NL Turunun sonunda 4 hasar al."
+  },
+  "Sucker Punch": {
+    "NAME": "Beklenmedik Yumruk",
+    "DESCRIPTION": " !D! hasar ver. NL !M! Zayıflat."
+  },
+  "Double Tap": {
+    "NAME": "Çift Dokunuş",
+    "DESCRIPTION": "Bu tur, sıradaki Saldırı 2 kez oynanır.",
+    "UPGRADE_DESCRIPTION": "Bu tur, sıradaki !M! Saldırı iki kez oynanır."
+  },
+  "Footwork": {
+    "NAME": "Ayak İşleri",
+    "DESCRIPTION": " !M! Beceri kazan."
+  },
+  "Thinking Ahead": {
+    "NAME": "İleriyi Düşün",
+    "DESCRIPTION": "2 kart çek, elinden bir kartı dağıtma yığınının en üstüne koy. NL Tüken",
+    "UPGRADE_DESCRIPTION": "2 kart çek, elinden bir kartı dağıtma yığınının en üstüne koy."
+  },
+  "Distraction": {
+    "NAME": "Dikkat Dağıtan",
+    "DESCRIPTION": "Eline rastgele bir Yetenek ekle. NL Enerjisi bu tur 0 olacak. NL Tüken."
+  },
+  "Dodge and Roll": {
+    "NAME": "Atla ve Yuvarlan",
+    "DESCRIPTION": " !B! Blok kazan. NL Sıradaki tur !B! Blok kazan."
+  },
+  "All Out Attack": {
+    "NAME": "Topyekün Saldırı",
+    "DESCRIPTION": "TÜM düşmanlara !D! hasar ver. NL Sıradaki tur 1 kart az çek."
+  },
+  "Flying Knee": {
+    "NAME": "Uçan Diz",
+    "DESCRIPTION": " !D! hasar ver. NL Sıradaki tur [G] kazan."
+  },
+  "Predator": {
+    "NAME": "Yırtıcı",
+    "DESCRIPTION": " !D! hasar ver. NL Sıradaki tur fazladan 2 kart daha çek."
+  },
+  "Madness": {
+    "NAME": "Delilik",
+    "DESCRIPTION": "Elindeki rastgele bir kartın enerjisi dövüşün sonuna kadar 0 olur. NL Tüken."
+  },
+  "Expertise": {
+    "NAME": "Ekspertiz",
+    "DESCRIPTION": "Elinde !M! olana kadar kart çek."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "Ancient Potion": {
+    "NAME": "古代のポーション",
+    "DESCRIPTIONS": [
+      "#yアーティファクト #b",
+      " を得る。"
+    ]
+  },
+  "Block Potion": {
+    "NAME": "ブロックポーション",
+    "DESCRIPTIONS": [
+      "#yブロック #b",
+      " を得る。"
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "機敏ポーション",
+    "DESCRIPTIONS": [
+      "#y敏捷性 #b",
+      " を得る。"
+    ]
+  },
+  "Elixir": {
+    "NAME": "エリクサー",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "手札の #y呪い と #y状態異常 を 全て #y廃棄 する。",
+      "",
+      "効果がなかった..."
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "エナジーポーション",
+    "DESCRIPTIONS": [
+      "#yエナジー #b",
+      " を得る。"
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "爆発ポーション",
+    "DESCRIPTIONS": [
+      "ダメージ #b",
+      " を与える（敵全体）。"
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "火炎ポーション",
+    "DESCRIPTIONS": [
+      "ダメージ #b",
+      " を与える。"
+    ]
+  },
+  "Health Potion": {
+    "NAME": "回復ポーション",
+    "DESCRIPTIONS": [
+      "HP #b",
+      " を回復。"
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "毒ポーション",
+    "DESCRIPTIONS": [
+      "#y毒 #b",
+      " を与える。"
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "ポーションスロット",
+    "DESCRIPTIONS": [
+      "戦闘中にポーションを使用して #gボーナス 効果を得たり敵の #r妨害 をする。",
+      "ポーションスロット"
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "再生ポーション",
+    "DESCRIPTIONS": [
+      "ターン終了時、 #yHP #b",
+      " 回復。 #b",
+      " ターン有効）。"
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "筋力ポーション",
+    "DESCRIPTIONS": [
+      "#y筋力 #b",
+      " を得る。"
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "加速ポーション",
+    "DESCRIPTIONS": [
+      "",
+      "カードを #b",
+      " 枚を引く。"
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "脱力ポーション",
+    "DESCRIPTIONS": [
+      "#y脱力 #b",
+      " を与える。"
+    ]
+  }
+}

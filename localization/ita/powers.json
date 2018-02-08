@@ -1,0 +1,776 @@
+{
+  "Absorb": {
+    "NAME": "Absorb",
+    "DESCRIPTIONS": [
+      "Whenever attacked, gain #b",
+      " Charge."
+    ]
+  },
+  "Accuracy": {
+    "NAME": "Precisione",
+    "DESCRIPTIONS": [
+      "I #yPugnali infliggono #b",
+      " danni addizionali."
+    ]
+  },
+  "After Image": {
+    "NAME": "Immagine Residua",
+    "DESCRIPTIONS": [
+      "Ogni volta che giochi una carta, ottieni #b",
+      " #yBlocco."
+    ]
+  },
+  "Anger": {
+    "NAME": "Furente",
+    "DESCRIPTIONS": [
+      "Ogni volta che giochi una #yAbilità, ottiene #b",
+      " #yForza."
+    ]
+  },
+  "Angry": {
+    "NAME": "Arrabbiato",
+    "DESCRIPTIONS": [
+      "Ogni volta che ",
+      " riceve danno da #yAttacchi, ottiene #b",
+      " #yForza."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Artefatto",
+    "DESCRIPTIONS": [
+      "Nega #b",
+      " debuff.",
+      " debuff."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Brucia Attacchi",
+    "DESCRIPTIONS": [
+      "Per #b",
+      " turno, quando giochi un #yAttacco lo #yEsaurisci.",
+      "Per i prossimi #b",
+      " turni, quando giochi un #yAttacco lo #yEsaurisci."
+    ]
+  },
+  "Barricade": {
+    "NAME": "Barricata",
+    "DESCRIPTIONS": [
+      "Il #yBlocco non è rimosso all'inizio del tuo turno.",
+      "Il #yBlocco non è rimosso all'inizio del turno."
+    ]
+  },
+  "Blur": {
+    "NAME": "Sfocato",
+    "DESCRIPTIONS": [
+      "Il #yBlocco non verrà rimosso all'inizio del tuo prossimo turno.",
+      "Il #yBlocco non verrà rimosso all'inizio dei tuoi prossimi #b",
+      " turni."
+    ]
+  },
+  "Brutality": {
+    "NAME": "Brutale",
+    "DESCRIPTIONS": [
+      "All'inizio del tuo turno, perdi #b",
+      " PV e pesca #b",
+      " carta.",
+      "All'inizio del tuo turno, perdi #b",
+      " PV e pesca #b",
+      " carte."
+    ]
+  },
+  "Burst": {
+    "NAME": "Guizzo",
+    "DESCRIPTIONS": [
+      "Per questo turno, gioca la tua prossima #yAbilità due volte.",
+      "Per questo turno, gioca le tue prossime ",
+      " #yAbilità due volte."
+    ]
+  },
+  "Choked": {
+    "NAME": "Soffocato",
+    "DESCRIPTIONS": [
+      "Perde #b",
+      " PV ogni volta che giochi una carta questo turno."
+    ]
+  },
+  "Combust": {
+    "NAME": "Combustione",
+    "DESCRIPTIONS": [
+      "Alla fine del tuo turno, perdi #b",
+      " PV ed infliggi #b",
+      " danni a TUTTI i nemici."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Confuso",
+    "DESCRIPTIONS": [
+      "Ogni volta che peschi una carta, il suo costo cambia in maniera casuale."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Costretto",
+    "DESCRIPTIONS": [
+      "Alla fine del tuo turno ricevi #b",
+      " danni."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Corruzione",
+    "DESCRIPTIONS": [
+      "Le Abilità costano #b0. Ogni volta che giochi una #yAbilità, #yEsauriscila.",
+      "Ogni volta che giochi una #yAbilità, #yEsauriscila."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Curiosità",
+    "DESCRIPTIONS": [
+      "Ogni volta che giochi un #yPotere, guadagna #b",
+      " #yForza."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "A Riccio",
+    "DESCRIPTIONS": [
+      "Ogni volta che un #yAttacco gli fa danno, si appallottola e guadagna ",
+      " #yBlocco. (Una volta per combattimento)"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "Dance Puppet",
+    "DESCRIPTIONS": [
+      "Whenever you play a non-Skill card, take #b",
+      " damage. (Card type changes each turn)",
+      "Whenever you play a non-Attack card, take #b",
+      "+1 Dance Puppet"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Abbraccio Oscuro",
+    "DESCRIPTIONS": [
+      "Ogni volta che una carta viene #yEsaurita, pesca #b1 carta",
+      "Ogni volta che una carta viene #yEsaurita, pesca #b",
+      " carte."
+    ]
+  },
+  "Darkness": {
+    "NAME": "Oscurità",
+    "DESCRIPTIONS": [
+      "Ottieni #b1 Energia in meno all'inizio del tuo turno."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Forma Demoniaca",
+    "DESCRIPTIONS": [
+      "All'inizio del tuo turno, ottieni #b",
+      " #yForza."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Destrezza",
+    "DESCRIPTIONS": [
+      "Aumenta il #yBlocco ottenuto dalle carte di #b",
+      "Riduce il #yBlocco ottenuto dalle carte di #b"
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Danno Doppio",
+    "DESCRIPTIONS": [
+      "Gli #yAttacchi lanciati infliggeranno danno doppio per #b",
+      " turno.",
+      " turni."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Doppio Attacco",
+    "DESCRIPTIONS": [
+      "Giocherai il tuo prossimo #yAttacco due volte in questo turno.",
+      "Questo turno, gioca i tuoi prossimi ",
+      " #yAttacchi due volte."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Più Carte",
+    "DESCRIPTIONS": [
+      "Pesca #b",
+      " carte il prossimo turno.",
+      " carta il prossimo turno."
+    ]
+  },
+  "Draw": {
+    "NAME": "Pesca",
+    "DESCRIPTIONS": [
+      "Pesca #b",
+      " carta addizionale all'inizio di ogni turno.",
+      " carta in meno all'inizio di ogni turno.",
+      " carte addizionali all'inizio di ogni turno.",
+      " carte in meno all'inizio di ogni turno."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Meno Carte",
+    "DESCRIPTIONS": [
+      "Pesca #b",
+      " carta in meno il prossimo turno.",
+      " carte in meno il prossimo turno."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Pesca Ridotta",
+    "DESCRIPTIONS": [
+      "Pesca #b1 carta in meno il prossimo turno.",
+      "Pesca #b1 carta in meno per #b",
+      " turni."
+    ]
+  },
+  "Electric Field": {
+    "NAME": "Electric Field",
+    "DESCRIPTIONS": [
+      "When attacked, deal #b1 damage for every #b",
+      " Charge you have.",
+      "When attacked, deal #b1 damage for every Charge you have."
+    ]
+  },
+  "Energized": {
+    "NAME": "Supercarica",
+    "DESCRIPTIONS": [
+      "Ottieni #b",
+      " [G] addizionale il prossimo turno.",
+      " [G] addizionali il prossimo turno.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Intrappolato",
+    "DESCRIPTIONS": [
+      "Non puoi giocare #yAttacchi per un turno."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Velenoso",
+    "DESCRIPTIONS": [
+      "Quando infliggi danno da #yAttacco non bloccato, applica #b",
+      " #yVeleno."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Evoluzione",
+    "DESCRIPTIONS": [
+      "Ogni volta che peschi una #yFerita, pesca una carta.",
+      "Ogni volta che peschi una #yFerita, pesca #b",
+      " carte."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Esplosivo",
+    "DESCRIPTIONS": [
+      "Quando muore, ti infligge #b",
+      " danni."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Nessun Dolore",
+    "DESCRIPTIONS": [
+      "Ogni volta che una carta viene #yEsaurita, ottieni #b",
+      " #yBlocco."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Sputafuoco",
+    "DESCRIPTIONS": [
+      "A fine del tuo turno, infliggi infliggi #b",
+      " danni a TUTTI i nemici per ogni attacco giocato nel turno."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Barriera di Fuoco",
+    "DESCRIPTIONS": [
+      "Ogni volta che ricevi danni da #yAttacco, infliggi #b",
+      " danni indietro."
+    ]
+  },
+  "Flight": {
+    "NAME": "In Volo",
+    "DESCRIPTIONS": [
+      "Riduce il danno ricevuto da #yAttacchi del #b50%. Annullato se infliggi danno da #yAttacchi #b3 volte in un turno."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Annulla Attacco",
+    "DESCRIPTIONS": [
+      "#yBlocca completamente un #Attacco ogni turno."
+    ]
+  },
+  "Frail": {
+    "NAME": "Fragile",
+    "DESCRIPTIONS": [
+      "Ottieni il #b25% di #yBlocco in meno dalle carte per #b",
+      " turno.",
+      " turni."
+    ]
+  },
+  "Shackled": {
+    "NAME": "Incatenato",
+    "DESCRIPTIONS": [
+      "Riacquista #b",
+      " #yForza alla fine del suo turno."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Gambit",
+    "DESCRIPTIONS": [
+      "After #b",
+      " turn, gain ",
+      " turns, gain ",
+      " [B] ."
+    ]
+  },
+  "Generator": {
+    "NAME": "Generator",
+    "DESCRIPTIONS": [
+      "At the start of each turn, gain #b",
+      " #yCharge."
+    ]
+  },
+  "Hex": {
+    "NAME": "Maleficio",
+    "DESCRIPTIONS": [
+      "Quando giochi una carta non-Attacco, mescola #b",
+      " #yDisorientato nella tua pila della pesca."
+    ]
+  },
+  "Hide": {
+    "NAME": "Nascosto",
+    "DESCRIPTIONS": [
+      "Non puoi ricevere danno fino all'inizio del tuo prossimo turno.",
+      "Non puoi ricevere danno per #b",
+      " turni."
+    ]
+  },
+  "Impulse": {
+    "NAME": "Impulse",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " Charge."
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Lame Infinite",
+    "DESCRIPTIONS": [
+      "All'inizio del tuo turno, pesca #b",
+      " #yPugnali.",
+      " #yPugnale."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Tempo Dilatato",
+    "DESCRIPTIONS": [
+      "Il costo d'energia delle carte nella tua mano è #b0."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Intangibile",
+    "DESCRIPTIONS": [
+      "TUTTO il danno e i PV persi vengono ridotti a #b1 per i prossimi #b",
+      " turni.",
+      "TUTTO il danno e i PV persi saranno ridotti a #b1 il prossimo turno."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Inverted",
+    "DESCRIPTIONS": [
+      "Immune to damage. Whenever you gain #yBlock, loses that much HP."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Colosso",
+    "DESCRIPTIONS": [
+      "Ogni volta che ottieni #yBlocco, infliggi #b",
+      " danni ad un nemico casuale."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Conoscenza",
+    "DESCRIPTIONS": [
+      "Ogni volta che giochi un #yPotere, pesca #b",
+      " carte."
+    ]
+  },
+  "Flex": {
+    "NAME": "Flessione",
+    "DESCRIPTIONS": [
+      "Alla fine del tuo turno, perdi #b",
+      " #yForza."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Malleabile",
+    "DESCRIPTIONS": [
+      "Quando riceve danno da #yAttacchi, ottiene #b",
+      " #yBlocco. Ogni volta che ",
+      " si attiva, ottiene più blocco. Questo valore torna #b",
+      " all'inizio del tuo turno."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Metallizzato",
+    "DESCRIPTIONS": [
+      "Ottieni #b",
+      " #yBlocco alla fine del tuo turno.",
+      "Ottiene #b",
+      " #yBlocco alla fine del suo turno."
+    ]
+  },
+  "Minion": {
+    "NAME": "Minion",
+    "DESCRIPTIONS": [
+      "I Minion abbandonano il combattimento se il loro leader muore."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Cambio di Modalità",
+    "DESCRIPTIONS": [
+      "Dopo aver ricevuto #b",
+      " danni, passa in modalità difensiva."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Blocco Futuro",
+    "DESCRIPTIONS": [
+      "All'inizio del tuo prossimo turno, ottieni #b",
+      " #yBlocco."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Incubo",
+    "DESCRIPTIONS": [
+      "All'inizio del tuo prossimo turno, aggiungi #b",
+      " alla tua mano."
+    ]
+  },
+  "No Draw": {
+    "NAME": "Non Peschi",
+    "DESCRIPTIONS": [
+      "Non puoi pescare carte fino alla fine del turno."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Miasma",
+    "DESCRIPTIONS": [
+      "All'inizio del tuo turno, applica #b",
+      " #yVeleno a TUTTI i nemici."
+    ]
+  },
+  "Panache": {
+    "NAME": "Portamento",
+    "DESCRIPTIONS": [
+      "Se giochi #b",
+      " carta in più questo turno, infliggi #b",
+      " danni a TUTTI i nemici.",
+      " carte in più questo turno, infliggi #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Pennino",
+    "DESCRIPTIONS": [
+      "Il tuo prossimo #yAttacco infliggerà danno doppio."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Etereo",
+    "DESCRIPTIONS": [
+      "Infliggi #yDoppio #yDanno il prossimo turno.",
+      "Infliggi #yDoppio #yDanno per i prossimi ",
+      " turni."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Armatura a Piastre",
+    "DESCRIPTIONS": [
+      "Ottieni #b",
+      " #yBlocco alla fine del tuo turno. Perdere PV da un attacco riduce #yArmatura a Piastre di #b1.",
+      "Ottiene #b",
+      " #yBlocco alla fine del suo turno. Perdere PV da un attacco riduce #yArmatura a Piastre di #b1."
+    ]
+  },
+  "Poison": {
+    "NAME": "Veleno",
+    "DESCRIPTIONS": [
+      "All'inizio del tuo turno, perdi #b",
+      " PV, ed il #yVeleno viene ridotto di #b1.",
+      "All'inizio del suo turno, perde #b"
+    ]
+  },
+  "Rage": {
+    "NAME": "Collera",
+    "DESCRIPTIONS": [
+      "Ogni volta che giochi un Attacco questo turno, ottieni #b",
+      " #yBlocco."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Riduci Danni",
+    "DESCRIPTIONS": [
+      "Riduce i danni ricevuti di #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Rigenera",
+    "DESCRIPTIONS": [
+      "Si cura di #b",
+      " #yPV alla fine del suo turno."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Rigenerazione",
+    "DESCRIPTIONS": [
+      "Curati di #b",
+      " #yPV alla fine del tuo turno per #b",
+      " turni."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Legame Vitale",
+    "DESCRIPTIONS": [
+      "Se altri nemici sono ancora vivi, rinasce in #b2 turni con il #b50% di PV."
+    ]
+  },
+  "Relentless Beating": {
+    "NAME": "Relentless Beating",
+    "DESCRIPTIONS": [
+      " beats faster as you play cards or deal damage"
+    ]
+  },
+  "Repulse": {
+    "NAME": "Repellere",
+    "DESCRIPTIONS": [
+      "Ogni volta che ",
+      " riceve danno da attacchi, mette una #yFerita nella tua mano."
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Conserva Carte",
+    "DESCRIPTIONS": [
+      "Alla fine di ogni turno, puoi conservare #b",
+      " carta.",
+      " carte."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Conserva Mano",
+    "DESCRIPTIONS": [
+      "Alla fine del tuo turno, non scarterai la tua mano per #b",
+      " turni.",
+      "Alla fine del tuo turno, non scartare la tua mano."
+    ]
+  },
+  "Riposte": {
+    "NAME": "Risposta",
+    "DESCRIPTIONS": [
+      "Una volta per turno, infligge #b",
+      " danni indietro quando giochi un #yAttacco."
+    ]
+  },
+  "Ritual": {
+    "NAME": "Rituale",
+    "DESCRIPTIONS": [
+      "Alla fine del suo turno, ottiene #b",
+      " #yForza."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Alla fine del suo turno, ottiene #b",
+      " #yForza."
+    ]
+  },
+  "Rupture": {
+    "NAME": "Rottura",
+    "DESCRIPTIONS": [
+      "Non appena perdi PV a causa di una carta, ottieni #b",
+      " #yForza."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Sadico",
+    "DESCRIPTIONS": [
+      "Ogni volta che applichi un Debuff ad un nemico, infliggi #b",
+      " danni."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "Serpentino",
+    "DESCRIPTIONS": [
+      "Immune alle #yPozioni."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Punte",
+    "DESCRIPTIONS": [
+      "Quando viene colpito da un #yAttacco, fa #b",
+      " danni all'attacante."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Shriek From Beyond",
+    "DESCRIPTIONS": [
+      "Whenever you play an Attack, discard a random card."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Coltellate Dolorose",
+    "DESCRIPTIONS": [
+      "Ogni volta che ricevi danno da questo nemico, aggiungi una #yFerita nella tua Pila degli Scarti."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Brucia Abilità",
+    "DESCRIPTIONS": [
+      "Per #b",
+      " turno, ogni volta che giochi una #yAbilità, #yEsauriscila.",
+      "Per i prossimi #b",
+      " turni, ogni volta che giochi una #yAbilità, #yEsauriscila."
+    ]
+  },
+  "Slow": {
+    "NAME": "Lento",
+    "DESCRIPTIONS": [
+      "Per ogni carta giocata questo turno, ",
+      " riceve il #b10% di danni in più dagli #yAttacchi.",
+      " (Riceve il #b",
+      "% danni in più)"
+    ]
+  },
+  "Split": {
+    "NAME": "Scissione",
+    "DESCRIPTIONS": [
+      "Quando i suoi PV sono al #b50% o meno, si dividerà in #b2 melme più piccole con PV pari a quelli di ",
+      "."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Nube di Spore",
+    "DESCRIPTIONS": [
+      "Quando muore, ti applica #yVulnerabile per #b",
+      " turni."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Stasi",
+    "DESCRIPTIONS": [
+      "Quando muore, ",
+      " viene restituita alla tua mano."
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Carte Extra",
+    "DESCRIPTIONS": [
+      "Pesca #b1 carta in più il prossimo turno.",
+      "Pesca #b",
+      " carte in più il prossimo turno."
+    ]
+  },
+  "Strength": {
+    "NAME": "Forza",
+    "DESCRIPTIONS": [
+      "Aumenta il danno degli attacchi di #b",
+      "Riduce il danno degli attacchi di #b"
+    ]
+  },
+  "Systems": {
+    "NAME": "Systems",
+    "DESCRIPTIONS": [
+      "Whenever you gain Charge, deal that much damage to a random enemy."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Furto",
+    "DESCRIPTIONS": [
+      " ruba #b",
+      " #yOro ogni volta che attacca."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Spine",
+    "DESCRIPTIONS": [
+      "Quando riceve danno da #yAttacchi, infligge #b",
+      " danni indietro."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Mille Tagli",
+    "DESCRIPTIONS": [
+      "Ogni volta che giochi una carta, infliggi #b",
+      " danni a TUTTI i nemici."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Berserk",
+    "DESCRIPTIONS": [
+      "Se i tuoi PV sono a #b50% o meno, ottieni ",
+      " all'inizio del tuo turno."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Distorsione Temporale",
+    "DESCRIPTIONS": [
+      "Ogni volta che giochi #b",
+      " carte, il tuo turno finisce e Mangiatempo ottiene #b",
+      " #yForza."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Ferri del Mestiere",
+    "DESCRIPTIONS": [
+      "All'inizio del tuo turno, pesca #b",
+      " carta e scarta #b",
+      " carta.",
+      " carte e scarta #b",
+      " carte."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Addormentato",
+    "DESCRIPTIONS": [
+      "Questo nemico non si è ancora svegliato..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "Instabile",
+    "DESCRIPTIONS": [
+      "Infiggli abbastanza danni per sbilanciarlo."
+    ]
+  },
+  "Venomology": {
+    "NAME": "Venomology",
+    "DESCRIPTIONS": [
+      "#yPoison grows stronger by #b",
+      " instead of lowering each turn."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Vulnerabile",
+    "DESCRIPTIONS": [
+      "Gli #yAttacchi ricevuti fanno il #b",
+      "% di danni in più per #b",
+      " turno.",
+      " turni."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Debole",
+    "DESCRIPTIONS": [
+      "Gli #yAttacchi infliggono il #b",
+      "% di danno in meno per #b",
+      " turno.",
+      " turni."
+    ]
+  },
+  "Wraith Form": {
+    "NAME": "Forma Spettrale",
+    "DESCRIPTIONS": [
+      "Ogni volta che giochi un'Abilità, infliggi ",
+      " danni ad un nemico casuale."
+    ]
+  }
+}

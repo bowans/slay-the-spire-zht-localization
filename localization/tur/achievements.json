@@ -1,0 +1,103 @@
+{
+  "AchievementGrid": {
+    "NAMES": [
+      "Omzunu Silk",
+      "Arındır",
+      "Gel Bana",
+      "Anlaşma",
+      "Adrenalin",
+      "Güçlü",
+      "Jaxxlan",
+      "Vurdumduymaz",
+      "Barikatlanmış",
+      "Katalizör",
+      "Veba",
+      "Ninja",
+      "Sonsuzluk",
+      "Hiçbir Şeysin",
+      "Mükemmel",
+      "Gardiyan",
+      "Hayalet",
+      "Patron",
+      "Otomaton",
+      "Toplayıcı",
+      "Şampiyon",
+      "Karga",
+      "Şekiller",
+      "Zaman Yiyen",
+      "Kristal",
+      "Zümrüt",
+      "Saklı"
+    ],
+    "TEXT": [
+      "1 HP'n kalarak maçı kazan.",
+      "Elinde, Dağıtma ve Atılanlar Yığınında, 3 ya da daha az kartın olsun.",
+      "Atak oynamadan bir dövüş kazan.",
+      "Tek bir dövüşte 20 kartı tüket.",
+      "Bir dövüşün tek turunda 9 enerjiye sahip ol.",
+      "Dövüş boyunca 10 ya da daha fazla güçlendirmeye sahip ol.",
+      "Dövüş sırasında 50 ya da daha fazla Kuvvet'e sahip ol.",
+      "Dövüş sırasında 99 Blok'a sahip ol.",
+      "Dövüş sırasında 999 Blok'a sahip ol.",
+      "Bir düşmanı 99 ya da daha fazla Zehirle.",
+      "Tek dövüşte 3 düşmanı Zehir ile öldür.",
+      "Tek turda 10 Sustalı oyna.",
+      "Tek turda 25 Kart oyna.",
+      "Bir boss'u tek turda yen.",
+      "Bir boss'u hasar almadan yen.",
+      "Gardiyan'ı Yendin.",
+      "Sekizlet'i Yendin.",
+      "Slime Boss'unu Yendin.",
+      "Bronz Otomaton'u Yendin.",
+      "Toplayıcı'yı Yendin.",
+      "Şampiyon'u Yendin.",
+      "Uyanmış Kişi'yi Yendin.",
+      "Donu & Deca'yı Yendin.",
+      "Zaman Yiyen'i Yendin.",
+      "Oyunu Demirkaplı ile bitirdin.",
+      "Oyunu Sessiz ile bitirdin.",
+      "Bu başarımın detayları, açıldıktan sonra gösterilecek."
+    ]
+  },
+  "CharStat": {
+    "NAMES": [],
+    "TEXT": [
+      "Toplam Oynama Süresi: ",
+      "Toplam Kazanmalar: #y",
+      "Toplam Ölümler: #y",
+      "Toplam Tırmanılan Katlar: #y",
+      "Toplam Öldürülen Bosslar: #y",
+      "Toplam Öldürülen Düşanlar: #y",
+      "Toplam Beslenen Kristaller: #y",
+      "Keşfedilen Kartlar: #y",
+      "Açılan Kartlar: #y",
+      "Keşfedilen Kalıntılar: #y",
+      "Açılan Kalıntılar: #y",
+      "En Yüksek Kat: #y",
+      "En Yüksek Günlük Mücadele: #y",
+      "En Hızlı Galibiyet: ",
+      "Katledildi ",
+      ": #gEvet NL ",
+      ": #rHayır NL ",
+      "Kazanmalar: #y",
+      "Ölümler: #y",
+      "Tırmanılan Katlar: #y",
+      "Öldürülen Bosslar: #y",
+      "Öldürülen Düşmanlar: #y",
+      "En İyi Ard Arda Kazanma: #y",
+      "En Yüksek Skor: #y"
+    ]
+  },
+  "StatsScreen": {
+    "NAMES": [
+      "#yTüm #yİstatistikler",
+      "#yBaşarımlar",
+      "#rDemirkaplı",
+      "#gSessiz",
+      "#bKargabot"
+    ],
+    "TEXT": [
+      "Geri Dön"
+    ]
+  }
+}

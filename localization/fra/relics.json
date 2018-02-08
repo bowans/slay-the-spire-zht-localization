@@ -1,0 +1,1086 @@
+{
+  "Anchor": {
+    "NAME": "Ancre",
+    "FLAVOR": "Grâce à ce petit bibelot, vous vous sentez plus stable.",
+    "DESCRIPTIONS": [
+      "Vous commencez chaque combat avec #b",
+      " de #yBlocage."
+    ]
+  },
+  "Art of War": {
+    "NAME": "L'art de la guerre",
+    "FLAVOR": "Ce manuscrit antique contient la sagesse d'un temps révolu.",
+    "DESCRIPTIONS": [
+      "Si vous ne jouez aucune #yAttaque pendant votre tour, vous gagnez ",
+      "[R] supplémentaire(s) au prochain tour.",
+      "[G] supplémentaire(s) au prochain tour.",
+      "[B] supplémentaire(s) au prochain tour."
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Astrolabe",
+    "FLAVOR": "Cet outil permet d'acquérir l'inestimable savoir des étoiles.",
+    "DESCRIPTIONS": [
+      "Lorsque vous le ramassez, vous pouvez choisir et #yTransformer #b3 cartes, puis les #yAméliorer.",
+      "Choisissez 3 cartes pour "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Sac de billes",
+    "FLAVOR": "Un jeu autrefois populaire dans la ville. Les billes sont très utiles pour faire tomber les ennemis.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, vous appliquez #b",
+      " de #yVulnérabilité sur TOUS les ennemis."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Sac de préparation",
+    "FLAVOR": "Un sac d'aventurier surdimensionné. Il présente de nombreuses poches et sangles.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, vous piochez #b",
+      " cartes supplémentaires."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Urne à tête d'oiseau",
+    "FLAVOR": "Sur cette urne est représenté le dieu corbeau Mazaleth à l'air farceur.",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez un #yPouvoir, vous récupérez #b",
+      " PV."
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Sang noir",
+    "FLAVOR": "La rage s'assombrit.",
+    "DESCRIPTIONS": [
+      "Remplace #rSang #rardent. À la fin du combat, vous récupérez #b",
+      " PV."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Étoile noire",
+    "FLAVOR": "À l'origine, elle a été découverte dans la ville du serpent, à côté d'une unique bougie.",
+    "DESCRIPTIONS": [
+      "Vous obtenez maintenant #b2 #yReliques lorsque vous éliminez des #yÉlites."
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Fiole de sang",
+    "FLAVOR": "Une fiole contenant le sang d'un très vieux vampire pur.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, vous récupérez #b",
+      " PV."
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Idole sanglante",
+    "FLAVOR": "Un flot continu de sang s'écoule maintenant de l'idole.",
+    "DESCRIPTIONS": [
+      "Lorsque vous gagnez de #yl'or, vous récupérez #b",
+      " PV."
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Bougie bleue",
+    "FLAVOR": "Sa flamme s'allume lorsque les ténèbres l'enveloppent.",
+    "DESCRIPTIONS": [
+      "Les cartes #yMalédiction peuvent désormais être jouées. NL NL Jouer une #yMalédiction vous fait perdre #b",
+      " PV et #yÉpuiser la carte."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Flamme en bouteille",
+    "FLAVOR": "Dans cette bouteille brûle une flamme éternelle.",
+    "DESCRIPTIONS": [
+      "Lorsque vous la ramassez, vous choisissez une carte Attaque. Au début de chaque combat, cette carte se trouve dans votre main.",
+      "Choisissez une carte pour ",
+      "Au début de chaque combat, vous ajoutez ",
+      " à votre main."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Foudre en bouteille",
+    "FLAVOR": "En observant ce maelström tourbillonnant, vous apercevez une partie de vous-même qui vous fixe.",
+    "DESCRIPTIONS": [
+      "Lorsque vous la ramassez, vous choisissez une carte Compétence. Au début de chaque combat, cette carte se trouve dans votre main.",
+      "Choisissez une carte pour ",
+      "Au début de chaque combat, vous ajoutez ",
+      " à votre main."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Écailles en bronze",
+    "FLAVOR": "Les écailles tranchantes du Gardien. Elles s'assemblent de sorte à protéger leur utilisateur. ",
+    "DESCRIPTIONS": [
+      "Quand vous subissez des dégâts, vous infligez #b",
+      " point(s) de dégâts en retour."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Sang ardent",
+    "FLAVOR": "Une rage éternelle brûle dans votre sang.",
+    "DESCRIPTIONS": [
+      "À la fin du combat, vous récupérez #b",
+      " PV."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Compas",
+    "FLAVOR": "\"C'est de la précision mécanique que provient la grandeur.\" - L'architecte",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, vous perdez #b",
+      " de #yBlocage au lieu de tout perdre."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Cloche d'appel",
+    "FLAVOR": "Cette sombre cloche en fer a sonné 3 fois lorsque vous l'avez trouvée, mais elle est silencieuse depuis.",
+    "DESCRIPTIONS": [
+      "Vous obtenez #b3 #rMalédictions et #b3 #yReliques.",
+      "La cloche sonne...",
+      "Passer les récompenses",
+      "Close"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Chaudron",
+    "FLAVOR": "Le Marchand est passé maître dans la préparation de potions. 1 offerte pour 4 achetées.",
+    "DESCRIPTIONS": [
+      "Lorsque vous l'obtenez, il prépare #b5 potions aléatoires.",
+      "Glou glou glou... !"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Énigme centenaire",
+    "FLAVOR": "Lorsque vous résolvez cette énigme, une puissante bouffée de chaleur envahit votre poitrine.",
+    "DESCRIPTIONS": [
+      "La première fois que vous perdez des PV lors de chaque combat, vous piochez #b",
+      " cartes."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Anneau de caméléon",
+    "FLAVOR": "Sans valeur",
+    "DESCRIPTIONS": [
+      "Vous pouvez désormais #yPréparer #ydes #ypotions aux feux de camp."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Ceinture de champion",
+    "FLAVOR": "Cette ceinture ne saurait être portée que par les meilleurs.",
+    "DESCRIPTIONS": [
+      "Lorsque vous appliquez #yVulnérabilité, vous appliquez aussi #b",
+      " de #yFaiblesse."
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Cendres de Charon",
+    "FLAVOR": "Charon était considéré comme le dieu de la résurrection, car il mourait et renaissait éternellement dans une explosion de flammes.",
+    "DESCRIPTIONS": [
+      "Lorsque vous #yÉpuisez une carte, vous infligez #b",
+      " point(s) de dégâts à TOUS les ennemis."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Agent chimique X",
+    "FLAVOR": "AVERTISSEMENT : ne pas mélanger avec du sucre, des épices ou tout ce qui est bon.",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez une carte coûtant #bX, ses effets sont augmentés de #b"
+    ]
+  },
+  "Circlet": {
+    "NAME": "Bandeau",
+    "FLAVOR": "Vous avez trouvé toutes les reliques. Impressionnant !",
+    "DESCRIPTIONS": [
+      "C'est très joli."
+    ]
+  },
+  "The Courier": {
+    "NAME": "Le coursier",
+    "FLAVOR": "L'animal de compagnie du Marchand !",
+    "DESCRIPTIONS": [
+      "Le Marchand n'est plus jamais à court de cartes, reliques ou potions."
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Clé maudite",
+    "FLAVOR": "Vous ressentez l'énergie malveillante qui émane de cette clé. Tout pouvoir a un prix.",
+    "DESCRIPTIONS": [
+      " Lorsque vous ouvrez un coffre, vous recevez une #rMalédiction.",
+      "Vous gagnez en [R] au début de chaque tour.",
+      "Vous gagnez en [G] au début de chaque tour.",
+      "Vous gagnez en [B] au début de chaque tour."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "Branche morte",
+    "FLAVOR": "Une branche d'arbre issue d'une ère oubliée.",
+    "DESCRIPTIONS": [
+      "Lorsque vous #yÉpuisez une carte, vous ajoutez une carte aléatoire à votre main."
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Monocle clairvoyant",
+    "FLAVOR": "Un monocle fort élégant.",
+    "DESCRIPTIONS": [
+      "Les prix du Marchand sont réduits de #b20 %."
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "Dodécaèdre runique",
+    "FLAVOR": "Les runes sont indéchiffrables.",
+    "DESCRIPTIONS": [
+      "Si vous avez tous vos PV, vous gagnez ",
+      "[R] au début de chaque tour.",
+      "[G] au début de chaque tour.",
+      "[B] au début de chaque tour."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Attrape-rêves",
+    "FLAVOR": "Les tribus du nord utilisaient souvent des attrape-rêves la nuit pour leur développement personnel.",
+    "DESCRIPTIONS": [
+      "Lorsque vous vous reposez, vous pouvez ajouter une carte à votre deck."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Poupée Dou-Vau",
+    "FLAVOR": "Une poupée qui puise sa force dans les énergies malveillantes.",
+    "DESCRIPTIONS": [
+      "Pour chaque #yMalédiction dans votre deck, vous commencez chaque combat avec #b",
+      " de #yForce supplémentaire.",
+      " Vous n'avez aucune #yMalédiction.",
+      " Vous avez #b",
+      " #yMalédiction(s)."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Ectoplasme",
+    "FLAVOR": "Cette masse visqueuse et informe montre des signes de vie.",
+    "DESCRIPTIONS": [
+      " Vous ne pouvez plus gagner #yd'or.",
+      "Vous gagnez en [R] au début de chaque tour.",
+      "Vous gagnez en [G] au début de chaque tour.",
+      "Vous gagnez en [B] au début de chaque tour."
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Enchiridion",
+    "FLAVOR": "Le journal légendaire d'une liche antique.",
+    "DESCRIPTIONS": [
+      "Vous commencez chaque combat avec une carte #yPouvoir aléatoire dans votre main. Son coût est de #b0."
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Plume éternelle",
+    "FLAVOR": "Cette plume semble être indestructible. De quel oiseau pourrait-elle bien provenir ? ",
+    "DESCRIPTIONS": [
+      "Pour chaque lot de #b",
+      " cartes dans votre deck, vous récupérez #b",
+      " PV lorsque vous accédez à un feu de camp."
+    ]
+  },
+  "Frozen Egg": {
+    "NAME": "Œuf gelé",
+    "FLAVOR": "Cet œuf inerte et gelé est condamné à ne jamais éclore.",
+    "DESCRIPTIONS": [
+      "Lorsque vous le ramassez, vous pouvez choisir et #yAméliorer un #yPouvoir.",
+      "Choisissez une carte pour "
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Œil gelé",
+    "FLAVOR": "SANS VALEUR",
+    "DESCRIPTIONS": [
+      "La prochaine carte de votre pioche est révélée."
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Jeton",
+    "FLAVOR": "Vous remarquez une petite inscription sur l'une des faces. Il y est écrit : \"Jeton porte-bonheur de Balourd !\"",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, vous défaussez autant de cartes que vous le souhaitez, puis en piochez le même nombre."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Gingembre",
+    "FLAVOR": "Un ingrédient puissant utilisé dans de nombreuses boissons tonifiantes.",
+    "DESCRIPTIONS": [
+      "Les ennemis ne peuvent plus vous #yAffaiblir."
+    ]
+  },
+  "Girya": {
+    "NAME": "Girya",
+    "FLAVOR": "Cette girya est extraordinairement lourde. Vous pourriez vous entraîner avec pour développer vos muscles.",
+    "DESCRIPTIONS": [
+      "Vous pouvez désormais gagner de la #yForce aux feux de camp. (3 fois max.)"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Idole dorée",
+    "FLAVOR": "Vous vous sentez plus riche rien qu'en touchant cette idole en or massif.",
+    "DESCRIPTIONS": [
+      "Vous obtenez #b25 % #yd'or supplémentaire en éliminant vos ennemis."
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Cor de diablotin",
+    "FLAVOR": "\"Les diablotins peuvent grandir jusqu'à leur mort. C'est remarquable.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Lorsqu'un ennemi meurt, vous gagnez ",
+      "[R] et piochez #b1 carte.",
+      "[G] et piochez #b1 carte.",
+      "[B] et piochez #b1 carte."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Fleur joyeuse",
+    "FLAVOR": "Cette plante dont le bonheur ne tarit jamais est le nouvel objet favori des nobles.",
+    "DESCRIPTIONS": [
+      "Tous les #b",
+      " tours, vous gagnez en [R] .",
+      " tours, vous gagnez en [G] .",
+      " tours, vous gagnez en [B] ."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "Crème glacée",
+    "FLAVOR": "\"Délicieux !\"",
+    "DESCRIPTIONS": [
+      "Vous conservez désormais votre énergie entre chaque tour."
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Bracelet Juzu",
+    "FLAVOR": "Il permet de repousser les inconnus.",
+    "DESCRIPTIONS": [
+      "Vous ne rencontrez plus de monstres dans les salles #y?."
+    ]
+  },
+  "Kunai": {
+    "NAME": "Kunaï",
+    "FLAVOR": "Sa létalité à distance en fait la lame favorite des assassins.",
+    "DESCRIPTIONS": [
+      "Chaque fois que vous jouez #b",
+      " #yAttaques en un tour, vous gagnez #b",
+      " de #yDextérité."
+    ]
+  },
+  "Lantern": {
+    "NAME": "Lanterne",
+    "FLAVOR": "Une étrange lanterne qui ne luit que pour son porteur.",
+    "DESCRIPTIONS": [
+      "Vous gagnez ",
+      "[R] ",
+      "[G] ",
+      "[B] ",
+      "au premier tour de chaque combat."
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Coupe-papier",
+    "FLAVOR": "Anormalement tranchant.",
+    "DESCRIPTIONS": [
+      "Chaque fois que vous jouez #b3 cartes Compétence en un tour, vous infligez #b",
+      " point(s) de dégâts à TOUS les ennemis."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "Lame vivace",
+    "FLAVOR": "SANS VALEUR",
+    "DESCRIPTIONS": [
+      "Vous pouvez obtenir n'importe quel nombre d'exemplaires de n'importe quelle carte."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Queue de lézard",
+    "FLAVOR": "Une fausse queue permettant de leurrer les ennemis pendant le combat.",
+    "DESCRIPTIONS": [
+      "Quand vous êtes sur le point de mourir, vous récupérez des PV pour atteindre #b50 % de vos PV max à la place (une seule fois)."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Fleur magique",
+    "FLAVOR": "Une fleur que beaucoup pensaient disparue, conservée en parfait état.",
+    "DESCRIPTIONS": [
+      "Les soins sont #b50 % plus efficaces pendant le combat."
+    ]
+  },
+  "Mango": {
+    "NAME": "Mangue",
+    "FLAVOR": "Le plus convoité des fruits oubliés. Parfaitement conservé sans aucun signe de tourouille.",
+    "DESCRIPTIONS": [
+      "Vous augmentez vos PV max de #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "Marque de douleur",
+    "FLAVOR": "Ce fer était utilisé par les tribus du nord pour marquer les guerriers ayant réussi à maîtriser la douleur en combat.",
+    "DESCRIPTIONS": [
+      "Vous gagnez en [R] au début de chaque tour. Vous commencez chaque combat avec #b2 #rPlaies dans votre pioche."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Matriochkas",
+    "FLAVOR": "Une série de poupées décorées superposables. Le dessin représente un oiseau inconnu aux yeux blancs et aux plumes bleues.",
+    "DESCRIPTIONS": [
+      "Les #b2 prochains coffres que vous ouvrez contiennent #b2 #yReliques. (Sauf coffres de boss.)",
+      "Le prochain coffre que vous ouvrez contient #b2 #yReliques. (Sauf coffres de boss.)",
+      "Cette relique ne peut plus être utilisée."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Os à viande",
+    "FLAVOR": "La viande ne cesse de se reformer.",
+    "DESCRIPTIONS": [
+      "Si vos PV sont inférieurs à #b50 % à la fin du combat, vous récupérez #b",
+      " PV."
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "Trousse de secours",
+    "FLAVOR": "\"Elle a tout ce qu'il vous faut ! Anti-démangeaison, anti-brûlure, anti-venin et plus encore !\"",
+    "DESCRIPTIONS": [
+      "Les cartes #yStatut peuvent désormais être jouées. Jouer une carte #yStatut vous fait #yÉpuiser cette carte."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Carte d'adhérent",
+    "FLAVOR": "\"Un abonnement bonus dédié à mes plus fidèles clients !\"",
+    "DESCRIPTIONS": [
+      "Aux prochains niveaux, le taux d'apparition des boutiques augmente de #b50 %. #yBONUS : Remise de #b20 % sur tous les produits !"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Sablier de mercure",
+    "FLAVOR": "Un sablier enchanté qui s'écoule sans fin.",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, vous infligez #b",
+      " point(s) de dégâts à TOUS les ennemis."
+    ]
+  },
+  "Molten Egg": {
+    "NAME": "Œuf de magma",
+    "FLAVOR": "Un œuf de phénix. Sa lave bouillonnante lui confère un éclat rougeoyant.",
+    "DESCRIPTIONS": [
+      "Lorsque vous le ramassez, vous pouvez choisir et #yAméliorer une #yAttaque.",
+      "Choisissez une carte pour "
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Main momifiée",
+    "FLAVOR": "Elle tressaute régulièrement, surtout lorsque votre pouls est élevé.",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez un #yPouvoir, le coût d'une carte aléatoire de votre main passe à #y0 pour le reste du tour."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Necronomicon",
+    "FLAVOR": "Seul un fou oserait s'emparer de ce pouvoir maléfique. La nuit, des images du livre dévorant votre esprit vous hantent.",
+    "DESCRIPTIONS": [
+      "À chaque tour, la première #yAttaque coûtant au moins #b",
+      " est jouée deux fois. Quand vous prenez cette Relique, vous recevez : #rMalédiction.",
+      " est jouée deux fois."
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Codex de Nilry",
+    "FLAVOR": "Fabriqué par l'infâme maître de jeu. Il aurait la faculté de développer l'esprit.",
+    "DESCRIPTIONS": [
+      "À la fin de chaque tour, vous pouvez choisir #b1 carte parmi #b3 aléatoires et la placer dans votre pioche."
+    ]
+  },
+  "Nine Lives": {
+    "NAME": "Neuf vies",
+    "FLAVOR": "SANS VALEUR",
+    "DESCRIPTIONS": [
+      "Quand vous êtes sur le point de mourir, vous récupérez tous vos PV à la place. NL (Fonctionne #b9 fois.)",
+      "Quand vous êtes sur le point de mourir, vous récupérez tous vos PV à la place. NL (Aucune vie restante.)",
+      "Quand vous êtes sur le point de mourir, vous récupérez tous vos PV à la place. NL (Reste : #b",
+      " fois.)"
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Parchemin de ninja",
+    "FLAVOR": "Contient des secrets d'assassin.",
+    "DESCRIPTIONS": [
+      "Vous commencez chaque combat avec #b",
+      " #ySurins en main."
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "Cadeau de Nloth",
+    "FLAVOR": "Un étrange cadeau de Nloth. Lorsque vous l'ouvrez, vous découvrez une autre boîte emballée de la même taille.",
+    "DESCRIPTIONS": [
+      "#bTriple vos chances de recevoir des cartes rares comme butin sur les monstres."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Amulette d'annulation",
+    "FLAVOR": "SANS VALEUR",
+    "DESCRIPTIONS": [
+      "Annule le prochain #yDébuff infligé par un ennemi. NL Se recharge en #b10 tours."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "Pierre étrangement lisse",
+    "FLAVOR": "Vous n'avez jamais rien vu d'aussi lisse et immaculé. Ce doit être l'œuvre des Anciens.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, vous gagnez #b",
+      " de #yDextérité."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Champignon étrange",
+    "FLAVOR": "\"Après avoir consommé ce trichellum parastius, je me suis senti plus imposant et moins... susceptible.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "Sous #yVulnérabilité, les dégâts subis augmentent de #b25 % au lieu de #b50 %."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "Vieille pièce",
+    "FLAVOR": "Les pièces uniques sont très prisées par les marchands en raison de leur valeur historique et de leur composition rare.",
+    "DESCRIPTIONS": [
+      "Vous gagnez #b300 #yd'or."
+    ]
+  },
+  "Omamori": {
+    "NAME": "Omamori",
+    "FLAVOR": "Une amulette servant à repousser les mauvais esprits. Celle-ci semble avoir une étincelle d'énergie divine.",
+    "DESCRIPTIONS": [
+      "Annule les #b2 prochaines #rMalédictions que vous recevez.",
+      "Annule la prochaine #rMalédiction que vous recevez.",
+      "Cette relique ne peut plus être utilisée."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Orichalque",
+    "FLAVOR": "Un métal teinté de vert dont l'origine est inconnue. Apparemment indestructible.",
+    "DESCRIPTIONS": [
+      "Si vous mettez fin à votre tour sans #yBlocage, vous gagnez #b",
+      " de #yBlocage."
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Éventail décoratif",
+    "FLAVOR": "Cet éventail s'ouvre et se durcit à mesure que le sang coule.",
+    "DESCRIPTIONS": [
+      "Chaque fois que vous jouez #b3 #yAttaques en un tour, vous gagnez #b",
+      " de #yBlocage."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Planétaire",
+    "FLAVOR": "\"Une fois que vous connaîtrez l'univers...\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Vous choisissez et ajoutez #b5 cartes à votre deck.",
+      "Eurêka !"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Boîte de Pandore",
+    "FLAVOR": "Vous n'avez pas très envie de l'ouvrir.",
+    "DESCRIPTIONS": [
+      "Vous #bTransformez toutes les cartes Frappe et Défense.",
+      "La boîte de Pandore a été ouverte..."
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Pantographe",
+    "FLAVOR": "\"Les bases solides ne sont jamais dues au hasard. Les outils de préparation sont indispensables.\" - L'architecte",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat de boss, vous récupérez #b",
+      " PV."
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Jrue en papier",
+    "FLAVOR": "L'origami d'une créature oubliée.",
+    "DESCRIPTIONS": [
+      "Les dégâts infligés par les ennemis sous #yFaiblesse sont réduits de #b50 % au lieu de #b25 %."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Jrenouille en papier",
+    "FLAVOR": "Le papier se plie et se déplie continuellement pour prendre la forme d'une petite créature.",
+    "DESCRIPTIONS": [
+      "Les dégâts subis par les ennemis sous #yVulnérabilité augmentent de #b75 % au lieu de #b50 %."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Tuyau de paix",
+    "FLAVOR": "Il désencombre l'esprit et purifie l'âme.",
+    "DESCRIPTIONS": [
+      "Vous pouvez désormais retirer des cartes de votre deck aux feux de camp."
+    ]
+  },
+  "Pear": {
+    "NAME": "Poire",
+    "FLAVOR": "Un fruit ordinaire avant les ravages de la tourouille.",
+    "DESCRIPTIONS": [
+      "Vous augmentez vos PV max de #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Pointe de stylo",
+    "FLAVOR": "À travers la pointe, vous apercevez toutes les personnes tuées par son ancien propriétaire. Quelle violence...",
+    "DESCRIPTIONS": [
+      "Toutes les #b10es #yAttaques que vous jouez infligent le double de dégâts."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "Pierre philosophale",
+    "FLAVOR": "Une énergie pure émane de la pierre et amplifie la puissance de tous ceux qui s'en approchent.",
+    "DESCRIPTIONS": [
+      " TOUS les ennemis commencent avec #b2 de #yForce.",
+      "Vous gagnez en [R] au début de chaque tour.",
+      "Vous gagnez en [G] au début de chaque tour.",
+      "Vous gagnez en [B] au début de chaque tour."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "Moulin à prières",
+    "FLAVOR": "Son cylindre ne s'arrête jamais de tourner.",
+    "DESCRIPTIONS": [
+      "Les coffres qui ne proviennent pas de boss contiennent désormais des cartes."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Carte d'interrogation",
+    "FLAVOR": "\"Ceux dont les choix sont plus nombreux font souvent fi des inconvénients du chaos.\" - Le grand Kublai",
+    "DESCRIPTIONS": [
+      "Lorsque vous recevez une carte comme récompense, vous choisissez parmi #b4 cartes au lieu de #b3."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Bandeau rouge",
+    "FLAVOR": "Il n'y a plus de relique. Impressionnant !",
+    "DESCRIPTIONS": [
+      "C'est vraiment joli."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Masque rouge",
+    "FLAVOR": "Ce masque très élégant appartient au chef des bandits aux masques rouges. Cela fait-il de vous leur chef ?",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, vous appliquez #b",
+      " de #yFaiblesse à TOUS les ennemis."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Crâne rouge",
+    "FLAVOR": "Un petit crâne recouvert de peintures décoratives.",
+    "DESCRIPTIONS": [
+      "Quand vos PV sont inférieurs à #b50 %, vous avez #b",
+      " de #yForce supplémentaire."
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Oreiller royal",
+    "FLAVOR": "Vous pouvez enfin vous reposer confortablement.",
+    "DESCRIPTIONS": [
+      "Vous récupérez #b",
+      " PV supplémentaires lors des #yRepos."
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Anneau du cobra",
+    "DESCRIPTIONS": [
+      "Remplace l'#ganneau #gdu #gserpent. Quand vous tuez un ennemi #yd'Élite, vous augmentez vos PV max de #b"
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "Cube runique",
+    "FLAVOR": "Les runes sont indéchiffrables.",
+    "DESCRIPTIONS": [
+      "Vos PV max sont réduits de #b",
+      " %. Quand vous perdez des PV, vous piochez #b",
+      " carte."
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Dôme runique",
+    "FLAVOR": "Les runes sont indéchiffrables.",
+    "DESCRIPTIONS": [
+      "au début de chaque tour. Vous ne pouvez plus voir les #bIntentions des ennemis.",
+      "Vous gagnez en [R] ",
+      "Vous gagnez en [G] ",
+      "Vous gagnez en [B] "
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Pyramide runique",
+    "FLAVOR": "Les runes sont indéchiffrables.",
+    "DESCRIPTIONS": [
+      "À la fin de votre tour, vous ne défaussez plus votre main. NL Vous piochez #b",
+      " carte en moins à chaque tour."
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Argile autoformante",
+    "FLAVOR": "\"Que c'est curieux ! Elle prend forme toute seule, selon mes pensées ! De la télépoterie ?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Quand vous perdez des PV en combat, vous gagnez #b",
+      " de #yBlocage au prochain tour."
+    ]
+  },
+  "Shovel": {
+    "NAME": "Pelle",
+    "FLAVOR": "La Tour abrite tout un tas de Reliques issues de civilisations perdues et de braves aventuriers oubliés. Il est temps d'aller creuser !",
+    "DESCRIPTIONS": [
+      "Vous pouvez désormais #yCreuser à la recherche de butin aux feux de camp."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Shuriken",
+    "FLAVOR": "Des armes de jet aussi légères qu'une plume. Il est conseillé de viser les yeux.",
+    "DESCRIPTIONS": [
+      "Chaque fois que vous jouez #b",
+      " #yAttaques en un tour, vous gagnez #b",
+      " de #yForce."
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "Bol chantant",
+    "FLAVOR": "Au contact d'un maillet, cet artéfact peut faire résonner une belle mélodie.",
+    "DESCRIPTIONS": [
+      "Lorsque vous passez une carte comme récompense, vous augmentez vos PV max de #b"
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Masque souriant",
+    "FLAVOR": "Masque porté par le Marchand. Il doit en avoir d'autres...",
+    "DESCRIPTIONS": [
+      "Le coût du service de retrait de carte du Marchand passe à #b",
+      " #yd'or."
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Anneau du serpent",
+    "FLAVOR": "Fait à partir d'un fossile de serpent. Il représente le talent de la chasseresse.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, vous piochez #b",
+      " cartes supplémentaires."
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Œil de snecko",
+    "FLAVOR": "L'œil d'un snecko déchu. Il est bien plus gros qu'on ne pourrait l'imaginer.",
+    "DESCRIPTIONS": [
+      "Vous piochez #b2 cartes supplémentaires à chaque tour. Vous commencez chaque combat avec #yConfusion."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Crâne de snecko",
+    "FLAVOR": "Un crâne de snecko en parfait état. Il est étrangement propre et lisse, au point que la poussière et la saleté en tombent mystérieusement.",
+    "DESCRIPTIONS": [
+      "Lorsque vous appliquez #yPoison, vous appliquez #b",
+      " de #yPoison supplémentaire."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Sozu",
+    "FLAVOR": "Vous remarquez que les liquides magiques semblent perdre leurs propriétés à proximité de cette relique.",
+    "DESCRIPTIONS": [
+      " Vous ne pouvez plus utiliser de potions. ",
+      "Vous gagnez en [R] au début de chaque tour.",
+      "Vous gagnez en [G] au début de chaque tour.",
+      "Vous gagnez en [B] au début de chaque tour."
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Reste d'esprit",
+    "FLAVOR": "Les restes carbonisés de votre offrande aux esprits.",
+    "DESCRIPTIONS": [
+      "Peu agréable."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Étrange cuillère",
+    "FLAVOR": "Quand vous fixez la cuillère, elle semble se tordre et s'entortiller sous vos yeux.",
+    "DESCRIPTIONS": [
+      "Les cartes à #yÉpuiser ont #b50 % de chance d'être défaussées à la place."
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Fraise",
+    "FLAVOR": "\"Délicieuse ! Je n'en avais pas vue depuis l'épidémie de rouille.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Vous augmentez vos PV max de #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Cadran solaire",
+    "FLAVOR": "\"La folle obsession des premiers hommes pour le temps les a poussés à voir le ciel comme un guide, espérant de lui quelque chose d'éternel.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Tous les #b",
+      " mélanges de deck, vous gagnez : [R] [R] .",
+      " mélanges de deck, vous gagnez : [G] [G] .",
+      " mélanges de deck, vous gagnez : [B] [B] ."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Ancien service à thé",
+    "FLAVOR": "Il vous garantit une excellente nuit de repos.",
+    "DESCRIPTIONS": [
+      "Lorsque vous atteignez un site de repos, vous commencez le prochain combat avec : [R] [R] .",
+      "Lorsque vous atteignez un site de repos, vous commencez le prochain combat avec : [G] [G] .",
+      "Lorsque vous atteignez un site de repos, vous commencez le prochain combat avec : [B] [B] ."
+    ]
+  },
+  "Test 1": {
+    "NAME": "Test 1",
+    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
+    "DESCRIPTIONS": [
+      "Lorsque vous recevez une #yMalédiction, vous augmentez vos PV max de #b",
+      " [R] .",
+      " [G] .",
+      " [B] ."
+    ]
+  },
+  "Test 2": {
+    "NAME": "Test 2",
+    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
+    "DESCRIPTIONS": [
+      "Au début de chaque tour, si vos PV sont inférieurs à 50 %, vous gagnez #b"
+    ]
+  },
+  "Test 3": {
+    "NAME": "Test 3",
+    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
+    "DESCRIPTIONS": [
+      "Lorsque vous l'obtenez, vous #yAméliorez toutes vos cartes #yDéfense."
+    ]
+  },
+  "Test 4": {
+    "NAME": "Test 4",
+    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
+    "DESCRIPTIONS": [
+      "Au début du combat, le coût de toutes les cartes #yFrappe passe à #b0."
+    ]
+  },
+  "Test 5": {
+    "NAME": "Test 5",
+    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
+    "DESCRIPTIONS": [
+      "Lorsque vous la ramassez, vous #yAméliorez #b",
+      " #yCompétences aléatoires."
+    ]
+  },
+  "Test 6": {
+    "NAME": "Test 6",
+    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
+    "DESCRIPTIONS": [
+      "À la fin de chaque tour, vous gagnez #b",
+      " de #yBlocage par lot de #b",
+      " #ypièces #yd'or en votre possession."
+    ]
+  },
+  "Test 7": {
+    "NAME": "Test 7",
+    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
+    "DESCRIPTIONS": [
+      "Vous obtenez maintenant #b2 #yReliques lorsque vous éliminez des #yÉlites."
+    ]
+  },
+  "Test 8": {
+    "NAME": "Test 8",
+    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
+    "DESCRIPTIONS": [
+      "Vous piochez #b2 cartes supplémentaires à chaque tour. Vous commencez chaque combat avec #yConfusion."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "Le spécimen",
+    "FLAVOR": "\"Fascinant ! J'ai trouvé une créature mutante présentant d'impressionnantes propriétés toxiques. J'en garde un échantillon pour l'examiner plus tard.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Lorsqu'un ennemi meurt, vous transférez son #yPoison à un ennemi aléatoire."
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "Fil et aiguille",
+    "FLAVOR": "Vous enveloppez le fil magique autour de votre corps et ce dernier se durcit.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, vous gagnez #b",
+      " #yd'Armure #yplaquée."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Tingsha",
+    "FLAVOR": "Le son provenant de cet instrument peut résonner à un volume douloureux pour l'oreille.",
+    "DESCRIPTIONS": [
+      "Lorsque vous défaussez des cartes pendant votre tour, vous infligez #b",
+      " point(s) de dégâts à un ennemi aléatoire pour chaque carte défaussée."
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "Coffret",
+    "FLAVOR": "\"Un beau prototype.\" - L'architecte",
+    "DESCRIPTIONS": [
+      "Vous gagnez #b",
+      " #yd'or. Vous avez #b10 % de chance supplémentaires de trouver un trésor dans les salles ?.",
+      "Vous avez #b10 % de chance supplémentaires de trouver un trésor dans les salles ?."
+    ]
+  },
+  "Tiny House": {
+    "NAME": "Maisonnette",
+    "FLAVOR": "\"Une démonstration quasi parfaite de miniaturisation. Mon plus bel ouvrage jusqu'à présent, mais toujours insuffisant.\" - L'architecte",
+    "DESCRIPTIONS": [
+      "Vous obtenez #b1 potion. NL Vous gagnez #b",
+      " #yd'or. NL Vous augmentez vos PV max de #b",
+      ". NL Vous obtenez #b1 carte.",
+      "Une maisonnette !"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Boîte à outils",
+    "FLAVOR": "À chaque travail son outil.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, vous ajoutez une carte sans couleur aléatoire à votre main."
+    ]
+  },
+  "Torii": {
+    "NAME": "Torii",
+    "FLAVOR": "Avec ce petit torii, vous sentez la quiétude et la sérénité envahir votre esprit.",
+    "DESCRIPTIONS": [
+      "Lorsque vous êtes sur le point de subir #b",
+      " point(s) de dégâts ou moins suite à des #yAttaques non bloqués, vous les réduisez à #b1."
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Bandages rugueux",
+    "FLAVOR": "La perte renforce.",
+    "DESCRIPTIONS": [
+      "Lorsque vous défaussez une carte pendant votre tour, vous gagnez #b",
+      " de #yBlocage."
+    ]
+  },
+  "Toxic Egg": {
+    "NAME": "Œuf toxique",
+    "FLAVOR": "\"Quelle merveilleuse découverte ! Ce doit être l'œuf inerte d'une créature magique. Mais qui a bien pu créer ceci ?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Lorsque vous le ramassez, vous pouvez choisir et #yAméliorer une #yCompétence.",
+      "Choisissez une carte pour "
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Petit ornithoptère",
+    "FLAVOR": "\"Ce petit jouet est le compagnon idéal de tout aventurier solitaire !\"",
+    "DESCRIPTIONS": [
+      "Lorsque vous utilisez une potion, vous récupérez #b",
+      " PV."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Toupie perpétuelle",
+    "FLAVOR": "La toupie continue à tourner sans jamais s'arrêter, comme dans un rêve.",
+    "DESCRIPTIONS": [
+      "Lorsque vous n'avez plus de carte en main, vous piochez une carte."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Vajra",
+    "FLAVOR": "Une relique décorative offerte aux guerriers qui se couvrent de gloire au combat.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, vous gagnez #b",
+      " de #yForce."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Ras-de-cou en velours",
+    "FLAVOR": "\"Un pouvoir immense, mais bien trop limité.\" - Le grand Kublai",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez pas jouer plus de #b",
+      " cartes par tour.",
+      "Vous gagnez en [R] au début de chaque tour. ",
+      "Vous gagnez en [G] au début de chaque tour. ",
+      "Vous gagnez en [B] au début de chaque tour. ",
+      "Je ne peux en jouer que NL #r"
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Gaufre de Lee",
+    "FLAVOR": "\"La meilleure gourmandise de toute la Tour ! Tout juste sortie du four, rien que pour vous.\"",
+    "DESCRIPTIONS": [
+      "Vous augmentez vos PV max de #b",
+      " et récupérez tous vos PV."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Pierre à aiguiser",
+    "FLAVOR": "\"La chair ne bat jamais le fer.\" - Le grand Kublai",
+    "DESCRIPTIONS": [
+      "Lorsque vous la ramassez, vous #yAméliorez #b",
+      " #yAttaques aléatoires."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Rochard",
+    "FLAVOR": "Placeholder",
+    "DESCRIPTIONS": [
+      "Au début de chaque tour, vous gagnez #b",
+      " de Charge. NL (Impossible à retirer ou Transformer.)"
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "Statue blanche de bête",
+    "FLAVOR": "La petite statue blanche d'une créature que vous n'avez jamais vue.",
+    "DESCRIPTIONS": [
+      "Vous obtenez toujours des potions après un combat."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Neow's Blessing",
+    "FLAVOR": "A blessing bestowed to you by Neow.",
+    "DESCRIPTIONS": [
+      "The first #b3 enemies you fight have only #b1 PV.",
+      "The blessing is used up."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Bottled Tornado (BETA)",
+    "FLAVOR": "Test relic.",
+    "DESCRIPTIONS": [
+      "Upon pick up, choose a Power card. At the start of each combat, this card will be in your hand.",
+      "Choose a card for ",
+      "At the start of each combat, add ",
+      " to your hand."
+    ]
+  },
+  "War Paint": {
+    "NAME": "War Paint",
+    "FLAVOR": "Missing description.",
+    "DESCRIPTIONS": [
+      "Upon pick up, #yUpgrade #b",
+      " random #ySkills."
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Amulette de pierre noire ",
+    "FLAVOR": "Missing description.",
+    "DESCRIPTIONS": [
+      "Whenever you obtain a #yCurse, increase your Max PV by #b"
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Molten Egg (BETA)",
+    "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "DESCRIPTIONS": [
+      "Whenever you obtain an #yAttack card, it is #yUpgraded."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Frozen Egg (BETA)",
+    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "DESCRIPTIONS": [
+      "Whenever you obtain a #yPower card, it is #yUpgraded."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Toxic Egg (BETA)",
+    "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Whenever you obtain a #ySkill card, it is #yUpgraded."
+    ]
+  }
+}

@@ -1,0 +1,776 @@
+{
+  "Absorb": {
+    "NAME": "Absorbieren",
+    "DESCRIPTIONS": [
+      "Immer wenn du angegriffen wirst, erhältst du #b",
+      " Ladung."
+    ]
+  },
+  "Accuracy": {
+    "NAME": "Genauigkeit",
+    "DESCRIPTIONS": [
+      "#yKlingen verursachen #b",
+      " zusätzlichen Schaden."
+    ]
+  },
+  "After Image": {
+    "NAME": "Nachbild",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine Karte ausspielst, erhältst du #b",
+      " #yBlock."
+    ]
+  },
+  "Anger": {
+    "NAME": "Erzürnen",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine #yFertigkeit ausspielst, erhält #b",
+      " #yStärke."
+    ]
+  },
+  "Angry": {
+    "NAME": "Wütend",
+    "DESCRIPTIONS": [
+      "Immer wenn ",
+      " #yAngriffsschaden erleidet, erhält dieser Gegner #b",
+      " #yStärke."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Artefakt",
+    "DESCRIPTIONS": [
+      "Wehrt #b",
+      " Debuff ab.",
+      " Debuffs ab."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Angriffsbrand",
+    "DESCRIPTIONS": [
+      "Immer wenn du einen #yAngriff ausspielst, #yErschöpft er – für #b",
+      " Zug.",
+      "Immer wenn du einen #yAngriff ausspielst, #yErschöpft er – für die nächsten #b",
+      " Züge."
+    ]
+  },
+  "Barricade": {
+    "NAME": "Barrikade",
+    "DESCRIPTIONS": [
+      "#yBlocken wird zu Beginn deines Zuges nicht entfernt.",
+      "#yBlocken wird zu Beginn des Zuges nicht entfernt."
+    ]
+  },
+  "Blur": {
+    "NAME": "Schleier",
+    "DESCRIPTIONS": [
+      "#yBlock wird zu Beginn deines nächsten Zuges nicht entfernt.",
+      "#yBlock wird zu Beginn deiner nächsten #b",
+      " Züge nicht entfernt."
+    ]
+  },
+  "Brutality": {
+    "NAME": "Brutalität",
+    "DESCRIPTIONS": [
+      "Zu Beginn deines Zuges verlierst du #b",
+      " TP und ziehst #b",
+      " Karte.",
+      "Zu Beginn deines Zuges verlierst du #b",
+      " TP und ziehst #b",
+      " Karten."
+    ]
+  },
+  "Burst": {
+    "NAME": "Stoß",
+    "DESCRIPTIONS": [
+      "In diesem Zug spielst du deine nächste #yFertigkeit zweimal aus.",
+      "In diesem Zug spielst du deine nächsten ",
+      " #yFertigkeiten zweimal aus."
+    ]
+  },
+  "Choked": {
+    "NAME": "Gewürgt",
+    "DESCRIPTIONS": [
+      "Du verlierst #b",
+      " TP, immer wenn du in diesem Zug eine Karte ausspielst."
+    ]
+  },
+  "Combust": {
+    "NAME": "Verbrennen",
+    "DESCRIPTIONS": [
+      "Am Ende deines Zuges verlierst du #b",
+      " TP und verursachst #b",
+      " Schaden an ALLEN Gegnern."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Verwirrung",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine Karte ziehst, sind ihre Kosten zufällig."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Eingeschränkt",
+    "DESCRIPTIONS": [
+      "Am Ende deines Zuges erleidest du #b",
+      " Schaden."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Korruption",
+    "DESCRIPTIONS": [
+      "Fertigkeiten kosten #b0. Immer wenn du eine #yFertigkeit ausspielst, #yErschöpft sie.",
+      "Immer wenn du eine #yFertigkeit ausspielst, #yErschöpft sie."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Neugier",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine #yMacht ausspielst, erhält #b",
+      " #yStärke."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "Zusammenrollen",
+    "DESCRIPTIONS": [
+      "Rollt sich bei #yAngriffsschaden ein und erhält ",
+      " #yBlock. (Einmalig pro Kampf)"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "Tanzpuppe",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine Nicht-Fertigkeitskarte ausspielst, erleidest du #b",
+      " Schaden. (Kartentyp wechselt mit jedem Zug)",
+      "Immer wenn du eine Nicht-Angriffskarte ausspielst, erleidest du #b",
+      "+1 Tanzpuppe"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Dunkle Umarmung",
+    "DESCRIPTIONS": [
+      "Immer wenn eine Karte #yErschöpft, ziehst du #b1 Karte.",
+      "Immer wenn eine Karte #yErschöpft, ziehst du #b",
+      " Karten."
+    ]
+  },
+  "Darkness": {
+    "NAME": "Dunkelheit",
+    "DESCRIPTIONS": [
+      "Du erhältst #b1 Energie weniger zu Beginn deines Zuges."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Dämonenform",
+    "DESCRIPTIONS": [
+      "Zu Beginn deines Zuges erhältst du #b",
+      " #yStärke."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Geschicklichkeit",
+    "DESCRIPTIONS": [
+      "Erhöht von Karten erhaltenes #yBlock um #b",
+      "Verringert von Karten erhaltenes #yBlock um #b"
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Doppelter Schaden",
+    "DESCRIPTIONS": [
+      "#yAngriffe verursachen #b",
+      " Zug lang doppelten Schaden.",
+      " Züge lang doppelten Schaden."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Doppelschlag",
+    "DESCRIPTIONS": [
+      "In diesem Zug spielst du deinen nächsten #yAngriff zweimal aus.",
+      "In diesem Zug spielst du deine nächsten ",
+      " #yAngriffe zweimal aus."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Karte ziehen",
+    "DESCRIPTIONS": [
+      "Im nächsten Zug ziehst du #b",
+      " Karten.",
+      " Karte."
+    ]
+  },
+  "Draw": {
+    "NAME": "Ziehen",
+    "DESCRIPTIONS": [
+      "Zu Beginn jedes Zuges ziehst du #b",
+      " zusätzliche Karte.",
+      " Karte weniger.",
+      " zusätzliche Karten.",
+      " Karten weniger."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Ziehverringerung",
+    "DESCRIPTIONS": [
+      "Im nächsten Zug ziehst du #b",
+      " Karte weniger.",
+      " Karten weniger."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Ziehreduzierung",
+    "DESCRIPTIONS": [
+      "Im nächsten Zug ziehst du #b1 Karte weniger.",
+      "Du ziehst #b1 Karte weniger – für #b",
+      " Züge."
+    ]
+  },
+  "Electric Field": {
+    "NAME": "Elektrisches Feld",
+    "DESCRIPTIONS": [
+      "Wenn du angegriffen wirst, verursachst du #b1 Schaden für jede #b",
+      " Ladung, die du hast.",
+      "Wenn du angegriffen wirst, verursachst du #b1 Schaden für jede Ladung, die du hast."
+    ]
+  },
+  "Energized": {
+    "NAME": "Energiegeladen",
+    "DESCRIPTIONS": [
+      "Du erhältst #b",
+      " [G] zusätzlich im nächsten Zug.",
+      " zusätzliche [G] im nächsten Zug.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Verwickelt",
+    "DESCRIPTIONS": [
+      "Du kannst einen Zug lang keine #yAngriffe ausspielen."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Vergiften",
+    "DESCRIPTIONS": [
+      "Immer wenn du #yAngriffsschaden verursachst, wendest du #b",
+      " #yGift an."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Entwickeln",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine #yWunde ziehst, ziehst du eine Karte.",
+      "Immer wenn du eine #yWunde ziehst, ziehst du #b",
+      " Karten."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Explosiv",
+    "DESCRIPTIONS": [
+      "Verursacht beim Tod #b",
+      " Schaden an dir."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Fühle keinen Schmerz",
+    "DESCRIPTIONS": [
+      "Immer wenn eine Karte #yErschöpft, erhältst du #b",
+      " #yBlock."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Feueratem",
+    "DESCRIPTIONS": [
+      "Am Ende deines Zuges verursachst du für jeden Angriff, den du in diesem Zug ausgespielt hast, #b",
+      " Schaden an ALLEN Gegnern."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Flammenwall",
+    "DESCRIPTIONS": [
+      "Immer wenn du #yAngriffsschaden erleidest, gibst du #b",
+      " Schaden zurück."
+    ]
+  },
+  "Flight": {
+    "NAME": "Flucht",
+    "DESCRIPTIONS": [
+      "Du reduzierst den erlittenen #yAngriffsschaden um #b50%. Wird aufgehoben, wenn in einem Zug #b3 Mal #yAngriffsschaden verursacht wird."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Angriff aufheben",
+    "DESCRIPTIONS": [
+      "#yBlockt jeden Zug einen #yAngriff komplett."
+    ]
+  },
+  "Frail": {
+    "NAME": "Gebrechlich",
+    "DESCRIPTIONS": [
+      "Du erhältst #b25% weniger #yBlock von Karten – für #b",
+      " Zug.",
+      " Züge."
+    ]
+  },
+  "Shackled": {
+    "NAME": "Gefesselt",
+    "DESCRIPTIONS": [
+      "Erhält #b",
+      " #yStärke am Ende des eigenen Zuges zurück."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Schachzug",
+    "DESCRIPTIONS": [
+      "Nach #b",
+      " Zug erhältst du ",
+      " Zügen erhältst du ",
+      " [B] ."
+    ]
+  },
+  "Generator": {
+    "NAME": "Generator",
+    "DESCRIPTIONS": [
+      "Zu Beginn jedes Zuges erhältst du #b",
+      " #yLadung."
+    ]
+  },
+  "Hex": {
+    "NAME": "Verfluchen",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine Nicht-Angriffskarte ausspielst, mischst du #b",
+      " #yBenommen in deinen Aufnahmestapel."
+    ]
+  },
+  "Hide": {
+    "NAME": "Verstecken",
+    "DESCRIPTIONS": [
+      "Du kannst bis zum Beginn deines nächsten Zuges keinen Schaden erleiden.",
+      "Du kannst #b",
+      " Züge lang keinen Schaden erleiden."
+    ]
+  },
+  "Impulse": {
+    "NAME": "Impuls",
+    "DESCRIPTIONS": [
+      "Am Ende deines Zuges verlierst du #b",
+      " Ladung."
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Unendliche Klingen",
+    "DESCRIPTIONS": [
+      "Zu Beginn deines Zuges ziehst du #b",
+      " #yKlingen.",
+      " #yKlinge."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Bullet Time",
+    "DESCRIPTIONS": [
+      "Die Energiekosten aller grünen Karten sind jetzt #b0."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Ungreifbar",
+    "DESCRIPTIONS": [
+      "Du reduzierst JEGLICHEN erlittenen Schaden und TP-Verlust auf #b1 für die nächsten #b",
+      " Züge",
+      "Du reduzierst JEGLICHEN erlittenen Schaden und TP-Verlust auf #b1 für den nächsten Zug."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Umgekehrt",
+    "DESCRIPTIONS": [
+      "Immun gegen Schaden. Immer wenn du #yBlock erhältst, wird dieselbe Menge an TP erhalten."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Verwüster",
+    "DESCRIPTIONS": [
+      "Immer wenn du #yBlock erhältst, verursachst du an einem zufälligen Gegner #b",
+      " Schaden."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Wissen",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine #yMacht ausspielst, ziehst du #b",
+      " Karten."
+    ]
+  },
+  "Flex": {
+    "NAME": "Muskelspiel",
+    "DESCRIPTIONS": [
+      "Am Ende deines Zuges verlierst du #b",
+      " #yStärke."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Formbar",
+    "DESCRIPTIONS": [
+      "Erhält bei #yAngriffsschaden #b",
+      " #yBlock. #yBlock-Zuwachs erhöht sich, wenn ",
+      " ausgelöst wird. Setzt sich zu Beginn deines Zuges auf #b",
+      " zurück."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Metallisieren",
+    "DESCRIPTIONS": [
+      "Du erhältst #b",
+      " #yBlock am Ende deines Zuges.",
+      "Erhält #b",
+      " #yBlock am Ende des eigenen Zuges."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Moduswechsel",
+    "DESCRIPTIONS": [
+      "Wechselt nach dem Erleiden von #b",
+      " Schaden in einen Defensivmodus."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Blocken im nächsten Zug",
+    "DESCRIPTIONS": [
+      "Zu Beginn deines nächsten Zuges erhältst du #b",
+      " #yBlock."
+    ]
+  },
+  "No Draw": {
+    "NAME": "Keine Karten",
+    "DESCRIPTIONS": [
+      "Du kannst bis zum Ende des Zuges keine Karten ziehen."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Giftige Dämpfe",
+    "DESCRIPTIONS": [
+      "Zu Beginn deines Zuges wendest du #b",
+      " #yGift auf ALLE Gegner an."
+    ]
+  },
+  "Panache": {
+    "NAME": "Elan",
+    "DESCRIPTIONS": [
+      "Wenn du in diesem Zug #b",
+      " Karte mehr ausspielst, verursachst du #b",
+      " Schaden an ALLEN Gegnern.",
+      " Karten mehr ausspielst, verursachst du #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Schreibfeder",
+    "DESCRIPTIONS": [
+      "Dein nächster #yAngriff verursacht doppelten Schaden."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Phantasmal",
+    "DESCRIPTIONS": [
+      "Du verursachst #yDoppelten #ySchaden im nächsten Zug.",
+      "Du verursachst #yDoppelten #ySchaden für die nächsten ",
+      " Züge."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Panzerrüstung",
+    "DESCRIPTIONS": [
+      "Du erhältst #b",
+      " #yBlock am Ende deines Zuges. Der Verlust von TP durch einen Angriff reduziert #yPanzerrüstung um #b1.",
+      "Erhält #b",
+      " #yBlock am Ende des eigenen Zuges. Der Verlust von TP durch einen Angriff reduziert #yPanzerrüstung um #b1."
+    ]
+  },
+  "Poison": {
+    "NAME": "Gift",
+    "DESCRIPTIONS": [
+      "Zu Beginn deines Zuges verlierst du #b",
+      " TP, dann reduziert sich #yGift um #b1.",
+      "Verliert zu Beginn des eigenen Zuges #b"
+    ]
+  },
+  "Rage": {
+    "NAME": "Wut",
+    "DESCRIPTIONS": [
+      "Immer wenn du in diesem Zug einen Angriff ausspielst, erhältst du #b",
+      " #yBlock."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Schadensreduktion",
+    "DESCRIPTIONS": [
+      "Du reduzierst erlittenen Schaden um #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Regenerieren",
+    "DESCRIPTIONS": [
+      "Heilt #b",
+      " #yTP am Ende des eigenen Zuges."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Regeneration",
+    "DESCRIPTIONS": [
+      "Du heilst #b",
+      " #yTP am Ende deines Zuges für #b",
+      " Züge."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Lebensband",
+    "DESCRIPTIONS": [
+      "Wird nach #b2 Zügen mit #b50% TP wiederbelebt, wenn andere Gegner noch am Leben sind."
+    ]
+  },
+  "Relentless Beating": {
+    "NAME": "Unablässige Prügel",
+    "DESCRIPTIONS": [
+      " Schlägt schneller, wenn du Karten ausspielst oder Schaden verursachst"
+    ]
+  },
+  "Repulse": {
+    "NAME": "Abweisung",
+    "DESCRIPTIONS": [
+      "Immer wenn ",
+      " Angriffsschaden erleidet, erhältst du eine #yWunde auf die Hand."
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Karten behalten",
+    "DESCRIPTIONS": [
+      "Am Ende jedes Zuges darfst du #b",
+      " Karte behalten.",
+      " Karten behalten."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Hand behalten",
+    "DESCRIPTIONS": [
+      "Am Ende deines Zuges wirfst du deine Hand nicht ab – für #b",
+      " Züge.",
+      "Am Ende deines Zuges wirfst du deine Hand nicht ab."
+    ]
+  },
+  "Riposte": {
+    "NAME": "Konterangriff",
+    "DESCRIPTIONS": [
+      "Gibt einmal pro Zug #b",
+      " Schaden zurück, wenn du einen #yAngriff ausspielst."
+    ]
+  },
+  "Ritual": {
+    "NAME": "Ritual",
+    "DESCRIPTIONS": [
+      "Erhält am Ende des eigenen Zuges #b",
+      " #yStärke."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Erhält am Ende des eigenen Zuges #b",
+      " #yStärke."
+    ]
+  },
+  "Rupture": {
+    "NAME": "Riss",
+    "DESCRIPTIONS": [
+      "Beim Verlust von TP durch eine Karte erhältst du #b",
+      " #yStärke."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Sadistisch",
+    "DESCRIPTIONS": [
+      "Immer wenn du einen Debuff auf einen Gegner anwendest, verursachst du #b",
+      " Schaden."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "Schlangenartig",
+    "DESCRIPTIONS": [
+      "Immun gegen #yTränke."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Scharfe Haut",
+    "DESCRIPTIONS": [
+      "Immer wenn du einen #yAngriff ausspielst, erleidest du #b",
+      " Schaden."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Schrei aus dem Jenseits",
+    "DESCRIPTIONS": [
+      "Immer wenn du einen Angriff ausspielst, wirfst du eine zufällige Karte ab."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Fertigkeitsbrand",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine #yFertigkeit ausspielst, #yErschöpft sie – für #b",
+      " Zug.",
+      "Immer wenn du eine #yFertigkeit ausspielst, #yErschöpft sie – für die nächsten #b",
+      " Züge."
+    ]
+  },
+  "Slow": {
+    "NAME": "Langsam",
+    "DESCRIPTIONS": [
+      "Für jede Karte, die in diesem Zug ausgespielt wird, erhält ",
+      " #b10% mehr Schaden von #yAngriffen.",
+      " (Erleide #b",
+      "% mehr Schaden)"
+    ]
+  },
+  "Split": {
+    "NAME": "Spalten",
+    "DESCRIPTIONS": [
+      "Spaltet sich bei unter #b50% TP in #b2 kleinere Schleime mit den aktuellen TP von ",
+      "."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Sporenwolke",
+    "DESCRIPTIONS": [
+      "Wendet beim Tod #b",
+      " Züge lang #yVerletzlich auf dich an."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Stasis",
+    "DESCRIPTIONS": [
+      "Beim Tod wird ",
+      " auf deine Hand zurückgegeben."
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Extrakarten",
+    "DESCRIPTIONS": [
+      "Im nächsten Zug ziehst du #b1 Karte mehr.",
+      "Im nächsten Zug ziehst du #b",
+      " Extrakarten."
+    ]
+  },
+  "Strength": {
+    "NAME": "Stärke",
+    "DESCRIPTIONS": [
+      "Erhöht Angriffsschaden um #b",
+      "Verringert Angriffsschaden um #b"
+    ]
+  },
+  "Systems": {
+    "NAME": "Systeme",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine Ladung erhältst, verursachst du an einem zufälligen Gegner dieselbe Menge Schaden."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Diebstahl",
+    "DESCRIPTIONS": [
+      " stiehlt #b",
+      " #yGold bei jedem Angriff."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Dornen",
+    "DESCRIPTIONS": [
+      "Gibt beim Erleiden von #yAngriffsschaden #b",
+      " Schaden zurück."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Tausend Schnitte",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine Karte ausspielst, verursachst du #b",
+      " Schaden an ALLEN Gegnern."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Berserker",
+    "DESCRIPTIONS": [
+      "Wenn deine TP unter oder genau #b50% sind, erhältst du ",
+      " zu Beginn deines Zuges."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Zeitschleife",
+    "DESCRIPTIONS": [
+      "Immer wenn du #b",
+      " Karten ausspielst, endet dein Zug und Zeitfresser erhält #b",
+      " #yStärke."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Handwerkszeug",
+    "DESCRIPTIONS": [
+      "Zu Beginn deines Zuges ziehst du #b",
+      " Karte und wirfst #b",
+      " Karte ab.",
+      " Karten und wirfst #b",
+      " Karten ab."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Noch nicht erwacht",
+    "DESCRIPTIONS": [
+      "Dieser Gegner ist noch nicht erwacht …"
+    ]
+  },
+  "Unstable": {
+    "NAME": "Instabil",
+    "DESCRIPTIONS": [
+      "Verursache genug Schaden, um ihn aus dem Gleichgewicht zu bringen."
+    ]
+  },
+  "Venomology": {
+    "NAME": "Giftlehre",
+    "DESCRIPTIONS": [
+      "#yGift wird um #b",
+      " stärker, statt jeden Zug abzunehmen."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Verletzlich",
+    "DESCRIPTIONS": [
+      "Erleide #b",
+      "% mehr Schaden von #yAngriffen – für #b",
+      " Zug.",
+      " Züge."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Geschwächt",
+    "DESCRIPTIONS": [
+      "#yAngriffe verursachen #b",
+      "% weniger Schaden für #b",
+      " Zug.",
+      " Züge."
+    ]
+  },
+  "Wraith Form": {
+    "NAME": "Geistform",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine Fertigkeit ausspielst, verursachst du ",
+      " Schaden an einem zufälligen Gegner."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Albtraum",
+    "DESCRIPTIONS": [
+      "Am Anfang deines nächsten Zuges füge #b",
+      " Karten deiner Hand hinzu."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Schmerzende Stiche",
+    "DESCRIPTIONS": [
+      "Wenn dieser Gegner dir Schaden zufügt, füge deinem Abwurfstapel eine #yWunde hinzu."
+    ]
+  },
+  "Minion": {
+    "NAME": "Untertan",
+    "DESCRIPTIONS": [
+      "Untertanen fliehen aus dem Kampf, wenn ihr Anführer stirbt."
+    ]
+  }
+}

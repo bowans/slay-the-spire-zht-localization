@@ -1,0 +1,869 @@
+{
+  "Grand Finale": {
+    "NAME": "Clou du spectacle",
+    "DESCRIPTION": "Jouable si la pioche est vide. NL !D! point(s) de dégâts à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "My draw pile NL must be #rEmpty."
+  },
+  "Immolate": {
+    "NAME": "Immolation",
+    "DESCRIPTION": "Épuise 1 carte. Si Statut ou Malédiction, inflige !D! point(s) de dégâts à TOUS les ennemis."
+  },
+  "Regret": {
+    "NAME": "Regret",
+    "DESCRIPTION": "Injouable. NL À la fin du tour, perdez 1 PV par carte en main."
+  },
+  "Crippling Poison": {
+    "NAME": "Poison paralysant",
+    "DESCRIPTION": "Applique !M!de Poison. NL Applique !M!de Faiblesse."
+  },
+  "A Thousand Cuts": {
+    "NAME": "Mille coupures",
+    "DESCRIPTION": "Quand vous jouez une carte, inflige !M! point(s) de dégâts à TOUS les ennemis."
+  },
+  "Spot Weakness": {
+    "NAME": "Prescience",
+    "DESCRIPTION": "Si un ennemi compte attaquer, gagnez !M!de Force."
+  },
+  "Wound": {
+    "NAME": "Plaie",
+    "DESCRIPTION": "Injouable."
+  },
+  "Writhe": {
+    "NAME": "Souffrance",
+    "DESCRIPTION": "Injouable. NL Cadeau."
+  },
+  "Dark Shackles": {
+    "NAME": "Sombres chaînes",
+    "DESCRIPTION": "L'ennemi perd !M!de Force pour le reste du tour. NL Épuisement."
+  },
+  "Glass Knife": {
+    "NAME": "Couteau en verre",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts 2 fois. La carte inflige -2 points de dégâts pour ce combat."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Cape et dague",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Ajoute !M!Surin à votre main.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! de Blocage. NL Ajoute !M!Surins à votre main."
+  },
+  "Underhanded Strike": {
+    "NAME": "Frappe de la main",
+    "DESCRIPTION": "Injouable. NL Si la carte est défaussée, !D! point(s) de dégâts à un ennemi aléatoire.",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play this card."
+    ]
+  },
+  "Anger": {
+    "NAME": "Colère",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Place une copie de la carte dans votre défausse."
+  },
+  "Storm of Steel": {
+    "NAME": "Tempête d'acier",
+    "DESCRIPTION": "Défausse votre main. NL Ajoute 1 Surin à votre main par carte défaussée.",
+    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 upgraded Shiv to your hand for each card discarded."
+  },
+  "Cleave": {
+    "NAME": "Enchaînement",
+    "DESCRIPTION": "!D! point(s) de dégâts à TOUS les ennemis."
+  },
+  "Inflame": {
+    "NAME": "Enflammer",
+    "DESCRIPTION": "Gagnez !M!de Force."
+  },
+  "Wraith Form": {
+    "NAME": "Forme spectrale",
+    "DESCRIPTION": "Quand vous jouez une carte Compétence, inflige !M! point(s) de dégâts à un ennemi aléatoire."
+  },
+  "Sadistic Nature": {
+    "NAME": "Sadisme",
+    "DESCRIPTION": "Quand vous appliquez un débuff à un ennemi, il subit 3 point(s) de dégâts."
+  },
+  "J.A.X.": {
+    "NAME": "D.O.P.E",
+    "DESCRIPTION": "Perdez 3 PV. NL Gagnez 2 points de Force. NL Épuisement."
+  },
+  "Offering": {
+    "NAME": "Offrande",
+    "DESCRIPTION": "Perdez !M!PV. NL Gagnez [R] [R] . NL Piochez 3 cartes. NL Épuisement."
+  },
+  "Exhume": {
+    "NAME": "Résurrection",
+    "DESCRIPTION": "Choisissez une carte Épuisée et ajoutez-la à votre main. NL Épuisement."
+  },
+  "Power Through": {
+    "NAME": "Ténacité",
+    "DESCRIPTION": "Ajoutez 2 cartes Plaie à votre main. NL Gagnez !B! de Blocage."
+  },
+  "Dual Wield": {
+    "NAME": "Ambidextrie",
+    "DESCRIPTION": "Copie une carte Attaque ou Pouvoir dans votre main.",
+    "UPGRADE_DESCRIPTION": "Copie une carte Attaque ou Pouvoir dans votre main 2 fois."
+  },
+  "Deadly Poison": {
+    "NAME": "Poison mortel",
+    "DESCRIPTION": "Applique !M!de Poison."
+  },
+  "Leg Sweep": {
+    "NAME": "Balayette",
+    "DESCRIPTION": "Applique !M!de Faiblesse. NL Gagnez !B! de Blocage."
+  },
+  "Flex": {
+    "NAME": "Vantardise",
+    "DESCRIPTION": "Gagnez !M!de Force. NL À la fin du tour, perdez !M!de Force."
+  },
+  "Dagger Spray": {
+    "NAME": "Pluie de dagues",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts à TOUS les ennemis 2 fois."
+  },
+  "Bullet Time": {
+    "NAME": "Balles arrêtées",
+    "DESCRIPTION": "Impossible de piocher lors du tour. Les cartes vertes coûtent 0 lors du tour."
+  },
+  "Catalyst": {
+    "NAME": "Alchimiste",
+    "DESCRIPTION": "Double le Poison d'un ennemi. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Triple le Poison d'un ennemi. NL Épuisement."
+  },
+  "Reaper": {
+    "NAME": "Faucheuse",
+    "DESCRIPTION": "!D! point(s) de dégâts à TOUS les ennemis. Récupérez le total des dégâts non bloqués. NL Épuisement."
+  },
+  "Shiv": {
+    "NAME": "Surin",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Épuisement."
+  },
+  "Tactician": {
+    "NAME": "Stratège",
+    "DESCRIPTION": "Injouable. NL Si la carte est défaussée, gagnez [G].",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Si la carte est défaussée, gagnez [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play this card."
+    ]
+  },
+  "Bane": {
+    "NAME": "Fléau",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Si ennemi Empoisonné, inflige encore !D! point(s) de dégâts."
+  },
+  "Infernal Blade": {
+    "NAME": "Lame infernale",
+    "DESCRIPTION": "Ajoute une carte Attaque aléatoire à votre main. NL Coûte 0 pendant ce tour. NL Épuisement."
+  },
+  "After Image": {
+    "NAME": "Image miroir",
+    "DESCRIPTION": "Quand vous jouez une carte, gagnez 1 de Blocage.",
+    "UPGRADE_DESCRIPTION": "Cadeau. NL Quand vous jouez une carte, gagnez 1 de Blocage."
+  },
+  "Unload": {
+    "NAME": "Déchargement",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Défausse TOUTES les cartes (sauf Attaque)."
+  },
+  "Blade Dance": {
+    "NAME": "Danse de lames",
+    "DESCRIPTION": "Ajoute !M!Surins à votre main."
+  },
+  "Deflect": {
+    "NAME": "Détournement",
+    "DESCRIPTION": "Gagnez !B! de Blocage."
+  },
+  "Trip": {
+    "NAME": "Croche-pied",
+    "DESCRIPTION": "Applique 2 de Vulnérabilité.",
+    "UPGRADE_DESCRIPTION": "Apply !M!Vulnerable to ALL enemies."
+  },
+  "Dagger Throw": {
+    "NAME": "Lancer de dagues",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Piochez 1 carte. NL Défaussez 1 carte."
+  },
+  "Brutality": {
+    "NAME": "Brutalité",
+    "DESCRIPTION": "Au début du tour, perdez 1 PV et piochez 1 carte.",
+    "UPGRADE_DESCRIPTION": "Cadeau. Au début du tour, perdez 1 PV et piochez 1 carte."
+  },
+  "Iron Wave": {
+    "NAME": "Vague de fer",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Inflige !D! point(s) de dégâts."
+  },
+  "Reckless Charge": {
+    "NAME": "Charge furieuse",
+    "DESCRIPTION": "Subissez 1 de Vulnérabilité. NL Inflige !D! point(s) de dégâts."
+  },
+  "Decay": {
+    "NAME": "Déclin",
+    "DESCRIPTION": "Injouable. NL À la fin du tour, subissez 2 points de dégâts."
+  },
+  "Tools of the Trade": {
+    "NAME": "Savoir-faire",
+    "DESCRIPTION": "Au début du tour, piochez 1 carte et défaussez 1 carte."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Entrée fracassante",
+    "DESCRIPTION": "Cadeau. NL !D! point(s) de dégâts à TOUS les ennemis. NL Épuisement."
+  },
+  "Hemokinesis": {
+    "NAME": "Hémokinésie",
+    "DESCRIPTION": "Perdez !M!PV. NL Inflige !D! point(s) de dégâts."
+  },
+  "Intimidate": {
+    "NAME": "Intimidation",
+    "DESCRIPTION": "Applique !M!Faiblesse à TOUS les ennemis. NL Épuisement."
+  },
+  "Necronomicurse": {
+    "NAME": "Malédiction fatale",
+    "DESCRIPTION": "Injouable. NL Personne n'échappe à cette Malédiction."
+  },
+  "Choke": {
+    "NAME": "Étranglement",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Jouez une carte lors du tour et l'ennemi ciblé perd !M!PV."
+  },
+  "Juggernaut": {
+    "NAME": "Mastodonte",
+    "DESCRIPTION": "Quand vous gagnez du Blocage, inflige !M! point(s) de dégâts à un ennemi aléatoire."
+  },
+  "Caltrops": {
+    "NAME": "Pièges",
+    "DESCRIPTION": "Lorsqu'un ennemi attaque, vous lui infligez !M! point(s) de dégâts."
+  },
+  "Poisoned Stab": {
+    "NAME": "Poignard empoisonné",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Applique !M!de Poison."
+  },
+  "Blur": {
+    "NAME": "Flou",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Le Blocage n'est pas retiré au début du prochain tour."
+  },
+  "Body Slam": {
+    "NAME": "Projection",
+    "DESCRIPTION": "Inflige un total de dégâts égal à votre Blocage actuel.",
+    "UPGRADE_DESCRIPTION": " NL (!D! point(s) de dégâts)"
+  },
+  "True Grit": {
+    "NAME": "Virilité",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Épuise une carte aléatoire de votre main.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! de Blocage. NL Épuise une carte de votre main."
+  },
+  "Setup": {
+    "NAME": "Mise en place",
+    "DESCRIPTION": "Place une carte de votre main sur le haut de la pioche. NL Coûte 0 avant d'être jouée."
+  },
+  "Blood for Blood": {
+    "NAME": "Sang pour sang",
+    "DESCRIPTION": "Coûte 1 [R]  en moins NL par PV perdu dans ce combat. NL Inflige !D! point(s) de dégâts."
+  },
+  "Impervious": {
+    "NAME": "Invincible",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Épuisement."
+  },
+  "Shrug It Off": {
+    "NAME": "Même pas mal",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Piochez 1 carte."
+  },
+  "Clash": {
+    "NAME": "Conflit",
+    "DESCRIPTION": "Jouable si vous n'avez que des Attaques en main. NL Inflige !D! point(s) de dégâts.",
+    "EXTENDED_DESCRIPTION": [
+      "I have non-attack cards in my hand."
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Coup de tonnerre",
+    "DESCRIPTION": "!D! point(s) de dégâts et 1 de Vulnérabilité à TOUS les ennemis."
+  },
+  "Flame Barrier": {
+    "NAME": "Barrière enflammée",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Quand on vous attaque ce tour, vous infligez 4 points de dégâts. "
+  },
+  "Endless Agony": {
+    "NAME": "Agonie éternelle",
+    "DESCRIPTION": "Piochez cette carte et obtenez-en une copie dans votre main. NL Inflige !D! point(s) de dégâts. NL Épuisement."
+  },
+  "Berserk": {
+    "NAME": "Berserk",
+    "DESCRIPTION": "Si vos PV sont inférieurs à 50 %, gagnez [R] au début de chaque tour."
+  },
+  "Pummel": {
+    "NAME": "Volée de coups",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts !M! fois. NL Épuisement."
+  },
+  "Riddle With Holes": {
+    "NAME": "Criblé de trous",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts 5 fois."
+  },
+  "Burning Pact": {
+    "NAME": "Pacte brûlant",
+    "DESCRIPTION": "Épuise 1 carte. NL Piochez !M!cartes."
+  },
+  "Metallicize": {
+    "NAME": "Métallisation",
+    "DESCRIPTION": "À la fin du tour, gagnez !M!de Blocage."
+  },
+  "Pommel Strike": {
+    "NAME": "Frappe de pommeau",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Piochez !M!carte.",
+    "UPGRADE_DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Piochez !M!cartes."
+  },
+  "Pain": {
+    "NAME": "Douleur",
+    "DESCRIPTION": "Injouable. NL Si vous l'avez en main, NL vous perdez 1 PV en jouant d'autres cartes."
+  },
+  "Burst": {
+    "NAME": "Déflagration",
+    "DESCRIPTION": "Pendant ce tour, votre prochaine carte Compétence sera jouée 2 fois.",
+    "UPGRADE_DESCRIPTION": "Pendant ce tour, vos prochaines !M!cartes Compétence seront jouées 2 fois."
+  },
+  "Acrobatics": {
+    "NAME": "Acrobaties",
+    "DESCRIPTION": "Piochez !M!cartes. NL Défaussez 1 carte."
+  },
+  "Blind": {
+    "NAME": "Aveuglement",
+    "DESCRIPTION": "Applique !M! de Faiblesse.",
+    "UPGRADE_DESCRIPTION": "Apply !M!Weak to ALL enemies."
+  },
+  "Doppelganger": {
+    "NAME": "Clonage",
+    "DESCRIPTION": "Au prochain tour, piochez X cartes et gagnez X [G]. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Au prochain tour, piochez X+1 cartes et gagnez X+1 [G]. NL Épuisement."
+  },
+  "Skewer": {
+    "NAME": "Brochette",
+    "DESCRIPTION": "Dépense tous vos [G]. NL Inflige !D! point(s) de dégâts X fois."
+  },
+  "Envenom": {
+    "NAME": "Envenimement",
+    "DESCRIPTION": "Dès qu'une carte Attaque inflige des dégâts, applique 1 de Poison."
+  },
+  "Adrenaline": {
+    "NAME": "Adrénaline",
+    "DESCRIPTION": "Gagnez [G]. NL Piochez 2 cartes. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Gagnez [G] [G]. NL Piochez 2 cartes. NL Épuisement."
+  },
+  "Quick Slash": {
+    "NAME": "Lacération rapide",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Piochez 1 carte."
+  },
+  "Twin Strike": {
+    "NAME": "Frappe double",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts 2 fois."
+  },
+  "Parasite": {
+    "NAME": "Parasite",
+    "DESCRIPTION": "Injouable. NL Si la carte est Transformée ou retirée de votre deck, perdez 3 PV max."
+  },
+  "Bash": {
+    "NAME": "Heurt",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Applique !M!de Vulnérabilité."
+  },
+  "Clothesline": {
+    "NAME": "Manchette",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Applique !M!de Faiblesse."
+  },
+  "Shockwave": {
+    "NAME": "Onde de choc",
+    "DESCRIPTION": "Applique !M!de Faiblesse et de Vulnérabilité sur TOUS les ennemis. NL Épuisement."
+  },
+  "Rampage": {
+    "NAME": "Saccage",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Quand vous la jouez, ses dégâts gagnent !M!pour ce combat."
+  },
+  "Bandage Up": {
+    "NAME": "Bandages",
+    "DESCRIPTION": "Récupérez !M! PV. NL Épuisement."
+  },
+  "Sever Soul": {
+    "NAME": "Séparation d'âme",
+    "DESCRIPTION": "Épuise toutes les cartes de votre main (sauf Attaque). NL Inflige !D! point(s) de dégâts."
+  },
+  "Whirlwind": {
+    "NAME": "Tourbillon",
+    "DESCRIPTION": "Dépense tous les [R]. NL Inflige !D! point(s) de dégâts à TOUS les ennemis X fois."
+  },
+  "Warcry": {
+    "NAME": "Cri de guerre",
+    "DESCRIPTION": "Piochez 2 cartes. NL Place une carte de votre main sur le haut de la pioche. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
+  },
+  "PiercingWail": {
+    "NAME": "Hurlement perçant",
+    "DESCRIPTION": "TOUS les ennemis perdent !M!de Force pendant 1 tour. NL Épuisement."
+  },
+  "Secret Technique": {
+    "NAME": "Technique secrète",
+    "DESCRIPTION": "Choisissez une carte Compétence dans votre pioche et placez-la dans votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "There are no Skills NL in my draw pile.",
+    "EXTENDED_DESCRIPTION": [
+      "There are no Skills NL in my draw pile."
+    ]
+  },
+  "Calculated Gamble": {
+    "NAME": "Coup de poker",
+    "DESCRIPTION": "Défaussez votre main NL et piochez le même nombre de cartes. Épuisement.",
+    "UPGRADE_DESCRIPTION": "Défaussez votre main NL et piochez le même nombre de cartes."
+  },
+  "Combust": {
+    "NAME": "Combustion",
+    "DESCRIPTION": "NL À la fin du tour, perdez 1 PV et infligez !M! dégâts à TOUS les ennemis."
+  },
+  "Deep Breath": {
+    "NAME": "Inspiration",
+    "DESCRIPTION": "Mélangez les cartes de votre défausse à votre pioche. NL Piochez 1 carte.",
+    "UPGRADE_DESCRIPTION": "Shuffle your discard pile into your draw pile. NL Draw !M!cards."
+  },
+  "Doubt": {
+    "NAME": "Doute",
+    "DESCRIPTION": "Injouable. NL À la fin du tour, gagnez 1 de Faiblesse."
+  },
+  "Escape Plan": {
+    "NAME": "Plan d'évasion",
+    "DESCRIPTION": "Piochez 1 carte. NL S'il s'agit d'une carte Compétence, gagnez !B! de Blocage."
+  },
+  "Finisher": {
+    "NAME": "Coup de grâce",
+    "DESCRIPTION": "!D! point(s) de dégâts par carte Attaque jouée lors du tour.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Vous avez joué ",
+      " carte Attaque.)",
+      " cartes Attaque.)"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Sombre étreinte",
+    "DESCRIPTION": "Quand une carte est Épuisée, NL piochez 1 carte."
+  },
+  "Die Die Die": {
+    "NAME": "Mise à mort",
+    "DESCRIPTION": "!D! point(s) de dégâts à TOUS les ennemis. NL Épuisement."
+  },
+  "Well Laid Plans": {
+    "NAME": "Planification",
+    "DESCRIPTION": "À la fin du tour, Conservez jusqu'à !M! carte.",
+    "UPGRADE_DESCRIPTION": "À la fin du tour, Conservez jusqu'à !M! cartes."
+  },
+  "Defend_R": {
+    "NAME": "Défense",
+    "DESCRIPTION": "Gagnez !B! de Blocage."
+  },
+  "Defend_G": {
+    "NAME": "Défense",
+    "DESCRIPTION": "Gagnez !B! de Blocage."
+  },
+  "Defend_B": {
+    "NAME": "Défense",
+    "DESCRIPTION": "Gagnez !B! de Blocage."
+  },
+  "Seeing Red": {
+    "NAME": "Voir rouge",
+    "DESCRIPTION": "Gagnez [R] [R]. NL Épuisement."
+  },
+  "Disarm": {
+    "NAME": "Désarmement",
+    "DESCRIPTION": "L'ennemi perd !M!de Force. NL Épuisement."
+  },
+  "Panache": {
+    "NAME": "Panache",
+    "DESCRIPTION": "Quand vous jouez 4 cartes en un tour, 10 points de dégâts à TOUS les ennemis."
+  },
+  "Fiend Fire": {
+    "NAME": "Feu ennemi",
+    "DESCRIPTION": "Épuise votre main. NL Inflige !D! point(s) de dégâts par carte Épuisée. NL Épuisement."
+  },
+  "Terror": {
+    "NAME": "Terreur",
+    "DESCRIPTION": "Applique 99 de Vulnérabilité. NL Épuisement."
+  },
+  "Dazed": {
+    "NAME": "Hébètement",
+    "DESCRIPTION": "Injouable. NL Éthérée."
+  },
+  "Barricade": {
+    "NAME": "Barricade",
+    "DESCRIPTION": "Le Blocage n'expire plus au début de votre tour."
+  },
+  "Armaments": {
+    "NAME": "Protections",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Améliore une carte de votre main pour le reste du combat.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! de Blocage. NL Améliore TOUTES les cartes de votre main pour le reste du combat."
+  },
+  "Havoc": {
+    "NAME": "Ravages",
+    "DESCRIPTION": "Jouez la prochaine carte de la pioche, puis elle s'Épuise."
+  },
+  "Secret Weapon": {
+    "NAME": "Arme secrète",
+    "DESCRIPTION": "Choisissez une carte Attaque dans votre pioche et placez-la dans votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "There are no Attacks NL in my draw pile.",
+    "EXTENDED_DESCRIPTION": [
+      "There are no Attacks NL in my draw pile."
+    ]
+  },
+  "Apotheosis": {
+    "NAME": "Apothéose",
+    "DESCRIPTION": "Améliore TOUTES vos cartes pour le reste du combat. NL Épuisement."
+  },
+  "Feel No Pain": {
+    "NAME": "Ignore la douleur",
+    "DESCRIPTION": "Quand une carte est Épuisée, NL gagnez !M!de Blocage."
+  },
+  "Hide": {
+    "NAME": "Cache-cache",
+    "DESCRIPTION": "Ne perdez pas de PV jusqu'au début de votre prochain tour. NL Épuisement."
+  },
+  "Corruption": {
+    "NAME": "Corruption",
+    "DESCRIPTION": "Les cartes Compétence coûtent 0. NL Quand vous en jouez une, elle s'Épuise."
+  },
+  "Heel Hook": {
+    "NAME": "Prise de jambe",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Si ennemi Affaibli, NL gagnez [G] et NL piochez 1 carte."
+  },
+  "Injury": {
+    "NAME": "Blessure",
+    "DESCRIPTION": "Injouable."
+  },
+  "Rage": {
+    "NAME": "Rage",
+    "DESCRIPTION": "Quand vous jouez une carte Attaque, gagnez !M!de Blocage."
+  },
+  "Headbutt": {
+    "NAME": "Coup de tête",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Place une carte de votre défausse sur le haut de la pioche."
+  },
+  "Limit Break": {
+    "NAME": "Dépasser les limites",
+    "DESCRIPTION": "Double votre Force. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Double votre Force."
+  },
+  "Entrench": {
+    "NAME": "Enracinement",
+    "DESCRIPTION": "Double votre Blocage.",
+    "UPGRADE_DESCRIPTION": "Double votre Blocage."
+  },
+  "Noxious Fumes": {
+    "NAME": "Fumées toxiques",
+    "DESCRIPTION": "Au début du tour, applique !M!de Poison à TOUS les ennemis."
+  },
+  "Infinite Blades": {
+    "NAME": "Lames infinies",
+    "DESCRIPTION": "Au début du tour, ajoute un Surin à votre main.",
+    "UPGRADE_DESCRIPTION": "Cadeau. NL Au début du tour, ajoute un Surin à votre main."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Tueur illusoire",
+    "DESCRIPTION": "Au prochain tour, votre Attaque est doublée."
+  },
+  "Malaise": {
+    "NAME": "Malaise",
+    "DESCRIPTION": "Dépense tous vos [G]. NL L'ennemi perd X de Force. Applique X de Faiblesse. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Dépense tous vos [G]. NL L'ennemi perd X+1 de Force. Applique X+1 de Faiblesse. NL Épuisement."
+  },
+  "Reflex": {
+    "NAME": "Réflexe",
+    "DESCRIPTION": "Injouable. NL Si la carte est défaussée, piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Si la carte est défaussée, piochez !M! cartes.",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play this card."
+    ]
+  },
+  "Sentinel": {
+    "NAME": "Sentinelle",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Si cette carte est Épuisée, NL gagnez [R] [R].",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! de Blocage. NL Si cette carte est Épuisée, NL gagnez [R] [R] [R]."
+  },
+  "Survivor": {
+    "NAME": "Survivant",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Défaussez une carte."
+  },
+  "Wild Strike": {
+    "NAME": "Frappe sauvage",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Insère une Plaie dans votre pioche."
+  },
+  "Eviscerate": {
+    "NAME": "Éviscération",
+    "DESCRIPTION": "Coûte 1 [G] en moins NL par carte défaussée ce tour. NL Inflige !D! point(s) de dégâts 3 fois."
+  },
+  "Flash of Steel": {
+    "NAME": "Éclair d'acier",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Piochez 1 carte."
+  },
+  "Battle Trance": {
+    "NAME": "Intensité",
+    "DESCRIPTION": "Piochez !M! cartes. NL Impossible de piocher plus de cartes pendant ce tour."
+  },
+  "Heavy Blade": {
+    "NAME": "Lame lourde",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Force ajoutée à Lame lourde !M! fois."
+  },
+  "Clumsy": {
+    "NAME": "Maladresse",
+    "DESCRIPTION": "Injouable. NL Épuisement à la fin de votre tour."
+  },
+  "Searing Blow": {
+    "NAME": "Coup brûlant",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Peut être améliorée à l'infini."
+  },
+  "Corpse Explosion": {
+    "NAME": "Explosion morbide",
+    "DESCRIPTION": "L'ennemi perd tout le Poison. Inflige le double de ce total à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "L'ennemi perd tout le Poison. Inflige le triple de ce total à TOUS les ennemis.",
+    "EXTENDED_DESCRIPTION": [
+      "That enemy isn't Poisoned."
+    ]
+  },
+  "Second Wind": {
+    "NAME": "Second souffle",
+    "DESCRIPTION": "Épuise toutes les cartes (sauf Attaque). Gagnez !B! de Blocage par carte Épuisée."
+  },
+  "Enlightenment": {
+    "NAME": "Illumination",
+    "DESCRIPTION": "Réduit le coût des cartes dans votre main de 1 pendant ce tour.",
+    "UPGRADE_DESCRIPTION": "Reduce the cost of cards in your hand to 1 this combat."
+  },
+  "Purity": {
+    "NAME": "Pureté",
+    "DESCRIPTION": "Choisissez 2 cartes à Épuiser dans votre main. NL Épuisement."
+  },
+  "Panacea": {
+    "NAME": "Panacée",
+    "DESCRIPTION": "Perdez Vulnérabilité, Faiblesse et Frêle."
+  },
+  "Dash": {
+    "NAME": "Esquive",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Inflige !D! point(s) de dégâts."
+  },
+  "Transmutation": {
+    "NAME": "Transmutation",
+    "DESCRIPTION": "Transforme votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards into your hand. NL Exhaust."
+  },
+  "Backstab": {
+    "NAME": "Trahison",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Cadeau. NL Épuisement."
+  },
+  "Step Through Time": {
+    "NAME": "Voyage dans le temps",
+    "DESCRIPTION": "COÛT : 2 Charges. NL Vos PV reviennent à la valeur du tour précédent. NL Épuisement."
+  },
+  "Feed": {
+    "NAME": "Appétit",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Si l'ennemi succombe, gagnez !M! PV max permanents. Épuisement."
+  },
+  "Rupture": {
+    "NAME": "Rupture",
+    "DESCRIPTION": "Quand une carte vous fait perdre des PV, NL gagnez 1 de Force."
+  },
+  "Bouncing Flask": {
+    "NAME": "Flasque sauteuse",
+    "DESCRIPTION": "Applique 3 de Poison à un ennemi aléatoire !M!fois."
+  },
+  "Bludgeon": {
+    "NAME": "Gourdin",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts."
+  },
+  "Finesse": {
+    "NAME": "Subtilité",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Piochez 1 carte."
+  },
+  "Slice": {
+    "NAME": "Tranche",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts."
+  },
+  "Backflip": {
+    "NAME": "Salto",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Piochez 2 cartes."
+  },
+  "Outmaneuver": {
+    "NAME": "Tacticien",
+    "DESCRIPTION": "Au prochain tour, NL gagnez [G] [G].",
+    "UPGRADE_DESCRIPTION": "Au prochain tour, NL gagnez [G] [G] [G]."
+  },
+  "Bloodletting": {
+    "NAME": "Saignée",
+    "DESCRIPTION": "Gagnez [R]. NL Perdez !M!PV.",
+    "UPGRADE_DESCRIPTION": "Gagnez [R] [R]. NL Perdez !M!PV."
+  },
+  "Concentrate": {
+    "NAME": "Concentration",
+    "DESCRIPTION": "Défaussez !M!cartes. NL Gagnez [G] [G]."
+  },
+  "Master of Strategy": {
+    "NAME": "Maître stratège",
+    "DESCRIPTION": "Piochez 3 cartes. NL Épuisement."
+  },
+  "Flechettes": {
+    "NAME": "Fléchettes",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts par Compétence en main.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Vous avez ",
+      " carte Compétence).",
+      " cartes Compétence)."
+    ]
+  },
+  "Perfected Strike": {
+    "NAME": "Frappe parfaite",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Ajoute 2 points de dégâts par carte de \"Frappe\".",
+    "UPGRADE_DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Ajoute 3 points de dégâts par carte de \"Frappe\"."
+  },
+  "Carnage": {
+    "NAME": "Carnage",
+    "DESCRIPTION": "Éthérée. NL Inflige !D! point(s) de dégâts."
+  },
+  "Masterful Stab": {
+    "NAME": "Poignard expert",
+    "DESCRIPTION": "Jouable si vous n'avez pas d'autres cartes en main. NL Inflige !D! point(s) de dégâts.",
+    "UPGRADE_DESCRIPTION": "This has to be my NL only card."
+  },
+  "Good Instincts": {
+    "NAME": "Instincts de survie",
+    "DESCRIPTION": "Gagnez !B! de Blocage."
+  },
+  "Prepared": {
+    "NAME": "Préparatifs",
+    "DESCRIPTION": "Piochez !M!carte. NL Défaussez !M!carte.",
+    "UPGRADE_DESCRIPTION": "Piochez !M!cartes. NL Défaussez !M!cartes."
+  },
+  "Dropkick": {
+    "NAME": "Coup de pied sauté",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Si ennemi Vulnérable, NL gagnez [R] et NL piochez 1 carte."
+  },
+  "Swift Strike": {
+    "NAME": "Frappe rapide",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts."
+  },
+  "Normality": {
+    "NAME": "Normalité",
+    "DESCRIPTION": "Injouable. NL Impossible de jouer plus de 3 cartes par tour.",
+    "EXTENDED_DESCRIPTION": [
+      "I can only play up to NL #r3 cards per turn.",
+      "Unplayable. NL You cannot play more than ",
+      " cards per turn.",
+      " cards per turn. NL You have played ",
+      " card this turn."
+    ]
+  },
+  "Accuracy": {
+    "NAME": "Précision",
+    "DESCRIPTION": "Les Surins infligent !M! point(s) de dégâts en plus."
+  },
+  "Sword Boomerang": {
+    "NAME": "Épée boomerang",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts à un ennemi aléatoire !M! fois."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Polyvalence",
+    "DESCRIPTION": "Ajoute une carte sans couleur aléatoire à votre main. NL Épuisement."
+  },
+  "Demon Form": {
+    "NAME": "Forme démoniaque",
+    "DESCRIPTION": "Au début de chaque tour, gagnez !M!de Force."
+  },
+  "Fire Breathing": {
+    "NAME": "Souffle de feu",
+    "DESCRIPTION": "a la fin du tour, inflige 1 point de degats a tous les ennemis par carte Attaque Jouée."
+  },
+  "Ghostly Armor": {
+    "NAME": "Armure spectrale",
+    "DESCRIPTION": "Éthérée. NL Gagnez !B! de Blocage."
+  },
+  "Uppercut": {
+    "NAME": "Uppercut",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Applique !M!de Faiblesse. NL Applique !M!de Vulnérabilité."
+  },
+  "Mind Blast": {
+    "NAME": "Détonation mentale",
+    "DESCRIPTION": "Inflige des dégâts selon le nombre de cartes de votre pioche.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deals !D! damage.)"
+    ]
+  },
+  "Neutralize": {
+    "NAME": "Neutralisation",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Applique !M!de Faiblesse."
+  },
+  "Strike_R": {
+    "NAME": "Frappe",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts."
+  },
+  "Strike_G": {
+    "NAME": "Frappe",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts."
+  },
+  "Strike_B": {
+    "NAME": "Frappe",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts."
+  },
+  "Evolve": {
+    "NAME": "Évolution",
+    "DESCRIPTION": "Insère 2 cartes Plaie dans votre pioche. NL Si vous piochez une carte Plaie, piochez !M!carte.",
+    "UPGRADE_DESCRIPTION": "Insère 2 cartes Plaie dans votre pioche. NL Quand vous piochez une carte Plaie, piochez !M!cartes."
+  },
+  "Burn": {
+    "NAME": "Brûlure",
+    "DESCRIPTION": "Injouable. NL À la fin du tour, subissez 2 points de dégâts.",
+    "UPGRADE_DESCRIPTION": "Injouable. NL À la fin du tour, subissez 4 points de dégâts."
+  },
+  "Sucker Punch": {
+    "NAME": "Coup de poing",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Applique !M!de Faiblesse."
+  },
+  "Double Tap": {
+    "NAME": "Attaque double",
+    "DESCRIPTION": "Pendant ce tour, votre prochaine carte Attaque sera jouée 2 fois.",
+    "UPGRADE_DESCRIPTION": "Pendant ce tour, vos prochaines !M!cartes Attaque seront jouées 2 fois."
+  },
+  "Footwork": {
+    "NAME": "Jeu de jambes",
+    "DESCRIPTION": "Gagnez !M!de Dextérité."
+  },
+  "Thinking Ahead": {
+    "NAME": "Coup d'avance",
+    "DESCRIPTION": "Piochez 2 cartes, puis placez une carte de votre main sur le haut de la pioche.",
+    "UPGRADE_DESCRIPTION": "Piochez 2 cartes, puis placez une carte de votre main sur le haut de la pioche."
+  },
+  "Distraction": {
+    "NAME": "Distraction",
+    "DESCRIPTION": "Ajoute une Compétence aléatoire à votre main. NL Coûte 0 pendant ce tour. NL Épuisement."
+  },
+  "Dodge and Roll": {
+    "NAME": "Dérobade",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Au prochain tour, gagnez !B! de Blocage."
+  },
+  "All Out Attack": {
+    "NAME": "Attaque suprême",
+    "DESCRIPTION": "!D! point(s) de dégâts à TOUS les ennemis. NL Piochez 1 carte en moins au prochain tour."
+  },
+  "Flying Knee": {
+    "NAME": "Coup de genou",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Au prochain tour, gagnez [G]."
+  },
+  "Predator": {
+    "NAME": "Prédateur",
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Piochez 2 cartes en plus au prochain tour."
+  },
+  "Madness": {
+    "NAME": "Folie",
+    "DESCRIPTION": "Une carte aléatoire de votre main coûte 0 pour le reste du combat. NL Épuisement."
+  },
+  "Expertise": {
+    "NAME": "Expertise",
+    "DESCRIPTION": "Gagnez !B! de Blocage. NL Peut être améliorée à l'infini."
+  },
+  "The Bomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTION": "Deal !D! damage to everyone (including yourself). NL Exhaust."
+  },
+  "Night Terror": {
+    "NAME": "Nightmare",
+    "DESCRIPTION": "Choisi un carte. NL Au prochain tour, gagnez !M!copies de cette carte dans votre main. NL Épuisement.",
+    "EXTENDED_DESCRIPTION": [
+      "Je peux seulement utilizer",
+      " NL un foix chaque turn."
+    ]
+  },
+  "Venomology": {
+    "NAME": "Alchemize",
+    "DESCRIPTION": "Gagnez un potion. NL Épuisement."
+  },
+  "Bite": {
+    "NAME": "Bite",
+    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
+  }
+}

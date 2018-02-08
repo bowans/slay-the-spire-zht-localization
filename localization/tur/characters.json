@@ -1,0 +1,146 @@
+{
+  "Ironclad": {
+    "NAMES": [
+      "Demirkaplı"
+    ],
+    "TEXT": [
+      "Demirkaplıların geriye kalan son askeri. NL Şeytani güçleri kullanabilmek için ruhunu sattı."
+    ]
+  },
+  "Crowbot": {
+    "NAMES": [
+      "Kargabot"
+    ],
+    "TEXT": [
+      "BİP BİP"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Sessiz"
+    ],
+    "TEXT": [
+      "Sisadaları'nın ölümcül kadın avcısı. NL Düşmanlarını hançerler ve zehirleyerek yok eder."
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Selam...~ NL ~Ben..~ ~Neow...~",
+      "~Merhaba...~ NL ~Tekrardan..~",
+      "~Selam...~",
+      "~Yeniden mi~ NL ~deniyorsun...?~",
+      "~Kutsamamı~ ~alabilmek~ ~için...~ NL ~Boss'a~ ~ulaş...~",
+      "~En~ ~azından...~ ~ilk~ ~Boss'la~ NL ~karşılaş...~",
+      "~Seni~ ~geri~ ~getirdim...~",
+      "~Seç...~",
+      "~Yerine~ ~getirildi...~",
+      "~Risk...~ NL ~..ödül....~"
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      "[Konuş]",
+      "[Geç]",
+      "[Çık]"
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gBir #gKart #gseç ]",
+      "[ #gRastgele #gnadir #Kart #gseç ]",
+      "[ #gDestenden #gbir #gKart #gsil ]",
+      "[ #gBir #gKart #gGeliştir]",
+      "[ #gBir #gKart #gDönüştür ]",
+      "[ #gRastgele #g3 #gİksir #gelde #get ]",
+      "[ #gRastgele #gsıradan #gKalıntı #gelde #get ]",
+      "[ #gMaksimum #gHP #g+",
+      "[ #g",
+      " #gAltın #gkazan ]",
+      "#g2 #gKart #gSil ]",
+      "#gRastgele #gnadir #gKalıntı #gelde #get ]",
+      "#gNadir #gKart #gseç ]",
+      "#g ",
+      " #gAltın #gkazan ]",
+      "#g2 #gKart #gDönüştür ]",
+      "#gMaksimum #gHP #g+",
+      "[ #r",
+      " #rMaksimum #rHP #rkaybet ",
+      "[ #rTüm #rAltınını #rkaybet ",
+      "[ #rLanetlen ",
+      "[ #rŞu #ranki #rHP'nin #r%50'sini #rkaybet ",
+      "Kart Seç",
+      "Silmek için Kart seç",
+      "Silmek için 2 Kart seç",
+      "Dönüştürmek için Kart seç",
+      "Dönüştürmek için 2 Kart seç",
+      "Geliştirmek için Kart seç",
+      "[ #gSıradaki #g3 #gdövüşte #gdüşmanların #g1 #gHP'si #golur ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rBaşlangıç #rKalıntısını #rkaybet #rrastgele #rBoss #rKalıntısı #rkazan ]"
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "İlerle",
+      "~Hoşgeldin!~"
+    ],
+    "TEXT": [
+      "Selam! NL Bir şeyler satın al! NL Al al al!",
+      "Saç kesimini beğendim",
+      "Zamanın var mı?",
+      "Kedi insanı mısın köpek insanı mı?",
+      "~Tehlikeli~ görünüyorsun NL hehe...",
+      "Acele etme... NL ..... NL ... ya da et",
+      "Halı hoşuna gitti mi? NL Satılık değil",
+      "Küçük işyerlerini destekle!",
+      "Maskeler havalıdır, bilirim!",
+      "Hmm... NL ...hmm... NL Aa!",
+      "Biraz dur ve dinle!",
+      "Yalnız gitmek tehlikelidir! Altınlarını bana bırak!",
+      "Bi' şeyler al",
+      "~*OOOAAH*~",
+      "Altın severim.",
+      "En sevdiğim renk mavi. NL Senin ne?"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Hoşgeldin~ NL ~Hoşgeldin!~",
+      "Hey, NL daha çok NL #rAltına ihtiyacın var.",
+      "Hey dostum #rParan yok!",
+      "Fakir misin?",
+      "Yeteri kadar #rAltının yok.",
+      "Buna paran yetmez.",
+      "Burda hayır işi yapmıyoruz.",
+      "~Teşekkürleeerr~",
+      "Bi satış daha... NL hahaha! NL Dır - @Dırırım!@",
+      "@SATILDI!@",
+      "İade yok.",
+      "İyi günler.",
+      "Ayrıl",
+      "Destenden silmek için bir kart seç."
+    ],
+    "TEXT": [
+      "Selam! NL Bir şeyler satın al! NL Al al al!",
+      "Saç kesimini beğendim",
+      "Zamanın var mı?",
+      "Kedi insanı mısın köpek insanı mı?",
+      "~Tehlikeli~ görünüyorsun NL hehe...",
+      "Acele etme... NL ..... NL ... ya da et",
+      "Halı hoşuna gitti mi? NL Satılık değil",
+      "Küçük işyerlerini destekle!",
+      "Maskeler havalıdır, bilirim!",
+      "Hmm... NL ...hmm... NL Aa!",
+      "Biraz dur ve dinle!",
+      "Yalnız gitmek tehlikelidir! Altınlarını bana bırak!",
+      "Bi' şeyler al",
+      "~*OOOAAH*~",
+      "Altın severim.",
+      "En sevdiğim renk mavi. NL Senin ne?"
+    ]
+  }
+}

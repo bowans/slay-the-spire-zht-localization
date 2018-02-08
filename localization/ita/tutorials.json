@@ -1,0 +1,217 @@
+{
+  "Main Tutorial": {
+    "TEXT": [
+      "Sconfiggi i nemici giocando le tue carte. NL NL Per farlo, hai bisogno di #yEnergia. NL Una volta esaurita l'energia, passa. NL NL All'inizio di ogni turno, peschi nuove carte e la tua #yEnergia viene rifornita.",
+      "Gioca carte difensive per ottenere #yBlocco quando i nemici stanno per attaccarti. NL NL Il #yBlocco riduce il danno d'attacco in arrivo ma NL #rsvanisce all'inizio del tuo prossimo turno.",
+      "Nel tuo turno, puoi capire l'#yIntento dei nemici guardando sopra di loro. NL NL Se un nemico intende attaccare, assicurati di ottenere del #yBlocco!"
+    ],
+    "LABEL": [
+      "Prossimo",
+      "Sono Pronto!",
+      "Tutorial",
+      "(Pagina ",
+      " su 3)"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Suggerimento: ",
+      "Capito"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Bevi o lancia pozioni in combattimento! NL Altrimenti puoi conservarle fra le stanze."
+    ],
+    "LABEL": [
+      "Pozioni"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Hai bisogno di energia per giocare carte! NL Questa sfera in basso a sinistra indica quanta energia ti rimane in questo turno."
+    ],
+    "LABEL": [
+      "Costo di Energia"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Se non hai più carte da pescare, gli Scarti vengono mescolati nella Pila."
+    ],
+    "LABEL": [
+      "Niente Più Carte?"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Quando usi questa carta guadagni un Potere. NL I Poteri sono abilità passive che durano per l'intero combattimento.",
+      "Hai bisogno di energia per giocare carte! NL Questa sfera in basso a sinistra indica quanta energia ti rimane in questo turno.",
+      "La mia #rMano #rè #rPiena!"
+    ],
+    "LABEL": [
+      "Carte Potere",
+      "Costo di Energia"
+    ]
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Le Reliquie che trovi nella Guglia forniscono bonus unici e rimangono attive per il resto della partita. NL Puoi ottenerle sconfiggendo nemici Elite o negli scrigni.",
+      "Non hai ancora trovato questa Reliquia",
+      "Il suo potere è stato completamente esaurito."
+    ],
+    "LABEL": [
+      "Reliquie",
+      "Sconosciuta",
+      "Questa reliquia deve ancora essere sbloccata.",
+      "Bloccata"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Non dimenticarti delle tue ricompense! NL Cliccale per raccoglierle."
+    ],
+    "LABEL": [
+      "Ricompense"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "All'inizio di ogni turno, NL #b",
+      " carte vengono pescate da qui. NL NL Clicca per visualizzare le carte nella tua Pila (ordine casuale).",
+      " carte vengono pescate da qui. NL NL Clicca per visualizzare le carte nella tua Pila."
+    ],
+    "LABEL": [
+      "Pila"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Gli errori ed altri dati di gioco vengono inviati a Mega Crit per bilanciare il gioco. NL NL NON sarà raccolto alcun dato personale.",
+      "L'esperienza è migliore se si gioca a schermo intero. Consigliato per OSX in modo che Dock e barra del Menu siano nascosti. NL NOTA: alt-tab per ritornare a Slay the Spire potrebbe non funzionare in modalità schermo intero su PC.",
+      "Siccome Slay the Spire è leggero, consigliamo di giocare a Schermo Intero Senza Bordi per Alt-Tab veloce. Funziona meglio su PC.",
+      "Nota: Se VSync è attivo, il Framerate Massimo non può andare oltre la frequenza di aggiornamento dello schermo."
+    ],
+    "LABEL": [
+      "Parametri",
+      "Schermo Intero",
+      "Schermo Intero Senza Bordi",
+      "Framerate Massimo"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Rimuovi una carta dal tuo mazzo. Il costo di questo servizio aumenta di #b",
+      " per il resto della partita."
+    ],
+    "LABEL": [
+      "Servizio Rimozione Carte"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Premere questo pulsante farà finire il tuo turno. NL NL Scarterai la mano, i nemici agiranno, pescherai ",
+      " carte, poi sarà il tuo turno di nuovo."
+    ],
+    "LABEL": [
+      "Fine Turno"
+    ]
+  },
+  "Discard Tip": {
+    "TEXT": [
+      "Gli Scarti vengono mescolati nella Pila quando questa si svuota. NL NL Clicca per visualizzare le carte nei tuoi Scarti."
+    ],
+    "LABEL": [
+      "Scarti"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "L'energia che hai al momento. Le carte hanno bisogno di energia per essere giocate."
+    ],
+    "LABEL": [
+      "Energia"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Lancia questa pozione al tuo nemico.",
+      "Consuma questa pozione.",
+      "Scarta questa pozione NL #r(non #rpuò #ressere #rannullato)"
+    ],
+    "LABEL": [
+      "Lancia",
+      "Bevi",
+      "Scarta"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Apre il menù di gioco. NL NL Cambia o aggiorna le tue preferenze grafiche, di audio o del gioco.",
+      "Visualizza tutte le carte nel tuo mazzo.",
+      "Visualizza la mappa della segreta attuale.",
+      "Quando finisci i PV, è Game Over.",
+      "Mostra quanto oro stai trasportando. L'oro è la valuta all'interno della Guglia.",
+      "Ottenuto quando sconfiggi un #yBoss. NL A cosa potrà mai servire...?",
+      "Ottenuto quando sconfiggi un #yBoss. NL Dalli da mangiare a #yNeow per sbloccare oggetti e ottenere bonus per nuove partite."
+    ],
+    "LABEL": [
+      "Impostazioni",
+      "Mazzo",
+      "Mappa",
+      "Punti Vita (PV)",
+      "Borsa dei Soldi"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Entra in contatto con altri giocatori per scoprire nuove ed efficaci strategie.",
+      "C'è sempre un punto di riposo prima di un boss.",
+      "Spendi l'oro ai negozi! (il Mercante approva questo messaggio)",
+      "Fai una pausa ogni tanto.",
+      "Nessun nemico usa mai la stessa mossa 3 volte di fila.",
+      "L'arrotondamento dei valori percentuali avviene sempre per difetto.",
+      "Puoi visualizzare il contenuto della tua Pila e degli Scarti in combattimento.",
+      "Puoi ottenere informazioni preziose passando il cursore sulla maggior parte degli oggetti di gioco.",
+      "Attiva o disattiva i suggerimenti cliccando sul bottone ? nell'angolo in alto a destra.",
+      "Premi Tasto Destro per lasciare qualunque carta tu stia trascinando.",
+      "Passa il cursore su un nemico per vederne il nome e informazioni sui loro Poteri.",
+      "Usa la rotella del mouse o clicca e trascina lo schermo per scorrere.",
+      "Se puoi esaminare un oggetto, il cursore diventerà una lente di ingrandimento.",
+      "Non c'è limite alle reliquie che puoi portare con te.",
+      "Gli scrigni contengono sempre una reliquia.",
+      "Qualsiasi percorso tu scelga avrà sempre almeno una stanza del tesoro.",
+      "Usa la rotella del mouse o clicca e trascina lo schermo per scorrere mappe, schermi delle carte, e altro.",
+      "Sconfiggendo gli Elite otterrai sempre una reliquia!",
+      "Non vedrai mai la stessa reliquia due volte nella stessa partita.",
+      "Carte non comuni hanno una cornice e striscione blu.",
+      "Carte rare hanno una cornice e striscione d'oro.",
+      "La rarità in una carta è visibile sulla carta stessa.",
+      "Non è sempre una cosa saggia aggiungere carte al tuo mazzo.",
+      "Le carte esaurite durante il combattimento non sono rimosse dal tuo mazzo.",
+      "Puoi avere solo fino a 10 carte in mano.",
+      "Le carte Stato vengono rimosse alla fine del combattimento.",
+      "Le Maledizioni non possono essere potenziate. Perché dovresti farlo?",
+      "Carte potenziate possono apparire nelle ricompense dopo il Livello 1.",
+      "Le pozioni possono essere usate solo durante il combattimento.",
+      "Le pozioni non possono essere scartate durante il combattimento.",
+      "Le stanze Incognita possono contenere tesori, mostri, negozi, o eventi.",
+      "Il Mercante non offre rimborsi. È un cretino.",
+      "Il Servizio Rimozione Carte aumenta di prezzo ogni volta che lo utilizzi.",
+      "Puoi usare il Servizio Rimozione solo una volta per negozio.",
+      "Il danno proveniente dalle pozioni, reliquie, e poteri non è considerato danno d'attacco."
+    ],
+    "LABEL": [
+      "Puoi scartare pozioni per fare posto ad altre."
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Click to view cards Exhausted this combat."
+    ],
+    "LABEL": [
+      "Exhausted Cards"
+    ]
+  }
+}

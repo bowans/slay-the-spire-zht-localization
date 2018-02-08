@@ -1,0 +1,257 @@
+{
+  "Game Dictionary": {
+    "BLOCK": {
+      "NAMES": [
+        "защита",
+        "защиты",
+        "защиту",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Предотвращает урон до следующего хода."
+    },
+    "CURSE": {
+      "NAMES": [
+        "проклятие",
+        "проклятия",
+        "проклятий",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Проклятия — это вредоносные карты в вашей колоде."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "ловкость",
+        "ловкости",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Ловкость увеличивает количество Защиты, получаемой от карт."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "эфирная",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Если в конце вашего хода эта карта находится в руке, она Сжигается - убирается до конца боя."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "сжигает",
+        "сожжённую",
+        "сжигается",
+        "сжигании",
+        "сжигаете"
+      ],
+      "DESCRIPTION": "Убирается до конца боя."
+    },
+    "INNATE": {
+      "NAMES": [
+        "начальная",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Вы будете начинать каждый бой с этой картой в руке."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "закрыто",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Эта карта еще не открыта."
+    },
+    "POISON": {
+      "NAMES": [
+        "яд",
+        "яда",
+        "ядом",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Отправленные ядом существа теряют ОЗ в конце своего хода. Яд снижается на #b1 каждый раунд."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "оставляет",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Оставленные карты не сбрасываются в конце хода."
+    },
+    "SHIV": {
+      "NAMES": [
+        "заточка",
+        "заточки",
+        "заточке",
+        "заточку",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Заточки — это карты Атаки ценой в #b0, которые Сжигаются."
+    },
+    "STATUS": {
+      "NAMES": [
+        "статус",
+        "статусом",
+        "статуса",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Карты статуса убираются в конце боя."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "сила",
+        "силы",
+        "силу",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Сила добавляет дополнительный урон к Атакам."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "изменение",
+        "изменить",
+        "изменяет",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Изменённые карты становятся случайными картами варьируемой редкости."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "неизвестно",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Вы ещё не встречали эту карту."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "неиграбельность",
+        "неиграбельна",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Неиграбельными картами нельзя воспользоваться напрямую."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "улучшение",
+        "улучшить",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Улучшенные карты становятся сильнее. Улучшать карты можно только один раз."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "уязвимость",
+        "уязвимости",
+        "уязвим",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Уязвимые существа получают на #b50% больше урона от Атак."
+    },
+    "WEAK": {
+      "NAMES": [
+        "слабость",
+        "слабости",
+        "слаб",
+        "ослаблен",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Ослабленные существа наносят на #b25% меньше урона Атаками."
+    },
+    "WOUND": {
+      "NAMES": [
+        "рана",
+        "раны",
+        "рану",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Раны — это неиграбельные Статусные карты."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "хрупкость",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Хрупкие существа получают на #b25% меньше #yЗащиты от карт."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "удара",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Любая карта со словом «Удар» в названии."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "замешательство",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "восславь Змеко!"
+      ],
+      "DESCRIPTION": "Каждая взятая карта будет иметь случайную стоимость."
+    },
+    "FIRE": {
+      "NAMES": [
+        "выстрел",
+        "выстреленный",
+        "YOU CANNOT STOP ME",
+        "FROM TRANSLATING",
+        "THE FIRED STUFF"
+      ],
+      "DESCRIPTION": "Стрелять можно только Снарядами. Стрельба Снарядом расходует его эффект и сбрасывает его."
+    },
+    "TODO": {
+      "NAMES": [
+        "сделать",
+        "JUST FOR DEVS, HUH?",
+        "WHAT DID I JUST TELL YOU?",
+        "YOU CANNOT STOP ME",
+        "WHAT ARE YOU GOING TO DO?"
+      ],
+      "DESCRIPTION": "Эта карта ЕЩЁ НЕ ГОТОВА. Не помешало бы исправить это..."
+    },
+    "TEXT": [
+      "Энергия используется для разыгрывания карт в руке."
+    ],
+    "ARTIFACT": {
+      "NAMES": [
+        "артефакт",
+        "артефакта",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Отменяет следующий отриц. эффект."
+    }
+  }
+}
