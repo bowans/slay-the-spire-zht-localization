@@ -2,7 +2,7 @@
   "Absorb": {
     "NAME": "Absorption",
     "DESCRIPTIONS": [
-      "Lorsqu'on vous attaque, vous gagnez #b",
+      "Lorsqu'on vous attaque, gagnez #b",
       " de Charge."
     ]
   },
@@ -16,8 +16,8 @@
   "After Image": {
     "NAME": "Image miroir",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte, vous gagnez #b",
-      " de #yBlocage."
+      "Lorsque vous jouez une carte, gagnez #b",
+      " #yd'Armure."
     ]
   },
   "Anger": {
@@ -55,15 +55,15 @@
   "Barricade": {
     "NAME": "Barricade",
     "DESCRIPTIONS": [
-      "Le #yBlocage n'est pas retiré au début de votre tour.",
-      "Le #yBlocage n'est pas retiré au début du tour."
+      "#yL'Armure n'est pas retirée au début de votre tour.",
+      "#yL'Armure n'est pas retirée au début du tour."
     ]
   },
   "Blur": {
     "NAME": "Flou",
     "DESCRIPTIONS": [
-      "Le #yBlocage n'est pas retiré au début du prochain tour.",
-      "Le #yBlocage n'est pas retiré au début des prochains #b",
+      "#yL'Armure n'est pas retirée au début du prochain tour.",
+      "#yL'Armure n'est pas retirée au début des prochains #b",
       " tours."
     ]
   },
@@ -124,7 +124,7 @@
   "Curiosity": {
     "NAME": "Curiosité",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte #yPouvoir, vous gagnez #b",
+      "Lorsque vous jouez une carte #yPouvoir, gagnez #b",
       " de #yForce."
     ]
   },
@@ -132,7 +132,7 @@
     "NAME": "Recroquevillement",
     "DESCRIPTIONS": [
       "Après avoir encaissé des dégâts #yd'Attaque, se roule en boule et gagne des points ",
-      " de #yBlocage."
+      " #yd'Armure."
     ]
   },
   "Dance Puppet": {
@@ -155,21 +155,21 @@
   "Darkness": {
     "NAME": "Obscurité",
     "DESCRIPTIONS": [
-      "Vous gagnez #b1 point d'Énergie en moins au début de votre tour."
+      "Gagnez #b1 point d'Énergie en moins au début de votre tour."
     ]
   },
   "Demon Form": {
     "NAME": "Forme démoniaque",
     "DESCRIPTIONS": [
-      "Au début de votre tour, vous gagnez #b",
+      "Au début de votre tour, gagnez #b",
       " de #yForce."
     ]
   },
   "Dexterity": {
     "NAME": "Dextérité",
     "DESCRIPTIONS": [
-      "Augmente le #yBlocage obtenu par les cartes de #b.",
-      "Réduit le#yBlocage obtenu par les cartes de #b."
+      "Augmente #yl'Armure obtenu par les cartes de #b.",
+      "Réduit #yl'Armure obtenu par les cartes de #b."
     ]
   },
   "Double Damage": {
@@ -233,9 +233,9 @@
   "Energized": {
     "NAME": "Énergétique",
     "DESCRIPTIONS": [
-      "Vous gagnez #b",
-      " [G] supplémentaire(s) au prochain tour.",
-      " additional [G] next turn.",
+      "Gagnez #b",
+      " [G] supplémentaire au prochain tour.",
+      " [G] supplémentaires au prochain tour.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
@@ -270,8 +270,8 @@
   "Feel No Pain": {
     "NAME": "Ignore la douleur",
     "DESCRIPTIONS": [
-      "Lorsqu'une carte est #yÉpuisée, vous gagnez #b",
-      " de #yBlocage."
+      "Lorsqu'une carte est #yÉpuisée, gagnez #b",
+      " #yd'Armure."
     ]
   },
   "Fire Breathing": {
@@ -303,7 +303,7 @@
   "Frail": {
     "NAME": "Frêle",
     "DESCRIPTIONS": [
-      "Les cartes vous octroient #b25 % moins de #yBlocage pendant #b",
+      "Les cartes vous octroient #b25 % moins #yd'Armure pendant #b",
       " tour.",
       " tours."
     ]
@@ -319,15 +319,15 @@
     "NAME": "Manœuvre",
     "DESCRIPTIONS": [
       "Après #b",
-      " tour, vous gagnez ",
-      " tours, vous gagnez ",
-      " [B]."
+      " tour, gagnez ",
+      " tours, gagnez ",
+      " [B] ."
     ]
   },
   "Generator": {
     "NAME": "Générateur",
     "DESCRIPTIONS": [
-      "Au début de chaque tour, vous gagnez #b",
+      "Au début de chaque tour, gagnez #b",
       " de #yCharge."
     ]
   },
@@ -371,20 +371,20 @@
     "NAME": "Intangible",
     "DESCRIPTIONS": [
       "Réduit TOUS les dégâts subis et la perte de PV de #b1.",
-      " turn.",
-      " turns."
+      " tour.",
+      " tours."
     ]
   },
   "Inverted": {
     "NAME": "Inversion",
     "DESCRIPTIONS": [
-      "Immunité aux dégâts. Lorsque vous gagnez en #yBlocage, vous perdez le même montant de PV."
+      "Immunité aux dégâts. Lorsque vous gagnez de #yl'Armure, perdez autant de PV."
     ]
   },
   "Juggernaut": {
     "NAME": "Mastodonte",
     "DESCRIPTIONS": [
-      "Lorsque vous gagnez e, #yBlocage, infligez #b",
+      "Lorsque vous gagnez de #yl'Armure, infligez #b",
       " point(s) de dégâts à un ennemi aléatoire."
     ]
   },
@@ -406,7 +406,7 @@
     "NAME": "Malléable",
     "DESCRIPTIONS": [
       "Après avoir encaissé des dégâts #yd'Attaque, gagne #b",
-      " de #yBlocage. Le #yBlocage gagné augmente ",
+      " #yd'Armure. #yL'Armure gagnée augmente ",
       " avec les activations. Réinitialisation à #b",
       " au début de votre tour."
     ]
@@ -414,10 +414,10 @@
   "Metallicize": {
     "NAME": "Métallisation",
     "DESCRIPTIONS": [
-      "Vous gagnez #b",
-      " de #yBlocage à la fin de votre tour.",
+      "Gagnez #b",
+      " #yd'Armure à la fin de votre tour.",
       "Gagne #b",
-      " de #yBlocage à la fin de son tour."
+      " #yd'Armure à la fin de son tour."
     ]
   },
   "Mode Shift": {
@@ -428,10 +428,10 @@
     ]
   },
   "Next Turn Block": {
-    "NAME": "Blocage au prochain tour",
+    "NAME": "Armure au prochain tour",
     "DESCRIPTIONS": [
-      "Au début de votre prochain tour, vous gagnez #b",
-      " de #yBlocage."
+      "Au début de votre prochain tour, gagnez #b",
+      " #yd'Armure."
     ]
   },
   "No Draw": {
@@ -473,10 +473,10 @@
   "Plated Armor": {
     "NAME": "Armure plaquée",
     "DESCRIPTIONS": [
-      "Vous gagnez #b",
-      " de #yBlocage à la fin de votre tour. Perdre des PV à cause d'Attaques réduit #yl'Armure #yplaquée de #b1.",
+      "Gagnez #b",
+      " #yd'Armure à la fin de votre tour. Perdre des PV à cause d'Attaques réduit #yl'Armure #yplaquée de #b1.",
       "Gagne #b",
-      " de #yBlocage à la fin de son tour. Perdre des PV à cause d'Attaques réduit #yl'Armure #yplaquée de #b1."
+      " #yd'Armure à la fin de son tour. Perdre des PV à cause d'Attaques réduit #yl'Armure #yplaquée de #b1."
     ]
   },
   "Poison": {
@@ -491,7 +491,7 @@
     "NAME": "Rage",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une carte Attaque, gagne #b",
-      " de #yBlocage."
+      " #yd'Armure."
     ]
   },
   "Reduce Damage": {
@@ -625,8 +625,8 @@
   "Split": {
     "NAME": "Séparation",
     "DESCRIPTIONS": [
-      "Lorsque ses PV descendent en dessous de #b50 %, il se sépare en #b2 visqueux plus petits avec les PV actuels de ",
-      " "
+      "Lorsque ses PV descendent en dessous de #b50 %, il se sépare en #b2 slimes plus petits avec les PV restants de ",
+      "."
     ]
   },
   "Spore Cloud": {
@@ -686,9 +686,9 @@
     ]
   },
   "Berserk": {
-    "NAME": "Berserk",
+    "NAME": "Folie furieuse",
     "DESCRIPTIONS": [
-      "Si vos PV sont inférieurs à #b50 %, vous gagnez ",
+      "Si vos PV sont inférieurs à #b50 %, gagnez ",
       " au début de votre tour."
     ]
   },
@@ -755,22 +755,22 @@
     ]
   },
   "Night Terror": {
-    "NAME": "Nightmare",
+    "NAME": "Cauchemar",
     "DESCRIPTIONS": [
-      "At the start of your next turn, add #b",
-      " cards to your hand."
+      "Au début de votre prochain tour, ajoutez #b",
+      " cartes à votre main."
     ]
   },
   "Painful Stabs": {
-    "NAME": "Painful Stabs",
+    "NAME": "Coups de Poignard Douloureux",
     "DESCRIPTIONS": [
-      "Whenever you take damage from this enemy, add a #yWound into your Discard Pile."
+      "À chaque fois que cet ennemi vous inflige des dégâts, ajoutez une #yPlaie dans votre Défausse."
     ]
   },
   "Minion": {
-    "NAME": "Minion",
+    "NAME": "Sbire",
     "DESCRIPTIONS": [
-      "Minions abandon combat without their leader."
+      "Les sbires abandonnent le combat en l'absence de leur leader."
     ]
   }
 }

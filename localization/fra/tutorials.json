@@ -2,8 +2,8 @@
   "Main Tutorial": {
     "TEXT": [
       "Terrassez vos ennemis en jouant les cartes de votre main ! NL NL Il vous faut de #yl'Énergie pour jouer vos cartes. NL Lorsque vous n'en avez plus, mettez fin à votre tour. NL NL Au début de votre tour, vous piochez de nouvelles cartes et vos points #yd'Énergie se remplissent.",
-      "Jouez des cartes défensives pour gagner du #yBlocage avant qu'un ennemi ne vous attaque. NL NL Le #yBlocage réduit les dégâts infligés par l'attaque suivante, mais NL #rs'estompe au début de votre prochain tour.",
-      "Pendant votre tour, vous pouvez voir ce qu'un ennemi #ys'apprête à faire au-dessus de sa tête. NL NL Si un ennemi s'apprête à vous attaquer, n'oubliez pas de gagner du #yBlocage !"
+      "Jouez des cartes défensives pour gagner de #yl'Armure avant qu'un ennemi ne vous attaque. NL NL #yL'Armure réduit les dégâts infligés par l'attaque suivante, mais NL #rs'estompe au début de votre prochain tour.",
+      "Pendant votre tour, vous pouvez voir ce qu'un ennemi #ys'apprête à faire au-dessus de sa tête. NL NL Si un ennemi s'apprête à vous attaquer, n'oubliez pas de gagner de #yl'Armure !"
     ],
     "LABEL": [
       "Suivant",
@@ -59,7 +59,7 @@
     "TEXT": [
       "Les Reliques trouvées dans la Tour vous octroient des bonus uniques et restent effectives jusqu'à la fin de votre partie. NL Vous pouvez en trouver en terrassant des ennemis puissants ou dans des coffres.",
       "Cette Relique doit être découverte.",
-      "Its power is all used up."
+      "Son pouvoir est épuisé."
     ],
     "LABEL": [
       "Reliques",
@@ -80,7 +80,7 @@
     "TEXT": [
       "Au début de chaque tour, NL #b",
       " cartes sont piochées de cet endroit. NL NL Cliquez pour voir les cartes de votre pioche (mélangées).",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile."
+      " les cartes sont tirées d'ici. NL NL Cliquez pour voir les cartes de votre pioche."
     ],
     "LABEL": [
       "Pioche"
@@ -154,14 +154,16 @@
       "Si vous n'avez plus de PV, vous mourez.",
       "Affiche le montant d'or que vous possédez. L'or est la monnaie utilisée dans la Tour.",
       "Obtenu lorsque vous terrassez un #yboss. NL Mais de quoi s'agit-il... ?",
-      "Obtenu lorsque vous terrassez un #yboss. NL Donnez-les à #yNeow pour déverrouiller des objets et gagner des bonus pour les prochaines parties."
+      "Obtenu lorsque vous terrassez un #yboss. NL Donnez-les à #yNeow pour déverrouiller des objets et gagner des bonus pour les prochaines parties.",
+      "Elapsed time for this run."
     ],
     "LABEL": [
       "Paramètres (ÉCHAP)",
       "Deck (D)",
       "Plan (M)",
       "Points de vie (PV)",
-      "Sac d'or"
+      "Sac d'or",
+      "Run Timer"
     ]
   },
   "Random Tips": {
@@ -208,10 +210,10 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Click to view cards Exhausted this combat."
+      "Cliquez pour voir les cartes Épuisées ce combat."
     ],
     "LABEL": [
-      "Exhausted Cards"
+      "Cartes Épuisées"
     ]
   }
 }

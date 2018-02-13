@@ -439,7 +439,7 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "HINWEIS: Optionen in ROT wurden noch nicht implementiert.",
+      "",
       "Spielmenü",
       "Grafik",
       "Auflösung: NL Max. Framerate:",
@@ -449,10 +449,10 @@
       "Hintergrundgeräusche",
       "Präferenzen",
       "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Bestätigung beim Wählen 1 Karte deaktivieren",
-      "Gewöhnliche Tipps NL Kartentipps",
-      "Machttipps NL Relikttipps",
+      "Schnellmodus",
+      "",
       "Diverses",
-      "#rSprache:",
+      "Sprache:",
       "Spieldaten hochladen #b(?)",
       "Spiel verlassen",
       "Speichern & Verlassen",
@@ -521,7 +521,7 @@
       "Durchlauf abbrechen",
       "Durchlauf abbrechen (erneut klicken zum Bestätigen)",
       "Einstellungen",
-      "Run History"
+      "Run-Historie"
     ]
   },
   "PatchNotesScreen": {
@@ -841,11 +841,11 @@
       "8. Eliten halten mehr aus.",
       "9. Bosse halten mehr aus.",
       "10. Parasit!",
-      "11. Potions are less potent.",
-      "12. Upgraded cards appear less often.",
-      "13. Poor bosses.",
-      "14. Lower Max HP.",
-      "15. Unfavorable Events."
+      "11. Tränke sind schwächer.",
+      "12. Verbesserte Karten erscheinen seltener.",
+      "13. Schlechte Bosse.",
+      "14. Niedrigere max TP.",
+      "15. Ungünstige Events."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -875,7 +875,7 @@
       "Die Stille",
       "",
       "Zurück",
-      "Keine run-Historie gefunden. NL Geh und Slay the Spire!",
+      "Keine Run-Historie gefunden. NL Geh und Slay the Spire!",
       "Aufstieg Level: ",
       "Besiegt auf Ebene %1$d von %2$s",
       "Abandoned Run on Floor %d",
@@ -902,7 +902,7 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "click again to exit"
+      "erneut klicken zum Verlassen"
     ]
   },
   "TwitchVoter": {

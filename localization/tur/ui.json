@@ -33,26 +33,26 @@
       "Oyun geçmişi bulunamadı. NL Yürü Slay the Spire!",
       "Basamak Modu: ",
       "Ölünen Kat %1$d tarafından %2$s",
-      "Abandoned Run on Floor %d",
+      "Oyunun bırakıldığı kat %d",
       "Zafer!",
       "Kartlar",
       "Kalıntılar",
-      "Starter",
-      "Common",
-      "Uncommon",
-      "Rare",
-      "Special",
-      "Curse",
+      "Başlangıç",
+      "Yaygın",
+      "Yaygın Olmayan",
+      "Nadir",
+      "Özel",
+      "Lanet",
       "Boss",
-      "Shop",
-      "Unknown",
+      "Dükkan",
+      "Bilinmiyor",
       "%1$d %2$s",
       "%1$s (%2$d):",
-      "Score: %d",
-      "All Characters",
-      "Wins and Losses",
-      "Wins",
-      "Losses"
+      "Skor: %d",
+      "Tüm Karakterler",
+      "Galibiyet ve Mağlubiyetler",
+      "Galibiyetler",
+      "Mağlubiyetler"
     ]
   },
   "LeaderboardsScreen": {
@@ -67,7 +67,7 @@
       "İsim",
       "Skor",
       "Veriler Alınıyor...",
-      "Liderlik Tahtası (NOT: Haftalık olarak yenilenecektir)",
+      "Liderlik Tablosu (NOT: Haftalık olarak yenilenecektir)",
       "Steam'e Bağlı Değilsiniz",
       "Skor Yok \n Yürü Slay the Spire!"
     ]
@@ -89,21 +89,21 @@
   },
   "LanguageDropdown": {
     "TEXT": [
-      "Brazilian Portugese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "English",
-      "French",
-      "German",
-      "Italian",
-      "Japanese",
-      "Korean",
-      "Polish",
-      "Russian",
-      "Spanish",
-      "Hebrew",
-      "Turkish",
-      "Swedish"
+      "Brezilyan Portekizcesi",
+      "Çince (Basitleştirilmiş)",
+      "Çince (Geleneksel)",
+      "İngilizce",
+      "Fransızca",
+      "Almanca",
+      "İtalyanca",
+      "Japonca",
+      "Korece",
+      "Polonyaca",
+      "Rusça",
+      "İspanyolca",
+      "İbranice",
+      "Türkçe",
+      "İsveççe"
     ]
   },
   "Proceed Button": {
@@ -907,7 +907,7 @@
   },
   "TwitchVoter": {
     "TEXT": [
-      "VOTE NOW: "
+      "Şimdi Oyla: "
     ]
   }
 }

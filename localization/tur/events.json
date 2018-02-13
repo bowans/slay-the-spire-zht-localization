@@ -30,9 +30,9 @@
       "Ateşe bir kartını kurban ediyorsun. NL NL ",
       "Ruhlar #pLanet kurban etmenden pek mutlu gibi görünmüyor... Kart siyah bir duman yayarak kayboluyor. Karşılığında... #p~bir~ #p~şeyler~ aldın.",
       "Hiçbir şey olmadı... NL Ruhlar artık sana dikkat etmiyorlar gibi görünüyor. Hayal kırıklığı...",
-      "Ateş biraz daha parlaklaşmış gibi görünüyor. NL Ruhlar dans etmeye devam ediyor. Varlıkları biraz daha sıcak hissettiriyor... NL #g5 #bHP #iyileştin .",
-      "Alevler fışkırıyor, belirgin derecede güçleniyor! NL Ruhlar ateşin etrafında heyecanla dans ediyor, seni ~sıcaklık~ ~hissi~ ile dolduruyorlar NL Tamamen #iyileştin .",
-      "Alev @saçılıyor,@ neredeyse ayağını yerden kesecek, ateşin gücü @ikiye@ katlanıyor. NL Ruhlar önce etrafında heyecanla dans ediyor, sonrasında ise ~sanki~ ~ruhunu~ ~birleştiriyorlar,~ seni sıcaklık ve kuvvet ile dolduruyorlar. NL Maksimum HP'n #b10 arttı ve tamamen #iyileştin."
+      "Ateş biraz daha parlaklaşmış gibi görünüyor. NL Ruhlar dans etmeye devam ediyor. Varlıkları biraz daha sıcak hissettiriyor... NL #g5 #bHP #biyileştin .",
+      "Alevler fışkırıyor, belirgin derecede güçleniyor! NL Ruhlar ateşin etrafında heyecanla dans ediyor, seni ~sıcaklık~ ~hissi~ ile dolduruyorlar NL Tamamen #biyileştin .",
+      "Alev @saçılıyor,@ neredeyse ayağını yerden kesecek, ateşin gücü @ikiye@ katlanıyor. NL Ruhlar önce etrafında heyecanla dans ediyor, sonrasında ise ~sanki~ ~ruhunu~ ~birleştiriyorlar,~ seni sıcaklık ve kuvvet ile dolduruyorlar. NL Maksimum HP'n #b10 arttı ve tamamen #biyileştin."
     ],
     "OPTIONS": [
       "[Devam Et]",
@@ -63,7 +63,7 @@
       "Seçimine güvenerek, tapınağı önemsemiyorsun."
     ],
     "OPTIONS": [
-      "[Dua Et] #gDestendeki #gbir #kartı #kopyalar.",
+      "[Dua Et] #gDestendeki #gbir #gkartı #gkopyalar.",
       "[Ayrıl]",
       "Kopyalamak için bir Kart seç."
     ]
@@ -76,7 +76,7 @@
       "Bu suyun doğasından emin olamadığından susuzluktan kavrulmuş şekilde, yoluna devam ediyorsun."
     ],
     "OPTIONS": [
-      "[İç] #gDestendeki #tüm #Lanetleri #sil.",
+      "[İç] #gDestendeki #ptüm #pLanetleri #psil.",
       "[Ayrıl]"
     ]
   },
@@ -162,7 +162,7 @@
       "[Ödül!] #gBir #gKalıntı #gkazan.",
       "[Ödül!] #gTam #gcanına #gkadar #gİyileş.",
       "[Ödül?] #rLanet #r- #rÇürüme.",
-      "[Ödül!] #gDestenden #bir #Kart #sil.",
+      "[Ödül!] #gDestenden #gbir #gKart #gsil.",
       "[Prize?] #r",
       " #rHP #rkaybet.",
       "[Ayrıl]",
@@ -257,11 +257,11 @@
     ],
     "OPTIONS": [
       "...",
-      "[Deliliği Kucakla] #2 #gDelilik #gkazan. #r",
+      "[Deliliği Kucakla] #g2 #gDelilik #gkazan. #r",
       " #rHP #rkaybet.",
       "[Odaklan] #rLanetlen #r- #rKıvranma. #g",
       "[Ayrıl]",
-      " #gHP #İyileş."
+      " #gHP #gİyileş."
     ]
   },
   "Big Fish": {
@@ -370,13 +370,13 @@
   "World of Goop": {
     "NAME": "Yapışkanlar Dünyası",
     "DESCRIPTIONS": [
-      "Bir bataklığa düştün. NL #g@SLIMELARDAN@ @OLUŞAN!!@ NL Delicesine, bu yapışkanın yakmaya başladığını hissedene kadar bir kaç dakika pençeleşiyorsun. NL Kulaklarında yapışkan, burnunda yapışkan, yapışkan her yerde. NL NL Yukarıya çıkarken biraz #altınının eksik olduğunu farkediyorsun. Geriye baktığında yapışkanın içinde diğer maceraperestlerinkine karışmış #altınları görüyorsun.",
-      "Yapışkana uzun süreli maruz kalmanın etkisizle oluşan batmaların ve derinde erimesinin hissiyle beraber, #altınları çıkartmayı başarıyorsun.",
+      "Bir bataklığa düştün. NL #g@SLIMELARDAN@ @OLUŞAN!!@ NL Delicesine, bu yapışkanın yakmaya başladığını hissedene kadar bir kaç dakika pençeleşiyorsun. NL Kulaklarında yapışkan, burnunda yapışkan, yapışkan her yerde. NL NL Yukarıya çıkarken biraz #galtınının eksik olduğunu farkediyorsun. Geriye baktığında yapışkanın içinde diğer maceraperestlerinkine karışmış #galtınları görüyorsun.",
+      "Yapışkana uzun süreli maruz kalmanın etkisizle oluşan batmaların ve derinde erimesinin hissiyle beraber, #galtınları çıkartmayı başarıyorsun.",
       "Değmediğine karar verdin."
     ],
     "OPTIONS": [
       "[Altınları Topla] #g",
-      " #gAltın #kazan. #r",
+      " #gAltın #gkazan. #r",
       " #rHP #rkaybet.",
       "[Orada Bırak] #r",
       " #rAltın #rkaybet.",
@@ -393,7 +393,7 @@
     ],
     "OPTIONS": [
       "[Kabul Et] #g",
-      " #gAltın #kazan. #rLanetlen #r- #rŞüphe.",
+      " #gAltın #gkazan. #rLanetlen #r- #rŞüphe.",
       "[Kabul Etme]",
       "[Devam Et]",
       "[Ayrıl]"
@@ -419,14 +419,14 @@
   "Mushrooms": {
     "NAME": "Mantarlar",
     "DESCRIPTIONS": [
-      "Olağandışı yeme içgüdüne yenik düşüyorsun. Mantar üstüne mantar yerken, başının döndüğünü hissediyorsun ve bayılıyorsun. Uyandığında oldukça garip hissediyorsun. NL Hp'nin #b%25'i kadar #İyileşiyorsun ama aynı zamanda #renfeksiyon kapıyorsun.",
+      "Olağandışı yeme içgüdüne yenik düşüyorsun. Mantar üstüne mantar yerken, başının döndüğünü hissediyorsun ve bayılıyorsun. Uyandığında oldukça garip hissediyorsun. NL Hp'nin #b%25'i kadar #bİyileşiyorsun ama aynı zamanda #renfeksiyon kapıyorsun.",
       "#r@Tuzak!!@ NL Etrafın mantarlar tarafından istila edildi ve gidecek hiçbir yer yok!",
       "#b~Hipnotize~ #b~edici~ #b~renkteki~  #b~mantarlarla~ dolu bir koridora giriyorsun NL Mantarbilimindeki zayıf bilginden dolayı türleri ayırt etmekte pek iyi değilsin. NL Kaçmak istiyorsun, aynı zamanda garip bir şekilde #b~mantar~ yemek istiyorsun..."
     ],
     "OPTIONS": [
-      "[Ez] #rMantarları #kızdır.",
+      "[Ez] #rMantarları #rkızdır.",
       "[Ye] #g",
-      " #gHP #İyileş. #rLanetlen #r- #rParazit.",
+      " #gHP #gİyileş. #rLanetlen #r- #rParazit.",
       "[Dövüş]",
       "[Ayrıl]"
     ]
@@ -440,7 +440,7 @@
     ],
     "OPTIONS": [
       "[Adak: ",
-      "] #rBu #rKalıntıyı #kaybet. #gYeni #gözel #gbir #gKalıntı #elde #et.",
+      "] #rBu #rKalıntıyı #rkaybet. #gYeni #gözel #gbir #gKalıntı #gelde #get.",
       "[Ayrıl]"
     ]
   },
@@ -448,7 +448,7 @@
     "NAME": "Hurdalıktaki Sızıntı",
     "DESCRIPTIONS": [
       "Odaya girdiğinde ~şırıltı~ ve metaller,n @öğütülme@ @sesini@ duyuyorsun. Önünde slime'a benzer kendisine zarar verecek kadar çok metal yemiş bir yaratıkla karşılaşıyorsun. Yaratığın tam ortasında garip bir ışığın parıltılarını görüyorsun, sihirli bir şey olabilir mi? Onun... açıklığına, ulaşabilirsen bir miktar #yganimet elde edebilirsin gibi görünüyor. Ancak, asit ve keskin objeler canını #ryakabilir.",
-      "#r@Ahh!@ NL Tek bulabildiğin aşınmış metal ve bir miktar #r@yanık@ #r@acısı.@ NL Yine de, hala #kalıntı bulabileceğine eminsin...",
+      "#r@Ahh!@ NL Tek bulabildiğin aşınmış metal ve bir miktar #r@yanık@ #r@acısı.@ NL Yine de, hala #rkalıntı bulabileceğine eminsin...",
       "#gBaşardın! NL Metal ve yakıcı asidi didik didik ettikten sonra, #ykalıntıyı buluyorsun ve çekip çıkartıyorsun. NL #rYaralanmış ama ödülünü almış bir şekilde hurdalıktan çıkıyorsun.",
       "Bölgeden çıkmaya karar veriyorsun. NL Slime ilgi göstermiyor, yemeği ona yetiyormuş gibi."
     ],
@@ -516,7 +516,7 @@
     ],
     "OPTIONS": [
       "[Altın Öner] #y",
-      " #yAltın: #gDestenden #gbir #gkart #sil.",
+      " #yAltın: #gDestenden #gbir #gkart #gsil.",
       "[Kilitli] Gereken: ",
       " Altın.",
       "[Devam Et]",
@@ -572,11 +572,11 @@
       "Önündeki heykele vuruyorsun, odanın sana uyguladığı büyülü güçler ortadan kalkıyor. NL Acı bir feryat etrafında yankılanıyor ve #p~lanetli~ #p~büyünün~ kemiklerine işlediğini hissediyorsun."
     ],
     "OPTIONS": [
-      "[Adak: Altın Put] #gÖzel #gbir #gKalıntı #gelde #get. #rAltın #rPut'u #kaybet.",
+      "[Adak: Altın Put] #gÖzel #gbir #gKalıntı #gelde #get. #rAltın #rPut'u #rkaybet.",
       "[Kilitli] Gereken: Altın Put.",
       "[Kurban Et] #g",
       " #gMaksimum #gHP #gkazan. #r",
-      " #rHP #kaybet.",
+      " #rHP #rkaybet.",
       "[Kilitli] Gereken: İnsancıllık.",
       "[Hakaret Et] #rLanetlen #r- #rÇürüme."
     ]
@@ -596,7 +596,7 @@
     "OPTIONS": [
       "[Devam Et]",
       " #rHP.",
-      "[Bilgi?] #gBoss'u #gaçığa #gçıkart. #Kaybet #r",
+      "[Bilgi?] #gBoss'u #gaçığa #gçıkart. #rKaybet #r",
       "[Başarı?] #gRenksiz #gKart #gelde #get. #rKaybet #r",
       "[Beni Al?] #gBir #gİksir #gal. #rKaybet #r",
       "[Zenginlik?] #gKazan #g",

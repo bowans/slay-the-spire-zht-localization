@@ -30,7 +30,7 @@
     ],
     "NAME": "Auserwählter",
     "DIALOG": [
-      "~Leide …~"
+      "~Leide~ ~…~"
     ]
   },
   "Byrd": {
@@ -65,7 +65,7 @@
       "Wird geladen!",
       "~Jetzt~ ~geht’s~ ~los!!~",
       "@Ich …@ @bekomme …@ NL @Hilfe …!@",
-      "~Zu …~ NL ~gefährlich …~ NL ~Tschüss …~"
+      "~Zu~ ~…~ NL ~gefährlich~ ~…~ NL ~Tschüss~ ~…~"
     ]
   },
   "BanditChild": {
@@ -98,7 +98,7 @@
     ],
     "NAME": "Der Wächter",
     "DIALOG": [
-      "#b~… AB…~ NL #b~…KÜHLEN …~",
+      "#b~…~ #b~AB…~ NL #b~…KÜHLEN~ #b~…~",
       "Verteidigen …",
       "#r@ZERSTÖREN@ NL #r@ZERSTÖREN@ NL #r@ZERSTÖREN@",
       "#r@GEFAHR@ NL #r@GEFAHR@ NL #r@GEFAHR@"
@@ -141,7 +141,7 @@
     "DIALOG": [
       "@MEINE@ @MACHT@ @IST@ NL @OHNEGLEICHEN!@",
       "@DU@ @GEHÖRST@ @NICHT@ NL @HIERHER!@",
-      "~Meine~ ~Macht~ NL ~war~ ~doch~ ~nicht~ ~ohnegleichen …~"
+      "~Meine~ ~Macht~ NL ~war~ ~doch~ ~nicht~ ~ohnegleichen~ ~…~"
     ]
   },
   "FlameBruiser": {
@@ -240,8 +240,8 @@
     ],
     "NAME": "Zeitfresser",
     "DIALOG": [
-      "~Ah …~ NL ~… Gesellschaft …~",
-      "~Töricht …~ NL @TÖRICHT!@"
+      "~Ah~ ~…~ NL ~…~ ~Gesellschaft~ ~…~",
+      "~Töricht~ ~…~ NL @TÖRICHT!@"
     ]
   },
   "TheCollector": {
@@ -300,7 +300,7 @@
       "Greif schon an!",
       "Gib alles! NL @HAHAHA!@",
       "Komm schon, schlag zu! NL Nutzloser Schwächling!",
-      "~Jetzt~ ~hast~ ~du~ ~es~ ~geschafft …~",
+      "~Jetzt~ ~hast~ ~du~ ~es~ ~geschafft~ ~…~",
       "@EINE NIEDERLAGE??@ NL @UNMÖGLICH!!@",
       "~STIRB~ ~.~ ~.~ ~.~",
       "Spüre meinen Zorn!"
@@ -465,7 +465,7 @@
     ],
     "NAME": "Schleimboss",
     "DIALOG": [
-      "~Schleim …~ NL #r~ZERSCHMETTERN!!!~",
+      "~Schleim~ ~…~ NL #r~ZERSCHMETTERN!!!~",
       "Unterbrochen!"
     ]
   },
@@ -488,7 +488,7 @@
     "NAME": "Schildgremlin",
     "DIALOG": [
       "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@ ",
-      "~Auf~ ~Wiedersehen …~",
+      "~Auf~ ~Wiedersehen~ ~…~",
       "Das nützt nichts …"
     ]
   },

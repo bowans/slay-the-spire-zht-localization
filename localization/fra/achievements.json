@@ -27,56 +27,56 @@
       "Le Mange-époque",
       "Rubis",
       "Émeraude",
-      "Hidden"
+      "Caché"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
-      "N'avoir plus que 3 cartes ou moins en jeu, y compris dans la main, dans la pioche et dans la défausse.",
+      "Ayez 3 cartes ou moins dans votre main, votre pioche et votre défausse combinées.",
       "Gagnez un combat sans jouer de carte Attaque.",
       "Épuisez 20 cartes en un seul combat.",
       "Accumulez 9 points d'énergie en un tour de combat.",
       "Obtenez 10 buffs ou plus pendant un combat.",
       "Obtenez 50 de Force ou plus pendant un combat.",
-      "Obtenez 99 de Blocage ou plus pendant un combat.",
-      "Obtenez 999 de Blocage pendant un combat.",
+      "Obtenez 99 d'Armure ou plus pendant un combat.",
+      "Obtenez 999 d'Armure pendant un combat.",
       "Appliquez 99 de Poison ou plus sur un seul ennemi.",
       "Terrassez 3 ennemis avec du Poison en un seul combat.",
       "Jouez 10 Surins en un seul tour.",
       "Jouez 25 cartes en un seul tour.",
       "Terrassez un boss dès le premier tour.",
-      "Terrassez un boss sans perdre un seul point de vie.",
-      "Vous avez terrassé le Gardien.",
-      "Vous avez terrassé le Fantôme à six-faces.",
-      "Vous avez terrassé le Boss visqueux.",
-      "Vous avez terrassé le Robot en bronze.",
-      "Vous avez terrassé le Collecteur.",
-      "Vous avez terrassé le Champion.",
-      "Vous avez terrassé l'Éveillé.",
-      "Vous avez terrassé Donu & Déca.",
-      "Vous avez terrassé le Mange-époque.",
+      "Triomphez d'un boss sans perdre un seul point de vie.",
+      "Vous avez vaincu le Gardien.",
+      "Vous avez vaincu l'Hexaplasme.",
+      "Vous avez vaincu le Parrain Slime.",
+      "Vous avez vaincu le Robot en bronze.",
+      "Vous avez vaincu le Collecteur.",
+      "Vous avez vaincu le Champion.",
+      "Vous avez vaincu l'Éveillé.",
+      "Vous avez vaincu Donu & Déca.",
+      "Vous avez vaincu le Mange-époque.",
       "Finissez le jeu avec le Soldat de fer.",
       "Finissez le jeu avec la Silencieuse.",
-      "Details for this achievement will be revealed once unlocked."
+      "Les détails concernant ce succès seront révélés une fois celui-ci débloqué."
     ]
   },
   "CharStat": {
     "NAMES": [],
     "TEXT": [
       "Temps de jeu total : ",
-      "Total des victoires : #y",
-      "Total des morts : #y",
-      "Total des étages terminés : #y",
-      "Total des boss terrassés : #y",
-      "Total des ennemis terrassés : #y",
+      "Nombre total de victoires : #y",
+      "Nombre total de morts : #y",
+      "Nombre total d'étages terminés : #y",
+      "Nombre total de boss vaincus : #y",
+      "Nombre total d'ennemis tués : #y",
       "Total des cristaux donnés : #y",
       "Cartes découvertes : #y",
       "Cartes déverrouillées : #y",
       "Reliques découvertes : #y",
       "Reliques déverrouillées : #y",
-      "Ascension la plus haute : #y",
-      "Ascension du jour la plus haute : #y",
+      "Étage le plus haut : #y",
+      "Étage le plus haut (défi quotidien) : #y",
       "Victoire la plus rapide : ",
-      "A terrassé ",
+      "A vaincu ",
       ": #goui NL ",
       ": #rnon NL ",
       "Victoires : #y",
@@ -84,8 +84,8 @@
       "Étages terminés : #y",
       "Boss tués : #y",
       "Ennemis tués : #y",
-      "Best Win Streak: #y",
-      "Highest Score: #y"
+      "Victoires Successives: #y",
+      "Meilleur Score: #y"
     ]
   },
   "StatsScreen": {
@@ -97,7 +97,7 @@
       "#bCorbot"
     ],
     "TEXT": [
-      "Return"
+      "Retour"
     ]
   }
 }

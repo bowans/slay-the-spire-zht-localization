@@ -1,88 +1,101 @@
 {
   "DEV": {
-    "HEADER": "Development & Design",
+    "HEADER": "개발 & 디자인",
     "NAMES": [
       "Anthony Giovannetti",
       "Casey Yano"
     ]
   },
   "OPS": {
-    "HEADER": "Operations & Metrics",
+    "HEADER": "유지 & 조정",
     "NAMES": [
       "Danielle Jenkins",
       "Jake Rabinowitz"
     ]
   },
   "SOUND": {
-    "HEADER": "Music & Sounds",
+    "HEADER": "음악 & 효과음",
     "NAMES": [
       "Clark Aboud"
     ]
   },
   "VOICE": {
-    "HEADER": "Development & Design",
+    "HEADER": "성우 연기",
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Card Portraits & Event Art",
+    "HEADER": "카드 일러스트 & 이벤트 일러스트",
     "NAMES": [
       "Anailis Dorta"
     ]
   },
   "ANIMATION": {
-    "HEADER": "Character Animation",
+    "HEADER": "캐릭터 애니메이션",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
     ]
   },
   "ILLUSTRATION": {
-    "HEADER": "Promo & Background Illustration",
+    "HEADER": "광고 & 배경 일러스트",
     "NAMES": [
       "Bruce Brenneise"
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Chinese (Simplified) Localization",
+    "HEADER": "중국어 (간체) 번역",
     "NAMES": [
       "Sound of Mystery"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Chinese (Traditional) Localization",
+    "HEADER": "중국어 (번체) 번역",
     "NAMES": []
   },
   "LOC_FRA": {
-    "HEADER": "French Localization",
+    "HEADER": "프랑스어 번역",
     "NAMES": []
   },
   "LOC_DEU": {
-    "HEADER": "German Localization",
-    "NAMES": []
+    "HEADER": "독일어 번역",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand "
+    ]
   },
   "LOC_ITA": {
-    "HEADER": "Italian Localization",
+    "HEADER": "이탈리아어 번역",
     "NAMES": []
   },
   "LOC_JPN": {
-    "HEADER": "Japanese Localization",
+    "HEADER": "일본어 번역",
     "NAMES": [
       "Grezzz"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Korean Localization",
-    "NAMES": []
+    "HEADER": "한국어 번역",
+    "NAMES": [
+      "번역 매니저:",
+      "에테리니",
+      "번역:",
+      "심심한코딩",
+      "깨구리",
+      "insight",
+      "콘치킨집",
+      "히나",
+      "스팀 페이지 번역",
+      "계략"
+    ]
   },
   "LOC_POL": {
-    "HEADER": "Polish Localization",
+    "HEADER": "폴란드어 번역",
     "NAMES": []
   },
   "LOC_RUS": {
-    "HEADER": "Russian Localization",
+    "HEADER": "러시아어 번역",
     "NAMES": [
       "Translation and coordination:",
       "Ivan \"Ingrett\" Khoroshunenko",
@@ -99,19 +112,19 @@
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Turkish Localization",
+    "HEADER": "터키어 번역",
     "NAMES": [
       "Erdem Gürbüz"
     ]
   },
   "LOC_ADDITIONAL": {
-    "HEADER": "Additional Translations",
+    "HEADER": "추가 번역",
     "NAMES": [
       "MoGi Group"
     ]
   },
   "TEST": {
-    "HEADER": "Playtesters",
+    "HEADER": "플레이 테스트",
     "NAMES": [
       "Agari",
       "Daria Anderson",
@@ -143,7 +156,7 @@
     ]
   },
   "SPECIAL": {
-    "HEADER": "Operations & Metrics",
+    "HEADER": "특별 감사",
     "NAMES": [
       "Harry Rabinowitz",
       "Kevin \"Billy\" Matheson",
@@ -156,7 +169,7 @@
     ]
   },
   "THANKS_MSG": {
-    "HEADER": "...and thank YOU for playing!",
+    "HEADER": "...그리고 플레이 해 주셔서 감사합니다!",
     "NAMES": []
   }
 }

@@ -44,7 +44,7 @@
   "Match and Keep!": {
     "NAME": "Zuordnen und Behalten!",
     "DESCRIPTIONS": [
-      "#bZwölf Karten! Finde je zwei gleiche, um sie zu behalten! #bFünf Versuche, keine Wiederholungen. NL Bist du bereit? Fangen wir an!“",
+      "„ #bZwölf Karten! Ordne sie zu, um sie zu behalten! #bFünf Versuche, keine Wiederholungen. NL Bist du bereit? Fangen wir an!“",
       "Du beendest das Spiel des Gremlins und siehst auf. NL Er ist verschwunden?",
       "Ein Gremlin mischt wild auf einem Tisch Karten. Dieses Monster scheint harmlos zu sein. Aus Neugier näherst du dich ihm."
     ],
@@ -89,10 +89,10 @@
       "Du ignorierst den Schrein."
     ],
     "OPTIONS": [
-      "[Beten] #gErhalte #g100 #gGold.",
+      "[Beten] #gErhalte #g",
+      " #gGold.",
       "[Entweihen] #gErhalte #g250 #gGold. #rWerde #rverflucht #r– #rReue.",
-      "[Verlassen]",
-      "[Leave]"
+      "[Verlassen]"
     ]
   },
   "Lab": {
@@ -152,7 +152,7 @@
       "„Ah, ein #gGeschenk! NL Viel Spaß!“",
       "„Oooh, eine kostenlose #gHeilung für dich!“",
       "„Sieht aus, als hättest du einen #pFluch gewonnen! NL Das ist nicht gut. NL Oh je! Mehr Glück beim nächsten Mal!“",
-      "„Ohh, die Macht der #r~Dunkelheit …~“ NL Wähle eine Karte, um sie aus deinem Deck zu entfernen!",
+      "„Ohh, die Macht der #r~Dunkelheit~ ~…~“ NL Wähle eine Karte, um sie aus deinem Deck zu entfernen!",
       "„Oh oh! NL Du verlierst!“ NL Du bemerkst, wie er eine Klinge zieht …",
       "Du schlägst nach dem verrückten Gremlin, aber er ist einfach zu schnell! NL Er trifft dich ein paar Mal mit einer groben Klinge. NL „Der Preis wurde bezahlt!!“ NL Damit verschwinden der Gremlin und das Rad in einer Rauchwolke."
     ],
@@ -198,11 +198,11 @@
       "Du ziehst ab und fragst dich, was hätte geschehen können."
     ],
     "OPTIONS": [
-      "[Hineinspringen] #gHeile #gTP #gkomplett. #Verliere #r10 #rmax #rTP.",
+      "[Hineinspringen] #gHeile #gTP #gkomplett. #Verliere #r",
+      " #rmax #rTP.",
       "[Opfern: Goldener Götze] #Erhalte #g333 #gGold. #rVerliere #rGoldenen #rGötzen.",
       "[Gesperrt] Erfordert: Goldener Götze.",
-      "[Verlassen]",
-      "[Leave]"
+      "[Verlassen]"
     ]
   },
   "Mysterious Sphere": {
@@ -257,11 +257,11 @@
     ],
     "OPTIONS": [
       "…",
-      "[Dem Wahnsinn hingeben] #gErhalte #g2 #gWahnsinn. #rVerliere #r10 #rTP.",
+      "[Dem Wahnsinn hingeben] #gErhalte #g2 #gWahnsinn. #rVerliere #r",
+      " #rTP.",
       "[Konzentrieren] #rWerde #rverflucht #r– #rLeid. #gHeile #g",
       "[Verlassen]",
-      " #gTP.",
-      " #gHP."
+      " #gTP."
     ]
   },
   "Big Fish": {
@@ -295,11 +295,11 @@
       "[Heilen] #y35 #yGold: #gHeile #g",
       "[Gesperrt] Erfordert: ",
       " Gold.",
-      "[Reinigen] #y50 #yGold: #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
+      "[Reinigen] #y",
+      " #yGold: #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
       "[Gesperrt] Erfordert: 50 Gold.",
       "[Verlassen]",
       "Wähle eine Karte zum Entfernen.",
-      "Select a Card to Remove.",
       "."
     ]
   },
@@ -387,7 +387,7 @@
     "NAME": "Die Ssssschlange",
     "DESCRIPTIONS": [
       "Du betrittst einen Raum und findest ein großes Loch im Boden. Als du dich dem Loch näherst, erscheint eine enorme Giftschlange. NL NL ~„Ho~ ~hooo!~ ~Hallo,~ ~hallo!~ ~Was~ ~haben~ ~wir~ ~denn~ ~hier?~ Hallo Abenteurer, ich stelle dir eine einfache Frage. NL Das erfüllteste Leben ist das, in dem du #y~alles~ #y~kaufen~ kannst! NL Stimmst du zu?“",
-      "~„Jaaaaaaaaa!~ NL ~Dasssss~ ~wird~ ~esssss~ ~wert~ ~ssssseeeein.~ NL ~… ssSSs ……~ ~ss …~ ~sssss ……!“~",
+      "~„Jaaaaaaaaa!~ NL ~Dasssss~ ~wird~ ~esssss~ ~wert~ ~ssssseeeein.~ NL ~…~ ~ssSSs~ ~……~ ~ss~ ~…~ ~sssss~ ~……!“~",
       "Die Giftschlange starrt dich voller Enttäuschung an.",
       "Die Giftschlange legt ihren Kopf zurück und speit einen Strahl aus #yGold nach oben! NL Es ist erstaunlich und furchterregend zugleich. NL Du sammelst das #yGold ein, dankst der Schlange und machst dich auf den Weg."
     ],
@@ -534,7 +534,7 @@
       "Diejenigen, die von #yNeow wiederbelebt werden, können sich nur noch an Fragmente ihres früheren Ichs erinnern und sind dazu verflucht, bis in alle Ewigkeit zu kämpfen. NL NL Als du dich der letzten Seite näherst, #r@beginnen@ #r@sich@ #r@deine@ #r@alten@ #r@Wunden@ #r@wieder@ #r@zu@ #r@öffnen!@",
       "Nachdem du den Folianten gelesen hast, beschließt du, ihn mitzunehmen. Wirst du deine Erinnerung behalten, wenn du den Beweis in der Hand hältst?",
       "Du verlässt den Ort und spürst eine #p~dunkle~ #p~Energie,~ die von dem Buch auf dem Podest #p~ausgeht.~",
-      "Mit unglaublicher Anstrengung und Willenskraft widerstehst du der Trance des Folianten und @SCHLÄGST@ ihn zu. NL Du drehst dich um und verlässt den Tempel. Du fühlst dich wie #b~ausgesaugt …~"
+      "Mit unglaublicher Anstrengung und Willenskraft widerstehst du der Trance des Folianten und @SCHLÄGST@ ihn zu. NL Du drehst dich um und verlässt den Tempel. Du fühlst dich wie #b~ausgesaugt~ ~…~"
     ],
     "OPTIONS": [
       "[Lesen]",
@@ -542,9 +542,9 @@
       "[Fortsetzen] #rVerliere #r2 #rTP.",
       "[Fortsetzen] #rVerliere #r3 #rTP.",
       "[Aufhören] #rVerliere #r3 #rTP.",
-      "[Nehmen] #gErhalte #gdas #gBuch. #rVerliere #r10 #rTP.",
-      "[Verlassen]",
-      "[Leave]"
+      "[Nehmen] #gErhalte #gdas #gBuch. #rVerliere #r",
+      " #rTP.",
+      "[Verlassen]"
     ]
   },
   "Drug Dealer": {
@@ -611,7 +611,7 @@
       "Hehehe … Danke für das #yGold! NL Oh, ich liebe #yGold. Es ist so schön. NL #y~glänzende,~ #y~glitzernde~ Dinger sind sie!",
       "Hey, #bBär, hey! NL Dieser Typ hat uns sein ganzes #yGold gegeben! So ein Spinner, oder? NL Ich musste nur nett fragen. Wer hätte das gedacht?! NL Ich sicherlich nicht! Was für ein Trottel!",
       "Leute, lasst uns zusammen über diesen wundersamen Anlass lachen! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
-      "Oh? Du bist noch da? NL Hast du irgendwas mitgehört? Dachte ich mir. NL #r@*hust*@ ~… Versager …~ @Hahaha@ ~haaah~",
+      "Oh? Du bist noch da? NL Hast du irgendwas mitgehört? Dachte ich mir. NL #r@*hust*@ ~…~ ~Versager~ ~…~ @Hahaha@ ~haaah~",
       "Du triffst auf eine Gruppe Banditen, die große #rrote #rMasken tragen. NL „Hallo! Bezahl, wenn du vorbei willst … der angebrachte Betrag von @ALL@ deinem #yGold wird genügen! Heh heh!“"
     ],
     "OPTIONS": [
@@ -631,7 +631,7 @@
       " Schaden am Herzen verursacht hast.",
       " NL Insgesamt wurde #b",
       " Schaden von all jenen verursacht, die es herausgefordert haben.",
-      " NL Das Herz pulsiert lauter und lauter, während dein #y~Bewusstsein~ #y~schwindet ...~",
+      " NL Das Herz pulsiert lauter und lauter, während dein #y~Bewusstsein~ #y~schwindet~ ~...~",
       "NL Du ziehst deine Klinge …",
       "NL Du zückst deine Dolche …",
       "NL Du lädst deinen Kern bis zum Maximum auf …"
@@ -670,7 +670,7 @@
     "NAME": "Die Bibliothek",
     "DESCRIPTIONS": [
       "Du kommst an einem verzierten Gebäude vorbei, das verlassen zu sein scheint. NL Eine Tafel, die von der Wand gerissen wurde, liegt auf dem Boden. Darauf steht: #b„DIE #bBIBLIOTHEK“. NL Im Inneren findest du zahllose Schriftrollen, Manuskripte und Bücher. NL Du nimmst eines und machst es dir auf einem Stuhl gemütlich.",
-      "Lesen ist was für Trottel. NL Du schläfst stattdessen auf einem gemütlichen Stuhl ein. NL ~Zzz ...~ ~zzz ...~ ~.. Zz ....~ NL Du wachst auf und fühlst dich erholt.",
+      "Lesen ist was für Trottel. NL Du schläfst stattdessen auf einem gemütlichen Stuhl ein. NL ~Zzz~ ~...~ ~zzz~ ~...~ ~..~ ~Zz~ ~....~ NL Du wachst auf und fühlst dich erholt.",
       "Die Geschichte handelt von einem Mädchen, das Insekten kontrollieren kann und danach strebt, ein Held zu werden. Das Buch beschreibt kreative Einsatzmöglichkeiten von Kräften, Strategien für den Kampf und verschiedenen Perspektiven. NL Zufriedenstellend.",
       "Die Geschichte handelt von einem Mann, der zu den Sternen reiste und sich gestrandet auf einem trostlosen Planeten wiederfand. Einfallsreichtum, Glück, Ausdauer und Humor, um seinen Verstand nicht zu verlieren, waren die Werkzeuge, mit denen er nach Hause zurückkehren konnte. NL Faszinierend.",
       "Die Geschichte spielt in einem abgeschiedenen, unterirdischen Gebäude, da die Zustände außerhalb unerträglich geworden sind. Dieser Roman ist durchzogen von Verschwörungen, Propaganda und Ungerechtigkeit. Du denkst darüber nach, ob sich eine ähnliche Dynamik im Spire abspielt. NL Beunruhigend."
@@ -692,9 +692,9 @@
       "Du setzt deinen Weg fort, ohne den vergessenen Toten zu stören."
     ],
     "OPTIONS": [
-      "[Sarg öffnen] #gErhalte #gein #gRelikt. #r50%: #rWerde #rverflucht #r– #rLeid.",
-      "[Verlassen]",
-      "[Leave]"
+      "[Sarg öffnen] #gErhalte #gein #gRelikt. #r",
+      "%: #rWerde #rverflucht #r– #rLeid.",
+      "[Verlassen]"
     ]
   },
   "Vampires": {
@@ -704,7 +704,7 @@
       "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Schwester,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~",
       "Die große Gestalt ergreift deinen Arm, zieht dich heran und versenkt ihre Fangzähne in deinem Nacken. Du spürst, wie eine @dunkle@ @Kraft@ von deinem Nacken aus durch deinen Körper @strömt.@ NL ... NL Du erwachst einige Zeit später – allein. Ein starker ~Hunger~ wütet in deinem Bauch. Du #rbrauchst #rNahrung …",
       "Du trittst zurück und hebst trotzig deine Waffe. Die große Gestalt seufzt. „Nun gut.“ Die gesamte Gruppe aus vermummten Gestalten verwandelt sich in einen dicken, schwarzen Nebel, der sich von dir entfernt. NL Du bist wieder allein.",
-      "Den blassen Gestalten stockt der Atem, als du die #yBlutphiole hervorholst. NL ~„Das~ ~Blut~ ~des~ ~Meisters …~ ~das~ ~Blut~ ~des~ ~Meisters!~ @DAS@ @BLUT@ @DES@ @MEISTERS!“@ NL Sie sprechen inbrünstig im Chor, während der Große sich vor dir verbeugt. „Trinke Sein Blut und werde eins mit #y~Ihm.“~ NL Sie rufen lauter, während du den Inhalt der Phiole trinkst. Deine Wahrnehmung ~verzerrt~ sich und du versinkst in die Dunkelheit. NL NL Du erwachst einige Zeit später – allein. Ein starker ~Hunger~ wütet in deinem Bauch. Du #rbrauchst #rNahrung."
+      "Den blassen Gestalten stockt der Atem, als du die #yBlutphiole hervorholst. NL ~„Das~ ~Blut~ ~des~ ~Meisters~ ~…~ ~das~ ~Blut~ ~des~ ~Meisters!~ @DAS@ @BLUT@ @DES@ @MEISTERS!“@ NL Sie sprechen inbrünstig im Chor, während der Große sich vor dir verbeugt. „Trinke Sein Blut und werde eins mit #y~Ihm.“~ NL Sie rufen lauter, während du den Inhalt der Phiole trinkst. Deine Wahrnehmung ~verzerrt~ sich und du versinkst in die Dunkelheit. NL NL Du erwachst einige Zeit später – allein. Ein starker ~Hunger~ wütet in deinem Bauch. Du #rbrauchst #rNahrung."
     ],
     "OPTIONS": [
       "[Annehmen] #gEntferne #galle #gSchläge. #gErhalte #g5 #gBisskarten. #rVerliere #r",
@@ -726,7 +726,7 @@
       "[Kaufe 1 Trank] #y",
       "[Kaufe 2 Tränke] #y",
       "[Kaufe 3 Tränke] #y",
-      " #yGold",
+      " #yGold.",
       "[Verlassen]"
     ]
   }

@@ -1,162 +1,164 @@
 {
   "DEV": {
-    "HEADER": "Development & Design",
+    "HEADER": "Разработка и дизайн",
     "NAMES": [
-      "Anthony Giovannetti",
-      "Casey Yano"
+      "Энтони Джованнетти (Anthony Giovannetti)",
+      "Кейси Яно (Casey Yano)"
     ]
   },
   "OPS": {
-    "HEADER": "Operations & Metrics",
+    "HEADER": "Операции и метрики",
     "NAMES": [
-      "Danielle Jenkins",
-      "Jake Rabinowitz"
+      "Даниэлла Дженкинс (Danielle Jenkins)",
+      "Джейк Рабиновиц (Jake Rabinowitz)"
     ]
   },
   "SOUND": {
-    "HEADER": "Music & Sounds",
+    "HEADER": "Звуковое сопровождение",
     "NAMES": [
-      "Clark Aboud"
+      "Кларк Эбауд (Clark Aboud)"
     ]
   },
   "VOICE": {
-    "HEADER": "Development & Design",
+    "HEADER": "Озвучка",
     "NAMES": [
-      "Tamara Ryan",
-      "Michael Schwalbe"
+      "Тамара Райан (Tamara Ryan)",
+      "Майкл Швальбе (Michael Schwalbe)"
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Card Portraits & Event Art",
+    "HEADER": "Графика карт и событий",
     "NAMES": [
-      "Anailis Dorta"
+      "Анаилис Дорта (Anailis Dorta)"
     ]
   },
   "ANIMATION": {
-    "HEADER": "Character Animation",
+    "HEADER": "Анимация персонажей",
     "NAMES": [
-      "Julio Duque Montero",
-      "Jon Sandler"
+      "Хулио Дуке Монтеро (Julio Duque Montero)",
+      "Джон Сэндлер (Jon Sandler)"
     ]
   },
   "ILLUSTRATION": {
-    "HEADER": "Promo & Background Illustration",
+    "HEADER": "Иллюстрации фонов и промо",
     "NAMES": [
-      "Bruce Brenneise"
+      "Брюс Бреннейс (Bruce Brenneise)"
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Chinese (Simplified) Localization",
+    "HEADER": "Перевод на китайский (упрощённый)",
     "NAMES": [
       "Sound of Mystery"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Chinese (Traditional) Localization",
+    "HEADER": "Перевод на китайский (традиционный)",
     "NAMES": []
   },
   "LOC_FRA": {
-    "HEADER": "French Localization",
+    "HEADER": "Перевод на французский",
     "NAMES": []
   },
   "LOC_DEU": {
-    "HEADER": "German Localization",
-    "NAMES": []
+    "HEADER": "Перевод на немецкий",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand "
+    ]
   },
   "LOC_ITA": {
-    "HEADER": "Italian Localization",
+    "HEADER": "Перевод на итальянский",
     "NAMES": []
   },
   "LOC_JPN": {
-    "HEADER": "Japanese Localization",
+    "HEADER": "Перевод на японский",
     "NAMES": [
       "Grezzz"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Korean Localization",
+    "HEADER": "Перевод на корейский",
     "NAMES": []
   },
   "LOC_POL": {
-    "HEADER": "Polish Localization",
+    "HEADER": "Перевод на польский",
     "NAMES": []
   },
   "LOC_RUS": {
-    "HEADER": "Russian Localization",
+    "HEADER": "Перевод на русский",
     "NAMES": [
-      "Translation and coordination:",
-      "Ivan \"Ingrett\" Khoroshunenko",
-      "Translation and repository:",
-      "Vladislav \"Vlad-00003\" Bolshakov",
-      "Suggestions and feedback:",
-      "Mikhail \"Outmind\" Dyuzhev",
-      "Bohdan \"DarkRosse\" Kalytiuk",
-      "Sergey \"lol10801lol\" K.",
+      "Перевод и координация:",
+      "Иван «Ingrett» Хорошуненко (Ivan «Ingrett» Khoroshunenko)",
+      "Перевод и репозиторий:",
+      "Владислав «Vlad-00003» Большаков (Vladislav «Vlad-00003» Bolshakov)",
+      "Предложения и отзывы:",
+      "Михаил «Outmind» Дюжев (Mikhail «Outmind» Dyuzhev)",
+      "Богдан «DarkRosse» Калитюк (Bohdan «DarkRosse» Kalytiuk)",
+      "Сергей «lol10801lol» К. (Sergey «lol10801lol» K.)",
       "Ascimator",
-      "Kateryna \"Meds\" Belimenko-Bolger",
-      "Alexey \"Surrealistic Ganerson\" Popov",
-      "Alexandr \"LiaNdrY\" Mazistov"
+      "Екатерина «Meds» Белименко-Болджер (Kateryna «Meds» Belimenko-Bolger)",
+      "Алексей «Surrealistic Ganerson» Попов (Alexey «Surrealistic Ganerson» Popov)",
+      "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)"
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Turkish Localization",
+    "HEADER": "Перевод на турецкий",
     "NAMES": [
-      "Erdem Gürbüz"
+      "Эрдем Гюрбюз (Erdem Gürbüz)"
     ]
   },
   "LOC_ADDITIONAL": {
-    "HEADER": "Additional Translations",
+    "HEADER": "Дополнительный перевод",
     "NAMES": [
       "MoGi Group"
     ]
   },
   "TEST": {
-    "HEADER": "Playtesters",
+    "HEADER": "Тестеры",
     "NAMES": [
       "Agari",
-      "Daria Anderson",
-      "Zac Bauermeister",
-      "Nick Becker",
-      "Esther Beckman",
-      "Leo Chen",
-      "Brian Chau",
-      "Dan D'Argenio",
-      "David Delorenzo",
-      "Tim Erskine",
-      "Benjamin Finkel",
-      "Rajiv Giridharagopal",
-      "Wyatt Grodzins",
-      "Ren Howell",
-      "Kyle James",
-      "Ryan Mathisen",
-      "Anthony McMillian",
-      "Brad Meine",
-      "Jacob Morris",
-      "Alex Rockwell",
-      "Greg Scheopner",
-      "John \"Slide20xl\" Smith",
-      "Aaron Taggart",
-      "Alexander Toy",
-      "Merijn van der Vliet",
-      "David Von Derau",
-      "Conor Watson"
+      "Дарья Андерсон (Daria Anderson)",
+      "Зак Бауэрмейстер (Zac Bauermeister)",
+      "Ник Беккер (Nick Becker)",
+      "Эстер Бекман (Esther Beckman)",
+      "Лео Чен (Leo Chen)",
+      "Брайан Чау (Brian Chau)",
+      "Дэн Даргенио (Dan D'Argenio)",
+      "Дэвид Делоренцо (David Delorenzo)",
+      "Тим Эрскин (Tim Erskine)",
+      "Бенджамин Финкель (Benjamin Finkel)",
+      "Раджив Гиридхарагопал (Rajiv Giridharagopal)",
+      "Уайат Гродзинс (Wyatt Grodzins)",
+      "Рен Хауэлл (Ren Howell)",
+      "Кайл Джеймс (Kyle James)",
+      "Райан Матисен (Ryan Mathisen)",
+      "Энтони Макмиллиан (Anthony McMillian)",
+      "Брэд Майне (Brad Meine)",
+      "Джейкоб Моррис (Jacob Morris)",
+      "AАлекс Рокуэлл (Alex Rockwell)",
+      "Грег Шеопнер (Greg Scheopner)",
+      "Джон «Slide20xl» Смит (John «Slide20x1» Smith)",
+      "Аарон Таггерт (Aaron Taggart)",
+      "Александр Той (Alexander Toy)",
+      "Мерийн ван дер Влиет (Merijn van der Vliet)",
+      "Дэвид Фон Дерау (David Von Derau)",
+      "Конор Уотсон (Conor Watson)"
     ]
   },
   "SPECIAL": {
-    "HEADER": "Operations & Metrics",
+    "HEADER": "Особая благодарность",
     "NAMES": [
-      "Harry Rabinowitz",
-      "Kevin \"Billy\" Matheson",
-      "Anthony Roybal",
-      "Lee Beckman",
-      "Sam Welch",
+      "Гарри Рабиновиц (Harry Rabinowitz)",
+      "Кевин «Billy» Мэтисон (Kevin «Billy» Matheson)",
+      "Энтони Ройбал (Anthony Roybal)",
+      "Ли Бекман (Lee Beckman)",
+      "Сэм Уэлч (Sam Welch)",
       "feedbackbot",
-      "Evan Howell",
-      "Justin Myhres"
+      "Эван Хауэлл (Evan Howell)",
+      "Джастин Мюрес (Justin Myhres)"
     ]
   },
   "THANKS_MSG": {
-    "HEADER": "...and thank YOU for playing!",
+    "HEADER": "...и спасибо ВАМ за игру!",
     "NAMES": []
   }
 }

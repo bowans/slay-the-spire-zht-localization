@@ -15,11 +15,11 @@
       "Vous ne voyez rien d'utile. Vous prenez le chemin de la sortie, tandis que les flammes du fourneau projettent des #p~ombres~ #p~étranges~ sur les parois de la cabane..."
     ],
     "OPTIONS": [
-      "[Utiliser la forge] #gVous #gAméliorez #gune #gcarte. #r25%: #rvous #rrecevez: #rMalédiction #r- #rBlessure.",
-      "[Fouiller] #gVous #gobtenez #gune #gRelique. #r75%: #rvous #rrecevez: #rMalédiction #r- #rNormalité.",
+      "[Utiliser la forge] #gVous #gAméliorez #gune #gcarte. #r25 #r%: #rvous #rrecevez: #rMalédiction #r- #rBlessure.",
+      "[Fouiller] #gVous #gobtenez #gune #gRelique. #r75 #r%: #rvous #rrecevez: #rMalédiction #r- #rNormalité.",
       "[Partir]",
       "Choisissez une carte à Améliorer.",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Verrouillé] Nécessite: Une carte améliorable"
     ]
   },
   "Bonfire Elementals": {
@@ -89,10 +89,10 @@
       "Vous ignorez l'autel."
     ],
     "OPTIONS": [
-      "[Prier] #gVous #ggagnez #g100 #gd'or.",
+      "[Prier] #gVous #ggagnez #g",
+      " #gd'or.",
       "[Profaner] #gVous #ggagnez #g250 #gd'or. #rVous #rrecevez: #rMalédiction #r- #rRegret.",
-      "[Partir]",
-      "[Leave]"
+      "[Partir]"
     ]
   },
   "Lab": {
@@ -141,13 +141,13 @@
       "[Prier] #gVous #gAméliorez #gune #gcarte.",
       "[Partir]",
       "Choisissez la carte à Améliorer.",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Verrouillé] Nécessite: Une carte améliorable"
     ]
   },
   "Wheel of Change": {
     "NAME": "Roue du changement",
     "DESCRIPTIONS": [
-      "Vous rencontrez un diablotin joyeux et élégamment vêtu. NL \"L'heure est venue de lancer la roue! Ça vous ~T~ ~E~ ~N~ ~T~ ~E~~?~ Sans nul doute!\"",
+      "Vous rencontrez un diablotin joyeux et élégamment vêtu. NL \"L'heure est venue de lancer la roue! Ça vous ~T~ ~E~ ~N~ ~T~ ~E~ ~?~ Sans nul doute!\"",
       "\"Vous gagnez de #yl'OR! NL YOUPI!!!\"",
       "\"Ah, un #gcadeau! NL J'espère qu'il vous plaira!\"",
       "\"Oooh, un #gsoin gratuit pour vous!\"",
@@ -198,11 +198,11 @@
       "Vous quittez les lieux en vous demandant ce qui aurait pu se passer."
     ],
     "OPTIONS": [
-      "[Sauter dedans] #gVous #grécupérez #gtous #gvos #gPV. #rVos #rPV #rmax #rsont #rréduits #rde #r10.",
+      "[Sauter dedans] #gVous #grécupérez #gtous #gvos #gPV. #rVos #rPV #rmax #rsont #rréduits #rde #r",
+      "#r.",
       "[Offrir: idole dorée] #gVous #grecevez #g333 #gd'or. #rVous #rperdez l'#ridole #rdorée.",
       "[Verrouillé] Nécessite: idole dorée",
-      "[Partir]",
-      "[Leave]"
+      "[Partir]"
     ]
   },
   "Mysterious Sphere": {
@@ -236,7 +236,7 @@
     "NAME": "Tombe du seigneur au masque rouge",
     "DESCRIPTIONS": [
       "De l'autre côté d'un chemin flottant, vous pouvez apercevoir une tombe richement décorée. Lorsque vous atteignez la tombe, vous remarquez un emplacement à pièces #yd'or recouvert d'une inscription effacée.",
-      "Vous mettez le masque et la tombe commence à ~s'écarter~, révélant~...~ un passage secret! NL NL Le passage est encadré d'innombrables marchandises volées et de montagnes #yd'or!",
+      "Vous mettez le masque et la tombe commence à ~s'écarter,~ ~révélant...~ un passage secret! NL NL Le passage est encadré d'innombrables marchandises volées et de montagnes #yd'or!",
       "Une ouverture apparaît dans la tombe et un petit masque rouge en sort, accompagné d'une note. \"Prenez aux autres comme je vous ai pris!\""
     ],
     "OPTIONS": [
@@ -257,11 +257,11 @@
     ],
     "OPTIONS": [
       "...",
-      "[Céder à la folie] #gVous #grecevez: #g2 de #gFolie. #rVous #rperdez #r10 #rPV.",
+      "[Céder à la folie] #gVous #grecevez: #g2 de #gFolie. #rVous #rperdez #r",
+      " #rPV.",
       "[Vous concentrer] #rVous #rrecevez: #rMalédiction #r- #rSouffrance. #gVous #grécupérez #g",
       "[Partir]",
-      " #gPV.",
-      " #gHP."
+      " #gPV."
     ]
   },
   "Big Fish": {
@@ -295,11 +295,11 @@
       "[Soin] #y35 #yd'or: #gvous #grécupérez #g",
       "[Verrouillé] Nécessite: ",
       " or",
-      "[Purification] #y50 #yd'or: #gvous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
+      "[Purification] #y",
+      " #yd'or: #gvous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
       "[Verrouillé] Nécessite: 50d'or",
       "[Partir]",
       "Choisissez la carte à retirer.",
-      "Select a Card to Remove.",
       "."
     ]
   },
@@ -323,7 +323,7 @@
       "[Partir]",
       "[Combattre]",
       "[Continuer] #gVous #gtrouvez #gdu #gbutin. #r",
-      "%: #rle #rmonstre #rrevient."
+      "#r%: #rle #rmonstre #rrevient."
     ]
   },
   "Golden Idol": {
@@ -331,7 +331,7 @@
     "DESCRIPTIONS": [
       "Vous croisez un piédestal des plus anodins sur lequel trône paisiblement une #yidole #ydorée #yétincelante. Elle vous semble extrêmement précieuse. NL NL Vous ne remarquez aucun piège alentour.",
       "Tandis que vous vous saisissez de l'idole et la mettez dans vos affaires, un énorme rocher fracasse le plafond et s'écrase au sol, juste à côté de vous. NL Ce n'est que lorsque le rocher se met à rouler dans votre direction que vous vous rendez compte que le sol est incliné.",
-      "@COUREEEEEEEZ!@ NL Vous sautez de justesse dans un passage latéral avant que le rocher ne passe à toute vitesse. Malheureusement, vous semblez vous être fait mal quelque part.",
+      "@COUREEEEEEEZ@ ! NL Vous sautez de justesse dans un passage latéral avant que le rocher ne passe à toute vitesse. Malheureusement, vous semblez vous être fait mal quelque part.",
       "Vous vous jetez de toutes vos forces sur le rocher. Lorsque la poussière se dissipe, vous parvenez à sortir en toute sécurité.",
       "@PAF!@ NL Le rocher vous écrase quelque peu en vous dépassant, mais vous parvenez à vous en sortir.",
       "Si l'on devait décerner la palme du piège le plus évident, celui-ci l'obtiendrait. NL Vous décidez de ne pas interférer avec les objets posés sur les piédestaux."
@@ -351,13 +351,13 @@
     "DESCRIPTIONS": [
       "Au milieu des pierres et rochers, vous repérez une complexe statue bleue. De grande taille, elle a l'apparence d'une aile. NL Vous remarquez que de #yl'or s'écoule de ses fissures. Peut-être y en a-t-il davantage à l'intérieur...?",
       "Par le passé, vous avez entendu parler d'un culte voué à un oiseau géant. Vous vous agenouillez pour prier et commencez à éprouver une ~sensation~... ~d'étourdissement~. NL NL Vous vous réveillez quelque temps plus tard, le pied léger.",
-      "Vous vous acharnez de toutes vos forces sur la statue. NL En un clin d'œil, elle @s'effondre@, révélant un #ytas #yd'or. Vous vous remplissez les poches et reprenez votre chemin.",
+      "Vous vous acharnez de toutes vos forces sur la statue. NL En un clin d'œil, elle @s'effondre,@ révélant un #ytas #yd'or. Vous vous remplissez les poches et reprenez votre chemin.",
       "La statue vous met ~mal~ ~à~ ~l'aise~. Vous passez devant sans vous arrêter."
     ],
     "OPTIONS": [
       "[Prier] #gVous #gretirez #gune #gcarte #gde #gvotre #gdeck. #rVous #rperdez #r",
       " #rPV.",
-      "[Détruire] #gVous #ggagnez #g",
+      "[Détruire] #gVous #ggagnez #gentre #g",
       " #get #g",
       " #gd'or.",
       "[Verrouillé] Nécessite: carte avec au moins ",
@@ -386,8 +386,8 @@
   "Liars Game": {
     "NAME": "Le ssserpent",
     "DESCRIPTIONS": [
-      "Vous pénétrez dans une salle et remarquez un grand trou dans le sol. Tandis que vous vous approchez du trou, une énorme créature serpentine en émerge. NL NL ~\"Oh~ ~oooh!~ ~Bonjour,~ ~bonjour!~ ~Qu'avons-nous~ ~là?~ Bonjour, je vais vous poser une simple question. NL Il n'est pas de vie plus satisfaisante que celle où l'on peut #y~tout~ #y~s'offrir!~ NL Êtes-vous d'accord?\"",
-      "~\"Sssssssssssupeeer!~ NL ~Cccccela~ ~sssss'annonccccce~ ~très~ ~prometteur.~ NL ~...ssSSs...~ ~ss...~ ~sssss...!\"~",
+      "Vous pénétrez dans une salle et remarquez un grand trou dans le sol. Tandis que vous vous approchez du trou, une énorme créature serpentine en émerge. NL NL \"~Oh~ ~oooh!~ ~Bonjour,~ ~bonjour!~ ~Qu'avons-nous~ ~là?~ Bonjour, je vais vous poser une simple question. NL Il n'est pas de vie plus satisfaisante que celle où l'on peut #y~tout~ #y~s'offrir!~ NL Êtes-vous d'accord?\"",
+      "\"~Sssssssssssupeeer!~ NL ~Cccccela~ ~sssss'annonccccce~ ~très~ ~prometteur.~ NL ~...ssSSs...~ ~ss...~ ~sssss...!~\"",
       "Le serpent vous fixe du regard et semble extrêmement déçu.",
       "Le serpent rejette sa tête en arrière et crache un jet #yd'or dans les airs! NL C'est à la fois impressionnant et terrifiant. NL Vous récupérez tout #yl'or, remerciez le serpent et vous remettez en route."
     ],
@@ -413,13 +413,13 @@
       "Choisissez la carte à Transformer.",
       "Choisissez la carte à Améliorer.",
       "[Partir]",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Verrouillé] Nécessite: Une carte améliorable"
     ]
   },
   "Mushrooms": {
     "NAME": "Champignons",
     "DESCRIPTIONS": [
-      "Vous cédez au désir irrépressible de manger. Tandis que vous dévorez champignon après champignon, vous sentez l'hébétement vous gagner avant de vous évanouir. Lorsque vous vous réveillez, vous vous sentez étrange. NL Vous #grécupérez #b25% de vos PV, mais contractez une #rinfection.",
+      "Vous cédez au désir irrépressible de manger. Tandis que vous dévorez champignon après champignon, vous sentez l'hébétement vous gagner avant de vous évanouir. Lorsque vous vous réveillez, vous vous sentez étrange. NL Vous #grécupérez #b25 #b% de vos PV, mais contractez une #rinfection.",
       "#r@Une@ #r@embuscade!@ NL Des rongeurs infectés par les champignons sortent d'on ne sait où!",
       "Vous pénétrez dans un couloir rempli de #b~champignons~ #b~aux~ #b~couleurs~ #b~hypnotisantes.~ NL Étant donné votre manque d'expertise en mycologie, vous êtes incapable d'identifier les spécimens. NL Vous voudriez vous échapper, mais vous éprouvez l'étrange besoin de manger un #b~champignon...~"
     ],
@@ -471,7 +471,7 @@
       "[Entrer] #gVous #gAméliorez #g2 #gcartes #galéatoires. #rVous #rperdez #r",
       " #rPV.",
       "[Partir]",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Verrouillé] Nécessite: Une carte améliorable"
     ]
   },
   "Addict": {
@@ -542,9 +542,9 @@
       "[Continuer] #rVous #rperdez #r2 #rPV.",
       "[Continuer] #rVous #rperdez #r3 #rPV.",
       "[Arrêter] #rVous #rperdez #r3 #rPV.",
-      "[Prendre] #gVous #gobtenez #gle #glivre. #rVous #rperdez #r10 #rPV.",
-      "[Partir]",
-      "[Leave]"
+      "[Prendre] #gVous #gobtenez #gle #glivre. #rVous #rperdez #r",
+      " #rPV.",
+      "[Partir]"
     ]
   },
   "Drug Dealer": {
@@ -611,7 +611,7 @@
       "Héhéhé... Merci pour l'#yor! NL Oh, j'adore l'#yor. C'est tellement génial. NL Ça #y~brille~, oh comme ça #y~brille~!",
       "Hé, #bBalourd, écoute! NL L'autre, là, nous a donné tout son #yor! Lamentable, hein? NL En plus, j'ai juste demandé gentiment. Qui aurait cru?! NL Pas moi, en tout cas! L'imbécile!",
       "Les amis, rions tous de la chance qui nous sourit! NL @Ahahah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Ahah!~",
-      "Oh? Vous êtes encore là, vous? NL Vous avez entendu quelque chose? C'est bien ce que je me disais. NL #r@*méprisant*@ ~... naze...~ @Ahahah@ ~ahaah~",
+      "Oh? Vous êtes encore là, vous? NL Vous avez entendu quelque chose? C'est bien ce que je me disais. NL #r@*méprisant*@ ~...~ ~naze...~ @Ahahah@ ~ahaah~",
       "Vous tombez sur un groupe de bandits affublés de grands #rmasques #rrouges. NL \"Bonjour, il faut payer pour passer... Une modique somme... @TOUT@ votre #yor fera l'affaire! Héhéhé!\""
     ],
     "OPTIONS": [
@@ -658,10 +658,10 @@
     "OPTIONS": [
       "[Continuer]",
       "[Meurtrier] #yParier #y",
-      " #yd'or - #g70%: #gvous #ggagnez #g",
+      " #yd'or - #g70 #g%: #gvous #ggagnez #g",
       " #gd'or.",
       "[Propriétaire] #yParier #y",
-      " #yd'or - #g30%: #gvous #ggagnez #g",
+      " #yd'or - #g30 #g%: #gvous #ggagnez #g",
       "[Observer]",
       "[Partir]"
     ]
@@ -692,9 +692,9 @@
       "Vous poursuivez votre route, préférant ne pas perturber le repos du défunt oublié."
     ],
     "OPTIONS": [
-      "[Ouvrir le cercueil] #gVous #grecevez #gune #gRelique. #r50%: #rvous #rrecevez: #rMalédiction #r- #rSouffrance.",
-      "[Partir]",
-      "[Leave]"
+      "[Ouvrir le cercueil] #gVous #grecevez #gune #gRelique. #r",
+      " #r%: #rvous #rrecevez: #rMalédiction #r- #rSouffrance.",
+      "[Partir]"
     ]
   },
   "Vampires": {
@@ -708,7 +708,7 @@
     ],
     "OPTIONS": [
       "[Accepter] #gVous #gretirez #gtoutes #gles #gFrappes. #gVous #gobtenez #g5 #gcartes #gMorsure. #rVous #rperdez #r",
-      "% #rde #rvos #rPV #rmax.",
+      "#r% #rde #rvos #rPV #rmax.",
       "[Refuser]",
       "[Perdre ",
       "] #gVous #gretirez #gtoutes #gles #gcartes #gFrappe. #gVous #gobtenez #g5 #gcartes #gMorsure.",

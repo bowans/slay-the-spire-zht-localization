@@ -37,22 +37,22 @@
       "Vittoria!",
       "Carte",
       "Reliquie",
-      "Starter",
-      "Common",
-      "Uncommon",
+      "Iniziali",
+      "Comuni",
+      "Non Comuni",
       "Rare",
-      "Special",
-      "Curse",
+      "Speciali",
+      "Maledizioni",
       "Boss",
-      "Shop",
-      "Unknown",
+      "Negozio",
+      "Sconosciute",
       "%1$d %2$s",
       "%1$s (%2$d):",
-      "Score: %d",
-      "All Characters",
-      "Wins and Losses",
-      "Wins",
-      "Losses"
+      "Punteggio: %d",
+      "Tutti i Personaggi",
+      "Vittorie e Sconfitte",
+      "Vittorie",
+      "Sconfitte"
     ]
   },
   "LeaderboardsScreen": {
@@ -660,6 +660,11 @@
       "Partite Precedenti"
     ]
   },
+  "CreditsScreen": {
+    "TEXT": [
+      "Fai Click di nuovo per uscire."
+    ]
+  },
   "PatchNotesScreen": {
     "TEXT": [
       "Indietro",
@@ -694,7 +699,7 @@
       "Questo personaggio verrà sbloccato raggiungendo la cima della Guglia.",
       "PV: ",
       "Oro: ",
-      " Unlocks Rimanenti",
+      " Carte da Sbloccare Rimanenti",
       "Sconosciuto",
       "???",
       " Al Prossimo Unlock"
@@ -708,29 +713,29 @@
       "La Silent",
       "Crowbot",
       "Indietro",
-      "Modalità Ascensione (Livello ",
-      ")",
       "Modalità Ascensione",
-      "SPERIMENTALE: Le partite diventano più difficili dopo ogni vittoria... (non influisce sulle winstreak)"
+      "Livello ",
+      "Modalità Ascensione",
+      "Le partite diventano più difficili dopo ogni vittoria... (non influisce sulle winstreak)"
     ]
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "1. Incontri più Elite.",
-      "2. I Nemici sono più pericolosi.",
-      "3. Gli Elite sono più pericolosi.",
-      "4. I Boss sono più pericolosi.",
-      "5. Ti curi di meno dopo i Boss.",
-      "6. Inizi la partita con meno PV.",
-      "7. I nemici Normali sono più resistenti.",
-      "8. Gli Elite sono più resistenti.",
-      "9. I Boss sono più resistenti.",
-      "10. Parassita!",
-      "11. Potions are less potent.",
-      "12. Upgraded cards appear less often.",
-      "13. Poor bosses.",
-      "14. Lower Max HP.",
-      "15. Unfavorable Events."
+      "Incontri più Elite.",
+      "I Nemici Comuni sono più pericolosi.",
+      "Gli Elite sono più pericolosi.",
+      "I Boss sono più pericolosi.",
+      "Ti curi di meno dopo i Boss.",
+      "Inizi la partita con meno PV.",
+      "I Nemici Comuni sono più resistenti.",
+      "Gli Elite sono più resistenti.",
+      "I Boss sono più resistenti.",
+      "Parassita!",
+      "Le Pozioni sono meno efficaci.",
+      "Le carte Potenziate appaiono più raramente.",
+      "I Boss sono poveri.",
+      "PV Massimi Ridotti.",
+      "Gli eventi sono sfavorevoli."
     ]
   },
   "AbstractMonster": {
@@ -898,11 +903,6 @@
   "TheBeyond": {
     "TEXT": [
       "L'Aldilà"
-    ]
-  },
-  "CreditsScreen": {
-    "TEXT": [
-      "click again to exit"
     ]
   },
   "TwitchVoter": {

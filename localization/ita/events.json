@@ -15,7 +15,7 @@
       "Non sembra esserci nulla di utile. Esci dalla via per cui sei venuto, le fiamme della fornace creano #p~ombre~ #p~inquietanti~ sui muri all'interno del capanno..."
     ],
     "OPTIONS": [
-      "[Forgia] #gMigliora #guna #gCarta. #r25%: #rVieni #rMaledetto #r- #rLesione.",
+      "[Forgia] #gPotenzia #guna #gCarta. #r25%: #rVieni #rMaledetto #r- #rLesione.",
       "[Cerca] #gOttieni #guna #gReliquia. #r75%: #rVieni #rMaledetto #r- #rNormalità.",
       "[Leave]",
       "Scegli una Carta da Potenziare",
@@ -89,10 +89,10 @@
       "Ignori l'altare."
     ],
     "OPTIONS": [
-      "[Prega] #gGuadagna #g100 #gOro.",
+      "[Prega] #gGuadagna #g",
+      " #gOro.",
       "[Dissacra] #gGuadagna #g250 #gOro. #rVieni #rMaledetto #r- #rRimorso.",
-      "[Ignora]",
-      "[Leave]"
+      "[Ignora]"
     ]
   },
   "Lab": {
@@ -198,11 +198,11 @@
       "Mentre te ne vai, ti chiedi cosa sarebbe accaduto se..."
     ],
     "OPTIONS": [
-      "[Salta all'Interno] #gCurati #gdel #gtutto. #rPerdi #r10 #rPV #rmassimi.",
+      "[Salta all'Interno] #gCurati #gdel #gtutto. #rPerdi #r",
+      " #rPV #rMassimi",
       "[Offri: Idolo Dorato] #gRicevi #g333 #gOro. #rPerdi #rl'Idolo #rDorato.",
       "[Bloccata] Richiede: Idolo Dorato.",
-      "[Ignora]",
-      "[Leave]"
+      "[Ignora]"
     ]
   },
   "Mysterious Sphere": {
@@ -257,11 +257,11 @@
     ],
     "OPTIONS": [
       "...",
-      "[Accogli la Follia] #gRicevi #g2 #gFollia. #rPerdi #r10 #rPV.",
+      "[Accogli la Follia] #gRicevi #g2 #gFollia. #rPerdi #r",
+      " #rPV.",
       "[Concentrati] #rVieni #rMaledetto #r- #rConvulsioni. #gCura #g",
       "[Esci]",
-      " #gPV.",
-      " #gHP."
+      " #gPV."
     ]
   },
   "Big Fish": {
@@ -295,11 +295,11 @@
       "[Cura] #y35 #yOro: #gCurati #gdi #g",
       "[Bloccata] Richiede: ",
       " Oro.",
-      "[Purifica] #y50 #yOro: #gRimuovi #guna #gcarta #gdal #gtuo #gmazzo.",
+      "[Purifica] #y",
+      " #yOro: #gRimuovi #guna #gcarta #gdal #gtuo #gmazzo",
       "[Bloccata] Richiede: 50 Oro.",
       "[Ignora]",
       "Scegli una Carta da Rimuovere.",
-      "Select a Card to Remove.",
       "."
     ]
   },
@@ -402,7 +402,7 @@
   "Living Wall": {
     "NAME": "Muro Vivente",
     "DESCRIPTIONS": [
-      "Ti ritrovi in un vicolo cieco, ed appena ti giri una parete @scende@ @repentina@ dall'alto. Sei in rappola! NL NL Nel muro appaiono tre facce che iniziano a parlarti. NL #b\"Dimentica #bciò #bche #bsai, #be #bti #blascerò #bandare.\" NL #p\"Devi #pcambiare #pse #pvuoi #pche #pti #plasci #pavanzare.\" NL #y\"Se #ymi #yvuoi #yoltreppassare, #yallora #ydovrai #ycrescere.\"",
+      "Ti ritrovi in un vicolo cieco, ed appena ti giri una parete @scende@ @repentina@ dall'alto. Sei in trappola! NL NL Nel muro appaiono tre facce che iniziano a parlarti. NL #b\"Dimentica #bciò #bche #bsai, #be #bti #blascerò #bandare.\" NL #p\"Devi #pcambiare #pse #pvuoi #pche #pti #plasci #pavanzare.\" NL #y\"Se #ymi #yvuoi #yoltrepassare, #yallora #ydovrai #ycrescere.\"",
       "Soddisfatte, le mura si sollevano, permettendoti di proseguire."
     ],
     "OPTIONS": [
@@ -542,9 +542,9 @@
       "[Continua] #rPerdi #r2 #rPV.",
       "[Continua] #rPerdi #r3 #rPV.",
       "[Fermati] #rPerdi #r3 #rPV.",
-      "[Raccoglilo] #gPrendi #gil #gLibro. #rPerdi #r10 #rPV.",
-      "[Ignora]",
-      "[Leave]"
+      "[Raccoglilo] #gPrendi #gil #gLibro. #rPerdi #r",
+      " #rPV.",
+      "[Ignora]"
     ]
   },
   "Drug Dealer": {
@@ -692,8 +692,8 @@
       "Decidi di continuare per la tua strada, lasciando i morti ormai dimenticati indisturbati."
     ],
     "OPTIONS": [
-      "[Scoperchia] #gReliquia! #r50%: #rVieni #rMaledetto #r- #rConvulsioni.",
-      "[Leave]",
+      "[Scoperchia] #gOttieni #guna #gReliquia. #r",
+      "%: #rVieni #rMaledetto #r- #rConvulsioni.",
       "[Leave]"
     ]
   },
@@ -726,7 +726,7 @@
       "[Compra 1 Pozione] #y",
       "[Compra 2 Pozioni] #y",
       "[Compra 3 Pozioni] #y",
-      " #yOro",
+      " #yOro.",
       "[Ignora]"
     ]
   }

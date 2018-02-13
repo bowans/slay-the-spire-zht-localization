@@ -1,15 +1,22 @@
 {
-  "Block Potion": {
-    "NAME": "Potion de Blocage",
+  "Ancient Potion": {
+    "NAME": "Potion Ancienne",
     "DESCRIPTIONS": [
-      "Vous gagnez #b",
-      " de #yBlocage."
+      "Gagnez #b",
+      " #yArtefact."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Potion d'Armure",
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " #yd'Armure."
     ]
   },
   "Dexterity Potion": {
     "NAME": "Potion de Dextérité",
     "DESCRIPTIONS": [
-      "Vous gagnez #b",
+      "Gagnez #b",
       " de #yDextérité."
     ]
   },
@@ -26,7 +33,7 @@
   "Energy Potion": {
     "NAME": "Potion d'Énergie",
     "DESCRIPTIONS": [
-      "Vous gagnez #b",
+      "Gagnez #b",
       " d'Énergie."
     ]
   },
@@ -47,7 +54,7 @@
   "Health Potion": {
     "NAME": "Potion de Santé",
     "DESCRIPTIONS": [
-      "Vous récupérez #b",
+      "Récupérez #b",
       " PV."
     ]
   },
@@ -68,7 +75,7 @@
   "Regen Potion": {
     "NAME": "Potion de Régénération",
     "DESCRIPTIONS": [
-      "Vous récupérez #b",
+      "Récupérez #b",
       " #yPV à la fin de chaque tour pendant #b",
       " tours."
     ]
@@ -76,7 +83,7 @@
   "Strength Potion": {
     "NAME": "Potion de Force",
     "DESCRIPTIONS": [
-      "Vous gagnez #b",
+      "Gagnez #b",
       " de #yForce."
     ]
   },
@@ -84,7 +91,7 @@
     "NAME": "Potion de célérité",
     "DESCRIPTIONS": [
       "",
-      "Vous piochez #b",
+      "Piochez #b",
       " cartes."
     ]
   },
@@ -93,13 +100,6 @@
     "DESCRIPTIONS": [
       "Applique #b",
       " de #yFaiblesse."
-    ]
-  },
-  "Ancient Potion": {
-    "NAME": "Ancient Potion",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " #yArtifact."
     ]
   }
 }

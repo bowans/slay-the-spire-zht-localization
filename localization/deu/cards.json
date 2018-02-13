@@ -264,7 +264,7 @@
     ]
   },
   "Thunderclap": {
-    "NAME": "Donnerklapf",
+    "NAME": "Donnerschlag",
     "DESCRIPTION": "Du verursachst !D! Schaden an ALLEN Gegnern und wendest 1 Verletzlich an."
   },
   "Flame Barrier": {
@@ -296,7 +296,7 @@
     "DESCRIPTION": "Am Ende deines Zuges erhältst du !M! Block."
   },
   "Pommel Strike": {
-    "NAME": "Knaufhieb",
+    "NAME": "Knaufschlag",
     "DESCRIPTION": "Du verursachst !D! Schaden. NL Du ziehst !M! Karte.",
     "UPGRADE_DESCRIPTION": "Du verursachst !D! Schaden. NL Du ziehst !M! Karten."
   },
@@ -455,7 +455,7 @@
   },
   "Disarm": {
     "NAME": "Entwaffnen",
-    "DESCRIPTION": "Dein Gegner verliert !M! Stärke. NL Erschöpft."
+    "DESCRIPTION": "Dein Gegner verliert für den Rest dieses Zuges !M! Stärke. NL Erschöpft."
   },
   "Panache": {
     "NAME": "Elan",
@@ -767,7 +767,7 @@
     "DESCRIPTION": "Du verursachst !D! Schaden. NL Du wendest !M! Schwach an. NL Du wendest !M! Verletzlich an."
   },
   "Mind Blast": {
-    "NAME": "Gedankenschuss",
+    "NAME": "Gedankenschlag",
     "DESCRIPTION": "Du verursachst Schaden entsprechend der Anzahl der Karten in deinem Aufnahmestapel.",
     "UPGRADE_DESCRIPTION": "Angeboren. NL Du verursachst Schaden entsprechend der Anzahl der Karten in deinem Aufnahmestapel.",
     "EXTENDED_DESCRIPTION": [
@@ -801,11 +801,11 @@
     "UPGRADE_DESCRIPTION": "Unspielbar. NL Am Ende deines Zuges erleidest du 4 Schaden."
   },
   "Sucker Punch": {
-    "NAME": "Überraschungshieb",
+    "NAME": "Überraschungsschlag",
     "DESCRIPTION": "Du verursachst !D! Schaden. NL Du wendest !M! Schwach an."
   },
   "Double Tap": {
-    "NAME": "Doppelhieb",
+    "NAME": "Doppelschlag",
     "DESCRIPTION": "Dein nächster Angriff in diesem Zug wird zweimal ausgespielt.",
     "UPGRADE_DESCRIPTION": "Deine nächsten !M! Angriffe in diesem Zug werden zweimal ausgespielt."
   },

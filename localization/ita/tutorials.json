@@ -86,6 +86,14 @@
       "Pila"
     ]
   },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Clicca per vedere le carte che hai Esaurito durante questo combattimento."
+    ],
+    "LABEL": [
+      "Carte Esaurite"
+    ]
+  },
   "Options Tip": {
     "TEXT": [
       "Gli errori ed altri dati di gioco vengono inviati a Mega Crit per bilanciare il gioco. NL NL NON sarà raccolto alcun dato personale.",
@@ -154,14 +162,16 @@
       "Quando finisci i PV, è Game Over.",
       "Mostra quanto oro stai trasportando. L'oro è la valuta all'interno della Guglia.",
       "Ottenuto quando sconfiggi un #yBoss. NL A cosa potrà mai servire...?",
-      "Ottenuto quando sconfiggi un #yBoss. NL Dalli da mangiare a #yNeow per sbloccare oggetti e ottenere bonus per nuove partite."
+      "Ottenuto quando sconfiggi un #yBoss. NL Dalli da mangiare a #yNeow per sbloccare oggetti e ottenere bonus per nuove partite.",
+      "Elapsed time for this run."
     ],
     "LABEL": [
       "Impostazioni",
       "Mazzo",
       "Mappa",
       "Punti Vita (PV)",
-      "Borsa dei Soldi"
+      "Borsa dei Soldi",
+      "Run Timer"
     ]
   },
   "Random Tips": {
@@ -204,14 +214,6 @@
     ],
     "LABEL": [
       "Puoi scartare pozioni per fare posto ad altre."
-    ]
-  },
-  "Exhaust Tip": {
-    "TEXT": [
-      "Click to view cards Exhausted this combat."
-    ],
-    "LABEL": [
-      "Exhausted Cards"
     ]
   }
 }
