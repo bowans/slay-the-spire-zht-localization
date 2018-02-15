@@ -1,0 +1,103 @@
+{
+  "AchievementGrid": {
+    "NAMES": [
+      "No Hagas Caso",
+      "Pureza",
+      "Ven A Mi",
+      "El Pacto",
+      "Adrenalina",
+      "Poderoso",
+      "Jaxxed",
+      "Impenetrable",
+      "Barricado",
+      "Catalizador",
+      "Plaga",
+      "Ninja",
+      "Infinito",
+      "No Eres Nada",
+      "Perfecto",
+      "El Guardian",
+      "El Fantasma",
+      "El Jefe",
+      "El Autómata",
+      "El Coleccionista",
+      "El Campeón",
+      "El Cuervo",
+      "Las Figuras",
+      "El Devorador del Tiempo",
+      "Rubí",
+      "Esmeralda",
+      "Oculto"
+    ],
+    "TEXT": [
+      "Gana una batalla con sólo 1 HP.",
+      "Ten 3 o menos cartas en la mano, la pila de extracción y la pila de descarte combinados.",
+      "Gana un combate sin jugar un Ataque.",
+      "Agota 20 cartas en un solo combate.",
+      "Ten 9 de Energía durante un solo turno de combate.",
+      "Ten 10 o más mejoras durante un combate.",
+      "Ten 50 o más Fuerza durante un combate.",
+      "Ten 99 o más Bloqueo durante un combate.",
+      "Ten 999 Bloqueo durante un combate.",
+      "Aplica 99 o más Veneno en un solo enemigo.",
+      "Derrota a 3 enemigos con Veneno en un solo combate.",
+      "Juega 10 Navajas en un solo turno.",
+      "Juega 25 cartas en un solo turno.",
+      "Derrota a un jefe en el primer turno.",
+      "Derrota a un jefe sin recibir daño.",
+      "Derrota a El Guardian.",
+      "Derrota a Hexafantasma.",
+      "Derrota a El Jefe Baba.",
+      "Derrota a El Autómata de Bronce.",
+      "Derrota a El Coleccionista.",
+      "Derrota a El Campeón.",
+      "Derrota a El Despertado.",
+      "Derrota a Donu y a Deca.",
+      "Derrota a El Devorador del Tiempo.",
+      "Venciste el juego con El Blindado.",
+      "Venciste el juego con La Silenciosa.",
+      "Los detalles de este logro serán revelados una vez que sea desbloqueado."
+    ]
+  },
+  "CharStat": {
+    "NAMES": [],
+    "TEXT": [
+      "Tiempo Total de Juego: ",
+      "Total de Victorias: #y",
+      "Total de Muertes: #y",
+      "Total De Pisos Escalados: #y",
+      "Total de Jefes Derrotados: #y",
+      "Total de Enemigos Derrotados: #y",
+      "Total de Cristales Consumidos: #y",
+      "Cartas Descubiertas: #y",
+      "Cartas Desbloqueadas: #y",
+      "Reliquias Descubiertas: #y",
+      "Reliquias Desbloqueadas: #y",
+      "Piso Más Alto: #y",
+      "Mayor Diaria: #y",
+      "Victoria Más Rápida: ",
+      "Derrotaste a ",
+      ": #gSi NL ",
+      ": #rNo NL ",
+      "Victorias: #y",
+      "Muertes: #y",
+      "Pisos Alcanzados: #y",
+      "Jefes Derrotados: #y",
+      "Enemigos Derrotados: #y",
+      "Mayor Racha Ganadora: #y",
+      "Puntuación más Alta: #y"
+    ]
+  },
+  "StatsScreen": {
+    "NAMES": [
+      "#yEstadísticas #yGenerales",
+      "#yLogros",
+      "#rEl #rBlindado",
+      "#gLa #gSilenciosa",
+      "#bCrowbot"
+    ],
+    "TEXT": [
+      "Regresar"
+    ]
+  }
+}

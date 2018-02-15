@@ -1,0 +1,146 @@
+{
+  "Ironclad": {
+    "NAMES": [
+      "El Blindado"
+    ],
+    "TEXT": [
+      "El último soldado restante de los Blindados. NL Vendio su alma para aprovechar energías demoniacas."
+    ]
+  },
+  "Crowbot": {
+    "NAMES": [
+      "Crowbot"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "La Silenciosa"
+    ],
+    "TEXT": [
+      "Un cazadora mortal de las tierras cubiertas de niebla. NL Erradica contrincantes con dagas y venenos."
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Saludos...~ NL ~Yo..~ ~soy~ ~Neow...~",
+      "~Hola...~ NL ~De nuevo..~",
+      "~Saludos...~",
+      "~Otro~ NL ~intento...?~",
+      "~Alcanza~ ~al~ ~jefe...~ NL ~para~ ~recibir~ ~mi..~ ~bendición...~",
+      "~Al~ ~menos...~ ~confronta~ NL ~al~ ~primer~ ~jefe...~",
+      "~Te~ ~traje~ ~de~ ~vuelta...~",
+      "~Elije...~",
+      "~Concedido...~",
+      "~Riesgo...~ NL ~..recompensa....~"
+    ],
+    "OPTIONS": [
+      "[Continuar]",
+      "[Hablar]",
+      "[Omitir]",
+      "[Salir]"
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gElije #guna #gCarta #gpara #gobtener ]",
+      "[ #gObtén #guna #gCarta #grara #gal #gazar ]",
+      "[ #gElimina #guna #gCarta #gde #gtu #gmazo ]",
+      "[ #gMejora #guna #gCarta ]",
+      "[ #gTransforma #guna #gCarta ]",
+      "[ #gObtén #g3 #gPociones #gal #gazar ]",
+      "[ #gObtén #guna #gReliquia #gcomún #gal #gazar ]",
+      "[ #gPV #gMáximos #g+",
+      "[ #gObtén #g",
+      " #gOro ]",
+      "#gElimina #g2 #gCartas ]",
+      "#gObtén #guna #Reliquia #grara #gal #gazar ]",
+      "#gElije #guna #gCarta #grara #gpara #gobtener ]",
+      "#gGana #g",
+      " #gOro ]",
+      "#gTransforma #g2 #gCartas ]",
+      "#gPV #gMáximos #g+",
+      "[ #rPierde #r",
+      " #rPV #rMáximos ",
+      "[ #rPierde #rtodo #rtu #rOro ",
+      "[ #rObtén #runa #rMaldición ",
+      "[ #rPierde #r50% #rde #rtus #rPV #ractual ",
+      "Elige una Carta",
+      "Selecciona una Carta para Eliminar",
+      "Selecciona 2 Cartas para Eliminar",
+      "Selecciona una Carta para Transformar",
+      "Selecciona 2 Cartas para Transformar",
+      "Selecciona una Carta para Mejorar",
+      "[ #gLos #gEnemigos #gen #gtus #gsiguientes #gtrés #gcombates #gtienen #g1 #gPV ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rPierde #rtu #rReliquia #rinicial #gObtén #guna #gReliquia #gde #gJefe #gal #gazar ]"
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Procede",
+      "~¡Bienvenido!~"
+    ],
+    "TEXT": [
+      "Hola! NL Compra algo! NL ¡Compra compra compra!",
+      "Me gusta tu corte de pelo",
+      "¿Tienes la hora?",
+      "¿Eres amante de perros o de gatos?",
+      "Te ves ~de peligro,~ NL hehe...",
+      "Tómate tu tiempo... NL ..... NL ... o no",
+      "¿Te gusta esta alfombra? NL No esta a la venta",
+      "¡Apoya a los pequeños negocios!",
+      "Las máscaras son geniales, !si lo sabré yo!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "¡Quedate un rato y escucha!",
+      "!Es peligroso ir sin compañia! ¡Dame todo tu oro!!",
+      "Compra algo'",
+      "~*YAWN*~",
+      "Me gusta el oro.",
+      "Mi color favorito es el azul. NL ¿Qué tal tú?"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~¡Bienvenido~ NL ~bienvenido!~",
+      "Oye, NL necesitas NL más #rOro.",
+      "Oye camarada, ¡no tienes #rDinero!",
+      "¿En quiebra?",
+      "No tienes suficiente #rOro.",
+      "No te alcanza para eso.",
+      "Esto no es una caridad.",
+      "~Graaaacias~",
+      "Otra venta... NL hohoho! NL Cha - @Ching!@",
+      "@¡VENDIDO!@",
+      "No Hay Devoluciones.",
+      "Ten un buen día.",
+      "Vete",
+      "Selecciona una carta para eliminar de tu mazo."
+    ],
+    "TEXT": [
+      "Hola! NL Compra algo! NL ¡Compra compra compra!",
+      "Me gusta tu corte de pelo",
+      "¿Tienes la hora?",
+      "¿Eres amante de perros o de gatos?",
+      "Te ves ~de peligro,~ NL hehe...",
+      "Tómate tu tiempo... NL ..... NL ... o no",
+      "¿Te gusta esta alfombra? NL No esta a la venta",
+      "¡Apoya a los pequeños negocios!",
+      "Las máscaras son geniales, !si lo sabré yo!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "¡Quedate un rato y escucha!",
+      "!Es peligroso ir sin compañia! ¡Dame todo tu oro!!",
+      "Compra algo'",
+      "~*YAWN*~",
+      "Me gusta el oro.",
+      "Mi color favorito es el azul. NL ¿Qué tal tú?"
+    ]
+  }
+}

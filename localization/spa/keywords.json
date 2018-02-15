@@ -1,0 +1,257 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artefacto",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Niega el siguiente perjuicio."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "bloqueo",
+        "bloquea",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Hasta el siguiente turno, previene daño."
+    },
+    "CURSE": {
+      "NAMES": [
+        "maldición",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Las cartas de Maldición son cartas negativas que se quedan en tu mazo."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "destreza",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "La Destreza aumenta el Bloqueo ganado por medio de cartas."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "etérea",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Si esta carta está en tu mano al final del turno, es agotada. Cartas Agotadas son eliminadas de tu mazo hasta el fin del combate."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "agotar",
+        "agotada",
+        "agotadas",
+        "agotan",
+        "agota"
+      ],
+      "DESCRIPTION": "Eliminada hasta el fin del combate."
+    },
+    "INNATE": {
+      "NAMES": [
+        "innata",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Empieza cada combate con esta carta en tu mano."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "bloqueado",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Esta carta aún no ha sido desbloqueada."
+    },
+    "POISON": {
+      "NAMES": [
+        "veneno",
+        "envenenado",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Las Criaturas envenenadas pierden PV al inicio de su turno. Cada turno, Veneno es reducido por #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "mantiene",
+        "mantener",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Las Cartas Mantenidas no son descartadas al final del turno."
+    },
+    "SHIV": {
+      "NAMES": [
+        "navaja",
+        "navajas",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Las Navajas son cartas de Ataque con costo #b0 que se Agotan."
+    },
+    "STATUS": {
+      "NAMES": [
+        "estatus",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Cartas Estatus son eliminadas al final del combate."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "fuerza",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Fuerza agrega daño adicional a los ataques."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transforma",
+        "transformar",
+        "transformada",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Las Cartas Transformadas se convierten en una carta al azar de cualquier rareza."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "desconocida",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Esta carta no ha sido encontrada."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "injugable",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Las Cartas injugables no pueden ser usadas desde tu mano."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "mejora",
+        "mejorar",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Mejorar cartas las hace mas poderosas. Las cartas solo pueden ser mejoradas una vez."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "vulnerable",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Las Criaturas Vulnerables toman #b50% más daño de Ataques."
+    },
+    "WEAK": {
+      "NAMES": [
+        "debil",
+        "debilitar",
+        "debilitado",
+        "debilita",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Las Criaturas debilitadas causan #b25% menos daño con Ataques."
+    },
+    "WOUND": {
+      "NAMES": [
+        "herida",
+        "heridas",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Heridas son cartas de estatus injugables."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "fragil",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Mientras seas Frágil, gana #b25% menos #yBloqueo por medio de Cartas."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "golpe",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Cualquier carta con la palabra \"Golpe\" en su nombre."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "confundido",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Cuando saques una carta, su costo es aleatorio."
+    },
+    "FIRE": {
+      "NAMES": [
+        "fire",
+        "fired",
+        "DONT TRANSLATE FIRED STUFF",
+        "DONT TRANSLATE FIRED STUFF",
+        "DONT TRANSLATE FIRED STUFF"
+      ],
+      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TEXT": [
+      "Energia es usada para jugar cartas en tu mano."
+    ]
+  }
+}

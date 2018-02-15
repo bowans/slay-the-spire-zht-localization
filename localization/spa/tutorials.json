@@ -1,0 +1,219 @@
+{
+  "Main Tutorial": {
+    "TEXT": [
+      "¡Derrota enemigos jugando cartas de tu mano! NL NL Las cartas requieren #yEnergía para jugarlas. NL Cuando se te acabe, termina tu turno. NL NL Al comienzo de tu turno nuevas cartas son sacadas y tu #yEnergía se reabastece.",
+      "Juega cartas defensivas para ganar #yBloqueo cuando los enemigos estén a punto de atacarte. NL NL El #yBloqueo reduce el daño de ataque entrante pero NL #rse #rexpira al comienzo de tu próximo turno.",
+      "Durante tu turno puedes observar la #yIntención de tus enemigos sobre ellos. NL NL Si un enemigo intenta atacarte, asegúrate de ganar algo de #yBloqueo!"
+    ],
+    "LABEL": [
+      "Proximo",
+      "¡Listo!",
+      "Tutorial",
+      "(Pagina ",
+      " de 3)"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Consejo: ",
+      "Entiendo"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "¡Bebe o lanza pociones durante el combate! NL Las pociones te acompañan entre habitaciones."
+    ],
+    "LABEL": [
+      "Pociones"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "¡Las cartas requieren enrgia para jugarlas! NL Este orbe a la parte inferior izquierda indica cuanta energia te queda para este turno."
+    ],
+    "LABEL": [
+      "Coste de energia"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Si no quedan cartas para sacar, tu pila de descarte se barajea dentro de la pila de extracción."
+    ],
+    "LABEL": [
+      "¿No te Quedan Cartas?"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Esta carta te aplica un Poder cuando la usas. NL Los Poderes so habilidades pasivas que permanecen toda la duración del combate.",
+      "¡Las cartas requieren energia para jugarlas! NL Este orbe a la parte inferior izquierda indica cuanta energia te queda para este turno.",
+      "¡Mi #rMano #restá #rLlena!"
+    ],
+    "LABEL": [
+      "Cartas de Poder",
+      "Coste de Energia"
+    ]
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Las Reliquias encontradas a traves de la Torre otorgan bonificaciones únicas y permanecen durante tu partida. NL Pueden hallarse derrotando enemigos poderosos o dentro de cofres.",
+      "Esta reliquia aún no se ha visto.",
+      "Su poder ya se agotó."
+    ],
+    "LABEL": [
+      "Reliquias",
+      "Desconocida",
+      "Esta reliquia aún no ha sido desbloqueada.",
+      "Bloqueada"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "¡No olvides tus recompenzas! NL Simplemente hazles click para recogerlas."
+    ],
+    "LABEL": [
+      "Recompensas"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Al comienzo de cada turno, NL #b",
+      " cartas son sacadas de aqui. NL NL Haz click para ver las cartas en tu pila de extracción (barajeadas).",
+      " cartas son sacadas de aqui. NL NL Haz click para ver las cartas en tu pila de extracción."
+    ],
+    "LABEL": [
+      "Pila de Extracción"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Datos de juego y registros de errores son enviados a Mega Crit con elproposito de balancear el juego. NL NL Información de identificación personal NO se colecciona.",
+      "Slay the Spire corre mejor en modo verdadero de pantalla completa. Recomendado para OSX ya que el Dock y Menubar estan escondidos. NL NOTA: En PC, usar Alt-Tab de vuelta a Slay the Spire puede que no funcione con modo pantalla completa.",
+      "Ya que Slay the Spire no es un juego muy demandante, recomendamos Pantalla Completa sin Bordes para poder realizar Alt-Tab con rapidez. Funciona mejor en PC.",
+      "Nota: Si el VSync esta prendido, el Framerate Máximo no puede pasar por encima de la frecuencia de actualización de tu monitor."
+    ],
+    "LABEL": [
+      "Metricas",
+      "Pantalla Completa",
+      "Pantalla Completa sin Bordes",
+      "Framerate Máximo"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Remueve una carta de tu mazo. El costo de este servicio se incrementa por #b",
+      " por el resto de esta partida."
+    ],
+    "LABEL": [
+      "Servicio de Remover Cartas"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Presionar este botón terminará tu turno. NL NL Descartarás tu mano, los enemigos tomarán su turno, sacaras ",
+      " cartas, y después será tu turno nuevamente."
+    ],
+    "LABEL": [
+      "Terminar el Turno"
+    ]
+  },
+  "Discard Tip": {
+    "TEXT": [
+      "Si tu pila de extracción esta vacia, la pila de descarte se barajea dentro de la pila de extracción. NL NL Haz click para ver las cartas en tu pila de descarte."
+    ],
+    "LABEL": [
+      "Pila de Descarte"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Tu número actual de energía. Las cartas requieren energía para jugarlas."
+    ],
+    "LABEL": [
+      "Energia"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Lanza esta poción a tu enemigo.",
+      "Consume esta poción.",
+      "Descarta esta poción NL #r(no #rse #rpuede #deshacer)"
+    ],
+    "LABEL": [
+      "Lanzar",
+      "Beber",
+      "Descartar"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Abre el Menu Principal. NL NL Cambia o actualiza tus preferencias de graficos, audio y jugabilidad aqui.",
+      "Mira todas las cartas en tu mazo.",
+      "Mira el mapa del calabozo actual.",
+      "Si pierdes todo tus PV, mueres.",
+      "Muestra cuánto oro llevas. Oro es la moneda dentro de la Torre.",
+      "Se obtiene cada vez que derrotas un #yJefe. NL ¿Para que podria ser...?",
+      "Se obtiene cada vez que derrotas un #yJefe. NL Alimenta estas a #yNeow para desbloquear objetos y recibir bonificaciones para nuevas partidas.",
+      "Elapsed time for this run."
+    ],
+    "LABEL": [
+      "Ajustes",
+      "Mazo",
+      "Mapa",
+      "Puntos de Vida (PV)",
+      "Monedero",
+      "Run Timer"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Vincúlate con otros jugadores para descubrir estrategias nuevas y efectivas.",
+      "Siempre hay un sitio de descanso antes de un Jefe.",
+      "¡Gasta oro en las tiendas! (Consejo patrocinado por el Comerciante)",
+      "Tomate un descanso de vez en cuando.",
+      "Ningun enemigo utiliza el mismo movimiento 3 veces seguidas.",
+      "Calculos de porcientos siempre redondean por defecto al final.",
+      "Durante el combate puedes ver los contenidos de tus pilas de extracción y descartes.",
+      "Información util puede ser revelada si mantienes el cursor sobre la mayoria de los objetos.",
+      "Intercambia los consejos entre activados/desactivados mediante el botón ? en la esquina posterior izquierda.",
+      "Click derecho suelta cualquier carta que estés arrastrando.",
+      "Manten el cursor sobre un enemigo para ver su nombre e Información de Poder.",
+      "Usa la rueda del mouse o haz click y arrastra la pantalla para mover la imagen de arriba a abajo.",
+      "Si puedes inspeccionar un objeto, tu cursor se convierte en una lupa.",
+      "No hay limite de cuantas reliquias puedes llevar.",
+      "Los cofres siempre contienen una reliquia.",
+      "Cualquier camino que escojas siempre tendrá al menos una sala de tesoros.",
+      "Usa la rueda del mouse o haz click y arrastra para ver información en mapas, pantallas de cartas y entre otras.",
+      "Enemigos Elite siempre dejan una reliquia.",
+      "Nunca veras la misma reliquia dos veces en una misma partida.",
+      "Las cartas poco comunes tienen un cuadro y estandarte color azul.",
+      "Las cartas raras tienen un cuadro y estandarte color dorado.",
+      "La rareza de esta carta es visible en la carta misma.",
+      "No siempre es sabio añadir cartas a tu mazo.",
+      "Las cartas agotadas durante el combate no son removidas de tu mazo.",
+      "Solo puedes tener hasta 10 cartas en la mano.",
+      "Las cartas de Status desaparecen al final del combate.",
+      "Las Maldiciones no se pueden mejorar. ¿Por que lo harias?",
+      "Cartas Mejoradas pueden aparecer en las recompenzas al pasar el Acto 1.",
+      "Las pociones solo se pueden usar durante el combate.",
+      "Las pociones no se pueden descartar durante el combate.",
+      "Habitaciones desconocidas pueden contener tesoros, monstruos, tiendas o eventos.",
+      "El Comerciante no ofrece reembolsos. Es un idiota.",
+      "El servicio de remover cartas sube de precio cada vez que lo uses.",
+      "El servicio de remover cartas solo se puede usar una vez en cada tienda.",
+      "Los daños de pociones, reliquias y poderes no se consideran daños de ataque."
+    ],
+    "LABEL": [
+      "Puedes descartar pociones para hacer espacio para otras nuevas."
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Click to view cards Exhausted this combat."
+    ],
+    "LABEL": [
+      "Exhausted Cards"
+    ]
+  }
+}

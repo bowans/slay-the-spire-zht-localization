@@ -1,0 +1,869 @@
+{
+  "Grand Finale": {
+    "NAME": "Grand Finale",
+    "DESCRIPTION": "Może być zagrana tylko wtedy gdy nie masz już kart w talii dobierania. NL Zadaj !D! obrażeń WSZYSTKIM przeciwnikom.",
+    "UPGRADE_DESCRIPTION": "Talia dobierania NL musi być #rpusta."
+  },
+  "Immolate": {
+    "NAME": "Poświęcenie",
+    "DESCRIPTION": "Wyczerp 1 kartę. Jeśli wybrana karta byłą kartą Statusu lub Klątwą, zadaj !D! obrażeń WSZYSTKIM przeciwnikom."
+  },
+  "Regret": {
+    "NAME": "Żal",
+    "DESCRIPTION": "Niegrywalna. NL Na końcu twojej tury, strać 1 PŻ za każdą karte w Twojej ręce."
+  },
+  "Crippling Poison": {
+    "NAME": "Paraliżująca trucizna",
+    "DESCRIPTION": "Nałóż !M! trucizny. NL Nałóż !M! Słabości."
+  },
+  "A Thousand Cuts": {
+    "NAME": "Tysiąc cięć",
+    "DESCRIPTION": "Kiedykolwiek zagrasz kartę, zadaj !M! obrażeń WSZYSTKIM przeciwnikom."
+  },
+  "Spot Weakness": {
+    "NAME": "Znajdź lukę",
+    "DESCRIPTION": "Jeśli atak jest zamiarem przeciwnika, zyskaj !M! siły."
+  },
+  "Wound": {
+    "NAME": "Rana",
+    "DESCRIPTION": "Niegrywalna."
+  },
+  "Writhe": {
+    "NAME": "Wykręcone ciało",
+    "DESCRIPTION": "Niegrywalna. NL Innate."
+  },
+  "Dark Shackles": {
+    "NAME": "Mroczne kajdany",
+    "DESCRIPTION": "Przeciwnik traci !M! siły do końca tej tury. NL Wyczerp."
+  },
+  "Glass Knife": {
+    "NAME": "Szklany nóż",
+    "DESCRIPTION": "Zadaj dwa razy !D! obrażeń. Do końca walki obrażenia szklanego noża są zmniejszone o 2."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Płaszcz i sztylet",
+    "DESCRIPTION": "Zyskaj !B! Bloku. NL Dodaj !M! nóż do twojej ręki.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! Bloku. NL Dodaj !M! noże do twojej ręki."
+  },
+  "Underhanded Strike": {
+    "NAME": "Podstępne uderzenie",
+    "DESCRIPTION": "Niegrywalna. NL Jeśli ta karta zostanie odrzucona, zadaj !D! obrażeń losowemu przeciwnikowi.",
+    "EXTENDED_DESCRIPTION": [
+      "Nie mogę zagrać tej karty."
+    ]
+  },
+  "Anger": {
+    "NAME": "Gniew",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Połóż kopię tej karty na Twojej talii kart odrzuconych."
+  },
+  "Storm of Steel": {
+    "NAME": "Nawałnica ostrzy",
+    "DESCRIPTION": "Odrzuć swoją rekę. NL za każdą odrzuconą kartę dodaj 1 nóż do twojej ręki.",
+    "UPGRADE_DESCRIPTION": "Odrzuć swoją rekę. NL za każdą odrzuconą kartę dodaj 1 ulepszony nóż do twojej ręki."
+  },
+  "Cleave": {
+    "NAME": "Rozpłatanie",
+    "DESCRIPTION": "Zadaj !D! obrażeń WSZYSTKIM przeciwnikom."
+  },
+  "Inflame": {
+    "NAME": "Rozjątrzenie",
+    "DESCRIPTION": "Zyskaj !M! siły."
+  },
+  "Wraith Form": {
+    "NAME": "Upiorna postać",
+    "DESCRIPTION": "Kiedykolwiek zagrasz kartę umiejętności, zadaj !M! obrażeń losowemu przeciwnikowi."
+  },
+  "Sadistic Nature": {
+    "NAME": "Sadystyczny charakter",
+    "DESCRIPTION": "Kiedykolwiek nałożysz negatywny efekt na przeciwnka, otrzymuje on !M! obrażeń."
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "Strać 3 PŻ. NL Zyskaj !M! Siły . NL Wyczerp."
+  },
+  "Offering": {
+    "NAME": "Dar",
+    "DESCRIPTION": "Strać 4 PŻ. NL Zyskaj [R] [R]. NL Dociągnij !M! kart. NL Wyczerp."
+  },
+  "Exhume": {
+    "NAME": "Ekshumacja",
+    "DESCRIPTION": "Wybierz wyczerpaną kartę i umieść ją w ręce. NL Wyczerp."
+  },
+  "Power Through": {
+    "NAME": "Moc poprzez rany",
+    "DESCRIPTION": "Dodaj 2 rany do twojej ręki. NL Zyskaj !B! Bloku."
+  },
+  "Dual Wield": {
+    "NAME": "Oburęczność",
+    "DESCRIPTION": "Stwórz kopię karty ataku lub karty mocy i umieść ją w ręce.",
+    "UPGRADE_DESCRIPTION": "Stwórz 2 kopie karty ataku lub karty mocy i umieść ją w ręce."
+  },
+  "Deadly Poison": {
+    "NAME": "Śmiertelna trucizna",
+    "DESCRIPTION": "Nałóż !M! trucizny."
+  },
+  "Leg Sweep": {
+    "NAME": "Podcięcie",
+    "DESCRIPTION": "Nałóż !M! słabości. NL Zyskaj !B! bloku."
+  },
+  "Flex": {
+    "NAME": "Naprężenie muskułów",
+    "DESCRIPTION": "Zyskaj !M! Siły. NL Na końcu swojej tury, strać !M! siły."
+  },
+  "Dagger Spray": {
+    "NAME": "Dagger Spray",
+    "DESCRIPTION": "Dwa razy zadaj !D! obrażeń WSZYSTKIM przeciwnikom."
+  },
+  "Bullet Time": {
+    "NAME": "Spowolnienie czasu",
+    "DESCRIPTION": "W tej turze nie możesz już dobierać więcej kart. Podczas tej tury koszt wszystkich kart w ręce jest zredukowany do 0."
+  },
+  "Catalyst": {
+    "NAME": "Katalizator",
+    "DESCRIPTION": "Podwój truciznę przeciwnika. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "Potrój truciznę przeciwnika. NL Wyczerp."
+  },
+  "Reaper": {
+    "NAME": "Żniwiarz",
+    "DESCRIPTION": "Zadaj !D! obrażeń WSZYSTKIM przeciwnikom. Ulecz tyle samo niezablokowanych obrażeń. NL Wyczerp."
+  },
+  "Shiv": {
+    "NAME": "Nóż",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Wyczerp."
+  },
+  "Tactician": {
+    "NAME": "Taktyk",
+    "DESCRIPTION": "Niegrywalna. NL Jeśli odrzucisz tą kartę, zyskaj [G].",
+    "UPGRADE_DESCRIPTION": "Niegrywalna. NL Jeśli odrzucisz tą kartę, zyskaj [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Nie mogę zagrać tej karty."
+    ]
+  },
+  "Bane": {
+    "NAME": "Jad",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Jeśli przeciwnik jest zatruty, zadaj ponownie !D! obrażeń."
+  },
+  "Infernal Blade": {
+    "NAME": "Piekielne ostrze",
+    "DESCRIPTION": "Dodaj losową kartę ataku do twojej ręki. NL W tej turze kosztuje 0. NL Wyczerp."
+  },
+  "After Image": {
+    "NAME": "Powidok",
+    "DESCRIPTION": "Kiedykolwiek zagrasz kartę, zyskaj 1 bloku.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Kiedykolwiek zagrasz kartę, zyskaj 1 bloku."
+  },
+  "Unload": {
+    "NAME": "Wyładowanie",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Odrzuć WSZYSTKIE karty nie będące kartami ataku."
+  },
+  "Blade Dance": {
+    "NAME": "Taniec ostrzy",
+    "DESCRIPTION": "Dodaj !M! noży do twojej ręki."
+  },
+  "Deflect": {
+    "NAME": "Odbicie",
+    "DESCRIPTION": "Zyskaj !B! bloku."
+  },
+  "Trip": {
+    "NAME": "Potknięcie",
+    "DESCRIPTION": "Nałóż !M! wrażliwości.",
+    "UPGRADE_DESCRIPTION": "Nałóż !M! wrażliwości na WSZYSTKICH przeciwników."
+  },
+  "Dagger Throw": {
+    "NAME": "Rzut sztyletem",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Dociągnij 1 kartę. NL Odrzuć 1 kartę."
+  },
+  "Brutality": {
+    "NAME": "Bestialstwo",
+    "DESCRIPTION": "Na początku Twojej tury, strać 1 PŻ i dociągnij 1 kartę.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Na początku Twojej tury, strać 1 PŻ i dociągnij 1 kartę."
+  },
+  "Iron Wave": {
+    "NAME": "Fala żelaza",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Zadaj !D! obrażeń."
+  },
+  "Reckless Charge": {
+    "NAME": "Lekkomyslna szarża",
+    "DESCRIPTION": "Zyskaj 1 wrażliwości. NL Zadaj !D! obrażeń."
+  },
+  "Decay": {
+    "NAME": "Gnicie",
+    "DESCRIPTION": "Niegrywalna. NL Na końcu swojej tury, przyjmij 2 obrażenia."
+  },
+  "Tools of the Trade": {
+    "NAME": "Narzędzia kupieckie",
+    "DESCRIPTION": "Na początku swojej tury, dociągnij 1 kartę i odrzuć 1 kartę."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Dramatyczne wejście",
+    "DESCRIPTION": "Innate. NL Zadaj !D! obrażeń WSZYSTKIM przeciwnikom. NL Wyczerp."
+  },
+  "Hemokinesis": {
+    "NAME": "Manipulacja krwi",
+    "DESCRIPTION": "Strać !M! PŻ. NL Zadaj !D! obrażeń."
+  },
+  "Intimidate": {
+    "NAME": "Zastrasznie",
+    "DESCRIPTION": "Nałóż !M! słabośc na WSZYSTKICH przeciwników. NL Wyczerp."
+  },
+  "Necronomicurse": {
+    "NAME": "Klątwa umarlaka",
+    "DESCRIPTION": "Niegrywalna. NL Od tej klątwy nie ma ucieczki."
+  },
+  "Choke": {
+    "NAME": "Zadławienie",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Kiedykolwiek zagrasz tą kartę podczas swojej tury, wybrany przeciwnik straci !M! PŻ."
+  },
+  "Juggernaut": {
+    "NAME": "Juggernaut",
+    "DESCRIPTION": "Kiedykolwiek zyskujesz blok, zadajesz !M! obrażeń losowemu przeciwnikowi."
+  },
+  "Caltrops": {
+    "NAME": "Kolczatka",
+    "DESCRIPTION": "Kiedykolwiek zostaniesz zaatakowany, zadaj !M! obrażeń atakującemu."
+  },
+  "Poisoned Stab": {
+    "NAME": "Zatrute dźgnięcie",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Nałóż !M! trucizny."
+  },
+  "Blur": {
+    "NAME": "Rozmazanie",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Blok nie zniknie w nastepnej turze."
+  },
+  "Body Slam": {
+    "NAME": "Grzmotnięcie ciałem",
+    "DESCRIPTION": "Zadaj tyle obrażeń ile wynosi wartość Twojego bloku.",
+    "UPGRADE_DESCRIPTION": " NL (Zadaj !D! obrażeń.)"
+  },
+  "True Grit": {
+    "NAME": "Prawdziwe męstwo",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Wyczerp losową karte z ręki.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! bloku. NL Wyczerp wybraną kartę z ręki."
+  },
+  "Setup": {
+    "NAME": "Ustawienie",
+    "DESCRIPTION": "Połóż karte z ręki na górze talii dobierania. NL Ta karta kosztuje 0 dopóki nie zostanie zagrana."
+  },
+  "Blood for Blood": {
+    "NAME": "Krew za krew",
+    "DESCRIPTION": "Kosztuje 1 mniej [R] NL za każdym razem kiedy stracisz PŻ w walce. NL Zadaj !D! obrażeń."
+  },
+  "Impervious": {
+    "NAME": "Nieprzepuszczalność",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Wyczerp."
+  },
+  "Shrug It Off": {
+    "NAME": "Zbagatelizuj to",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Dociągnij 1 kartę."
+  },
+  "Clash": {
+    "NAME": "Starcie",
+    "DESCRIPTION": "Może być zagrana tylko, jeśli wszystkie pozostałe karty są kartami ataku. NL Zadaj !D! obrażeń.",
+    "EXTENDED_DESCRIPTION": [
+      "Mam w ręce kartę, która nie jest kartą ataku."
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Grzmot",
+    "DESCRIPTION": "Zadaj !D! obrażeń i nałóż 1 wrażliwości na WSZYSTKICH przeciwników."
+  },
+  "Flame Barrier": {
+    "NAME": "Ognista bariera",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Kiedykolwiek zostaniesz zaatakowany podczas tej tury, zadaj !M! obrażeń atakującemu. "
+  },
+  "Endless Agony": {
+    "NAME": "Wieczna agonia",
+    "DESCRIPTION": "Kiedykolwiek dobierzesz tą kartę, dodaj jej kopię do twojej ręki. NL Zadaj !D! obrażeń. NL Wyczerp."
+  },
+  "Berserk": {
+    "NAME": "Berserk",
+    "DESCRIPTION": "Jesli masz poniżej 50% PŻ, zyskaj [R] na poczatku każdej tury."
+  },
+  "Pummel": {
+    "NAME": "Okładanie pięściami",
+    "DESCRIPTION": "Zadaj !D! obrażeń !M! razy. NL Wyczerp."
+  },
+  "Riddle With Holes": {
+    "NAME": "Zagadka z dziurami",
+    "DESCRIPTION": "Zadaj !D! obrażeń 5 razy."
+  },
+  "Burning Pact": {
+    "NAME": "Palący pakt",
+    "DESCRIPTION": "Wyczerp 1 kartę. NL Dociągnij !M! karty."
+  },
+  "Metallicize": {
+    "NAME": "Metalizacja",
+    "DESCRIPTION": "Na końcu swojej tury, zyskaj !M! bloku."
+  },
+  "Pommel Strike": {
+    "NAME": "Uderzenie trzonem",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Dociągnij !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Zadaj !D! obrażeń. NL Dociągnij !M! karty."
+  },
+  "Pain": {
+    "NAME": "Ból",
+    "DESCRIPTION": "Niegrywalna. NL Jesli w ręce, NL strać 1 PŻ za każdą inną zagraną kartę."
+  },
+  "Burst": {
+    "NAME": "Impuls",
+    "DESCRIPTION": "Następna umiejętność w tej turze zostanie zagrana 2 razy.",
+    "UPGRADE_DESCRIPTION": "Następne !M! umiejętności w tej turze zostaną zagrane 2 razy."
+  },
+  "Acrobatics": {
+    "NAME": "Akrobacje",
+    "DESCRIPTION": "Dociągnij !M! kart. NL Odrzuć 1 kartę."
+  },
+  "Blind": {
+    "NAME": "Oślepienie",
+    "DESCRIPTION": "Nałóż !M! słabość.",
+    "UPGRADE_DESCRIPTION": "Nałóż !M! słabość na WSZYSTKICH przeciwników."
+  },
+  "Doppelganger": {
+    "NAME": "Doppelganger",
+    "DESCRIPTION": "W następnej turze dobierz więcej o X kart i zyskaj X [G]. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "W następnej turze dobierz więcej o X+1 kart i zyskaj X+1 [G]. NL Wyczerp."
+  },
+  "Skewer": {
+    "NAME": "Szpikulec",
+    "DESCRIPTION": "Wydaj wszystkie [G]. NL Zadaj !D! obrażeń X razy."
+  },
+  "Envenom": {
+    "NAME": "Zatrucie",
+    "DESCRIPTION": "Za każdym razem gdy atak zadaje niezablokowane obrażenia nakładasz 1 trucziny."
+  },
+  "Adrenaline": {
+    "NAME": "Adrenalina",
+    "DESCRIPTION": "Zyskaj [G]. NL Dobierz 2 karty. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "Zyskaj [G] [G]. NL Dobierz 2 karty. NL Wyczerp."
+  },
+  "Quick Slash": {
+    "NAME": "Szybkie chlaśnięcie",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Dobierz 1 kartę."
+  },
+  "Twin Strike": {
+    "NAME": "Podwójne uderzenie",
+    "DESCRIPTION": "Zadaj !D! obrażeń dwa razy."
+  },
+  "Parasite": {
+    "NAME": "Pasożyt",
+    "DESCRIPTION": "Niegrywalna. `NL Jeśli zostanie transformowana lub usunięta, strać 3 Max PŻ"
+  },
+  "Bash": {
+    "NAME": "Grzmotnięcie",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Nałóż !M! wrażliwości."
+  },
+  "Clothesline": {
+    "NAME": "Cios w gardło",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Nałóż !M! słabości."
+  },
+  "Shockwave": {
+    "NAME": "Fala uderzeniowa",
+    "DESCRIPTION": "Nałóż !M! słabości i wrażliwości na WSZYSTKICH wrogów. NL Wyczerp."
+  },
+  "Rampage": {
+    "NAME": "Szalony cios",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Za każdym razem, gdy ta karta zostanie zagrana, zwiększ jej obrażenia !M! na czas tej walki."
+  },
+  "Bandage Up": {
+    "NAME": "Zabandażowanie",
+    "DESCRIPTION": "Ulecza !M! PŻ. NL Wyczerp."
+  },
+  "The Bomb": {
+    "NAME": "Bomba",
+    "DESCRIPTION": "Zadaj wszystkim !D! obrażeń (wliczając siebie). NL Wyczerp."
+  },
+  "Sever Soul": {
+    "NAME": "Oderwanie duszy",
+    "DESCRIPTION": "Wyczerp wszystkie karty w ręce, które nie są kartami ataku. NL Zadaj !D! obrażeń."
+  },
+  "Whirlwind": {
+    "NAME": "Wir",
+    "DESCRIPTION": "Wydaj wszystkie [R]. NL Zadaj !D! obrażeń WSZYSTKIM przeciwnikom X razy."
+  },
+  "Warcry": {
+    "NAME": "Okrzyk bojowy",
+    "DESCRIPTION": "Dobierz 2 karty. NL Połóż kartę z ręki na szczycie talii dobierania. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
+  },
+  "PiercingWail": {
+    "NAME": "Przeszywające jęk",
+    "DESCRIPTION": "W tej turze wszyscy przeciwnicy tracą !M! siły. NL Wyczerp."
+  },
+  "Bite": {
+    "NAME": "Ugryzienie",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Ulecz !M! PŻ."
+  },
+  "Secret Technique": {
+    "NAME": "Sekretna technika",
+    "DESCRIPTION": "Wybierz kartę umiejętności z twojej talii dobierania i umieść ją w ręce. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "Wybierz umiejętności z twojej talii dobierania i umieść ją w ręce.",
+    "EXTENDED_DESCRIPTION": [
+      "Nie posiadam żadnych kart umiejętności NL w mojej talii dobierania."
+    ]
+  },
+  "Calculated Gamble": {
+    "NAME": "Skalkulowane ryzyko",
+    "DESCRIPTION": "Odrzuć swoją rekę, NL następnie dobierz tyle samo kart. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "Odrzuć swoją rekę, NL następnie dobierz tyle samo kart"
+  },
+  "Combust": {
+    "NAME": "Samozapłon",
+    "DESCRIPTION": "Na końcu swojej tury, strać 1 PŻ i zadaj !M! obrażeń WSZYSTKIM przeciwnikom."
+  },
+  "Deep Breath": {
+    "NAME": "Głęboki oddech",
+    "DESCRIPTION": "Wtasuj swoją talię kart odrzuconych do talii. NL Dobierz !M! kart.",
+    "UPGRADE_DESCRIPTION": "Wtasuj swoją talię kart odrzuconych do talii. NL Dobierz !M! kart."
+  },
+  "Doubt": {
+    "NAME": "Zwątpienie",
+    "DESCRIPTION": "Niegrywalna. NL Na końcu swojej tury, zyskaj 1 słabości."
+  },
+  "Escape Plan": {
+    "NAME": "Plan ucieczki",
+    "DESCRIPTION": "Dobierz 1 kartę. NL Jeśli to karta umiejętności, zyskaj !B! bloku."
+  },
+  "Finisher": {
+    "NAME": "Cios ostateczny",
+    "DESCRIPTION": "Zadaj !D! obrażeń za każdą kartę ataku zagraną w tej turze.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Zagrałeś ",
+      " kartę ataku.)",
+      " kart ataku.)"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Objęcia ciemności",
+    "DESCRIPTION": "Kiedykolwiek karta zostanie wyczerpana, NL dobierz 1 kartę."
+  },
+  "Die Die Die": {
+    "NAME": "Giń Giń Giń",
+    "DESCRIPTION": "Zadaj !D! obrażeń WSZYSTKIM przeciwnikom. NL Wyczerp."
+  },
+  "Well Laid Plans": {
+    "NAME": "Porządne planowanie",
+    "DESCRIPTION": "Na końcu swojej tury, zachowaj !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Na końcu swojej tury, zachowaj do !M! kart."
+  },
+  "Defend_R": {
+    "NAME": "Obrona",
+    "DESCRIPTION": "Zyskaj !B! bloku."
+  },
+  "Defend_G": {
+    "NAME": "Obrona",
+    "DESCRIPTION": "Zyskaj !B! bloku."
+  },
+  "Defend_B": {
+    "NAME": "Obrona",
+    "DESCRIPTION": "Zyskaj !B! bloku."
+  },
+  "Seeing Red": {
+    "NAME": "Wkurzenie",
+    "DESCRIPTION": "Zyskaj [R] [R]. NL Wyczerp."
+  },
+  "Disarm": {
+    "NAME": "Rozbrojenie",
+    "DESCRIPTION": "Enemy traci !M! siły. NL Wyczerp."
+  },
+  "Panache": {
+    "NAME": "Ostentacja",
+    "DESCRIPTION": "Za każdym razem kiedy zagrasz 5 kart podczas jednej tury, zadaj !M! obrażeń WSZYSTKIM przeciwnikom."
+  },
+  "Fiend Fire": {
+    "NAME": "Diabelski ogień",
+    "DESCRIPTION": "Wyczerp swoją ręke. NL Zadaj !D! obrażeń za każdą wyczerpaną kartę. NL Wyczerp."
+  },
+  "Terror": {
+    "NAME": "Terror",
+    "DESCRIPTION": "Nałóż 99 wrażliwości. NL Wyczerp."
+  },
+  "Dazed": {
+    "NAME": "Odurzenie",
+    "DESCRIPTION": "Niegrywalna. NL Eteryczna."
+  },
+  "Barricade": {
+    "NAME": "Barykada",
+    "DESCRIPTION": "Blok nie wygasa już na początku twojej tury."
+  },
+  "Armaments": {
+    "NAME": "Zbrojenia",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL ulepsz kartę z ręki do końca walki.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! bloku. NL Ulepsz WSZYSTKIE karty z ręki do końca walki."
+  },
+  "Havoc": {
+    "NAME": "Spustoszenie",
+    "DESCRIPTION": "Zagraj kartę z góry twojej talii dobierania i wyczerp ją."
+  },
+  "Secret Weapon": {
+    "NAME": "Sekretna broń",
+    "DESCRIPTION": "Wybierz kartę ataku z twojej talii dobierania i umieść ją w ręce. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "Wybierz kartę ataku z twojej talii dobierania i umieść ją w ręce.",
+    "EXTENDED_DESCRIPTION": [
+      "Nie posiadam kart ataku NL w mojej talii dobierania."
+    ]
+  },
+  "Apotheosis": {
+    "NAME": "Apoteoza",
+    "DESCRIPTION": "Ulepsz WSZYSTKIE karty do końca walki. NL Wyczerp."
+  },
+  "Feel No Pain": {
+    "NAME": "Niewrażliwość na ból",
+    "DESCRIPTION": "Za każdym razem, kiedy karta zostanie wyczerpana , NL zyskaj !M! bloku."
+  },
+  "Hide": {
+    "NAME": "Ukrycie",
+    "DESCRIPTION": "Nie możesz stracić PŻ do następnej tury. NL Wyczerp."
+  },
+  "Corruption": {
+    "NAME": "Wynaturzenie",
+    "DESCRIPTION": "Karty umiejętności kosztują 0. NL Kiedykolwiek zagrasz kartę umiejętności, wyczerp ją."
+  },
+  "Heel Hook": {
+    "NAME": "Pochwycenie",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Jeśli przeciwnik jest pod wpływem słabości, NL Zyskaj [G] i NL dobierz 1 kartę."
+  },
+  "Injury": {
+    "NAME": "Szkoda",
+    "DESCRIPTION": "Niegrywalna."
+  },
+  "Rage": {
+    "NAME": "Wściekłość",
+    "DESCRIPTION": "Za każdą kartę ataku zagraną w tej turze, zyskaj !M! bloku."
+  },
+  "Headbutt": {
+    "NAME": "Uderzenie głową",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Przełóż kartę z talii kart odrzuconych do talii dobierania."
+  },
+  "Limit Break": {
+    "NAME": "Zniesienie limitu",
+    "DESCRIPTION": "Podwój swoją siłę. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "Podwój swoją siłę."
+  },
+  "Entrench": {
+    "NAME": "Obwarowanie",
+    "DESCRIPTION": "Podwój swoją obecną wartość bloku.",
+    "UPGRADE_DESCRIPTION": "Podwój swoją obecną wartość bloku."
+  },
+  "Noxious Fumes": {
+    "NAME": "Trujące opary",
+    "DESCRIPTION": "Na początku swojej tury, nałóż !M! trucizny na WSZYSTKICH przeciwników."
+  },
+  "Infinite Blades": {
+    "NAME": "Niekończące się ostrza",
+    "DESCRIPTION": "Na początku swojej tury, dodaj nóż do twojej ręki.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Na początku swojej tury, dodaj nóż do twojej ręki."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Widmowy zabójca",
+    "DESCRIPTION": "W twojej następnej turze, karty ataku zadają podwójne obrażenia."
+  },
+  "Malaise": {
+    "NAME": "Marazm",
+    "DESCRIPTION": "Wydaj wszystkie [G]. NL Przeciwnik straci X siły. Nałóż X słabości. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "Wydaj wszystkie [G]. NL Przeciwnik straci X+1 siły. Nałóż X+1 słabości. NL Wyczerp."
+  },
+  "Reflex": {
+    "NAME": "Refleks",
+    "DESCRIPTION": "Niegrywalna. NL Jeśli odrzucisz tą kartę z ręki, dobierz !M! kart.",
+    "UPGRADE_DESCRIPTION": "Niegrywalna. NL Jeśli odrzucisz tą kartę z ręki, dobierz !M! kart.",
+    "EXTENDED_DESCRIPTION": [
+      "Nie mogę zagrać tej karty."
+    ]
+  },
+  "Sentinel": {
+    "NAME": "Wartownik",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Jeśli ta karta zostanie wyczerpana, NL zyskaj [R] [R].",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! bloku. NL Jeśli ta karta zostanie wyczerpana, NL zyskaj [R] [R] [R]."
+  },
+  "Survivor": {
+    "NAME": "Niedobitek",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Odrzuć kartę."
+  },
+  "Wild Strike": {
+    "NAME": "Oszalałe uderzenie",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Wtasuj ranę do swojej talii dobierania."
+  },
+  "Eviscerate": {
+    "NAME": "Wypatroszenie",
+    "DESCRIPTION": "Kosztuje o 1 mniej [G] NL za każdą odrzuconą karte podczas tej tury. NL Zadaj !D! obrażeń trzy razy."
+  },
+  "Flash of Steel": {
+    "NAME": "Błysk stali",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Dobierz 1 kartę."
+  },
+  "Battle Trance": {
+    "NAME": "Trans bitewny",
+    "DESCRIPTION": "Dobierz !M! kart. NL Podczas tej tury nie możesz dobrać więcej kart."
+  },
+  "Heavy Blade": {
+    "NAME": "Ciężkie ostrze",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Siła oddziałuje na ciężkie ostrze !M! razy."
+  },
+  "Clumsy": {
+    "NAME": "Niezdarność",
+    "DESCRIPTION": "Niegrywalna. NL Eteryczna."
+  },
+  "Searing Blow": {
+    "NAME": "Gwałtowny cios",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Może byc ulepszona dowolną ilość razy."
+  },
+  "Corpse Explosion": {
+    "NAME": "Eksplozja zwłok",
+    "DESCRIPTION": "Przeciwnik traci cała truciznę. Zadaj obrażenia dwa razy większe niż wynosiła ilość trucizny WSZYSTKIM przeciwnikom.",
+    "UPGRADE_DESCRIPTION": "Przeciwnik traci cała truciznę. Zadaj obrażenia trzy razy większe niż wynosiła ilość trucizny WSZYSTKIM przeciwnikom.",
+    "EXTENDED_DESCRIPTION": [
+      "Przeciwnik nie jest zatruty."
+    ]
+  },
+  "Second Wind": {
+    "NAME": "Złapanie oddechu",
+    "DESCRIPTION": "Wyczerp wszystkie karty, które nie są kartami ataku i zyskaj za każdą !B! bloku."
+  },
+  "Enlightenment": {
+    "NAME": "Oświecenie",
+    "DESCRIPTION": "Na czas tej tury obniża koszt wszystkich kart w ręce do 1.",
+    "UPGRADE_DESCRIPTION": "Na czas tej walki obniża koszt wszystkich kart w ręce do 1."
+  },
+  "Purity": {
+    "NAME": "Oczyszczenie",
+    "DESCRIPTION": "Wybierz i wyczerp do !M! kart z twojej ręki. NL Wyczerp."
+  },
+  "Panacea": {
+    "NAME": "Panaceum",
+    "DESCRIPTION": "Zyskaj !M! kartę artefaktu. NL Wyczerp."
+  },
+  "Dash": {
+    "NAME": "Sprint",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Zadaj !D! obrażeń."
+  },
+  "Transmutation": {
+    "NAME": "Transmutacja",
+    "DESCRIPTION": "Dodaj X losowych bezbarwnych kart do twojej ręki. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "Dodaj X losowych, ulepszonych bezbarwnych kart do twojej ręki. NL Wyczerp."
+  },
+  "Backstab": {
+    "NAME": "Cios w plecy",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Innate. NL Wyczerp."
+  },
+  "Step Through Time": {
+    "NAME": "Krok poprzez czas",
+    "DESCRIPTION": "KOSZT: 2 ładunki. NL Twoje PŻ powracają do wartości z poprzedniej tury. NL Wyczerp."
+  },
+  "Feed": {
+    "NAME": "Posycenie się",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Jeśli ten atak zabije przeciwnika, zyskaj na zawsze !M! maks PŻ. Wyczerp."
+  },
+  "Rupture": {
+    "NAME": "Rozłam",
+    "DESCRIPTION": "Kiedykolwiek masz stracić PŻ przez swoją kartę, NL zyskaj 1 siły."
+  },
+  "Venomology": {
+    "NAME": "Alchemizacja",
+    "DESCRIPTION": "Otrzymaj losową miksturę. NL Wyczerp."
+  },
+  "Bouncing Flask": {
+    "NAME": "Odbijająca się flaszka",
+    "DESCRIPTION": "Nałóż 3 trucizny losowemu przeciwnikiowi. Powtórz !M! razy."
+  },
+  "Bludgeon": {
+    "NAME": "Uderzenie hutnika",
+    "DESCRIPTION": "Zadaj !D! obrażeń."
+  },
+  "Finesse": {
+    "NAME": "Finezja",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Dobierz 1 kartę."
+  },
+  "Slice": {
+    "NAME": "Zacięcie",
+    "DESCRIPTION": "Zadaj !D! obrażeń."
+  },
+  "Backflip": {
+    "NAME": "Salto w tył",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL Dobierz 2 karty."
+  },
+  "Outmaneuver": {
+    "NAME": "Przechytrzenie",
+    "DESCRIPTION": "W następnej turze NL zyskaj [G] [G].",
+    "UPGRADE_DESCRIPTION": "W następnej turze NL zyskaj [G] [G] [G]."
+  },
+  "Night Terror": {
+    "NAME": "Koszmar",
+    "DESCRIPTION": "Wybierz kartę. NL Podczas następnej tury dodaj !M! kopii tej karty do twojej ręki. Wyczerp.",
+    "EXTENDED_DESCRIPTION": [
+      "Mogę tego użyć tylko NL ",
+      " NL raz na turę."
+    ]
+  },
+  "Bloodletting": {
+    "NAME": "Spuszczenie krwi",
+    "DESCRIPTION": "Zyskaj [R]. NL Strać 3 PŻ.",
+    "UPGRADE_DESCRIPTION": "Zyskaj [R] [R]. NL Strać 3 PŻ."
+  },
+  "Concentrate": {
+    "NAME": "Skupienie",
+    "DESCRIPTION": "Odrzuć !M! kart. NL Zyskaj [G] [G]."
+  },
+  "Master of Strategy": {
+    "NAME": "Mistrz strategii",
+    "DESCRIPTION": "Dobierz !M! kart. NL Wyczerp."
+  },
+  "Flechettes": {
+    "NAME": "Rzutki",
+    "DESCRIPTION": "Zadaj !D! obrażeń za każdą kartę umiejętności w Twojej ręce.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Posiadasz ",
+      " kartę umiejętności).",
+      " kart umiejętności)."
+    ]
+  },
+  "Perfected Strike": {
+    "NAME": "Perfekcyjne uderzenie",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Zadaj dodatkowo +2 obrażeń za KAŻDĄ kartę zawierającą w tytule \"Uderzenie\".",
+    "UPGRADE_DESCRIPTION": "Zadaj !D! obrażeń. NL Zadaj dodatkowo +3 obrażeń za KAŻDĄ kartę zawierającą w tytule \"Strike\"."
+  },
+  "Carnage": {
+    "NAME": "Rzeź",
+    "DESCRIPTION": "Eteryczna. NL Zadaj !D! obrażeń."
+  },
+  "Masterful Stab": {
+    "NAME": "Mistrzowskie zasztyletowanie",
+    "DESCRIPTION": "Może być zagrana gdy jest ostatnią kartą w ręce. NL Zadaj !D! obrażeń.",
+    "UPGRADE_DESCRIPTION": "To musi być moja NL jedyna karta."
+  },
+  "Good Instincts": {
+    "NAME": "Świetny instynkt",
+    "DESCRIPTION": "Zyskaj !B! bloku."
+  },
+  "Prepared": {
+    "NAME": "Przygotowany",
+    "DESCRIPTION": "Dobierz !M! kartę. NL Odrzuć !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Dobierz !M! karty. NL Odrzuć !M! karty."
+  },
+  "Dropkick": {
+    "NAME": "Kopniak z wyskoku",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Jeśli przeciwnik jest wrażliwy, NL Zyskaj [R] i NL dobierz 1 kartę."
+  },
+  "Swift Strike": {
+    "NAME": "Błyskawiczne uderzenie",
+    "DESCRIPTION": "Zadaj !D! obrażeń."
+  },
+  "Normality": {
+    "NAME": "Typowość",
+    "DESCRIPTION": "Niegrywalna. NL W tej turze nie możesz zagrać więcej niż 3 karty.",
+    "EXTENDED_DESCRIPTION": [
+      "Mogę zagrać tylko NL #r3 karty w tej turze.",
+      "Niegrywalna. NL Nie możesz zagrać więcej niż ",
+      " kart w turze.",
+      " kart w turze. NL Zagrałeś ",
+      " kart w tej turze."
+    ]
+  },
+  "Accuracy": {
+    "NAME": "Celność",
+    "DESCRIPTION": "Noże zadają dodatkowo !M! obrażeń."
+  },
+  "Sword Boomerang": {
+    "NAME": "Miecz-Bumerang",
+    "DESCRIPTION": "Zadaj !D! obrażeń !M! razy losowemu przeciwnikowi."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Majsterklepka",
+    "DESCRIPTION": "Dodaj !M! losowych bezbarwnych kart do twojej ręki. NL Wyczerp."
+  },
+  "Demon Form": {
+    "NAME": "Postać demona",
+    "DESCRIPTION": "Na początku tury, zyskaj !M! siły."
+  },
+  "Fire Breathing": {
+    "NAME": "Ognisty oddech",
+    "DESCRIPTION": "Na końcu swojej tury, za każdą kartę ataku zagraną w tej turze zadaj 1 obrażeń WSZYSTKIM przeciwnikom."
+  },
+  "Ghostly Armor": {
+    "NAME": "Duchowy pancerz",
+    "DESCRIPTION": "Eteryczna. NL Zyskaj !B! bloku."
+  },
+  "Uppercut": {
+    "NAME": "Podbródkowy",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Nałóż !M! słabość. NL Nałóż !M! wrażliwość."
+  },
+  "Mind Blast": {
+    "NAME": "Uderzenie umysłu",
+    "DESCRIPTION": "Zadaj obrażenia równe ilości kart w talii dobierania.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Zadaj obrażenia równe ilości kart w talii dobierania..",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Zadaje !D! obrażeń.)"
+    ]
+  },
+  "Neutralize": {
+    "NAME": "Unieszkodliwienie",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Nałóż !M! słabość."
+  },
+  "Strike_R": {
+    "NAME": "Uderzenie",
+    "DESCRIPTION": "Zadaj !D! obrażeń."
+  },
+  "Strike_G": {
+    "NAME": "Uderzenie",
+    "DESCRIPTION": "Zadaj !D! obrażeń."
+  },
+  "Strike_B": {
+    "NAME": "Uderzenie",
+    "DESCRIPTION": "Zadaj !D! obrażeń."
+  },
+  "Evolve": {
+    "NAME": "Ewolucja",
+    "DESCRIPTION": "Wtasuj 2 rany do swojej talii dobierania. NL Kiedykolwiek dobierzesz ranę, dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Wtasuj 2 rany do swojej talii dobierania. NL Kiedykolwiek dobierzesz ranę, dobierz !M! karty."
+  },
+  "Burn": {
+    "NAME": "Poparzenie",
+    "DESCRIPTION": "Niegrywalna. NL Na końcu swojej tury, przyjmij 2 obrażenia.",
+    "UPGRADE_DESCRIPTION": "Niegrywalna. NL Na końcu swojej tury, przyjmij 4 obrażenia."
+  },
+  "Sucker Punch": {
+    "NAME": "Cios bez ostrzeżenia",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Nałóż !M! słabość."
+  },
+  "Double Tap": {
+    "NAME": "Podwójny atak",
+    "DESCRIPTION": "Podczas tej tury twoja następna karta ataku zostanie zagrana podwójnie.",
+    "UPGRADE_DESCRIPTION": "Podczas tej tury twoje dwie następne karty ataku zostaną zagrane podwójnie."
+  },
+  "Footwork": {
+    "NAME": "Praca nóg",
+    "DESCRIPTION": "Zyskaj !M! zręczności."
+  },
+  "Thinking Ahead": {
+    "NAME": "Myślenie przyszłościowe",
+    "DESCRIPTION": "Dobierz 2 karty. NL Połóż kartę z ręki na górze swojej talii dobierania. NL Wyczerp.",
+    "UPGRADE_DESCRIPTION": "Dobierz 2 karty. NL Połóż kartę z ręki na górze swojej talii dobierania."
+  },
+  "Distraction": {
+    "NAME": "Rozproszenie",
+    "DESCRIPTION": "Dodaj losową kartę umiejętności do twojej ręki. NL W tej turze jej koszt wynosi 0. NL Wyczerp."
+  },
+  "Dodge and Roll": {
+    "NAME": "Unik i przetoczenie",
+    "DESCRIPTION": "Zyskaj !B! bloku. NL W następnej turze zyskaj !B! bloku."
+  },
+  "All Out Attack": {
+    "NAME": "Atak na całość",
+    "DESCRIPTION": "Zadaj !D! obrażeń WSZYSTKIM przeciwnikom. NL Dobierz 1 kartę mniej w następnej turze."
+  },
+  "Flying Knee": {
+    "NAME": "Cios kolanem",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL W następnej turze zyskaj [G]."
+  },
+  "Predator": {
+    "NAME": "Predator",
+    "DESCRIPTION": "Zadaj !D! obrażeń. NL Dobierz 2 karty więcej w następnej turze."
+  },
+  "Madness": {
+    "NAME": "Szaleństwo",
+    "DESCRIPTION": "Na czas tej walki zmień koszt jednej karty z ręki na 0. NL Wyczerp."
+  },
+  "Expertise": {
+    "NAME": "Ekspertyza",
+    "DESCRIPTION": "Dobieraj karty dopóki nie będziesz mieć !M! na ręce."
+  }
+}

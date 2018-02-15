@@ -1,0 +1,776 @@
+{
+  "Absorb": {
+    "NAME": "Absorbcja",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zostaniesz zaatakowany, zyskaj #b",
+      " ³adunek."
+    ]
+  },
+  "Accuracy": {
+    "NAME": "Celnoœæ",
+    "DESCRIPTIONS": [
+      "#yNo¿e zadaj¹ dodatkowo #b",
+      " obra¿eñ."
+    ]
+  },
+  "After Image": {
+    "NAME": "Powidok",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartê, zyskaj #b",
+      " #ybloku."
+    ]
+  },
+  "Anger": {
+    "NAME": "Rozœwcieczenie",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartê #yumiejêtnoœci, zyskaj #b",
+      " #ysi³y."
+    ]
+  },
+  "Angry": {
+    "NAME": "Wkurzenie",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek ",
+      " przyjmujesz obra¿enia od #yataku, zyskujesz #b",
+      " #ysi³y."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Artefakt",
+    "DESCRIPTIONS": [
+      "Neguj #b",
+      " negatywny efekt.",
+      " negatywne efekty."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Spalenie ataku",
+    "DESCRIPTIONS": [
+      "Na czas #b",
+      " tury, kiedykolwiek zagrasz kartê #yataku, #yWyczerp j¹.",
+      "Na czas nastêpnych #b",
+      " tur, kiedykolwiek zagrasz kartê #yataku, #yWyczerp j¹."
+    ]
+  },
+  "Barricade": {
+    "NAME": "Barykada",
+    "DESCRIPTIONS": [
+      "#yBlok nie znika na pocz¹tku twojej tury.",
+      "#yBlok nie znika na pocz¹tku tury."
+    ]
+  },
+  "Blur": {
+    "NAME": "Rozmycie",
+    "DESCRIPTIONS": [
+      "#yBlok nie znika na pocz¹tku twojej nastêpnej tury.",
+      "#yBlok nie znika podczas nastêpnych #b",
+      " tur."
+    ]
+  },
+  "Brutality": {
+    "NAME": "Bestialstwo",
+    "DESCRIPTIONS": [
+      "Na pocz¹tku twojej tury, straæ #b",
+      " P¯ i dobierz #b",
+      " kartê.",
+      "Na pocz¹tku twojej tury, straæ #b",
+      " P¯ i dobierz #b",
+      " kart."
+    ]
+  },
+  "Burst": {
+    "NAME": "Impuls",
+    "DESCRIPTIONS": [
+      "Nastêpna karta #yumiejêtnoœci w tej turze zostanie zagrana 2 razy",
+      "W tej turze nastêpne ",
+      " karty #yumiejêtnoœci zostan¹ zagrane podwójnie."
+    ]
+  },
+  "Choked": {
+    "NAME": "Podduszony",
+    "DESCRIPTIONS": [
+      "Podczas tej tury straæ #b",
+      " P¯ za ka¿d¹ zagran¹ kartê."
+    ]
+  },
+  "Combust": {
+    "NAME": "Samozap³on",
+    "DESCRIPTIONS": [
+      "Na koñcu tury straæ, #b",
+      " P¯ i zadaj #b",
+      " obra¿eñ WSZYSTKIM przeciwnikom."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Zmieszany",
+    "DESCRIPTIONS": [
+      "Losowy koszt, ka¿dej doci¹gniêtej karty."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Uciskany",
+    "DESCRIPTIONS": [
+      "Na koniec tury przyjmij #b",
+      " obra¿eñ."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Wynaturzenie",
+    "DESCRIPTIONS": [
+      "Karty umiejêtnoœci kosztuj¹ #b0. Kiedykolwiek zagrasz kartê #yumiejêtnoœci, #ywyczerp j¹.",
+      "Kiedykolwiek zagrasz kartê #yumiejêtnoœci, #ywyczerp j¹."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Ciekawoœæ",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartê #ymocy, zyskaj #b",
+      " #ysi³y."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "Skulenie",
+    "DESCRIPTIONS": [
+      "Przy przyjêciu obra¿eñ od #yataku, zrób przewrót i zyskaj ",
+      " #ybloku. (Raz na walkê)"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "Tañcz, marionetko",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartê nie bêd¹c¹ kart¹ umiejêtnoœci, przyjmij #b",
+      " obra¿eñ. (Typ karty zmienia siê co turê)",
+      "Kiedykolwiek zagrasz kartê nie bêd¹c¹ kart¹ ataku, dostañ #b",
+      "+1 tañcz¹cych marionetek"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Objêcia ciemnoœci",
+    "DESCRIPTIONS": [
+      "Kiedyolwiek karta zostanie #ywyczerpana, dobierz #b1 kartê.",
+      "Kiedykolwiek karta zostanie #ywyczerpana, dobierz #b",
+      " kartê."
+    ]
+  },
+  "Darkness": {
+    "NAME": "Mrok",
+    "DESCRIPTIONS": [
+      "Przy starcie tury, posiadaj #b1 mniej energii."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Postaæ demona",
+    "DESCRIPTIONS": [
+      "Na pocz¹tku tury, zyskaj #b",
+      " #ysi³y."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Zrêcznoœæ",
+    "DESCRIPTIONS": [
+      "Zwiêksza #yblok zdobywany z kart o #b",
+      "Zmniejsza #yblok zdobywany z kart o #b"
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Podwójne obra¿enia",
+    "DESCRIPTIONS": [
+      "Karty #yataku zadaj¹ podwójne obra¿enia przez #b",
+      " turê.",
+      " tury."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Podwójny atak",
+    "DESCRIPTIONS": [
+      "Podczas tej tury, twoja nastêpna karta #yataku zostanie zagrana podwójnie.",
+      "Podczas tej tury, twoja nastêpna ",
+      " karta #yataku zostanie zagrana podwójnie."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Dobranie karty",
+    "DESCRIPTIONS": [
+      "Dobierz #b",
+      " kart w nastêpnej turze.",
+      " karte w nastêpnej turze."
+    ]
+  },
+  "Draw": {
+    "NAME": "Dobranie",
+    "DESCRIPTIONS": [
+      "Dobierz #b",
+      " dodatkow¹ kartê na pocz¹tku twojej tury.",
+      " o jedn¹ kartê mniej na pocz¹tku twojej tury.",
+      " dodatkowe karty w ka¿dej turze.",
+      " mniejsz¹ liczbê kart w ka¿dej turze."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Mniejsze dobieranie",
+    "DESCRIPTIONS": [
+      "Dobierz #b",
+      " mniej o kartê w nastêpnej turze.",
+      " mniej kart w nastêpnej turze."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Redukcja dobierania",
+    "DESCRIPTIONS": [
+      "Dobierz #b1 mniej karte w nastêpnej turze.",
+      "Dobierz #b1 karte mniej przez #b",
+      " tur."
+    ]
+  },
+  "Electric Field": {
+    "NAME": "Pole wy³adowañ",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zostaniesz zaatakowany, zadaj #b1 obra¿eñ za ka¿dy #b",
+      " ³adunek, który posiadasz.",
+      "Kiedykolwiek zostaniesz zaatakowany, zadaj #b1 obra¿eñ za ka¿dy ³adunek, który posiadasz."
+    ]
+  },
+  "Energized": {
+    "NAME": "Pobudzony",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " dodatkowy [G] w nastêpnej turze.",
+      " dodatkowych [G] w nastêpnej turze.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Zapl¹tanie",
+    "DESCRIPTIONS": [
+      "Nie mo¿esz zagrywaæ kart #yataku przez jedn¹ turê."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Zatrucie",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zadasz niezablokowane obra¿enia #yatakiem, na³ó¿ #b",
+      " #ytrucizny."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Ewolucja",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek dobierzesz #yranê, dobierz kartê.",
+      "Kiedykolwiek dobierzesz #yranê, dobierz #b",
+      " karty."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Wybuchaj¹cy",
+    "DESCRIPTIONS": [
+      "Gdy zginie, zadaje ci #b",
+      " obra¿eñ."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Niewra¿liwoœæ na ból",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek karta zostanie #ywyczerpana, zyskaj #b",
+      " #ybloku."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Ognisty oddech",
+    "DESCRIPTIONS": [
+      "Na koñcu swojej tury, za ka¿d¹ kartê ataku zagran¹ w tej turze zadaj #b",
+      " obra¿eñ WSZYSTKIM przeciwnikom."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Ognista bariera",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zostaniesz obra¿enia od #yataku, zadaj #b",
+      " obra¿eñ atakuj¹cemu."
+    ]
+  },
+  "Flight": {
+    "NAME": "Lot",
+    "DESCRIPTIONS": [
+      "Zredukuj obra¿enia #yataków o #b50%. Anulowane jeœli #yzaatakowany #b3 razy podczas jednej tury."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Uniewa¿nienie ataku",
+    "DESCRIPTIONS": [
+      "Ca³kowicie #yblokuje jeden #yatak w ka¿dej turze."
+    ]
+  },
+  "Frail": {
+    "NAME": "W¹t³y",
+    "DESCRIPTIONS": [
+      "Zyskaj #b25% mniej #ybloku z kart na czas #b",
+      " tury.",
+      " tur."
+    ]
+  },
+  "Shackled": {
+    "NAME": "Spêtany",
+    "DESCRIPTIONS": [
+      "Odzyskuje #b",
+      " #ysi³y na koñcu w³asnej tury."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Gambit",
+    "DESCRIPTIONS": [
+      "Po #b",
+      " turze, zyskaj ",
+      " turach, zyskaj ",
+      " [B] ."
+    ]
+  },
+  "Generator": {
+    "NAME": "Generator",
+    "DESCRIPTIONS": [
+      "Na pocz¹tku ka¿dej tury, zyskaj #b",
+      " #y³adunek."
+    ]
+  },
+  "Hex": {
+    "NAME": "Przeklêty",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz karte nie bêd¹c¹ atakiem, wtasuj #b",
+      " #yodurzenie do twojej talii dobierania."
+    ]
+  },
+  "Hide": {
+    "NAME": "Ukrcie",
+    "DESCRIPTIONS": [
+      "Nie przyjmujesz obra¿eñ a¿ do poczatku twojej nastêpnej tury.",
+      "Nie przyjmujesz obra¿eñ przez #b",
+      " tur."
+    ]
+  },
+  "Impulse": {
+    "NAME": "Zapêd",
+    "DESCRIPTIONS": [
+      "Na koñcu tury, straæ #b",
+      " ³adunek."
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Niekoñcz¹ce siê ostrza",
+    "DESCRIPTIONS": [
+      "Na pocz¹tku tury, dobierz #b",
+      " #yno¿e.",
+      " #yno¿y."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Spowolnienie czasu",
+    "DESCRIPTIONS": [
+      "Na czas tej tury koszt wszystkich zielonych kart wynosi #b0."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Nieuchwytny",
+    "DESCRIPTIONS": [
+      "Zmniejsz wszystkie przjête obra¿enia i staty w P¯ do #b1 na czas nastêpnych #b",
+      " tur.",
+      "Zmniejsz wszystkie przjête obra¿enia i staty w P¯ do #b1 na czas nastêpnej tury."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Odwrotny",
+    "DESCRIPTIONS": [
+      "Niewra¿liwy na obra¿enia. Kiedykolwiek zyskujesz #yblok, tracisz tyle P¯."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Juggernaut",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zyskujesz #yblok, zadaj #b",
+      " obra¿eñ losowemu przeciwnikowi."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Wiedza",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartê #ymocy, dobierz #b",
+      " kart."
+    ]
+  },
+  "Flex": {
+    "NAME": "Naprê¿enie musku³ów",
+    "DESCRIPTIONS": [
+      "Na koñcu tury, straæ #b",
+      " #ysi³y."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Podatny",
+    "DESCRIPTIONS": [
+      "Przy przyjêciu obra¿eñ #yataku, zyskaj #b",
+      " #ybloku. #yblok zwiêksza siê ",
+      " przez wyzwolenie. Resetuje siê #b",
+      " na pocz¹tku tury."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Metalizacja",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " #ybloku na koñcu swojej tury.",
+      "Zyskaj #b",
+      " #ybloku na koñcu jego tury."
+    ]
+  },
+  "Minion": {
+    "NAME": "S³uga",
+    "DESCRIPTIONS": [
+      "S³ugi uciekaj¹ kiedy ich przywódca zginie."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Zmiana trybu",
+    "DESCRIPTIONS": [
+      "Po przyjêciu #b",
+      " obra¿eñ, zmienia tryb na defensywny."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Blokuj w nastêpnej turze",
+    "DESCRIPTIONS": [
+      "Na poczatku nastêpnej tury, zyskaj #b",
+      " #ybloku."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Koszmar",
+    "DESCRIPTIONS": [
+      "Na pocz¹tku nastepnej tury, dodaj #b",
+      " kart do twojej rêki."
+    ]
+  },
+  "No Draw": {
+    "NAME": "Nie dobierasz",
+    "DESCRIPTIONS": [
+      "Nie mo¿esz dobrac wiêcej kart do koñca tej tury."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Truj¹ce opary",
+    "DESCRIPTIONS": [
+      "Na pocz¹tku twojej tury, na³ó¿ #b",
+      " #ytrucizny na WSZYSTKICH przeciwników."
+    ]
+  },
+  "Panache": {
+    "NAME": "Ostentacja",
+    "DESCRIPTIONS": [
+      "Kiedy zagrasz #b",
+      " wiêcej kart w tej turze, zadasz #b",
+      " obra¿eñ WSZYSTKIM przeciwnikom.",
+      " kartê wiêcej, zadasz #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Stalówka pióra",
+    "DESCRIPTIONS": [
+      "Twoja nastêpna karta #yataku zada podwójne obra¿enia."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Widmowy",
+    "DESCRIPTIONS": [
+      "Zadaj #ypodwójne #yobra¿enia w nastêpnej turze.",
+      "Zadaj #ypodwójne #yobra¿enia przez nastêpne ",
+      " tury."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Wzmocniona zbroja",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " #ybloku na koñcu twojej tury. Strata P¯ przez ataku zmniejsza #ywzmocnion¹ #yzbrojê o #b1.",
+      "Zyskaj #b",
+      " #ybloku na koñcu twojej tury. Strata P¯ przez ataku zmniejsza #ywzmocnion¹ #yzbrojê o #b1."
+    ]
+  },
+  "Poison": {
+    "NAME": "Trucizna",
+    "DESCRIPTIONS": [
+      "Na poczatku tury, straæ #b",
+      " P¯, nastêpnie zmniejsz #ytruciznê o #b1.",
+      "Na pocz¹tku tury, traci #b"
+    ]
+  },
+  "Rage": {
+    "NAME": "Wœciek³oœæ",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek podczas tej tury zagrasz kartê ataku, zyskaj #b",
+      " #ybloku."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Redukcja obra¿eñ",
+    "DESCRIPTIONS": [
+      "Zmniejsz przyjmowane obra¿enia o #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Regeneracja",
+    "DESCRIPTIONS": [
+      "Ulecz #b",
+      " #yP¯ na koñcu swojej tury."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Regeneracja",
+    "DESCRIPTIONS": [
+      "Ulecz #b",
+      " #yP¯ na koñcu swojej tury, przez #b",
+      " tur."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Wspólne ¿ycie",
+    "DESCRIPTIONS": [
+      "Jeœli inni przeciwnicy ¿yj¹, wskrzesza siê w #b2 tury z #b50% P¯."
+    ]
+  },
+  "Relentless Beating": {
+    "NAME": "Nieustanne bicie",
+    "DESCRIPTIONS": [
+      " bije szybciej zale¿nie od granych kart i zadawanych obra¿eñ"
+    ]
+  },
+  "Repulse": {
+    "NAME": "Odparcie",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek ",
+      " otrzymuje obra¿enia od ataku, dodaj #yranê do twojej rêki."
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Zachowaj karty",
+    "DESCRIPTIONS": [
+      "Na koñcu ka¿dej tury, mo¿esz zachowaæ #b",
+      " karte.",
+      " karty."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Zachowaj rekê",
+    "DESCRIPTIONS": [
+      "Na koñcu tury, nie odrzucaj swojej rêki przez #b",
+      " tur.",
+      "Na koñcu twujej tury, nie odrzucasz swojej rêki."
+    ]
+  },
+  "Riposte": {
+    "NAME": "Riposta",
+    "DESCRIPTIONS": [
+      "Raz na turê, zadaj #b",
+      " obra¿eñ kiedy zagrasz kartê #yataku."
+    ]
+  },
+  "Ritual": {
+    "NAME": "Rytua³",
+    "DESCRIPTIONS": [
+      "Na koñcu swojej tury, zyska #b",
+      " #ysi³y."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Na koñcu swojej tury, zyskuje #b",
+      " #ysi³y."
+    ]
+  },
+  "Rupture": {
+    "NAME": "Roz³am",
+    "DESCRIPTIONS": [
+      "Przy utracie P¯ poprzez kartê, zyskaj #b",
+      " #ysi³y."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Sadystyczny",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek na³o¿ysz negatywny efekt, zadaj #b",
+      " obra¿eñ."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "Wêzykowaty",
+    "DESCRIPTIONS": [
+      "Niewra¿liwy na #ymikstury."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Ostra skóra",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartê #yataku, przyjmij #b",
+      " obra¿eñ."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Wrzask nieznanego",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartê ataku, odrzuæ losow¹ kartê."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Bolesne uk³ucia",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek przyjmiesz obra¿enia od tego przeciwnika, dodaj #yranê do twojej talii kart odrzuconych."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Wypalenie umiejetnoœci",
+    "DESCRIPTIONS": [
+      "Na czas #b",
+      " tury, kiedykolwiek zagrasz kartê #yumiejêtnoœci, #ywyczerp j¹.",
+      "Na czas nastêpnych #b",
+      " tur, kiedykolwiek zagrasz kartê #yumiejêtnoœci, #ywyczerp j¹."
+    ]
+  },
+  "Slow": {
+    "NAME": "Spowolnienie",
+    "DESCRIPTIONS": [
+      "Za ka¿d¹ kartê zagran¹ podczas tej tury, ",
+      " przyjmie #b10 wiêcej obra¿eñ z kart #yataku.",
+      " (Przyjmuje #b",
+      "% wiêcej obra¿eñ)"
+    ]
+  },
+  "Split": {
+    "NAME": "Rozszczepienie",
+    "DESCRIPTIONS": [
+      "Kiedy ¿ycie spadnie poni¿ej #b50%, rozszczepi siê na #b2 mniejsze stwory ",
+      " obecne P¯."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Chmura zarodników",
+    "DESCRIPTIONS": [
+      "Gdy zginie, nak³ada na ciebie #ywra¿liwoœæ na czas #b",
+      " tur."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Zastój",
+    "DESCRIPTIONS": [
+      "Przy œmierci, ",
+      " wraca do twojej rêki."
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Dodatkowe karty",
+    "DESCRIPTIONS": [
+      "Dobierz #b1 kartê wiêcej w nastepnej turze.",
+      "dobierz #b",
+      " wiêcej kart w nastêpnej turze."
+    ]
+  },
+  "Strength": {
+    "NAME": "Si³a",
+    "DESCRIPTIONS": [
+      "Zwiêksza obra¿enia o #b",
+      "Zmniejsza obra¿enia o #b"
+    ]
+  },
+  "Systems": {
+    "NAME": "Uk³ady",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zyskasz ³adunek, zadaj tyle obra¿eñ przeciwnikowi."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Z³odziejstwo",
+    "DESCRIPTIONS": [
+      " kradnie #b",
+      " szt. #yz³ota kiedy atakuje."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Ciernie",
+    "DESCRIPTIONS": [
+      "Przy otrzymywaniu obra¿eñ, zadaje #b",
+      " obra¿eñ atakuj¹cemu."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Tysi¹c ciêæ",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartê, zadaj #b",
+      " obra¿eñ WSZYSTKIM przeciwnikom."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Berserk",
+    "DESCRIPTIONS": [
+      "Jeœli masz poni¿ej #b50% P¯, zyskaj ",
+      " na pocz¹tku swojej tury."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Zakrzywienie czasoprzestrzeni",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz #b",
+      " kart, twoja tura siê koñczy a Zjadacz Czasu zyskuje #b",
+      " #ysi³y."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Narzêdzia kupieckie",
+    "DESCRIPTIONS": [
+      "Na pocz¹tku tury, dobierz #b",
+      " kartê i odrzuæ #b",
+      " kartê.",
+      " kart i odrzuæ #b",
+      " kart."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Œpi",
+    "DESCRIPTIONS": [
+      "Przeciwnik jeszcze siê nie obudzi³..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "Niestabilny",
+    "DESCRIPTIONS": [
+      "Zadaj wystarczaj¹c¹ liczbe obra¿eñ aby wytr¹ciæ go z równowagi."
+    ]
+  },
+  "Venomology": {
+    "NAME": "Nauka o truciŸnie",
+    "DESCRIPTIONS": [
+      "#yTrucizna roœnie w si³e o #b",
+      " zamiast zmniejszania siê."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Wra¿liwy",
+    "DESCRIPTIONS": [
+      "Przyjmuj #b",
+      "% wiêcej obra¿eñ z #yataków przez #b",
+      " turê.",
+      " tury."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Os³abiony",
+    "DESCRIPTIONS": [
+      "#yAtaku zadaj¹ #b",
+      "% mniej obra¿eñ przez #b",
+      " turê.",
+      " tur."
+    ]
+  },
+  "Wraith Form": {
+    "NAME": "Upiorna postaæ",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartê umiejêtnoœci, zadaj ",
+      " obra¿eñ losowemu wrogowi."
+    ]
+  }
+}

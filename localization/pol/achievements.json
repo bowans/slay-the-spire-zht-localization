@@ -1,0 +1,103 @@
+{
+  "AchievementGrid": {
+    "NAMES": [
+      "Zbagatelizuj to",
+      "Czystość",
+      "Dawaj na mnie",
+      "Pakt",
+      "Adrenalina",
+      "Poteżny",
+      "Zjaxxxowany",
+      "Nieprzenikliwy",
+      "Zabarykadowany",
+      "Katalizator",
+      "Plaga",
+      "Ninja",
+      "Nieskończoność",
+      "Jesteś nikim",
+      "Perfekcyjny",
+      "Strażnik",
+      "Duch",
+      "Boss",
+      "Automaton",
+      "Kolekcjoner",
+      "Czempion",
+      "Kruk",
+      "Kształtny",
+      "Zjadacz Czasu",
+      "Rubin",
+      "Szmaragd",
+      "Ukryte"
+    ],
+    "TEXT": [
+      "Wygraj walkę posiadając 1 PŻ.",
+      "Posiadaj mniej niż 3 karty w obu taliach razem wziętych.",
+      "Wygraj walkę bez zagrywania kart ataku.",
+      "Wyczerp 20 kart podczas jednej walki.",
+      "Posiadaj 9 energii podczas jednej tury w walce.",
+      "Miej nałożone na sobie 10 lub więcej wzmocnień podczas walki.",
+      "Posiadaj 50 lub więcej siły podczas walki",
+      "Posiadaj 99 lub więcej bloku podczas walki.",
+      "Posiadaj 999 bloku podczas walki",
+      "Nałóż 99 trucizny na jednego przeciwnika.",
+      "Pokonaj 3 przeciwników trucizną podczas jednej walki.",
+      "Zagraj 10 kart noży w jednej turze.",
+      "Zagraj 25 kart podczas jednej tury.",
+      "Pokonaj bossa w pierwszej turze.",
+      "Pokonaj bossa bez otrzymania żadnych obrażeń.",
+      "Pokonaj Strażnika.",
+      "Pokonaj Szcześciodusznego.",
+      "Pokonaj bossa Szlamu.",
+      "Pokonaj Automatona z brązu.",
+      "Pokonaj Kolekcjonera.",
+      "Pokonaj Czempiona.",
+      "Pokonaj Przebudzonego.",
+      "Pokonaj Donu i Deca.",
+      "Pokonaj Zjadacza Czasu.",
+      "Przejdź grę jako Ironclad.",
+      "Przejdź grę jako Silent.",
+      "Sczegóły tego osiągnięcia zostaną ujawnione gdy go odblokujesz."
+    ]
+  },
+  "CharStat": {
+    "NAMES": [],
+    "TEXT": [
+      "Całkowity czas gry: ",
+      "Wszystkich zwycięstw: #y",
+      "Wszystkich śmierci: #y",
+      "Ilość zdobytych pięter: #y",
+      "Razem zabitych bossów: #y",
+      "Razem zabitych przeciwników: #y",
+      "Ilość nakarmionych kryształów: #y",
+      "Kart odkrytych: #y",
+      "Kart odblokowanych: #y",
+      "Artefaktów odkrytych: #y",
+      "Artefaktów odblokowanych: #y",
+      "Najwyższe zdobyte piętro: #y",
+      "Najwyższy poziom w dziennym wyzwaniu: #y",
+      "Najszybsze zwyciestwo: ",
+      "Pokonano ",
+      ": #gTak NL ",
+      ": #rNie NL ",
+      "Zwycięstw: #y",
+      "Śmierci: #y",
+      "Pięter zdobytych: #y",
+      "Bossów zabitych: #y",
+      "Przeciwników zabitych: #y",
+      "Najdłuższa seria zwycięstw: #y",
+      "Najwyższy wynik: #y"
+    ]
+  },
+  "StatsScreen": {
+    "NAMES": [
+      "#yOgólne #yStatystyki",
+      "#yOsiągnięcia",
+      "#rIronclad",
+      "#gSilent",
+      "#bCrowbot"
+    ],
+    "TEXT": [
+      "Wróć"
+    ]
+  }
+}
