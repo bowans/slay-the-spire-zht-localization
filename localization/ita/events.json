@@ -267,7 +267,7 @@
   "Big Fish": {
     "NAME": "L'Esca",
     "DESCRIPTIONS": [
-      "Percorrendo un lungo corridoio noti una #ybanana, una #yciambella, ed una #yscatola che ~galleggiano~ a mezz'aria. No... Osservando meglio capisci che sono appesi al soffitto con dei fili. Avvicinandoit, ti sembra di sentire una @risatina@ sommessa provenire dall'alto. NL Cosa vuoi fare?",
+      "Percorrendo un lungo corridoio noti una #ybanana, una #yciambella, ed una #yscatola che ~galleggiano~ a mezz'aria. No... Osservando meglio capisci che sono appesi al soffitto con dei fili. Avvicinandoti, ti sembra di sentire una @risatina@ sommessa provenire dall'alto. NL Cosa vuoi fare?",
       "Mangi la #ybanana. Sembra sia #bmagica oltre che nutriente, visto che ti cura.",
       "Mangi la #yciambella. È ottima! I tuoi PV massimi aumentano.",
       "",
@@ -379,7 +379,7 @@
       " #gOro. #rPerdi #r",
       " #rPV.",
       "[Ignoralo] #rPerdi #r",
-      " #rPV.",
+      " #rOro.",
       "[Esci]"
     ]
   },
@@ -694,7 +694,7 @@
     "OPTIONS": [
       "[Scoperchia] #gOttieni #guna #gReliquia. #r",
       "%: #rVieni #rMaledetto #r- #rConvulsioni.",
-      "[Leave]"
+      "[Prosegui]"
     ]
   },
   "Vampires": {
@@ -708,11 +708,11 @@
     ],
     "OPTIONS": [
       "[Accetta] #gRimuovi #gi #gColpi ed #gOttieni #g5 #gMorsi. #rPerdi #ril #r",
-      "%  #rdei #rPV #rMassimi.",
+      "% #rdei #rPV #rMassimi.",
       "[Rifiuta]",
       "[Perdi ",
       "] #gRimuovi #gi #gColpi ed #gOttieni #g5 #gMorsi.",
-      "[Ignora]"
+      "[Prosegui]"
     ]
   },
   "The Woman in Blue": {
@@ -727,7 +727,7 @@
       "[Compra 2 Pozioni] #y",
       "[Compra 3 Pozioni] #y",
       " #yOro.",
-      "[Ignora]"
+      "[Prosegui]"
     ]
   }
 }

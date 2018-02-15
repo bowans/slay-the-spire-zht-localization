@@ -370,9 +370,7 @@
   "Intangible": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
-	"Reduce ALL damage taken and HP loss to #b1 for the next #b",
-	" turns.",
-	"Reduce ALL damage taken and HP loss to #b1 next turn."
+   "Reduce ALL damage taken and HP loss to #b1 this turn. Intangible is reapplied every other turn."
     ]
   },
   "Inverted": {

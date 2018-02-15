@@ -50,9 +50,9 @@
       "%1$s (%2$d):",
       "Skor: %d",
       "Tüm Karakterler",
-      "Galibiyet ve Mağlubiyetler",
-      "Galibiyetler",
-      "Mağlubiyetler"
+      "Kazanma ve Kayıplar",
+      "Kazanmalar",
+      "Kayıplar"
     ]
   },
   "LeaderboardsScreen": {
@@ -435,23 +435,23 @@
       "Ölüm...",
       "Kayıp",
       "Kaybettin!",
-      "Kutsallığı Bozuldu",
+      "Kutsallık Bozuldu",
       "Tahribat",
       "Mağlubiyet",
       "Öldün!",
-      "Tanıdık his.",
-      "Bir uyku kulağa hoş geliyor.",
+      "Tanıdık bir his.",
+      "Uyku kulağa hoş geliyor.",
       "Ne ekersen onu biçersin.",
-      "Yanlış yola gitti.",
+      "Bir şeyler yanlış gitti.",
       "Buna hazır değildim.",
       "Yarın tekrar deneyeceğim.",
       "Yeni bir haritaya ihtiyacım var.",
-      "Yetersiz hazırlandı.",
+      "Yetersiz hazırlandım.",
       "Akıl almaz!",
       "Benim gerçek potansiyelim bu mu?",
       "Sadece şanstı...",
       "Böyle olmamalı...",
-      "Tam olarak zirve değil.",
+      "Tam olarak zirve sayılmaz.",
       "Spiral bir başkasını daha yutar...",
       "Bilincin soluklaşıyor...",
       "Yenilgi",
@@ -522,9 +522,9 @@
     "TEXT": [
       "Geç",
       "Bir Kart Seç",
-      "+2 Maksimum HP",
-      "VOTE NOW: ",
-      "s left."
+      "+2 Maks HP",
+      "ŞİMDİ OYLA: ",
+      "s kaldı."
     ]
   },
   "BossRelicSelectScreen": {
@@ -533,8 +533,8 @@
       "Seçimini Onayla",
       "Kalıntı Seç",
       "Geç",
-      "VOTE NOW: ",
-      "s left."
+      "ŞİMDİ OYLA: ",
+      "s kaldı."
     ]
   },
   "GridCardSelectScreen": {

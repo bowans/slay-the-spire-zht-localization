@@ -518,13 +518,18 @@
       "Scegli Uno"
     ]
   },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTA ORA: "
+    ]
+  },
   "CardRewardScreen": {
     "TEXT": [
       "Salta",
       "Scegli una Carta",
       "+2 PV Massimi",
-      "VOTE NOW: ",
-      "s left."
+      "VOTA ORA: ",
+      "s rimanenti."
     ]
   },
   "BossRelicSelectScreen": {
@@ -533,8 +538,8 @@
       "Conferma la Tua Scelta",
       "Scegli una Reliquia",
       "Salta",
-      "VOTE NOW: ",
-      "s left."
+      "VOTA ORA: ",
+      "secondi rimanenti."
     ]
   },
   "GridCardSelectScreen": {
@@ -586,14 +591,14 @@
       "Preferenze",
       "Mostra la somma dei danni in oro NL Mostra i danni bloccati in blu NL Non chiedere conferma quando scegli 1 carta",
       "Modalità Rapida",
+      "",
       "Misc.",
       "Lingua:",
       "Invia informazioni di gioco #b(?)",
       "Esci dal Gioco",
       "Salva & Esci",
       "NL NL VSync",
-      "Arte del Playtest",
-      "Playtester Art Mode"
+      "Arte del Playtest"
     ]
   },
   "SettingsScreen": {
@@ -636,7 +641,7 @@
   },
   "MainMenuScreen": {
     "TEXT": [
-      "#yBuild: ",
+      "#yVersione: ",
       "Incamminati",
       "Indietro",
       "clicca per modificare"
@@ -903,11 +908,6 @@
   "TheBeyond": {
     "TEXT": [
       "L'Aldilà"
-    ]
-  },
-  "TwitchVoter": {
-    "TEXT": [
-      "VOTE NOW: "
     ]
   }
 }

@@ -260,7 +260,7 @@
     "NAME": "Conflitto",
     "DESCRIPTION": "Può essere giocata solo se ogni carta nella tua mano è un Attacco. NL Infliggi !D! danni.",
     "EXTENDED_DESCRIPTION": [
-      "Ho carte non attacco nella mia mano."
+      "Ho in mano carte che non sono attacchi."
     ]
   },
   "Thunderclap": {
@@ -718,7 +718,7 @@
   },
   "Perfected Strike": {
     "NAME": "Colpo Perfetto",
-    "DESCRIPTION": "Infliggi !D! danni. NL Infligge +2 danni per OGNI carta contenente \"Colpo\".",
+    "DESCRIPTION": "Infliggi !D! danni. NL Infligge +2 danni per OGNI carta il cui nome contiene \"Colpo\".",
     "UPGRADE_DESCRIPTION": "Infliggi !D! danni. NL Infligge +3 danni per OGNI carta il cui nome contiene \"Colpo\"."
   },
   "Carnage": {
