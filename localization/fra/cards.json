@@ -219,7 +219,7 @@
     "DESCRIPTION": "Quand vous gagnez de l'Armure, infligez !M! dégâts à un ennemi aléatoire."
   },
   "Caltrops": {
-    "NAME": "Pièges",
+    "NAME": "Chausse-trapes",
     "DESCRIPTION": "À chaque attaque ennemie, l'ennemi reçoit !M! dégâts."
   },
   "Poisoned Stab": {
@@ -487,8 +487,8 @@
   },
   "Armaments": {
     "NAME": "Protections",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Améliore une carte de votre main pour le reste du combat.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Améliore TOUTES les cartes de votre main pour le reste du combat."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Améliorez une carte de votre main pour le reste du combat.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Améliorez TOUTES les cartes de votre main pour le reste du combat."
   },
   "Havoc": {
     "NAME": "Ravages",
@@ -516,7 +516,7 @@
   },
   "Corruption": {
     "NAME": "Corruption",
-    "DESCRIPTION": "Les cartes Compétence coûtent 0. NL Quand vous en jouez une, elle s'Épuise."
+    "DESCRIPTION": "Les cartes Compétence coûtent 0. Quand vous en jouez une, elle s'Épuise."
   },
   "Heel Hook": {
     "NAME": "Croc-en-jambe",
@@ -752,10 +752,10 @@
     "DESCRIPTION": "Injouable. NL Impossible de jouer plus de 3 cartes par tour.",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux jouer que jusqu'à NL #r3 cartes par tour.",
-      "Injouable. NL Vous ne pouvez pas jouer plus de ",
+      "Injouable. NL Vous ne pouvez jouer que ",
       " cartes par tour.",
       " cartes par tour. NL Vous avez joué ",
-      " carte ce tour."
+      " carte(s)."
     ]
   },
   "Accuracy": {

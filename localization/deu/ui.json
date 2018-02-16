@@ -446,7 +446,7 @@
       "Vollbild NL Vollbild-Fenster (empfohlen) NL Screenshake",
       "Ton",
       "Gesamtlautstärke NL Musiklautstärke NL Effektlautstärke",
-      "Hintergrundgeräusche",
+      "Hintergrundgeräusche NL Stummschalten, falls im Hintergrund",
       "Präferenzen",
       "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Bestätigung beim Wählen 1 Karte deaktivieren",
       "Schnellmodus",
@@ -575,7 +575,7 @@
       "Aufstiegsmodus (Level ",
       ")",
       "Aufstiegsmodus",
-      "EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
+      "EXPERIMENTAL: Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)"
     ]
   },
   "AbstractMonster": {
@@ -843,7 +843,7 @@
       "10. Parasit!",
       "11. Tränke sind schwächer.",
       "12. Verbesserte Karten erscheinen seltener.",
-      "13. Schlechte Bosse.",
+      "13. Arme Bosse.",
       "14. Niedrigere max TP.",
       "15. Ungünstige Events."
     ]

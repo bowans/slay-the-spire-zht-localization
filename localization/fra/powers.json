@@ -10,7 +10,7 @@
     "NAME": "Précision",
     "DESCRIPTIONS": [
       "Les #ySurins infligent #b",
-      " point(s) de dégâts supplémentaires."
+      " dégâts supplémentaires."
     ]
   },
   "After Image": {
@@ -98,7 +98,7 @@
     "DESCRIPTIONS": [
       "À la fin de votre tour, vous perdez #b",
       " PV et infligez #b",
-      " point(s) de dégâts à TOUS les ennemis."
+      " dégâts à TOUS les ennemis."
     ]
   },
   "Confusion": {
@@ -111,7 +111,7 @@
     "NAME": "Restreinte",
     "DESCRIPTIONS": [
       "À la fin de votre tour, vous subissez #b",
-      " point(s) de dégâts."
+      " dégâts."
     ]
   },
   "Corruption": {
@@ -139,7 +139,7 @@
     "NAME": "Marionnette dansante",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une carte autre que Compétence, vous subissez #b",
-      " point(s) de dégâts. (Le type de carte change à chaque tour).",
+      " dégâts. (Le type de carte change à chaque tour).",
       "Lorsque vous jouez une carte autre qu'Attaque, obtenez #b",
       "Marionnette dansante +1"
     ]
@@ -155,7 +155,7 @@
   "Darkness": {
     "NAME": "Obscurité",
     "DESCRIPTIONS": [
-      "Gagnez #b1 point d'Énergie en moins au début de votre tour."
+      "Gagnez #b1 d'Énergie en moins au début de votre tour."
     ]
   },
   "Demon Form": {
@@ -225,9 +225,9 @@
   "Electric Field": {
     "NAME": "Champ électrique",
     "DESCRIPTIONS": [
-      "À chaque attaque, infligez #b1 point de dégâts pour chaque #b",
+      "À chaque attaque, infligez #b1 dégâts pour chaque #b",
       " Charge.",
-      "À chaque attaque, infligez #b1 point de dégâts pour chaque Charge."
+      "À chaque attaque, infligez #b1 dégâts pour chaque Charge."
     ]
   },
   "Energized": {
@@ -264,7 +264,7 @@
     "NAME": "Kamikaze",
     "DESCRIPTIONS": [
       "Inflige #b",
-      " point(s) de dégâts en mourant."
+      " dégâts en mourant."
     ]
   },
   "Feel No Pain": {
@@ -278,14 +278,14 @@
     "NAME": "Souffle de feu",
     "DESCRIPTIONS": [
       "À la fin de votre tour, pour chaque #yAttaque jouée, inflige #b",
-      " point(s) de dégâts à TOUS les ennemis."
+      " dégâts à TOUS les ennemis."
     ]
   },
   "Flame Barrier": {
     "NAME": "Barrière enflammée",
     "DESCRIPTIONS": [
       "Lorsque vous subissez des dégâts d'#yAttaque, inflige #b",
-      " point(s) de dégâts en retour."
+      " dégâts en retour."
     ]
   },
   "Flight": {
@@ -385,7 +385,7 @@
     "NAME": "Mastodonte",
     "DESCRIPTIONS": [
       "Lorsque vous gagnez de #yl'Armure, infligez #b",
-      " point(s) de dégâts à un ennemi aléatoire."
+      " dégâts à un ennemi aléatoire."
     ]
   },
   "Knowledge": {
@@ -424,7 +424,7 @@
     "NAME": "Changement de mode",
     "DESCRIPTIONS": [
       "Après avoir encaissé #b",
-      " point(s) de dégâts, passe en mode défensif."
+      " dégâts, passe en mode défensif."
     ]
   },
   "Next Turn Block": {
@@ -452,7 +452,7 @@
     "DESCRIPTIONS": [
       "Si vous jouez #b",
       " carte de plus pendant ce tour, inflige #b",
-      " point(s) de dégâts à TOUS les ennemis.",
+      " dégâts à TOUS les ennemis.",
       " cartes de plus pendant ce tour, inflige #b"
     ]
   },
@@ -554,7 +554,7 @@
     "NAME": "Riposte",
     "DESCRIPTIONS": [
       "Une fois par tour, inflige #b",
-      " point(s) de dégâts en retour lorsque vous jouez une carte #yAttaque."
+      " dégâts en retour lorsque vous jouez une carte #yAttaque."
     ]
   },
   "Ritual": {
@@ -582,7 +582,7 @@
     "NAME": "Sadique",
     "DESCRIPTIONS": [
       "Lorsque vous appliquez un débuff à un ennemi, infligez #b",
-      " point(s) de dégâts."
+      " dégâts."
     ]
   },
   "Serpentine": {
@@ -595,7 +595,7 @@
     "NAME": "Peau dure",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une carte #yAttaque, vous subissez #b",
-      " point(s) de dégâts."
+      " dégâts."
     ]
   },
   "Shriek From Beyond": {
@@ -675,14 +675,14 @@
     "NAME": "Épines",
     "DESCRIPTIONS": [
       "Quand vous subissez des dégâts #yd'Attaque, inflige #b",
-      " point(s) de dégâts en retour."
+      " dégâts en retour."
     ]
   },
   "Thousand Cuts": {
     "NAME": "Mille coupures",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une carte, infligez #b",
-      " point(s) de dégâts à TOUS les ennemis."
+      " dégâts à TOUS les ennemis."
     ]
   },
   "Berserk": {
@@ -751,7 +751,7 @@
     "NAME": "Forme spectrale",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une carte Compétence, infligez ",
-      " point(s) de dégâts à un ennemi aléatoire."
+      " dégâts à un ennemi aléatoire."
     ]
   },
   "Night Terror": {

@@ -693,9 +693,9 @@
     "NAME": "Runischer Würfel",
     "FLAVOR": "Die Runen sind nicht entzifferbar.",
     "DESCRIPTIONS": [
-      "Max. TP verringern sich um #b",
-      "%. Immer wenn du TP verlierst, ziehst du #b",
-      " Karte."
+      "Immer wenn du TP verlierst, ziehst du #b",
+      " Karte.",
+      ""
     ]
   },
   "Runic Dome": {
@@ -928,7 +928,7 @@
     "DESCRIPTIONS": [
       "Du erhältst #b1 Trank. NL Du erhältst #b",
       " #yGold. NL Deine max. TP erhöhen sich um #b",
-      ". NL Du erhältst #b1 Karte.",
+      ". NL Du erhältst #b1 Karte. NL Du verbesserst #b1 zufällige Karte.",
       "Winziges Haus!"
     ]
   },
