@@ -368,6 +368,10 @@
     "NAME": "包帯",
     "DESCRIPTION": "HPを !M! 回復する。 NL 廃棄 。"
   },
+  "The Bomb": {
+    "NAME": "爆弾",
+    "DESCRIPTION": "全ての敵とあなたに!D! のダメージを与える。 NL 廃棄 。"
+  },
   "Sever Soul": {
     "NAME": "霊魂切断",
     "DESCRIPTION": "「アタック」以外の手札を 廃棄 する。 NL !D! のダメージを与える。"
@@ -384,6 +388,10 @@
   "PiercingWail": {
     "NAME": "金切り声",
     "DESCRIPTION": "ターン終了時まで、敵全体が　筋力 !M! を失う。 NL 廃棄 。"
+  },
+  "Bite": {
+    "NAME": "噛みつき",
+    "DESCRIPTION": "!D! のダメージを与える。 NL HPを !M! 回復する。"
   },
   "Secret Technique": {
     "NAME": "シークレットテクニック",
@@ -649,6 +657,10 @@
     "NAME": "狂喜",
     "DESCRIPTION": "カードの使用によってHPが失われるたび、 NL 筋力 1 を得る。"
   },
+  "Venomology": {
+    "NAME": "錬金術",
+    "DESCRIPTION": "ランダムなポーションを1つ入手する。 NL 廃棄 。"
+  },
   "Bouncing Flask": {
     "NAME": "バウンドフラスコ",
     "DESCRIPTION": "ランダムな敵に 毒 3 を !M! 回与える。"
@@ -673,6 +685,14 @@
     "NAME": "先読み",
     "DESCRIPTION": "次のターン、 NL [G] [G] を得る。",
     "UPGRADE_DESCRIPTION": "次のターン、 NL [G] [G] [G] を得る。"
+  },
+  "Night Terror": {
+    "NAME": "悪夢",
+    "DESCRIPTION": "手札のカード1枚を選ぶ。 NL 次のターン、そのカードの複製を !M! 枚手札に加える。 廃棄 。",
+    "EXTENDED_DESCRIPTION": [
+      "I can only use NL ",
+      " NL once per turn."
+    ]
   },
   "Bloodletting": {
     "NAME": "瀉血",
@@ -744,7 +764,7 @@
   },
   "Sword Boomerang": {
     "NAME": "ソードブーメラン",
-    "DESCRIPTION": "!D! のダメージを !M! 回与える。"
+    "DESCRIPTION": "ランダムな敵に !D! のダメージを !M! 回与える。"
   },
   "Jack Of All Trades": {
     "NAME": "よろず屋",
@@ -845,25 +865,5 @@
   "Expertise": {
     "NAME": "職人技",
     "DESCRIPTION": "手札が !M! 枚になるまでカードを引く。"
-  },
-  "The Bomb": {
-    "NAME": "爆弾",
-    "DESCRIPTION": "全ての敵とあなたに!D! のダメージを与える。 NL 廃棄 。"
-  },
-  "Night Terror": {
-    "NAME": "悪夢",
-    "DESCRIPTION": "手札のカード1枚を選ぶ。 NL 次のターン、そのカードの複製を !M! 枚手札に加える。 廃棄 。",
-    "EXTENDED_DESCRIPTION": [
-      "I can only use NL ",
-      " NL once per turn."
-    ]
-  },
-  "Venomology": {
-    "NAME": "錬金術",
-    "DESCRIPTION": "ランダムなポーションを入手する。 NL 廃棄 。"
-  },
-  "Bite": {
-    "NAME": "噛みつき",
-    "DESCRIPTION": "!D! のダメージを与える。 NL HPを !M! 回復する。"
   }
 }

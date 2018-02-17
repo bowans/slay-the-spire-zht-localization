@@ -311,24 +311,24 @@
   "Shackled": {
     "NAME": "足枷",
     "DESCRIPTIONS": [
-      "#y筋力 #b",
-      " が回復 （ターン終了時）"
+      "ターン終了時、#y筋力 #b",
+      " を回復"
     ]
   },
   "Gambit": {
-    "NAME": "ギャンビット",
+    "NAME": "Gambit",
     "DESCRIPTIONS": [
-      "#b",
-      " ターン後に次を取得 ",
-      " ターン後に次を取得 ",
-      " [B]。"
+      "After #b",
+      " turn, gain ",
+      " turns, gain ",
+      " [B] ."
     ]
   },
   "Generator": {
-    "NAME": "発生",
+    "NAME": "Generator",
     "DESCRIPTIONS": [
-      "ターン開始時、 #yチャージ #b",
-      " を得る。。"
+      "At the start of each turn, gain #b",
+      " #yCharge."
     ]
   },
   "Hex": {
@@ -370,15 +370,13 @@
   "Intangible": {
     "NAME": "無形",
     "DESCRIPTIONS": [
-      "全てのダメージを #b1 にする。 #b",
-      " ターン有効。",
-      "次のターンまで、全てのダメージを #b1 にする。"
+      "全てのダメージとHPを失う効果を #b1 に軽減する。無形は毎ターン有効。"
     ]
   },
   "Inverted": {
     "NAME": "逆転",
     "DESCRIPTIONS": [
-      ""
+      "ダメージを無効化。ブロックを得るたびに、その値に等しいHPを失う。"
     ]
   },
   "Juggernaut": {
@@ -406,7 +404,7 @@
     "NAME": "鍛錬",
     "DESCRIPTIONS": [
       "#y「アタック」 でダメージを受けるたびに、 #b",
-      " の#yブロック を得る。 #yブロック 値は",
+      " の #yブロック を得る。 #yブロック 値は",
       " が発動するたびに増加する。ターン開始時、鍛錬の数値は #b",
       " にもどる"
     ]
