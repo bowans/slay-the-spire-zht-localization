@@ -57,7 +57,7 @@
   "GremlinWizard": {
     "MOVES": [
       "Caricamento",
-      "Scoppio Definitivo"
+      "Esplosione Finale"
     ],
     "NAME": "Gremlin Mago",
     "DIALOG": [
@@ -79,11 +79,11 @@
   },
   "Orb Walker": {
     "MOVES": [
-      "Forza in Aumento"
+      "Forza in Crescita"
     ],
     "NAME": "Sfera Ambulante",
     "DIALOG": [
-      "Inizializzazione NL degli scudi."
+      "Inizializzazione NL scudi."
     ]
   },
   "TheGuardian": {
@@ -91,10 +91,10 @@
       "Modalità Difensiva",
       "Botta Violenta",
       "Rotolata",
-      "Urto Gemello",
+      "Colpo Gemello",
       "Turbine",
       "Sovraccarico",
-      "Sfogo di Vapore"
+      "Getto di Vapore"
     ],
     "NAME": "Il Guardiano",
     "DIALOG": [
@@ -230,7 +230,7 @@
     ],
     "NAME": "Rapinatore",
     "DIALOG": [
-      "Dai qua!",
+      "Dà qua!",
       "Io me la svigno!"
     ]
   },
@@ -241,7 +241,7 @@
     "NAME": "Mangiatempo",
     "DIALOG": [
       "~Ah...~ NL ~..compagnia...~",
-      "~Sciocco..~ NL @SEI@ @UNO@ @SCIOCCO!@"
+      "~Sciocco...~ NL @SEI@ @UNO@ @SCIOCCO!@"
     ]
   },
   "TheCollector": {
@@ -283,7 +283,7 @@
     "MOVES": [
       "Spore Debilitanti"
     ],
-    "NAME": "Pianta Serpente",
+    "NAME": "PiantaSerpe",
     "DIALOG": [
       ""
     ]
@@ -310,7 +310,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Detonante",
+    "NAME": "Esplosivo",
     "DIALOG": [
       ""
     ]
@@ -420,7 +420,7 @@
   },
   "Hexaghost": {
     "MOVES": [
-      "Infiammare",
+      "Animo Ardente",
       "Scottatura",
       "Inferno"
     ],
@@ -440,7 +440,7 @@
   "SlaverRed": {
     "MOVES": [
       "Graffio",
-      "Intrappolare"
+      "Trappola"
     ],
     "NAME": "Schiavista",
     "DIALOG": [
@@ -459,7 +459,7 @@
   "SlimeBoss": {
     "MOVES": [
       "Urto",
-      "Preparare",
+      "Prepazione",
       "Scissione",
       "Spruzzo Viscoso"
     ],

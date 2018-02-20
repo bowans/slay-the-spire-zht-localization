@@ -434,8 +434,8 @@
       "跳过",
       "选一张牌",
       "+2 最大生命",
-      "VOTE NOW: ",
-      "s left."
+      "现在投票： ",
+      "秒后结束。"
     ]
   },
   "BossRelicSelectScreen": {
@@ -444,8 +444,8 @@
       "确认你的选择",
       "选择一样遗物",
       "跳过",
-      "VOTE NOW: ",
-      "s left."
+      "现在投票： ",
+      "秒后结束。"
     ]
   },
   "GridCardSelectScreen": {
@@ -907,7 +907,24 @@
   },
   "TwitchVoter": {
     "TEXT": [
-      "VOTE NOW: "
+      "现在投票： "
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Daily Challenge",
+      "Connecting to Time Server...",
+      "You have done today's challenge",
+      "Return",
+      "Embark",
+      "Today's character: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Time Left: ",
+      "#yFloor #yReached: NL  ",
+      " NL NL  #yDeck: NL ",
+      " NL NL  #yRelics: NL  ",
+      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
+      " NL TAB #yMods: "
     ]
   }
 }

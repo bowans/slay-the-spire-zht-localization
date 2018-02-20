@@ -113,7 +113,7 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Rimpiazza (Gettone da Gioco)"
+      "Rimpiazzare (Gettone da Gioco)"
     ]
   },
   "RetainCardsAction": {
@@ -587,7 +587,7 @@
       "Schermo Intero NL Schermo Intero Senza Bordi (raccomandato) NL Screenshake",
       "Souni",
       "Volume Principale NL Volume Musica NL Volume Effetti",
-      "Suoni di Sottofondo",
+      "Rumore ambientale NL Silenzia il gioco se in secondo piano",
       "Preferenze",
       "Mostra la somma dei danni in oro NL Mostra i danni bloccati in blu NL Non chiedere conferma quando scegli 1 carta",
       "Modalità Rapida",
@@ -634,8 +634,8 @@
     "TEXT": [
       "Cos'è l'Early Access?",
       "Cos'è una Open Beta?",
-      "Slay the Spire è ancora in fase di sviluppo! NL Molte funzionalità, carte, e nemici sono ancora in fase di cambiamento. NL NL Se noti dei problemi o hai qualsiasi commento, faccelo sapere nella nostra pagina di #bDiscussione di #bSteam. NL NL Ora basta leggere: hai una guglia da scalare!",
-      "Slay the Spire è ancora in fase di sviluppo! NL Oltre a questo, stai giocando alla versione Beta del gioco. NL NL Per favore facci sapere i problemi che noti mentre giochi, ma non sorprenderti dall'arte temporanea per i contenuti in arrivo. NL NL Ora basta leggere: hai una guglia da scalare!",
+      "Slay the Spire è ancora in fase di sviluppo! NL Molte funzionalità, carte, e nemici sono ancora in fase di cambiamento. NL NL Se noti dei problemi o hai qualsiasi commento, faccelo sapere nella nostra pagina di #bDiscussione su #bSteam. NL NL Ora basta leggere: hai una Guglia da scalare!",
+      "Slay the Spire è ancora in fase di sviluppo! NL Oltre a questo, stai giocando alla versione Beta del gioco. NL NL Per favore facci sapere i problemi che noti mentre giochi, ma non sorprenderti troppo delle illustrazioni provvisorie per i contenuti in arrivo. NL NL Ora basta leggere: hai una Guglia da scalare!",
       "Fai Click per iniziare!"
     ]
   },
@@ -713,7 +713,7 @@
   "CharacterSelectScreen": {
     "TEXT": [
       "Seleziona il Tuo Personaggio",
-      "Incomincia",
+      "Inizia",
       "L'Ironclad",
       "La Silent",
       "Crowbot",
@@ -908,6 +908,23 @@
   "TheBeyond": {
     "TEXT": [
       "L'Aldilà"
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Daily Challenge",
+      "Connecting to Time Server...",
+      "You have done today's challenge",
+      "Return",
+      "Embark",
+      "Today's character: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Time Left: ",
+      "#yFloor #yReached: NL  ",
+      " NL NL  #yDeck: NL ",
+      " NL NL  #yRelics: NL  ",
+      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
+      " NL TAB #yMods: "
     ]
   }
 }

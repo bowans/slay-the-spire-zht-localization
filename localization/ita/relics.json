@@ -27,7 +27,7 @@
   },
   "Bag of Marbles": {
     "NAME": "Sacchetto di Biglie",
-    "FLAVOR": "Un gioco molto popolare nella Città tempo fa. Utile per far scivolare i nemici.",
+    "FLAVOR": "Un gioco molto popolare nella Città dell'antichità. Utile per far scivolare i nemici.",
     "DESCRIPTIONS": [
       "All'inizio di ogni combattimento, applica #b",
       " #yVulnerabile a TUTTI i nemici."
@@ -43,7 +43,7 @@
   },
   "Bird Faced Urn": {
     "NAME": "Urna del Dio-Corvo",
-    "FLAVOR": "Quest'urna rappresenta il dio-corvo Mazaleth che appare malizioso.",
+    "FLAVOR": "Quest'urna rappresenta il dio-corvo Mazaleth in atteggiamento malizioso.",
     "DESCRIPTIONS": [
       "Quando giochi un #yPotere, cura #b",
       " PV."
@@ -283,14 +283,14 @@
   },
   "Molten Egg 2": {
     "NAME": "Uovo di Magma",
-    "FLAVOR": "È l'uovo di una Fenice. La lava bollente brilla di un rosso acceso.",
+    "FLAVOR": "È l'uovo di una Fenice. La sua superficie di lava bollente brilla di un rosso acceso.",
     "DESCRIPTIONS": [
       "Tutte le carte #yAttacco che ricevi vengono subito #yPotenziate."
     ]
   },
   "Toxic Egg 2": {
     "NAME": "Uovo Tossico",
-    "FLAVOR": "\"Che meravigliosa scoperta! Sembra essere l'uovo infertile di qualche creatura magica. Mi domando chi possa averlo deposto...\" - Ranwid",
+    "FLAVOR": "\"Che meravigliosa scoperta! Sembra essere l'uovo infertile di qualche creatura magica. Mi domando cosa possa averlo deposto...\" - Ranwid",
     "DESCRIPTIONS": [
       "Tutte le carte #yAbilità che ricevi vengono subito #yPotenziate."
     ]
@@ -304,7 +304,7 @@
   },
   "Eternal Feather": {
     "NAME": "Piuma Eterna",
-    "FLAVOR": "Questa piuma sembra essere completamente indistruttibile. Che genere di uccello potrebbe averla persa? ",
+    "FLAVOR": "Questa piuma sembra essere completamente indistruttibile. Che genere di uccello potrebbe averla persa?",
     "DESCRIPTIONS": [
       "Per ogni #b",
       " carte nel tuo mazzo, cura #b",
@@ -321,34 +321,34 @@
   },
   "Gambling Chip": {
     "NAME": "Gettone da Gioco",
-    "FLAVOR": "Riesci a vedere una piccola iscrizione su un lato. C'è scritto: \"Gettone fortunato di Bear!\"",
+    "FLAVOR": "Riesci a leggere una piccola iscrizione su un lato. Recita: \"Gettone fortunato di Bear!\"",
     "DESCRIPTIONS": [
       "All'inizio di ogni combattimento scarta un qualsiasi numero di carte e ne peschi altrettante."
     ]
   },
   "Ginger": {
     "NAME": "Zenzero",
-    "FLAVOR": "Un ingrediente potente per molti tonici.",
+    "FLAVOR": "Un potente ingrediente in svariati tonici.",
     "DESCRIPTIONS": [
-      "Non puoi più diventare #yDebole."
+      "Non puoi più essere reso #yDebole."
     ]
   },
   "Girya": {
     "NAME": "Ghiria",
-    "FLAVOR": "Questa Ghiria è pesante in una maniera irrealistica. Potresti usarla per allenarti e diventare molto più forte.",
+    "FLAVOR": "Questa ghiria ha una massa fuori dall'ordinario. Pare che tu possa usarla per allenarti, diventando molto più forte.",
     "DESCRIPTIONS": [
-      "Ora puoi ottenere #yForza al falò. (3 volte massimo)"
+      "Puoi ottenere #yForza permanente al falò. (3 volte massimo)"
     ]
   },
   "Golden Idol": {
     "NAME": "Idolo D'Oro",
     "FLAVOR": "È fatto di puro oro. Mentre lo tieni in mano ti senti già più ricco.",
     "DESCRIPTIONS": [
-      "Ottieni il #b25% di #yOro in più sconfiggendo i Nemici."
+      "Ottieni il #b25% #yd'Oro in più sconfiggendo i Nemici."
     ]
   },
   "Gremlin Horn": {
-    "NAME": "Corno del Gremlin",
+    "NAME": "Corno di Gremlin",
     "FLAVOR": "\"Le Corna di un Gremlin continuano a crescere fino alla morte della creatura. Notevole.\" - Ranwid",
     "DESCRIPTIONS": [
       "Ogni volta che un nemico muore, ottieni ",
@@ -403,9 +403,9 @@
   },
   "Letter Opener": {
     "NAME": "Tagliacarta",
-    "FLAVOR": "Affilato oltre natura.",
+    "FLAVOR": "Il filo di questa lama è straordinariamente affilato",
     "DESCRIPTIONS": [
-      "Ogni volta che giochi #b3 Abilità in un singolo turno, infliggi #b",
+      "Ogni volta che giochi #b3 #yAbilità in un singolo turno, infliggi #b",
       " danno a TUTTI i nemici."
     ]
   },
@@ -418,21 +418,21 @@
   },
   "Lizard Tail": {
     "NAME": "Coda di Lucertola",
-    "FLAVOR": "Una finta coda con cui ingannare i nemici in combattimento.",
+    "FLAVOR": "Una coda finta, con cui ingannare i nemici in combattimento.",
     "DESCRIPTIONS": [
-      "Quando moriresti, ti curi invece del #b50% dei tuoi massimi PV (funziona solo una volta)."
+      "Quando moriresti, ti curi invece del #b50% dei PV massimi (funziona solo una volta)."
     ]
   },
   "Magic Flower": {
     "NAME": "Fiore Magico",
-    "FLAVOR": "Si pensava questo fiore fosse estinto da tempo, in qualche modo è ancora in perfette condizioni.",
+    "FLAVOR": "Si pensava che questo fiore fosse estinto da tempo, ma in qualche modo questo esemplare è ancora in perfette condizioni.",
     "DESCRIPTIONS": [
       "Le cure in combattimento sono più efficaci del #b50%."
     ]
   },
   "Mango": {
     "NAME": "Mango",
-    "FLAVOR": "Il frutto perduto più desiderato. Conservato impeccabilmente senza alcun segno di Spireblight.",
+    "FLAVOR": "Il frutto perduto più desiderato. Conservato impeccabilmente senza alcun segno di Spireblight, la corruzione della Guglia.",
     "DESCRIPTIONS": [
       "Aumenta i tuoi PV di #b"
     ]
@@ -450,7 +450,7 @@
     "DESCRIPTIONS": [
       "I prossimi #b2 scrigni che apri contengono #b2 #yReliquie. (Scrigni dei boss esclusi)",
       "Il prossimo scrigno che apri contiene #b2 #yReliquie. (Scrigni dei boss esclusi)",
-      "Questa reliquia è stata esaurita."
+      "Questa reliquia non ha più effetto"
     ]
   },
   "Meat on the Bone": {
@@ -463,21 +463,21 @@
   },
   "Medical Kit": {
     "NAME": "Kit Medico",
-    "FLAVOR": "\"Ha tutto ciò di cui hai bisogno! Anti-prurito, anti-ustione, anti-veleno e molto altro ancora!\"",
+    "FLAVOR": "\"Ha tutto ciò di cui hai bisogno! Anti-prurito, anti-ustione, anti-veleno e tanto altro ancora!\"",
     "DESCRIPTIONS": [
-      "Le carte #yStato possono ora essere giocate. Giocare una carta #yStato la farà #yEsaurire."
+      "Puoi giocare le carte #yStato, #yEsaurendole."
     ]
   },
   "Membership Card": {
     "NAME": "Tessera Soci",
-    "FLAVOR": "\"Un offerta speciale di abbonamento per i miei clienti migliori!\"",
+    "FLAVOR": "\"Un'offerta speciale di abbonamento per i miei clienti migliori!\"",
     "DESCRIPTIONS": [
       "Nei prossimi livelli i negozi appariranno il #b50% più spesso. #yBONUS: #b20% di sconto su tutti i prodotti!"
     ]
   },
   "Mercury Hourglass": {
     "NAME": "Clessidra al Mercurio",
-    "FLAVOR": "Una clessidra incantata che gocciola continuamente.",
+    "FLAVOR": "Una clessidra incantata, nella quale il liquido gocciola continuamente.",
     "DESCRIPTIONS": [
       "All'inizio del tuo turno, infliggi #b",
       " danni a TUTTI i nemici."
@@ -485,7 +485,7 @@
   },
   "Molten Egg": {
     "NAME": "Uovo di Magma",
-    "FLAVOR": "È l'uovo di una Fenice. Brilla rosso acceso con lava bollente.",
+    "FLAVOR": "È l'uovo di una Fenice. La sua superficie di lava bollente brilla di un rosso acceso.",
     "DESCRIPTIONS": [
       "Appena raccolta, scegli e #yPotenzia un #yAttacco.",
       "Scegli una carta per "
@@ -493,25 +493,25 @@
   },
   "Mummified Hand": {
     "NAME": "Mano Mummificata",
-    "FLAVOR": "Trema spesso, specialmente quando il tuo battito è alto.",
+    "FLAVOR": "Trema spesso, in particolare se il tuo cuore batte molto in fretta.",
     "DESCRIPTIONS": [
       "Quando giochi un #yPotere, una carta casuale nella tua mano costerà #b0 per il resto del turno."
     ]
   },
   "Necronomicon": {
     "NAME": "Necronomicon",
-    "FLAVOR": "Solo un pazzo provrebbe a sfruttare questo potere malvagio. Durante la notte i tuoi sogni sono infestati da immagini del libro che divora la tua mente.",
+    "FLAVOR": "Solo un folle provarebbe a sfruttarne l'oscuro potere. Le immagini contenute nel libro ti appaiono in sogno ogni notte, divorandoti la mente.",
     "DESCRIPTIONS": [
-      "Il primo #yAttacco giocato ogni turno che costa #b",
-      " o più viene giocato due volte. Quando raccogli questa reliquia, diventa #rMaledetto.",
+      "Il primo #yAttacco che giochi ogni turno con costo #b",
+      " o più viene giocato due volte. Quando raccogli questa reliquia, vieni #rMaledetto.",
       " o più viene giocato due volte."
     ]
   },
   "Nilry's Codex": {
     "NAME": "Codice di Nilry",
-    "FLAVOR": "Creato dal famigerato game master stesso. Si dice che espanda la mente.",
+    "FLAVOR": "Creato dal famigerato game master stesso. Si dice che possa espandere la mente.",
     "DESCRIPTIONS": [
-      "Alla fine di ogni turno, puoi scegliere #b1 di #b3 carte casuali da mettere nella Pila."
+      "Alla fine di ogni turno, puoi scegliere #b1 di #b3 carte casuali da aggiungere alla tua Pila."
     ]
   },
   "Nine Lives": {
@@ -526,15 +526,15 @@
   },
   "Ninja Scroll": {
     "NAME": "Pergamena del Ninja",
-    "FLAVOR": "Contiene i segreti per l'assassinio.",
+    "FLAVOR": "Contiene tutti i segreti dell'arte dell'assassinio.",
     "DESCRIPTIONS": [
       "Inizia ogni combattimento con #b",
-      " #yColtelli in mano."
+      " #yPugnali in mano."
     ]
   },
   "Nloth's Gift": {
-    "NAME": "Dono di Nloth",
-    "FLAVOR": "Lo strano dono da parte di N'loth. Ogni volta che tenti di scartarlo, trovi all'interno un altra scatola incartata della stessa dimensione.",
+    "NAME": "Dono di N'loth",
+    "FLAVOR": "Lo strano dono che ti ha lasciato N'loth. Tutte le volte che provi a scartarlo, trovi al suo interno un altra scatola, di ugual foggia e dimensione.",
     "DESCRIPTIONS": [
       "#bTriplica la possibilità di ricervere carte rare come ricompensa dai mostri."
     ]
@@ -548,7 +548,7 @@
   },
   "Oddly Smooth Stone": {
     "NAME": "Pietra Levigata",
-    "FLAVOR": "Non hai mai visto un oggetto così liscio e immacolato. Questo oggetto deve essere opera degli Antichi.",
+    "FLAVOR": "Non hai mai visto un oggetto dalla superficie così liscia e priva di imperfezioni. Deve essere opera degli Antichi.",
     "DESCRIPTIONS": [
       "All'inizio di ogni combattimento, ottieni #b",
       " #yDestrezza."
@@ -556,14 +556,14 @@
   },
   "Odd Mushroom": {
     "NAME": "Strano Fungo",
-    "FLAVOR": "\"Dopo aver consumato il trichella parastius mi sono sentito più grande e meno... vulnerabile.\" - Ranwid ",
+    "FLAVOR": "\"Dopo aver consumato un esemplare di Trichella Parastius mi sono sentito più grande e meno... vulnerabile.\" - Ranwid ",
     "DESCRIPTIONS": [
       "Quando sei #yVulnerabile, ricevi il #b25% di danno in più invece che il #b50%."
     ]
   },
   "Old Coin": {
     "NAME": "Antica Moneta",
-    "FLAVOR": "Le monete uniche sono molto valutate dai Mercanti grazie al loro valore storico e la loro rara composizione metallica.",
+    "FLAVOR": "I mercanti attribuiscono un alto valore a queste monete uniche per la loro importanza storica e la rarità dei metalli che le compongono.",
     "DESCRIPTIONS": [
       "Ottieni #b300 #yOro."
     ]
@@ -574,20 +574,20 @@
     "DESCRIPTIONS": [
       "Nega le prossime due #b2 #rMaledizioni che otterresti.",
       "Nega la prossima #rMaledizione che otterresti.",
-      "Questa reliquia è stata esaurita."
+      "Questa reliquia non ha più effetto"
     ]
   },
   "Orichalcum": {
     "NAME": "Oricalco",
     "FLAVOR": "Un metallo verdastro di origine sconosciuta. Sembra indistruttibile.",
     "DESCRIPTIONS": [
-      "Se finisci il tuo turno senza #yBlocco, ottieni #b",
+      "Se non hai #yBlocco a fine turno, ottieni #b",
       " #yBlocco."
     ]
   },
   "Ornamental Fan": {
     "NAME": "Ventaglio Ornamentale",
-    "FLAVOR": "Questo ventaglio sembra estendersi ed indurirsi quando viene versato del sangue.",
+    "FLAVOR": "Uno strano ventaglio che sembra aumentare di dimensione e diventare più resistente quando del sangue viene versato.",
     "DESCRIPTIONS": [
       "Ogni volta che giochi #b3 #yAttacchi in un singolo turno, ottieni #b",
       " #yBlocco."
@@ -603,7 +603,7 @@
   },
   "Pandora's Box": {
     "NAME": "Vaso di Pandora",
-    "FLAVOR": "Hai una brutta sensazione nell'aprirlo.",
+    "FLAVOR": "Aprirlo non ti sembra un'ottima idea.",
     "DESCRIPTIONS": [
       "#bTrasforma tutti i Colpi ed i Difendi.",
       "Il Vaso di Pandora è stato aperto..."
@@ -611,50 +611,50 @@
   },
   "Pantograph": {
     "NAME": "Pantografo",
-    "FLAVOR": "\"Le fondamente solide non sono accidentali. Gli strumenti per la pianificazione sono imprescindibili.\" - L'Architetto",
+    "FLAVOR": "\"Se un edificio ha solide fondamenta non è un caso. Solo gli strumenti adatti permettono una pianificazione perfetta.\"-L'Architetto",
     "DESCRIPTIONS": [
-      "All'inizio del combattimento contro il boss, cura #b",
+      "All'inizio dei combattimenti con i boss, ti curi di #b",
       " PV."
     ]
   },
   "Paper Crane": {
     "NAME": "Kru di Carta",
-    "FLAVOR": "Un origami di una creatura di un'epoca passata.",
+    "FLAVOR": "L'origami di una creatura appartenente ad un'epoca passata.",
     "DESCRIPTIONS": [
-      "I nemici con #yDebole infliggono il #b50% danni in meno invece che il #b25%."
+      "I nemici #yDeboli infliggono il #b50% danni in meno invece che il #b25%."
     ]
   },
   "Paper Frog": {
     "NAME": "Drana di Carta",
-    "FLAVOR": "La carta si piega e dispiega continuamente nella forma di una piccola creatura.",
+    "FLAVOR": "La carta si piega e dispiega continuamente, nella forma di una piccola creatura.",
     "DESCRIPTIONS": [
-      "I nemici con #yVulnerabile ricevono il #b75% più danno invece che il #b50%."
+      "I nemici #yVulnerabili ricevono il #b75% più danno invece che il #b50%."
     ]
   },
   "Peace Pipe": {
     "NAME": "Pipa della Pace",
     "FLAVOR": "Libera la mente e purifica l'anima.",
     "DESCRIPTIONS": [
-      "Ora puoi rimuovere carte dal tuo mazzo dal falò."
+      "Puoi rimuovere carte dal tuo mazzo dal falò."
     ]
   },
   "Pear": {
     "NAME": "Pera",
-    "FLAVOR": "Un frutto comune prima dello Spireblight.",
+    "FLAVOR": "Era un frutto comune, prima che la corruzione della Guglia si spargesse.",
     "DESCRIPTIONS": [
       "Aumenta i tuoi PV massimi di #b"
     ]
   },
   "Pen Nib": {
     "NAME": "Pennino",
-    "FLAVOR": "Tenendo in mano il pennino, puoi vedere tutti quelli che sono stati uccisi dal precedente proprietario. Una storia violenta.",
+    "FLAVOR": "Mentre tieni in mano questa reliquia, vedi il susseguirsi di ogni uccisione causata dai precedenti proprietari. Una storia estremamente violenta.",
     "DESCRIPTIONS": [
       "Ogni #b10mo #yAttacco che giochi infligge danno doppio."
     ]
   },
   "Philosopher's Stone": {
     "NAME": "Pietra Filosofale",
-    "FLAVOR": "La pietra emana una energia grezza, conferendo potere a chiunque stia vicino",
+    "FLAVOR": "La pietra emana una energia grezza, che conferisce potere a chiunque si trovi nelle sue vicinanze",
     "DESCRIPTIONS": [
       " TUTTI i nemici iniziano con #b2 #yForza.",
       "Ottieni [R] all'inizio di ogni turno.",
@@ -664,28 +664,28 @@
   },
   "Prayer Wheel": {
     "NAME": "Ruota della Preghiera",
-    "FLAVOR": "La ruota continua a girare, non fermandosi mai.",
+    "FLAVOR": "La ruota continua a girare, senza mai fermarsi.",
     "DESCRIPTIONS": [
-      "Adesso gli scrigni Non-Boss contengono carte."
+      "Anche gli scrigni prima del Boss contengono carte."
     ]
   },
   "Question Card": {
     "NAME": "Carta Misteriosa",
-    "FLAVOR": "\"Coloro che hanno più scelte minimizzano i rischi del chaos.\" - Kublai il Grande",
+    "FLAVOR": "Chi ha più scelte può temere meno il chaos.\" - Kublai il Grande",
     "DESCRIPTIONS": [
       "Quando ottieni nuove Carte, scegli tra #b4 invece che #b3."
     ]
   },
   "Red Circlet": {
     "NAME": "Cerchietto Rosso",
-    "FLAVOR": "Hai trovato tutte le reliquie. Impressionante!",
+    "FLAVOR": "Non hai più reliquie. Impressionante!",
     "DESCRIPTIONS": [
       "E' molto carino."
     ]
   },
   "Red Mask": {
     "NAME": "Maschera Rossa",
-    "FLAVOR": "Questa maschera dall'aspetto molto elegante appartiene al comandante dei Banditi della Maschera Rossa. Tecnicamente questo ti rende il loro comandante adesso?",
+    "FLAVOR": "Questa elegante maschera appartiene al comandante dei Banditi della Maschera Rossa. Quindi tecnicamente tu saresti il loro comandante adesso?",
     "DESCRIPTIONS": [
       "All'inizio di ogni combattimento, applica #b",
       " #yDebole a TUTTI i nemici."
@@ -693,15 +693,15 @@
   },
   "Red Skull": {
     "NAME": "Teschio Rosso",
-    "FLAVOR": "Un piccolo teschio ricoperto ti pittura ornamentale.",
+    "FLAVOR": "Un piccolo teschio coperto di vernice ornamentale.",
     "DESCRIPTIONS": [
-      "Quando i tuoi PV stanno al #b50% o sotto, tu hai #b",
+      "Quando i tuoi PV sono al #b50% o sotto, ottieni #b",
       " #yForza aggiuntiva."
     ]
   },
   "Regal Pillow": {
     "NAME": "Cuscino Regale",
-    "FLAVOR": "Puoi finalmente riposare bene la notte.",
+    "FLAVOR": "Ora puoi finalmente riposare comodo la notte.",
     "DESCRIPTIONS": [
       "Cura #b",
       " PV aggiuntivi quando #yRiposi."
@@ -715,7 +715,7 @@
   },
   "Runic Cube": {
     "NAME": "Cubo Runico",
-    "FLAVOR": "Le rune sono indecifrabili.",
+    "FLAVOR": "Le antiche rune sono indecifrabili.",
     "DESCRIPTIONS": [
       "Ogni volta che perdi PV, pesca #b",
       " carte.",
@@ -724,7 +724,7 @@
   },
   "Runic Dome": {
     "NAME": "Cupola Runica",
-    "FLAVOR": "Le rune sono indecifrabili.",
+    "FLAVOR": "Le antiche rune sono indecifrabili.",
     "DESCRIPTIONS": [
       "all'inizio di ogni turno. Non puoi più vedere gli #bIntenti dei nemici.",
       "Ottieni [R] ",
@@ -734,7 +734,7 @@
   },
   "Runic Pyramid": {
     "NAME": "Piramide Runica",
-    "FLAVOR": "Le rune sono indecifrabili.",
+    "FLAVOR": "Le antiche rune sono indecifrabili.",
     "DESCRIPTIONS": [
       "A fine turno, non scarti più la tua mano. NL Pesca #b",
       " carta in meno ogni turno."
@@ -742,7 +742,7 @@
   },
   "Self Forming Clay": {
     "NAME": "Argilla Auto-Formante",
-    "FLAVOR": "\"Curiosissimo! Sembra sagomarsi vagamente su quello che sto pensando! Argilla-Telepatica?\" - Ranwid",
+    "FLAVOR": "\"Estremamente curioso! Sembra prendere vagamente la forma di ciò a cui penso! Argilla-Telepatica?\" - Ranwid",
     "DESCRIPTIONS": [
       "Ogni volta che perdi PV in combattimento, ottieni #b",
       " #yBlocco il prossimo turno."
@@ -750,7 +750,7 @@
   },
   "Shovel": {
     "NAME": "Pala",
-    "FLAVOR": "La Guglia ospita un gran numero di reliquie di civiltà passate e potenti avventurieri persi nel tempo. E' tempo di andarle a scavare!",
+    "FLAVOR": "La guglia custodisce molte reliquie, alcune appartenevano ad antiche civiltà, altre a potenti avventurieri. È tempo di dissotterarle!",
     "DESCRIPTIONS": [
       "Ora puoi #yScavare per cercare reliquie al falò."
     ]
@@ -766,22 +766,22 @@
   },
   "Singing Bowl": {
     "NAME": "Campana Tibetana",
-    "FLAVOR": "Questo artefatto ben utilizzato risuona con una bellissima melodia quando viene colpito.",
+    "FLAVOR": "Se utilizzato correttamente questo artefatto risuona, emettendo una melodia belissima.",
     "DESCRIPTIONS": [
-      "Le carte ricompensa possono essere convertite in #b+2 PV Massimi."
+      "Invece di scegliere una carta come ricompensa puoi convertirla in #b+2 PV Massimi."
     ]
   },
   "Smiling Mask": {
     "NAME": "Maschera Sorridente",
-    "FLAVOR": "La maschera indossata dal Mercante. Ne deve avere di scorta...",
+    "FLAVOR": "La maschera indossata dal Mercante. Deve averne altre di scorta...",
     "DESCRIPTIONS": [
-      "Il serivizio di rimozione carte del mercante ora costerà sempre #b",
-      " #yOro."
+      "Il servizio di rimozione carte del mercante costerà sempre #b",
+      " #yOro da ora in poi."
     ]
   },
   "Ring of the Snake": {
     "NAME": "Anello della Serpe",
-    "FLAVOR": "Creato da una serpe fossilizzata. Rappresenta una grande abilità come cacciatrice.",
+    "FLAVOR": "Creato da un fossile di serpente. È l'emblema di un'abile cacciatrice.",
     "DESCRIPTIONS": [
       "All'inizio di ogni combattimento, pesca #b",
       " carte aggiuntive."
@@ -789,14 +789,14 @@
   },
   "Snecko Eye": {
     "NAME": "Occhio di Snecko",
-    "FLAVOR": "Un occhio di snecko morto. Molto più grande di quanto si potrebbe immaginare.",
+    "FLAVOR": "L'occhio di uno snecko morto. Molto più grande di quanto si potrebbe immaginare.",
     "DESCRIPTIONS": [
       "Pesca #b2 carte aggiuntive ogni turno. Inizia ogni combattimento #yConfuso."
     ]
   },
   "Snake Skull": {
     "NAME": "Teschio di Snecko",
-    "FLAVOR": "Un teschio di snecko in perfette condizioni. Misteriosamente pulito e liscio, terra e sporcizia cadono via da sole inspiegabilmente.",
+    "FLAVOR": "Il teschio di uno snecko in perfette condizioni. La sua superficie è liscia al tatto e respinge inspiegabilmente ogni tipo di detrito o sporcizia.",
     "DESCRIPTIONS": [
       "Ogni volta che applichi #yVeleno, applica un #b",
       " #yVeleno aggiuntivo."
@@ -804,7 +804,7 @@
   },
   "Sozu": {
     "NAME": "Sozu",
-    "FLAVOR": "Noti che i liquidi magici smettono di funzionare quando sono vicini a questa reliquia.",
+    "FLAVOR": "Noti che questa reliquia rende inerti i liquidi magici nelle vicinanze.",
     "DESCRIPTIONS": [
       " Non puoi più usare pozioni. ",
       "Ottieni [R] all'inizio di ogni turno.",
@@ -816,26 +816,26 @@
     "NAME": "Cacca Spirituale",
     "FLAVOR": "I resti carbonizzati della tua offerta agli spiriti.",
     "DESCRIPTIONS": [
-      "E' spiacevole."
+      "È spiacevole."
     ]
   },
   "Strange Spoon": {
     "NAME": "Strano Cucchiaio",
-    "FLAVOR": "Fissando il cucchiaio, sembra piegarsi e attorcigliarsi davanti ai tuoi occhi.",
+    "FLAVOR": "Quando lo fissi sembra piegarsi e attorcigliarsi davanti ai tuoi occhi.",
     "DESCRIPTIONS": [
-      "Le carte che si #yEsauriscono quando vengono giocate, verranno invece scartate il #b50% delle volte."
+      "Le carte che si #yEsauriscono quando vengono giocate vengono invece scartate il #b50% delle volte."
     ]
   },
   "Strawberry": {
     "NAME": "Fragola",
-    "FLAVOR": "\"Deliziosa! Non ne ho vista una dalla corruzione.\" - Ranwid",
+    "FLAVOR": "\"Deliziosa! Non ne vedo una da prima della corruzione.\" - Ranwid",
     "DESCRIPTIONS": [
       "Aumenta i tuoi PV massimi di #b"
     ]
   },
   "Sundial": {
     "NAME": "Meridiana",
-    "FLAVOR": "\"La stupida ossessione degli uomini primitivi con il tempo li indusse a guardare al cielo per una guida, sperando di trovare qualcosa di permanente.\" - Zoroth",
+    "FLAVOR": "\"La sciocca ossessione con il tempo dell'uomo primitivo lo portava a cercare nel cielo una guida, sperando di trovare qualcosa di eterno.\" - Zoroth",
     "DESCRIPTIONS": [
       "Ogni #b",
       " volta che mescoli il tuo mazzo, ottieni [R] [R] .",
@@ -845,7 +845,7 @@
   },
   "Ancient Tea Set": {
     "NAME": "Antico Set da Tè",
-    "FLAVOR": "La chiave per una rinfrescante nottata di sonno.",
+    "FLAVOR": "La chiave per una nottata di sonno rinvigorente.",
     "DESCRIPTIONS": [
       "Ogni volta che arrivi ad un punto di riposo, inizia il prossimo combattimento con [R] [R] .",
       "Ogni volta che arrivi ad un punto di riposo, inizia il prossimo combattimento con [G] [G] .",
@@ -854,15 +854,15 @@
   },
   "War Paint": {
     "NAME": "Pittura di Guerra",
-    "FLAVOR": "Missing description.",
+    "FLAVOR": "Descrizione Mancante.",
     "DESCRIPTIONS": [
       "Appena raccolta, #yPotenzia #b",
       " #yAbilità casuali."
     ]
   },
   "Darkstone Periapt": {
-    "NAME": "Amuleto di Pietraoscura",
-    "FLAVOR": "Missing description.",
+    "NAME": "Amuleto Pietrascura",
+    "FLAVOR": "Descrizione Mancante.",
     "DESCRIPTIONS": [
       "Ogni volta che vieni #yMaledetto, aumenta i tuoi PV massimi di #b"
     ]
@@ -879,7 +879,7 @@
   },
   "Frozen Eye": {
     "NAME": "Occhio Ghiacciato",
-    "FLAVOR": "No description.",
+    "FLAVOR": "Descrizione mancante.",
     "DESCRIPTIONS": [
       "Quando visualizzi la tua #yPila, le carte sono ora mostrate in ordine."
     ]
@@ -938,14 +938,14 @@
   },
   "The Specimen": {
     "NAME": "L'Esemplare",
-    "FLAVOR": "\"Affascinante! Ho trovato una creatura mutata che mostra delle sorprendendi proprietà tossiche. Devo tenerne da parte un campione da analizzare successivamente.\" - Ranwid",
+    "FLAVOR": "\"Affascinante! Ho trovato un mutante dotato di sorprendenti proprietà tossiche. Devo raccoglierne un campione da analizzare in seguito.\" - Ranwid",
     "DESCRIPTIONS": [
       "Ogni volta che un nemico muore, trasferisci tutto il #yVeleno che ha su un nemico casuale."
     ]
   },
   "Thread and Needle": {
     "NAME": "Ago e Filo",
-    "FLAVOR": "Avvolgendo il filo magico attorno al tuo corpo, ti senti più duro al tatto.",
+    "FLAVOR": "Quando avvolgi il filo magico attorno al tuo corpo ti sembra che la tua pelle si indurisca.",
     "DESCRIPTIONS": [
       "All'inizio di ogni combattimento, ottieni #b",
       " #yArmatura #ya #yPiastre."
@@ -953,7 +953,7 @@
   },
   "Tingsha": {
     "NAME": "Tingsha",
-    "FLAVOR": "Il suono generato da questo strumento sembra capace di risuonare fino a livelli di volume dolorosi.",
+    "FLAVOR": "Il volume del suono generato da questo strumento può raggiungere livelli dolorosi.",
     "DESCRIPTIONS": [
       "Quando scarti una carta nel tuo turno, infliggi #b",
       " danni ad un nemico casuale per ogni carta scartata."
@@ -970,32 +970,32 @@
   },
   "Tiny House": {
     "NAME": "Piccola Casa",
-    "FLAVOR": "\"Una realizzazione quasi perfetta di miniaturizzazione. Il mio miglior lavoro fino ad oggi, ma ancora non adeguato.\" - L'Architetto",
+    "FLAVOR": "\"Una realizzazione quasi perfetta di miniaturizzazione. Il mio miglior lavoro fino ad oggi, ma non è ancora adeguato.\" - L'Architetto",
     "DESCRIPTIONS": [
       "Ottieni #b1 pozione. NL Ottieni #b",
       " #yOro. NL Aumenta i tuoi PV massimi di #b",
-      ". NL Ottieni #b1 carta. NL Potenzia #b1 rcarta casuale.",
+      ". NL Ottieni #b1 carta. NL Potenzia #b1 carta casuale.",
       "Piccola Casa!"
     ]
   },
   "Toolbox": {
     "NAME": "Cassetta degli Attrezzi",
-    "FLAVOR": "Un attrezzo per ogni lavoro.",
+    "FLAVOR": "Il giusto attrezzo per ogni lavoro.",
     "DESCRIPTIONS": [
       "All'inizio di ogni combattimento, aggiungi una carta incolore casuale alla tua mano."
     ]
   },
   "Torii": {
     "NAME": "Torii",
-    "FLAVOR": "Tenendo tra le mani il piccolo Torii, senti un senso di calma e sicurezza allargarsi nella tua mente.",
+    "FLAVOR": "Mentre tieni in mano il piccolo Torii, senti un senso di calma e sicurezza pervadere la tua mente.",
     "DESCRIPTIONS": [
       "Ogni volta che dovresti ricevere #b",
       " o meno danni non bloccati da #yAttacchi, riducili a #b1."
     ]
   },
   "Tough Bandages": {
-    "NAME": "Bendaggi Duri",
-    "FLAVOR": "La perdita ti dà forza.",
+    "NAME": "Bende Resistenti",
+    "FLAVOR": "Il dolore ti dà forza.",
     "DESCRIPTIONS": [
       "Quando scarti una carta nel tuo turno, ottieni #b",
       " #yBlocco."
@@ -1003,7 +1003,7 @@
   },
   "Toxic Egg": {
     "NAME": "Uovo Tossico",
-    "FLAVOR": "\"Che meravigliosa scoperta! Questo sembra essere un uovo inerte di qualche creatura magica. Chi o cosa lo ha creato?\" - Ranwid",
+    "FLAVOR": "Che meravigliosa scoperta! Sembra essere l'uovo infertile di qualche creatura magica. Mi domando cosa possa averlo deposto...\" - Ranwid",
     "DESCRIPTIONS": [
       "Appena ricevuto, scegli e #yPotenzia una #yAbilità.",
       "Scegli una carta per "
@@ -1019,14 +1019,14 @@
   },
   "Unceasing Top": {
     "NAME": "Trottola Perpetua",
-    "FLAVOR": "La trottola continua a girare senza sforzo come se fossi in un sogno.",
+    "FLAVOR": "La trottola continua a girare senza frizione, come in un sogno.",
     "DESCRIPTIONS": [
       "Se non hai carte in mano nel tuo turno, pesca una carta."
     ]
   },
   "Vajra": {
     "NAME": "Vajra",
-    "FLAVOR": "Una reliquia ornamentale data ai guerrieri che hanno mostrato gloria durante una battaglia.",
+    "FLAVOR": "Un ornamento conferito ai guerrieri che avevano ottenuto la gloria in una battaglia.",
     "DESCRIPTIONS": [
       "All'inizio di ogni combattimento, ottieni #b",
       " #yForza."
@@ -1034,7 +1034,7 @@
   },
   "Velvet Choker": {
     "NAME": "Choker di Velluto",
-    "FLAVOR": "\"Potere immenso, ma troppo limitato.\" - Kublai il Grande",
+    "FLAVOR": "\"Un potere immenso, ma con troppe limitazioni.\" - Kublai il Grande",
     "DESCRIPTIONS": [
       "Non puoi giocare più di #b",
       " carte per turno.",
@@ -1046,7 +1046,7 @@
   },
   "Lee's Waffle": {
     "NAME": "Waffle di Lee",
-    "FLAVOR": "\"Il più goloso dolce che potrai trovare in tutta la Guglia! Cotto oggi soltanto per te.\"",
+    "FLAVOR": "\"Il dolce più goloso che potrai mai trovare in tutta la Guglia! Appena sfornato, proprio per te!\"",
     "DESCRIPTIONS": [
       "Aumenta i tuoi PV massimi di #b",
       " e cura tutti i tuoi PV."
@@ -1054,7 +1054,7 @@
   },
   "Whetstone": {
     "NAME": "Cote",
-    "FLAVOR": "\"La carne non batte mai l'acciaio.\" - Kublai il Grande",
+    "FLAVOR": "\"La carne non potrà mai sconfiggere l'acciaio.\" - Kublai il Grande",
     "DESCRIPTIONS": [
       "Appena raccolto, #yPotenzia #b",
       " #yAttacchi casuali."
@@ -1070,17 +1070,17 @@
   },
   "NeowsBlessing": {
     "NAME": "Lamento di Neow",
-    "FLAVOR": "La benedizione del lamento conferito da Neow.",
+    "FLAVOR": "La Benedizione del Lamento, ricevuta da Neow.",
     "DESCRIPTIONS": [
-      "I nemici nei tuoi #b3 primi combattimenti avranno 1 PV.",
-      "La benedizione è terminata."
+      "I nemici nei tuoi primi #b3 combattimenti avranno 1 PV.",
+      "Questa reliquia non ha più effetto."
     ]
   },
   "White Beast Statue": {
     "NAME": "Statua della Bestia Bianca",
-    "FLAVOR": "Una piccola statuetta bianca di una creatura che non hai mai visto prima.",
+    "FLAVOR": "Una piccola statuetta bianca. Rappresenta una creatura che non hai mai visto prima.",
     "DESCRIPTIONS": [
-      "Trovi sempre pozioni dopo il combattimento."
+      "Dopo ogni combattimento trovi una pozione."
     ]
   }
 }

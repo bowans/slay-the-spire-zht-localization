@@ -7,17 +7,17 @@
   "Accursed Blacksmith": {
     "NAME": "Forgia del Malaugurio",
     "DESCRIPTIONS": [
-      "Ti chini, attraversando la porta di un capanno. All'interno, trovi una specie di forgia. Gli attrezzi sono impolverati, ma nella fornace il fuoco ruggisce. Ti senti teso...",
+      "Ti chini, mentre attraversi l'entrata di un capanno. All'interno, trovi una specie di forgia. Gli attrezzi sono impolverati, ma nella fornace il fuoco ruggisce. Ti senti teso...",
       "Decidi di mettere al lavoro la forgia e... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...potenzi il tuo arsenale!",
-      "Decidi di guardare se c'è qualcosa di utile. Dopo aver sollevato le vecchie tele cerate e rovistato ovunque trovi una #y~reliquia!~ impolverata!",
-      "Mentre ti accingi a dare gli ultimi ritocchi, le fiamme della forgia ti aggrediscono, #r@bruciando@ #r@e@ #r@lasciando@ #r@cicatrici@ sulle tue braccia..",
-      "Non riesci a liberarti di questa #r-brutta~ #r-sensazione~ mentre lasci il capanno. Forse hai disturbato uno spirito di qualche tipo?",
-      "Non sembra esserci nulla di utile. Esci dalla via per cui sei venuto, le fiamme della fornace creano #p~ombre~ #p~inquietanti~ sui muri all'interno del capanno..."
+      "Decidi di vedere se riesci a trovare qualcosa di utile. Una volta sollevate le vecchie tele cerate e rovistato ovunque trovi una #y~reliquia!~ impolverata!",
+      "Mentre ti accingi a dare gli ultimi ritocchi, le fiamme della forgia ti aggrediscono, #r@bruciando@ #r@e@ #r@lasciando@ #r@cicatrici@ sulle tue braccia...",
+      "Mentre lasci il capanno non riesci a scrollarti di dosso una #r-brutta~ #r-sensazione.~ Forse hai disturbato uno spirito di qualche tipo?",
+      "Non sembra esserci nulla di utile. Esci dalla via per cui sei venuto, le fiamme della fornace creano #p~ombre~ #p~inquietanti~ sulle pareti del capanno..."
     ],
     "OPTIONS": [
       "[Forgia] #gPotenzia #guna #gCarta. #r25%: #rVieni #rMaledetto #r- #rLesione.",
       "[Cerca] #gOttieni #guna #gReliquia. #r75%: #rVieni #rMaledetto #r- #rNormalità.",
-      "[Leave]",
+      "[Prosegui]",
       "Scegli una Carta da Potenziare",
       "[Bloccata] Richiede: Carte da Potenziare"
     ]
@@ -26,17 +26,17 @@
     "NAME": "Spiriti del Falò",
     "DESCRIPTIONS": [
       "Vedi un gruppo di #pspiritelli #pdel #pfuoco #pviola ~danzare~, intorno a un grande falò. NL ",
-      "Gli spiriti lanciano oggettini e piccole ossa nel fuoco, che ~scoppietta~ ~brillando~ ogni volta. NL Quando ti avvicini, gli spiriti ti guardano, in attesa...",
-      "Lanci un offerta nel fuoco. NL NL ",
-      "Ad ogni modo, gli spiriti sono contrariati dalla #pMaledizione che hai offerto... La carta brucia levando un leggero fumo nero. Ricevi... #p~qualcosa~ in cambio.",
-      "Non succede nulla... NL Gli spiriti sembrano ignorarti. Che delusione...",
+      "Gli spiriti lanciano oggettini e piccole ossa nel fuoco, che ~scoppietta~ ~brillando~ ogni volta. NL Quando ti avvicini, gli spiriti ti osservano, come in attesa...",
+      "Lanci un'offerta nel fuoco. NL NL ",
+      "La tua scelta di immolare una #pMaledizione sembra contrariare gli spiriti... La carta brucia levando un leggero fumo nero. Ricevi... #p~qualcosa~ in cambio.",
+      "Non succede nulla... NL Gli spiriti non sembrano più interessati a te. Che delusione...",
       "Le fiamme si fanno di poco più intense. NL Gli spiriti continuano a danzare. Ti senti riscaldare dalla loro presenza... NL #gCura #b5 PV.",
-      "Le fiamme eruttano, diventando imponenti! NL Gli spiriti ti danzano intorno, eccitati, riempiendoti con un ~senso~ ~di~ ~calore.~ NL Vieni #gcurato del tutto",
-      "Le fiamme @esplodono,@ quasi mandandoti a gambe all'aria, mentre il fuoco @raddoppia@ in forza. NL Gli spiriti danzano eccitati intorno a te prima di ~unirsi~ ~con~ ~te,~ riempiendoti di calore e forza. NL I tuoi PV massimi crescono di #b10 e sei #gcurato del tutto."
+      "Le fiamme eruttano, facendosi imponenti! NL Gli spiriti ti danzano intorno, eccitati, riempiendoti con un ~senso~ ~di~ ~calore.~ NL Vieni #gcurato completamente",
+      "Le fiamme @esplodono,@ mandandoti quasi a gambe all'aria, mentre il fuoco @raddoppia@ in forza. NL Gli spiriti ti danzano intorno agitati, prima di ~unirsi~ ~in~ ~te,~ riempiendoti di calore e forza. NL Guadagni #b10 PV massimi e vieni #gcurato completamente."
     ],
     "OPTIONS": [
       "[Continua]",
-      "[Ignora]",
+      "[Prosegui]",
       "[Fai un Offerta] Riceverai egual ricompensa.",
       "Scegli una carta da offrire."
     ]
@@ -64,7 +64,7 @@
     ],
     "OPTIONS": [
       "[Prega] #gDuplica #guna #gcarta #gnel #gtuo #gmazzo.",
-      "[Ignora]",
+      "[Prosegui]",
       "Scegli una Carta da Duplicare."
     ]
   },
@@ -77,7 +77,7 @@
     ],
     "OPTIONS": [
       "[Bevi] #gRimuovi #gtutte #gle #gMaledizioni #gdal #gtuo #gmazzo.",
-      "[Ignora]"
+      "[Prosegui]"
     ]
   },
   "Golden Shrine": {
@@ -92,7 +92,7 @@
       "[Prega] #gGuadagna #g",
       " #gOro.",
       "[Dissacra] #gGuadagna #g250 #gOro. #rVieni #rMaledetto #r- #rRimorso.",
-      "[Ignora]"
+      "[Prosegui]"
     ]
   },
   "Lab": {
@@ -113,7 +113,7 @@
     ],
     "OPTIONS": [
       "[Prega] #gRimuovi #guna #gcarta #gdal #gtuo #gmazzo.",
-      "[Ignora]",
+      "[Prosegui]",
       "Scegli una Carta da Rimuovere."
     ]
   },
@@ -126,7 +126,7 @@
     ],
     "OPTIONS": [
       "[Prega] #gTrasforma #guna #gcarta.",
-      "[Ignora]",
+      "[Prosegui]",
       "Scegli una Carta da Trasformare."
     ]
   },
@@ -139,7 +139,7 @@
     ],
     "OPTIONS": [
       "[Prega] #gPotenzia #guna #gcarta.",
-      "[Ignora]",
+      "[Prosegui]",
       "Scegli una Carta da Potenziare.",
       "[Bloccata] Richiede: Carte da Potenziare"
     ]
@@ -202,7 +202,7 @@
       " #rPV #rMassimi",
       "[Offri: Idolo Dorato] #gRicevi #g333 #gOro. #rPerdi #rl'Idolo #rDorato.",
       "[Bloccata] Richiede: Idolo Dorato.",
-      "[Ignora]"
+      "[Prosegui]"
     ]
   },
   "Mysterious Sphere": {
@@ -286,10 +286,10 @@
   "The Cleric": {
     "NAME": "Il Chierico",
     "DESCRIPTIONS": [
-      "Uno stravagante uomo blu in elmo dorato(?) ti si avvicina con un ampio sorriso. NL @\"Salve@ @amico!@ Io #bChierico! Ti aiuto?!\" urla la creatura.",
+      "Uno stravagante uomo blu in elmo dorato(?) ti si avvicina con un ampio sorriso. NL @\"Salve@ @amico!@ Io #bChierico! Vuoi aiuto?!\" urla la creatura.",
       "Una calda luce dorata ti avvolge, poi si disperde subito. NL La creatura ti sorride. \"Chierico migliore curatore! @Buona@ @giornata!\"@",
       "Una fredda fiamma bluastra ti avvolge, disperdendosi dopo poco tempo. NL La creatura ti sorride. \"Abile Chierico! @Buona@ @giornata!\"@",
-      "Questo #b\"Chierico\" non sembra molto affidabile, perciò decidi di andartene."
+      "Questo #b\"Chierico\" non ti sembra molto affidabile, perciò decidi di andartene."
     ],
     "OPTIONS": [
       "[Cura] #y35 #yOro: #gCurati #gdi #g",
@@ -298,7 +298,7 @@
       "[Purifica] #y",
       " #yOro: #gRimuovi #guna #gcarta #gdal #gtuo #gmazzo",
       "[Bloccata] Richiede: 50 Oro.",
-      "[Ignora]",
+      "[Prosegui]",
       "Scegli una Carta da Rimuovere.",
       "."
     ]
@@ -309,7 +309,7 @@
       "Mentre perquisisci l'avventuriero vieni colto di sorpresa!",
       "Ti allontani in silenzio.",
       "Riverso sul pavimento c'è il #rcadavere #rdi #run #ravventuriero. NL Gli hanno rubato i #bpantaloni! Inoltre, ",
-      " #r@le #r@fiamme #r@hanno #r@bruciato il suo volto e la sua armatura.  ",
+      " #r@le@ #r@fiamme@ #r@gli@ #r@hanno@ #r@bruciato@ il viso e l'armatura.  ",
       "sembra essere stato #r@impalato@ #@dalle@ #r@corna@ di qualche bestia. ",
       "sembra essere stato #r@sventrato@ #r@e@ #r@fatto@ #r@a@ #r@pezzi@ da qualcosa con enormi artigli. ",
       "NL Anche se i suoi #yaveri #ysembrano #yancora #yintatti, non vuoi restare per scoprire cosa sia successo...",
@@ -338,7 +338,7 @@
     ],
     "OPTIONS": [
       "[Prendi] #gRicevi #gl' #gIdolo #gDorato. #rFai #rscattare #runa #rtrappola.",
-      "[Ignora]",
+      "[Prosegui]",
       "[Corri] #rVieni #rMaledetto #r- #rLesione.",
       "[Attacca] #rPrendi #r",
       " #rDanni.",
@@ -441,7 +441,7 @@
     "OPTIONS": [
       "[Offri: ",
       "] #rLa #rPerdi, #g #gOttieni #gun #gDono.",
-      "[Ignora]"
+      "[Prosegui]"
     ]
   },
   "Scrap Ooze": {
@@ -456,8 +456,8 @@
       "[Cerca] #rPerdi #r",
       " #rPV. #g",
       "%: #gTrova #guna #gReliquia.",
-      "[Ignora]",
-      "[Più a fondo] #rPerdi #r"
+      "[Prosegui]",
+      "[Più a Fondo] #rPerdi #r"
     ]
   },
   "Shining Light": {
@@ -470,7 +470,7 @@
     "OPTIONS": [
       "[Entra] #gPotenzia #g2 #gcarte #gcasuali. #rPerdi #r",
       " #rPV.",
-      "[Ignora]",
+      "[Prosegui]",
       "[Bloccata] Richiede: Carte Potenziabili"
     ]
   },
@@ -520,7 +520,7 @@
       "[Bloccata] Richiede: ",
       " Oro.",
       "[Continua]",
-      "[Ignora]",
+      "[Prosegui]",
       "Scegli una Carta da Rimuovere."
     ]
   },
@@ -544,7 +544,7 @@
       "[Fermati] #rPerdi #r3 #rPV.",
       "[Raccoglilo] #gPrendi #gil #gLibro. #rPerdi #r",
       " #rPV.",
-      "[Ignora]"
+      "[Ptrosegui]"
     ]
   },
   "Drug Dealer": {
@@ -692,7 +692,7 @@
       "Decidi di continuare per la tua strada, lasciando i morti ormai dimenticati indisturbati."
     ],
     "OPTIONS": [
-      "[Scoperchia] #gOttieni #guna #gReliquia. #r",
+      "[Scoperchia] #gTrova #guna #gReliquia. #r",
       "%: #rVieni #rMaledetto #r- #rConvulsioni.",
       "[Prosegui]"
     ]
@@ -707,8 +707,8 @@
       "La pallide figure sussultano quando tiri fuori la #yFiala #ydi #ySangue NL ~\"Il~ ~sangue~ ~del~ ~maestro...~ ~il~ ~sangue~ ~del~ ~maestro!~ @IL@ @SANGUE@ @DEL@ @MAESTRO!\"@ NL Iniziano a cantare con fervore mentre il più alto si inchina a te. \" Bevi il Suo sangue, e diventa uno con #y~Lui.\"~ NL Il canto aumenta di volume, e decidi di bere dalla fiala. La tua vista si ~annebbia~ immediatamente e tutto diventa nero. NL NL Quando ti svegli sei completamente solo. Un'intensa ~fame~ ti tormenta. #rDevi #rnutrirti..."
     ],
     "OPTIONS": [
-      "[Accetta] #gRimuovi #gi #gColpi ed #gOttieni #g5 #gMorsi. #rPerdi #ril #r",
-      "% #rdei #rPV #rMassimi.",
+      "[Accetta] #gRimuovi #gi #gColpi, #gOttieni #g5 #gMorsi. #rPerdi #ril #r",
+      "% #rMAX #rPV.",
       "[Rifiuta]",
       "[Perdi ",
       "] #gRimuovi #gi #gColpi ed #gOttieni #g5 #gMorsi.",
