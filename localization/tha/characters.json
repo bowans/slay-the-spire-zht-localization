@@ -1,0 +1,147 @@
+{
+  "Ironclad": {
+    "NAMES": [
+      "The Ironclad"
+    ],
+    "TEXT": [
+      "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies."
+    ]
+  },
+  "Crowbot": {
+    "NAMES": [
+      "Crowbot"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "The Silent"
+    ],
+    "TEXT": [
+      "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "เมี๊ยว"
+    ],
+    "TEXT": [
+      "~สวัสดี...~ NL ~ฉัน..~ ~ชื่อ~ ~เมี๊ยว...~",
+      "~สวัสดี...~ NL ~อีกรอบ..~",
+      "~ว่างาย...~",
+      "~จะสู้อีก~ NL ~รอบหรอ...?~",
+      "~ไปเจอ~ ~บอส~ ~ก่อน...~ NL ~เดี๋ยว~ ~จะ~ ~ให้~ ~พร...~",
+      "~อย่าง~ ~น้อย...~ ~ไปเจอ~ NL ~บอส~ ~แรก~ ~ก่อน...~",
+      "~ยินดี~ ~ต้อนรับ~ ~กลับ~ ~มา...~",
+      "~เลือกเลย...~",
+      "~จัดไป...~",
+      "~มีรางวัล...~ NL ~..ก็ต้องมีความเสี่ยง....~",
+      "~Time~ ~for~ ~a~ NL ~CHALLENGE...~"
+    ],
+    "OPTIONS": [
+      "[ต่อไป]",
+      "[พูดคุย]",
+      "[ข้าม]",
+      "[ออก]"
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gเลือกการ์ดใส่เด็ค  ]",
+      "[ #gรับการ์ดระดับหายากแบบสุ่ม ]",
+      "[ #gนำการ์ดออกจากเด็ค ]",
+      "[ #gอัพเกรดการ์ด ]",
+      "[ #gแปรรูปการ์ด ]",
+      "[ #gรับ #gPotion #g3 #gขวด ]",
+      "[ #gรับ #gRelic #gระดับธรรมดา #gแบบสุ่ม  ]",
+      "[ #gMax #gHP #g+",
+      "[ #gObtain #g",
+      " #gทอง ]",
+      "#gนำการ์ดออกจากเด็ค #g2 #gใบ ]",
+      "#gรับ #gRelic #gระดับหายาก #gแบบสุ่ม  ]",
+      "#gเลือกรับการ์ดระดับหายาก ]",
+      "#gได้รับ #g",
+      " #gทอง ]",
+      "#gแปรรูปการ์ด #g2 #gใบ ]",
+      "#gMax #gHP #g+",
+      "[ #rเสีย #r",
+      " #rMax #rHP ",
+      "[ #rเสียทองทั้งหมด ",
+      "[ #rรับคำสาป ",
+      "[ #rเสียเลือด #r50% ",
+      "เลือกการ์ด",
+      "เลือกการ์ดที่จะนำออก",
+      "เลือกการ์ด 2 ใบเพื่อจะนำออก",
+      "เลือกการ์ดที่จะแปรรูป",
+      "เลือกการ์ด 2 ใบเพื่อจะแปรรูป",
+      "เลือกการ์ดเพื่ออัพเกรด",
+      "[ #gศัตรูในการต่อสู้ #g3 #gครั้งแรก #gเลือดลดลงเหลือ #g1 ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rเสีย #rRelic #rเริ่มต้นเพื่อรับ #rRelic #gของบอสแบบสุ่ม  ]"
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "ต่อไป",
+      "~สวัสดี!~"
+    ],
+    "TEXT": [
+      "Hi! NL Buy something! NL Buy buy buy!",
+      "I like your haircut",
+      "Do you have the time?",
+      "Are you a dog person or a cat person?",
+      "You look ~dangerous,~ NL hehe...",
+      "Take your time... NL ..... NL ... or not",
+      "Do you like this rug? NL It's not for sale",
+      "Support small business!",
+      "Masks are cool, I would know!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Stay awhile and listen!",
+      "It's dangerous to go alone! Give me all your gold!",
+      "Buy somethin'",
+      "~*YAWN*~",
+      "I like gold.",
+      "My favorite color is blue. NL How bout you?"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Welcome~ NL ~welcome!~",
+      "Hey now, NL you need NL more #rGold.",
+      "Hey buddy, you got no #rMoney!",
+      "You broke?",
+      "You don't got enough #rGold.",
+      "You can't afford that.",
+      "This isn't a charity.",
+      "~Thaaaanks~",
+      "Another sale... NL hohoho! NL Cha - @Ching!@",
+      "@SOLD!@",
+      "No Refunds.",
+      "Have a nice day.",
+      "Leave",
+      "Select a card to remove from your deck."
+    ],
+    "TEXT": [
+      "Hi! NL Buy something! NL Buy buy buy!",
+      "I like your haircut",
+      "Do you have the time?",
+      "Are you a dog person or a cat person?",
+      "You look ~dangerous,~ NL hehe...",
+      "Take your time... NL ..... NL ... or not",
+      "Do you like this rug? NL It's not for sale",
+      "Support small business!",
+      "Masks are cool, I would know!",
+      "Have you seen my courier?",
+      "Stay awhile and listen!",
+      "It's dangerous to go alone! Give me all your gold!",
+      "Buy somethin'",
+      "~*YAWN*~",
+      "I like gold.",
+      "My favorite color is blue. NL How bout you?"
+    ]
+  }
+}

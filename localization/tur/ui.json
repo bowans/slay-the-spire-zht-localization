@@ -103,7 +103,12 @@
       "İspanyolca",
       "İbranice",
       "Türkçe",
-      "İsveççe"
+      "İsveççe",
+      "Norwegian",
+      "Thai",
+      "Serbian",
+      "Ukrainian",
+      "Vietnamese"
     ]
   },
   "Proceed Button": {
@@ -657,7 +662,8 @@
       "Devam Eden Oyundan Çık",
       "Devam Eden Oyundan Çık (onaylamak için tekrar tıklayın)",
       "Ayarlar",
-      "Oyun Geçmişi"
+      "Oyun Geçmişi",
+      "Compendium"
     ]
   },
   "PatchNotesScreen": {
@@ -924,7 +930,51 @@
       " NL NL  #yDeck: NL ",
       " NL NL  #yRelics: NL  ",
       " NL Today's Challenge: NL TAB #yClass: NL TAB ",
-      " NL TAB #yMods: "
+      " NL TAB #yMods: ",
+      "Modifiers: "
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standard",
+      "",
+      "Embark on a quest to Slay the Spire.",
+      "Daily Climb",
+      "",
+      "A new challenge is availble once a day.\n\nCompete with other players for the highest score!",
+      "Ascension",
+      "",
+      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
+      "Card Library",
+      "",
+      "View all of the cards you have encountered throughout the Spire.",
+      "Relic Collection",
+      "",
+      "Examine the various trinkets and artifacts obtained throughout your runs.",
+      "Bestiary",
+      "",
+      "This feature is not yet available.",
+      "Character Stats",
+      "",
+      "The progress and statistics for each character can be seen here.",
+      "Leaderboards",
+      "",
+      "View and compare your score with friends and other players.",
+      "Run History",
+      "",
+      "Revisit your past attempts at slaying the Spire.",
+      "Game Settings",
+      "",
+      "Change your resolution and toggle various options on/off.",
+      "Input Settings",
+      "",
+      "This feature is not yet available.",
+      "Credits",
+      "",
+      "See all of the people who contributed on Slay the Spire!",
+      "Unknown",
+      "",
+      "This feature is not yet available."
     ]
   }
 }

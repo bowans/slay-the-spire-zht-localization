@@ -58,8 +58,8 @@
   },
   "Storm of Steel": {
     "NAME": "鋼の嵐",
-    "DESCRIPTION": "手札を全て捨てる。 NL 捨てたカード 1 枚につき ナイフ を 1 枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "手札を全て捨てる。 NL 捨てたカード 1 枚につき、 アップグレード した ナイフ を 1 枚手札に加える。"
+    "DESCRIPTION": "手札をすべて捨てる。 NL 捨てたカード 1 枚につき ナイフ を 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "手札をすべて捨てる。 NL 捨てたカード 1 枚につき、 アップグレード した ナイフ を 1 枚手札に加える。"
   },
   "Cleave": {
     "NAME": "なぎ払い",
@@ -112,7 +112,7 @@
   },
   "Dagger Spray": {
     "NAME": "五月雨ダガー",
-    "DESCRIPTION": "全ての敵に !D! のダメージを各 2 回与える。"
+    "DESCRIPTION": "すべての敵に !D! のダメージを各 2 回与える。"
   },
   "Bullet Time": {
     "NAME": "バレットタイム",
@@ -154,7 +154,7 @@
   },
   "Unload": {
     "NAME": "アンロード",
-    "DESCRIPTION": "!D! のダメージを与える。 NL 「アタック」以外の全てのカードを捨てる。"
+    "DESCRIPTION": "!D! のダメージを与える。 NL 「アタック」以外のすべてのカードを捨てる。"
   },
   "Blade Dance": {
     "NAME": "剣の舞",
@@ -167,7 +167,7 @@
   "Trip": {
     "NAME": "つまずき",
     "DESCRIPTION": "弱体 !M! を与える。",
-    "UPGRADE_DESCRIPTION": "全ての敵に 弱体 !M! を与える。"
+    "UPGRADE_DESCRIPTION": "すべての敵に 弱体 !M! を与える。"
   },
   "Dagger Throw": {
     "NAME": "ダガースロー",
@@ -258,7 +258,7 @@
   },
   "Clash": {
     "NAME": "クラッシュ",
-    "DESCRIPTION": "手札が全て「アタック」の場合に使用可。 NL !D! のダメージを与える。",
+    "DESCRIPTION": "手札がすべて「アタック」の場合に使用可。 NL !D! のダメージを与える。",
     "EXTENDED_DESCRIPTION": [
       "手札に「アタック」ではないカードがある。"
     ]
@@ -316,7 +316,7 @@
   "Blind": {
     "NAME": "目くらまし",
     "DESCRIPTION": "!M! の 脱力 を与える。",
-    "UPGRADE_DESCRIPTION": "全ての敵に 脱力 !M! を与える。"
+    "UPGRADE_DESCRIPTION": "すべての敵に 脱力 !M! を与える。"
   },
   "Doppelganger": {
     "NAME": "ドッペルゲンガー",
@@ -370,7 +370,7 @@
   },
   "The Bomb": {
     "NAME": "爆弾",
-    "DESCRIPTION": "全ての敵とあなたに!D! のダメージを与える。 NL 廃棄 。"
+    "DESCRIPTION": "すべての敵とあなたに!D! のダメージを与える。 NL 廃棄 。"
   },
   "Sever Soul": {
     "NAME": "霊魂切断",
@@ -403,12 +403,12 @@
   },
   "Calculated Gamble": {
     "NAME": "イカサマ",
-    "DESCRIPTION": "手札を全て捨て、同じ枚数だけカードを引く。 NL 廃棄 。",
-    "UPGRADE_DESCRIPTION": "手札を全て捨て、同じ枚数だけカードを引く。"
+    "DESCRIPTION": "手札をすべて捨て、同じ枚数だけカードを引く。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "手札をすべて捨て、同じ枚数だけカードを引く。"
   },
   "Combust": {
     "NAME": "燃焼",
-    "DESCRIPTION": "ターン終了時にHPを 1 失い、全ての敵に !M! のダメージを与える。"
+    "DESCRIPTION": "ターン終了時にHPを 1 失い、すべての敵に !M! のダメージを与える。"
   },
   "Deep Breath": {
     "NAME": "深呼吸",
@@ -467,11 +467,11 @@
   },
   "Panache": {
     "NAME": "威風堂々",
-    "DESCRIPTION": "1 回のターンで 5 枚のカードを使用するたび、全ての敵に !M! のダメージ。"
+    "DESCRIPTION": "1 回のターンで 5 枚のカードを使用するたび、すべての敵に !M! のダメージ。"
   },
   "Fiend Fire": {
     "NAME": "鬼火",
-    "DESCRIPTION": "手札を全て 廃棄 する。 NL この方法で廃棄した枚数ｘ!D! のダメージを与える。 NL 廃棄 。"
+    "DESCRIPTION": "手札をすべて 廃棄 する。 NL この方法で廃棄した枚数ｘ!D! のダメージを与える。 NL 廃棄 。"
   },
   "Terror": {
     "NAME": "恐怖",
@@ -488,7 +488,7 @@
   "Armaments": {
     "NAME": "武装",
     "DESCRIPTION": "!B! の ブロック を得る。 NL 戦闘終了まで手札のカード 1 枚を アップグレード する。",
-    "UPGRADE_DESCRIPTION": "!B! の ブロック を得る。 NL 戦闘終了まで手札のカード全てを アップグレード する。"
+    "UPGRADE_DESCRIPTION": "!B! の ブロック を得る。 NL 戦闘終了まで手札のカードすべてを アップグレード する。"
   },
   "Havoc": {
     "NAME": "荒廃",
@@ -504,7 +504,7 @@
   },
   "Apotheosis": {
     "NAME": "神格化",
-    "DESCRIPTION": "戦闘終了まで全てのカードを アップグレード する。 NL 廃棄 。"
+    "DESCRIPTION": "戦闘終了まですべてのカードを アップグレード する。 NL 廃棄 。"
   },
   "Feel No Pain": {
     "NAME": "無痛",
@@ -609,8 +609,8 @@
   },
   "Corpse Explosion": {
     "NAME": "死体爆破",
-    "DESCRIPTION": "敵は全ての 毒 を失う。失った毒ｘ2 のダメージを敵全体に与える。",
-    "UPGRADE_DESCRIPTION": "敵は全ての 毒 を失う。失った毒ｘ3 のダメージを敵全体に与える。",
+    "DESCRIPTION": "敵はすべての 毒 を失う。失った毒ｘ2 のダメージを敵全体に与える。",
+    "UPGRADE_DESCRIPTION": "敵はすべての 毒 を失う。失った毒ｘ3 のダメージを敵全体に与える。",
     "EXTENDED_DESCRIPTION": [
       "この敵は 毒 を受けていない。"
     ]
@@ -621,8 +621,8 @@
   },
   "Enlightenment": {
     "NAME": "啓発",
-    "DESCRIPTION": "このターン、あなたの全ての手札のコストは1になる。",
-    "UPGRADE_DESCRIPTION": "戦闘終了まで、あなたの全ての手札のコストは1になる。"
+    "DESCRIPTION": "このターン、あなたのすべての手札のコストは1になる。",
+    "UPGRADE_DESCRIPTION": "戦闘終了まで、あなたのすべての手札のコストは1になる。"
   },
   "Purity": {
     "NAME": "祓い清め",

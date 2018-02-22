@@ -3,13 +3,13 @@
 		"NAME": "Cursed Run",
 		"DESCRIPTION": "Whenever you defeat a Boss, become Cursed."
 	},
-	"Double Elites": {
-		"NAME": "Double Elites",
-		"DESCRIPTION": "Double the amount of elite encounters."
+	"Elite Swarm": {
+		"NAME": "Elite Swarm",
+		"DESCRIPTION": "Elite enemies are swarming the Spire."
 	},
-	"Fat Deck": {
-		"NAME": "Fat Deck",
-		"DESCRIPTION": "You cannot skip choosing card rewards."
+	"Greed": {
+		"NAME": "Greed",
+		"DESCRIPTION": "You cannot skip combat rewards."
 	},
 	"Growing Enemies": {
 		"NAME": "Growing Enemies",
@@ -29,7 +29,7 @@
 	},
 	"Restless Journey": {
 		"NAME": "Restless Journey",
-		"DESCRIPTION": "You no longer heal when entering new levels."
+		"DESCRIPTION": "You no longer heal when entering new acts."
 	},
 	"Slow Start": {
 		"NAME": "Slow Start",
@@ -39,9 +39,17 @@
 		"NAME": "Tough Enemies",
 		"DESCRIPTION": "Enemies have 25% more HP."
 	},
-	"Turtle": {
-		"NAME": "Turtle",
-		"DESCRIPTION": "Start with 1 less Strike and 1 additional Defend."
+	"Shiny": {
+		"NAME": "Shiny",
+		"DESCRIPTION": "Start with 1 Rare card."
+	},
+	"Allstar": {
+		"NAME": "All Star",
+		"DESCRIPTION": "Start with 2 colorless cards."
+	},
+	"Diverse": {
+		"NAME": "Diverse",
+		"DESCRIPTION": "Start with 2 cards from another class."
 	},
 	"Vintage": {
 		"NAME": "Vintage",

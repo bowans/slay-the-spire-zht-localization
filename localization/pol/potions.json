@@ -1,105 +1,105 @@
 {
   "Ancient Potion": {
-    "NAME": "Mikstura Staro¿ytnych",
+    "NAME": "Starożytna Mikstura",
     "DESCRIPTIONS": [
-      "Otrzymujesz #b",
-      " #yartefakt."
+      "Zyskaj #b",
+      " #yArtefakt."
     ]
   },
   "Block Potion": {
-    "NAME": "Mikstura bloku",
+    "NAME": "Mikstura Blokowania",
     "DESCRIPTIONS": [
-      "Dodaje #b",
+      "Zyskaj #b",
       " pkt. #yBloku."
     ]
   },
   "Dexterity Potion": {
-    "NAME": "Mikstura zrêcznoœci",
+    "NAME": "Mikstura Zwinności",
     "DESCRIPTIONS": [
-      "Dodaje #b",
-      " pkt. #yZrêcznoœci."
+      "Zyskaj #b",
+      " pkt. #yZwinności."
     ]
   },
   "Elixir": {
-    "NAME": "Eliksir",
+    "NAME": "Eliksir Oczyszczenia",
     "DESCRIPTIONS": [
       "",
       "",
-      "#yWyklucza wszytkie karty #yStanu oraz #yPrzekleñstw z rêki.",
+      "#yWygnaj wszystkie karty #yStatusu i #yKlątwy z ręki.",
       "",
-      "Nic siê nie sta³o..."
+      " Nie przyniósł żadnego efektu..."
     ]
   },
   "Energy Potion": {
-    "NAME": "Mikstura energii",
+    "NAME": "Mikstura Energii",
     "DESCRIPTIONS": [
-      "Dodaje #b",
-      " pkt. #yEnergii."
+      "Zyskaj #b",
+      " pkt. Energii."
     ]
   },
   "Explosive Potion": {
-    "NAME": "Mikstura eksplozji",
+    "NAME": "Mieszanka Wybuchowa",
     "DESCRIPTIONS": [
-      "Zadaje #b",
-      " pkt. obra¿eñ WSZYSTKIM przeciwnikom."
+      "Zadaj #b",
+      " OBR. WSZYSTKIM przeciwnikom."
     ]
   },
   "Fire Potion": {
-    "NAME": "Mikstura ognia",
+    "NAME": "Płynny Ogień",
     "DESCRIPTIONS": [
-      "Zadaje #b",
-      " pkt. obra¿eñ."
+      "Zadaj #b",
+      " OBR."
     ]
   },
   "Health Potion": {
-    "NAME": "Mikstura lecz¹ca",
+    "NAME": "Mikstura Życia",
     "DESCRIPTIONS": [
-      "Przywraca #b",
-      " P¯."
+      "Odzyskaj #b",
+      " PŻ."
     ]
   },
   "Poison Potion": {
-    "NAME": "Mikstura trucizny",
+    "NAME": "Trucizna",
     "DESCRIPTIONS": [
-      "Nadaje #b",
-      " pkt. #yZatrucia."
+      "Nałóż #b",
+      " pkt. #yTrucizny."
     ]
   },
   "Potion Slot": {
-    "NAME": "Slot mikstury",
+    "NAME": "Miejsce na miksturę",
     "DESCRIPTIONS": [
-      "Korzystaj z mikstur podczas walki, aby otrzymaæ #gbonusy lub #ros³abiæ przeciwników.",
-      "Slot mikstury"
+      "Użyj mikstur podczas potyczki, aby zdobyć #gprzewagę lub #rzaszkodzić wrogom.",
+      "Miejsce na miksturę"
     ]
   },
   "Regen Potion": {
-    "NAME": "Mikstura regeneracji",
+    "NAME": "Mikstura Regeneracji",
     "DESCRIPTIONS": [
-      "Przywraca #b",
-      " #yP¯ pod koniec tury przez #b",
-      " tur(y)."
+      "Odzyskaj #b",
+      " #yPŻ na koniec każdej tury przez #b",
+      " tur."
     ]
   },
   "Strength Potion": {
-    "NAME": "Mikstura si³y",
+    "NAME": "Mikstura Siły",
     "DESCRIPTIONS": [
-      "Dodaje #b",
-      " pkt. #ySi³y."
+      "Zyskaj #b",
+      " pkt. #ySiły."
     ]
   },
   "Swift Potion": {
-    "NAME": "Mikstura chy¿oœci",
+    "NAME": "Mikstura Szybkości",
     "DESCRIPTIONS": [
       "",
-      "Pobierz #b",
-      " kart(y)."
+      "Dobierz #b",
+      " karty."
     ]
   },
   "Weak Potion": {
-    "NAME": "Mikstura os³abienia",
+    "NAME": "Mikstura Osłabienia",
     "DESCRIPTIONS": [
-      "Nadje #b",
-      " pkt. #yS³aboœci."
+      "#yOsłab na #b",
+      " tur."
     ]
   }
 }

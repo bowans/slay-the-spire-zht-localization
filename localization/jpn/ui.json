@@ -49,8 +49,8 @@
       "%1$d %2$s",
       "%1$s (%2$d):",
       "スコア: %d",
-      "全てのキャラクター",
-      "全ての結果",
+      "すべてのキャラクター",
+      "すべての結果",
       "クリア",
       "失敗"
     ]
@@ -103,7 +103,12 @@
       "Spanish",
       "Hebrew",
       "Turkish",
-      "Swedish"
+      "Swedish",
+      "Norwegian",
+      "Thai",
+      "Serbian",
+      "Ukrainian",
+      "Vietnamese"
     ]
   },
   "Proceed Button": {
@@ -386,7 +391,7 @@
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "山札が全てなくなると、ここにあるカードを山札に混ぜる。",
+      "山札がすべてなくなると、ここにあるカードを山札に混ぜる。",
       "戻る",
       "捨て札"
     ]
@@ -601,6 +606,24 @@
       "Playtester Art Mode"
     ]
   },
+  "DailyScreen": {
+    "TEXT": [
+      "デイリーチャレンジ",
+      "タイムサーバーに接続中…",
+      "今日のチャレンジは完了している。",
+      "戻る",
+      "攻略開始",
+      "今日のキャラクター: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "残り時間: ",
+      "#yFloor #yReached: NL  ",
+      " NL NL  #yデッキ: NL ",
+      " NL NL  #yレリック: NL  ",
+      " NL 今日のチャレンジ: NL TAB #yクラス: NL TAB ",
+      " NL TAB #yMods: ",
+      "Modifiers: "
+    ]
+  },
   "SettingsScreen": {
     "TEXT": [
       "本当にいいのか？",
@@ -662,7 +685,8 @@
       "今回のプレイを破棄する",
       "今回のプレイを破棄する（再度クリックで決定）",
       "設定",
-      "プレイ履歴"
+      "プレイ履歴",
+      "Compendium"
     ]
   },
   "CreditsScreen": {
@@ -910,21 +934,47 @@
       "彼方"
     ]
   },
-  "DailyScreen": {
+  "MenuPanels": {
     "TEXT": [
-      "Daily Challenge",
-      "Connecting to Time Server...",
-      "You have done today's challenge",
-      "Return",
-      "Embark",
-      "Today's character: ",
-      "dd/MM/yyyy HH:mm:ss",
-      "Time Left: ",
-      "#yFloor #yReached: NL  ",
-      " NL NL  #yDeck: NL ",
-      " NL NL  #yRelics: NL  ",
-      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
-      " NL TAB #yMods: "
+      "Standard",
+      "",
+      "Embark on a quest to Slay the Spire.",
+      "Daily Climb",
+      "",
+      "A new challenge is available once a day.\n\nCompete with other players for the highest score!",
+      "Ascension",
+      "",
+      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
+      "Card Library",
+      "",
+      "View all of the cards you have encountered throughout the Spire.",
+      "Relic Collection",
+      "",
+      "Examine the various trinkets and artifacts obtained throughout your runs.",
+      "Bestiary",
+      "",
+      "This feature is not yet available.",
+      "Character Stats",
+      "",
+      "The progress and statistics for each character can be seen here.",
+      "Leaderboards",
+      "",
+      "View and compare your score with friends and other players.",
+      "Run History",
+      "",
+      "Revisit your past attempts at slaying the Spire.",
+      "Game Settings",
+      "",
+      "Change your resolution and toggle various options on/off.",
+      "Input Settings",
+      "",
+      "This feature is not yet available.",
+      "Credits",
+      "",
+      "See all of the people who contributed on Slay the Spire!",
+      "Unknown",
+      "",
+      "This feature is not yet available."
     ]
   }
 }

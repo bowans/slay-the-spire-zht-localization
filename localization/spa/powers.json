@@ -772,5 +772,12 @@
       "Cada vez que juegues una Habilidad, inflige ",
       " de daño a un enemigo aleatorio."
     ]
+  },
+  "GrowthPower": {
+    "NAME": "Growth",
+    "DESCRIPTIONS": [
+      "At the end of its turn, gains #b",
+      " #yStrength."
+    ]
   }
 }

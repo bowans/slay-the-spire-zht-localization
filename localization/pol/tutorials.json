@@ -1,13 +1,13 @@
 {
   "Main Tutorial": {
     "TEXT": [
-      "Pokonuj przeciwników rzucaj¹c kartami NL z dostêpnej rêki! NL NL Karty wymagaj¹ #yEnergii do rzucenia. NL Kiedy wykonasz wszystkie ruchy, zakoñcz turê. NL NL Na pocz¹tku ka¿dej tury nowe karty pobierane s¹ ze stosu rozgrywaj¹cego, a twoja #yEnergia jest odnawiana.",
-      "Rzucaj kartami defensywnymi, NL aby otrzymaæ punkty #yBloku do obrony NL przed atakuj¹cym wrogiem. NL NL #yBlok zmniejsza otrzymywane obra¿enia, NL ale #rprzestaje #rdzia³aæ z pocz¹tkiem kolejnej tury.",
-      "W trakcie twojej tury mo¿esz obserwowaæ #yZamiar przeciwnika nad jego g³ow¹. NL NL Jeœli wróg zamierza ciê zaatakowaæ, upewnij siê, NL ¿e masz wystarczaj¹co du¿o punktów #yBloku!"
+      "Pokonaj przeciwników zagrywając karty z ręki! NL NL Karty wymagają #yEnergii do zagrania. NL Kiedy ci się skończy, zakończ swoją turę. NL NL Na początku nowej tury, Dobrane zostają nowe karty a #yEnergia zostaje uzupełniona.",
+      "Zagraj defensywne karty, aby zyskać pkt. #yBloku kiedy wrogowie zamierzają cię atakować. NL NL #Blok redukuje przychodzące obrażenia ale NL #rzużywa #rsię na początku twojej następnej tury.",
+      "Podczas swojej tury, możesz zobaczyć nad wrogiem jego #yZamiar. NL NL Jeżeli jego zamiarem jest atak, pamiętaj, żeby zyskać #yBlok!"
     ],
     "LABEL": [
       "Dalej",
-      "Poradzê sobie!",
+      "Jestem gotów!",
       "Samouczek",
       "(Strona ",
       " z 3)"
@@ -16,13 +16,13 @@
   "FTUE Tips": {
     "TEXT": [],
     "LABEL": [
-      "Porada: ",
-      "Jasne"
+      "Rada: ",
+      "Wszystko jasne"
     ]
   },
   "Potion Tip": {
     "TEXT": [
-      "Pij lub rzucaj mikstury w trakcie walki! NL Mikstury mo¿esz przenosiæ pomiêdzy pomieszczeniami."
+      "Wypij lub rzuć miksturę podczas potyczki! NL Mikstury zostają z tobą pomiędzy pokojami."
     ],
     "LABEL": [
       "Mikstury"
@@ -30,113 +30,113 @@
   },
   "Energy Tip": {
     "TEXT": [
-      "Karty potrzebuj¹ energii do rzucania! NL Ta kula w lewym dolnym rogu pokazuje ile punktów energii masz jeszcze do wykorzystania w tej turze."
+      "Karty wymagają energii do zagrywania! NL Ta kula po lewej na dole wskazuje ile jeszcze pkt. energii zostało ci w tej turze."
     ],
     "LABEL": [
-      "Koszt energii"
+      "Koszt Energii"
     ]
   },
   "Shuffle Tip": {
     "TEXT": [
-      "NL Jeœli karty stosu rozgrywaj¹cego siê skoñcz¹, NL karty ze stosu odrzuconych zostan¹ do niego przeniesione."
+      "NL Jeżeli nie ma już kart do Dobrania, twoja Pula Kart Odrzuconych zostaje potasowana do twojej Puli Kart do Dobrania."
     ],
     "LABEL": [
-      "Gdzie s¹ moje karty?"
+      "Skończyły się karty?"
     ]
   },
   "Player Tips": {
     "TEXT": [
-      "Ta karta, po rzuceniu, nadaje bohaterowi Moc. NL Moce to pasywne zdolnoœci, które dzia³aj¹ przez ca³¹ potyczkê.",
-      "Te karty równie¿ wymagaj¹ energii do rzucenia! NL Ta kula w lewym dolnym rogu pokazuje ile punktów energii masz jeszcze do wykorzystania w tej turze.",
-      "Moja #rRêka #rjest #rpe³na!"
+      "Ta karta, kiedy użyta, daje ci Moc. NL Moce to pasywne zdolności, które są aktywne przez całą potyczkę.",
+      "Karty wymagają energii do zagrywania! NL Ta kula po lewej na dole wskazuje ile jeszcze pkt. energii zostało ci w tej turze.",
+      "Moja #rRĘKA #rjest #rPEŁNA!"
     ],
     "LABEL": [
-      "Karty mocy",
-      "Koszt energii"
+      "Karty Mocy",
+      "Koszt Energii"
     ]
   },
   "Relic Tip": {
     "TEXT": [
-      "Rozsiane po ca³ej Iglicy artefakty gwarantuj¹ unikalne bonusy, pozostaj¹c w ekwipunku przez ca³¹ wyprawê. NL Zdobyæ je mo¿na po pokonaniu potê¿nych przeciwnków lub z rozproszonych po Iglicy skrzyñ.",
-      "Ten artefakt nale¿y najpierw odnaleŸæ.",
-      "Przedmiot straci³ swoj¹ mocy."
+      "relikty znalezione w Iglicy dają unikatowe bonusy, które są aktywne przez całą rozgrywkę, NL ale pamiętaj, w przypadku śmierci tracisz wszystkie zdobyte relikty. NL relikty można znaleźć po pokonaniu potężnych przeciwników albo w skrzyniach.",
+      "Ten relikt pozostaje do odkrycia.",
+      "Jego moc jest już cała zużyta."
     ],
     "LABEL": [
-      "Artefakty",
+      "relikty",
       "Nieznany",
-      "Ten artefakt nale¿y odblokowaæ.",
+      "Ten relikt musi jeszcze zostać odblokowane.",
       "Zablokowane"
     ]
   },
   "Rewards Tip": {
     "TEXT": [
-      "Nie zapommnij o nagrodach! NL Kliknij na nie, aby je zebraæ."
+      "Nie zapomnij swoich nagród! NL Po prostu na nie kliknij, aby je zebrać."
     ],
     "LABEL": [
-      "£upy"
+      "Łupy"
     ]
   },
   "Draw Tip": {
     "TEXT": [
-      "Na pocz¹tku ka¿dej tury NL ",
-      " pobierasz #b kart(y). NL NL Kliknij, aby zobaczyæ karty ze stosu rozgrywaj¹cego (po przetasowaniu).",
-      " pobierasz #b kart(y). NL NL Kliknij, aby zobaczyæ karty ze stosu rozgrywaj¹cego."
+      "Na początku każdej tury, NL Dobierzesz kart: #b",
+      " . NL NL Kliknij, aby wyświetlić karty ze Stosu Kart do Dobrania (potasowane).",
+      " karty są Dobierane stąd. NL NL Kliknij, aby wyświetlić karty ze Stosu Kart do Dobrania."
     ],
     "LABEL": [
-      "Stos rozgrywaj¹cy"
+      "Pula kart do Dobrania"
     ]
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Kliknij, aby zobaczyæ karty Wykluczone z walki."
+      "Kliknij, aby wyświetlić karty, które zostały Wygnane podczas tej potyczki."
     ],
     "LABEL": [
-      "Wykluczone karty"
+      "Wygnane karty"
     ]
   },
   "Options Tip": {
     "TEXT": [
-      "Informacje o rozgrywce oraz logi b³êdów s¹ wysy³ane do Mega Crit, aby wspomóc proces balansowania mechanik gry. NL NL Dane osobowe NIE s¹ zbierane.",
-      "Slay the Spire dzia³a najlepiej w trybie pe³noekranowym. Jest on zalecany dla OSX, gdy¿ Dock oraz pasek menu s¹ schowane. NL Uwaga: Na komputerach osobistych w trybie pe³noekranowym mo¿e nie dzia³aæ kombinacja ALt+Tab.",
-      "Jako ¿e Slay the Spire to gra o niewielkich wymaganiach sprzêtowych, zalecami korzystanie z bezramkowego tryby pe³noekranowego dla sprawnego alt-tabowania.",
-      "Uwaga: W³¹czenie Synchronizacji pionowej ograniczy liczbê klatek na sekundê do maksymalnej wartoœci odœwie¿ania monitora."
+      "Dane z gry i logi błędów są wysyłane do Mega Crit w celu z balansowania. NL NL Dane personalne NIE są wysyłane.",
+      "Slay the Spire działa najlepiej w trybie Pełnego ekranu. Rekomendowane dla OSX. NL NOTKA: Skrót alt-tab może nie działać poprawnie.",
+      "Slay the Spire rekomendowany tryb do używania skrótu alt-tab.",
+      "NOTKA: Jeżeli VSYNC jest włączony, FPS'y nie przekroczą limitu odświeżania monitora."
     ],
     "LABEL": [
-      "Telemetria",
-      "Pe³ny ekran",
-      "Bezramkowy pe³ny ekran",
-      "Maksymalny klatka¿"
+      "Metryki",
+      "Pełny ekran",
+      "Bez krawędzi",
+      "Maksymalne FPS'y"
     ]
   },
   "Shop Tip": {
     "TEXT": [
-      "Usuñ kartê z talii. Koszt us³ugi zostanie zwiêkszony o #b",
-      " na czas trwania tej wyprawy."
+      "Usuń kartę z talii. Koszt tej usługi wzrasta o #b",
+      " do końca rozgrywki."
     ],
     "LABEL": [
-      "Us³ugi usuwania kart"
+      "Usługa Usuwania Kart"
     ]
   },
   "End Turn Tip": {
     "TEXT": [
-      "Wciœniêcie tego przycisku zakoñczy turê. NL NL Karty zostan¹ odrzucone, przeciwnik wykona swój ruch, poci¹gniesz  ",
-      " kart(y) i znów mo¿esz wykonaæ ruch."
+      "Naciśnięcie tego przycisku zakończy twoją turę. NL NL Odrzucisz rękę, wrogowie wykonają swój ruch, Dobierzesz ",
+      " kart, wtedy rozpocznie się twoja tura."
     ],
     "LABEL": [
-      "Koniec tury"
+      "Zakończ Turę"
     ]
   },
   "Discard Tip": {
     "TEXT": [
-      "Jeœli twój stos rozgrywaj¹cy jest pusty, stos kart odrzuconych zostanie przetasowany NL i przeniesiony do kart rozgrywaj¹cych. NL NL Kliknij, aby zobaczyæ karty NL ze stosu odrzuconych."
+      "Jeżeli pula kart do Dobrania jest pusta, pula kart Odrzuconych zostaje do niej przetasowana. NL NL Kliknij, aby wyświetlić karty w puli kart Odrzuconych."
     ],
     "LABEL": [
-      "Stos odrzuconych"
+      "Pula Kart Odrzuconych"
     ]
   },
   "Energy Panel Tip": {
     "TEXT": [
-      "Wartoœæ obecnie posiadanej energii. Karty wymagaj¹ jej do dzia³ania."
+      "Aktualna liczba energii. Karty wymagają energii do zagrywania."
     ],
     "LABEL": [
       "Energia"
@@ -144,76 +144,76 @@
   },
   "Potion Panel Tip": {
     "TEXT": [
-      "Rzuæ tê miksturê w przeciwnika.",
-      "Wypij tê miksturê.",
-      "Pozbywasz siê tej mikstury NL (#rnie #mo¿na #rcofn¹æ #rtej #rczynnoœci)"
+      "Rzuć tą miksturą w przeciwnika.",
+      "Wypij miksturę.",
+      "Wyrzuć miksturę NL #r(nie #rma #rodwrotu)"
     ],
     "LABEL": [
-      "Rzuæ",
+      "Rzuć",
       "Wypij",
-      "Wyrzuæ"
+      "Wyrzuć"
     ]
   },
   "Top Panel Tips": {
     "TEXT": [
-      "Otwieraj¹ menu gry. NL NL Zmieñ opcje graficzne, dŸwiêkowe oraz preferencje rozgrywki.",
-      "Przegl¹daj wszystkie karty NL w twojej talii.",
-      "Obejrzyj mapê NL obecnego poziomu.",
-      "Kiedy skoñcz¹ ci siê P¯, umierasz.",
-      "Pokazuje iloœæ posiadanego z³ota. Jest ono g³ówn¹ walut¹ w Iglicy.",
-      "Obtained whenever you defeat a #yBoss. NL What could this be for...?",
-      "Obtained whenever you defeat a #yBoss. NL Feed these to #yNeow to unlock items and earn bonuses for new runs.",
-      "Elapsed time for this run."
+      "Otwiera menu gry. NL NL Możesz tutaj zmienić ustawienia grafiki, dźwięku i rozgrywki.",
+      "Wyświetl wszystkie karty w talii.",
+      "Wyświetl mapę aktu.",
+      "Jeżeli skończą ci się PŻ, umierasz.",
+      "Pokazuje ile posiadasz Sztuk Złota. Złoto jest walutą w Iglicy.",
+      "",
+      "",
+      "Odmierza czas rozgrywki."
     ],
     "LABEL": [
       "Ustawienia",
       "Talia",
       "Mapa",
-      "Punkty ¯ycia (P¯)",
-      "Mieszek ze z³otem",
-      "Run Timer"
+      "Punkty Życia (PŻ)",
+      "Sakiewka",
+      "Stoper"
     ]
   },
   "Random Tips": {
     "TEXT": [
-      "Dyskutuj z innymi graczami, aby poznwaæ nowe i bardziej efektywne strategie.",
-      "Przed walk¹ z bossem zawsze znajduje siê obóz.",
-      "Z³oto wydawaj w sklepach! (porada op³acona przez Handlarza)",
-      "Rób przerwy od czasu do czasu.",
-      "¯aden przeciwnik nie wykona tego samego ruchu 3 razy pod rz¹d.",
-      "Obliczenia na procentach s¹ pod koniec zaokr¹glane w dó³.",
-      "Podczas walki mo¿esz przegl¹daæ karty w stosie rozgrywaj¹cym oraz odrzuconych.",
-      "Mo¿na uzyskaæ przydatne informacje poprzez najechanie kursorem na wiêkszoœæ obiektów.",
-      "Mo¿esz w³¹czyæ lub wy³¹czyæ porady klikaj¹c przycisk '?' w prawym górnym rogu.",
-      "Wciœniêcie prawego przycisku myszy (PPM) zwoli dowoln¹ aktualnie trzyman¹ kartê.",
-      "NajedŸ kursorem nad przeciwnikiem, aby poznaæ jego nazwê oraz informacje o sile.",
-      "U¿ywaj rolki myszy lub przeci¹gania kursorem, aby przemieszczaæ siê po ekranie.",
-      "Zmiana kursora w lupê oznacza, ¿e mo¿esz podejrzeæ szczegó³y obiektu.",
-      "Mo¿esz nosiæ dowoln¹ iloœc artefaktów.",
-      "Skrzynie zawsze zawieraj¹ artefakty.",
-      "Ka¿da, dowolnie wybrana, œcie¿ka posiada przynajmniej jedno pomieszczenie ze skarbem.",
-      "U¿ywaj rolki myszy lub przeci¹gania kursorem, aby poruszaæ siê po mapie, ekranie kart i innych.",
-      "Elitarne jednostki zawsze pozostawiaj¹ artefakty.",
-      "Nigdy nie trafisz na ten sam artefakt dwa razy podczas wyprawy.",
-      "Niepospolite karty posiadaj¹ niebiesk¹ ramkê i wst¹¿kê.",
-      "Rzadkie karty posiadaj¹ z³ot¹ ramkê i wst¹¿kê.",
-      "Rzadkoœæ karty mo¿na poznaæ zawsze po jej wygl¹dzie.",
-      "Nie zawsze warto jest dodwaæ kartê do talii.",
-      "Karty wykluczone podczas potyczki nie s¹ usuwane z talii.",
-      "Na raz w rêcê mo¿esz mieæ do 10 kart.",
-      "Karty stanu s¹ usuwane z talii po zakoñczeniu potyczki.",
-      "Przeklête karty nie podlegaj¹ ulepszaniu. Czemu w ogóle o tym myœlisz?",
-      "Ulepszone karty mog¹ ukazaæ siê jako nagrody po Akcie 1.",
-      "Mikstur mo¿na u¿ywaæ jedynie podczas walki.",
-      "Mikstury mo¿na siê podczas walki pozbyæ.",
-      "Nieznane pomieszczenia (ze znakiem'?') mog¹ zawieraæ skarby, wrogów, sklepy oraz ró¿ne wydarzenia.",
-      "Handlarz nie przyjmuje zwrotów. To dlatego, ¿e jest bucem.",
-      "Us³uga usuwania kart jest dro¿sza za ka¿dym kolejnym u¿yciem.",
-      "Us³uga usuwania kart mo¿e zostaæ u¿yta tylko raz podczas pobytu w sklepie.",
-      "Obra¿enia od mikstury, artefaktów oraz mocy nie s¹ zaliczane do obra¿eñ bezpoœrednich."
+      "Rozmawiaj z innymi graczami, aby odkryć nowe taktyki.",
+      "Przed każdym bossem jest miejsce odpoczynku.",
+      "Wydaj złoto u Kupca! (Wskazówka opłacona przez Kupca)",
+      "Od czasu do czasu weź sobie krótką przerwę.",
+      "Żaden przeciwnik nie wykona tej samej akcji 3 razy pod rząd.",
+      "Obliczenia procentowe zawsze są na końcu zaokrąglane w dół.",
+      "Podczas potyczki, możesz wyświetlić zawartość puli kart do Dobrania jak i puli kart Odrzuconych.",
+      "Przydatne informacje wyświetlane są po najechani na większość obiektów.",
+      "Włącz lub wyłącz wskazówki klikając przycisk ? w prawym górnym rogu.",
+      "Prawym przyciskiem myszy wypuścisz kartę, którą trzymasz.",
+      "Najedź na przeciwnika, żeby zobaczyć jego nazwę i Moc.",
+      "Aby przewijać użyj kółka myszy lub kliknij i przesuń.",
+      "Jeżeli możesz zbadać przedmiot, twój kursor zamieni się w szkło powiększające.",
+      "Nie ma limitu ile reliktów możesz posiadać.",
+      "W skrzyniach zawsze znajdziesz relikt.",
+      "Nie ważne którędy pójdziesz, zawsze na twojej drodze będzie przynajmniej jedna skrzynia.",
+      "Elitarni przeciwnicy zawsze zostawiają po sobie relikt.",
+      "Podczas rozgrywki nie zobaczysz dwa razy tego samego reliktu.",
+      "Niezwyczajne karty mają niebieską ramkę i baner.",
+      "Rzadkie karty mają złotą ramkę i baner.",
+      "Rzadkość karty można rozpoznać po samej karcie.",
+      "Nie zawsze opłaca się dodać kartę do talii.",
+      "Karty Wygnane podczas potyczki nie są usuwane z talii.",
+      "W ręku możesz mieć maksymalnie 10 kart.",
+      "Karty Statusu znikają po walce.",
+      "Klątwy nie mogą być Ulepszone. Po co miałbyś to robić?",
+      "Po 1 Akcie nagrodami mogą być Ulepszone karty.",
+      "Mikstury mogą być użyte tylko w trakcie potyczki.",
+      "Mikstur nie można wyrzucić w trakcie potyczki.",
+      "Nieznane(?) pokoje mogą zawierać skrzynie, potyczki, kupca lub wydarzenia.",
+      "Kupiec nie oferuje zwrotów. To kretyn.",
+      "Usługa Usuwania Kart kosztuje więcej po każdym użyciu.",
+      "Usługa Usuwania Kart przy każdym napotkaniu kupca może być użyta tylko raz.",
+      "Obrażenia od mikstur, reliktów, i mocy nie są obrażeniami od ataku.",
+      "Damage from potions, relics, and powers are not considered attack damage."
     ],
     "LABEL": [
-      "Mo¿esz wyrzucaæ mikstury, aby zwolniæ miejsce dla innych."
+      "Możesz Odrzucić mikstury, aby zrobić miejsce na nowe."
     ]
   }
 }

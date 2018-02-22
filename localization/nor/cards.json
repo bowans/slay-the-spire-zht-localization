@@ -1,0 +1,869 @@
+{
+  "Grand Finale": {
+    "NAME": "Den store finalen",
+    "DESCRIPTION": "Kan kun spilles hvis det ikke er kort i trekkebunken din. NL Påfør ALLE fiender !D! skade.",
+    "UPGRADE_DESCRIPTION": "Trekkebunken min NL må være #rtom."
+  },
+  "Immolate": {
+    "NAME": "Brannoffer",
+    "DESCRIPTION": "Kast 1 kort. Hvis det valgte kortet var en status eller en forbannelse, påfør ALLE fiender !D! skade."
+  },
+  "Regret": {
+    "NAME": "Anger",
+    "DESCRIPTION": "Kan ikke spilles. NL På slutten av turen din mister du 1 HP for hvert av kortene du har på hånda."
+  },
+  "Crippling Poison": {
+    "NAME": "Forkrøplende gift",
+    "DESCRIPTION": "Påfør !M! gift. NL Svekk med !M!."
+  },
+  "A Thousand Cuts": {
+    "NAME": "Tusen kutt",
+    "DESCRIPTION": "Når du spiller et kort, påfør ALLE fiender !M! skade."
+  },
+  "Spot Weakness": {
+    "NAME": "Se svakheter",
+    "DESCRIPTION": "Hvis en fiende planlegger å angripe deg, øk styrken med !M!."
+  },
+  "Wound": {
+    "NAME": "Skade",
+    "DESCRIPTION": "Kan ikke spilles."
+  },
+  "Writhe": {
+    "NAME": "Vri seg",
+    "DESCRIPTION": "Kan ikke spilles. NL Startkort."
+  },
+  "Dark Shackles": {
+    "NAME": "Mørke lenker",
+    "DESCRIPTION": "Fienden mister !M! styrke resten av denne runden. NL Vrakes."
+  },
+  "Glass Knife": {
+    "NAME": "Glasskniv",
+    "DESCRIPTION": "Påfør !D! skade to ganger. Glassknivens skade minsker med 2 denne kampen."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Kappe og dolk",
+    "DESCRIPTION": "Blokker !B! skade. NL Få !M! kniv på hånda.",
+    "UPGRADE_DESCRIPTION": "Blokker !B! skade. NL Få !M! kniver på hånda."
+  },
+  "Underhanded Strike": {
+    "NAME": "Underhåndsslag",
+    "DESCRIPTION": "Kan ikke spilles. NL Hvis dette kartet kastes fra hånda, påfør en tilfeldig fiende !D! skade.",
+    "EXTENDED_DESCRIPTION": [
+      "Jeg kan ikke spille dette kortet."
+    ]
+  },
+  "Anger": {
+    "NAME": "Sinne",
+    "DESCRIPTION": "Påfør !D! skade. NL Legg en ekstra kopi av dette kortet i kastebunken din."
+  },
+  "Storm of Steel": {
+    "NAME": "Stålstorm",
+    "DESCRIPTION": "Kast alle kortene du har på hånda. NL Motta 1 kniv på hånda for hvert kort du kastet.",
+    "UPGRADE_DESCRIPTION": "Kast alle kortene du har på hånda. NL Motta 1 oppgradert kniv på hånda for hvert kort du kastet."
+  },
+  "Cleave": {
+    "NAME": "Kløyv",
+    "DESCRIPTION": "Påfør ALLE fiender !D! skade."
+  },
+  "Inflame": {
+    "NAME": "Flammende provokasjon",
+    "DESCRIPTION": "Øk styrken med !M!."
+  },
+  "Wraith Form": {
+    "NAME": "Vrikkende form",
+    "DESCRIPTION": "Når du spiller en egenskap, påfør en tilfeldig fiende !M! skade."
+  },
+  "Sadistic Nature": {
+    "NAME": "Sadistisk av natur",
+    "DESCRIPTION": "Når du gir en fiende en negativ effekt, tar de !M! skade."
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "Mist 3 HP. NL Øk Styrken med !M!. NL Vrakes."
+  },
+  "Offering": {
+    "NAME": "Offer",
+    "DESCRIPTION": "Mist 4 HP. NL Få [R] [R]. NL Trekk !M! kort. NL Vrakes."
+  },
+  "Exhume": {
+    "NAME": "Grav opp",
+    "DESCRIPTION": "Velg et vraket kort og få det tilbake på hånda. NL Vrakes."
+  },
+  "Power Through": {
+    "NAME": "Gå på!",
+    "DESCRIPTION": "Motta 2 skadekort på hånda. NL Blokker !B! skade."
+  },
+  "Dual Wield": {
+    "NAME": "Tohåndsvåpen",
+    "DESCRIPTION": "Skap en kopi av et angrepskort eller en egenskap som du har på hånda.",
+    "UPGRADE_DESCRIPTION": "Skap 2 kopier av et angrepskort eller en egenskap som du har på hånda."
+  },
+  "Deadly Poison": {
+    "NAME": "Dødelig gift",
+    "DESCRIPTION": "Påfør !M! gift."
+  },
+  "Leg Sweep": {
+    "NAME": "Krøkfot",
+    "DESCRIPTION": "Svekk med !M!. NL Blokker !B! skade."
+  },
+  "Flex": {
+    "NAME": "Vis muskler",
+    "DESCRIPTION": "Øk styrken med !M!. NL På slutten av denne runder mister du !M! i styrke."
+  },
+  "Dagger Spray": {
+    "NAME": "Dolkesprut",
+    "DESCRIPTION": "Påfør ALLE fiender !D! skade to ganger."
+  },
+  "Bullet Time": {
+    "NAME": "Bullet Time",
+    "DESCRIPTION": "Du kan ikke trekke kort denne runden. Reduser kostnaden av alle kortene på hånda til 0 denne rundern."
+  },
+  "Catalyst": {
+    "NAME": "Katalysator",
+    "DESCRIPTION": "Doble en fiendes forgiftning. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Triple en fiendes forgiftning. NL Vrakes."
+  },
+  "Reaper": {
+    "NAME": "Døden",
+    "DESCRIPTION": "Påfør ALLE fiender !D! skade. Helbred deg selv tilsvarende påført, ublokkert skade. NL Vrakes."
+  },
+  "Shiv": {
+    "NAME": "Kniv",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Vrakes."
+  },
+  "Tactician": {
+    "NAME": "Taktiker",
+    "DESCRIPTION": "Kan ikke spilles. NL Hvis dette kortet kastes fra hånda får du [G].",
+    "UPGRADE_DESCRIPTION": "Kan ikke spilles. NL Hvis dette kortet kastes fra hånda får du [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Jeg kan ikke spille dette kortet."
+    ]
+  },
+  "Bane": {
+    "NAME": "Pine",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Hvis fienden er forgiftet, påfør !D! skade en gang til."
+  },
+  "Infernal Blade": {
+    "NAME": "Infernalske angrep",
+    "DESCRIPTION": "Få et tilfeldig angrep på hånda. NL Det koster 0 denne runden. NL Vrakes."
+  },
+  "After Image": {
+    "NAME": "Luftspeiling",
+    "DESCRIPTION": "Når du spiller et kort, blokker 1 skade.",
+    "UPGRADE_DESCRIPTION": "Startkort. NL Når du spiller et kort, blokker 1 skade."
+  },
+  "Unload": {
+    "NAME": "Tømming",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Kast alle kortene som ikke er angrep."
+  },
+  "Blade Dance": {
+    "NAME": "Knivdans",
+    "DESCRIPTION": "Få !M! kniver på hånda."
+  },
+  "Deflect": {
+    "NAME": "Avled",
+    "DESCRIPTION": "Blokker !B! skade."
+  },
+  "Trip": {
+    "NAME": "Snuble",
+    "DESCRIPTION": "Påfør en fiende !M! sårbar.",
+    "UPGRADE_DESCRIPTION": "Påfør ALLE fiender !M! sårbar."
+  },
+  "Dagger Throw": {
+    "NAME": "Dolkekast",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Trekk 1 kort. NL Kast 1 kort."
+  },
+  "Brutality": {
+    "NAME": "Brutalitet",
+    "DESCRIPTION": "På starten av runden, mist 1 HP og trekk 1 kort.",
+    "UPGRADE_DESCRIPTION": "Startkort. NL På starten av runden, mist 1 HP og trekk 1 kort."
+  },
+  "Iron Wave": {
+    "NAME": "Jernbølge",
+    "DESCRIPTION": "Blokker !B! skade. NL Påfør en fiende !D! skade."
+  },
+  "Reckless Charge": {
+    "NAME": "Fryktløst angrep",
+    "DESCRIPTION": "Bli 1 sårbar. NL Påfør en fiende !D! skade."
+  },
+  "Decay": {
+    "NAME": "Forfall",
+    "DESCRIPTION": "Kan ikke spilles. NL På slutten av runden din tar du 2 skade."
+  },
+  "Tools of the Trade": {
+    "NAME": "Verktøyene som trengs",
+    "DESCRIPTION": "I starten av runden din, trekk 1 kort og kast 1 kort."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Dramatisk entrè",
+    "DESCRIPTION": "Startkort. NL Påfør ALLE fiender !D! skade. NL Vrakes."
+  },
+  "Hemokinesis": {
+    "NAME": "Blodkontroll",
+    "DESCRIPTION": "Tap !M! HP. NL Påfør en fiende !D! skade."
+  },
+  "Intimidate": {
+    "NAME": "True",
+    "DESCRIPTION": "Svekk ALLE fiender !M!. NL Vrakes."
+  },
+  "Necronomicurse": {
+    "NAME": "Dødsforbannelsen",
+    "DESCRIPTION": "Kan ikke spilles. NL Denne forbannelsen kan man ikke komme unna."
+  },
+  "Choke": {
+    "NAME": "Kvelning",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Når du spiller et kort denne runden får mister denne fienden !M! HP."
+  },
+  "Juggernaut": {
+    "NAME": "Kjempekraft",
+    "DESCRIPTION": "Når du øker skadeblokkeringen din, påfør en tilfeldig fiende !M! skade."
+  },
+  "Caltrops": {
+    "NAME": "Fotangel",
+    "DESCRIPTION": "Når du blir angrepet gir du angriperen !M! skade."
+  },
+  "Poisoned Stab": {
+    "NAME": "Giftig stikk",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Forgift samme fiende !M!."
+  },
+  "Blur": {
+    "NAME": "Uklar",
+    "DESCRIPTION": "Blokker !B! skade. NL Skadeblokkeringen fjernes ikke i starten av din neste runde."
+  },
+  "Body Slam": {
+    "NAME": "Kroppstakling",
+    "DESCRIPTION": "Påfør en fiende skade tilsvarende din nåværende skadeblokkering.",
+    "UPGRADE_DESCRIPTION": " NL (Påfører !D! skade.)"
+  },
+  "True Grit": {
+    "NAME": "Et ekte mannfolk",
+    "DESCRIPTION": "Blokker !B! skade. NL Vrak et tilfeldig kort du har på hånda.",
+    "UPGRADE_DESCRIPTION": "Blokker !B! skade. NL Vrak et valgfritt kort du har på hånda."
+  },
+  "Setup": {
+    "NAME": "Oppsett",
+    "DESCRIPTION": "Plasser et kart du har på hånda øverst i trekkebunken din. NL Kortet koster 0 inntil det spilles."
+  },
+  "Blood for Blood": {
+    "NAME": "Blod for Blod",
+    "DESCRIPTION": "Koster 1 mindre [R] NL hver gang du mister HP i kampen. NL Påfør en fiende !D! skade."
+  },
+  "Impervious": {
+    "NAME": "Ugjennomtrengelig",
+    "DESCRIPTION": "Blokker !B! skade. NL Vrakes."
+  },
+  "Shrug It Off": {
+    "NAME": "Whatevs",
+    "DESCRIPTION": "Blokker !B! skade. NL Trekk 1 kort."
+  },
+  "Clash": {
+    "NAME": "Håndgemeng",
+    "DESCRIPTION": "Kan bare spilles hvis alle andre kort på hånda er angrepskort. NL Påfør en fiende !D! skade.",
+    "EXTENDED_DESCRIPTION": [
+      "Jeg har kort på hånda som ikke er angrepskort."
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Tordenskrall",
+    "DESCRIPTION": "Påfør ALLE fiender !D! skade, og 1 sårbar."
+  },
+  "Flame Barrier": {
+    "NAME": "Flammeskjold",
+    "DESCRIPTION": "Blokker !B! skade. NL Når du blir angrepet denne runden, påfør den som angriper deg !M! skade. "
+  },
+  "Endless Agony": {
+    "NAME": "Endeløs pine",
+    "DESCRIPTION": "Når du trekker dette kortet får du en kopi av det på hånda. NL Påfør en fiende !D! skade. NL Vrakes."
+  },
+  "Berserk": {
+    "NAME": "Berserk",
+    "DESCRIPTION": "Hvis din HP er på eller under 50%, får du [R] i starten av hver runde."
+  },
+  "Pummel": {
+    "NAME": "Bombarder",
+    "DESCRIPTION": "Påfør en fiende !D! skade !M! ganger. NL Vrakes."
+  },
+  "Riddle With Holes": {
+    "NAME": "Nålepute",
+    "DESCRIPTION": "Påfør en fiende !D! skade 5 ganger."
+  },
+  "Burning Pact": {
+    "NAME": "Brennende kontrakt",
+    "DESCRIPTION": "Vrak 1 kort. NL Trekk !M! kort."
+  },
+  "Metallicize": {
+    "NAME": "Metalliser",
+    "DESCRIPTION": "På slutten av runden din, øk skadeblokkeringen din med !M!."
+  },
+  "Pommel Strike": {
+    "NAME": "Backhand",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Trekk !M! kort.",
+    "UPGRADE_DESCRIPTION": "Påfør en fiende !D! skade. NL Trekk !M! kort."
+  },
+  "Pain": {
+    "NAME": "Vondt",
+    "DESCRIPTION": "Kan ikke spilles. NL Mens dette kortet er på hånda NL mister du 1 HP hver gang du spiller andre kort."
+  },
+  "Burst": {
+    "NAME": "Ekstra energi",
+    "DESCRIPTION": "Denne runden blir ditt neste egenskapkort spilt to ganger.",
+    "UPGRADE_DESCRIPTION": "Denne runden blir dine neste !M! egenskapkort spilt to ganger."
+  },
+  "Acrobatics": {
+    "NAME": "Akrobatikk",
+    "DESCRIPTION": "Trekk !M! kort. NL Kast 1 kort."
+  },
+  "Blind": {
+    "NAME": "Blind",
+    "DESCRIPTION": "Svekk en fiende med !M!.",
+    "UPGRADE_DESCRIPTION": "Svekk ALLE fiender med !M!."
+  },
+  "Doppelganger": {
+    "NAME": "Dobbeltgjenger",
+    "DESCRIPTION": "Neste runde trekker du X kort og mottar X ekstra [G]. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Neste runde trekker du X+1 kort og mottar X+1 ekstra [G]. NL Vrakes."
+  },
+  "Skewer": {
+    "NAME": "Spidd",
+    "DESCRIPTION": "Bruk alle dine [G]. NL Påfør en fiende !D! skade X ganger."
+  },
+  "Envenom": {
+    "NAME": "Forgiftning",
+    "DESCRIPTION": "Når et angrep påfører ublokkert skade, forgift den du skader med 1."
+  },
+  "Adrenaline": {
+    "NAME": "Adrenalin",
+    "DESCRIPTION": "Få ekstra [G]. NL Trekk 2 kort. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Få ekstra [G] [G]. NL Trekk 2 kort. NL Vrakes."
+  },
+  "Quick Slash": {
+    "NAME": "Kjapt sveip",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Trekk 1 kort."
+  },
+  "Twin Strike": {
+    "NAME": "Tvillingslag",
+    "DESCRIPTION": "Påfør en fiende !D! skade to ganger."
+  },
+  "Parasite": {
+    "NAME": "Parasitt",
+    "DESCRIPTION": "Kan ikke spilles. NL Hvis dette kortet transformeres eller fjernes fra kortstokken din mister du 3 Max HP"
+  },
+  "Bash": {
+    "NAME": "Hardt slag",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Gjør samme fiende !M! sårbar."
+  },
+  "Clothesline": {
+    "NAME": "På hengende håret",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Svekk en fiende med !M!."
+  },
+  "Shockwave": {
+    "NAME": "Sjokkbølge",
+    "DESCRIPTION": "Svekk ALLE fiender med !M! og gjør dem tilsvarende sårbar. NL Vrakes."
+  },
+  "Rampage": {
+    "NAME": "Ramponere",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Hver gang dette kortet spilles økes skaden med !M! i denne kampen."
+  },
+  "Bandage Up": {
+    "NAME": "Bandasjering",
+    "DESCRIPTION": "Helbred !M! HP. NL Vrakes."
+  },
+  "The Bomb": {
+    "NAME": "Bomba",
+    "DESCRIPTION": "Påfør ALLE (inkludert deg selv) !D! skade. NL Vrakes."
+  },
+  "Sever Soul": {
+    "NAME": "Ødelegg sjela di",
+    "DESCRIPTION": "Vrak alle kortene som ikke er angrepskort som du har på hånda. NL Påfør en fiende !D! skade."
+  },
+  "Whirlwind": {
+    "NAME": "Virvelvind",
+    "DESCRIPTION": "Bruk alle [R]. NL Påfør ALLE fiender !D! skade X ganger."
+  },
+  "Warcry": {
+    "NAME": "Krigsrop",
+    "DESCRIPTION": "Trekk 2 kort. NL Plasser et kort fra hånda di øverst i trekkebunken. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
+  },
+  "PiercingWail": {
+    "NAME": "Øredøvende hyl",
+    "DESCRIPTION": "ALLE fiender mister !M! styrke i 1 runde. NL Vrakes."
+  },
+  "Bite": {
+    "NAME": "Bite",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Helbred !M! HP."
+  },
+  "Secret Technique": {
+    "NAME": "Hemmelig teknikk",
+    "DESCRIPTION": "Velg et egenskapkort fra trekkebunken og få det på hånda. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Velg et egenskapkort fra trekkebunken og få det på hånda.",
+    "EXTENDED_DESCRIPTION": [
+      "Jeg har ingen egenskapkort NL i trekkebunken min."
+    ]
+  },
+  "Calculated Gamble": {
+    "NAME": "Kalkulert risiko",
+    "DESCRIPTION": "Kast alle kortene du har på hånda, NL så trekker du like mange kort igjen. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Kast alle kortene du har på hånda, NL så trekker du like mange kort igjen."
+  },
+  "Combust": {
+    "NAME": "Ta fyr",
+    "DESCRIPTION": "På slutten av runden din mister du 1 HP og påfører ALLE fiender !M! skade."
+  },
+  "Deep Breath": {
+    "NAME": "Trekk pusten",
+    "DESCRIPTION": "Bland alle kortene du har i kastebunken tilbake i trekkebunken. NL Trekk !M! kort.",
+    "UPGRADE_DESCRIPTION": "Bland alle kortene du har i kastebunken tilbake i trekkebunken. NL Trekk !M! kort."
+  },
+  "Doubt": {
+    "NAME": "Tvil",
+    "DESCRIPTION": "Kan ikke spilles. NL På slutten av runden din blir du svekket med 1."
+  },
+  "Escape Plan": {
+    "NAME": "Rømningsplan",
+    "DESCRIPTION": "Trekk 1 kort. NL Hvis dette kortet er et egenskapkort, blokker !B! skade."
+  },
+  "Finisher": {
+    "NAME": "Avslutt ham",
+    "DESCRIPTION": "Påfør en fiende !D! skade for hvert angrepskort du har spilt denne runden.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Du har spilt ",
+      " angrepskort.)",
+      " angrepskort.)"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Mørk omfavnelse",
+    "DESCRIPTION": "Når et kort blir vraket, NL trekk 1 kort."
+  },
+  "Die Die Die": {
+    "NAME": "Dø dø dø",
+    "DESCRIPTION": "Påfør ALLE fiender !D! skade. NL Vrakes."
+  },
+  "Well Laid Plans": {
+    "NAME": "God plan, Egon",
+    "DESCRIPTION": "På slutten av runden kan du la være å kaste opp til !M! kort.",
+    "UPGRADE_DESCRIPTION": "På slutten av runden kan du la være å kaste opp til !M! kort."
+  },
+  "Defend_R": {
+    "NAME": "Forsvar",
+    "DESCRIPTION": "Blokker !B! skade."
+  },
+  "Defend_G": {
+    "NAME": "Forsvar",
+    "DESCRIPTION": "Blokker !B! skade."
+  },
+  "Defend_B": {
+    "NAME": "Forsvar",
+    "DESCRIPTION": "Blokker !B! skade."
+  },
+  "Seeing Red": {
+    "NAME": "Blindt sinne",
+    "DESCRIPTION": "Få [R] [R]. NL Vrakes."
+  },
+  "Disarm": {
+    "NAME": "Avvæpne",
+    "DESCRIPTION": "Fienden mister !M! styrke. NL Vrakes."
+  },
+  "Panache": {
+    "NAME": "Bravur",
+    "DESCRIPTION": "Hver gang du spiller 5 kort på en enkelt runde, påfør ALLE fiender !M! skade."
+  },
+  "Fiend Fire": {
+    "NAME": "Djevelild",
+    "DESCRIPTION": "Vrak alle kortene du har på hånda. NL Påfør en fiende !D! skade for hvert av kortene du vraket. NL Vrakes."
+  },
+  "Terror": {
+    "NAME": "Terror",
+    "DESCRIPTION": "Gjør en fiende 99 sårbar. NL Vrakes."
+  },
+  "Dazed": {
+    "NAME": "Svimmel",
+    "DESCRIPTION": "Kan ikke spilles. NL Eterisk."
+  },
+  "Barricade": {
+    "NAME": "Barrikade",
+    "DESCRIPTION": "Skadeblokkering du har igjen vil ikke lenger forsvinne i starten av runden din."
+  },
+  "Armaments": {
+    "NAME": "Bevæpning",
+    "DESCRIPTION": "Blokker !B! skade. NL Oppgrader et av kortene du har på hånda for resten av kampen.",
+    "UPGRADE_DESCRIPTION": "Blokker !B! skade. NL Oppgrader ALLE kortene du har på hånda for resten av kampen."
+  },
+  "Havoc": {
+    "NAME": "Ødeleggelse",
+    "DESCRIPTION": "Spill kortet du har øverst i trekkebunken og vrak det."
+  },
+  "Secret Weapon": {
+    "NAME": "Hemmelig våpen",
+    "DESCRIPTION": "Velg et angrepskort fra trekkebunken og få det på hånda. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Velg et angrepskort fra trekkebunken og få det på hånda.",
+    "EXTENDED_DESCRIPTION": [
+      "Jeg har ingen angrepskort NL i trekkebunken min."
+    ]
+  },
+  "Apotheosis": {
+    "NAME": "Høydepunkt",
+    "DESCRIPTION": "Oppgrader ALLE kortene dine for resten av kampen. NL Vrakes."
+  },
+  "Feel No Pain": {
+    "NAME": "Føler ingen smerte",
+    "DESCRIPTION": "Hver gang et kort vrakes, NL blokker !M! skade."
+  },
+  "Hide": {
+    "NAME": "Hud",
+    "DESCRIPTION": "Du kan ikke miste HP før starten av din neste runde. NL Vrakes."
+  },
+  "Corruption": {
+    "NAME": "Korrupsjon",
+    "DESCRIPTION": "Egenskapkort koster 0. NL Hver gang du spiller en egenskap må den vrakes."
+  },
+  "Heel Hook": {
+    "NAME": "Hælspark",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Hvis fienden er svekket mottar du [G] NL og trekker 1 kort."
+  },
+  "Injury": {
+    "NAME": "Skade",
+    "DESCRIPTION": "Kan ikke spilles."
+  },
+  "Rage": {
+    "NAME": "Sinne",
+    "DESCRIPTION": "Hver gang du spiller et angrep denne runden, blokkerer du !M! skade."
+  },
+  "Headbutt": {
+    "NAME": "Skalle",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Ta et kort fra kastebunken din og legg det på toppen av trekkebunken."
+  },
+  "Limit Break": {
+    "NAME": "Grensebrytende",
+    "DESCRIPTION": "Doble styrken din. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Doble styrken din."
+  },
+  "Entrench": {
+    "NAME": "Forskansning",
+    "DESCRIPTION": "Doble den nåværende blokkeringen din.",
+    "UPGRADE_DESCRIPTION": "Doble den nåværende blokkeringen din."
+  },
+  "Noxious Fumes": {
+    "NAME": "Giftige gasser",
+    "DESCRIPTION": "Ved starten av runden din forgifter du ALLE fiender med !M!."
+  },
+  "Infinite Blades": {
+    "NAME": "Uendelige kniver",
+    "DESCRIPTION": "Ved starten av runden din får du en kniv på hånda.",
+    "UPGRADE_DESCRIPTION": "Startkort. NL Ved starten av runden din får du en kniv på hånda."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Spøkelseskladden",
+    "DESCRIPTION": "På din neste runde dobles angrepsskaden din."
+  },
+  "Malaise": {
+    "NAME": "Utilpass",
+    "DESCRIPTION": "Bruk all din [G]. NL En fiende mister X styrke. Svekk med X. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Bruk all din [G]. NL En fiende mister X+1 styrke. Svekk med X+1. NL Vrakes."
+  },
+  "Reflex": {
+    "NAME": "Reflekser",
+    "DESCRIPTION": "Kan ikke spilles. NL Hvis dette kartet kastes fra hånda, trekk !M! kort.",
+    "UPGRADE_DESCRIPTION": "Kan ikke spilles. NL Hvis dette kartet kastes fra hånda, trekk !M! kort.",
+    "EXTENDED_DESCRIPTION": [
+      "Jeg kan ikke spille dette kortet."
+    ]
+  },
+  "Sentinel": {
+    "NAME": "Vokter",
+    "DESCRIPTION": "Blokker !B! skade. NL Hvis dette kortet vrakes, NL få [R] [R].",
+    "UPGRADE_DESCRIPTION": "Blokker !B! skade. NL Hvis dette kortet vrakes, NL få [R] [R] [R]."
+  },
+  "Survivor": {
+    "NAME": "Overlevende",
+    "DESCRIPTION": "Blokker !B! skade. NL Kast et kort."
+  },
+  "Wild Strike": {
+    "NAME": "Slå vilt rundt deg",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Bland inn et skadekort i trekkebunken din."
+  },
+  "Eviscerate": {
+    "NAME": "Sløy",
+    "DESCRIPTION": "Koster 1 mindre [G] NL for hvert kort som kastes denne runden. NL Påfør en fiende !D! skade tre ganger."
+  },
+  "Flash of Steel": {
+    "NAME": "Et glimt av stål",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Trekk 1 kort."
+  },
+  "Battle Trance": {
+    "NAME": "Full konsentrasjon",
+    "DESCRIPTION": "Trekk !M! kort. NL Du kan ikke trekke flere kort denne runden."
+  },
+  "Heavy Blade": {
+    "NAME": "Tungt sverd",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Styrke påvirker Tungt sverd !M! ganger."
+  },
+  "Clumsy": {
+    "NAME": "Klumsete",
+    "DESCRIPTION": "Kan ikke spilles. NL Eterisk."
+  },
+  "Searing Blow": {
+    "NAME": "Rålekkert slag",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Dette kortet kan oppgraderes uendelig mange ganger."
+  },
+  "Corpse Explosion": {
+    "NAME": "Eksploderende lik",
+    "DESCRIPTION": "En fiende er ikke lenger forgiftet. Påfør ALLE fiender skade tilsvarende det dobbelte av forgiftningen fienden mistet.",
+    "UPGRADE_DESCRIPTION": "En fiende er ikke lenger forgiftet. Påfør ALLE fiender skade tilsvarende det tre ganger  forgiftningen fienden mistet.",
+    "EXTENDED_DESCRIPTION": [
+      "Den fienden er jo ikke forgiftet?"
+    ]
+  },
+  "Second Wind": {
+    "NAME": "Nytt forsøk",
+    "DESCRIPTION": "Vrak alle kortene som ikke er angrepskort på hånda di og blokker !B! skade for hvert kort."
+  },
+  "Enlightenment": {
+    "NAME": "Forståelse",
+    "DESCRIPTION": "Reduser kostnaden av hvert kort du har på hånda til 1 denne runden.",
+    "UPGRADE_DESCRIPTION": "Reduser kostnaden av hvert kort du har på hånda til 1 denne kampen."
+  },
+  "Purity": {
+    "NAME": "Renhet",
+    "DESCRIPTION": "Velg og vrak opp til !M! kort du har på hånda. NL Vrakes."
+  },
+  "Panacea": {
+    "NAME": "Universalmiddel",
+    "DESCRIPTION": "Få !M! magimotstand. NL Vrakes."
+  },
+  "Dash": {
+    "NAME": "Sprint",
+    "DESCRIPTION": "Blokker !B! skade. NL Påfør en fiende !D! skade."
+  },
+  "Transmutation": {
+    "NAME": "Forvandling",
+    "DESCRIPTION": "Motta X tilfeldige fargeløse kort på hånda. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Motta X tilfeldige oppdaterte fargeløse kort på hånda. NL Vrakes."
+  },
+  "Backstab": {
+    "NAME": "Kniv i ryggen",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Startkort. NL Vrakes."
+  },
+  "Step Through Time": {
+    "NAME": "Reis i tid",
+    "DESCRIPTION": "KOSTNAD: 2 Lad. NL Din HP går tilbake til det den var forrige runde. NL Vrakes."
+  },
+  "Feed": {
+    "NAME": "Mattid",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Hvis dette tar livet av en fiende som ikke er en minion får du !M! permanent Max HP. Vrakes."
+  },
+  "Rupture": {
+    "NAME": "Rift",
+    "DESCRIPTION": "Når du mister HP fra et kort denne kampen NL får du 1 økt styrke."
+  },
+  "Venomology": {
+    "NAME": "Alkemi",
+    "DESCRIPTION": "Få en tilfeldig trylledrikk. NL Vrakes."
+  },
+  "Bouncing Flask": {
+    "NAME": "Flaskesprett",
+    "DESCRIPTION": "Forgift en tilfeldig fiende med 3 !M! ganger."
+  },
+  "Bludgeon": {
+    "NAME": "Blodig slag",
+    "DESCRIPTION": "Påfør en fiende !D! skade."
+  },
+  "Finesse": {
+    "NAME": "Finesse",
+    "DESCRIPTION": "Blokker !B! skade. NL Trekk ett kort."
+  },
+  "Slice": {
+    "NAME": "Skjær opp",
+    "DESCRIPTION": "Påfør en fiende !D! skade."
+  },
+  "Backflip": {
+    "NAME": "Baklengs salto",
+    "DESCRIPTION": "Blokker !B! skade. NL Trekk 2 kort."
+  },
+  "Outmaneuver": {
+    "NAME": "Utmanøvrering",
+    "DESCRIPTION": "Neste runde NL motta [G] [G].",
+    "UPGRADE_DESCRIPTION": "Neste runde NL motta [G] [G] [G]."
+  },
+  "Night Terror": {
+    "NAME": "Mareritt",
+    "DESCRIPTION": "Velg et kort. NL Neste runde får du !M! kopier av dette kortet på hånda. Vrakes.",
+    "EXTENDED_DESCRIPTION": [
+      "Jeg kan bare bruke NL ",
+      " NL en gang i runden."
+    ]
+  },
+  "Bloodletting": {
+    "NAME": "Blodoffer",
+    "DESCRIPTION": "Få [R]. NL Mist 3 HP.",
+    "UPGRADE_DESCRIPTION": "Få [R] [R]. NL Mist 3 HP."
+  },
+  "Concentrate": {
+    "NAME": "Konsentrasjon",
+    "DESCRIPTION": "Kast !M! kort. NL Få [G] [G]."
+  },
+  "Master of Strategy": {
+    "NAME": "Strategimester",
+    "DESCRIPTION": "Trekk !M! kort. NL Vrakes."
+  },
+  "Flechettes": {
+    "NAME": "Dartpiler",
+    "DESCRIPTION": "Påfør !D! skade for hver egenskap du har på hånda.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Du har ",
+      " egenskapskort).",
+      " egenskapskort)."
+    ]
+  },
+  "Perfected Strike": {
+    "NAME": "Perfekt slag",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Påfører 2 ekstra skade for ALLE kort du har på hånda som inneholder  \"slag\".",
+    "UPGRADE_DESCRIPTION": "Påfør en fiende !D! skade. NL Påfører 3 ekstra skade for ALLE kort du har på hånda som inneholder  \"slag\"."
+  },
+  "Carnage": {
+    "NAME": "Blodbad",
+    "DESCRIPTION": "Eterisk. NL Påfør en fiende !D! skade."
+  },
+  "Masterful Stab": {
+    "NAME": "Mesterlig stikk",
+    "DESCRIPTION": "Kan bare spilles hvis du ikke har noen andre kort på hånda. NL Påfør en fiende !D! skade.",
+    "UPGRADE_DESCRIPTION": "Dette må være mitt NL eneste kort."
+  },
+  "Good Instincts": {
+    "NAME": "Gode instinkter",
+    "DESCRIPTION": "Blokker !B! skade."
+  },
+  "Prepared": {
+    "NAME": "Forberedt",
+    "DESCRIPTION": "Trekk !M! kort. NL Kast !M! kort.",
+    "UPGRADE_DESCRIPTION": "Trekk !M! kort. NL Kast !M! kort."
+  },
+  "Dropkick": {
+    "NAME": "Lavt spark",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Hvis fienden er sårbar, NL Få [R] og NL trekk 1 kort."
+  },
+  "Swift Strike": {
+    "NAME": "Kjapt slag",
+    "DESCRIPTION": "Påfør en fiende !D! skade."
+  },
+  "Normality": {
+    "NAME": "Normalitet",
+    "DESCRIPTION": "Kan ikke spilles. NL Du kan ikke spille mer enn 3 kort denne runden.",
+    "EXTENDED_DESCRIPTION": [
+      "Jeg kan bare spille opp til NL #r3 kort denne runden.",
+      "Kan ikke spilles. NL Du kan ikke spille mer enn ",
+      " kort per runde.",
+      " kort per runde. NL Du har spilt ",
+      " kort denne runden."
+    ]
+  },
+  "Accuracy": {
+    "NAME": "Nøyaktighet",
+    "DESCRIPTION": "Kniver påfører !M! ekstra skade."
+  },
+  "Sword Boomerang": {
+    "NAME": "Sverdboomerang",
+    "DESCRIPTION": "Påfør en tilfeldig fiende !D! skade !M! ganger."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Altmuligmann",
+    "DESCRIPTION": "Få !M! tilfeldige fargeløse kort på hånda denne runden. NL Vrakes."
+  },
+  "Demon Form": {
+    "NAME": "Demonform",
+    "DESCRIPTION": "I starten av hver runde får du !M! styrke."
+  },
+  "Fire Breathing": {
+    "NAME": "Blåse ild",
+    "DESCRIPTION": "På slutten av runden din, for hvert angrep du har spilt denne runden påfører du ALLE fiender 1 skade."
+  },
+  "Ghostly Armor": {
+    "NAME": "Spøkelsesskjold",
+    "DESCRIPTION": "Eterisk. NL Blokker !B! skade."
+  },
+  "Uppercut": {
+    "NAME": "Uppercut",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Svekk med !M!. NL Gjør !M! sårbar."
+  },
+  "Mind Blast": {
+    "NAME": "Sinnebølge",
+    "DESCRIPTION": "Påfør en fiende skade tilsvarende antall kort i trekkebunken.",
+    "UPGRADE_DESCRIPTION": "Startkort. NL Påfør en fiende skade tilsvarende antall kort i trekkebunken.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Påfører !D! skade.)"
+    ]
+  },
+  "Neutralize": {
+    "NAME": "Nøytraliser",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Svekk med !M!."
+  },
+  "Strike_R": {
+    "NAME": "Slag",
+    "DESCRIPTION": "Påfør en fiende !D! skade."
+  },
+  "Strike_G": {
+    "NAME": "Slag",
+    "DESCRIPTION": "Påfør en fiende !D! skade."
+  },
+  "Strike_B": {
+    "NAME": "Slag",
+    "DESCRIPTION": "Påfør en fiende !D! skade."
+  },
+  "Evolve": {
+    "NAME": "Utvikling",
+    "DESCRIPTION": "Bland to skadekort inn i trekkeunken din. NL Når du trekker en skade, trekk !M! kort.",
+    "UPGRADE_DESCRIPTION": "Bland to skadekort inn i trekkeunken din. NL Når du trekker en skade, trekk !M! kort."
+  },
+  "Burn": {
+    "NAME": "Brent",
+    "DESCRIPTION": "Kan ikke spilles. NL På slutten av runden din tar du 2 skade.",
+    "UPGRADE_DESCRIPTION": "Kan ikke spilles. NL På slutten av runden din tar du 4 skade."
+  },
+  "Sucker Punch": {
+    "NAME": "Slå pusten ut av dem",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Svekk med !M!."
+  },
+  "Double Tap": {
+    "NAME": "Dobbelt avtrekk",
+    "DESCRIPTION": "Denne runden vil ditt neste angrep spilles to ganger.",
+    "UPGRADE_DESCRIPTION": "Denne runden vil dine neste !M! angrep spilles to ganger."
+  },
+  "Footwork": {
+    "NAME": "Fotarbeid",
+    "DESCRIPTION": "Bli !M! smidigere."
+  },
+  "Thinking Ahead": {
+    "NAME": "Tenker fremover",
+    "DESCRIPTION": "Trekk 2 kort. NL Legg et av kortene du har på hånda øverst i trekkebunken. NL Vrakes.",
+    "UPGRADE_DESCRIPTION": "Trekk 2 kort. NL Legg et av kortene du har på hånda øverst i trekkebunken."
+  },
+  "Distraction": {
+    "NAME": "Avledning",
+    "DESCRIPTION": "Få et tilfeldig egenskapkort på hånda. NL Kortet koster 0 å spille denne runden. NL Vrakes."
+  },
+  "Dodge and Roll": {
+    "NAME": "Unngå med en rulle",
+    "DESCRIPTION": "Blokker !B! skade. NL Neste runde starter du med !B! i skadeblokkering."
+  },
+  "All Out Attack": {
+    "NAME": "Angrep angrep angrep!",
+    "DESCRIPTION": "Påfør ALLE fiender !D! skade. NL Trekk 1 kort ferre neste runde."
+  },
+  "Flying Knee": {
+    "NAME": "Knehøne",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Neste runde få [G]."
+  },
+  "Predator": {
+    "NAME": "Predator",
+    "DESCRIPTION": "Påfør en fiende !D! skade. NL Trekk 2 kort ekstra neste runde."
+  },
+  "Madness": {
+    "NAME": "Galskap",
+    "DESCRIPTION": "Et tilfeldig kort på hånda di koster 0 resten av kampen. NL Vrakes."
+  },
+  "Expertise": {
+    "NAME": "Ekspert",
+    "DESCRIPTION": "Trekk kort helt til du har !M! på hånda."
+  }
+}

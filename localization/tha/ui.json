@@ -1,0 +1,980 @@
+{
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Card Removal Service",
+      "ลดราคา",
+      "Not for Sale",
+      "ขายออกแล้ว",
+      "โอ้ม่ายย!"
+    ]
+  },
+  "Cancel Button": {
+    "TEXT": [
+      "ลบ Save"
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "ยืนยัน"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "จบเทิร์น",
+      "เทิร์นศัตรู"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "The Ironclad",
+      "The Silent",
+      "",
+      "ย้อนกลับ",
+      "No run histories found. NL Go Slay the Spire!",
+      "ระดับความยาก: ",
+      "ถูกกำจัดที่ชั้น %1$d โดย %2$s",
+      "ละทิ้งเกมที่ชั้น %d",
+      "ชัยชนะ!",
+      "การ์ด",
+      "Relics",
+      "Starter",
+      "ธรรมดา",
+      "ดี",
+      "หายาก",
+      "พิเศษ",
+      "คำสาป",
+      "บอส",
+      "ร้านค้า",
+      "Unknown",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "คะแนน: %d",
+      "ทุกตัวละคร",
+      "จำนวนชนะและแพ้",
+      "ชนะ",
+      "แพ้"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "ย้อนกลับ",
+      "Filters",
+      "ตัวละคร",
+      "พื้นที่",
+      "ประเภท",
+      "ดูคะแนน",
+      "ตำแหน่ง",
+      "ชื่อ",
+      "คะแนน",
+      "Retrieving Data...",
+      "Leaderboards (ปล. : รีใหม่ทุกอาทิตย์)",
+      "ไม่ได้เชื่อมต่อ Steam",
+      "No Scores Available \n Go Slay the Spire!"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Ironclad",
+      "The Silent",
+      "3rd Char. DO NOT TRANSLATE",
+      "Average Floor Reached (Last 20 Attempts)",
+      "Average Score (Last 20 Attempts)",
+      "Best Win Streak",
+      "Fastest Victory",
+      "High Score",
+      "Option 6. DO NOT TRANSLATE",
+      "Friends",
+      "Global"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Brazilian Portugese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Russian",
+      "Spanish",
+      "Hebrew",
+      "Turkish",
+      "Swedish",
+      "Norwegian",
+      "Thai",
+      "Serbian",
+      "Ukrainian",
+      "Vietnamese"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "ต่อไป"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "จั่วใหม่ (Gambling Chip)"
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "เก็บไว้"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "ต่อไป"
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "ต่อไป"
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "ข้ามร้านค้า"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "ข้ามกล่องสมบัติ"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "ข้ามกล่องสมบัติ"
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "วางไว้บนสุดของกองจั่ว."
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "เลือก ทักษะ เพื่อจั่วขึ้นมาบน มือ"
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "เลือกการ์ดที่จะเอาไว้บนสุดของกองจั่ว."
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "Unknown",
+      "???",
+      "An unknown room. NL NL You may encounter monsters, treasures, shops, or something entirely different.",
+      "Merchant",
+      "Shops",
+      "A mysterious merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
+      "Treasure",
+      "Treasure Rooms",
+      "#yRelics and #yGold can be found in these coveted rooms.",
+      "Rest",
+      "Rest Sites",
+      "Stop by these rooms to #gHeal some HP or #yUpgrade a card.",
+      "Enemy",
+      "Enemies",
+      "Hostile enemies reside in these rooms.",
+      "Elite",
+      "Elites",
+      "Powerful foes are in these rooms. NL NL Defeating them will reward you a Relic.",
+      "Legend"
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "ดำเนินการต่อ"
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "ขุด",
+      "ขุด Relic แบบสุ่ม."
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "ยกน้ำหนัก",
+      "เริ่มเกมด้วย +1 Strength. (ได้สูงสุดถึง 3)"
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "พักฟื้น",
+      "ฟื้นฟูเลือด 20% ของเลือดทั้งหมด (",
+      " เลือดจาก ",
+      "ฟื้นฟูเลือด 30% ของเลือดทั้งหมด ("
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "เสริมแกร่ง",
+      "อัพเกรดการ์ดในเด็ค",
+      "ไม่มีการ์ดที่สามารถอัพเกรดได้"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Toke",
+      "นำการ์ดออกจากเด็ค."
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "กองทิ้งของเรา #rว่างเปล่า."
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "กองจั่วของเรา #rว่างเปล่า."
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "โยน",
+      "ดื่ม",
+      "ทิ้ง",
+      "ไม่สามารถใช้ Potion ได้!",
+      "เราทำระหว่างการต่อสู้ไม่ได้!"
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<no name>",
+      "ใส่ชื่อของคุณ",
+      "ยืนยัน",
+      "ยกเลิก"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Locked",
+      "Unknown"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Blocked",
+      "the Ironclad",
+      "the Silent",
+      "the Gunner"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Dead",
+      "Blocked",
+      "Max HP +",
+      "มึนงง!",
+      "ขัดจังหวะ!"
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      " ชั้นที่",
+      " - ระดับความยาก ",
+      " (สุดท้าย)"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "ปลดล็อคการ์ดแล้ว!",
+      "",
+      "ปลดล็อค Relic แล้ว!",
+      "ตัวละครใหม่",
+      "Note: การ์ดที่ปลดล็อคแล้วจะปรากฎขึ้นในรอบต่อๆไป.",
+      "Note: Relic ที่ปลดล็อคแล้วจะปรากฎขึ้นในรอบต่อๆไป."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "ปลดล็อคการ์ดแล้ว!",
+      "ปลดล็อค Relic แล้ว!",
+      "ตัวละครใหม่",
+      "Note: การ์ดที่ปลดล็อคแล้วจะปรากฎขึ้นในรอบต่อๆไป.",
+      "Note: Relic ที่ปลดล็อคแล้วจะปรากฎขึ้นในรอบต่อๆไป."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "ไม่มีที่ว่างเพียงพอ"
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "Mugged..."
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "บอส",
+      "ธรรมดา",
+      "แย่",
+      "หายาก",
+      "ร้านค้า",
+      "อีเว้นท์",
+      "เริ่มต้น",
+      "ดี",
+      "ล็อค",
+      "Unknown",
+      " Relic",
+      "This relic has yet to be unlocked.",
+      "This relic remains to be seen."
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "โจมตี",
+      "ทักษะ",
+      "พลัง",
+      "คำสาป",
+      "ล็อค",
+      "Unknown",
+      "ดูอัพเกรด",
+      "สถานะ",
+      "กระสุน",
+      "เราใช้การ์ดได้แค่เทิร์นเรานะ.",
+      "เรากำลังโดน #rยึดขา! NL ไม่สามารถโจมตีได้",
+      "ต้องการ #rEnergy.",
+      "ต้องการ #rCharge.",
+      "เราไม่สามารถ NL เล่นการ์ดนี้ได้"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "เราต่อสู้ด้วยการ์ดทั้งหมดที่อยู่ในนี้",
+      "ย้อนกลับ"
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "การ์ดพวกนี้สลายไปแล้ว.",
+      "ย้อนกลับ"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "Tutorials",
+      "Do you wish to see gameplay hints as you play the game?",
+      "บทที่ 1",
+      "บทเปิดตัว",
+      "บทที่ 2",
+      "ตัวเมือง",
+      "บทที่ 3",
+      "ถัดไป",
+      "Act ?",
+      "???",
+      "Click Anywhere to Continue"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "เลือกจุดที่จะเริ่มต้น",
+      "ย้อนกลับ"
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "การ์ดที่เราจะจั่วในแต่ละเทิร์น.",
+      "(การ์ดที่เห็น เรียงตามลำดับความหายาก)",
+      "ย้อนกลับ",
+      "กองจั่ว"
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "การ์ดในกองทิ้งจะถูกสับเข้าไปในกองจั่ว เมื่อกองจั่วไม่มีการ์ดเหลือ",
+      "ย้อนกลับ",
+      "กองทิ้ง"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "Copy"
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "ทิ้งการ์ด"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "อัพเกรด"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "เพิ่มการ์ด"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      "ทำการ์ดใบที่สอง"
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "ระดับความยาก ",
+      " ปลดล็อค!"
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "ดำเนินการต่อ",
+      "ชัยชนะ?",
+      "จำนวนชั้นที่ปีน",
+      "จำนวนบอสที่กำจัด",
+      "เวลาการเล่น",
+      "เวลาการเล่น",
+      "คะแนน",
+      "Conquered",
+      "ตาย...",
+      "กำจัด",
+      "Defeated!",
+      "Desecrated",
+      "Devastation",
+      "Vanquished",
+      "You are Slain!",
+      "A familiar feeling.",
+      "A nap sounds good.",
+      "As you sow, so you shall reap.",
+      "Went the wrong way.",
+      "I wasn't prepared for this.",
+      "I'll try again tomorrow.",
+      "I'm going to need a new map.",
+      "Inadequately prepared.",
+      "Inconceivable!",
+      "Is this my true potential?",
+      "Just my luck...",
+      "Not like this...",
+      "Not quite the top.",
+      "The Spire consumes another...",
+      "Your consciousness fades...",
+      "Defeat",
+      "Acceptance",
+      "ดำเนินการต่อ",
+      "ลองอีกครั้ง",
+      "หน้าหลัก",
+      "ต่อไป",
+      "ปลดล็อค",
+      "หน้าหลัก",
+      "ลองอีกครั้ง",
+      "ต่อไป",
+      "ปลดล็อค",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "จำนวนศัตรูที่ฆ่าไป",
+      "จำนวน Elites ที่ฆ่าไป",
+      "ทองที่ยังไม่ได้ใช้",
+      "HP Bonus"
+    ],
+    "EXTRA_TEXT": [
+      "Exordium Elites Killed",
+      "City Elites Killed",
+      "Beyond Elites Killed",
+      "Speedster",
+      "Light Speed",
+      "Highlander",
+      "Collection",
+      "Full Set",
+      "Pauper",
+      "Librarian",
+      "Encyclopedia",
+      "Well Fed",
+      "Stuffed",
+      "Curses!",
+      "On My Own Terms",
+      "Champion",
+      "Perfect",
+      "Beyond Perfect",
+      "Overkill",
+      "C-c-c-combo",
+      ""
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "Proceed",
+      "Skip Card",
+      "Skip Gold",
+      "Skip Potion",
+      "Skip Relic",
+      "Skip Rewards",
+      "Close",
+      "Treasure!",
+      "What's  Inside?",
+      "Rewards!",
+      "Spoils!",
+      "Loot!",
+      "Tip: "
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "Choose One"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTE NOW: "
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "ข้าม",
+      "เลือกการ์ด",
+      "+2 Max HP",
+      "VOTE NOW: ",
+      "s left."
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "ยืนยัน",
+      "ยืนยันการเลือก",
+      "เลือก Relic",
+      "ข้าม",
+      "VOTE NOW: ",
+      "s left."
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "ยืนยัน",
+      "ยกเลิก",
+      "ยืนยันการเลือก",
+      "ทิ้ง"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "Confirm Card to ",
+      "Confirm Cards to ",
+      "Choose ",
+      " Cards to ",
+      "Choose Any Number of Cards to ",
+      "Choose a Card to "
+    ]
+  },
+  "AbandonRunButton": {
+    "TEXT": [
+      "Abandon Run"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "ย้อนกลับ",
+      "ลบเซฟ",
+      "ใช่",
+      "ไม่ใช่"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "ออกเกม"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "",
+      "Game Menu",
+      "Graphics",
+      "Resolution: NL Max Framerate:",
+      "เต็มจอ NL เต็มจอไม่มีขอบ (recommended) NL การสั่นหน้าจอ",
+      "เสียง",
+      "Master Volume NL Music Volume NL Effects Volume",
+      "Ambient Sound Effects NL Mute while in background",
+      "Preferences",
+      "Display summed up damage in gold NL Display blocked damage in blue NL Disable confirmation when choosing 1 card",
+      "โหมดเร็ว",
+      "",
+      "Miscellaneous",
+      "ภาษา :",
+      "Upload gameplay data #b(?)",
+      "ออกเกม",
+      "เซฟ และ ออก",
+      "NL NL VSync",
+      "Playtester Art Mode"
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "แน่ใจแล้วใช่มั้ย?",
+      "เซฟอัตโนมัติเรียบร้อยแล้ว.",
+      "ละทิ้งเกมหมายถึงการพ่ายแพ้.",
+      "WARNING:\nProgress NOT saved.\n\nReach the next floor to save this current run.",
+      "ย้อนกลับ",
+      "Progress is NOT saved for daily runs."
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "ย้อนกลับ",
+      "สีแดง",
+      "สีเขียว",
+      "สีน้ำเงิน",
+      "ไร้สี",
+      "คำสาป",
+      "สถานะ",
+      "ดูอัพเกรด"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "ความหายาก",
+      "ประเภท",
+      "A-Z"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "What's Early Access?",
+      "What's an Open Beta?",
+      "Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
+      "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
+      "กดตรงไหนก็ได้เพื่อเริ่มเกม"
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#yBuild: ",
+      "Embark",
+      "ย้อนกลับ",
+      "click to edit"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "คลังการ์ด",
+      "เริ่มเกม",
+      "Daily Challenge",
+      "คลัง Relic",
+      "เล่นต่อ",
+      "กระดานคะแนน",
+      "สถิติการเล่น",
+      "เครดิต",
+      "ออกเกม",
+      "Patch Notes",
+      "Abandon Run",
+      "Abandon Run (click again to confirm)",
+      "ตั้งค่า",
+      "ประวัติการเล่น",
+      "Compendium"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "กดอีกครั้งเพื่อออก"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "ย้อนกลับ",
+      "#yPatch #yNotes",
+      " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "ย้อนกลับ",
+      "เริ่มต้น:",
+      "Characters can start with these relics.",
+      "ธรรมดา:",
+      "Weak relics that are found commonly.",
+      "ดี:",
+      "Stronger relics which appear less often than common relics.",
+      "หายาก:",
+      "Unique and powerful relics which are rarely seen.",
+      "บอส:",
+      "Relics found only within Boss chests.",
+      "อีเว้นท์:",
+      "Relics which can only be obtained through events.",
+      "ร้านค้า:",
+      "Relics which can only be purchased from the Merchant."
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "Locked",
+      "This character is unlocked by completing a single run.",
+      "This character is still unavailable in Early Access.",
+      "This character is unlocked by reaching the top of the Spire.",
+      "เลือด : ",
+      "ทอง : ",
+      " Unlocks Remaining",
+      "Unknown",
+      "???",
+      " To Next Unlock"
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "เลือกตัวละคร",
+      "Embark",
+      "The Ironclad",
+      "The Silent",
+      "Crowbot",
+      "ย้อนกลับ",
+      "ความยาก",
+      "ระดับที่ ",
+      "โหมดความยาก",
+      "Runs get harder as you win... (Winstreaks are unaffected)"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "Elites เกิดมากขึ้น.",
+      "ศัตรูธรรมดาโหดขึ้น.",
+      "Elites โหดขึ้น.",
+      "บอสโหดขึ้น.",
+      "ฟื้นฟูเลือดน้อยลงเมื่อชนะบอส.",
+      "เริ่มต้นเกมด้วยเลือดไม่เต็ม.",
+      "ศัตรูธรรมดาโคตรโหด.",
+      "Elites โคตรโหด.",
+      "บอสโคตรโหด.",
+      "ปรสิต!",
+      "ผลของ Potion ลดลง.",
+      "โอกาสที่จะดรอปการ์ดที่อัพเกรดแล้ว น้อยลง.",
+      "บอสดรอปทองน้อยลง.",
+      "ลด Max HP.",
+      "(ระดับสุดท้าย) อีเว้นท์ ผลดีน้อยลง ผลเสียมากขึ้น."
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "Aggressive",
+      "This enemy intends to NL #yAttack for #b",
+      " damage #b",
+      " times.",
+      "This enemy intends to NL #yAttack for #b",
+      " damage.",
+      "Aggressive",
+      "This enemy intends to use a #yBuff and #yAttack for #b",
+      " times.",
+      "This enemy intends to use a #yBuff and #yAttack for #b",
+      "Strategic",
+      "This enemy intends to inflict a #yNegative #yEffect on you and #yAttack for #b",
+      "This enemy intends to #yBlock and #yAttack for #b",
+      "Defensive",
+      "Cowardly",
+      "Magical",
+      "Sleeping",
+      "Stunned",
+      "Unknown",
+      "This enemy intends to use a #yBuff.",
+      "This enemy intends to inflict a #yNegative #yEffect on you.",
+      "This enemy intends to inflict a powerful #yNegative #yEffect on you.",
+      "This enemy intends to #yBlock on its turn.",
+      "This enemy intends to #yBlock and inflict a #yNegative #yEffect on you.",
+      "This enemy intends to #yBlock and use a #yBuff.",
+      "This enemy intends to #yEscape.",
+      "This enemy intends to use mysterious #yMagic on its turn.",
+      "This enemy is asleep.",
+      "This enemy is #yStunned on its turn.",
+      "This enemy's intentions are #yUnknown (not attacking).",
+      "Blocked"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "ต่อไป"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "บทเปิดตัว"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "ตัวเมือง"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Game~ #y~Saved~"
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "เริ่มการต่อสู้",
+      "เทิร์นของเรา",
+      "เทิร์นของศัตรู",
+      " เทิร์น"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " ทอง (ที่โดนขโมย)",
+      " ทอง",
+      "เลือกการ์ดใส่ในเด็ค",
+      "",
+      "เลือกการ์ด"
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "ทำอะไรดี?",
+      "หืมมม...",
+      "ทำอะไรดีน้า..?",
+      "ได้เวลาพักผ่อนแล้ว",
+      "ตัวเลือกเยอะจัง...",
+      "เราควรจะพักฟื้นสักหน่อย",
+      "เหนื่อยจริงๆเล้ย..."
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "เลือกการ์ดที่จะอัพเกรด"
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "อะไรน่ะ ฝันงั้นหรอ?"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "เลือกการ์ดที่จะนำออก."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "New Unlock!"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "ระดับความยาก ",
+      " ปลดล็อคแล้ว!"
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "เราพก Potion NL มากกว่านี้ไม่ได้แล้ว."
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energy"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "เลือกการ์ดที่จะนำกลับขึ้นมือ"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "หมดพลัง"
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "เริ่มเกมใหม่เพื่อเริ่มใช้งานการเปลี่ยนแปลง."
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "ศัตรูตัวนี้ไม่ได้กำลังจะโจมตี!"
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "ลบล้าง",
+      "ต้านทาน",
+      "ลบล้าง",
+      "\n Down"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "วางไว้บนสุดของกองจั่ว"
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "The Beyond"
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Daily Challenge",
+      "Connecting to Time Server...",
+      "You have done today's challenge",
+      "Return",
+      "Embark",
+      "Today's character: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Time Left: ",
+      "#yFloor #yReached: NL  ",
+      " NL NL  #yDeck: NL ",
+      " NL NL  #yRelics: NL  ",
+      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
+      " NL TAB #yMods: ",
+      "Modifiers: "
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standard",
+      "",
+      "Embark on a quest to Slay the Spire.",
+      "Daily Climb",
+      "",
+      "A new challenge is available once a day.\n\nCompete with other players for the highest score!",
+      "Ascension",
+      "",
+      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
+      "Card Library",
+      "",
+      "View all of the cards you have encountered throughout the Spire.",
+      "Relic Collection",
+      "",
+      "Examine the various trinkets and artifacts obtained throughout your runs.",
+      "Bestiary",
+      "",
+      "This feature is not yet available.",
+      "Character Stats",
+      "",
+      "The progress and statistics for each character can be seen here.",
+      "Leaderboards",
+      "",
+      "View and compare your score with friends and other players.",
+      "Run History",
+      "",
+      "Revisit your past attempts at slaying the Spire.",
+      "Game Settings",
+      "",
+      "Change your resolution and toggle various options on/off.",
+      "Input Settings",
+      "",
+      "This feature is not yet available.",
+      "Credits",
+      "",
+      "See all of the people who contributed on Slay the Spire!",
+      "Unknown",
+      "",
+      "This feature is not yet available."
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artifact",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "ป้องกัน Debuff."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "block",
+        "blocks",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "จนถึงเทิร์นถัดไป,ป้องกันดาเมจที่ได้รับ."
+    },
+    "CURSE": {
+      "NAMES": [
+        "curse",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "การ์ดคำสาปเป็นการ์ดที่มีแต่ผลเสีย."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "dexterity",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Dexterity เพิ่มค่า Block ที่ได้รับจากการ์ด."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "ethereal",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "เมื่อสิ้นสุดเทิร์น หากการ์ดใบนี้อยู่บนมือ, ทำการ Exhaust. การ์ดที่ถูก Exhausted จะถูกนำออกจากเด็คจนจบการต่อสู้."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "exhaust",
+        "exhausted",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "นำออกจากเด็คจนจบการต่อสู้."
+    },
+    "INNATE": {
+      "NAMES": [
+        "innate",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "เมื่อเริ่มการต่อสู้ การ์ดใบนี้จะอยู่บนมือ."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "locked",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "การ์ดใบนี้ยังไม่ถูกปลดล็อค."
+    },
+    "POISON": {
+      "NAMES": [
+        "poison",
+        "poisoned",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "เมื่อติดสถานะพิษ จะเสีย HP ทุกครั้งที่เริ่มต้นเทิร์น. ในทุกเทิร์น, Poison จะลดลง #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "retain",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "การ์ดที่เลือกจะไม่ถูกทิ้งหลังจากจบเทิร์น"
+    },
+    "SHIV": {
+      "NAMES": [
+        "shiv",
+        "shivs",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "มีดสั้น เป็นการ์ดโจมตีที่ใช้ #b0 Energy และ Exhaust."
+    },
+    "STATUS": {
+      "NAMES": [
+        "status",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "การ์ด Status จะถูกนำออกจากเด็คเมื่อจบการต่อสู้."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "strength",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Strength เพิ่มดาเมจโจมตีให้กับการ์ดโจมตี."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transform",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "แปรรูปการ์ดให้กลายเป็นการ์ดใบอื่นแบบสุ่ม"
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "unknown",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "การ์ดใบนี้ยังไม่ถูกพบ."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "unplayable",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "เป็นการ์ดที่ไม่สามารถใช้งานบนมือได้."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "upgrade",
+        "upgraded",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "การอัพเกรดการ์ด ทำให้การ์ดแข็งแกร่งขึ้น. สามารถอัพเกรดได้แค่ครั้งเดียวเท่านั้น."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "vulnerable",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Vulnerable ทำให้ได้รับดาเมจมากขึ้น #b50%."
+    },
+    "WEAK": {
+      "NAMES": [
+        "weak",
+        "weaken",
+        "weakened",
+        "weakens",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Weakened ทำให้โจมตีได้เบาลง #b25%."
+    },
+    "WOUND": {
+      "NAMES": [
+        "wound",
+        "wounds",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Wounds เป็นการ์ด status ที่เล่นไม่ได้."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "frail",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Frail, ทำให้ได้รับ #yBlock น้อยลง #b25%."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "strike",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Any card with the word \"Strike\" in its name."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "confused",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "ทุกครั้งที่จั่วการ์ด, จะสุ่ม Energy ที่้ใช้."
+    },
+    "FIRE": {
+      "NAMES": [
+        "fire",
+        "fired",
+        "DONT TRANSLATE FIRED STUFF",
+        "DONT TRANSLATE FIRED STUFF",
+        "DONT TRANSLATE FIRED STUFF"
+      ],
+      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TEXT": [
+      "Energy คือค่าที่ต้องใช้เพื่อใช้งานการ์ด."
+    ]
+  }
+}

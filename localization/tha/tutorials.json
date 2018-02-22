@@ -1,0 +1,219 @@
+{
+  "Main Tutorial": {
+    "TEXT": [
+      "กำจัดศัตรูโดยการใช้งานการ์ดบนมือ! NL NL การ์ดต้องใช้ #yEnergy เพื่อใช้งาน. NL เมื่อไม่สามารถเล่นการ์ดได้อีก, กดที่ปุ่มจบเทิร์นไปซะ. NL NL เมื่อเริ่มต้นเทิร์นใหม่ของคุณ, การ์ดใหม่จะถูกจั่วขึ้นมาและ #yEnergy จะถูกรีเซ็ตจนเต็ม.",
+      "เล่นการ์ดป้องกันเพื่อรับ #yBlock เวลาศัตรูจะทำการโจมตีคุณ. NL NL #yBlock จะช่วยป้องกันดาเมจที่คุณจะได้รับแต่ว่ามันจะ NL #rหายไป  เมื่อเริ่มต้นเทิร์นใหม่ของคุณ.",
+      "ในระหว่างเทิร์นของคุณ, คุณสามารถดู #yการเคลื่อนไหว ของศัตรูได้ บนหัวของศัตรู. NL NL ถ้าศัตรูกำลังจะโจมตีคุณ, แนะนำว่าให้ทำการใช้งานการ์ดเพื่อเอา #yBlock!"
+    ],
+    "LABEL": [
+      "ต่อไป",
+      "พร้อมแล้ว!",
+      "Tutorial",
+      "(หน้า ",
+      "จาก 3)"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Tip: ",
+      "Got It"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "ดื่มหรือโยน Potion ขณะทำการต่อสู้! NL."
+    ],
+    "LABEL": [
+      "Potions"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "การ์ดต้องใช้ Energy เพื่อใช้งาน! NL ไอลูกแก้วตรงซ้ายล่างบ่งบอกว่าเราเหลือ Energy เท่าไหร่ในเทิร์นนี้"
+    ],
+    "LABEL": [
+      "ค่า Energy"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL ถ้าไม่มีการ์ดเหลือในกองจั่วแล้ว, กองทิ้งจะถูกสับเข้าไปในกองจั่ว."
+    ],
+    "LABEL": [
+      "ไม่มีการ์ดเหลือแล้ว?"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "การ์ดใบนี้จะให้พลังคุณเมื่อคุณใช้งาน. NL พลัง เป็นความสามารถติดตัวที่จะอยู่ไปตลอดการต่อสู้",
+      "การ์ดต้องการ Energy เพื่อใช้งาน! NL ไอลูกแก้วตรงซ้ายล่างบ่งบอกว่าเราเหลือ Energy เท่าไหร่ในเทิร์นนี้.",
+      " #rการ์ดบนมือของเราเต็มแล้ว!"
+    ],
+    "LABEL": [
+      "การ์ดพลัง",
+      "ค่า Energy"
+    ]
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Relics found throughout the Spire grant unique bonuses and remain throughout your run. NL They can be found by defeating powerful foes or within chests.",
+      "This relic remains to be seen.",
+      "Its power is all used up."
+    ],
+    "LABEL": [
+      "Relics",
+      "Unknown",
+      "This relic has yet to be unlocked.",
+      "Locked"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Don't forget your rewards! NL Just click on them to pick them up."
+    ],
+    "LABEL": [
+      "Rewards"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "At the start of each turn, NL #b",
+      " cards are drawn from here. NL NL Click to view the cards in your draw pile (shuffled).",
+      " cards are drawn from here. NL NL Click to view the cards in your draw pile."
+    ],
+    "LABEL": [
+      "Draw Pile"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Click to view cards Exhausted this combat."
+    ],
+    "LABEL": [
+      "Exhausted Cards"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Gameplay data and error logs are sent to Mega Crit for game balancing purposes. NL NL Personally identifying information is NOT collected.",
+      "Slay the Spire runs the fastest when running in true fullscreen. Recommended for OSX as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
+      "As Slay the Spire isn't a demanding game, we recommend Borderless Fullscreen for fast alt-tab. Works best on PC.",
+      "Note: If VSync is on, the Max Framerate cannot go above your monitor refresh rate."
+    ],
+    "LABEL": [
+      "Metrics",
+      "Fullscreen",
+      "Borderless Fullscreen",
+      "Max Framerate"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Remove a card from your deck. The cost of this service increases by #b",
+      " for the rest of this run."
+    ],
+    "LABEL": [
+      "Card Removal Service"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Pressing this button will end your turn. NL NL You will discard your hand, enemies will take their turn, you will draw ",
+      " cards, then it will be your turn again."
+    ],
+    "LABEL": [
+      "End Turn"
+    ]
+  },
+  "Discard Tip": {
+    "TEXT": [
+      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL Click to view the cards in your discard pile."
+    ],
+    "LABEL": [
+      "Discard Pile"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Your current energy count. Cards require energy to play."
+    ],
+    "LABEL": [
+      "Energy"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Throws this potion at your enemy.",
+      "Consume this potion.",
+      "Discards this potion NL #r(cannot #rbe #rundone)"
+    ],
+    "LABEL": [
+      "Throw",
+      "Drink",
+      "Discard"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Opens the game menu. NL NL Change or update your graphics, audio, and gameplay preferences here.",
+      "View all of the cards in your deck.",
+      "View this current dungeon's map.",
+      "If you run out of HP, you die.",
+      "Shows how much gold you are carrying. Gold is the currency within the Spire.",
+      "",
+      "",
+      "Elapsed time for this run."
+    ],
+    "LABEL": [
+      "Settings",
+      "Deck",
+      "Map",
+      "Hit Points (HP)",
+      "Money Pouch",
+      "Run Timer"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Engage with other players to discover new and effective strategies.",
+      "There is always a rest site before a boss.",
+      "Spend gold at shops! (Tip paid for by Merchant)",
+      "Take a break every now and then.",
+      "No enemy will use the same move 3 times in a row.",
+      "Percentage-based calculations always round down at the end.",
+      "During combat, you can view the contents of your draw and discard piles.",
+      "Useful information can be revealed by hovering over most objects.",
+      "Toggle tips on/off by clicking on the ? button in the top right corner.",
+      "Right click will release any cards you are dragging.",
+      "Hover over an enemy to see their name and Power information.",
+      "Use the scroll wheel or click and drag the screen to scroll.",
+      "If you can inspect an item, your cursor will become a magnifying glass.",
+      "There is no limit to how many relics you can carry.",
+      "Chests will always drop a relic.",
+      "Every path you take will always have at least 1 treasure room.",
+      "Use the scrollwheel or click and drag to scroll maps, card screens, and others.",
+      "Elite enemies will always drop a relic.",
+      "You will never see the same relic twice in one run.",
+      "Uncommon cards have a blue frame and banner.",
+      "Rare cards have a golden frame and banner.",
+      "The rarity of a card is visible on the card itself.",
+      "It is not always wise to add cards to your deck.",
+      "Cards exhausted during combat are not removed from your deck.",
+      "You can only have up to 10 cards in your hand.",
+      "Status cards go away at the end of combat.",
+      "Curses cannot be upgraded. Why would you?",
+      "Upgraded cards may appear in rewards past Act 1.",
+      "Potions can only be used during combat.",
+      "Potions cannot be discarded during combat.",
+      "Unknown rooms may contain treasures, monsters, shops, or events.",
+      "The Merchant doesn't offer refunds. He is a jerk.",
+      "The card removal service increases in price whenever you use it.",
+      "The card removal service can only be used once at each shop.",
+      "Damage from potions, relics, and powers are not considered attack damage."
+    ],
+    "LABEL": [
+      "You can discard potions to make room for others."
+    ]
+  }
+}

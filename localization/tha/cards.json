@@ -1,0 +1,869 @@
+{
+  "Grand Finale": {
+    "NAME": "Grand Finale",
+    "DESCRIPTION": "สามารถใช้ได้เมื่อไม่มีการ์ดอยู่ในกองจั่วเท่านั้น. NL ทำดาเมจ !D! กับศัตรูทุกตัว.",
+    "UPGRADE_DESCRIPTION": "กองจั่วของเรา NL ต้อง #rว่างเปล่า."
+  },
+  "Immolate": {
+    "NAME": "Immolate",
+    "DESCRIPTION": "Exhaust การ์ด 1 ใบ. หากการ์ดที่เลือกเป็นการ์ดคำสาปหรือสถานะ, ทำดาเมจ !D! กับศัตรูทุกตัว."
+  },
+  "Regret": {
+    "NAME": "Regret",
+    "DESCRIPTION": "เล่นไม่ได้. NL เมื่อสิ้นสุดเทิร์นของคุณ, เสีย 1 HP ต่อจำนวนการ์ดบนมือ."
+  },
+  "Crippling Poison": {
+    "NAME": "Crippling Poison",
+    "DESCRIPTION": "ทำให้ติด !M! Poison. NL ทำให้ติด  !M! Weak."
+  },
+  "A Thousand Cuts": {
+    "NAME": "A Thousand Cuts",
+    "DESCRIPTION": "ทุกครั้งที่คุณใช้งานการ์ด, ทำดาเมจ !M! กับศัตรูทุกตัว."
+  },
+  "Spot Weakness": {
+    "NAME": "Spot Weakness",
+    "DESCRIPTION": "หากศัตรูกำลังจะโจมตี,ได้รับ !M! Strength."
+  },
+  "Wound": {
+    "NAME": "Wound",
+    "DESCRIPTION": "เล่นไม่ได้."
+  },
+  "Writhe": {
+    "NAME": "Writhe",
+    "DESCRIPTION": "เล่นไม่ได้. NL Innate."
+  },
+  "Dark Shackles": {
+    "NAME": "Dark Shackles",
+    "DESCRIPTION": "ลด Strength ของศัตรู !M! ในเทิร์นนี้. NL Exhaust."
+  },
+  "Glass Knife": {
+    "NAME": "Glass Knife",
+    "DESCRIPTION": "ทำดาเมจ !D! สองครั้ง. ดาเมจของ Glass Knife ลดลง 2 ตลอดการต่อสู้นี้."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Cloak And Dagger",
+    "DESCRIPTION": "ได้รับ !B! Block. NL เพิ่มมีดสั้น !M! เล่ม บนมือของคุณ.",
+    "UPGRADE_DESCRIPTION": "ได้รับ !B! Block. NL เพิ่มมีดสั้น !M! เล่ม บนมือของคุณ."
+  },
+  "Underhanded Strike": {
+    "NAME": "Underhanded Strike",
+    "DESCRIPTION": "เล่นไม่ได้. NL ถ้าการ์ดใบนี้ถูกทิ้งจากบนมือ, ทำดาเมจ !D! ให้ศัตรูแบบสุ่ม.",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play this card."
+    ]
+  },
+  "Anger": {
+    "NAME": "Anger",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL คัดลอกการ์ดใบนี้ลงในกองทิ้ง."
+  },
+  "Storm of Steel": {
+    "NAME": "Storm of Steel",
+    "DESCRIPTION": "ทิ้งการ์ดทุกใบบนมือ. NL เพิ่มมีดสั้น 1 เล่มบนมือ ต่อจำนวนการ์ดที่ถูกทิ้ง.",
+    "UPGRADE_DESCRIPTION": "ทิ้งการ์ดทุกใบบนมือ. NL เพิ่มมีดสั้นอัพเกรด 1 เล่มบนมือ ต่อจำนวนการ์ดที่ถูกทิ้ง."
+  },
+  "Cleave": {
+    "NAME": "Cleave",
+    "DESCRIPTION": "ทำดาเมจ !D! กับศัตรูทุกตัว."
+  },
+  "Inflame": {
+    "NAME": "Inflame",
+    "DESCRIPTION": "ได้รับ !M! Strength."
+  },
+  "Wraith Form": {
+    "NAME": "Wraith Form",
+    "DESCRIPTION": "ทุกครั้งที่ใช้งานการ์ดทักษะ,ทำดาเมจ !M! ให้ศัตรูแบบสุ่ม."
+  },
+  "Sadistic Nature": {
+    "NAME": "Sadistic Nature",
+    "DESCRIPTION": "ทุกครั้งที่คุณทำให้ศัตรูติด Debuff, ทำดาเมจ !M!."
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "เสีย 3 HP. NL ได้รับ !M! Strength . NL Exhaust."
+  },
+  "Offering": {
+    "NAME": "Offering",
+    "DESCRIPTION": "เสีย 4 HP. NL ได้รับ [R] [R]. NL จั่วการ์ด!M! ใบ. NL Exhaust."
+  },
+  "Exhume": {
+    "NAME": "Exhume",
+    "DESCRIPTION": "เลือกการ์ดที่ Exhausted และนำมาเพิ่มใส่มือ. NL Exhaust."
+  },
+  "Power Through": {
+    "NAME": "Power Through",
+    "DESCRIPTION": "เพิ่ม 2 Wounds ใส่มือ. NL ได้รับ !B! Block."
+  },
+  "Dual Wield": {
+    "NAME": "Dual Wield",
+    "DESCRIPTION": "คัดลอกการ์ดโจมตี หรือการ์ดพลังในมือ.",
+    "UPGRADE_DESCRIPTION": "คัดลอกการ์ดโจมตี หรือการ์ดพลังในมือ 2 ครั้ง."
+  },
+  "Deadly Poison": {
+    "NAME": "Deadly Poison",
+    "DESCRIPTION": "ทำให้ติด !M! Poison."
+  },
+  "Leg Sweep": {
+    "NAME": "Leg Sweep",
+    "DESCRIPTION": "ทำให้ติด !M! Weak. NL ได้รับ !B! Block."
+  },
+  "Flex": {
+    "NAME": "Flex",
+    "DESCRIPTION": "ได้รับ !M! Strength. NL เมื่อสิ้นสุดเทิร์นของคุณ, เสีย !M! Strength."
+  },
+  "Dagger Spray": {
+    "NAME": "Dagger Spray",
+    "DESCRIPTION": "ทำดาเมจ !D! สองครั้ง กับศัตรูทุกตัว."
+  },
+  "Bullet Time": {
+    "NAME": "Bullet Time",
+    "DESCRIPTION": "คุณไม่สามารถจั่วการ์ดได้อีกในเทิร์นนี้. ลดจำนวนการใช้ Energy ของการ์ดทั้งหมดบนมือลง เป็น 0."
+  },
+  "Catalyst": {
+    "NAME": "Catalyst",
+    "DESCRIPTION": "ทำให้พิษปัจจุบันของศัตรูเพิ่มขึ้นสองเท่า. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "ทำให้พิษปัจจุบันของศัตรูเพิ่มขึ้นสามเท่า. NL Exhaust."
+  },
+  "Reaper": {
+    "NAME": "Reaper",
+    "DESCRIPTION": "ทำดาเมจ !D! กับศัตรูทุกตัว. ฟื้นฟูเลือดเราตามดาเมจที่ไม่ติด Block. NL Exhaust."
+  },
+  "Shiv": {
+    "NAME": "Shiv",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL Exhaust."
+  },
+  "Tactician": {
+    "NAME": "Tactician",
+    "DESCRIPTION": "เล่นไม่ได้. NL ถ้าการ์ดใบนี้ถูกทิ้งจากบนมือ, ได้รับ [G].",
+    "UPGRADE_DESCRIPTION": "เล่นไม่ได้. NL ถ้าการ์ดใบนี้ถูกทิ้งจากบนมือ, gain [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "ไม่สามารถเล่นการ์ดใบนี้ได้."
+    ]
+  },
+  "Bane": {
+    "NAME": "Bane",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ถ้าศัตรูที่โจมตีติดพิษอยู่, ทำดาเมจ !D! อีกครั้ง."
+  },
+  "Infernal Blade": {
+    "NAME": "Infernal Blade",
+    "DESCRIPTION": "สุ่มเพิ่มการ์ดโจมตีใส่มือ 1 ใบ. NL การ์ดใบนั้นใช้ 0 Energy ในเทิร์นนี้. NL Exhaust."
+  },
+  "After Image": {
+    "NAME": "After Image",
+    "DESCRIPTION": "ทุกครั้งที่ทำการใช้งานการ์ด, ได้รับ 1 Block.",
+    "UPGRADE_DESCRIPTION": "Innate. NL ทุกครั้งที่ทำการใช้งานการ์ด, ได้รับ 1 Block."
+  },
+  "Unload": {
+    "NAME": "Unload",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทิ้งการ์ดทุกใบบนมือที่ไม่ใช่การ์ดโจมตี."
+  },
+  "Blade Dance": {
+    "NAME": "Blade Dance",
+    "DESCRIPTION": "เพิ่มมีดสั้น !M! เล่ม ใส่ในมือ."
+  },
+  "Deflect": {
+    "NAME": "Deflect",
+    "DESCRIPTION": "ได้รับ !B! Block."
+  },
+  "Trip": {
+    "NAME": "Trip",
+    "DESCRIPTION": "ทำให้ติด !M! Vulnerable.",
+    "UPGRADE_DESCRIPTION": "ทำให้ศัตรูทุกตัวติด !M! Vulnerable."
+  },
+  "Dagger Throw": {
+    "NAME": "Dagger Throw",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL จั่วการ์ด 1 ใบ. NL ทิ้งการ์ด 1 ใบ."
+  },
+  "Brutality": {
+    "NAME": "Brutality",
+    "DESCRIPTION": "เมื่อเริ่มเทิร์น, เสีย 1 HP and จั่วการ์ด 1 ใบ.",
+    "UPGRADE_DESCRIPTION": "Innate. NL เมื่อเริ่มเทิร์น, เสีย 1 HP and จั่วการ์ด 1 ใบ."
+  },
+  "Iron Wave": {
+    "NAME": "Iron Wave",
+    "DESCRIPTION": "ได้รับ !B! Block. NL ทำดาเมจ !D!."
+  },
+  "Reckless Charge": {
+    "NAME": "Reckless Charge",
+    "DESCRIPTION": "ได้รับ 1 Vulnerable. NL ทำดาเมจ !D!."
+  },
+  "Decay": {
+    "NAME": "Decay",
+    "DESCRIPTION": "เล่นไม่ได้. NL เมื่อสิ้นสุดเทิร์นของเรา, ได้รับ 2 ดาเมจ."
+  },
+  "Tools of the Trade": {
+    "NAME": "Tools of the Trade",
+    "DESCRIPTION": "เมื่อเริ่มต้นเทิร์นของเรา, จั่วการ์ด 1 ใบและทิ้งการ์ด 1 ใบ."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Dramatic Entrance",
+    "DESCRIPTION": "Innate. NL ทำดาเมจ !D! กับศัตรูทุกตัว. NL Exhaust."
+  },
+  "Hemokinesis": {
+    "NAME": "Hemokinesis",
+    "DESCRIPTION": "เสีย !M! HP. NL ทำดาเมจ !D!."
+  },
+  "Intimidate": {
+    "NAME": "Intimidate",
+    "DESCRIPTION": "ทำให้ติด !M! Weak กับศัตรูทุกตัว. NL Exhaust."
+  },
+  "Necronomicurse": {
+    "NAME": "Necronomicurse",
+    "DESCRIPTION": "เล่นไม่ได้. NL ไม่มีทางหนีรอดจากคำสาปนี้ไปได้."
+  },
+  "Choke": {
+    "NAME": "Choke",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทุกครั้งที่เราใช้งานการ์ดในเทิร์นนี้, เป้าหมายจะสูญเสีย !M! HP."
+  },
+  "Juggernaut": {
+    "NAME": "Juggernaut",
+    "DESCRIPTION": "ทุกครั้งที่เราได้รับ Block, ทำดาเมจ !M! ให้ศัตรูแบบสุ่ม."
+  },
+  "Caltrops": {
+    "NAME": "Caltrops",
+    "DESCRIPTION": "ทุกครั้งที่เราถูกโจมตี, ทำดาเมจ !M! ให้กับศัตรูที่โจมตีเรา."
+  },
+  "Poisoned Stab": {
+    "NAME": "Poisoned Stab",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทำให้ติด !M! Poison."
+  },
+  "Blur": {
+    "NAME": "Blur",
+    "DESCRIPTION": "ได้รับ !B! Block. NL Block จะไม่หายเมื่อเริ่มต้นเทิร์นในเทิร์นหน้า."
+  },
+  "Body Slam": {
+    "NAME": "Body Slam",
+    "DESCRIPTION": "ทำดาเมจเท่ากับจำนวน Block ที่เรามีอยู่.",
+    "UPGRADE_DESCRIPTION": " NL (ทำดาเมจ !D!.)"
+  },
+  "True Grit": {
+    "NAME": "True Grit",
+    "DESCRIPTION": "ได้รับ !B! Block. NL Exhaust การ์ดในมือแบบสุ่ม.",
+    "UPGRADE_DESCRIPTION": "ได้ !B! Block. NL เลือก Exhaust การ์ดในมือ."
+  },
+  "Setup": {
+    "NAME": "Setup",
+    "DESCRIPTION": "เลือกการ์ดจากบนมือไปวางไว้บนสุดของกองจั่ว. NL การ์ดใบนั้นใช้ 0 Energy จนกว่าจะถูกใช้งาน."
+  },
+  "Blood for Blood": {
+    "NAME": "Blood for Blood",
+    "DESCRIPTION": "ใช้ Energy ลดลง 1 [R] NL ทุกครั้งที่เสีย HP ในการต่อสู้. NL ทำดาเมจ !D!."
+  },
+  "Impervious": {
+    "NAME": "Impervious",
+    "DESCRIPTION": "ได้รับ !B! Block. NL Exhaust."
+  },
+  "Shrug It Off": {
+    "NAME": "Shrug It Off",
+    "DESCRIPTION": "ได้รับ !B! Block. NL จั่วการ์ด 1 ใบ."
+  },
+  "Clash": {
+    "NAME": "Clash",
+    "DESCRIPTION": "สามารถใช้งานได้เมื่อบนมือมีแต่การ์ดโจมตีเท่านั้น. NL ทำดาเมจ !D!.",
+    "EXTENDED_DESCRIPTION": [
+      "มีการ์ดที่ไม่ใช่การ์ดโจมตีอยู่บนมือ."
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Thunderclap",
+    "DESCRIPTION": "ทำดาเมจ !D! และทำให้ติด 1 Vulnerable กับศัตรูทุกตัว."
+  },
+  "Flame Barrier": {
+    "NAME": "Flame Barrier",
+    "DESCRIPTION": "ได้รับ !B! Block. NL ทุกครั้งที่ถูกโจมตีในเทิร์นนี้, ทำดาเมจ !M! ให้กับผู้ที่โจมตี. "
+  },
+  "Endless Agony": {
+    "NAME": "Endless Agony",
+    "DESCRIPTION": "ทุกครั้งที่จั่วการ์ดใบนี้ได้, คัดลอกการ์ดใบนี้อีกใบขึ้นมือ. NL ทำดาเมจ !D!. NL Exhaust."
+  },
+  "Berserk": {
+    "NAME": "Berserk",
+    "DESCRIPTION": "เมื่อ HP เราต่ำกว่าหรือเท่ากับ 50%, ได้รับ [R] เมื่อเริ่มต้นเทิร์น."
+  },
+  "Pummel": {
+    "NAME": "Pummel",
+    "DESCRIPTION": "ทำดาเมจ !D! !M! ครั้ง. NL Exhaust."
+  },
+  "Riddle With Holes": {
+    "NAME": "Riddle With Holes",
+    "DESCRIPTION": "ทำดาเมจ !D! 5 ครั้ง."
+  },
+  "Burning Pact": {
+    "NAME": "Burning Pact",
+    "DESCRIPTION": "Exhaust การ์ด 1 ใบ. NL จั่วการ์ด !M! ใบ."
+  },
+  "Metallicize": {
+    "NAME": "Metallicize",
+    "DESCRIPTION": "เมื่อสิ้นสุดเทิร์นของเรา, ได้รับ !M! Block."
+  },
+  "Pommel Strike": {
+    "NAME": "Pommel Strike",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL จั่วการ์ด !M! ใบ.",
+    "UPGRADE_DESCRIPTION": "ทำดาเมจ !D!. NL จั่วการ์ด !M! ใบ."
+  },
+  "Pain": {
+    "NAME": "Pain",
+    "DESCRIPTION": "เล่นไม่ได้. NL เมื่อการ์ดใบนี้อยู่บนมือ, NL เสีย 1 HP ทุกครั้งที่มีการใช้งานการ์ด."
+  },
+  "Burst": {
+    "NAME": "Burst",
+    "DESCRIPTION": "ในเทิร์นนี้, การ์ดสกิลถัดไปจะทำงาน 2 ครั้ง.",
+    "UPGRADE_DESCRIPTION": "ในเทิร์นนี้, การ์ดสกิล !M! ใบจะทำงาน 2 ครั้ง."
+  },
+  "Acrobatics": {
+    "NAME": "Acrobatics",
+    "DESCRIPTION": "จั่วการ์ด !M! ใบ. NL ทิ้งการ์ด 1 ใบ."
+  },
+  "Blind": {
+    "NAME": "Blind",
+    "DESCRIPTION": "ทำให้ติด !M! Weak.",
+    "UPGRADE_DESCRIPTION": "ทำให้ติด !M! Weak กับศัตรูทุกตัว."
+  },
+  "Doppelganger": {
+    "NAME": "Doppelganger",
+    "DESCRIPTION": "ในเทิร์นต่อไป, จั่วการ์ด X ใบ และได้รับ X [G]. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "ในเทิร์นต่อไป, จั่วการ์ด X+1 ใบ และได้รับ X+1 [G]. NL Exhaust."
+  },
+  "Skewer": {
+    "NAME": "Skewer",
+    "DESCRIPTION": "ทำดาเมจ !D! X ครั้ง."
+  },
+  "Envenom": {
+    "NAME": "Envenom",
+    "DESCRIPTION": "ทุกครั้งที่เราทำดาเมจเข้าเลือดศัตรู, ทำให้ติด 1 Poison."
+  },
+  "Adrenaline": {
+    "NAME": "Adrenaline",
+    "DESCRIPTION": "ได้รับ [G]. NL จั่วการ์ด 2 ใบ. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "ได้รับ [G] [G]. NL จั่วการ์ด 2 ใบ. NL Exhaust."
+  },
+  "Quick Slash": {
+    "NAME": "Quick Slash",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL จั่วการ์ด 1 ใบ."
+  },
+  "Twin Strike": {
+    "NAME": "Twin Strike",
+    "DESCRIPTION": "ทำดาเมจ !D! 2 ครั้ง."
+  },
+  "Parasite": {
+    "NAME": "Parasite",
+    "DESCRIPTION": "เล่นไม่ได้. NL เมื่อแปรรูป หรือ นำออกจากเด็ค, เสีย 3 Max HP"
+  },
+  "Bash": {
+    "NAME": "Bash",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทำให้ติด !M! Vulnerable."
+  },
+  "Clothesline": {
+    "NAME": "Clothesline",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทำให้ติด !M! Weak."
+  },
+  "Shockwave": {
+    "NAME": "Shockwave",
+    "DESCRIPTION": "ทำให้ติด !M! Weak และ Vulnerable กับศัตรูทุกตัว. NL Exhaust."
+  },
+  "Rampage": {
+    "NAME": "Rampage",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทุกครั้งที่ใช้งานการ์ดใบนี้, เพิ่มดาเมจการ์ดใบนี้ !M! จนจบการต่อสู้."
+  },
+  "Bandage Up": {
+    "NAME": "Bandage Up",
+    "DESCRIPTION": "ฟื้นฟู !M! HP. NL Exhaust."
+  },
+  "The Bomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTION": "ทำดาเมจ !D! ให้กับทุกคน (รวมถึงตัวเองด้วย). NL Exhaust."
+  },
+  "Sever Soul": {
+    "NAME": "Sever Soul",
+    "DESCRIPTION": "Exhaust การ์ดที่ไม่ใช่การ์ดโจมตีทุกใบบนมือ. NL ทำดาเมจ !D!."
+  },
+  "Whirlwind": {
+    "NAME": "Whirlwind",
+    "DESCRIPTION": "ทำดาเมจ !D! ให้กับศัตรูทุกตัว X ครั้ง."
+  },
+  "Warcry": {
+    "NAME": "Warcry",
+    "DESCRIPTION": "จั่วการ์ด !M! ใบ. NL นำการ์ดบนมือหนึ่งใบ วางไว้บนสุดของกองจั่ว. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "จั่วการ์ด !M! ใบ. NL นำการ์ดบนมือหนึ่งใบ วางไว้บนสุดของกองจั่ว. NL Exhaust."
+  },
+  "PiercingWail": {
+    "NAME": "Piercing Wail",
+    "DESCRIPTION": "ศัตรูทุกตัว เสีย !M! Strength เป็นเวลา 1 เทิร์น. NL Exhaust."
+  },
+  "Bite": {
+    "NAME": "Bite",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ฟื้นฟู !M! HP."
+  },
+  "Secret Technique": {
+    "NAME": "Secret Technique",
+    "DESCRIPTION": "เลือกการ์ดทักษะที่อยู่ในกองจั่วและนำขึ้นมือ. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "เลือกการ์ดทักษะที่อยู่ในกองจั่วและนำขึ้นมือ.",
+    "EXTENDED_DESCRIPTION": [
+      "ไม่มีการ์ดทักษะในกองจั่ว."
+    ]
+  },
+  "Calculated Gamble": {
+    "NAME": "Calculated Gamble",
+    "DESCRIPTION": "ทิ้งการ์ดทุกใบในมือ, NL จั่วการ์ดตามจำนวนที่ทิ้งไป. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "ทิ้งการ์ดทุกใบในมือ, NL ั่วการ์ดตามจำนวนที่ทิ้งไป."
+  },
+  "Combust": {
+    "NAME": "Combust",
+    "DESCRIPTION": "เมื่อสิ้นสุดเทิร์น, เสีย 1 HP และทำดาเมจ !M! กับศัตรูทุกตัว."
+  },
+  "Deep Breath": {
+    "NAME": "Deep Breath",
+    "DESCRIPTION": "นำการ์ดในกองทิ้งสับเข้าไปในกองจั่ว. NL จั่วการ์ด !M! ใบ.",
+    "UPGRADE_DESCRIPTION": "นำการ์ดในกองทิ้งสับเข้าไปในกองจั่ว. NL จั่วการ์ด !M! ใบ."
+  },
+  "Doubt": {
+    "NAME": "Doubt",
+    "DESCRIPTION": "เล่นไม่ได้. NL เมื่อสิ้นสุดเทิร์น, ได้รับ 1 Weak."
+  },
+  "Escape Plan": {
+    "NAME": "Escape Plan",
+    "DESCRIPTION": "จั่วการ์ด 1 ใบ. NL ถ้าการ์ดที่จั่วเป็นการ์ดทักษะ, ได้รับ !B! Block."
+  },
+  "Finisher": {
+    "NAME": "Finisher",
+    "DESCRIPTION": "ทำดาเมจ !D! ต่อจำนวนการใช้งานการ์ดโจมตีในเทิร์นนี้.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (คุณได้ใช้งาน ",
+      " การ์ดโจมตี.)",
+      " การ์ดโจมตี.)"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Dark Embrace",
+    "DESCRIPTION": "ทุกครั้งที่การ์ด exhausted, NL จั่วการ์ด 1 ใบ."
+  },
+  "Die Die Die": {
+    "NAME": "Die Die Die",
+    "DESCRIPTION": "ทำดาเมจ !D! ให้กับศัตรูทุกตัว. NL Exhaust."
+  },
+  "Well Laid Plans": {
+    "NAME": "Well-Laid Plans",
+    "DESCRIPTION": "เมื่อสิ้นสุดเทิร์น, สามารถเลือกการ์ด !M! ใบ เก็บไว้ใช้เทิร์นหน้า.",
+    "UPGRADE_DESCRIPTION": "เมื่อสิ้นสุดเทิร์น, สามารถเลือกการ์ด !M! ใบ เก็บไว้ใช้เทิร์นหน้า."
+  },
+  "Defend_R": {
+    "NAME": "Defend",
+    "DESCRIPTION": "ได้รับ !B! Block."
+  },
+  "Defend_G": {
+    "NAME": "Defend",
+    "DESCRIPTION": "ได้รับ !B! Block."
+  },
+  "Defend_B": {
+    "NAME": "Defend",
+    "DESCRIPTION": "ได้รับ !B! Block."
+  },
+  "Seeing Red": {
+    "NAME": "Seeing Red",
+    "DESCRIPTION": "ได้รับ [R] [R]. NL Exhaust."
+  },
+  "Disarm": {
+    "NAME": "Disarm",
+    "DESCRIPTION": "ศัตรู เสีย !M! Strength. NL Exhaust."
+  },
+  "Panache": {
+    "NAME": "Panache",
+    "DESCRIPTION": "ทุกครั้งที่ใช้งานการ์ด 5 ใบ ในหนึ่งเทิร์น,ทำดาเมจ !M! ให้กับศัตรูทุกตัว."
+  },
+  "Fiend Fire": {
+    "NAME": "Fiend Fire",
+    "DESCRIPTION": "Exhaust การ์ดทุกใบในมือ. NL ทำดาเมจ !D! ต่อครั้ง ตามจำนวนการ์ดที่ถูก Exhaust. NL Exhaust."
+  },
+  "Terror": {
+    "NAME": "Terror",
+    "DESCRIPTION": "ทำให้ติด 99 Vulnerable. NL Exhaust."
+  },
+  "Dazed": {
+    "NAME": "Dazed",
+    "DESCRIPTION": "เล่นไม่ได้. NL Ethereal."
+  },
+  "Barricade": {
+    "NAME": "Barricade",
+    "DESCRIPTION": "Block จะไม่หายไปเมื่อเริ่มต้นเทิร์นใหม่."
+  },
+  "Armaments": {
+    "NAME": "Armaments",
+    "DESCRIPTION": "ได้รับ !B! Block. NL อัพเกรดการ์ด 1 ใบบนมือ จนจบการต่อสู้.",
+    "UPGRADE_DESCRIPTION": "ได้รับ !B! Block. NL อัพเกรดการ์ดทุกใบบนมือ จนจบการต่อสู้."
+  },
+  "Havoc": {
+    "NAME": "Havoc",
+    "DESCRIPTION": "ใช้งานการ์ดที่วางอยู่บนสุดของกองจั่ว และ  Exhaust การ์ดใบนั้น."
+  },
+  "Secret Weapon": {
+    "NAME": "Secret Weapon",
+    "DESCRIPTION": "เลือกการ์ดโจมตีในกองจั่วเพื่อนำขึ้นมือ. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "เลือกการ์ดโจมตีในกองจั่วเพื่อนำขึ้นมือ.",
+    "EXTENDED_DESCRIPTION": [
+      "ไม่มีการ์ดโจมตีในกองจั่ว."
+    ]
+  },
+  "Apotheosis": {
+    "NAME": "Apotheosis",
+    "DESCRIPTION": "อัพเกรดการ์ดทุกใบที่เรามีจนจบการต่อสู้. NL Exhaust."
+  },
+  "Feel No Pain": {
+    "NAME": "Feel No Pain",
+    "DESCRIPTION": "ทุกครั้งที่การ์ดถูก exhausted, NL ได้รับ !M! Block."
+  },
+  "Hide": {
+    "NAME": "Hide",
+    "DESCRIPTION": "เราจะไม่เสีย HP จนกว่าจะเริ่มเทิร์นถัดไป. NL Exhaust."
+  },
+  "Corruption": {
+    "NAME": "Corruption",
+    "DESCRIPTION": "การ์ดทักษะใช้ 0 Energy. NL ทุกครั้งที่ใช้งานการ์ดทักษะ, Exhaust การ์ดใบนั้น."
+  },
+  "Heel Hook": {
+    "NAME": "Heel Hook",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ถ้าศัตรูติดสถานะ Weak, NL ได้รับ [G] และ NL จั่วการ์ด 1 ใบ."
+  },
+  "Injury": {
+    "NAME": "Injury",
+    "DESCRIPTION": "เล่นไม่ได้."
+  },
+  "Rage": {
+    "NAME": "Rage",
+    "DESCRIPTION": "ในเทิร์นนี้ ทุกครั้งที่ใช้งานการ์ดโจมตี,ได้รับ !M! Block."
+  },
+  "Headbutt": {
+    "NAME": "Headbutt",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL เลือกการ์ดในกองทิ้งไปวางไว้บนสุดของกองจั่ว."
+  },
+  "Limit Break": {
+    "NAME": "Limit Break",
+    "DESCRIPTION": "เพิ่ม Strength ปัจจุบันของเราสองเท่า. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "เพิ่ม Strength ปัจจุบันของเราสองเท่า."
+  },
+  "Entrench": {
+    "NAME": "Entrench",
+    "DESCRIPTION": "เพิ่ม Block ปัจจุบันของเราสองเท่า.",
+    "UPGRADE_DESCRIPTION": "เพิ่ม Block ปัจจุบันของเราสองเท่า."
+  },
+  "Noxious Fumes": {
+    "NAME": "Noxious Fumes",
+    "DESCRIPTION": "ทุกครั้งเมื่อเริ่มต้นเทิร์น, ทำให้ติด !M! Poison กับศัตรูทุกตัว."
+  },
+  "Infinite Blades": {
+    "NAME": "Infinite Blades",
+    "DESCRIPTION": "ทุกครั้งเมื่อเริ่มต้นเทิร์น, เพิ่มมีดสั้น 1 เล่มในมือ.",
+    "UPGRADE_DESCRIPTION": "Innate. NL ทุกครั้งเมื่อเริ่มต้นเทิร์น, เพิ่มมีดสั้น 1 เล่มในมือ."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Phantasmal Killer",
+    "DESCRIPTION": "ในเทิร์นถัดไป, การโจมตีของคุณจะเพิ่มดาเมจเป็นสองเท่า."
+  },
+  "Malaise": {
+    "NAME": "Malaise",
+    "DESCRIPTION": "ศัตรูเสีย X Strength. ทำให้ติด X Weak. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "ศัตรูเสีย X+1 Strength. ทำให้ติด X+1 Weak. NL Exhaust."
+  },
+  "Reflex": {
+    "NAME": "Reflex",
+    "DESCRIPTION": "เล่นไมได้. NL ถ้าการ์ดใบนี้ถูกทิ้งจากบนมือ,จั่วการ์ด !M! ใบ.",
+    "UPGRADE_DESCRIPTION": "เล่นไม่ได้. NL ถ้าการ์ดใบนี้ถูกทิ้งจากบนมือ,จั่วการ์ด !M! ใบ.",
+    "EXTENDED_DESCRIPTION": [
+      "ไม่สามารถเล่นการ์ดใบนี้ได้."
+    ]
+  },
+  "Sentinel": {
+    "NAME": "Sentinel",
+    "DESCRIPTION": "ได้รับ !B! Block. NL ถ้าการ์ดใบนี้ถูก exhaust, NL ได้รับ [R] [R].",
+    "UPGRADE_DESCRIPTION": "ได้รับ !B! Block. NL ถ้าการ์ดใบนี้ถูก exhaust, NL ได้รับ [R] [R] [R]."
+  },
+  "Survivor": {
+    "NAME": "Survivor",
+    "DESCRIPTION": "ได้รับ !B! Block. NL ทิ้งการ์ด 1 ใบ."
+  },
+  "Wild Strike": {
+    "NAME": "Wild Strike",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL นำ Wound สับเข้าไปในกองจั่ว."
+  },
+  "Eviscerate": {
+    "NAME": "Eviscerate",
+    "DESCRIPTION": "ใช้ Energy ลดลง 1 [G] NL ต่อจำนวนการ์ดที่ถูกทิ้งในเทิร์นนี้. NL ทำดาเมจ !D! 3 ครั้ง."
+  },
+  "Flash of Steel": {
+    "NAME": "Flash of Steel",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL จั่วการ์ด 1 ใบ."
+  },
+  "Battle Trance": {
+    "NAME": "Battle Trance",
+    "DESCRIPTION": "จั่วการ์ด !M! ใบ. NL ไม่สามารถจั่วการ์ดเพิ่มได้อีกในเทิร์นนี้."
+  },
+  "Heavy Blade": {
+    "NAME": "Heavy Blade",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL Strength ส่งผลต่อดาเมจการ์ดใบนี้ !M! เท่า."
+  },
+  "Clumsy": {
+    "NAME": "Clumsy",
+    "DESCRIPTION": "เล่นไม่ได้. NL Ethereal."
+  },
+  "Searing Blow": {
+    "NAME": "Searing Blow",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL สามารถอัพเกรดการ์ดใบนี้กี่ครั้งก็ได้"
+  },
+  "Corpse Explosion": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTION": "ลบสถานะ Poison ของศัตรูทั้งหมด. ทำดาเมจสองเท่าของ Poison ที่ถูกลบไป ให้กับศัตรูทั้งหมด.",
+    "UPGRADE_DESCRIPTION": "ลบสถานะ Poison ของศัตรูทั้งหมด. ทำดาเมจสามเท่าของ Poison ที่ถูกลบไป ให้กับศัตรูทั้งหมด.",
+    "EXTENDED_DESCRIPTION": [
+      "That enemy isn't Poisoned."
+    ]
+  },
+  "Second Wind": {
+    "NAME": "Second Wind",
+    "DESCRIPTION": "Exhaust การ์ดที่ไม่ใช่การ์ดโจมตีในมือและได้รับ !B! Block ต่อใบ."
+  },
+  "Enlightenment": {
+    "NAME": "Enlightenment",
+    "DESCRIPTION": "ลดจำนวนการใช้ Energy ของการ์ดลงเหลือ 1 ในเทิร์นนี้.",
+    "UPGRADE_DESCRIPTION": "ลดจำนวนการใช้ Energy ของการ์ดลงเหลือ 1 จนจบการต่อสู้."
+  },
+  "Purity": {
+    "NAME": "Purity",
+    "DESCRIPTION": "เลือกการ์ดได้ถึง  !M! ใบในมือและทำการ Exhaust. NL Exhaust."
+  },
+  "Panacea": {
+    "NAME": "Panacea",
+    "DESCRIPTION": "ได้รับ !M! Artifact. NL Exhaust."
+  },
+  "Dash": {
+    "NAME": "Dash",
+    "DESCRIPTION": "ได้รับ !B! Block. NL ทำดาเมจ !D!."
+  },
+  "Transmutation": {
+    "NAME": "Transmutation",
+    "DESCRIPTION": "สุ่มเพิ่มการ์ดไร้สี X ใบขึ้นมือ. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "สุ่มเพิ่มการ์ดไร้สีที่อัพเกรดแล้ว X ใบขึ้นมือ. NL Exhaust."
+  },
+  "Backstab": {
+    "NAME": "Backstab",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL Innate. NL Exhaust."
+  },
+  "Step Through Time": {
+    "NAME": "Step Through Time",
+    "DESCRIPTION": "COST: 2 Charge. NL Your HP returns to the value it was last turn. NL Exhaust."
+  },
+  "Feed": {
+    "NAME": "Feed",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ถ้าใช้การ์ดใบนี้ฆ่า Non-minion, ได้รับ !M! Max HP ถาวร. Exhaust."
+  },
+  "Rupture": {
+    "NAME": "Rupture",
+    "DESCRIPTION": "ทุกครั้งที่เสีย HP จากการใช้งานการ์ด, NL ได้รับ 1 Strength."
+  },
+  "Venomology": {
+    "NAME": "Alchemize",
+    "DESCRIPTION": "สุ่มรับ Potion 1 ขวด. NL Exhaust."
+  },
+  "Bouncing Flask": {
+    "NAME": "Bouncing Flask",
+    "DESCRIPTION": "ทำให้ติด 3 Poison กับศัตรูแบบสุ่ม !M! ครั้ง."
+  },
+  "Bludgeon": {
+    "NAME": "Bludgeon",
+    "DESCRIPTION": "ทำดาเมจ !D!."
+  },
+  "Finesse": {
+    "NAME": "Finesse",
+    "DESCRIPTION": "ได้รับ !B! Block. NL จั่วการ์ด 1 ใบ."
+  },
+  "Slice": {
+    "NAME": "Slice",
+    "DESCRIPTION": "ทำดาเมจ !D!."
+  },
+  "Backflip": {
+    "NAME": "Backflip",
+    "DESCRIPTION": "ได้รับ !B! Block. NL จั่วการ์ด 2 ใบ."
+  },
+  "Outmaneuver": {
+    "NAME": "Outmaneuver",
+    "DESCRIPTION": "ในเทิร์นถัดไป NL ได้รับ [G] [G].",
+    "UPGRADE_DESCRIPTION": "ในเทิร์นถัดไป NL ได้รับ [G] [G] [G]."
+  },
+  "Night Terror": {
+    "NAME": "Nightmare",
+    "DESCRIPTION": "เลือกการ์ด 1 ใบ. NL ในเทิร์นถัดไป, เพิ่มการ์ดที่เลือก !M! 3 ใบใส่มือ. Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "I can only use NL ",
+      " NL once per turn."
+    ]
+  },
+  "Bloodletting": {
+    "NAME": "Bloodletting",
+    "DESCRIPTION": "ได้รับ [R]. NL เสีย 3 HP.",
+    "UPGRADE_DESCRIPTION": "ได้รับ [R] [R]. NL เสีย 3 HP."
+  },
+  "Concentrate": {
+    "NAME": "Concentrate",
+    "DESCRIPTION": "ทิ้งการ์ด !M! ใบ. NL ได้รับ [G] [G]."
+  },
+  "Master of Strategy": {
+    "NAME": "Master of Strategy",
+    "DESCRIPTION": "จั่วการ์ด !M! ใบ. NL Exhaust."
+  },
+  "Flechettes": {
+    "NAME": "Flechettes",
+    "DESCRIPTION": "ทำดาเมจ !D! ต่อจำนวนการ์ดทักษะที่อยู่บนมือ.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (You have ",
+      " Skill).",
+      " Skills)."
+    ]
+  },
+  "Perfected Strike": {
+    "NAME": "Perfected Strike",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทำดาเมจเพิ่มเติม +2 ต่อจำนวนการ์ดที่มีชื่อว่า \"Strike\" ที่เรามี.",
+    "UPGRADE_DESCRIPTION": "ทำดาเมจ !D!. NL ทำดาเมจเพิ่มเติม +3 ต่อจำนวนการ์ดที่มีชื่อว่า \"Strike\" ที่เรามี."
+  },
+  "Carnage": {
+    "NAME": "Carnage",
+    "DESCRIPTION": "Ethereal. NL ทำดาเมจ !D!."
+  },
+  "Masterful Stab": {
+    "NAME": "Masterful Stab",
+    "DESCRIPTION": "สามารถใช้งานได้เมื่อไม่มีการ์ดใบอื่นอยู่บนมือ. NL ทำดาเมจ !D!.",
+    "UPGRADE_DESCRIPTION": "ต้องเป็นการ์ด NL ใบสุดท้าย."
+  },
+  "Good Instincts": {
+    "NAME": "Good Instincts",
+    "DESCRIPTION": "ได้รับ !B! Block."
+  },
+  "Prepared": {
+    "NAME": "Prepared",
+    "DESCRIPTION": "จั่วการ์ด !M! ใบ. NL ทิ้งการ์ด !M! ใบ.",
+    "UPGRADE_DESCRIPTION": "จั่วการ์ด !M! ใบ. NL ทิ้งการ์ด !M! ใบ."
+  },
+  "Dropkick": {
+    "NAME": "Dropkick",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ถ้าศัตรูมีสถานะ Vulnerable, NL ได้รับ [R] และ NL จั่วการ์ด 1 ใบ."
+  },
+  "Swift Strike": {
+    "NAME": "Swift Strike",
+    "DESCRIPTION": "ทำดาเมจ !D!."
+  },
+  "Normality": {
+    "NAME": "Normality",
+    "DESCRIPTION": "เล่นไม่ได้. NL ในเทิร์นนี้เราไม่สามารถใช้งานการ์ดได้เกิน 3 ใบ.",
+    "EXTENDED_DESCRIPTION": [
+      "I can only play up to NL #r3 cards this turn.",
+      "Unplayable. NL You cannot play more than ",
+      " cards per turn.",
+      " cards per turn. NL You have played ",
+      " card this turn."
+    ]
+  },
+  "Accuracy": {
+    "NAME": "Accuracy",
+    "DESCRIPTION": "เพิ่มดาเมจให้มีดสั้น !M!."
+  },
+  "Sword Boomerang": {
+    "NAME": "Sword Boomerang",
+    "DESCRIPTION": "ทำดาเมจ !D! ให้กับศัตรูแบบสุ่ม !M! ครั้ง."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Jack Of All Trades",
+    "DESCRIPTION": "สุ่มเพิ่มการ์ดไร้สี !M! ใบใส่มือ. NL Exhaust."
+  },
+  "Demon Form": {
+    "NAME": "Demon Form",
+    "DESCRIPTION": "เมื่อเริ่มต้นเทิร์น, ได้รับ !M! Strength."
+  },
+  "Fire Breathing": {
+    "NAME": "Fire Breathing",
+    "DESCRIPTION": "เมื่อสิ้นสุดเทิร์น, ทำ 1 ดาเมจให้กับศัตรูทุกตัว ต่อจำนวนการ์ดโจมตีที่ใช้งานไปในเทิร์นนี้"
+  },
+  "Ghostly Armor": {
+    "NAME": "Ghostly Armor",
+    "DESCRIPTION": "Ethereal. NL ได้รับ !B! Block."
+  },
+  "Uppercut": {
+    "NAME": "Uppercut",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทำให้ติด !M! Weak. NL ทำให้ติด !M! Vulnerable."
+  },
+  "Mind Blast": {
+    "NAME": "Mind Blast",
+    "DESCRIPTION": "ทำดาเมจเท่ากับจำนวนการ์ดในกองจั่ว.",
+    "UPGRADE_DESCRIPTION": "Innate. NL ทำดาเมจเท่ากับจำนวนการ์ดในกองจั่ว.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (ทำดาเมจ !D!.)"
+    ]
+  },
+  "Neutralize": {
+    "NAME": "Neutralize",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทำให้ติด !M! Weak."
+  },
+  "Strike_R": {
+    "NAME": "Strike",
+    "DESCRIPTION": "ทำดาเมจ !D!."
+  },
+  "Strike_G": {
+    "NAME": "Strike",
+    "DESCRIPTION": "ทำดาเมจ !D!."
+  },
+  "Strike_B": {
+    "NAME": "Strike",
+    "DESCRIPTION": "ทำดาเมจ !D!."
+  },
+  "Evolve": {
+    "NAME": "Evolve",
+    "DESCRIPTION": "นำ Wounds 2 ใบสับเข้าไปในกองจั่ว. NL ทุกครั้งที่จั่วได้ Wound, จั่วการ์ด !M! ใบ.",
+    "UPGRADE_DESCRIPTION": "นำ Wounds 2 ใบสับเข้าไปในกองจั่ว. NL ทุกครั้งที่จั่วได้ Wound, จั่วการ์ด !M! ใบ."
+  },
+  "Burn": {
+    "NAME": "Burn",
+    "DESCRIPTION": "เล่นไม่ได้. NL เมื่อสิ้นสุดเทิร์น, ได้รับ 2 ดาเมจ.",
+    "UPGRADE_DESCRIPTION": "เล่นไม่ได้. NL เมื่อสิ้นสุดเทิร์น, ได้รับ 4 ดาเมจ."
+  },
+  "Sucker Punch": {
+    "NAME": "Sucker Punch",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทำให้ติด !M! Weak."
+  },
+  "Double Tap": {
+    "NAME": "Double Tap",
+    "DESCRIPTION": "ในเทิร์นนี้, การ์ดโจมตีถัดไปจะถูกใช้งานสองรอบ.",
+    "UPGRADE_DESCRIPTION": "ในเทิร์นนี้, การ์ดโจมตี !M! ใบ จะถูกใช้งานสองรอบ."
+  },
+  "Footwork": {
+    "NAME": "Footwork",
+    "DESCRIPTION": "ได้รับ !M! Dexterity."
+  },
+  "Thinking Ahead": {
+    "NAME": "Thinking Ahead",
+    "DESCRIPTION": "จั่วการ์ด 2 ใบ. NL นำการ์ดบนมือไปวางไว้บนสุดของกองจั่ว. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "จั่วการ์ด 2 ใบ. NL นำการ์ดบนมือไปวางไว้บนสุดของกองจั่ว.."
+  },
+  "Distraction": {
+    "NAME": "Distraction",
+    "DESCRIPTION": "เพิ่มการ์ดทักษะใส่มือแบบสุ่ม. NL การ์ดใบนั้นใช้ 0 Energy ในเทิร์นนี้. NL Exhaust."
+  },
+  "Dodge and Roll": {
+    "NAME": "Dodge and Roll",
+    "DESCRIPTION": "ได้รับ !B! Block. NL ในเทิร์นหน้า ได้รับ !B! Block."
+  },
+  "All Out Attack": {
+    "NAME": "All-Out Attack",
+    "DESCRIPTION": "ทำดาเมจ !D! ให้กับศัตรูทุกตัว. NL จั่วการ์ดน้อยลง 1 ใบ ในเทิร์นหน้า."
+  },
+  "Flying Knee": {
+    "NAME": "Flying Knee",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ในเทิร์นหน้า ได้รับ [G]."
+  },
+  "Predator": {
+    "NAME": "Predator",
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ในเทิร์นหน้า จั่วการ์ดเพิ่ม 2 ใบ."
+  },
+  "Madness": {
+    "NAME": "Madness",
+    "DESCRIPTION": "สุ่มการ์ดบนมือ 1 ใบ การ์ดใบนั้นจะใช้ 0 Energy จนจบการต่อสู้. NL Exhaust."
+  },
+  "Expertise": {
+    "NAME": "Expertise",
+    "DESCRIPTION": "จั่วการ์ดจนมีการ์ด !M! ใบบนมือ."
+  }
+}

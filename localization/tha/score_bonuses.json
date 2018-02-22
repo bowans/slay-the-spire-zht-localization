@@ -1,0 +1,174 @@
+{
+  "Ascension": {
+    "NAME": "ระดับความยาก",
+    "DESCRIPTIONS": [
+      "+คะแนน 5% ต่อ 1 ระดับความยาก."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "ฆ่า Elites ที่ Act 3",
+    "DESCRIPTIONS": []
+  },
+  "Bosses Slain": {
+    "NAME": "กำจัดบอส",
+    "DESCRIPTIONS": []
+  },
+  "City Elites Killed": {
+    "NAME": "ฆ่า Elites ที่ Act 2",
+    "DESCRIPTIONS": []
+  },
+  "Exordium Elites Killed": {
+    "NAME": "ฆ่า Elites ที่ Act 1",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "แชมป์เปี้ยน",
+    "DESCRIPTIONS": [
+      "กำจัด Elite โดยไม่ได้รับดาเมจ."
+    ]
+  },
+  "Perfect": {
+    "NAME": "สมบูรณ์แบบ",
+    "DESCRIPTIONS": [
+      "กำจัด บอส โดยไม่ได้รับดาเมจ."
+    ]
+  },
+  "Beyond Perfect": {
+    "NAME": "ไร้เทียมทาน",
+    "DESCRIPTIONS": [
+      "กำจัด บอสทั้ง 3 ตัว โดยไม่ได้รับดาเมจ."
+    ]
+  },
+  "Overkill": {
+    "NAME": "ป่าเถื่อน",
+    "DESCRIPTIONS": [
+      "ทำดาเมจมากกว่าหรือเท่ากับ 99 ในการโจมตีเพียงครั้งเดียว."
+    ]
+  },
+  "Combo": {
+    "NAME": "ค-ค-คอมโบ!!",
+    "DESCRIPTIONS": [
+      "ใช้งานการ์ด 20 ใบ ในหนึ่งเทิร์น."
+    ]
+  },
+  "Poopy": {
+    "NAME": "อุนจิน้อย",
+    "DESCRIPTIONS": [
+      "มี Relics Spirit Poop."
+    ]
+  },
+  "Cheater": {
+    "NAME": "คนโกง",
+    "DESCRIPTIONS": [
+      "จับได้ว่าทำการโกง. ถ้าจับได้อีกรอบ,คะแนนจะไม่ถูกอัพโหลดลงบน กระดานคะแนน."
+    ]
+  },
+  "Speedster": {
+    "NAME": "รวดเร็ว",
+    "DESCRIPTIONS": [
+      "ได้รับชัยชนะใน 60 นาที."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "เร็วดุจแสง",
+    "DESCRIPTIONS": [
+      "ได้รับชัยชนะใน 45 นาที."
+    ]
+  },
+  "Money Money": {
+    "NAME": "เงิน เงิน เงิน!!",
+    "DESCRIPTIONS": [
+      "ได้รับ 1000 ทอง."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "เงินจากฟ้า",
+    "DESCRIPTIONS": [
+      "ได้รับ 2000 ทอง."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "ชอบทองที่สุดเลย",
+    "DESCRIPTIONS": [
+      "ได้รับ 3000 ทอง."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "เล็กนิดเดียว",
+    "DESCRIPTIONS": [
+      "นำการ์ดออกจากเด็คมากกว่า 5 ใบ."
+    ]
+  },
+  "Highlander": {
+    "NAME": "หลากหลาย",
+    "DESCRIPTIONS": [
+      "ไม่มีการ์ดซ้ำกันสักใบ (ยกเว้นการ์ดเริ่มต้น)."
+    ]
+  },
+  "Shiny": {
+    "NAME": "ส่องแสงประกาย",
+    "DESCRIPTIONS": [
+      "มี Relics 25 ชิ้นขึ้นไป."
+    ]
+  },
+  "Collector": {
+    "NAME": "นักสะสม",
+    "DESCRIPTIONS": [
+      "มีการ์ดเหมือนกัน 4 ใบขึ้นไป."
+    ]
+  },
+  "Pauper": {
+    "NAME": "น่าอดสู",
+    "DESCRIPTIONS": [
+      "มีการ์ดระดับหายาก 0 ใบ."
+    ]
+  },
+  "Librarian": {
+    "NAME": "ผู้ดูแลห้องสมุด",
+    "DESCRIPTIONS": [
+      "มีการ์ดในเด็คมากกว่า 35 ใบ."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "หนาเกินไแล้ว",
+    "DESCRIPTIONS": [
+      "มีการ์ดในเด็คมากกว่า 50 ใบ."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "อร่อยมาก",
+    "DESCRIPTIONS": [
+      "เพิ่ม Max HP 15+."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "ของอร่อยทั้งนั้น",
+    "DESCRIPTIONS": [
+      "เพิ่ม Max HP 30+."
+    ]
+  },
+  "Curses": {
+    "NAME": "จ้าวแห่งคำสาป!",
+    "DESCRIPTIONS": [
+      "มีคำสาป 5 ใบ ในเด็ค."
+    ]
+  },
+  "Alchemist": {
+    "NAME": "นักปรุงยา",
+    "DESCRIPTIONS": [
+      "ซื้อ Potion 5 ขวด."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "จ้าวแห่งการเสี่ยงดวง",
+    "DESCRIPTIONS": [
+      "ไปที่ห้องสัญลักษณ์ <?> 15 ครั้ง."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "ศักดิ์ศรี",
+    "DESCRIPTIONS": [
+      "ฆ่าตัวตาย."
+    ]
+  }
+}
