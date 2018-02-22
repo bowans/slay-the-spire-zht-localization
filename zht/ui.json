@@ -32,11 +32,11 @@
       "希伯來語",
       "土耳其語",
       "瑞典語",
-      "Norwegian",
-      "Thai",
-      "Serbian",
-      "Ukrainian",
-      "Vietnamese"
+      "挪威語",
+      "泰語",
+      "塞爾維亞語",
+      "烏克蘭語",
+      "越南語"
     ]
   },
   "Proceed Button": {
@@ -439,7 +439,7 @@
       "跳過",
       "選一張牌",
       "+2 最大生命",
-      "現在投票：",
+      "現在投票： ",
       "秒後結束。"
     ]
   },
@@ -449,7 +449,7 @@
       "確認你的選擇",
       "選擇一樣遺物",
       "跳過",
-      "現在投票：",
+      "現在投票： ",
       "秒後結束。"
     ]
   },
@@ -560,21 +560,21 @@
   },
   "MenuButton": {
     "TEXT": [
-      "卡片收集冊",
+      "",
       "開始遊戲",
-      "每日挑戰",
-      "遺物收集",
+      "",
+      "",
       "繼續",
-      "排行榜",
+      "",
       "統計內容",
-      "製作名單",
+      "",
       "退出",
       "更新內容清單",
       "放棄當前遊戲",
-      "放棄當前遊戲（請再次點擊來確認放棄）",
+      "",
       "設定",
-      "歷史記錄",
-      "Compendium"
+      "",
+      "百科大全"
     ]
   },
   "PatchNotesScreen": {
@@ -913,68 +913,68 @@
   },
   "TwitchVoter": {
     "TEXT": [
-      "現在投票："
+      "現在投票： "
     ]
   },
   "DailyScreen": {
     "TEXT": [
-      "Daily Challenge",
-      "Connecting to Time Server...",
-      "You have done today's challenge",
-      "Return",
-      "Embark",
-      "Today's character: ",
-      "dd/MM/yyyy HH:mm:ss",
-      "Time Left: ",
-      "#yFloor #yReached: NL  ",
-      " NL NL  #yDeck: NL ",
-      " NL NL  #yRelics: NL  ",
-      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
-      " NL TAB #yMods: ",
-      "Modifiers: "
+      "每日挑戰",
+      "正在連線時間伺服器……",
+      "你已經完成今天的每日挑戰",
+      "返回",
+      "啟程",
+      "今日角色： ",
+      "yyyy/MM/dd HH:mm:ss",
+      "剩餘時間： ",
+      "#y到達的層數： NL  ",
+      " NL NL  #y牌組： NL ",
+      " NL NL  #y遺物： NL  ",
+      " NL 今日挑戰： NL 　　 #y職業： NL 　　 ",
+      " NL 　　 #y今日特效： ",
+      "每日特效： "
     ]
   },
   "MenuPanels": {
     "TEXT": [
-      "Standard",
+      "標準模式",
       "",
-      "Embark on a quest to Slay the Spire.",
-      "Daily Climb",
+      "啟程去屠戮這座高塔。",
+      "每日挑戰",
       "",
-      "A new challenge is availble once a day.\n\nCompete with other players for the highest score!",
-      "Ascension",
+      "每天會有一次全新的挑戰。\n\n和其他玩家一起比拼最高分吧！",
+      "攫升模式",
       "",
-      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
-      "Card Library",
+      "每一次勝利都會讓高塔變得更加強大。\n\n真金不怕火煉，在這裡測試你的極限。",
+      "卡牌總覽",
       "",
-      "View all of the cards you have encountered throughout the Spire.",
-      "Relic Collection",
+      "查看你在高塔中遇見過的所有卡牌。",
+      "遺物收集",
       "",
-      "Examine the various trinkets and artifacts obtained throughout your runs.",
-      "Bestiary",
+      "檢閱你在遊戲中獲取過的各種遺物與物件。",
+      "魔物圖鑒",
       "",
-      "This feature is not yet available.",
-      "Character Stats",
+      "這個功能還沒做好。",
+      "角色數據",
       "",
-      "The progress and statistics for each character can be seen here.",
-      "Leaderboards",
+      "可以在這裡看到每名角色的進度和相關資料。",
+      "排行榜",
       "",
-      "View and compare your score with friends and other players.",
-      "Run History",
+      "在這裡觀看你的分數，和好友與其他玩家比較一番。",
+      "歷史記錄",
       "",
-      "Revisit your past attempts at slaying the Spire.",
-      "Game Settings",
+      "查看你此前各局遊戲的概要。",
+      "遊戲設定",
       "",
-      "Change your resolution and toggle various options on/off.",
-      "Input Settings",
+      "改變遊戲的解析度和其他各種設定。",
+      "操作設定",
       "",
-      "This feature is not yet available.",
-      "Credits",
+      "這個功能還沒做好。",
+      "製作名單",
       "",
-      "See all of the people who contributed on Slay the Spire!",
-      "Unknown",
+      "來看一看所有為遊戲作出貢獻的人們！",
+      "未知",
       "",
-      "This feature is not yet available."
+      "這個功能還沒做好。"
     ]
   }
 }
