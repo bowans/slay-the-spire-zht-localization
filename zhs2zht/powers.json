@@ -370,9 +370,7 @@
   "Intangible": {
     "NAME": "無實體",
     "DESCRIPTIONS": [
-      "將受到的所有傷害和生命減少效果降低為 #b1 ，持續 #b",
-      " 回合。",
-      "將受到的所有傷害和生命減少效果降低為 #b1 ，持續 #b1 回合。"
+      "將本回合受到的所有傷害和生命減少效果降低為 #b1 。 無實體將每隔一回合重新生效。"
     ]
   },
   "Inverted": {
@@ -771,6 +769,13 @@
     "NAME": "爪牙",
     "DESCRIPTIONS": [
       "爪牙會在他們的領導者死亡時放棄戰鬥。"
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Growth",
+    "DESCRIPTIONS": [
+      "At the end of its turn, gains #b",
+      " #yStrength."
     ]
   }
 }
