@@ -108,7 +108,8 @@
       "Thai",
       "Serbian",
       "Ukrainian",
-      "Vietnamese"
+      "Vietnamese",
+      "Hungarian"
     ]
   },
   "Proceed Button": {
@@ -391,7 +392,7 @@
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "Le carte qui vengono mescolate nella tua Pila quando finisce le carte.",
+      "Le carte in questa zona vengono rimescolate nella tua Pila quando la finisci.",
       "Indietro",
       "Scarti"
     ]
@@ -606,6 +607,24 @@
       "Arte del Playtest"
     ]
   },
+  "DailyScreen": {
+    "TEXT": [
+      "Sfida del Giorno",
+      "Connessione al Server...",
+      "Hai già giocato la sfida di oggi",
+      "Indietro",
+      "Inizia",
+      "Personaggio di oggi: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Tempo rimanente: ",
+      "#yPiano #yRaggiunto: NL  ",
+      " NL NL  #yMazzo: NL ",
+      " NL NL  #yReliquie: NL  ",
+      " NL Sfida del Giorno: NL TAB #yClasse: NL TAB ",
+      " NL TAB #yMods: ",
+      "Modificatori: "
+    ]
+  },
   "SettingsScreen": {
     "TEXT": [
       "Sei sicuro?",
@@ -654,21 +673,21 @@
   },
   "MenuButton": {
     "TEXT": [
-      "Libreria Carte",
+      "",
       "Gioca",
-      "Sfida Giornaliera",
-      "Collezione Reliquie",
+      "",
+      "",
       "Continua",
-      "Leaderboards",
+      "",
       "Statistiche",
-      "Crediti",
+      "",
       "Esci",
       "Patch Notes",
       "Abbandona Partita",
-      "Abbandona Partita (clicca di nuovo per confermare)",
+      "",
       "Opzioni",
-      "Partite Precedenti",
-      "Compendium"
+      "",
+      "Compendio"
     ]
   },
   "CreditsScreen": {
@@ -687,31 +706,31 @@
     "TEXT": [
       "Indietro",
       "Iniziale:",
-      "I personaggi iniziano con queste reliquie.",
+      "Ciascun personaggio inizia con una di queste reliquie.",
       "Comune:",
       "Reliquie meno potenti, le più facili da trovare.",
       "Non comune:",
       "Reliquie più potenti che appaiono meno di quelle comuni.",
       "Rara:",
-      "Reliquie uniche e potenti, trovate di rado.",
+      "Reliquie uniche e potenti, piuttosto rare.",
       "Boss:",
-      "Reliquie che si trovano solo negli scrigni dei Boss.",
+      "Reliquie che puoi trovare solo negli scrigni dei Boss.",
       "Eventi:",
-      "Reliquie ottenibili solo tramite eventi.",
+      "Reliquie che puoi ottenere solo tramite eventi.",
       "Negozio:",
-      "Reliquie che possono essere solo acquistate nei Negozi."
+      "Reliquie che puoi acquistare solo nei Negozi."
     ]
   },
   "CharacterOption": {
     "TEXT": [
       "Bloccato",
-      "Questo personaggio verrà sbloccato completando una singola partita.",
+      "Sbloccherai questo personaggio completando una partita.",
       "Questo personaggio non è ancora disponibile in Early Access.",
-      "Questo personaggio verrà sbloccato raggiungendo la cima della Guglia.",
+      "Sbloccherai questo personaggio raggiungendo la cima della Guglia.",
       "PV: ",
       "Oro: ",
-      " Carte da Sbloccare Rimanenti",
-      "Sconosciuto",
+      "Carte ancora da Sbloccare",
+      "Ignoto",
       "???",
       " Al Prossimo Unlock"
     ]
@@ -916,65 +935,47 @@
       "L'Aldilà"
     ]
   },
-  "DailyScreen": {
-    "TEXT": [
-      "Daily Challenge",
-      "Connecting to Time Server...",
-      "You have done today's challenge",
-      "Return",
-      "Embark",
-      "Today's character: ",
-      "dd/MM/yyyy HH:mm:ss",
-      "Time Left: ",
-      "#yFloor #yReached: NL  ",
-      " NL NL  #yDeck: NL ",
-      " NL NL  #yRelics: NL  ",
-      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
-      " NL TAB #yMods: ",
-      "Modifiers: "
-    ]
-  },
   "MenuPanels": {
     "TEXT": [
-      "Standard",
+      "Gioca",
       "",
-      "Embark on a quest to Slay the Spire.",
-      "Daily Climb",
+      "Inizia un'avventura su Slay the Spire.",
+      "Sfida del Giorno",
       "",
-      "A new challenge is availble once a day.\n\nCompete with other players for the highest score!",
-      "Ascension",
+      "Partecipa ad una nuova sfida ogni giorno! \n\nCompeti con gli altri giocatori per ottenere il punteggio più alto!",
+      "Ascensione",
       "",
-      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
-      "Card Library",
+      "In questa modalità scalare la Guglia diventa più difficile dopo ogni vittoria.\n\nTesta i limiti delle tue migliori strategie.",
+      "Libreria Carte",
       "",
-      "View all of the cards you have encountered throughout the Spire.",
-      "Relic Collection",
+      "Esamina tutte le carte che hai visto nella Guglia.",
+      "Collezione Reliquie",
       "",
-      "Examine the various trinkets and artifacts obtained throughout your runs.",
-      "Bestiary",
+      "Esamina i vari ninnoli ed artefatti che hai ottenuto nella Guglia.",
+      "Bestiario",
       "",
-      "This feature is not yet available.",
-      "Character Stats",
+      "Questa opzione non è ancora disponibile.",
+      "Statistiche",
       "",
-      "The progress and statistics for each character can be seen here.",
+      "Controlla il progresso e le statistiche di ogni personaggio.",
       "Leaderboards",
       "",
-      "View and compare your score with friends and other players.",
-      "Run History",
+      "Esamina e compara i tuoi punteggi con quelli dei tuoi amici o di altri giocatori.",
+      "Partite Precedenti",
       "",
-      "Revisit your past attempts at slaying the Spire.",
-      "Game Settings",
+      "Rivisita le statistiche e giocate delle tue vecchie partite.",
+      "Opzioni",
       "",
-      "Change your resolution and toggle various options on/off.",
-      "Input Settings",
+      "Cambia la risoluzione e le opzioni di gioco.",
+      "Opzioni Input",
       "",
-      "This feature is not yet available.",
-      "Credits",
+      "Questa opzione non è ancora disponibile.",
+      "Crediti",
       "",
-      "See all of the people who contributed on Slay the Spire!",
+      "Guarda la lista delle persone che hanno contribuito a creare Slay the Spire!",
       "Unknown",
       "",
-      "This feature is not yet available."
+      "Questa opzione non è ancora disponibile."
     ]
   }
 }

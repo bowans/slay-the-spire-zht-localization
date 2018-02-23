@@ -3,16 +3,16 @@
     "NAME": "呪われし道程",
     "DESCRIPTION": "ボスを倒すたび、呪われる。"
   },
-  "Double Elites": {
-    "NAME": "ダブルエリート",
-    "DESCRIPTION": "エリートの出現数が2倍。"
+  "Elite Swarm": {
+    "NAME": "エリートの群れ",
+    "DESCRIPTION": "エリート達が塔で群れを成す。"
   },
-  "Fat Deck": {
-    "NAME": "肥満デッキ",
-    "DESCRIPTION": "報酬のカード選択をスキップできなくなる。"
+  "Greed": {
+    "NAME": "貪欲",
+    "DESCRIPTION": "戦闘の報酬はスキップできない。"
   },
   "Growing Enemies": {
-    "NAME": "成長する敵",
+    "NAME": "成長し続ける敵",
     "DESCRIPTION": "敵は毎ターン強化される。"
   },
   "Heirloom": {
@@ -29,42 +29,30 @@
   },
   "Restless Journey": {
     "NAME": "休み無き旅路",
-    "DESCRIPTION": "次のレベルに到達してもHPが回復しない。"
+    "DESCRIPTION": "ボスを倒した後、HPが回復しない。"
   },
   "Slow Start": {
     "NAME": "スロースタート",
-    "DESCRIPTION": "ストライクと防御を1枚ずつ獲得して攻略を開始する。"
+    "DESCRIPTION": "ストライクと防御を1枚ずつ獲得してスタートする。"
   },
   "Tough Enemies": {
     "NAME": "しぶとい敵",
     "DESCRIPTION": "敵のHPが25％上昇。"
   },
-  "Turtle": {
-    "NAME": "亀",
-    "DESCRIPTION": "ストライクを1枚削除し、防御を1枚獲得して攻略を開始する。"
+  "Shiny": {
+    "NAME": "ピカピカ",
+    "DESCRIPTION": "レアカード1枚を所持してスタートする。"
+  },
+  "Allstar": {
+    "NAME": "オールスター",
+    "DESCRIPTION": "無色のカード2枚を所持してスタートする。"
+  },
+  "Diverse": {
+    "NAME": "多様性",
+    "DESCRIPTION": "他のクラスのカード2枚を所持してスタートする。"
   },
   "Vintage": {
     "NAME": "ヴィンテージ",
     "DESCRIPTION": "商人の販売価格が25％上昇する。"
-  },
-  "Shiny": {
-    "NAME": "Shiny",
-    "DESCRIPTION": "Start with 1 Rare card."
-  },
-  "Allstar": {
-    "NAME": "All Star",
-    "DESCRIPTION": "Start with 2 colorless cards."
-  },
-  "Elite Swarm": {
-    "NAME": "Elite Swarm",
-    "DESCRIPTION": "Elite enemies are swarming the Spire."
-  },
-  "Greed": {
-    "NAME": "Greed",
-    "DESCRIPTION": "You cannot skip combat rewards."
-  },
-  "Diverse": {
-    "NAME": "Diverse",
-    "DESCRIPTION": "Start with 2 cards from another class."
   }
 }

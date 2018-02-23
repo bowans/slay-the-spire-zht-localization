@@ -38,7 +38,7 @@
       "~Faites~ ~un~ ~choix...~",
       "~Je~ ~vous~ ~bénis...~",
       "~Des~ ~risques...~ NL ~des~ ~récompenses...~",
-      "~Time~ ~for~ ~a~ NL ~CHALLENGE...~"
+      "~C'est~ ~l'heure~ NL ~du~ ~DÉFI...~"
     ],
     "OPTIONS": [
       "[Continuer]",
@@ -71,7 +71,7 @@
       " #rPV #rmax. ",
       "[ #rPerdez #rtout #rvotre #ror. ",
       "[ #rObtenez #rune #rMalédiction. ",
-      "[ #rPerdez #r50 % #rde #rvos #rPV #ractuels. ",
+      "[ #rPerdez #r50 #r% #rde #rvos #rPV #ractuels. ",
       "Choisissez une carte",
       "Sélectionnez une carte à retirer",
       "Sélectionnez 2 cartes à retirer",
@@ -81,7 +81,7 @@
       "[ #gLes #gennemis #gdes #gtrois #gprochains #gcombats #gcommencent #gavec #g1 #gPV ]"
     ],
     "UNIQUE_REWARDS": [
-      "[ #rPerdez #rvotre #rRelique #rde #rdépart #gObtenez #gune #gRelique #gde #gboss #galéatoire ]"
+      "[ #rPerdez #rvotre #rRelique #rde #rdépart #gObtenez #gune #gRelique #gde #gboss ]"
     ]
   },
   "Merchant": {

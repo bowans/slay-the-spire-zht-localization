@@ -1,74 +1,58 @@
 {
   "Cursed Run": {
-    "NAME": "Cursed Run",
-    "DESCRIPTION": "Whenever you defeat a Boss, become Cursed."
-  },
-  "Double Elites": {
-    "NAME": "Double Elites",
-    "DESCRIPTION": "Double the amount of elite encounters."
-  },
-  "Fat Deck": {
-    "NAME": "Fat Deck",
-    "DESCRIPTION": "You cannot skip choosing card rewards."
+    "NAME": "Проклятая вылазка",
+    "DESCRIPTION": "Вы получаете Проклятие, побеждая босса."
   },
   "Growing Enemies": {
-    "NAME": "Growing Enemies",
-    "DESCRIPTION": "Enemies get stronger each turn."
+    "NAME": "Растущие враги",
+    "DESCRIPTION": "Враги сильнее с каждым ходом."
   },
   "Heirloom": {
-    "NAME": "Heirloom",
-    "DESCRIPTION": "Start with 1 random relic."
+    "NAME": "Наследство",
+    "DESCRIPTION": "Вы начинаете с 1 реликвией."
   },
   "Lethal Enemies": {
-    "NAME": "Lethal Enemies",
-    "DESCRIPTION": "All enemies start with +3 Strength."
+    "NAME": "Смертоносные враги",
+    "DESCRIPTION": "У всех врагов +3 Силы."
   },
   "Night Terrors": {
-    "NAME": "Night Terrors",
-    "DESCRIPTION": "Resting at campfires heal 20% of your HP, rather than 30%."
+    "NAME": "Ночные кошмары",
+    "DESCRIPTION": "Отдых в лагере восполняет 20% ОЗ вместо 30%."
   },
   "Restless Journey": {
-    "NAME": "Restless Journey",
-    "DESCRIPTION": "You no longer heal when entering new levels."
+    "NAME": "Беспрерывный поход",
+    "DESCRIPTION": "Вы не исцеляетесь при переходе в след. акт."
   },
   "Slow Start": {
-    "NAME": "Slow Start",
-    "DESCRIPTION": "Start with 1 additional Strike and Defend."
+    "NAME": "Медленный старт",
+    "DESCRIPTION": "Вы начинаете с 1 доп. Ударом и Обороной."
   },
   "Tough Enemies": {
-    "NAME": "Tough Enemies",
-    "DESCRIPTION": "Enemies have 25% more HP."
-  },
-  "Turtle": {
-    "NAME": "Turtle",
-    "DESCRIPTION": "Start with 1 less Strike and 1 additional Defend."
-  },
-  "Vintage": {
-    "NAME": "Vintage",
-    "DESCRIPTION": "The Merchant's prices are increased by 25%."
-  },
-  "TEST POSITIVE": {
-    "NAME": "TEST POSITIVE",
-    "DESCRIPTION": "TEST POSITIVETEST POSITIVETEST POSITIVE."
+    "NAME": "Живучие враги",
+    "DESCRIPTION": "У всех врагов +25% ОЗ."
   },
   "Shiny": {
-    "NAME": "Shiny",
-    "DESCRIPTION": "Start with 1 random Rare card."
-  },
-  "Elite Swarm": {
-    "NAME": "Elite Swarm",
-    "DESCRIPTION": "Elite enemies are swarming the Spire."
+    "NAME": "Прелесть",
+    "DESCRIPTION": "Вы начинаете с 1 редкой картой."
   },
   "Allstar": {
-    "NAME": "All Star",
-    "DESCRIPTION": "Start with 2 random colorless cards."
-  },
-  "Greed": {
-    "NAME": "Greed",
-    "DESCRIPTION": "You cannot skip combat rewards."
+    "NAME": "Звезда",
+    "DESCRIPTION": "Вы начинаете с 2 бесцветными картами."
   },
   "Diverse": {
-    "NAME": "Diverse",
-    "DESCRIPTION": "Start with 2 random cards from another class."
+    "NAME": "Разносторонность",
+    "DESCRIPTION": "Вы начинаете с 2 картами другого класса."
+  },
+  "Vintage": {
+    "NAME": "Раритет",
+    "DESCRIPTION": "Цены торговца на 25% выше."
+  },
+  "Greed": {
+    "NAME": "Жадность",
+    "DESCRIPTION": "Вы не можете пропускать награду за бой."
+  },
+  "Elite Swarm": {
+    "NAME": "Набег элиты",
+    "DESCRIPTION": "Элитные враги заполонили Шпиль."
   }
 }

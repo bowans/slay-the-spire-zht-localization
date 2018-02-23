@@ -67,7 +67,7 @@
       "名前",
       "スコア",
       "Retrieving Data...",
-      "リーダーボード",
+      "ランキング",
       "Steamに接続していない",
       "スコアの記録なし \n Go Slay the Spire!"
     ]
@@ -108,7 +108,8 @@
       "Thai",
       "Serbian",
       "Ukrainian",
-      "Vietnamese"
+      "Vietnamese",
+      "Hungarian"
     ]
   },
   "Proceed Button": {
@@ -616,12 +617,12 @@
       "今日のキャラクター: ",
       "dd/MM/yyyy HH:mm:ss",
       "残り時間: ",
-      "#yFloor #yReached: NL  ",
+      "#y到達した階層: NL  ",
       " NL NL  #yデッキ: NL ",
       " NL NL  #yレリック: NL  ",
       " NL 今日のチャレンジ: NL TAB #yクラス: NL TAB ",
-      " NL TAB #yMods: ",
-      "Modifiers: "
+      " NL TAB #y特殊効果: ",
+      "特殊効果: "
     ]
   },
   "SettingsScreen": {
@@ -677,8 +678,8 @@
       "デイリーチャレンジ",
       "レリックコレクション",
       "続行",
-      "リーダーボード",
-      "統計",
+      "ランキング",
+      "プレイの記録",
       "クレジット",
       "終了",
       "パッチノート",
@@ -686,7 +687,7 @@
       "今回のプレイを破棄する（再度クリックで決定）",
       "設定",
       "プレイ履歴",
-      "Compendium"
+      "コレクション"
     ]
   },
   "CreditsScreen": {
@@ -936,45 +937,45 @@
   },
   "MenuPanels": {
     "TEXT": [
-      "Standard",
+      "スタンダード",
       "",
-      "Embark on a quest to Slay the Spire.",
-      "Daily Climb",
+      "塔攻略のための探索を開始する。",
+      "デイリークライム",
       "",
-      "A new challenge is available once a day.\n\nCompete with other players for the highest score!",
-      "Ascension",
+      "1日1回新しい挑戦ができる。\n\n他のプレイヤーとハイスコアを競おう！",
+      "アセンション",
       "",
       "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
-      "Card Library",
+      "カードライブラリ",
       "",
-      "View all of the cards you have encountered throughout the Spire.",
-      "Relic Collection",
+      "塔で発見したカードをすべて閲覧できる。",
+      "レリック一覧",
       "",
-      "Examine the various trinkets and artifacts obtained throughout your runs.",
-      "Bestiary",
+      "攻略中に得られたさまざまな小物やアーティファクトを調査しよう。",
+      "モンスター図鑑",
       "",
-      "This feature is not yet available.",
-      "Character Stats",
+      "この機能は未実装。",
+      "キャラクター統計",
       "",
-      "The progress and statistics for each character can be seen here.",
-      "Leaderboards",
+      "キャラクターごとの進行や統計データを確認できる。",
+      "ランキング",
       "",
-      "View and compare your score with friends and other players.",
-      "Run History",
+      "フレンドや他のプレイヤーとスコアを比べてみよう。",
+      "プレイ履歴",
       "",
-      "Revisit your past attempts at slaying the Spire.",
-      "Game Settings",
+      "塔に挑んだあなたの過去の記録を見直してみよう。",
+      "ゲーム設定",
       "",
-      "Change your resolution and toggle various options on/off.",
-      "Input Settings",
+      "解像度の変更や、様々な機能のオン・オフなど。",
+      "入力設定",
       "",
-      "This feature is not yet available.",
-      "Credits",
+      "この機能は未実装。",
+      "クレジット",
       "",
-      "See all of the people who contributed on Slay the Spire!",
+      "Slay the Spireに貢献してくれた全ての人達です！",
       "Unknown",
       "",
-      "This feature is not yet available."
+      "この機能は未実装。"
     ]
   }
 }

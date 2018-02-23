@@ -386,8 +386,8 @@
   "Liars Game": {
     "NAME": "Le ssserpent",
     "DESCRIPTIONS": [
-      "Vous pénétrez dans une salle et remarquez un grand trou dans le sol. Tandis que vous vous approchez du trou, une énorme créature serpentine en émerge. NL NL \"~Oh~ ~oooh~ ~!~ ~Bonjour,~ ~bonjour~ ~!~ ~Qu'avons-nous~ ~là~ ~?~ Bonjour, je vais vous poser une simple question. NL Il n'est pas de vie plus satisfaisante que celle où l'on peut #y~tout~ #y~s'offrir~ ~!~ NL Êtes-vous d'accord ?\"",
-      "\"~Sssssssssssupeeer~ ~!~ NL ~Cccccela~ ~sssss'annonccccce~ ~très~ ~prometteur.~ NL ~...ssSSs...~ ~ss...~ ~sssss...~ ~!\"~",
+      "Vous pénétrez dans une salle et remarquez un grand trou dans le sol. Tandis que vous vous approchez du trou, une énorme créature serpentine en émerge. NL NL ~\"Oh~ ~oooh~ ~!~ ~Bonjour,~ ~bonjour~ ~!~ ~Qu'avons-nous~ ~là~ ~?~ Bonjour, je vais vous poser une simple question. NL Il n'est pas de vie plus satisfaisante que celle où l'on peut #y~tout~ #y~s'offrir~ ~!~ NL Êtes-vous d'accord ?\"",
+      "~\"Sssssssssssupeeer~ ~!~ NL ~Cccccela~ ~sssss'annonccccce~ ~très~ ~prometteur.~ NL ~...ssSSs...~ ~ss...~ ~sssss...~ ~!\"~",
       "Le serpent vous fixe du regard et semble extrêmement déçu.",
       "Le serpent rejette sa tête en arrière et crache un jet #yd'or dans les airs ! NL C'est à la fois impressionnant et terrifiant. NL Vous récupérez tout #yl'or, remerciez le serpent et vous remettez en route."
     ],
@@ -657,10 +657,10 @@
     ],
     "OPTIONS": [
       "[Continuer]",
-      "[Meurtrier] #yParier #y",
+      "[Meurtrier] #yPariez #y",
       " #yd'or - #g70 #g%: #ggagnez #g",
       " #gd'or.",
-      "[Propriétaire] #yParier #y",
+      "[Propriétaire] #yPariez #y",
       " #yd'or - #g30 #g%: #ggagnez #g",
       "[Observer]",
       "[Partir]"
@@ -676,7 +676,7 @@
       "L'histoire se déroule dans un immense bâtiment isolé aménagé sous terre, car les conditions extérieures sont devenues insupportables. Le roman est parsemé de complots, de propagande et d'injustices. Vous vous demandez si des dynamiques similaires sont en jeu dans la Tour. NL Perturbant."
     ],
     "OPTIONS": [
-      "[Lire] #gChoisissez #g1 #gcarte #gà #gajouter #gà #gvotre #gdeck #gparmi #gles #g20 #gà #gdisposition.",
+      "[Lire] #gChoisissez #g1 #gcarte #gparmi #gles #g20 #gà #gdisposition.",
       "[Dormir] #gRécupérez #g",
       " #gPV.",
       "[Partir]",
