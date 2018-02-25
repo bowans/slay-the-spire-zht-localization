@@ -108,7 +108,7 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "ナイフは #b0 コストのアタックカード。使用時に廃棄する。"
+      "DESCRIPTION": "ナイフは #b0 コストのアタックカード。プレイ時に廃棄する。"
     },
     "STATUS": {
       "NAMES": [
@@ -128,7 +128,7 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "筋力はアタック使用時に追加のダメージを与える。"
+      "DESCRIPTION": "筋力はアタックプレイ時に追加のダメージを与える。"
     },
     "TRANSFORM": {
       "NAMES": [
@@ -198,7 +198,7 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "負傷は使用不可の状態異常カード。"
+      "DESCRIPTION": "負傷はプレイ不可の状態異常カード。"
     },
     "FRAIL": {
       "NAMES": [
@@ -251,7 +251,7 @@
       "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
     },
     "TEXT": [
-      "エナジーはあなたの手札からカードを使用するときに消費する。"
+      "エナジーはあなたの手札からカードをプレイするときに消費する。"
     ]
   }
 }

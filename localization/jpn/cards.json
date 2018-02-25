@@ -1,8 +1,8 @@
 {
   "Grand Finale": {
     "NAME": "グランドフィナーレ",
-    "DESCRIPTION": "山札にカードがない時だけ使用可能。 NL 敵全体に !D! のダメージを与える。",
-    "UPGRADE_DESCRIPTION": "山札が #r空っぽ でないと使用できない。"
+    "DESCRIPTION": "山札にカードがない時だけプレイ可能。 NL 敵全体に !D! のダメージを与える。",
+    "UPGRADE_DESCRIPTION": "山札が #r空っぽ でないとプレイできない。"
   },
   "Immolate": {
     "NAME": "犠牲",
@@ -10,7 +10,7 @@
   },
   "Regret": {
     "NAME": "後悔",
-    "DESCRIPTION": "使用不可 。 NL ターン終了時に手札のカード 1 枚につき HP が -1。"
+    "DESCRIPTION": "使用不可 。 NL ターン終了時に、手札のカード 1 枚につき HP が -1。"
   },
   "Crippling Poison": {
     "NAME": "劇毒",
@@ -18,7 +18,7 @@
   },
   "A Thousand Cuts": {
     "NAME": "メッタ切り",
-    "DESCRIPTION": "カードを使用するたび、敵全体に !M! のダメージ。"
+    "DESCRIPTION": "カードをプレイするたび、敵全体に !M! のダメージ。"
   },
   "Spot Weakness": {
     "NAME": "弱点発見",
@@ -34,7 +34,7 @@
   },
   "Dark Shackles": {
     "NAME": "闇の足枷",
-    "DESCRIPTION": "ターン終了まで、敵が筋力 !M! を失う。 NL 廃棄 。"
+    "DESCRIPTION": "ターン終了時まで、敵が筋力 !M! を失う。 NL 廃棄 。"
   },
   "Glass Knife": {
     "NAME": "ガラスのナイフ",
@@ -49,7 +49,7 @@
     "NAME": "卑怯なる一撃",
     "DESCRIPTION": "使用不可 。 NL このカードを捨てた時、ランダムな敵に !D! のダメージ。",
     "EXTENDED_DESCRIPTION": [
-      "このカードは使用できない。"
+      "このカードはプレイできない。"
     ]
   },
   "Anger": {
@@ -71,7 +71,7 @@
   },
   "Wraith Form": {
     "NAME": "死霊化",
-    "DESCRIPTION": "「スキル」を使用するたび、ランダムな敵に !M! のダメージ。"
+    "DESCRIPTION": "「スキル」をプレイするたび、ランダムな敵に !M! のダメージ。"
   },
   "Sadistic Nature": {
     "NAME": "加虐性",
@@ -136,7 +136,7 @@
     "DESCRIPTION": "使用不可 。 NL このカードを捨てた時、 [G] を得る。",
     "UPGRADE_DESCRIPTION": "使用不可 。 NL このカードを捨てた時、 [G] [G] を得る。",
     "EXTENDED_DESCRIPTION": [
-      "このカードは使用できない。"
+      "このカードはプレイできない。"
     ]
   },
   "Bane": {
@@ -149,8 +149,8 @@
   },
   "After Image": {
     "NAME": "残像",
-    "DESCRIPTION": "カードを 1 枚使用するたび、 1 の ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "天賦 。 NL カードを 1 枚使用するたび、 1 の ブロック を得る。"
+    "DESCRIPTION": "カードを 1 枚プレイするたび、 1 の ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL カードを 1 枚プレイするたび、 1 の ブロック を得る。"
   },
   "Unload": {
     "NAME": "アンロード",
@@ -175,8 +175,8 @@
   },
   "Brutality": {
     "NAME": "残虐",
-    "DESCRIPTION": "ターン開始時、HPを 1 失いカードを 1 枚引く。",
-    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時、HPを 1 失いカードを 1 枚引く。"
+    "DESCRIPTION": "ターン開始時に、HPを 1 失いカードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時に、HPを 1 失いカードを 1 枚引く。"
   },
   "Iron Wave": {
     "NAME": "アイアンウェーブ",
@@ -192,7 +192,7 @@
   },
   "Tools of the Trade": {
     "NAME": "商売道具",
-    "DESCRIPTION": "ターン開始時、カードを 1 枚引き、 1 枚捨てる。"
+    "DESCRIPTION": "ターン開始時に、カードを 1 枚引き、 1 枚捨てる。"
   },
   "Dramatic Entrance": {
     "NAME": "劇的な入場",
@@ -212,7 +212,7 @@
   },
   "Choke": {
     "NAME": "窒息",
-    "DESCRIPTION": "!D! のダメージを与える。 NL このターンでカードを使用するたび、ターゲットの敵がHP !M! を失う。"
+    "DESCRIPTION": "!D! のダメージを与える。 NL このターンでカードをプレイするたび、ターゲットの敵がHP !M! を失う。"
   },
   "Juggernaut": {
     "NAME": "ジャガーノート",
@@ -242,7 +242,7 @@
   },
   "Setup": {
     "NAME": "セットアップ",
-    "DESCRIPTION": "手札のカード 1 枚を山札の 1 番上に置く。 NL 使用されるまでそのコストは0"
+    "DESCRIPTION": "手札のカード 1 枚を山札の 1 番上に置く。 NL プレイされるまでそのコストは0"
   },
   "Blood for Blood": {
     "NAME": "血には血を",
@@ -258,7 +258,7 @@
   },
   "Clash": {
     "NAME": "クラッシュ",
-    "DESCRIPTION": "手札がすべて「アタック」の場合に使用可。 NL !D! のダメージを与える。",
+    "DESCRIPTION": "手札がすべて「アタック」の場合にプレイ可能。 NL !D! のダメージを与える。",
     "EXTENDED_DESCRIPTION": [
       "手札に「アタック」ではないカードがある。"
     ]
@@ -277,7 +277,7 @@
   },
   "Berserk": {
     "NAME": "狂暴化",
-    "DESCRIPTION": "HPが 50 ％以下になるとターン開始時、 [R] を得る。"
+    "DESCRIPTION": "HPが 50 ％以下になるとターン開始時に、 [R] を得る。"
   },
   "Pummel": {
     "NAME": "猛撃",
@@ -302,12 +302,12 @@
   },
   "Pain": {
     "NAME": "痛み",
-    "DESCRIPTION": "使用不可 。 NL 手札にある状態で他のカードを使用するたび、HP -1。"
+    "DESCRIPTION": "使用不可 。 NL 手札にある状態で他のカードをプレイするたび、HP -1。"
   },
   "Burst": {
     "NAME": "バースト",
-    "DESCRIPTION": "このターン、次に使用する「スキル」は 2 回使用される。",
-    "UPGRADE_DESCRIPTION": "このターン、次に使用する !M! つの「スキル」は 2 回使用される。"
+    "DESCRIPTION": "このターン、次の「スキル」を 2 回プレイする。",
+    "UPGRADE_DESCRIPTION": "このターン、次の !M! つの「スキル」を 2 回プレイする。"
   },
   "Acrobatics": {
     "NAME": "アクロバット",
@@ -362,7 +362,7 @@
   },
   "Rampage": {
     "NAME": "ランページ",
-    "DESCRIPTION": "!D! のダメージを与える。 NL このカードを使用するたび、戦闘終了までダメージが !M! 増加。"
+    "DESCRIPTION": "!D! のダメージを与える。 NL このカードをプレイするたび、戦闘終了までダメージが !M! 増加。"
   },
   "Bandage Up": {
     "NAME": "包帯",
@@ -425,9 +425,9 @@
   },
   "Finisher": {
     "NAME": "とどめの一撃",
-    "DESCRIPTION": "このターン使用した「アタック」の枚数ｘ!D! のダメージを与える。",
+    "DESCRIPTION": "このターンプレイした「アタック」の枚数ｘ!D! のダメージを与える。",
     "EXTENDED_DESCRIPTION": [
-      " NL （使用した ",
+      " NL （プレイした ",
       " 「アタック」）。",
       " 「アタック」）。"
     ]
@@ -442,8 +442,8 @@
   },
   "Well Laid Plans": {
     "NAME": "用意周到",
-    "DESCRIPTION": "ターン終了時、カードを !M! 枚 保留 する。",
-    "UPGRADE_DESCRIPTION": "ターン終了時、カードを !M! 枚 保留 する。"
+    "DESCRIPTION": "ターン終了時に、カードを !M! 枚 保留 する。",
+    "UPGRADE_DESCRIPTION": "ターン終了時に、カードを !M! 枚 保留 する。"
   },
   "Defend_R": {
     "NAME": "防御",
@@ -467,7 +467,7 @@
   },
   "Panache": {
     "NAME": "威風堂々",
-    "DESCRIPTION": "1 回のターンで 5 枚のカードを使用するたび、すべての敵に !M! のダメージ。"
+    "DESCRIPTION": "1 回のターンで 5 枚のカードをプレイするたび、すべての敵に !M! のダメージ。"
   },
   "Fiend Fire": {
     "NAME": "鬼火",
@@ -492,7 +492,7 @@
   },
   "Havoc": {
     "NAME": "荒廃",
-    "DESCRIPTION": "山札の一番上にあるカードを使用する。そのカードを 廃棄 する。"
+    "DESCRIPTION": "山札の一番上にあるカードをプレイする。そのカードを 廃棄 する。"
   },
   "Secret Weapon": {
     "NAME": "シークレットウェポン",
@@ -516,7 +516,7 @@
   },
   "Corruption": {
     "NAME": "堕落",
-    "DESCRIPTION": "「スキル」がエナジーを消費しない。 NL 使用した「スキル」は 廃棄 する。"
+    "DESCRIPTION": "「スキル」がエナジーを消費しない。 NL プレイした「スキル」は 廃棄 する。"
   },
   "Heel Hook": {
     "NAME": "ヒールフック",
@@ -528,7 +528,7 @@
   },
   "Rage": {
     "NAME": "憤怒",
-    "DESCRIPTION": "このターン、「アタック」を使用するたび !M! の ブロック を得る。"
+    "DESCRIPTION": "このターン、「アタック」をプレイするたび !M! の ブロック を得る。"
   },
   "Headbutt": {
     "NAME": "ヘッドバット",
@@ -546,12 +546,12 @@
   },
   "Noxious Fumes": {
     "NAME": "有毒ガス",
-    "DESCRIPTION": "ターン開始時、敵全体に 毒 !M! を与える。"
+    "DESCRIPTION": "ターン開始時に、敵全体に 毒 !M! を与える。"
   },
   "Infinite Blades": {
     "NAME": "無限の刃",
-    "DESCRIPTION": "ターン開始時、 ナイフ を1枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時、 ナイフ を1枚手札に加える。"
+    "DESCRIPTION": "ターン開始時に、 ナイフ を1枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時に、 ナイフ を1枚手札に加える。"
   },
   "Phantasmal Killer": {
     "NAME": "幻影の暗殺者",
@@ -567,7 +567,7 @@
     "DESCRIPTION": "使用不可 。 NL このカードを捨てたとき、カードを !M! 枚引く。",
     "UPGRADE_DESCRIPTION": "使用不可 。 NL このカードを捨てたとき、カードを !M! 枚引く。",
     "EXTENDED_DESCRIPTION": [
-      "このカードは使用できない。"
+      "このカードはプレイできない。"
     ]
   },
   "Sentinel": {
@@ -655,7 +655,7 @@
   },
   "Rupture": {
     "NAME": "狂喜",
-    "DESCRIPTION": "カードの使用によってHPが失われるたび、 NL 筋力 1 を得る。"
+    "DESCRIPTION": "カードのプレイによってHPが失われるたび、 NL 筋力 1 を得る。"
   },
   "Venomology": {
     "NAME": "錬金術",
@@ -727,8 +727,8 @@
   },
   "Masterful Stab": {
     "NAME": "一撃必殺",
-    "DESCRIPTION": "手札に他のカードがない場合のみ使用可能。 NL !D! のダメージを与える。",
-    "UPGRADE_DESCRIPTION": "他のカードが手札にあると使用できない。"
+    "DESCRIPTION": "手札に他のカードがない場合のみプレイ可能。 NL !D! のダメージを与える。",
+    "UPGRADE_DESCRIPTION": "他のカードが手札にあるとプレイできない。"
   },
   "Good Instincts": {
     "NAME": "直感",
@@ -749,13 +749,13 @@
   },
   "Normality": {
     "NAME": "平静",
-    "DESCRIPTION": "使用不可 。 NL このターン、あなたは 3 枚以上のカードを使用できない。",
+    "DESCRIPTION": "使用不可 。 NL このターン、あなたは 3 枚以上のカードをプレイできない。",
     "EXTENDED_DESCRIPTION": [
-      "このターン、あなたは 3 枚以上のカードを使用できない。",
+      "このターン、あなたは 3 枚以上のカードをプレイできない。",
       "使用不可。 NL あなたはこのターン、",
-      " 枚以上のカードを使用できない。",
-      " 枚以上のカードを使用できない。 NL 既に",
-      " 枚のカードを使用した。"
+      " 枚以上のカードをプレイできない。",
+      " 枚以上のカードをプレイできない。 NL 既に",
+      " 枚のカードをプレイした。"
     ]
   },
   "Accuracy": {
@@ -772,11 +772,11 @@
   },
   "Demon Form": {
     "NAME": "悪魔化",
-    "DESCRIPTION": "ターン開始時、筋力!M! を得る。"
+    "DESCRIPTION": "ターン開始時に、筋力!M! を得る。"
   },
   "Fire Breathing": {
     "NAME": "炎の息",
-    "DESCRIPTION": "ターン終了時に、そのターンで使用した「アタック」の枚数分だけ敵全体に 1 のダメージを与える。"
+    "DESCRIPTION": "ターン終了時に、そのターンでプレイした「アタック」の枚数分だけ敵全体に 1 のダメージを与える。"
   },
   "Ghostly Armor": {
     "NAME": "ゴーストアーマー",
@@ -826,8 +826,8 @@
   },
   "Double Tap": {
     "NAME": "ダブルタップ",
-    "DESCRIPTION": "このターン、次に使用する「アタック」が 2 回使用される。",
-    "UPGRADE_DESCRIPTION": "このターンでは次に使用する !M! つの「アタック」が 2 回使用される。"
+    "DESCRIPTION": "このターン、次の「アタック」を 2 回プレイする。",
+    "UPGRADE_DESCRIPTION": "このターン、次の !M! つの「アタック」を 2 回プレイする。"
   },
   "Footwork": {
     "NAME": "フットワーク",
