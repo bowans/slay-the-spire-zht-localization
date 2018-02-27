@@ -31,28 +31,33 @@
       "",
       "Tilbake",
       "Ingen historikk funnet. NL Dra opp og sløy tårnet!",
-      "Ascension Level: ",
-      "Slain on Floor %1$d by %2$s",
-      "Abandoned Run on Floor %d",
-      "Victory!",
-      "Cards",
-      "Relics",
-      "Starter",
-      "Common",
-      "Uncommon",
-      "Rare",
-      "Special",
-      "Curse",
-      "Boss",
-      "Shop",
-      "Unknown",
+      "Oppstigningsnivå: ",
+      "Drept i etasje %1$d av %2$s",
+      "Avsluttet spillet i etasje %d",
+      "Seier!",
+      "Kort",
+      "Relikvier",
+      "Startkort",
+      "Vanlig",
+      "Uvanlig",
+      "Sjelden",
+      "Spesiell",
+      "Forbannelse",
+      "Høvding",
+      "Butikk",
+      "Ukjent",
       "%1$d %2$s",
       "%1$s (%2$d):",
-      "Score: %d",
-      "All Characters",
-      "Wins and Losses",
-      "Wins",
-      "Losses"
+      "Poengsum: %d",
+      "Alle figurer",
+      "Seire og tap",
+      "Seire",
+      "Tap",
+      "Daily",
+      "Any Game Type",
+      "Only Normal",
+      "Only Ascension",
+      "Only Daily Challenge"
     ]
   },
   "LeaderboardsScreen": {
@@ -90,7 +95,7 @@
   "LanguageDropdown": {
     "TEXT": [
       "Brasiliansk portugisisk",
-      "Kinesisk (Simplified)",
+      "Kinesisk (Forenklet)",
       "Kinesisk (Tradisjonell)",
       "Engelsk",
       "Fransk",
@@ -103,7 +108,7 @@
       "Spansk",
       "Hebraisk",
       "Turkish",
-      "Swedish",
+      "Svensk",
       "Norwegian",
       "Thai",
       "Serbian",
@@ -177,15 +182,15 @@
       "En mystisk kjøpmann selger varene sine i dette rommet NL NL Bruk ditt oppsparte #ygull her!",
       "Skatt",
       "Rom med skatter i",
-      "#yRelikvier og #gull kan finnes i disse ettertraktede rommene.",
+      "#yRelikvier og #yGull kan finnes i disse ettertraktede rommene.",
       "Hvil",
-      "Hvilesteder",
-      "Stopp innom disse rommene for å #ghelbrede det litt, eller for å #yoppgradere et kort.",
+      "Leirbål",
+      "Stopp innom disse rommene for å #gHelbrede deg litt, eller for å #yOppgradere et kort.",
       "Fiende",
       "Fiender",
       "Onde fiender venter i disse rommene.",
-      "Elite-fiende",
-      "Elite-fiender",
+      "Elitefiende",
+      "Elitefiender",
       "Kraftige fiender er i disse rommene. NL NL Hvis du beseirer dem vil du bli belønnet med en relikvie.",
       "Legende"
     ]
@@ -204,7 +209,7 @@
   "Lift Option": {
     "TEXT": [
       "Løft",
-      "Start kampene dine med +1 i styrke. (Opp til 3)"
+      "Start kampene dine med +1 i Styrke. (Opp til 3)"
     ]
   },
   "Rest Option": {
@@ -219,7 +224,7 @@
     "TEXT": [
       "Smi",
       "Oppgrader et av kortene i kortstokken din.",
-      "Ingen kort som kan oppgraderes."
+      "Ingen kort som kan Oppgraderes."
     ]
   },
   "Toke Option": {
@@ -274,8 +279,8 @@
       "Død",
       "Blokkert",
       "Max HP +",
-      "Stunned!",
-      "Interrupted!"
+      "Lamslått!",
+      "Avbrutt!"
     ]
   },
   "TopPanel": {
@@ -339,7 +344,7 @@
       "Forbannelse",
       "Låst",
       "Ukjent",
-      "Se oppgradering",
+      "Se Oppgradering",
       "Status",
       "Ammunisjon",
       "Jeg kan bare spille kort når det er min tur.",
@@ -357,7 +362,7 @@
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "Disse kortene ble vraket i denne kampen.",
+      "Disse kortene ble Vraket i denne kampen.",
       "Tilbake"
     ]
   },
@@ -373,7 +378,7 @@
       "Forbi",
       "Akt ?",
       "???",
-      "Trykk for å fortsett"
+      "Trykk for å fortsette"
     ]
   },
   "DungeonMapScreen": {
@@ -529,8 +534,8 @@
       "Hopp over",
       "Velg et kort",
       "+2 Max HP",
-      "VOTE NOW: ",
-      "s left."
+      "STEM NÅ: ",
+      "s igjen."
     ]
   },
   "BossRelicSelectScreen": {
@@ -539,8 +544,8 @@
       "Bekreft valget ditt",
       "Velg en relikvie",
       "Hopp over",
-      "VOTE NOW: ",
-      "s left."
+      "STEM NÅ: ",
+      "s igjen."
     ]
   },
   "GridCardSelectScreen": {
@@ -590,7 +595,7 @@
       "Hovedvolum NL Musikkvolum NL Effektvolum",
       "Lydeffekter fra omgivelsene",
       "Foretrukne valg",
-      "Vis oppsummert skade med gullskrift NL Vis blokkert skade med blå skrift NL Slå av bekreftelse når man skal velge 1 kort",
+      "Vis oppsummert Skade med gullskrift NL Vis Blokkert Skade med blå skrift NL Slå av bekreftelse når man skal velge 1 kort",
       "Vanlige tips NL Korttips",
       "Krafttips NL Relikvietips",
       "Diverse",
@@ -635,347 +640,347 @@
     "TEXT": [
       "Hva er tidlig tilgang?",
       "Hva er en åpen beta?",
-      "Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
-      "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
-      "Click anywhere to Start"
+      "Slay the Spire er fortsatt under utvikling! NL Flere elementer, kort og fiender endrer seg stadig. NL Hvis du opplever problemer, eller har tilbakemeldinger, vær så snill å la oss få vite om det på vår #bdiskusjonsside på #bSteam. NL NL Det er nok lesing for i dag, du har et tårn du skal klatre til topps i!",
+      "Slay the Spire er fortsatt under utvikling! NL På toppen av det hele spiller du Betaversjonen av spillet. NL NL Vær så snill å fortelle oss om du har problemer mens du spiller, men ikke bli overrasket om du finner midlertidige bilder i spillet som erstatter for ting som kommer senere. NL NL Det er nok lesing for i dag, du har et tårn du skal klatre til topps i!",
+      "Trykk hvor som helst for å begynne"
     ]
   },
   "MainMenuScreen": {
     "TEXT": [
-      "#yBuild: ",
-      "Embark",
-      "Return",
-      "click to edit"
+      "#yVitale #yStatistikker: ",
+      "Sett i gang",
+      "Tilbake",
+      "trykk for å editere"
     ]
   },
   "MenuButton": {
     "TEXT": [
-      "Card Library",
-      "Play",
-      "Daily Challenge",
-      "Relic Collection",
-      "Continue",
-      "Leaderboards",
-      "Statistics",
-      "Credits",
-      "Quit",
-      "Patch Notes",
-      "Abandon Run",
-      "Abandon Run (click again to confirm)",
-      "Settings",
-      "Run History",
-      "Compendium"
+      "Kortbibliotek",
+      "Spill",
+      "Dagens utfordring",
+      "Relikviesamling",
+      "Fortsett",
+      "Resultatliste",
+      "Statistikker",
+      "Kreditering",
+      "Avslutt",
+      "Endringer i siste versjon",
+      "Avslutt nåværende spill",
+      "Avslutt nåværende spill (trykk igjen for å bekrefte)",
+      "Innstillinger",
+      "Spillhistorikk",
+      "Kompendium"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
-      "Return",
-      "#yPatch #yNotes",
-      " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
+      "Tilbake",
+      "#yEndringer #yi #ysiste #yversjon",
+      " NL (TEMPORÆRT: Bruk piltastene for å navigere igjennom gamle logger)"
     ]
   },
   "RelicViewScreen": {
     "TEXT": [
-      "Return",
-      "Starter:",
-      "Characters can start with these relics.",
-      "Common:",
-      "Weak relics that are found commonly.",
-      "Uncommon:",
-      "Stronger relics which appear less often than common relics.",
-      "Rare:",
-      "Unique and powerful relics which are rarely seen.",
-      "Boss:",
-      "Relics found only within Boss chests.",
-      "Event:",
-      "Relics which can only be obtained through events.",
-      "Shop:",
-      "Relics which can only be purchased from the Merchant."
+      "Tilbake",
+      "Startrelikvier:",
+      "Figurene kan starte med disse relikviene.",
+      "Vanlige:",
+      "Svake relikvier som er vanlige å finne.",
+      "Uvanlige:",
+      "Sterkere relikvier som vil dukke opp sjeldnere enn vanlige relikvier.",
+      "Sjeldne:",
+      "Unike og kraftfulle relikvier som man sjelden støter på.",
+      "Høvding:",
+      "Relikvier man kun finner i Høvdingkister.",
+      "Spesielle:",
+      "Relikvier man kun finner i spesielle hendelser.",
+      "Butikk:",
+      "Relikvier man kun kan kjøpe fra kjøpmannen."
     ]
   },
   "CharacterOption": {
     "TEXT": [
-      "Locked",
-      "This character is unlocked by completing a single run.",
-      "This character is still unavailable in Early Access.",
-      "This character is unlocked by reaching the top of the Spire.",
+      "Låst",
+      "Denne figuren låser man opp ved å fullføre en hel gjennomspilling.",
+      "Denne figuren er fortsatt ikke tilgjengelig i tidlig fase.",
+      "Denne figuren låser man opp ved å nå toppen av tårnet.",
       "HP: ",
-      "Gold: ",
-      " Unlocks Remaining",
-      "Unknown",
+      "Gull: ",
+      " Opplåsinger gjennstår",
+      "Ukjent",
       "???",
-      " To Next Unlock"
+      " Til neste opplåsing"
     ]
   },
   "CharacterSelectScreen": {
     "TEXT": [
-      "Choose Your Character",
-      "Embark",
-      "The Ironclad",
-      "The Silent",
+      "Velg din figur",
+      "Sett i gang",
+      "Den jernkledde",
+      "Den lydløse",
       "Crowbot",
-      "Back",
-      "Ascension Mode (Level ",
+      "Tilbake",
+      "Oppstigningsmodus (Nivå ",
       ")",
-      "Ascension Mode",
-      "EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
+      "Oppstigningsmodus",
+      "EKSPERIMENTELT: Gjennomspillingene blir vanskeligere etter hvert som du vinner... (Dette påvirker ikke seire på rad)"
     ]
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "1. Elites spawn more often.",
-      "2. Normal enemies are deadlier.",
-      "3. Elites are deadlier.",
-      "4. Bosses are deadlier.",
-      "5. Heal less after Boss battles.",
-      "6. Start each run damaged.",
-      "7. Normal enemies are tougher.",
-      "8. Elites are tougher.",
-      "9. Bosses are tougher.",
-      "10. Parasite!",
-      "Potions are less potent.",
-      "Upgraded cards appear less often.",
-      "Poor bosses.",
-      "Lower Max HP.",
-      "(Max Level) Unfavorable Events."
+      "1. Elitefiender dukker opp oftere.",
+      "2. Normale fiender er dødeligere.",
+      "3. Elitefiender er dødeligere.",
+      "4. Høvdinger er dødeligere.",
+      "5. Du helbreder mindre etter å ha slått en Høvding.",
+      "6. Du starter hver gjennomspilling med Skade.",
+      "7. Normale fiender er tøffere.",
+      "8. Elitefiender er tøffere.",
+      "9. Høvdinger er tøffere.",
+      "10. Parasitt!",
+      "Trylledrikker har dårligere effekt.",
+      "Oppgraderte kort dukker opp sjeldnere.",
+      "Fattige høvdinger.",
+      "Senker din max HP.",
+      "(Høyeste nivå) Hendelser som ikke gagner deg."
     ]
   },
   "AbstractMonster": {
     "TEXT": [
-      "Aggressive",
-      "This enemy intends to NL #yAttack for #b",
-      " damage #b",
-      " times.",
-      "This enemy intends to NL #yAttack for #b",
-      " damage.",
-      "Aggressive",
-      "This enemy intends to use a #yBuff and #yAttack for #b",
-      " times.",
-      "This enemy intends to use a #yBuff and #yAttack for #b",
-      "Strategic",
-      "This enemy intends to inflict a #yNegative #yEffect on you and #yAttack for #b",
-      "This enemy intends to #yBlock and #yAttack for #b",
-      "Defensive",
-      "Cowardly",
-      "Magical",
-      "Sleeping",
-      "Stunned",
-      "Unknown",
-      "This enemy intends to use a #yBuff.",
-      "This enemy intends to inflict a #yNegative #yEffect on you.",
-      "This enemy intends to inflict a powerful #yNegative #yEffect on you.",
-      "This enemy intends to #yBlock on its turn.",
-      "This enemy intends to #yBlock and inflict a #yNegative #yEffect on you.",
-      "This enemy intends to #yBlock and use a #yBuff.",
-      "This enemy intends to #yEscape.",
-      "This enemy intends to use mysterious #yMagic on its turn.",
-      "This enemy is asleep.",
-      "This enemy is #yStunned on its turn.",
-      "This enemy's intentions are #yUnknown (not attacking).",
-      "Blocked"
+      "Aggressiv",
+      "Denne fiender har tenkt å angripe og påføre deg #b",
+      " Skade #b",
+      " ganger.",
+      "Denne fiender planlegger å NL #yAngripe og påføre #b",
+      " Skade.",
+      "Aggressiv",
+      "Denne fienden skal gi seg selv en #yFordel og #yAngripe med #b",
+      " ganger.",
+      "Denne fienden skal gi seg selv en #yFordel og #yAngripe med #b",
+      "Strategisk",
+      "Denne fienden skal gi deg en #yUlempe og #yAngripe med #b",
+      "Denne fienden skal #yBlokkere Skade, og #yAngriper med #b",
+      "Defensiv",
+      "Pysete",
+      "Magisk",
+      "Sover",
+      "Lamslått",
+      "Ukjent",
+      "Denne fienden skal gi seg selv en #yFordel.",
+      "Denne fienden skal gi deg en #yUlempe.",
+      "Denne fienden skal gi deg en kraftig #yUlempe.",
+      "Denne fienden skal #yBlokkere Skade i sin runde.",
+      "Denne fienden skal #yBlokkere Skade og gi deg en #yUlempe.",
+      "Denne fienden skal #yBlokkere Skade og gi seg selv en #yFordel.",
+      "Denne fienden har planlagt å #yStikke #yAv.",
+      "Denne fienden har planlagt å bruke mystisk #yMagi i sin runde.",
+      "Denne fienden sover.",
+      "Denne fienden er #yLamslått hele sin runde.",
+      "Denne fiendens planer er #yUkjente (skal ikke angripe).",
+      "Blokkert"
     ]
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Proceed"
+      "Fortsett"
     ]
   },
   "Exordium": {
     "TEXT": [
-      "Exordium"
+      "Begynnelsen"
     ]
   },
   "TheCity": {
     "TEXT": [
-      "The City"
+      "Byen"
     ]
   },
   "GameSavedEffect": {
     "TEXT": [
-      "#y~Game~ #y~Saved~"
+      "#y~Spillet~ #y~er~ #y~lagret~"
     ]
   },
   "BattleStartEffect": {
     "TEXT": [
-      "Battle Start",
-      "Player Turn",
-      "Enemy Turn",
-      " turn"
+      "Start kampen",
+      "Spillerens runde",
+      "Fiendens runde",
+      " runde"
     ]
   },
   "RewardItem": {
     "TEXT": [
-      " Gold (Stolen Back)",
-      " Gold",
-      "Add a card to your deck",
+      " Gull (Stjålet tilbake)",
+      " Gull",
+      "Legg til et kort i kortstokken din",
       "",
-      "Choose a Card"
+      "Velg et kort"
     ]
   },
   "CampfireUI": {
     "TEXT": [
-      "What to do?",
+      "Hva skal jeg gjøre?",
       "Hmm...",
-      "What shall I do?",
-      "Time for a break",
-      "So many options...",
-      "I should rest",
-      "So tired..."
+      "Hva skal jeg gjøre?",
+      "På tiden med en pause",
+      "Så mange muligheter...",
+      "Jeg burde hvile",
+      "Så trøtt..."
     ]
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Select a Card to Upgrade"
+      "Velg et kort du vil Oppgradere"
     ]
   },
   "CampfireSleepEffect": {
     "TEXT": [
-      "Dreaming?"
+      "Drømmer du?"
     ]
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Select a Card to Remove."
+      "Velg et kort du vil fjerne."
     ]
   },
   "UnlockTextEffect": {
     "TEXT": [
-      "New Unlock!"
+      "Ny opplåsing!"
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Oppstigningsnivå ",
+      " Låst opp!"
     ]
   },
   "AbstractPotion": {
     "TEXT": [
-      "I can't carry NL any more Potions."
+      "jeg kan ikke bære med meg NL flere Trylledrikker."
     ]
   },
   "TipHelper": {
     "TEXT": [
-      "Energy"
+      "Energi"
     ]
   },
   "ExhaustAction": {
     "TEXT": [
-      "Exhaust"
+      "Vrak"
     ]
   },
   "ExhumeAction": {
     "TEXT": [
-      "Select a Card to Return to your Hand"
+      "Velg et kort du vil ha tilbake på hånda"
     ]
   },
   "PowerExpireTextEffect": {
     "TEXT": [
-      "Wears Off"
+      "Går vekk"
     ]
   },
   "RestartForChangesEffect": {
     "TEXT": [
-      "Restart the game for display changes to take effect."
+      "Start spillet på nytt for å se endringene gjort med skjerminnstillinger."
     ]
   },
   "OpeningAction": {
     "TEXT": [
-      "That enemy does not intend to attack!"
+      "Denne fienden har ikke tenkt å angripe!"
     ]
   },
   "ApplyPowerAction": {
     "TEXT": [
-      "Negated",
-      "Immune",
-      "Nullified",
-      "\n Down"
+      "Opphevet",
+      "Immun",
+      "Annullert",
+      "\n Ned"
     ]
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "put on top of your draw pile"
+      "legge i toppen av trekkebunken din"
     ]
   },
   "ImmolateAction": {
     "TEXT": [
-      "Exhaust"
+      "Vrak"
     ]
   },
   "TheBeyond": {
     "TEXT": [
-      "The Beyond"
+      "Forbi"
     ]
   },
   "MenuPanels": {
     "TEXT": [
       "Standard",
       "",
-      "Embark on a quest to Slay the Spire.",
-      "Daily Climb",
+      "Sett i gang ditt evnetyr med Slay the Spire.",
+      "Daglig utfordring",
       "",
-      "A new challenge is available once a day.\n\nCompete with other players for the highest score!",
-      "Ascension",
+      "En ny utfordring blir tilgjengelig en gang om dagen.\n\nKonkurrer med andre spillere om den høyeste poengsummen!",
+      "Oppstigning",
       "",
-      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
-      "Card Library",
+      "Tårnet blir sterkere hver gang du beseirer det.\n\nTest grensene av dine mektigste strategier.",
+      "Kortbibliotek",
       "",
-      "View all of the cards you have encountered throughout the Spire.",
-      "Relic Collection",
+      "Se alle kortene du har støtt på din vei igjennom tårnet.",
+      "Relikviesamling",
       "",
-      "Examine the various trinkets and artifacts obtained throughout your runs.",
-      "Bestiary",
+      "Utforsk de forskjellige tingene og artefaktene du har mottatt i dine reiser igjennom tårnet.",
+      "Monstermanual",
       "",
-      "This feature is not yet available.",
-      "Character Stats",
+      "Dette er ikke tilgjengelig ennå.",
+      "Figurstatistikker",
       "",
-      "The progress and statistics for each character can be seen here.",
-      "Leaderboards",
+      "Fremgangen, og statistikken, for hver figur kan du se her.",
+      "Resultatliste",
       "",
-      "View and compare your score with friends and other players.",
-      "Run History",
+      "Se og sammenlign din poengsumm med dine venners poengsum, og poengsummen til andre spillere.",
+      "Spillhistorikk",
       "",
-      "Revisit your past attempts at slaying the Spire.",
-      "Game Settings",
+      "Gjense dine tidligere forsøk på å overvinne tårnet.",
+      "Innstillinger",
       "",
-      "Change your resolution and toggle various options on/off.",
-      "Input Settings",
+      "Endre oppløsning og slå diverse innstillinger av og på.",
+      "Kontrollerinnstillinger",
       "",
-      "This feature is not yet available.",
-      "Credits",
+      "Dette er ikke tilgjengelig ennå.",
+      "Krediteringer",
       "",
-      "See all of the people who contributed on Slay the Spire!",
-      "Unknown",
+      "Se listen over alle som har bidratt til Slay the Spire!",
+      "Ukjent",
       "",
-      "This feature is not yet available."
+      "Dette er ikke tilgjengelig ennå."
     ]
   },
   "TwitchVoter": {
     "TEXT": [
-      "VOTE NOW: "
+      "STEM NÅ: "
     ]
   },
   "DailyScreen": {
     "TEXT": [
-      "Daily Challenge",
-      "Connecting to Time Server...",
-      "You have done today's challenge",
-      "Return",
-      "Embark",
-      "Today's character: ",
+      "Daglig utfordring",
+      "Kobler til serveren...",
+      "Du har allerede gjennomført dagens utfordring",
+      "Tilbake",
+      "Sett i gang",
+      "Dagens figur: ",
       "dd/MM/yyyy HH:mm:ss",
-      "Time Left: ",
-      "#yFloor #yReached: NL  ",
-      " NL NL  #yDeck: NL ",
-      " NL NL  #yRelics: NL  ",
-      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
+      "Gjenstående tid: ",
+      "#yOppnådd #yEtasje: NL  ",
+      " NL NL  #yKortstokk: NL ",
+      " NL NL  #yRelikvier: NL  ",
+      " NL Dagens utfordring: NL TAB #yKlasse: NL TAB ",
       " NL TAB #yMods: ",
       "Modifiers: "
     ]
   },
   "CreditsScreen": {
     "TEXT": [
-      "click again to exit"
+      "trykk igjen for å avslutte"
     ]
   }
 }

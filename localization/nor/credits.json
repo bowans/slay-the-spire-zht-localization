@@ -1,62 +1,62 @@
 {
   "DEV": {
-    "HEADER": "Development & Design",
+    "HEADER": "Utvikling & design",
     "NAMES": [
       "Anthony Giovannetti",
       "Casey Yano"
     ]
   },
   "OPS": {
-    "HEADER": "Operations & Metrics",
+    "HEADER": "Operasjoner & metrikk",
     "NAMES": [
       "Danielle Jenkins",
       "Jake Rabinowitz"
     ]
   },
   "SOUND": {
-    "HEADER": "Music & Sounds",
+    "HEADER": "Musikk & lyd",
     "NAMES": [
       "Clark Aboud"
     ]
   },
   "VOICE": {
-    "HEADER": "Voice Talent",
+    "HEADER": "Stemmer",
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Card Portraits & Event Art",
+    "HEADER": "Kortportretter & Hendelseskunst",
     "NAMES": [
       "Anailis Dorta"
     ]
   },
   "ANIMATION": {
-    "HEADER": "Character Animation",
+    "HEADER": "Figuranimasjon",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
     ]
   },
   "ILLUSTRATION": {
-    "HEADER": "Promo & Background Illustration",
+    "HEADER": "Promotering & Bakgrunnsillustrasjoner",
     "NAMES": [
       "Bruce Brenneise"
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Chinese (Simplified) Localization",
+    "HEADER": "Kinesisk (Simplifisert) Oversettelse",
     "NAMES": [
       "Sound of Mystery"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Chinese (Traditional) Localization",
+    "HEADER": "Kinesisk (Tradisjonell) Oversettelse",
     "NAMES": []
   },
   "LOC_FRA": {
-    "HEADER": "French Localization",
+    "HEADER": "Fransk Oversettelse",
     "NAMES": [
       "Xavier \"Blagatt\" Dupont",
       "Malik \"Devexia\" Leonarski",
@@ -66,17 +66,18 @@
       "Vincent \"MissingNoShiny\" Larcin",
       "Julien \"RoPeTTe\" Ropero",
       "Hugo \"Tagadda\" Vurpillot",
-      "Corentin \"Tchus\" Monfort"
+      "Corentin \"Tchus\" Monfort",
+      "Nicky \"Qazahar\" Dehout"
     ]
   },
   "LOC_DEU": {
-    "HEADER": "German Localization",
+    "HEADER": "Tysk Oversettelse",
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand "
     ]
   },
   "LOC_ITA": {
-    "HEADER": "Italian Localization",
+    "HEADER": "Italiensk Oversettelse",
     "NAMES": [
       "Hob",
       "Mero Marco",
@@ -84,38 +85,76 @@
     ]
   },
   "LOC_JPN": {
-    "HEADER": "Japanese Localization",
+    "HEADER": "Japansk Oversettelse",
     "NAMES": [
       "Grezzz"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Korean Localization",
+    "HEADER": "Koreansk Oversettelse",
     "NAMES": [
-      "Translation Manager:",
+      "Oversettelsessjef:",
       "Eteriny",
-      "Translation:",
+      "Oversettelser:",
       "Simcoding",
       "DesFrog",
       "insight",
       "K4lium",
       "hina",
-      "Steam Page Translation:",
+      "Oversettelse av Steam-siden:",
       "GyeRyak"
     ]
   },
-  "LOC_POL": {
-    "HEADER": "Polish Localization",
-    "NAMES": []
+  "LOC_NOR": {
+    "HEADER": "Norsk Oversettelse",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
   },
-  "LOC_RUS": {
-    "HEADER": "Russian Localization",
+  "LOC_POL": {
+    "HEADER": "Polsk Oversettelse",
     "NAMES": [
       "Translation and Coordination:",
-      "Ivan \"Ingrett\" Khoroshunenko",
-      "Translation and Repository:",
-      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Stanis³aw \"ST4H\" Borkowski",
+      "Oskar \"volf3n\" Nowak",
+      "Additional Translations:",
+      "Adrian \"xeros\" Rolka",
+      "Proofreading:",
+      "Oskar \"volf3n\" Nowak",
       "Suggestions and Feedback:",
+      "Kasper \"Awokado\" Beræ",
+      "Pawe³ \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogus³awski",
+      "Erwin \"mateusz3010\" Matys",
+      "Mettie",
+      "Rafa³ \"SponTon83\" Szyszko"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "Localização - Português do Brasil",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov"
+    ]
+  },
+  "LOC_RUS": {
+    "HEADER": "Russisk Oversettelse",
+    "NAMES": [
+      "Oversettelse og koordinering:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Oversettelse og Oppbevaring:",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Forslag og tilbakemeldinger:",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
       "Sergey \"lol10801lol\" K.",
@@ -126,19 +165,19 @@
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Turkish Localization",
+    "HEADER": "Tyrkisk Oversettelse",
     "NAMES": [
       "Erdem Gürbüz"
     ]
   },
   "LOC_ADDITIONAL": {
-    "HEADER": "Additional Translations",
+    "HEADER": "Andre oversettelser",
     "NAMES": [
       "MoGi Group"
     ]
   },
   "TEST": {
-    "HEADER": "Playtesters",
+    "HEADER": "Spilltestere",
     "NAMES": [
       "Agari",
       "Daria Anderson",
@@ -170,7 +209,7 @@
     ]
   },
   "SPECIAL": {
-    "HEADER": "Special Thanks",
+    "HEADER": "Spesiell takk til",
     "NAMES": [
       "Harry Rabinowitz",
       "Kevin \"Billy\" Matheson",
@@ -184,7 +223,7 @@
     ]
   },
   "THANKS_MSG": {
-    "HEADER": "...and thank YOU for playing!",
+    "HEADER": "...og takk til DEG for at du spiller!",
     "NAMES": []
   }
 }

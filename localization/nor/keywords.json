@@ -14,18 +14,18 @@
       "NAMES": [
         "blokker",
         "skadeblokker",
-        "forsvar",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "blokkerer",
+        "skadeblokkeringen",
+        "skadeblokkering"
       ],
       "DESCRIPTION": "Inntil din neste tur motstår du skade."
     },
     "CURSE": {
       "NAMES": [
         "forbannelse",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
+        "forbannelseskort",
+        "forbannelsen",
+        "forbannelser",
         "UNUSED_RESERVE"
       ],
       "DESCRIPTION": "Forbannelseskort er negative kort som forblir i kortstokken din."
@@ -33,7 +33,7 @@
     "DEXTERITY": {
       "NAMES": [
         "smidighet",
-        "UNUSED_RESERVE",
+        "smidigheten",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
@@ -54,8 +54,8 @@
       "NAMES": [
         "vrak",
         "vrakes",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
+        "vrakede",
+        "vraket",
         "UNUSED_RESERVE"
       ],
       "DESCRIPTION": "Fjernes inntil kampen er over."
@@ -84,16 +84,16 @@
       "NAMES": [
         "gift",
         "forgiftet",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "forgiftning",
+        "forgift",
+        "forgifter"
       ],
       "DESCRIPTION": "Forgiftede skapninger mister HP i starten av runden sin. Hver runde minker giften med #b1."
     },
     "RETAIN": {
       "NAMES": [
         "behold",
-        "UNUSED_RESERVE",
+        "beholde",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
@@ -113,9 +113,9 @@
     "STATUS": {
       "NAMES": [
         "status",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
+        "status-",
+        "statuskort",
+        "statuser",
         "UNUSED_RESERVE"
       ],
       "DESCRIPTION": "Statuskort fjernes etter at kampen er over."
@@ -123,7 +123,7 @@
     "STRENGTH": {
       "NAMES": [
         "styrke",
-        "UNUSED_RESERVE",
+        "styrken",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
@@ -132,9 +132,9 @@
     },
     "TRANSFORM": {
       "NAMES": [
+        "transformer",
         "transformere",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
+        "transformeres",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
@@ -152,8 +152,8 @@
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "kan ikke spilles",
-        "UNUSED_RESERVE",
+        "uspillbar",
+        "uspillbart",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
@@ -163,9 +163,9 @@
     "UPGRADE": {
       "NAMES": [
         "oppgrader",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
+        "oppgradere",
+        "oppgraderes",
+        "oppgradert",
         "UNUSED_RESERVE"
       ],
       "DESCRIPTION": "Når man oppgraderer et kort, blir det kraftigere. Kort kan bare oppgraderes èn gang."
@@ -173,7 +173,7 @@
     "VULNERABLE": {
       "NAMES": [
         "sårbar",
-        "UNUSED_RESERVE",
+        "sårbare",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
@@ -186,7 +186,7 @@
         "svekk",
         "svekket",
         "svekker",
-        "UNUSED_RESERVE"
+        "svekkede"
       ],
       "DESCRIPTION": "Svekkede skapninger påfører #b25% mindre skade med angrepene sine"
     },
@@ -194,9 +194,9 @@
       "NAMES": [
         "skade",
         "skader",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "skadekort",
+        "angrepsskaden",
+        "angrepsskade"
       ],
       "DESCRIPTION": "Skader kan ikke spilles, og er statuskort."
     },
@@ -223,7 +223,7 @@
     "CONFUSED": {
       "NAMES": [
         "forvirret",
-        "UNUSED_RESERVE",
+        "forvirre",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
@@ -251,7 +251,7 @@
       "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
     },
     "TEXT": [
-      "Energy is used to play cards from your hand."
+      "Energi brukes for å spille kort fra hånda."
     ]
   }
 }

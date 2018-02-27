@@ -1,16 +1,16 @@
 {
   "MerchantImageTextNotInGame": {
     "TEXT": [
-      "Usługa Usuwania Kart",
+      "Usługa usuwania kart",
       "WYPRZEDAŻ",
-      "Nie na Sprzedaż",
+      "Nie na sprzedaż",
       "Wyprzedane",
       "O nie!"
     ]
   },
   "Cancel Button": {
     "TEXT": [
-      "Usuń Zapis"
+      "Usuń zapis"
     ]
   },
   "Confirm Button": {
@@ -20,78 +20,83 @@
   },
   "End Turn Button": {
     "TEXT": [
-      "Zakończ Turę",
-      "Tura Przeciwnika"
+      "Koniec tury",
+      "Tura wroga"
     ]
   },
   "RunHistoryScreen": {
     "TEXT": [
       "Pancernik",
-      "Cisza",
+      "Cień",
       "",
-      "Powrót",
-      "Nie znaleziono poprzednich rozgrywek. NL Idź Pokonać Iglicę!",
+      "Wróć",
+      "Nie znaleziono poprzednich rozgrywek. NL No dalej, zdobądź Iglicę!",
       "Poziom Wyniesienia: ",
-      "Śmierć na Piętrze %1$d przez %2$s",
-      "Rozgrywka Zakończona na %d piętrze",
+      "Śmierć na %1$d. piętrze z ręki %2$s",
+      "Porzucono wyprawę na %d. piętrze",
       "Zwycięstwo!",
       "Karty",
-      "Relikty",
+      "Artefakty",
       "Początkowe",
-      "Zwyczajne",
-      "Niezwyczajne",
+      "Pospolite",
+      "Niepospolite",
       "Rzadkie",
       "Specjalne",
       "Klątwy",
-      "Bossów",
-      "Kupca",
+      "Legendarne",
+      "Od Handlarza",
       "Nieznane",
-      "%1$d %2$s",
+      "%2$s – %1$d",
       "%1$s (%2$d):",
       "Wynik: %d",
-      "Wszystkie Postacie",
-      "Wygrane i Przegrane",
-      "Wygrane",
-      "Przegrane"
+      "Wszystkie postacie",
+      "Zwycięstwa i porażki",
+      "Zwycięstwa",
+      "Porażki",
+      "Daily",
+      "Any Game Type",
+      "Only Normal",
+      "Only Ascension",
+      "Only Daily Challenge"
     ]
   },
   "LeaderboardsScreen": {
     "TEXT": [
-      "Powrót",
-      "Filtr",
+      "Wróć",
+      "Filtry",
       "Postać",
       "Region",
       "Typ",
-      "Wyświetl Mój Wynik",
+      "Pokaż mój wynik",
       "Miejsce",
       "Nazwa",
       "Wynik",
-      "Pobieranie Danych...",
-      "Tablica Wyników (NOTKA: jest resetowana co tydzień)",
-      "Brak połączenia ze Steam",
-      "Nie znaleziono wyniku \n Idź Pokonać Iglicę!"
+      "Odbieranie danych...",
+      "Tablice wyników (UWAGA: będą resetowane co tydzień)",
+      "Brak połączenia z serwerami Steam",
+      "Brak wyników \n No dalej, zdobądź Iglicę!"
     ]
   },
   "LeaderboardFilters": {
     "TEXT": [
       "Pancernik",
-      "Cisza",
+      "Cień",
       "3rd Char. DO NOT TRANSLATE",
-      "Average Floor Reached (Last 20 Attempts)",
-      "Average Score (Last 20 Attempts)",
-      "Największa Seria Wygranych",
-      "Najszybsza Wygrana",
-      "Najwyższy Wynik",
+      "Średnio osiągane piętro (20 ostatnich prób)",
+      "Średni wynik (20 ostatnich prób)",
+      "Najdłuższa seria wygranych",
+      "Najszybsza wygrana",
+      "Najwyższy wynik",
       "Option 6. DO NOT TRANSLATE",
-      "Wśród Znajomych",
+      "Znajomi",
       "Globalnie"
     ]
   },
   "LanguageDropdown": {
     "TEXT": [
-      "Brazylijski Portugalski",
-      "Chiński (Uproszczony)",
-      "Chiński (Tradycyjny)",
+      "Portugalski Brazylijski",
+      "Chiński (uproszczony)",
+      "Chiński (tradycyjny)",
       "Angielski",
       "Francuski",
       "Niemiecki",
@@ -104,89 +109,89 @@
       "Hebrajski",
       "Turecki",
       "Szwedzki",
-      "Norwegian",
-      "Thai",
-      "Serbian",
-      "Ukrainian",
-      "Vietnamese",
+      "Norweski",
+      "Tajski",
+      "Serbski",
+      "Ukraiński",
+      "Wietnamski",
       "Hungarian"
     ]
   },
   "Proceed Button": {
     "TEXT": [
-      "Kontynuuj"
+      "Dalej"
     ]
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Zamień (Hazardowy Żeton)"
+      "podmiany (żeton pokerowy)"
     ]
   },
   "RetainCardsAction": {
     "TEXT": [
-      "Zatrzymaj"
+      "zachowania"
     ]
   },
   "AbstractChest": {
     "TEXT": [
-      "Kontynuuj"
+      "Dalej"
     ]
   },
   "BossChest": {
     "TEXT": [
-      "Kontynuuj"
+      "Dalej"
     ]
   },
   "ShopRoom": {
     "TEXT": [
-      "Pomiń Kupca"
+      "Pomiń handlarza"
     ]
   },
   "TreasureRoom": {
     "TEXT": [
-      "Pomiń Skrzynię"
+      "Pomiń skrzynię"
     ]
   },
   "TreasureRoomBoss": {
     "TEXT": [
-      "Pomiń Skrzynię"
+      "Pomiń skrzynię"
     ]
   },
   "SetupAction": {
     "TEXT": [
-      "połóż na górze swojej Puli Kart do Dobrania."
+      "wrzuć na górę stosu."
     ]
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-      "Wybierz Umiejętność do Dodania do ręki"
+      "Wybierz kartę umiejętności jaką chcesz dodać do ręki"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Wybierz Kartę do Dodania na Górze Puli Kart do Dobrania."
+      "Wybierz kartę jaką chcesz położyć na górze stosu."
     ]
   },
   "Legend": {
     "TEXT": [
-      "Nieznany",
+      "Nieznane",
       "???",
-      "Nieznany pokój. NL NL Możesz w nim napotkać potyczkę, skrzynię, Kupca, lub coś zupełnie innego.",
-      "Kupiec",
-      "Kupiec",
-      "W tych pokojach tajemniczy Kupiec sprzedaje swoje towary. NL NL Wydaj tutaj swoje ciężko zarobione #yzłoto!",
-      "Skrzynia",
-      "Pokój ze Skrzynią",
-      "W tych pożądanych pokojach można znaleźć #yrelikty oraz #yzłoto.",
-      "Odpocznij",
-      "Miejsca Odpoczynku",
-      "Zatrzymaj się w tych pokojach, aby #gOdzyskać trochę PŻ albo #yUlepszyć kartę.",
-      "Wróg",
+      "Tajemnicze pomieszczenie. NL NL Możesz w nim spotkać potwory, skarby, sklepy lub coś zupełnie innego.",
+      "Handlarz",
+      "Handlarz",
+      "W tych pomieszczeniach znajdziesz Handlarza sprzedającego różnorodny asortyment. NL NL Możesz tutaj wydać całe ciężko zarobione #yZłoto!",
+      "Skarb",
+      "Skarb",
+      "W tych pomieszczeniach znajdziesz #yArtefakty oraz #yZłoto.",
+      "Obozowisko",
+      "Obozowiska",
+      "Zatrzymaj się w nich, aby #gprzywrócić część PŻ lub #yulepszyć kartę.",
+      "Przeciwnik",
       "Wrogowie",
-      "W tych pokojach czyhają nieprzyjaźni przeciwnicy.",
+      "Wrogo nastawione stworzenia okupują te pomieszczenia.",
       "Elitarny",
-      "Elitarni",
-      "W tych pokojach czyhają potężni przeciwnicy. NL NL Pokonaj ich aby zyskać relikt.",
+      "Elitarni wrogowie",
+      "Potężne stworzenia zamieszkują te pomieszczenia. NL NL Za ich pokonanie otrzymasz artefakt.",
       "Legenda"
     ]
   },
@@ -198,44 +203,44 @@
   "Dig Option": {
     "TEXT": [
       "Kop",
-      "Wykop losowy relikt."
+      "Wykop losowy artefakt."
     ]
   },
   "Lift Option": {
     "TEXT": [
-      "Podnoś Ciężary",
-      "Rozpocznij potyczki z 1 dodatkowym pkt. Siły. (Maksymalnie 3)"
+      "Ćwicz",
+      "Zaczynaj potyczkę z +1 do Siły (maks. 3 razy)"
     ]
   },
   "Rest Option": {
     "TEXT": [
       "Odpocznij",
-      "Odzyskaj 20% swoich Maksymalnych PŻ (",
+      "Przywróć 20% maks. PŻ (",
       " PŻ z ",
-      "Odzyskaj 30% swoich Maksymalnych PŻ ("
+      "Przywróć 30% maks. PŻ ("
     ]
   },
   "Smith Option": {
     "TEXT": [
-      "Kuj",
-      "Ulepsz kartę z talii.",
-      "Nie posiadasz kart do Ulepszenia."
+      "Kuźnia",
+      "Ulepsz jedną z kart w talii.",
+      "Brak odpowiednich kart."
     ]
   },
   "Toke Option": {
     "TEXT": [
-      "Oczyść Umysł",
-      "Usuń kartę z talii."
+      "Odpłyń",
+      "Usuń wybraną kartę z talii."
     ]
   },
   "DiscardPilePanel": {
     "TEXT": [
-      "Moja Pula Kart Odrzuconych jest #rpusta."
+      "Mój stos odrzuconych jest #rpusty."
     ]
   },
   "DrawPilePanel": {
     "TEXT": [
-      "Moja Pula Kart do Dobrania jest #rpusta."
+      "Mój stos rozgrywający jest #rpusty."
     ]
   },
   "PotionPopUp": {
@@ -243,92 +248,92 @@
       "Rzuć",
       "Wypij",
       "Wyrzuć",
-      "Nie mogę używać mikstur!",
-      "Nie mogę tego zrobić podczas potyczki!"
+      "Nie mogę korzystać z mikstur!",
+      "Nie mogę tego zrobić w walce!"
     ]
   },
   "RenamePanel": {
     "TEXT": [
-      "<bezimienny>",
-      "Podaj Swoje Imię",
-      "Akceptuj",
+      "<brak nazwy>",
+      "Wprowadź swoje imię",
+      "Potwierdź",
       "Anuluj"
     ]
   },
   "AbstractCard": {
     "TEXT": [
-      "Zablokowana",
-      "Nieznana"
+      "Zablokowane",
+      "Nieznane"
     ]
   },
   "AbstractPlayer": {
     "TEXT": [
-      "Zablokowano",
+      "Zablokowany",
       "Pancernik",
-      "Cisza",
-      "the Gunner"
+      "Cień",
+      "Strzelec"
     ]
   },
   "AbstractCreature": {
     "TEXT": [
-      "Martwy",
+      "Nie żyje",
       "Zablokowano",
-      "Maksymalne PŻ +",
+      "maks. PŻ +",
       "Ogłuszenie!",
-      "Podzielenie!"
+      "Zakłócenie!"
     ]
   },
   "TopPanel": {
     "TEXT": [
-      " Piętro",
+      ". piętro",
       " - Wyniesienie ",
-      " (Maksymalny Poziom)"
+      " (najwyż. poziom)"
     ]
   },
   "UnlockCharacterScreen": {
     "TEXT": [
-      "Odblokowane Karty!",
+      "Karty odblokowane!",
       "",
-      "Odblokowane relikty!",
-      "Nowa Postać",
-      "Notka: Odblokowane karty będą pojawiały się w przyszłych rozgrywkach.",
-      "Notka: Odblokowane relikty będą pojawiały się w przyszłych rozgrywkach."
+      "Artefakty odblokowane!",
+      "Nowa postać",
+      "Uwaga: Odblokowane karty będą dostępne w przyszłych wyprawach.",
+      "Uwaga: Odblokowane artefakty będą dostępne w przyszłych wyprawach."
     ]
   },
   "UnlockScreen": {
     "TEXT": [
-      "Odblokowane Karty!",
-      "Odblokowane Relikty!",
-      "Nowa Postać",
-      "Notka: Odblokowane karty będą pojawiały się w przyszłych rozgrywkach.",
-      "Notka: Odblokowane relikty będą pojawiały się w przyszłych rozgrywkach."
+      "Nowe karty!",
+      "Nowe artefakty!",
+      "Nowa postać!",
+      "Uwaga: Odblokowane karty będą dostępne w przyszłych wyprawach.",
+      "Uwaga: Odblokowane artefakty będą dostępne w przyszłych wyprawach."
     ]
   },
   "StorePotion": {
     "TEXT": [
-      "Nie masz już wolnego miejsca"
+      "Brak wolnego miejsca"
     ]
   },
   "AbstractRoom": {
     "TEXT": [
-      "Okradli cię..."
+      "Okradziono..."
     ]
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-      "Bossowy",
-      "Zwyczajny",
-      "Deprecated",
+      "Legendarny",
+      "Pospolity",
+      "Nieaktualny",
       "Rzadki",
       "Sklepowy",
-      "Wydarzeniowy",
+      "Znaleziony",
       "Początkowy",
-      "Niezwyczajny",
+      "Niepospolity",
       "Zablokowany",
       "Nieznany",
-      " Relikt",
-      "Ten relikt musi jeszcze zostać odblokowany.",
-      "Ten relikt musi jeszcze zostać odnaleziony."
+      " artefakt",
+      "Ten artefakt należy wcześniej odblokować.",
+      "Ten artefakt należy wcześniej znaleźć."
     ]
   },
   "SingleCardViewPopup": {
@@ -337,549 +342,549 @@
       "Umiejętność",
       "Moc",
       "Klątwa",
-      "Zablokowana",
-      "Nieznana",
-      "Pokaż Ulepszenie",
-      "Status",
+      "Zablokowane",
+      "Nieznane",
+      "Pokaż ulepszenie",
+      "Stan",
       "Amunicja",
-      "Możesz zagrywać karty tylko podczas swojej tury.",
-      "Jestem #rZaplątany! NL Nie mogę zagrywać Ataków",
-      "Za mało #rEnergii.",
-      "Aa mało #rŁadunków.",
-      "Nie mogę zagrać NL tej karty"
+      "Mogę tylko rzucać karty.",
+      "Moje kończyny są #rzwiązane! NL Nie mogę rzucać kart #rAtaku.",
+      "Brak wystarczającej #rEnergii.",
+      "Brak wystarczającej ilości #rŁadunków.",
+      "Nie mogę zagrać NL tej karty."
     ]
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "Każdą potyczkę rozpoczynasz z tymi kartami.",
-      "Powrót"
+      "Każdą walkę rozpoczynasz z tymi kartami.",
+      "Wróć"
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "Te karty zostały Wygnane podczas tej rozgrywki.",
-      "Powrót"
+      "Te karty zostały wykluczone podczas walki.",
+      "Wróć"
     ]
   },
   "DungeonTransitionScreen": {
     "TEXT": [
-      "Wskazówki",
-      "Życzysz sobie widzieć wskazówki w trakcie rozgrywki?",
+      "Samouczki",
+      "Włączyć wyświetlanie porad w ciągu rozgrywki?",
       "Akt 1",
-      "Początek",
+      "Exordium",
       "Akt 2",
-      "Metropolia",
+      "Miasto",
       "Akt 3",
-      "Rubieże",
+      "Pogranicza",
       "Akt ?",
       "???",
-      "Naciśnij gdziekolwiek, aby kontynuować"
+      "Kliknij w dowolnym miejscu, aby kontynuować"
     ]
   },
   "DungeonMapScreen": {
     "TEXT": [
-      "Wybierz, gdzie chcesz rozpocząć",
-      "Powrót"
+      "Wybierz pomieszczenie startowe",
+      "Wróć"
     ]
   },
   "DrawPileViewScreen": {
     "TEXT": [
-      "Na początku każdej tury karty są Dobierane z tej puli.",
-      "(Wyświetlone karty są posortowane według Rzadkości)",
-      "Powrót",
-      "Pula Kart do Dobrania"
+      "Karty są stąd pobierane na początku każdej tury.",
+      "(widoczne karty są posortowane według rzadkości)",
+      "Wróć",
+      "Stos rozgrywający"
     ]
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "Karty z tej puli zostaną przetasowane o dodane do puli kart do Dobrania, gdy ta się wyczerpie.",
-      "Powrót",
-      "Pula Kart Odrzuconych"
+      "Karty stąd są tasowane i przenoszone do stosu rozgrywającego kiedy ten stanie się pusty.",
+      "Wróć",
+      "Stos odrzuconych"
     ]
   },
   "CopyAction": {
     "TEXT": [
-      "Skopiowania"
+      "skopiowania"
     ]
   },
   "DiscardAction": {
     "TEXT": [
-      "Odrzucenia"
+      "odrzucenia"
     ]
   },
   "ArmamentsAction": {
     "TEXT": [
-      "Ulepszenia"
+      "ulepszenia"
     ]
   },
   "DualWieldAction": {
     "TEXT": [
-      "Duplikacji"
+      "duplikacji"
     ]
   },
   "HiddenChamberAction": {
     "TEXT": [
-      "Duplikacji"
+      "duplikacji"
     ]
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Tryb Wyniesienia poziom ",
-      " Odblokowany!"
+      "Tryb Wyniesienia – poziom ",
+      " – odblokowany!"
     ]
   },
   "DeathScreen": {
     "TEXT": [
       "Kontynuuj",
       "Zwycięstwo?",
-      "Piętra Zdobyte",
-      "Bossowie Pokonani",
-      "Czas Rozgrywki",
-      "Czas Rozgrywki",
+      "Pokonane piętra",
+      "Pokonani bossowie",
+      "Czas gry",
+      "Czas gry",
       "Wynik",
-      "Zdobyte",
+      "Przegrana",
       "Śmierć...",
       "Porażka",
-      "Klęska!",
-      "Hańba",
+      "Przegrano!",
+      "Zbezczeszczono",
       "Dewastacja",
-      "Przegrana",
-      "Zgładzenie!",
+      "Rozgromiono",
+      "Pokonano cię!",
       "Znajome uczucie.",
-      "Drzemka brzmi dobrze.",
-      "Jak zasiejesz, tak będziesz żął.",
-      "To nie tak miało pójść.",
-      "Trzeba się było lepiej przygotować.",
-      "Spróbuję jutro jeszcze raz.",
-      "Będę potrzebować nowej mapy.",
-      "Niewystarczające przygotowanie.",
-      "Niewyobrażalne!",
-      "Czy to mój prawdziwy potencjał?",
+      "Drzemka to nie taki zły pomysł.",
+      "Jak sobie wyposażysz, tak sobie umrzesz.",
+      "Ślepa uliczka.",
+      "To nie tak miało być.",
+      "Może jutro się uda.",
+      "Chyba potrzebuję nowej mapy.",
+      "Przygotowanie się to klucz.",
+      "To niepojęte!",
+      "Tylko na tyle mnie stać?",
       "Takie moje szczęście...",
-      "Tylko nie tak...",
+      "Tylko nie w ten sposób...",
       "To jeszcze nie szczyt.",
-      "Następny przepadł w Iglicy...",
-      "Tracisz świadomość...",
-      "Przegrana",
-      "Zgoda",
+      "Kolejna osoba pada ofiarą Iglicy...",
+      "Twoja świadomość zanika...",
+      "Porażka",
+      "Akceptacja",
       "Kontynuuj",
-      "Sprobuj ponownie",
-      "Menu Główne",
-      "Kontynuuj",
-      "Odblokuj",
-      "Menu Główne",
       "Spróbuj ponownie",
-      "Kontynuuj",
+      "Menu główne",
+      "Dalej",
       "Odblokuj",
-      "Pozostało do Odblokowania: ",
-      "Pozostał do Odblokowania: ",
-      "Pokonani Przeciwnicy",
-      "Pokonani Elitarni",
-      "Niewydane Złoto",
-      "Bonus za PŻ"
+      "Menu główne",
+      "Spróbuj ponownie",
+      "Dalej",
+      "Odblokuj",
+      "Pozostałe ulepszenia – ",
+      "Pozostałe ulepszenia – ",
+      "Pokonani wrogowie",
+      "Pokonane elitarne jednostki",
+      "Niewydane złoto",
+      "Bonus PŻ"
     ],
     "EXTRA_TEXT": [
-      "Pokonani Elitarni Początku",
-      "Pokonani Elitarni Metropolii",
-      "Pokonani Elitarni Rubieży",
-      "Śmigacz",
-      "Prędkość Światła",
-      "\"Może być tylko jeden\"",
+      "Pokonani elitarni – Exordium",
+      "Pokonani elitarni – Miasto",
+      "Pokonani elitarni – Pogranicza",
+      "Maniak prędkości",
+      "Z prędkością światła",
+      "Góral",
       "Kolekcja",
-      "Full Set",
-      "Nędzarz",
-      "Bibliotekarz",
+      "Komplet",
+      "Nędznik",
+      "Biblioteka",
       "Encyklopedia",
-      "Najedzony",
-      "Obżarty",
-      "Przekleństwo!",
-      "Na Własnych Warunkach",
-      "Mistrz",
-      "Perfekcyjnie",
-      "Bóg",
-      "Przesada",
-      "K-k-k-kombo",
+      "Pełny brzuch",
+      "Wypchany",
+      "A niech to!",
+      "Na moich zasadach",
+      "Czempion",
+      "Nie próbuj, tylko mnie traf",
+      "Flash, mówisz i masz",
+      "Overkill",
+      "C-c-c-combo",
       ""
     ]
   },
   "CombatRewardScreen": {
     "TEXT": [
       "Kontynuuj",
-      "Pomiń Kartę",
-      "Pomiń Złoto",
-      "Pomiń Miksturę",
-      "Pomiń Relikt",
-      "Pomiń Łup",
+      "Pomiń kartę",
+      "Pomiń złoto",
+      "Pomiń miksturę",
+      "Pomiń relikwię",
+      "Pomiń łupy",
       "Zamknij",
-      "Skrzynia!",
+      "Skarb!",
       "Co jest w środku?",
-      "Dla mnie?!",
+      "Skarby!",
       "Łupy!",
-      "Łup!",
-      "Wskazówka: "
+      "Znajdźki!",
+      "Porada: "
     ]
   },
   "ChooseOneScreen": {
     "TEXT": [
-      "Wybierz 1"
+      "Wybierz jedno"
     ]
   },
   "TwitchVoter": {
     "TEXT": [
-      "Zagłosuj: "
+      "GŁOSUJ TERAZ: "
     ]
   },
   "CardRewardScreen": {
     "TEXT": [
-      "Pomiń",
-      "Wybierz Kartę",
-      "+2 Maksymalnych PŻ",
-      "Głosuj: ",
-      " pozostało."
+      "Wróć",
+      "Wybierz kartę",
+      "+2 do maks. PŻ",
+      "GŁOSUJ TERAZ: Pozostało ",
+      "."
     ]
   },
   "BossRelicSelectScreen": {
     "TEXT": [
       "Potwierdź",
-      "Potwierdź Wybór",
-      "Wybierz Relikt",
+      "Potwierdź wybór",
+      "Wybierz artefakt",
       "Pomiń",
-      "VOTE NOW: ",
-      " pozostało."
+      "GŁOSUJ TERAZ: ",
+      "s pozostało."
     ]
   },
   "GridCardSelectScreen": {
     "TEXT": [
       "Potwierdź",
       "Anuluj",
-      "Potwierdź Swój Wybór",
-      "Wyjdź"
+      "Potwierdź wybór",
+      "Odejdź"
     ]
   },
   "HandCardSelectScreen": {
     "TEXT": [
-      "Wybierz kartę, do ",
-      "Potwierdź, aby ",
+      "Zatwierdź kartę do ",
+      "Zatwierdź karty do ",
       "Wybierz ",
-      " Karty, do ",
-      "Wybierz Dowolną liczbę kart, do ",
-      "Wybierz kartę, do "
+      " kart do ",
+      "Wybierz dowolną liczbę kart do ",
+      "Wybierz kartę do "
     ]
   },
   "AbandonRunButton": {
     "TEXT": [
-      "Zakończ Próbę"
+      "Porzuć wyprawę"
     ]
   },
   "ConfirmPopup": {
     "TEXT": [
-      "Powrót",
-      "Usuń Zapis",
+      "Wróć",
+      "Usuń zapis",
       "Tak",
       "Nie"
     ]
   },
   "ExitGameButton": {
     "TEXT": [
-      "Wyjdź z Gry"
+      "Wyjdź z gry"
     ]
   },
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Menu Gry",
+      "Menu gry",
       "Grafika",
-      "Rozdzielczość: NL Maksymalne FPS'y:",
-      "Pełny Ekran NL Bez Krawędzi (rekomendowane) NL Trzęsienie Ekranu",
+      "Rozdzielczość: NL Limit klatek na sekundę:",
+      "Pełny ekran NL Okno bez ramek (zalecane) NL Wstrząsy ekranu",
       "Dźwięk",
-      "Ogólna Głośność NL Głośność Muzyki NL Głośność Efektów",
-      "Dźwięki Otoczenia NL Wycisz, jeżeli gra jest zminimalizowana",
-      "Ustawienia",
-      "Wyświetlaj podsumowane obrażenia w kolorze złotym NL Wyświetlaj zablokowane obrażenia w kolorze niebieskim NL Wyłącz potwierdzanie, przy wyborze jednej karty",
-      "Szybki Tryb",
+      "Główny NL Muzyka NL Efekty",
+      "Efekty tła NL Wycisz dźwięk, gdy okno jest nieaktywne",
+      "Preferencje",
+      "Wyświetlaj sumę obrażeń na złoto NL Wyświetlaj sumę zablok. obrażeń na niebiesko NL Wyłącz powiadomienie przy wyborze 1 karty",
+      "Tryb „speedrun”",
       "",
-      "Dodatkowe",
+      "Inne",
       "Język:",
-      "Wysyłaj dane z gry #b(?)",
-      "Wyjdź z Gry",
-      "Zapisz i Wyjdź",
-      "NL NL VSync",
-      "Tryb Graficzny Testerów"
+      "Wysyłaj dane z rozgrywki #b(?)",
+      "Wyjdź z gry",
+      "Zapisz i wyjdź",
+      "NL NL Synchronizacja pionowa",
+      "Playtester Art Mode"
     ]
   },
   "DailyScreen": {
     "TEXT": [
-      "Codzienne Wyzwanie",
-      "Łączenie z Serwerem...",
-      "Wykonano dzisiejsze wyzwanie",
+      "Wyzwanie Dnia",
+      "Łączenie z serwerem...",
+      "Ukończono dzisiejsze wyzwanie",
       "Powrót",
-      "Wyrusz",
-      "Today's character: ",
+      "W drogę",
+      "Dzisiejsza postać: ",
       "dd/MM/yyyy HH:mm:ss",
-      "Pozostały Czas: ",
-      "#yZdobyte #yPiętro: NL  ",
+      "Pozostały czas: ",
+      "#yPokonane #ypiętro: NL  ",
       " NL NL  #yTalia: NL ",
-      " NL NL  #yRelikty: NL  ",
-      " NL Dzisiejsze Wyzwanie: NL TAB #yPostać: NL TAB ",
+      " NL NL  #yArtefakty: NL  ",
+      " NL Wyzwanie Dnia: NL TAB #yPostać: NL TAB ",
       " NL TAB #yModyfikacje: ",
-      "Modifiers: "
+      "Modyfikacje: "
     ]
   },
   "SettingsScreen": {
     "TEXT": [
-      "Na pewno?",
+      "Czy aby na pewno?",
       "Twój postęp jest automatycznie zapisywany.",
-      "Zakończenie rozgrywki równe jest przegranej.",
-      "UWAGA:\nPostęp NIE JEST zapisany.\n\nDotrzyj do następnego piętra aby zapisać.",
-      "Powrót",
-      "Postęp NIE JEST zapisywany dla Codziennych Wyzwań."
+      "Opuszczenie gry jest równy z przegraną.",
+      "Uwaga:\nPostęp nie jest zapisywany.\n\nDotrzyj do kolejnego piętra, aby zapisać.",
+      "Wróć",
+      "Postęp dla Wyzwań Dnia nie jest zapisywany."
     ]
   },
   "CardLibraryScreen": {
     "TEXT": [
-      "Powrót",
+      "Wróć",
       "Czerwone",
       "Zielone",
       "Niebieskie",
-      "Neutralne",
-      "Klątwy",
-      "Statusy",
-      "Pokaż Ulepszenia"
+      "Bezbarwne",
+      "Przeklęte",
+      "Stanu",
+      "Pokaż ulepszenie"
     ]
   },
   "CardLibSortHeader": {
     "TEXT": [
-      "Rzadkość",
+      "Rzadk.",
       "Typ",
       "A-Z"
     ]
   },
   "EarlyAccessPopup": {
     "TEXT": [
-      "Czym jest Wczesny Dostęp?",
-      "Czym są Otwarte Testy?",
-      "Slay the Spire dalej jest rozwijane! NL Wiele mechanik, kart i przeciwników jest stale zmienianych. NL NL Jeżeli napotkasz jakiś błąd, lub chcesz się czymś z nami podzielić, daj nam znać na naszej stronie #bDyskusji #bSteam. NL NL Starczy już tego czytania, masz Iglicę do zdobycia!",
-      "Slay the Spire dalej jest rozwijane! Dodatkowo, grasz w wersję Beta. NL NL Jeżeli napotkasz jakiś błąd, lub chcesz się czymś z nami podzielić, daj nam znać, ale pamiętaj, że niektóre rzeczy mogą być jeszcze nie dokończone. NL NL Starczy już tego czytania, masz Iglicę do zdobycia!",
-      "Naciśnij gdziekolwiek, aby rozpocząć"
+      "Dlaczego Wczesny Dostęp?",
+      "Czym jest Otwarta Beta?",
+      "Gra Slay the Spire jest wciąż rozwijana! NL Wiele mechanik, kart oraz przeciwników jest w trakcie balansowania. NL NL Jeśli napotkasz jakieś problemy, napisz na stronie #bDyskusji #bSteam. NL NL Okej, wystarczy tego czytania, masz przecież Iglicę do zdobycia!",
+      "Gra Slay the Spire jest wciąż rozwijana! NL Na dodatek, grasz w wersję beta naszej produkcji. NL NL Jeśli napotkasz jakieś problemy, napisz do nas, ale oczekuj, że w trakcie rozgrywki może pojawiać się zawartość tymczasowa, która zostanie zastąpiona właściwą w późniejszym czasie. NL NL Okej, wystarczy tego czytania, masz przecież Iglicę do zdobycia!",
+      "Kliknij w dowolnym miejscu, aby rozpocząć."
     ]
   },
   "MainMenuScreen": {
     "TEXT": [
-      "#yWersja: ",
-      "Wyrusz",
-      "Powrót",
+      "#ywersja: ",
+      "W drogę",
+      "Wróć",
       "kliknij, aby edytować"
     ]
   },
   "MenuButton": {
     "TEXT": [
-      "Kolekcja Kart",
+      "",
       "Graj",
-      "Daily Challenge",
-      "Kolekcja Reliktów",
+      "",
+      "",
       "Kontynuuj",
-      "Tablica Wyników",
+      "",
       "Statystyki",
-      "Twórcy",
+      "",
       "Wyjdź",
-      "Lista Zmian",
-      "Zakończ Próbę",
-      "Zakończ Próbę (kliknij jeszcze raz, aby potwierdzić)",
+      "Lista zmian",
+      "Porzuć wyprawę",
+      "",
       "Ustawienia",
-      "Historia Rozgrywek",
-      "Compendium"
+      "",
+      "Kompendium"
     ]
   },
   "CreditsScreen": {
     "TEXT": [
-      "kliknij jeszcze raz, aby wyjść"
+      "kliknij ponownie, aby wyjść"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
-      "Powrót",
-      "#yOstatnie #yZmiany",
+      "Wróć",
+      "#Lista #yzmian",
       " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
     ]
   },
   "RelicViewScreen": {
     "TEXT": [
-      "Powrót",
+      "Wróć",
       "Początkowe:",
-      "Postacie mogą zacząć rozgrywkę z tymi reliktami.",
-      "Zwyczajne:",
-      "Słabe relikty, które łatwo znaleźć.",
-      "Niezwyczajne:",
-      "Silniejsze relikty, pojawiają się trochę rzadziej.",
+      "Postać może zacząć grę z tymi artefaktami.",
+      "Pospolite:",
+      "Słabe artefakty, które znaleźć można wszędzie.",
+      "Niepospolite:",
+      "Potężniejsze artefakty, które pojawiają się rzadziej od pospolitych.",
       "Rzadkie:",
-      "Unikatowe i Potężne relikty, rzadko spotykane.",
-      "Bossów:",
-      "Relikty, które można znaleźć tylko w skrzyniach bossów.",
-      "Wydarzeń:",
-      "Relikty, które można znaleźć tylko dzięki wydarzeniu.",
-      "Kupca:",
-      "Relikty, które można zdobyć tylko kupując je u kupca."
+      "Bardzo potężne i zarazem unikalne przedmioty, które wypadają bardzo sporadycznie.",
+      "Legendarne:",
+      "Artefakty występujące jedynie w skrzyniach bossów.",
+      "Ze zdarzeń:",
+      "Te artefakty można uzyskać tylko podczas wydarzeń.",
+      "Od Handlarza:",
+      "Artefakty, które można zakupić u handlarza."
     ]
   },
   "CharacterOption": {
     "TEXT": [
-      "Zablokowana",
-      "Ta postać zostanie odblokowana po ukończeniu jednej rozgrywki.",
-      "Ta postać nie jest dostępna we Wczesnym Dostępie.",
-      "Ta postać zostanie odblokowana, kiedy dotrzesz do szczytu Iglicy.",
+      "Zablokowane",
+      "Ta postać będzie dostępna po ukończeniu pierwszej wyprawy.",
+      "Ta postać jest niedostępna we Wczesnym Dostępie.",
+      "Ta postać będzie dostępna po dotarciu na szczyt Iglicy.",
       "PŻ: ",
       "Złoto: ",
-      " Pozostałe Odblokowania",
-      "Unknown",
+      " – pozostałe ulepszenia",
+      "Nieznane",
       "???",
-      " Do Następnego Odblokowania"
+      " do następnego ulepszenia"
     ]
   },
   "CharacterSelectScreen": {
     "TEXT": [
-      "Wybierz Swoją Postać",
-      "Wyrusz",
+      "Wybierz postać",
+      "W drogę",
       "Pancernik",
-      "Cisza",
+      "Cień",
       "Crowbot",
-      "Powrót",
-      "Poziom",
-      "Wyniesienie ",
+      "Wróć",
+      "Tryb Wyniesienia – poziom: ",
+      "",
       "Tryb Wyniesienia",
-      "Rozgrywki stają się trudniejsze za każdym razem, kiedy wygrasz... (Nie wpływa na Serię Wygranych)"
+      "Wyprawy stają się trudniejsze po każdej wygranej... (nie wpływa na serię zwycięstw)"
     ]
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Elitarni pojawiają się częściej.",
-      "Zwykli przeciwnicy stanowią większe zagrożenie.",
-      "Elitarni stanowią większe zagrożenie.",
-      "Bossowie stanowią większe zagrożenie.",
-      "Odzyskaj mniej PŻ po walce z Bossem.",
-      "Rozpocznij każda rozgrywkę z mniejsza liczbą PŻ.",
-      "Zwykli przeciwnicy są wytrzymalsi.",
-      "Elitarni są wytrzymalsi.",
+      "Jednostki elitarne pojawiają się częściej.",
+      "Zwyczajni wrogowie są bardziej zabójczy.",
+      "Jednostki elitarne są groźniejsze.",
+      "Bossowie są groźniejsi.",
+      "Przywracasz mniejszą ilość PŻ po pokonaniu Bossa.",
+      "Zaczynasz każdą wyprawę z obrażeniami.",
+      "Zwyczajni wrogowie są wytrzymalsi.",
+      "Jednostki elitarne są wytrzymalsze.",
       "Bossowie są wytrzymalsi.",
       "Pasożyt!",
-      "Mikstury są słabsze.",
-      "Ulepszone karty pojawiają się rzadziej.",
-      "Biedni Bossowie.",
-      "Mniej Maksymalnych PŻ.",
-      "(Maksymalny Poziom) Tylko niekorzystne wydarzenia."
+      "Mikstury są mniej skuteczne.",
+      "Karty ulepszeń są rzadsze.",
+      "Spłukani bossowie.",
+      "Niższe maks. liczba PŻ.",
+      "(maks. poziom) Pechowe zdarzenia."
     ]
   },
   "AbstractMonster": {
     "TEXT": [
-      "Agresja",
-      "Ten przeciwnik zamierza NL #yAtakować za #b",
-      " obrażeń #b",
+      "Atak",
+      "Ten przeciwnik zamierza NL #yzadać #b",
+      " pkt. obrażeń #b",
       " razy.",
-      "Ten przeciwnik zamierza NL #yAtakować za #b",
-      " obrażeń.",
-      "Agresja",
-      "Ten przeciwnik zamierza użyć #yWzmocnienia i #yAtakować za #b",
+      "Ten przeciwnik zamierza NL #yzadać #b",
+      " pkt. obrażeń.",
+      "Atak",
+      "Ten przeciwnik zamierza użyć #yWzmocnienia i #yzadać #b",
       " razy.",
-      "Ten przeciwnik zamierza użyć #yWzmocnienia i #yAtakować za #b",
-      "Strategia",
-      "Ten przeciwnik zamierza nałożyć na ciebie #yNegatywny #yEfekt i #yAtakować za #b",
-      "Ten przeciwnik zamierza zyskać #yBlok i #yAtakować za #b",
-      "Defensywa",
-      "Tchórzliwość",
-      "Magiczność",
-      "Śpi",
-      "Ogłuszony",
-      "Nieznane",
+      "Ten przeciwnik zamierza użyć #yWzmocnienia i #yzadać #b",
+      "Taktyka",
+      "Ten przeciwnik zamierza rzucić na ciebie #ynegatywny #yefekt NL i #yzadać #b",
+      "Ten przeciwnik zamierza NL się #ybronić i #yzadać #b",
+      "Obrona",
+      "Ucieczka",
+      "Zaklinanie",
+      "Sen",
+      "Ogłuszenie",
+      "Nieznany",
       "Ten przeciwnik zamierza użyć #yWzmocnienia.",
-      "Ten przeciwnik zamierza nałożyć na ciebie #yNegatywny #yEfekt.",
-      "Ten przeciwnik zamierza nałożyć na ciebie Potężny #yNegatywny #yEfekt.",
-      "Ten przeciwnik zamierza zyskać #yBlok w swojej turze.",
-      "Ten przeciwnik zamierza zyskać #yBlok i nałożyć na ciebie #yNegatywny #yEfekt.",
-      "Ten przeciwnik zamierza zyskać #yBlok i użyć #yWzmocnienia.",
-      "Ten przeciwnik zamierza #yUciec.",
-      "Ten przeciwnik zamierza użyć tajemniczej #yMagii w swojej turze.",
-      "ten przeciwnik śpi.",
-      "Ten przeciwnik jest #yOgłuszony.",
-      "Zamiar tego przeciwnika jest #yNieznany (nie atakuje).",
-      "Zablokowane"
+      "Ten przeciwnik zamierza rzucić na ciebie #ynegatywny #yefekt.",
+      "Ten przeciwnik zamierza rzucić na ciebie potężny #ynegatywny #yefekt.",
+      "Ten przeciwnik zamierza #ysię #ybronić.",
+      "Ten przeciwnik zamierza NL się #ybronić i rzucić na ciebie #ynegatywny #yefekt.",
+      "Ten przeciwnik zamierza NL się #ybronić i użyć #yWzmocnienia.",
+      "Ten przeciwnik zamierza #yuciec.",
+      "Ten przeciwnik zamierza użyć na tobie tajemniczego #Zaklęcia.",
+      "Ten przeciwnik smacznie sobie śpi.",
+      "Ten przeciwnik został #yOgłuszony.",
+      "Zamiary tego przeciwnika NL #ynie #ysą #yznane (nie będzie to atak).",
+      "Zablokowano"
     ]
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Kontynuuj"
+      "Dalej"
     ]
   },
   "Exordium": {
     "TEXT": [
-      "Początek"
+      "Exordium"
     ]
   },
   "TheCity": {
     "TEXT": [
-      "Metropolia"
+      "Miasto"
     ]
   },
   "GameSavedEffect": {
     "TEXT": [
-      "#y~Gra~ #y~Zapisana~"
+      "#y~Gra~ #y~zapisana~"
     ]
   },
   "BattleStartEffect": {
     "TEXT": [
-      "Potyczka",
-      "Tura Gracza",
-      "Tura Przeciwnika",
-      " tura"
+      "Szykuj się do walki",
+      "Tura gracza",
+      "Tura wroga",
+      ". tura"
     ]
   },
   "RewardItem": {
     "TEXT": [
-      " Sztuk Złota (Odzyskane)",
-      " Sztuk Złota",
-      "Dodaj kartę do swojej talii",
+      " szt. złota (odzyskano)",
+      " szt. złota",
+      "Dodaj kartę do talii",
       "",
       "Wybierz kartę"
     ]
   },
   "CampfireUI": {
     "TEXT": [
-      "Co zrobić",
-      "Hmm...",
       "Co by tu zrobić?",
+      "Hmm...",
+      "Co mam zrobić?",
       "Czas na przerwę",
-      "Tyle opcji...",
-      "Chyba się prześpię",
-      "Padam z nóg..."
+      "Tyle różnych opcji...",
+      "Potrzebuję odpoczynku",
+      "Padam ze zmęczenia..."
     ]
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Wybierz kartę do Ulepszenia"
+      "Wybierz kartę do ulepszenia"
     ]
   },
   "CampfireSleepEffect": {
     "TEXT": [
-      "Śnię?"
+      "Czy ja śnię?"
     ]
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Wybierz kartę do Usunięcia."
+      "Wybierz kartę do usunięcia."
     ]
   },
   "UnlockTextEffect": {
     "TEXT": [
-      "Odblokowane!"
+      "Nowa zawartość!"
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Tryb Wyniesienia Poziom ",
-      " Odblokowany!"
+      "Tryb Wyniesienia – poziom ",
+      " – odblokowany!"
     ]
   },
   "AbstractPotion": {
     "TEXT": [
-      "Nie mogę mieć NL więcej mikstur."
+      "Nie uniosę większej NL ilości mikstur."
     ]
   },
   "TipHelper": {
@@ -889,22 +894,22 @@
   },
   "ExhaustAction": {
     "TEXT": [
-      "Wygnaj"
+      "wykluczenia"
     ]
   },
   "ExhumeAction": {
     "TEXT": [
-      "Wybierz Kartę, która Powróci do twojej Ręki"
+      "Wybierz kartę, która zostanie w ręce"
     ]
   },
   "PowerExpireTextEffect": {
     "TEXT": [
-      "Przestaje działać"
+      "efekt zanika"
     ]
   },
   "RestartForChangesEffect": {
     "TEXT": [
-      "Uruchom grę ponownie, aby zmiany przyniosły efekt."
+      "Zrestartuj grę, aby wprowadzić zmiany."
     ]
   },
   "OpeningAction": {
@@ -914,20 +919,20 @@
   },
   "ApplyPowerAction": {
     "TEXT": [
-      "Zniwelowano",
-      "Odporny",
-      "Unieważniony",
-      "\n w Dół"
+      "Kontra",
+      "Niewrażliwość",
+      "Skontrowano",
+      "\n w dół"
     ]
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "położyć na szczycie Puli Kart do Dobrania"
+      "wrzuć na górę stosu"
     ]
   },
   "ImmolateAction": {
     "TEXT": [
-      "Wygnaj"
+      "wykluczenia"
     ]
   },
   "TheBeyond": {
@@ -937,42 +942,42 @@
   },
   "MenuPanels": {
     "TEXT": [
-      "Standard",
+      "Wyprawa",
       "",
-      "Embark on a quest to Slay the Spire.",
-      "Daily Climb",
+      "Wyrusz na misję zdobycia Iglicy.",
+      "Wyzwanie Dnia",
       "",
-      "A new challenge is availble once a day.\n\nCompete with other players for the highest score!",
-      "Ascension",
+      "Codziennie nowe wyzwanie.\n\nRywalizuj z innymi graczami o najwyższy wynik!",
+      "Wyniesienie",
       "",
-      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
-      "Card Library",
+      "Iglica rośnie w siłę z każdą wygraną.\n\nPoddaj próbie swoje najlepsze taktyki.",
+      "Kartoteka",
       "",
-      "View all of the cards you have encountered throughout the Spire.",
-      "Relic Collection",
+      "Wyświetl wszystkie karty napotkane w Iglicy.",
+      "Artefakty",
       "",
-      "Examine the various trinkets and artifacts obtained throughout your runs.",
-      "Bestiary",
-      "",
-      "This feature is not yet available.",
-      "Character Stats",
-      "",
-      "The progress and statistics for each character can be seen here.",
-      "Leaderboards",
-      "",
-      "View and compare your score with friends and other players.",
-      "Run History",
-      "",
-      "Revisit your past attempts at slaying the Spire.",
-      "Game Settings",
-      "",
-      "Change your resolution and toggle various options on/off.",
-      "Input Settings",
+      "Wyświetl wszystkie artefakty napotkane \nw Iglicy.",
+      "Bestiariusz",
       "",
       "This feature is not yet available.",
-      "Credits",
+      "Statystyki",
       "",
-      "See all of the people who contributed on Slay the Spire!",
+      "Możesz tu zobaczyć postęp i statystyki wszystkich postaci.",
+      "Tablice wyników",
+      "",
+      "Wyświetl i porównaj swoje wyniki ze znajomymi \ni innymi graczami.",
+      "Historia rozgrywek",
+      "",
+      "Wyświetl poprzednie próby pokonania Iglicy.",
+      "Ustawienia gry",
+      "",
+      "Zmień rozdzielczość ekranu oraz inne opcje.",
+      "Sterowanie",
+      "",
+      "This feature is not yet available.",
+      "Autorzy",
+      "",
+      "Wyświetl listę osób, które przyczyniły się do powstania Slay the Spire!",
       "Unknown",
       "",
       "This feature is not yet available."

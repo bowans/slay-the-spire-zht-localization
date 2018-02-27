@@ -18,7 +18,7 @@
       "[Smi] #gOppgrader #get #gkort. #r25%: #rBli #rforbannet #r- #rSkade.",
       "[Let] #gFå #gen #grelikvie. #r75%: #rBli #rforbannet #r- #rNormalitet.",
       "[Stikk]",
-      "Velg et kort du vil oppgradere",
+      "Velg et kort du vil Oppgradere",
       "[Låst] Du trenger: Oppgraderbare kort"
     ]
   },
@@ -28,7 +28,7 @@
       "Du snubler over en gruppe av noe som ser ut som #plilla #pånder #pav #pild som ~danser~ rundt et stort bål. NL ",
       "Åndene kaster små ben og fragmenter på bålet, som ~bryter~ ~ut~ ~i~ ~et~ ~brilliant~ ~lys~ hver gang. NL I det du nærmer deg, snur alle åndene seg mot deg og ser forventende på deg...",
       "Du kaster et offer inn i bålet. NL NL ",
-      "Åndene er imidlertid ikke fornøyde med at du ga dem en #pforbannelse... Kortet freser i en tykk, svart røyk. Du får en ... #p~noe~ tilbake.",
+      "Åndene er imidlertid ikke fornøyde med at du ga dem en #pForbannelse... Kortet freser i en tykk, svart røyk. Du får en ... #p~noe~ tilbake.",
       "Ingenting hender... NL Åndene ser ut til å overse deg nå. Skuffende...",
       "Flammene blir litt skarpere. NL Åndene fortsetter dansen sin. Du føler deg litt varmere av deres nærhet... NL Du #ghelbreder #b5 HP.",
       "Flammene bryter ut, og gror tydelig kraftigere! NL Åndene danser rundt deg og fyller deg med en  ~varm~ ~følelse.~ NL Du #ghelbredes til full HP.",
@@ -76,7 +76,7 @@
       "Du er usikker på hvor vannet kommer fra, og drar din vei igjen, uttørket."
     ],
     "OPTIONS": [
-      "[Drikk] #gFjern #galle #gforbannelseskort #gfra #gkortstokken #gdin.",
+      "[Drikk] #gFjern #galle #gForbannelseskort #gfra #gkortstokken #gdin.",
       "[Stikk]"
     ]
   },
@@ -127,7 +127,7 @@
     "OPTIONS": [
       "[Be] #gTransformer #get #gkort.",
       "[Stikk]",
-      "Velg et kort du vil transformere."
+      "Velg et kort du vil Transformere."
     ]
   },
   "Upgrade Shrine": {
@@ -140,7 +140,7 @@
     "OPTIONS": [
       "[Be] #gOppgrader #get #gkort.",
       "[Stikk]",
-      "Velg et kort du vil oppgradere.",
+      "Velg et kort du vil Oppgradere.",
       "[Låst] Du trenger: Oppgraderbare kort"
     ]
   },
@@ -151,10 +151,10 @@
       "\"Du vinner litt #yGULL! NL JIPPI!!!!\"",
       "\"Oj, en #ggave! NL Kos deg!\"",
       "\"Wow! Helt gratis #ghelbredelse bare til deg!\"",
-      "\"Ser ut som om du vant en #pforbannelse! NL Det er ikke bra. NL Jaja! Bedre lykke neste gang!\"",
+      "\"Ser ut som om du vant en #pForbannelse! NL Det er ikke bra. NL Jaja! Bedre lykke neste gang!\"",
       "\"Ah, #r~mørkets~ kraft... NL Velg et kort du vil fjerne fra kortstokken din!\"",
-      "\"Uff da! NL Du taper!\" NL Du ser at han gjør klar en kniv...",
-      "Du fekter etter den gale gremlingen, men han er alt for rask for deg! NL Han stikker deg et par ganger med den sløve kniven sin. NL \"Den som vil leke leken, må smake steken!!\" NL og med det forsvinner både gremlingen og lykkehjulet i en sky av røyk."
+      "\"Uff da! NL Du taper!\" NL Du ser at han gjør klar en Kniv...",
+      "Du fekter etter den gale gremlingen, men han er alt for rask for deg! NL Han stikker deg et par ganger med den sløve Kniven sin. NL \"Den som vil leke leken, må smake steken!!\" NL og med det forsvinner både gremlingen og lykkehjulet i en sky av røyk."
     ],
     "OPTIONS": [
       "[Spill]",
@@ -228,7 +228,7 @@
     "OPTIONS": [
       "[Nedsølt] #rMist #ret #rtilfeldig #rsjeldent #rkort.",
       "[Land på trynet] #rTa #r",
-      " #rskade. #rFå #ren #rforbannelse #r- #rSkade.",
+      " #rSkade. #rFå #ren #rForbannelse #r- #rSkadekort.",
       "[Stikk]"
     ]
   },
@@ -258,7 +258,7 @@
     "OPTIONS": [
       "...",
       "[Omfavn galskapen] #gMotta #g2 #gGalskap. #rMist #r10 #rHP.",
-      "[Fokuser] #rMotta #ren #rforbannelse #r- #rVri #rseg. #gHelbred #g",
+      "[Fokuser] #rMotta #ren #rForbannelse #r- #rVri #rseg. #gHelbred #g",
       "[Stikk]",
       " #gHP.",
       " #gHP."
@@ -279,7 +279,7 @@
       " #gHP.",
       "[Smultring] #gMax #gHP #g+",
       ".",
-      "[Eske] #gMotta #gen #grelikvie. #rMotta #rogså #ren #rforbannelse #r- #rAnger.",
+      "[Eske] #gMotta #gen #grelikvie. #rMotta #rogså #ren #rForbannelse #r- #rAnger.",
       "[Stikk]"
     ]
   },
@@ -299,7 +299,7 @@
       "[Låst] Krever: 50 gull.",
       "[Stikk]",
       "Velg et kort du vil fjerne.",
-      "Select a Card to Remove.",
+      "Velg et kort du vil fjerne.",
       "."
     ]
   },
@@ -316,7 +316,7 @@
       "Du fant litt #ygull! NL Ønsker du å fortsette å lete?",
       "Hmm, kunne ikke finne noe... NL Ønsker du å fortsette å lete?",
       "Du fant en #yrelikvie! Ønsker du å fortsette å lete?",
-      "Det ser ut som om du letet igjennom alle eiendelene hans uten å møte motstand!"
+      "Det ser ut som om du har letet igjennom alle eiendelene hans uten å møte motstand!"
     ],
     "OPTIONS": [
       "[Lete] #gFinn #gskatter. #r",
@@ -393,7 +393,7 @@
     ],
     "OPTIONS": [
       "[Enig] #gMotta #g",
-      " #ggull. #rFå #ren #rforbannelse #r- #rTvil.",
+      " #ggull. #rFå #ren #rForbannelse #r- #rTvil.",
       "[Uenig]",
       "[Fortsett]",
       "[Stikk]"
@@ -410,8 +410,8 @@
       "[Forandre] #gTransformer #get #gkort #gi #gkortstokken #gdin.",
       "[Voks] #gOppgrader #get #gkort #gi #gkortstokken #gdin.",
       "Velg et kort du vil fjerne.",
-      "Velg et kort du vil transformere.",
-      "Velg et kort du vil oppgradere.",
+      "Velg et kort du vil Transformere.",
+      "Velg et kort du vil Oppgradere.",
       "[Stikk]",
       "[Låst] Krever: Oppgraderbare kort"
     ]
@@ -447,7 +447,7 @@
   "Scrap Ooze": {
     "NAME": "Skrapeslim",
     "DESCRIPTIONS": [
-      "I det du entrer rommet hører du ~gurgling~ og et @klang@ av metall. Foran deg er et slimaktig vesen som spiste for mye skrap til sitt eget beste. I midten av skapningen ser du et merkelig lys, som fra noe magisk. Det ser ut som om du kan hente ut en #yskatt bare ved å strekke ut hånda og hente det ut av vesenet. Det kan imidlertid virke som om syren og de skarpe objektene skapningen har spist kan påføre deg #rskade.",
+      "I det du entrer rommet hører du ~gurgling~ og et @klang@ av metall. Foran deg er et slimaktig vesen som spiste for mye skrap til sitt eget beste. I midten av skapningen ser du et merkelig lys, som fra noe magisk. Det ser ut som om du kan hente ut en #yskatt bare ved å strekke ut hånda og hente det ut av vesenet. Det kan imidlertid virke som om syren og de skarpe objektene skapningen har spist kan påføre deg #rSkade.",
       "#r@AU!@ NL Du finner bare rustnet metall og en stor mengde #r@brennende #r@smerte. NL Du er imidlertid fortsatt overbevist om at det finnes en #yrelikvie der inne...",
       "#gSuksess! NL Etter å ha rotet rundt inne i skapningen blandt metall og brennende syre, finner du til slutt en #yrelikvie og drar den ut. NL Du får endelig hånden ut av slimet, men den er likevel #rskadet.",
       "Du bestemmer deg for å forlate området. Den slimete skapningen bryr seg ikke om deg. Den er for opptatt med å spise mer."
@@ -501,7 +501,7 @@
     ],
     "OPTIONS": [
       "[Eleganse] #gFjern #get #gkort #gfra #gkortstokken #gdin.",
-      "[Enkelhet] #gOppgrader #galle #gslag #gog #gforsvarskort.",
+      "[Enkelhet] #gOppgrader #galle #gSlag #gog #gForsvarskort.",
       "Velg et kort du vil fjerne.",
       "[Stikk]"
     ]
@@ -569,7 +569,7 @@
       "Foran deg står det et alter til en glemt gud. NL Oppe på alteret er en utsmykket statue med utstrekte armer. NL Hun roper på deg, krever et offer.",
       "I det du forsiktig setter gullidolet på alteret kommer det en #bkald vind som brer seg rundt i rommet. NL Armene til statuen blir misfarget og begynner å gå i oppløsning. NL NL #yGullidolet ditt begynner også å bli misfarget, og det begynner å blø fra øynene. NL Blodet stopper aldri å flyte.",
       "Du står på alteret og skjærer deg i armen. NL I det #rblodet ditt treffer alteret, begynner armene til statuen å strekke seg mot deg, og de slås om øynene dine. NL Alt blir mørkt. NL Du våkner opp kort tid senere, og kjenner nytt potensiale bre seg i kroppen din.",
-      "Du langer ut og knuser statuen foran deg, og kjenner at det magiske fengselet du har følt deg fanget i slipper taket. NL Et mørkt jammer gjaller i veggene, og du kan føle den #p~magiske~ #p~forbannelsen~ krype inn til beinene dine."
+      "Du langer ut og knuser statuen foran deg, og kjenner at det magiske fengselet du har følt deg fanget i slipper taket. NL Et mørkt jammer gjaller i veggene, og du kan føle den #p~magiske~ #p~Forbannelsen~ krype inn til beinene dine."
     ],
     "OPTIONS": [
       "[Ofre: Gullidolet] #gMotta #gen #gspesiell #grelikvie. #rMist #rgullidolet.",
@@ -626,14 +626,14 @@
     "DESCRIPTIONS": [
       "@bo-bomp@ ... @bo-bomp@ ... @bo-bomp@ ... NL En dyp, pulserende frykt kan føles i hele rommet... NL Er dette #r~spirets~ #r~hjerte~? Kilden til all denne ondskapen?",
       "Du påfører det #b",
-      " skade! NL Hjertet #r@vrir@ #r@seg@ og #r~blør~ ...men banker unektelig fortsatt. NL Er dine mektigste angrep fortsatt ikke nok?",
+      " Skade! NL Hjertet #r@vrir@ #r@seg@ og #r~blør~ ...men banker unektelig fortsatt. NL Er dine mektigste angrep fortsatt ikke nok?",
       "Du spør deg seg, ~\"Har~ ~jeg~ ~vært~ ~her~ ~før?\"~ NL Du føler at du har påført hjertet totalt #b",
-      " skade.",
+      " Skade.",
       " NL Totalt har #b",
-      " skade blitt påført hjertet av alle som har utfordret det..",
+      " Skade blitt påført hjertet av alle som har utfordret det..",
       " NL Hjertet pulserer høyere og høyere inntil #y~bevisstheten~ #y~din~ #y~falmer...~",
       "NL Du gjør klart sverdet ditt...",
-      "NL Du gjør klar knivene dine...",
+      "NL Du gjør klar Knivene dine...",
       "NL Du lader din indre kjerne opp til sitt maksimum..."
     ],
     "OPTIONS": [
@@ -707,11 +707,11 @@
       "Den bleke personen gisper i det du tar frem #yBlodflasken NL ~\"Mesterens~ ~blod...~ ~mesterens~ ~blod!~ @MESTERENS@ @BLOD!\"@ NL De roper i kor i det den høyeste av dem bukker foran deg. \" Drikk fra hans blod, og bli en med #y~Ham.\"~ NL De roper høyere, og du konsumerer innholdet i flasken. Synet ditt blir tåkete, og til slutt blir alt mørkt. NL NL Du våkner en stund , helt alene. En intens ~sult~ kan føles i magen din. Du #rmå #rha #rmat..."
     ],
     "OPTIONS": [
-      "[Aksepter] #gFjern #galle #gslag. #gMotta #g5 #gbit. #rMist #r",
+      "[Aksepter] #gFjern #galle #gSlag. #gMotta #g5 #gBit. #rMist #r",
       "% #rMax #rHP.",
       "[Nekt]",
       "[Mist ",
-      "] #gFjern #galle #gslag. #gMotta #g5 #gbit.",
+      "] #gFjern #galle #gSlag. #gMotta #g5 #gbit.",
       "[Stikk]"
     ]
   },

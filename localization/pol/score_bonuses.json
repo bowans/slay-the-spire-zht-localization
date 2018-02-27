@@ -2,173 +2,173 @@
   "Ascension": {
     "NAME": "Wyniesienie",
     "DESCRIPTIONS": [
-      "+5% do wyniku na każdy Poziom Wyniesienia."
+      "+5% do wyniku za każdy poziom Wyniesienia."
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Pokonani Elitarni Rubieży",
+    "NAME": "Pokonani elitarni – Pogranicza",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Pokonani Bossowie",
+    "NAME": "Pokonani bossowie",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "Pokonani Elitarni Metropolii",
+    "NAME": "Pokonani elitarni – Miasto",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "Pokonani Elitarni Początku",
+    "NAME": "Pokonani elitarni – Exordium",
     "DESCRIPTIONS": []
   },
   "Champion": {
-    "NAME": "Mistrz",
+    "NAME": "Czempion",
     "DESCRIPTIONS": [
-      "Pokonaj Elitarnego nie ponosząc obrażeń."
+      "Pokonano jednostkę elitarną bez odnoszenia obrażeń."
     ]
   },
   "Perfect": {
-    "NAME": "Perfekcyjnie",
+    "NAME": "Nie próbuj, tylko mnie traf",
     "DESCRIPTIONS": [
-      "Pokonaj Bossa nie ponosząc obrażeń."
+      "Pokonaj bossa bez odnoszenia żadnych obrażeń."
     ]
   },
   "Beyond Perfect": {
-    "NAME": "Bóg",
+    "NAME": "Flash, mówisz i masz",
     "DESCRIPTIONS": [
-      "Pokonaj 3 Bossów nie ponosząc obrażeń."
+      "Pokonaj 3 bossów bez odnoszenia żadnych obrażeń."
     ]
   },
   "Overkill": {
-    "NAME": "Przesada",
+    "NAME": "Overkill",
     "DESCRIPTIONS": [
-      "Zadaj 99 obrażeń jednym atakiem."
+      "Zadaj 99 pkt. obrażeń jednym ruchem."
     ]
   },
   "Combo": {
-    "NAME": "K-k-k-kombo",
+    "NAME": "C-c-c-combo",
     "DESCRIPTIONS": [
       "Zagraj 20 kart w jednej turze."
     ]
   },
   "Poopy": {
-    "NAME": "Fetor",
+    "NAME": "Łajnot",
     "DESCRIPTIONS": [
-      "Otrzymaj Duchową Kupę."
+      "Otrzymaj artefakt „Dusze odchody”."
     ]
   },
   "Cheater": {
     "NAME": "Oszust",
     "DESCRIPTIONS": [
-      "Złapany na oszukiwaniu. Jeżeli zostaniesz złapany dwa razy, to twój wynik już nigdy nie zostanie umieszczony na Tablicy Wyników."
+      "Przyłapano cię na oszukiwaniu. Ponowne wykroczenie wykluczy twoje wyniki z Tablicy dożywotnio."
     ]
   },
   "Speedster": {
-    "NAME": "Śmigacz",
+    "NAME": "Maniak prędkości",
     "DESCRIPTIONS": [
-      "Wygraj w mniej niż 60 minut."
+      "Pokonaj Iglicę w ciągu 60 minut."
     ]
   },
   "Light Speed": {
-    "NAME": "Prędkość światła",
+    "NAME": "Z prędkością światła",
     "DESCRIPTIONS": [
-      "Wygraj w mniej niż 45 minut."
+      "Pokonaj Iglicę w ciągu 45 minut."
     ]
   },
   "Money Money": {
-    "NAME": "Kasa Kasa",
+    "NAME": "Kasa wszędzie",
     "DESCRIPTIONS": [
-      "Uzbieraj 1,000 Sztuk Złota."
+      "Zgromadzono 1000 szt. złota."
     ]
   },
   "Raining Money": {
-    "NAME": "Złoty deszcz",
+    "NAME": "Deszcz pieniądza",
     "DESCRIPTIONS": [
-      "Uzbieraj 2,000 Sztuk Złota."
+      "Zgromadzono 2000 szt. złota."
     ]
   },
   "I Like Gold": {
-    "NAME": "Lubię złoto",
+    "NAME": "Moje ty złotko",
     "DESCRIPTIONS": [
-      "uzbieraj 3,000 Sztuk Złota."
+      "Zgromadzono 3000 szt. złota."
     ]
   },
   "Minimalist": {
-    "NAME": "Minimalista",
+    "NAME": "Minimalizm",
     "DESCRIPTIONS": [
-      "Usuń 5+ kart z talii."
+      "Usunięto z talii co najmniej 5 kart."
     ]
   },
   "Highlander": {
-    "NAME": "\"Może być tylko jeden\"",
+    "NAME": "Może być tylko jeden",
     "DESCRIPTIONS": [
-      "W twojej talii nie ma duplikatów (nie wliczając kart początkowych)."
+      "Talia nie zawiera duplikatów (pomijając karty startowe)."
     ]
   },
   "Shiny": {
-    "NAME": "Lubię jak się błyszczą",
+    "NAME": "Mój ssskarbie",
     "DESCRIPTIONS": [
-      "Posiadaj 25+ reliktów."
+      "Posiadaj co najmniej 25 artefaktów."
     ]
   },
   "Collector": {
-    "NAME": "Kolekcjoner",
+    "NAME": "Kolekcja",
     "DESCRIPTIONS": [
-      "Posiadaj 4 kopie jakiejkolwiek niepoczątkowej karty."
+      "Posiadaj 4 kopie jednej karty (poza startową)."
     ]
   },
   "Pauper": {
-    "NAME": "Nędzarz",
+    "NAME": "Nędznik",
     "DESCRIPTIONS": [
-      "Posiadaj 0 rzadkich kart."
+      "Nie posiadaj żadnej rzadkiej karty."
     ]
   },
   "Librarian": {
-    "NAME": "Bibliotekarz",
+    "NAME": "Biblioteka",
     "DESCRIPTIONS": [
-      "Posiadaj talię, która ma więcej niż 35 kart."
+      "Talia zawiera co najmniej 35 kart."
     ]
   },
   "Encyclopedian": {
-    "NAME": "Uczony",
+    "NAME": "Encyklopedia",
     "DESCRIPTIONS": [
-      "Posiadaj talię, która ma więcej niż 50 kart."
+      "Talia zawiera co najmniej 35 kart."
     ]
   },
   "Well Fed": {
-    "NAME": "Najedzony",
+    "NAME": "Pełny brzuch",
     "DESCRIPTIONS": [
-      "Powiększ swoje Maksymalne PŻ o 15+."
+      "Zwiększy maks. liczbę PŻ o 15."
     ]
   },
   "Stuffed": {
-    "NAME": "Obżarty",
+    "NAME": "Wypchany",
     "DESCRIPTIONS": [
-      "Powiększ swoje Maksymalne PŻ o 30+."
+      "Zwiększy maks. liczbę PŻ o 30."
     ]
   },
   "Curses": {
-    "NAME": "Przekleństwo!",
+    "NAME": "Opętani",
     "DESCRIPTIONS": [
-      "Posiadaj co najmniej 5 Klątw."
+      "Twoja talia zawiera 5 Klątw."
     ]
   },
   "Alchemist": {
-    "NAME": "Alchemik",
+    "NAME": "Zestaw małego alchemika",
     "DESCRIPTIONS": [
       "Kup 5 mikstur."
     ]
   },
   "Mystery Machine": {
-    "NAME": "Maszyna Tajemnic",
+    "NAME": "Wehikuł Tajemnic",
     "DESCRIPTIONS": [
-      "Udaj się do co najmniej 15 ? pokojów."
+      "Zwiedź co najmniej 15 „?” pokoi."
     ]
   },
   "On My Own Terms": {
-    "NAME": "Na Własnych Warunkach",
+    "NAME": "Na moich zasadach",
     "DESCRIPTIONS": [
-      "Zabiłeś się."
+      "Samobójstwo."
     ]
   }
 }

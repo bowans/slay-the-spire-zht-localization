@@ -2,14 +2,14 @@
   "Block Potion": {
     "NAME": "Forsvarsdrikk",
     "DESCRIPTIONS": [
-      "Øk #yskadeblokkeringen med #b",
+      "Øk #ySkadeblokkeringen med #b",
       "."
     ]
   },
   "Dexterity Potion": {
     "NAME": "Smidighetsdrikk",
     "DESCRIPTIONS": [
-      "Øk #ysmidigheten med #b",
+      "Øk #ySmidigheten med #b",
       "."
     ]
   },
@@ -18,7 +18,7 @@
     "DESCRIPTIONS": [
       "",
       "",
-      "#yVrak alle #ystatus- og #yforbannelse- kort fra hånda di.",
+      "#yVrak alle #yStatus- og #yForbannelseskort fra hånda di.",
       "",
       "Ingenting skjedde..."
     ]
@@ -27,21 +27,21 @@
     "NAME": "Energidrikk",
     "DESCRIPTIONS": [
       "Få #b",
-      " energi."
+      " Energi."
     ]
   },
   "Explosive Potion": {
     "NAME": "Eksplosiv trylledrikk",
     "DESCRIPTIONS": [
       "Påfør ALLE fiender #b",
-      " skade."
+      " Skade."
     ]
   },
   "Fire Potion": {
     "NAME": "Brennende trylledrikk",
     "DESCRIPTIONS": [
       "Påfør en fiende #b",
-      " skade."
+      " Skade."
     ]
   },
   "Health Potion": {
@@ -55,7 +55,7 @@
     "NAME": "Gift",
     "DESCRIPTIONS": [
       "Påfør en fiende #b",
-      " #yforgiftning."
+      " #yForgiftning."
     ]
   },
   "Potion Slot": {
@@ -76,7 +76,7 @@
   "Strength Potion": {
     "NAME": "Styrkedrikk",
     "DESCRIPTIONS": [
-      "Øk #ystyrken med #b",
+      "Øk #yStyrken med #b",
       "."
     ]
   },
@@ -96,10 +96,10 @@
     ]
   },
   "Ancient Potion": {
-    "NAME": "Ancient Potion",
+    "NAME": "Motsandsdrikk",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yArtifact."
+      "Få #b",
+      " #yMagimotstand."
     ]
   }
 }

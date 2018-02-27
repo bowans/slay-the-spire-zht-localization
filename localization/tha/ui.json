@@ -52,7 +52,12 @@
       "ทุกตัวละคร",
       "จำนวนชนะและแพ้",
       "ชนะ",
-      "แพ้"
+      "แพ้",
+      "Daily",
+      "Any Game Type",
+      "Only Normal",
+      "Only Ascension",
+      "Only Daily Challenge"
     ]
   },
   "LeaderboardsScreen": {
@@ -669,7 +674,7 @@
       "Abandon Run (click again to confirm)",
       "ตั้งค่า",
       "ประวัติการเล่น",
-      "Compendium"
+      "ของสะสม"
     ]
   },
   "CreditsScreen": {
@@ -946,36 +951,36 @@
       "Ascension",
       "",
       "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
-      "Card Library",
+      "คลังการ์ด",
       "",
-      "View all of the cards you have encountered throughout the Spire.",
-      "Relic Collection",
+      "ดูการ์ดทั้งหมดที่เคยพบมาแล้วใน Slay The Spire.",
+      "คลังสมบัติ",
       "",
-      "Examine the various trinkets and artifacts obtained throughout your runs.",
+      "ดู Relics ทั้งหมดที่เคยพบมาแล้วใน Slay The Spire.",
       "Bestiary",
       "",
-      "This feature is not yet available.",
-      "Character Stats",
+      "ระบบยังไม่เปิด.",
+      "สถิติตัวละคร",
       "",
-      "The progress and statistics for each character can be seen here.",
-      "Leaderboards",
+      "สถิติของแต่ละตัวละคร และ Achievement ต่างๆ ดูได้ที่นี่.",
+      "กระดานคะแนน",
       "",
-      "View and compare your score with friends and other players.",
-      "Run History",
+      "ดูคะแนนและเปรียบเทียบกับของเพื่อนและชาวโลก.",
+      "ประวัติการเล่น",
       "",
-      "Revisit your past attempts at slaying the Spire.",
-      "Game Settings",
+      "ดูประวัติการเล่นที่เคยเล่นมาทั้งหมดได้ในนี้.",
+      "ตั้งค่าเกม",
       "",
-      "Change your resolution and toggle various options on/off.",
+      "ปรับเปลี่ยนค่าเกมได้ในนี้",
       "Input Settings",
       "",
-      "This feature is not yet available.",
+      "ระบบยังไม่เปิด.",
       "Credits",
       "",
-      "See all of the people who contributed on Slay the Spire!",
+      "ดูรายชื่อผู้คนที่ร่วมงานและช่วยเหลือ Slay The Spire!",
       "Unknown",
       "",
-      "This feature is not yet available."
+      "ระบบนี้ยังไม่เปิด."
     ]
   }
 }

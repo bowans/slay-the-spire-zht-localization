@@ -455,7 +455,7 @@
   },
   "Disarm": {
     "NAME": "Entwaffnen",
-    "DESCRIPTION": "Dein Gegner verliert für den Rest dieses Zuges !M! Stärke. NL Erschöpft."
+    "DESCRIPTION": "Dein Gegner verliert für den Rest dieses Kampfes !M! Stärke. NL Erschöpft."
   },
   "Panache": {
     "NAME": "Elan",
@@ -748,7 +748,8 @@
   },
   "Jack Of All Trades": {
     "NAME": "Alleskönner",
-    "DESCRIPTION": "Du fügst deiner Hand !M! zufällige farblose Karte(n) hinzu. NL Erschöpft."
+    "DESCRIPTION": "Du fügst deiner Hand !M! zufällige farblose Karte(n) hinzu. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Add !M! random colorless cards to your hand. NL Exhaust."
   },
   "Demon Form": {
     "NAME": "Dämonenform",

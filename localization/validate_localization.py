@@ -4,6 +4,8 @@ import os
 from functools import partial, reduce
 from itertools import chain
 
+# a list of files to be ignored
+ignored_files = ["keywords.json"]
 
 if sys.version_info.major < (3):
     raise Exception("must use python 3")
@@ -82,6 +84,8 @@ if __name__ == "__main__":
     other_jsons = [get_json_files(x) for x in lang_packs]
     compare_against_eng = partial(compare_lang_pack, eng_json)
     errors = flatten(map(compare_against_eng, other_jsons))
+    # Filter out errors in file ignore list
+    errors = [x for x in errors if os.path.basename(x[0]) not in ignored_files]
     if len(errors) == 0:
         print("SUCCESS. No errors found.")
         sys.exit(0)

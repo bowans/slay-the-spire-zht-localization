@@ -1,0 +1,870 @@
+{
+  "Grand Finale": {
+    "NAME": "Grand Finale",
+    "DESCRIPTION": "Só pode ser jogada se não houver cartas na sua pilha de compra. NL Cause !D! de dano a TODOS os inimigos.",
+    "UPGRADE_DESCRIPTION": "Minha pilha de compra NL precisa estar #rVazia."
+  },
+  "Immolate": {
+    "NAME": "Imolar",
+    "DESCRIPTION": "Exaura 1 carta. Se a carta escolhida for uma Condição ou Maldição, cause !D! de dano a TODOS os inimigos."
+  },
+  "Regret": {
+    "NAME": "Arrependimento",
+    "DESCRIPTION": "Injogável. NL No fim do seu turno, perca 1 PV para cada carta em sua mão."
+  },
+  "Crippling Poison": {
+    "NAME": "Veneno Incapacitante",
+    "DESCRIPTION": "Aplique !M! de Veneno. NL Aplique !M! de Fraqueza."
+  },
+  "A Thousand Cuts": {
+    "NAME": "Mil Cortes",
+    "DESCRIPTION": "Sempre que você jogar uma carta, cause !M! de dano a TODOS os inimigos."
+  },
+  "Spot Weakness": {
+    "NAME": "Encontrar Ponto Fraco",
+    "DESCRIPTION": "Se um inimigo tem a intenção de atacar, ganhe !M! de Força."
+  },
+  "Wound": {
+    "NAME": "Ferida",
+    "DESCRIPTION": "Injogável."
+  },
+  "Writhe": {
+    "NAME": "Torção",
+    "DESCRIPTION": "Injogável. NL Inata."
+  },
+  "Dark Shackles": {
+    "NAME": "Grilhões Sombrios",
+    "DESCRIPTION": "O inimigo perde !M! de Força pelo reto deste turno. NL Exaurir."
+  },
+  "Glass Knife": {
+    "NAME": "Faca Vítrea",
+    "DESCRIPTION": "Cause !D! de dano duas vezes. O dano da Faca Vítrea é reduzido em 2 neste combate."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Manto E Adaga",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Adicione !M! Estoque à sua mão.",
+    "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. NL Adicione !M! Estoques à sua mão."
+  },
+  "Underhanded Strike": {
+    "NAME": "Golpe Baixo",
+    "DESCRIPTION": "Injogável. NL Se esta carta for descartada da sua mão, cause !D! de dano a um inimigo aleatório.",
+    "EXTENDED_DESCRIPTION": [
+      "Eu não posso jogar esta carta."
+    ]
+  },
+  "Anger": {
+    "NAME": "Ira",
+    "DESCRIPTION": "Cause !D! de dano. NL Coloque uma cópia desta carta na sua pilha de descarte."
+  },
+  "Storm of Steel": {
+    "NAME": "Tempestade de Aço",
+    "DESCRIPTION": "Descarte sua mão. NL Adicione 1 Estoque à sua mão para cada carta descartada.",
+    "UPGRADE_DESCRIPTION": "Descarte sua mão. NL Adicione 1 Estoque aprimorado à sua mão para cada carta descartada."
+  },
+  "Cleave": {
+    "NAME": "Fender",
+    "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos."
+  },
+  "Inflame": {
+    "NAME": "Inflamar",
+    "DESCRIPTION": "Ganhe !M! de Força."
+  },
+  "Wraith Form": {
+    "NAME": "Forma Espectral",
+    "DESCRIPTION": "Sempre que você jogar uma Técnica, cause !M! de dano a um inimigo aleatório."
+  },
+  "Sadistic Nature": {
+    "NAME": "Natureza Sádica",
+    "DESCRIPTION": "Sempre que você aplicar um Efeito Negativo a um inimigo, ele recebe !M! de dano."
+  },
+  "J.A.X.": {
+    "NAME": "B.O.M.B.A.",
+    "DESCRIPTION": "Perca 3 PV. NL Ganhe !M! de Força . NL Exaurir."
+  },
+  "Offering": {
+    "NAME": "Oferenda",
+    "DESCRIPTION": "Perca 4 PV. NL Ganhe [R] [R]. NL Compre !M! cartas. NL Exaurir."
+  },
+  "Exhume": {
+    "NAME": "Exumar",
+    "DESCRIPTION": "Escolha uma carta exaurida e a coloque em sua mão. NL Exaurir."
+  },
+  "Power Through": {
+    "NAME": "Resistir",
+    "DESCRIPTION": "Adicione 2 Feridas à sua mão. NL Ganhe !B! de Proteção."
+  },
+  "Dual Wield": {
+    "NAME": "Empunhadura Dupla",
+    "DESCRIPTION": "Crie uma cópia de uma carta de Ataque ou Poder na sua mão.",
+    "UPGRADE_DESCRIPTION": "Crie duas cópias de uma carta de Ataque ou Poder na sua mão."
+  },
+  "Deadly Poison": {
+    "NAME": "Veneno Mortal",
+    "DESCRIPTION": "Aplique !M! de Veneno."
+  },
+  "Leg Sweep": {
+    "NAME": "Rasteira",
+    "DESCRIPTION": "Aplique !M! de Fraqueza. NL Ganhe !B! de Proteção."
+  },
+  "Flex": {
+    "NAME": "Flexionar",
+    "DESCRIPTION": "Ganhe !M! de Força. NL No fim do seu turno, perca !M! de Força."
+  },
+  "Dagger Spray": {
+    "NAME": "Borrifar Adagas",
+    "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos duas vezes."
+  },
+  "Bullet Time": {
+    "NAME": "Câmera Lenta",
+    "DESCRIPTION": "Você não pode comprar mais cartas neste turno. Reduz o custo de cartas na sua mão para 0 neste turno."
+  },
+  "Catalyst": {
+    "NAME": "Catalizador",
+    "DESCRIPTION": "Dobre o Veneno de um inimigo. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Triplique o Veneno de um inimigo. NL Exaurir."
+  },
+  "Reaper": {
+    "NAME": "Ceifeiro",
+    "DESCRIPTION": "Cause !D! de dano a TODOS inimigos. Cure-se o tanto de dano não protegido. NL Exaurir."
+  },
+  "Shiv": {
+    "NAME": "Estoque",
+    "DESCRIPTION": "Cause !D! de dano. NL Exaurir."
+  },
+  "Tactician": {
+    "NAME": "Estrategista",
+    "DESCRIPTION": "Injogável. NL Se esta carta for descartada de sua mão, ganhe [G].",
+    "UPGRADE_DESCRIPTION": "Injogável. NL Se esta carta for descartada de sua mão, ganhe [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Eu não posso jogar esta carta."
+    ]
+  },
+  "Bane": {
+    "NAME": "Ruína",
+    "DESCRIPTION": "Cause !D! de dano. NL Se o inimigo estiver Envenenado, cause !D! de dano novamente."
+  },
+  "Infernal Blade": {
+    "NAME": "Lâmina Infernal",
+    "DESCRIPTION": "Adicione um Ataque aleatório à sua mão. NL Ele custará 0 neste turno. NL Exaurir."
+  },
+  "After Image": {
+    "NAME": "Rastro",
+    "DESCRIPTION": "Sempre que você jogar uma carta, ganhe 1 de Proteção.",
+    "UPGRADE_DESCRIPTION": "Inata. NL Sempre que você jogar uma carta, ganhe 1 de Proteção."
+  },
+  "Unload": {
+    "NAME": "Descarregar",
+    "DESCRIPTION": "Cause !D! de dano. NL Descarte TODAS as cartas que não sejam Ataques."
+  },
+  "Blade Dance": {
+    "NAME": "Dança das Lâminas",
+    "DESCRIPTION": "Adicione !M! Estoques à sua mão."
+  },
+  "Deflect": {
+    "NAME": "Defletir",
+    "DESCRIPTION": "Ganhe !B! de Proteção."
+  },
+  "Trip": {
+    "NAME": "Tropeço",
+    "DESCRIPTION": "Aplique !M! de Vulnerabilidade.",
+    "UPGRADE_DESCRIPTION": "Aplique !M! de Vulnerabilidade em TODOS os inimigos."
+  },
+  "Dagger Throw": {
+    "NAME": "Arremessar Adaga",
+    "DESCRIPTION": "Cause !D! de dano. NL Compre 1 carta. NL Descarte 1 carta."
+  },
+  "Brutality": {
+    "NAME": "Brutalidade",
+    "DESCRIPTION": "No início do seu turno, perca 1 PV e compre uma carta.",
+    "UPGRADE_DESCRIPTION": "Inata. NL No início do seu turno, perca 1 PV e compre uma carta."
+  },
+  "Iron Wave": {
+    "NAME": "Onda de Ferro",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Cause !D! de dano."
+  },
+  "Reckless Charge": {
+    "NAME": "Investida Imprudente",
+    "DESCRIPTION": "Ganhe 1 de Vulnerabilidade. NL Cause !D! de dano."
+  },
+  "Decay": {
+    "NAME": "Apodrecer",
+    "DESCRIPTION": "Injogável. NL Receba 2 de dano no fim do seu turno."
+  },
+  "Tools of the Trade": {
+    "NAME": "Ferramentas do Ofício",
+    "DESCRIPTION": "No início do seu turno, compre 1 carta e descarte 1 carta."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Entrada Dramática",
+    "DESCRIPTION": "Inata. NL Cause !D! de dano a TODOS os Inimigos. NL Exaurir."
+  },
+  "Hemokinesis": {
+    "NAME": "Hemocinese",
+    "DESCRIPTION": "Perca !M! PV. NL Cause !D! de dano."
+  },
+  "Intimidate": {
+    "NAME": "Intimidar",
+    "DESCRIPTION": "Aplique !M! de Fraqueza a TODOS os inimigos. NL Exaurir."
+  },
+  "Necronomicurse": {
+    "NAME": "Necronomaldição",
+    "DESCRIPTION": "Injogável. NL Não há como fugir desta Maldição."
+  },
+  "Choke": {
+    "NAME": "Estrangular",
+    "DESCRIPTION": "Cause !D! de dano. NL Sempre que você jogar uma carta neste turno, o inimigo alvo perde !M! PV."
+  },
+  "Juggernaut": {
+    "NAME": "Juggernaut",
+    "DESCRIPTION": "Ao ganhar Proteção, cause !M! de dano a um inimigo aleatório."
+  },
+  "Caltrops": {
+    "NAME": "Estrepes",
+    "DESCRIPTION": "Sempre que você for atacado, cause !M! de dano ao atacante."
+  },
+  "Poisoned Stab": {
+    "NAME": "Estocada Envenenada",
+    "DESCRIPTION": "Cause !D! de dano. NL Aplique !M! de Veneno."
+  },
+  "Blur": {
+    "NAME": "Borrão",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL A Proteção não será removida no início do seu próximo turno."
+  },
+  "Body Slam": {
+    "NAME": "Encontrão",
+    "DESCRIPTION": "Cause dano igual à sua Proteção atual.",
+    "UPGRADE_DESCRIPTION": " NL (Cause !D! de dano.)"
+  },
+  "True Grit": {
+    "NAME": "Bravura Indômita",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Exaura uma carta aleatória da sua mão.",
+    "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. NL Exaura uma carta da sua mão."
+  },
+  "Setup": {
+    "NAME": "Preparar",
+    "DESCRIPTION": "Coloque uma carta da sua mão no topo da sua pilha de compra. NL Ela custará 0 até ser jogada."
+  },
+  "Blood for Blood": {
+    "NAME": "Sangue por Sangue",
+    "DESCRIPTION": "Custa 1 [R] a menos NL para cada vez que você perder PV neste combate. NL Cause !D! de dano."
+  },
+  "Impervious": {
+    "NAME": "Impenetrável",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Exaurir."
+  },
+  "Shrug It Off": {
+    "NAME": "Nem Ligar",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Compre 1 carta."
+  },
+  "Clash": {
+    "NAME": "Colidir",
+    "DESCRIPTION": "Só pode ser jogada se todas as outras cartas da sua mão forem um Ataque. NL Cause !D! de dano.",
+    "EXTENDED_DESCRIPTION": [
+      "Eu tenho cartas que não são Ataque em minha mão."
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Trovoada",
+    "DESCRIPTION": "Cause !D! de dano e aplique 1 de Vulnerabilidade a TODOS os inimigos."
+  },
+  "Flame Barrier": {
+    "NAME": "Barreira de Chamas",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Neste turno, cada vez que você for atacado cause !M! de dano ao atacante. "
+  },
+  "Endless Agony": {
+    "NAME": "Agonia Sem Fim",
+    "DESCRIPTION": "Ao comprar esta carta, adicione uma cópia dela à sua mão. NL Cause !D! de dano. NL Exaurir."
+  },
+  "Berserk": {
+    "NAME": "Enfurecer",
+    "DESCRIPTION": "Se seu PV for igual ou inferior a 50%, ganhe [R] no início de cada turno."
+  },
+  "Pummel": {
+    "NAME": "Esmurrar",
+    "DESCRIPTION": "Cause !D! de dano !M! vezes. NL Exaurir."
+  },
+  "Riddle With Holes": {
+    "NAME": "Encher de Buracos",
+    "DESCRIPTION": "Cause !D! de dano 5 vezes."
+  },
+  "Burning Pact": {
+    "NAME": "Pacto Ardente",
+    "DESCRIPTION": "Exaura 1 carta. NL Compre !M! cartas."
+  },
+  "Metallicize": {
+    "NAME": "Metalizar",
+    "DESCRIPTION": "No fim do seu turno, ganhe !M! de Proteção."
+  },
+  "Pommel Strike": {
+    "NAME": "Golpe de Empunhadura",
+    "DESCRIPTION": "Cause !D! de dano. NL Compre !M! carta.",
+    "UPGRADE_DESCRIPTION": "Cause !D! de dano. NL Compre !M! cartas."
+  },
+  "Pain": {
+    "NAME": "Dor",
+    "DESCRIPTION": "Injogável. NL Enquanto estiver em sua mão, NL perca 1 PV quando jogar alguma outra carta."
+  },
+  "Burst": {
+    "NAME": "Explosão",
+    "DESCRIPTION": "Neste turno, sua próxima Técnica será jogada duas vezes.",
+    "UPGRADE_DESCRIPTION": "Neste turno, suas próximas !M! Técnicas serão jogadas duas vezes."
+  },
+  "Acrobatics": {
+    "NAME": "Acrobacias",
+    "DESCRIPTION": "Compre !M! cartas. NL Descarte 1 carta."
+  },
+  "Blind": {
+    "NAME": "Cegar",
+    "DESCRIPTION": "Aplique !M! de Fraqueza.",
+    "UPGRADE_DESCRIPTION": "Aplique !M! de Fraqueza a TODOS os inimigos."
+  },
+  "Doppelganger": {
+    "NAME": "Doppelganger",
+    "DESCRIPTION": "No próximo turno, compre X cartas e ganhe X [G]. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Durante o próximo turno, compre X+1 cartas e ganhe X+1 [G]. NL Exaurir."
+  },
+  "Skewer": {
+    "NAME": "Espetar",
+    "DESCRIPTION": "Cause !D! de dano X vezes."
+  },
+  "Envenom": {
+    "NAME": "Envenenar",
+    "DESCRIPTION": "Sempre que um Ataque causar dano não protegido, aplique 1 de Veneno."
+  },
+  "Adrenaline": {
+    "NAME": "Adrenalina",
+    "DESCRIPTION": "Ganhe [G]. NL Compre 2 cartas. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Ganhe [G] [G]. NL Compre 2 cartas. NL Exaurir."
+  },
+  "Quick Slash": {
+    "NAME": "Corte Rápido",
+    "DESCRIPTION": "Cause !D! de dano. NL Compre 1 carta."
+  },
+  "Twin Strike": {
+    "NAME": "Golpe Duplo",
+    "DESCRIPTION": "Cause !D! de dano duas vezes."
+  },
+  "Parasite": {
+    "NAME": "Parasita",
+    "DESCRIPTION": "Injogável. NL Se transformado ou removido do seu baralho, perca 3 PV Máximo"
+  },
+  "Bash": {
+    "NAME": "Esmagar",
+    "DESCRIPTION": "Cause !D! de dano. NL Aplique !M! de Vulnerabilidade."
+  },
+  "Clothesline": {
+    "NAME": "Clothesline",
+    "DESCRIPTION": "Cause !D! de dano. NL Aplique !M! de Fraqueza."
+  },
+  "Shockwave": {
+    "NAME": "Onda de Choque",
+    "DESCRIPTION": "Aplique !M! de Fraqueza e Vulnerabilidade a TODOS os inimigos. NL Exaurir."
+  },
+  "Rampage": {
+    "NAME": "Fúria",
+    "DESCRIPTION": "Cause !D! de dano. NL Toda vez que esta carta é jogada, aumente seu dano em !M! neste combate."
+  },
+  "Bandage Up": {
+    "NAME": "Enfaixar",
+    "DESCRIPTION": "Cure !M! PV. NL Exaurir."
+  },
+  "The Bomb": {
+    "NAME": "A Bomba",
+    "DESCRIPTION": "Cause !D! de dano a todos (inclusive a você). NL Exaurir."
+  },
+  "Sever Soul": {
+    "NAME": "Romper a Alma",
+    "DESCRIPTION": "Exaura todas as cartas da sua mão, exceto as de Ataque. NL Cause !D! de dano."
+  },
+  "Whirlwind": {
+    "NAME": "Redemoínho",
+    "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos X vezes."
+  },
+  "Warcry": {
+    "NAME": "Grito de Guerra",
+    "DESCRIPTION": "Compre !M! carta. NL Coloque uma carta da sua mão no topo da pilha de compra. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Compre !M! cartas. NL Coloque uma carta da sua mão no topo da pilha de compra. NL Exaurir."
+  },
+  "PiercingWail": {
+    "NAME": "Lamúrio Penetrante",
+    "DESCRIPTION": "Todos os inimigos perdem !M! de Força por 1 turno. NL Exaurir."
+  },
+  "Bite": {
+    "NAME": "Morder",
+    "DESCRIPTION": "Cause !D! de dano. NL Cure !M! PV."
+  },
+  "Secret Technique": {
+    "NAME": "Técnica Secreta",
+    "DESCRIPTION": "Escolha uma Técnica da sua pilha de compra e a coloque em sua mão. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Escolha uma Técnica da sua pilha de compra e a coloque em sua mão.",
+    "EXTENDED_DESCRIPTION": [
+      "Não tenho Técnicas NL na minha pilha de compra."
+    ]
+  },
+  "Calculated Gamble": {
+    "NAME": "Aposta Calculada",
+    "DESCRIPTION": "Descarte sua mão, NL então compre o mesmo número de cartas. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Descarte sua mão, NL então compre o mesmo número de cartas."
+  },
+  "Combust": {
+    "NAME": "Combustão",
+    "DESCRIPTION": "No fim do seu turno, perca 1 PV e cause !M! de dano a TODOS os inimigos."
+  },
+  "Deep Breath": {
+    "NAME": "Respirar Fundo",
+    "DESCRIPTION": "Embaralhe sua pilha de descarte na sua pilha de compra. NL Compre !M! carta.",
+    "UPGRADE_DESCRIPTION": "Embaralhe sua pilha de descarte na sua pilha de compra. NL Compre !M! cartas."
+  },
+  "Doubt": {
+    "NAME": "Dúvida",
+    "DESCRIPTION": "Injogável. NL No fim do seu turno, ganhe 1 de Fraqueza."
+  },
+  "Escape Plan": {
+    "NAME": "Plano de Fuga",
+    "DESCRIPTION": "Compre 1 carta. NL Se a carta for uma Técnica, ganhe !B! de Proteção."
+  },
+  "Finisher": {
+    "NAME": "Finalizador",
+    "DESCRIPTION": "Cause !D! de dano para cada Ataque jogado neste turno.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Você jogou ",
+      " Ataque.)",
+      " Ataques.)"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Abraçar as Trevas",
+    "DESCRIPTION": "Sempre que uma carta for exaurida, NL compre 1 carta."
+  },
+  "Die Die Die": {
+    "NAME": "Morram Morram Morram",
+    "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Exaurir."
+  },
+  "Well Laid Plans": {
+    "NAME": "Planos Bem Definidos",
+    "DESCRIPTION": "No fim do seu turno, Mantenha até !M! carta.",
+    "UPGRADE_DESCRIPTION": "No fim do seu turno, Mantenha até !M! cartas."
+  },
+  "Defend_R": {
+    "NAME": "Defender",
+    "DESCRIPTION": "Ganhe !B! de Proteção."
+  },
+  "Defend_G": {
+    "NAME": "Defender",
+    "DESCRIPTION": "Ganhe !B! de Proteção."
+  },
+  "Defend_B": {
+    "NAME": "Defender",
+    "DESCRIPTION": "Ganhe !B! de Proteção."
+  },
+  "Seeing Red": {
+    "NAME": "Cego de Raiva",
+    "DESCRIPTION": "Ganhe [R] [R]. NL Exaurir."
+  },
+  "Disarm": {
+    "NAME": "Desarmar",
+    "DESCRIPTION": "O inimigo perde !M! de Força. NL Exaurir."
+  },
+  "Panache": {
+    "NAME": "Desenvoltura",
+    "DESCRIPTION": "Toda vez que você jogar 5 cartas em um mesmo turno, cause !M! de dano a TODOS os inimigos."
+  },
+  "Fiend Fire": {
+    "NAME": "Chamas Demoníacas",
+    "DESCRIPTION": "Exaura sua mão. NL Cause !D! de dano para cada carta exaurida. NL Exaurir."
+  },
+  "Terror": {
+    "NAME": "Terror",
+    "DESCRIPTION": "Aplique 99 de Vulnerabilidade. NL Exaurir."
+  },
+  "Dazed": {
+    "NAME": "Atordoado",
+    "DESCRIPTION": "Injogável. NL Etérea."
+  },
+  "Barricade": {
+    "NAME": "Barricada",
+    "DESCRIPTION": "A Proteção não expira mais no início do seu turno."
+  },
+  "Armaments": {
+    "NAME": "Armamentos",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Aprimore uma carta na sua mão pelo resto do combate.",
+    "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. NL Aprimore TODAS as cartas na sua mão pelo resto do combate."
+  },
+  "Havoc": {
+    "NAME": "Devastar",
+    "DESCRIPTION": "Jogue a carta do topo da sua pilha de compra e a exaura."
+  },
+  "Secret Weapon": {
+    "NAME": "Arma Secreta",
+    "DESCRIPTION": "Escolha um Ataque da sua pilha de compra e o coloque em sua mão. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Escolha um Ataque da sua pilha de compra e o coloque em sua mão.",
+    "EXTENDED_DESCRIPTION": [
+      "Não tenho Ataques NL na minha pilha de compra."
+    ]
+  },
+  "Apotheosis": {
+    "NAME": "Apoteose",
+    "DESCRIPTION": "Aprimore TODAS as suas cartas pelo resto do combate. NL Exaurir."
+  },
+  "Feel No Pain": {
+    "NAME": "Não Sentir Dor",
+    "DESCRIPTION": "Sempre que uma carta for exaurida, NL ganhe !M! de Proteção."
+  },
+  "Hide": {
+    "NAME": "Esconder-se",
+    "DESCRIPTION": "Você não pode perder PV até o início do seu próximo turno. NL Exaurir."
+  },
+  "Corruption": {
+    "NAME": "Corrupção",
+    "DESCRIPTION": "Técnicas custam 0. NL Sempre que você jogar uma Técnica, a exaura."
+  },
+  "Heel Hook": {
+    "NAME": "Chave de Calcanhar",
+    "DESCRIPTION": "Cause !D! de dano. NL Se o inimigo estiver Enfraquecido, NL Ganhe [G] e NL compre 1 carta."
+  },
+  "Injury": {
+    "NAME": "Ferimento",
+    "DESCRIPTION": "Injogável."
+  },
+  "Rage": {
+    "NAME": "Raiva",
+    "DESCRIPTION": "Sempre que você jogar uma carta de Ataque neste turno, ganhe !M! de Proteção."
+  },
+  "Headbutt": {
+    "NAME": "Cabeçada",
+    "DESCRIPTION": "Cause !D! de dano. NL Coloque uma carta da sua pilha de descarte no topo da sua pilha de compra."
+  },
+  "Limit Break": {
+    "NAME": "Quebrar Limites",
+    "DESCRIPTION": "Dobre sua Força. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Dobre sua Força."
+  },
+  "Entrench": {
+    "NAME": "Entricheirar",
+    "DESCRIPTION": "Dobre sua Proteção atual.",
+    "UPGRADE_DESCRIPTION": "Dobre sua Proteção atual."
+  },
+  "Noxious Fumes": {
+    "NAME": "Gases Nocivos",
+    "DESCRIPTION": "No início do seu turno, aplique !M! de Veneno a TODOS os inimigos."
+  },
+  "Infinite Blades": {
+    "NAME": "Lâminas Infinitas",
+    "DESCRIPTION": "No início do seu turno, adicione um Estoque à sua mão.",
+    "UPGRADE_DESCRIPTION": "Inata. NL No início do seu turno, adicione um Estoque à sua mão."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Assassino Fantasmagórico",
+    "DESCRIPTION": "No seu próximo turno, seu dano de Ataque é dobrado."
+  },
+  "Malaise": {
+    "NAME": "Mal-estar",
+    "DESCRIPTION": "O Inimigo perde X de Força. Aplique X de Fraqueza. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "O Inimigo perde X+1 de Força. Aplique X+1 de Fraqueza. NL Exaurir."
+  },
+  "Reflex": {
+    "NAME": "Reflexo",
+    "DESCRIPTION": "Injogável. NL Se esta carta for descartada da sua mão, compre !M! carta.",
+    "UPGRADE_DESCRIPTION": "Injogável. NL Se esta carta for descartada da sua mão, compre !M! cartas.",
+    "EXTENDED_DESCRIPTION": [
+      "Eu não posso jogar esta carta."
+    ]
+  },
+  "Sentinel": {
+    "NAME": "Sentinela",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Se esta carta for exaurida, NL ganhe [R] [R].",
+    "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. NL Se esta carta for exaurida, NL ganhe [R] [R] [R]."
+  },
+  "Survivor": {
+    "NAME": "Sobrevivente",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Descarte uma carta."
+  },
+  "Wild Strike": {
+    "NAME": "Golpe Selvagem",
+    "DESCRIPTION": "Cause !D! de dano. NL Embaralhe uma Ferida na sua pilha de compra."
+  },
+  "Eviscerate": {
+    "NAME": "Eviscerar",
+    "DESCRIPTION": "Custa 1 a menos de [G] NL para cada carta descartada neste turno. NL Cause !D! de dano três vezes."
+  },
+  "Flash of Steel": {
+    "NAME": "Lampejo de Aço",
+    "DESCRIPTION": "Cause !D! de dano. NL Compre 1 carta."
+  },
+  "Battle Trance": {
+    "NAME": "Êxtase de Batalha",
+    "DESCRIPTION": "Compre !M! cartas. NL Você não pode comprar nenhuma carta adicional neste turno."
+  },
+  "Heavy Blade": {
+    "NAME": "Lâmina Pesada",
+    "DESCRIPTION": "Cause !D! de dano. NL Força afeta Lâmina Pesada !M! vezes."
+  },
+  "Clumsy": {
+    "NAME": "Desajeitado",
+    "DESCRIPTION": "Injogável. NL Etérea."
+  },
+  "Searing Blow": {
+    "NAME": "Pancada Cauterizante",
+    "DESCRIPTION": "Cause !D! de dano. NL Pode ser aprimorada qualquer número de vezes."
+  },
+  "Corpse Explosion": {
+    "NAME": "Explosão de Corpos",
+    "DESCRIPTION": "O inimigo perde todo o Veneno. Cause dano igual a duas vezes a quantia perdidida a TODOS os inimigos.",
+    "UPGRADE_DESCRIPTION": "O inimigo perde todo o Veneno. Cause dano igual a 3 vezes a quantia perdidida a TODOS os inimigos.",
+    "EXTENDED_DESCRIPTION": [
+      "Aquele inimigo não está Envenenado."
+    ]
+  },
+  "Second Wind": {
+    "NAME": "Fôlego Extra",
+    "DESCRIPTION": "Exaura todas as cartas que não sejam de Ataque em sua mão e ganhe !B! de Proteção para cada."
+  },
+  "Enlightenment": {
+    "NAME": "Iluminação",
+    "DESCRIPTION": "Reduz o custo das cartas de sua mão para 1 neste turno.",
+    "UPGRADE_DESCRIPTION": "Reduz o custo das cartas de sua mão para 1 neste combate."
+  },
+  "Purity": {
+    "NAME": "Pureza",
+    "DESCRIPTION": "Escolha e Exaura até !M! cartas em sua mão. NL Exaurir."
+  },
+  "Panacea": {
+    "NAME": "Panaceia",
+    "DESCRIPTION": "Ganhe !M! de Artefato. NL Exaurir."
+  },
+  "Dash": {
+    "NAME": "Arranque",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Cause !D! de dano."
+  },
+  "Transmutation": {
+    "NAME": "Transmutação",
+    "DESCRIPTION": "Adicione X cartas incolores aleatórias em sua mão. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Adicione X cartas incolores aprimoradas aleatórias em sua mão. NL Exaurir."
+  },
+  "Backstab": {
+    "NAME": "Atacar Pelas Costas",
+    "DESCRIPTION": "Cause !D! de dano. NL Inata. NL Exaurir."
+  },
+  "Step Through Time": {
+    "NAME": "Caminhar no Tempo",
+    "DESCRIPTION": "CUSTO: 2 Cartas. NL Seus PV retornam ao valor do turno anterior. NL Exaurir."
+  },
+  "Feed": {
+    "NAME": "Comer",
+    "DESCRIPTION": "Cause !D! de dano. NL Se isso matar um inimigo não lacaio, ganhe !M! PV máximo permanentemente. Exaurir."
+  },
+  "Rupture": {
+    "NAME": "Ruptura",
+    "DESCRIPTION": "Sempre que você perder PV a partir de uma carta, NL ganhe 1 de Força."
+  },
+  "Venomology": {
+    "NAME": "Alquimizar",
+    "DESCRIPTION": "Obtenha uma poção aleatória. NL Exaurir."
+  },
+  "Bouncing Flask": {
+    "NAME": "Frasco Saltitante",
+    "DESCRIPTION": "Aplique 3 de Veneno a um inimigo aleatório !M! vezes."
+  },
+  "Bludgeon": {
+    "NAME": "Cacetada",
+    "DESCRIPTION": "Cause !D! de dano."
+  },
+  "Finesse": {
+    "NAME": "Sutileza",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Compre 1 carta."
+  },
+  "Slice": {
+    "NAME": "Fatiar",
+    "DESCRIPTION": "Cause !D! de dano."
+  },
+  "Backflip": {
+    "NAME": "Cambalhota",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL Compre 2 cartas."
+  },
+  "Outmaneuver": {
+    "NAME": "Enganar",
+    "DESCRIPTION": "Ganhe [G] [G] NL no próximo turno.",
+    "UPGRADE_DESCRIPTION": "Ganhe [G] [G] [G] NL no próximo turno."
+  },
+  "Night Terror": {
+    "NAME": "Pesadelo",
+    "DESCRIPTION": "Escolha uma carta. NL No próximo turno, adicione !M! cópias desta carta à sua mão. Exaurir.",
+    "EXTENDED_DESCRIPTION": [
+      "Eu só posso usar NL ",
+      " NL uma vez por turno."
+    ]
+  },
+  "Bloodletting": {
+    "NAME": "Sangria",
+    "DESCRIPTION": "Ganhe [R]. NL Perca 3 PV.",
+    "UPGRADE_DESCRIPTION": "Ganhe [R] [R]. NL Perca 3 PV."
+  },
+  "Concentrate": {
+    "NAME": "Concentrar",
+    "DESCRIPTION": "Descarte !M! cartas. NL Ganhe [G] [G]."
+  },
+  "Master of Strategy": {
+    "NAME": "Mestre da Estratégia",
+    "DESCRIPTION": "Compre !M! cartas. NL Exaurir."
+  },
+  "Flechettes": {
+    "NAME": "Flechettes",
+    "DESCRIPTION": "Cause !D! de dano para cada Técnica em sua mão.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Você tem ",
+      " Técnica).",
+      " Técnicas)."
+    ]
+  },
+  "Perfected Strike": {
+    "NAME": "Golpe Aperfeiçoado",
+    "DESCRIPTION": "Cause !D! de dano. NL Cause +2 de dano adicional para TODAS as suas cartas contendo \"Golpe\".",
+    "UPGRADE_DESCRIPTION": "Cause !D! de dano. NL Cause +3 de dano adicional para TODAS as suas cartas contendo \"Golpe\"."
+  },
+  "Carnage": {
+    "NAME": "Carnificina",
+    "DESCRIPTION": "Etérea. NL Cause !D! de dano."
+  },
+  "Masterful Stab": {
+    "NAME": "Estocada Magistral",
+    "DESCRIPTION": "Só pode ser jogada se não houverem outras cartas em sua mão. NL Cause !D! de dano.",
+    "UPGRADE_DESCRIPTION": "Isto tem que ser minha NL única carta."
+  },
+  "Good Instincts": {
+    "NAME": "Bons Instintos",
+    "DESCRIPTION": "Ganhe !B! de Proteção."
+  },
+  "Prepared": {
+    "NAME": "Preparado",
+    "DESCRIPTION": "Compre !M! carta. NL Descarte !M! carta.",
+    "UPGRADE_DESCRIPTION": "Compre !M! cartas. NL Descarte !M! cartas."
+  },
+  "Dropkick": {
+    "NAME": "Voadora",
+    "DESCRIPTION": "Cause !D! de dano. NL Se o inimigo estiver Vulnerável, NL Ganhe [R] e NL compre 1 carta."
+  },
+  "Swift Strike": {
+    "NAME": "Golpe Veloz",
+    "DESCRIPTION": "Cause !D! de dano."
+  },
+  "Normality": {
+    "NAME": "Mediocridade",
+    "DESCRIPTION": "Injogável. NL Você não pode jogar mais de 3 cartas neste turno.",
+    "EXTENDED_DESCRIPTION": [
+      "Eu só posso jogar até NL #r3 cartas neste turno.",
+      "Injogável. NL Você não pode jogar mais que ",
+      " cartas por turno.",
+      " cartas por turno. NL Você jogou ",
+      " carta neste turno."
+    ]
+  },
+  "Accuracy": {
+    "NAME": "Precisão",
+    "DESCRIPTION": "Estoques causam !M! de dano adicional."
+  },
+  "Sword Boomerang": {
+    "NAME": "Espada Bumerangue",
+    "DESCRIPTION": "Cause !D! de dano a um inimigo aleatório !M! vezes."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Pau Para Toda Obra",
+    "DESCRIPTION": "Adicione !M! carta incolor aleatória à sua mão. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Add !M! random colorless cards to your hand. NL Exhaust."
+  },
+  "Demon Form": {
+    "NAME": "Forma Demoníaca",
+    "DESCRIPTION": "No início de cada turno, ganhe !M! de Força."
+  },
+  "Fire Breathing": {
+    "NAME": "Cuspir Fogo",
+    "DESCRIPTION": "No fim do seu turno, para cada Ataque jogado neste turno cause 1 de dano a TODOS os inimigos.."
+  },
+  "Ghostly Armor": {
+    "NAME": "Armadura Fantasmagórica",
+    "DESCRIPTION": "Etérea. NL Ganhe !B! de Proteção."
+  },
+  "Uppercut": {
+    "NAME": "Gancho",
+    "DESCRIPTION": "Cause !D! de dano. NL Aplique !M! de Fraqueza. NL Aplique !M! de Vulnerabilidade."
+  },
+  "Mind Blast": {
+    "NAME": "Explosão Mental",
+    "DESCRIPTION": "Cause dano igual ao número de cartas na sua pilha de compras.",
+    "UPGRADE_DESCRIPTION": "Inata. NL Cause dano igual ao número de cartas na sua pilha de compras.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Cause !D! de dano.)"
+    ]
+  },
+  "Neutralize": {
+    "NAME": "Neutralizar",
+    "DESCRIPTION": "Cause !D! de dano. NL Aplique !M! de Fraqueza."
+  },
+  "Strike_R": {
+    "NAME": "Golpe",
+    "DESCRIPTION": "Cause !D! de dano."
+  },
+  "Strike_G": {
+    "NAME": "Golpe",
+    "DESCRIPTION": "Cause !D! de dano."
+  },
+  "Strike_B": {
+    "NAME": "Golpe",
+    "DESCRIPTION": "Cause !D! de dano."
+  },
+  "Evolve": {
+    "NAME": "Evoluir",
+    "DESCRIPTION": "Embaralhe 2 Feridas na sua pilha de compra. NL Sempre que comprar uma Ferida, compre !M! carta.",
+    "UPGRADE_DESCRIPTION": "Embaralhe 2 Feridas na sua pilha de compra. NL Sempre que comprar uma Ferida, compre !M! cartas."
+  },
+  "Burn": {
+    "NAME": "Queimadura",
+    "DESCRIPTION": "Injogável. NL Receba 2 de dano no fim do seu turno.",
+    "UPGRADE_DESCRIPTION": "Injogável. NL Receba 4 de dano no fim do seu turno."
+  },
+  "Sucker Punch": {
+    "NAME": "Murro",
+    "DESCRIPTION": "Cause !D! de dano. NL Aplique !M! de Fraqueza."
+  },
+  "Double Tap": {
+    "NAME": "Tiro Duplo",
+    "DESCRIPTION": "Neste turno, seu próximo Ataque será jogado duas vezes.",
+    "UPGRADE_DESCRIPTION": "Neste turno, seus próximos !M! Ataques serão jogados duas vezes."
+  },
+  "Footwork": {
+    "NAME": "Jogo de Pés",
+    "DESCRIPTION": "Ganhe !M! Destreza."
+  },
+  "Thinking Ahead": {
+    "NAME": "Pensar à Frente",
+    "DESCRIPTION": "Compre 2 cartas. NL Coloque uma carta da sua mão no topo da sua pilha de compra. NL Exaurir.",
+    "UPGRADE_DESCRIPTION": "Compre 2 cartas. NL Coloque uma carta da sua mão no topo da sua pilha de compra."
+  },
+  "Distraction": {
+    "NAME": "Distração",
+    "DESCRIPTION": "Adicione uma Técnica aleatória à sua mão. NL Ela custa 0 neste turno. NL Exaurir."
+  },
+  "Dodge and Roll": {
+    "NAME": "Esquivar e Rolar",
+    "DESCRIPTION": "Ganhe !B! de Proteção. NL No próximo turno, ganhe !B! de Proteção."
+  },
+  "All Out Attack": {
+    "NAME": "Ataque Total",
+    "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Compre 1 carta a menos no próximo turno."
+  },
+  "Flying Knee": {
+    "NAME": "Joelhada Voadora",
+    "DESCRIPTION": "Cause !D! de dano. NL Ganhe [G] no próximo turno."
+  },
+  "Predator": {
+    "NAME": "Predador",
+    "DESCRIPTION": "Cause !D! de dano. NL Compre 2 cartas a mais no próximo turno."
+  },
+  "Madness": {
+    "NAME": "Loucura",
+    "DESCRIPTION": "Uma carta aleatória na sua mão custa 0 pelo resto do combate. NL Exaurir."
+  },
+  "Expertise": {
+    "NAME": "Perícia",
+    "DESCRIPTION": "Compre cartas até que você tenha !M! na mão."
+  }
+}

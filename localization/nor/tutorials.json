@@ -1,76 +1,76 @@
 {
   "Main Tutorial": {
     "TEXT": [
-      "Defeat enemies by playing cards from your hand! NL NL Cards require #yEnergy to play. NL Once you are out, end your turn. NL NL At the start of your turn, new cards are drawn and your #yEnergy is replenished.",
-      "Play defensive cards to gain #yBlock when enemies are about to attack you. NL NL #yBlock reduces incoming attack damage but NL #rwears #roff at the start of your next turn.",
-      "During your turn, you can observe an enemy's #yIntent above them. NL NL If an enemy is intent on attacking you, be sure to gain some #yBlock!"
+      "Slå fiender ved å spille kort fra hånda di! NL NL Kort trenger #yEnergi for å bli spilt. NL I det du er tom for energi avslutter du runden din. NL NL I slutten av runden din trekkes nye kort, og #yEnergien din fås tilbake.",
+      "Spill defensive kort for å få #ySkadeblokkering når fiender har planlagt å angripe deg. NL NL #ySkadeblokkering reduserer Skaden du tar, men NL #rforsvinner ved starten av din neste runde",
+      "I løpet av runden din kan du se hva en fiende #yPlanlegger over dem. NL NL Hvis en fiende planlegger å angripe deg, må du sikre at du #yBlokkerer Skaden!"
     ],
     "LABEL": [
-      "Next",
-      "I'm Ready!",
-      "Tutorial",
-      "(Page ",
-      " of 3)"
+      "Neste",
+      "Jeg er klar!",
+      "Opplæring",
+      "(Side ",
+      " av 3)"
     ]
   },
   "FTUE Tips": {
     "TEXT": [],
     "LABEL": [
-      "Tip: ",
-      "Got It"
+      "Tips: ",
+      "Har det"
     ]
   },
   "Potion Tip": {
     "TEXT": [
-      "Drink or throw potions during combat! NL Potions stay with you between rooms."
+      "Drikk eller kast trylledrikker under kamp. NL Trylledrikker blir med deg mellom rommene."
     ],
     "LABEL": [
-      "Potions"
+      "Trylledrikker"
     ]
   },
   "Energy Tip": {
     "TEXT": [
-      "Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn."
+      "Kort som krever energi for å spilles! NL Denne kulen i nedre venstre kant indikerer hvor mye energi du har igjen denne runden."
     ],
     "LABEL": [
-      "Energy Cost"
+      "Energikostnad"
     ]
   },
   "Shuffle Tip": {
     "TEXT": [
-      "NL If there are no cards to draw, your discard pile is shuffled into the draw pile."
+      "NL Hvis det ikke er flere kort som kan trekkes, blir kastebunken din blandet tilbake i trekkebunken."
     ],
     "LABEL": [
-      "No More Cards?"
+      "Tomt for kort?"
     ]
   },
   "Player Tips": {
     "TEXT": [
-      "This card applies a Power to you when used. NL Powers are passive abilities that remain for the duration of the combat.",
-      "Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn.",
-      "My #rHand #ris #rFull!"
+      "Dette kortet gir deg en Kraft når det brukes. NL Krefter er passive egenskaper som blir med deg igjennom hele kampen.",
+      "Kort som krever energi for å spilles! NL Denne kulen i nedre venstre kant indikerer hvor mye energi du har igjen denne runden.",
+      "#rHånda #rmi #rer #rfull!"
     ],
     "LABEL": [
-      "Power Cards",
-      "Energy Cost"
+      "Kraftkort",
+      "Energikostnad"
     ]
   },
   "Relic Tip": {
     "TEXT": [
-      "Relics found throughout the Spire grant unique bonuses and remain throughout your run. NL They can be found by defeating powerful foes or within chests.",
-      "This relic remains to be seen.",
-      "Its power is all used up."
+      "Relikvier kan finnes i hele tårnet. De gir deg unike boniser og blir med deg igjennom hele reisen din. NL De kan finnes hvis du dreper mektige fiender og inne i kister.",
+      "Denne relikvien har du ikke sett ennå.",
+      "Kraften dens er helt oppbrukt."
     ],
     "LABEL": [
-      "Relics",
-      "Unknown",
-      "This relic has yet to be unlocked.",
-      "Locked"
+      "Relikvier",
+      "Ukjent",
+      "Denne relikvien er ikke Låst opp ennå.",
+      "Låst"
     ]
   },
   "Rewards Tip": {
     "TEXT": [
-      "Don't forget your rewards! NL Just click on them to pick them up."
+      "Ikke glem å ta med deg alle belønningene dine! NL Bare klikk på dem for å plukke dem opp."
     ],
     "LABEL": [
       "Rewards"
@@ -78,142 +78,142 @@
   },
   "Draw Tip": {
     "TEXT": [
-      "At the start of each turn, NL #b",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile (shuffled).",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile."
+      "I starten av hver runde blir NL #b",
+      " kort trekt herfra. NL NL Klikk her for å se kortene du har i trekkebunken (i tilfeldig rekkefølge).",
+      " kort trekt herfra. NL NL Klikk her for å se kortene du har i trekkebunken."
     ],
     "LABEL": [
-      "Draw Pile"
+      "Trekkebunken"
     ]
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Click to view cards Exhausted this combat."
+      "Klikk her for å se kortene du har Vraket denne kampen."
     ],
     "LABEL": [
-      "Exhausted Cards"
+      "Vrakede kort"
     ]
   },
   "Options Tip": {
     "TEXT": [
-      "Gameplay data and error logs are sent to Mega Crit for game balancing purposes. NL NL Personally identifying information is NOT collected.",
-      "Slay the Spire runs the fastest when running in true fullscreen. Recommended for OSX as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
-      "As Slay the Spire isn't a demanding game, we recommend Borderless Fullscreen for fast alt-tab. Works best on PC.",
-      "Note: If VSync is on, the Max Framerate cannot go above your monitor refresh rate."
+      "Spilldata og feilmeldinger sendes til Mega Crit for å balansere spillet bedre. NL NL Identifiserende persondata samles IKKE inn.",
+      "Slay the Spire fungerer best hvis man kjører det i ekte fullskjerm. Det er anbefalt for OSX på grunn av at da blir Dock og Menylinjen skjult. NL MERK: På PC kan det hende at det ikke fungerer å alt+tab tilbake til spillet i fullskjermmodus.",
+      "På grunn av at Slay the Spire ikke er et krevende spill, anbefaler vi rammeløs fullskjerm hvis muligheten for alt+tab er viktig. Dette fungerer best på PC.",
+      "Merk: Hvis VSync er slått på, vil maks bilderate ikke ha mulighet til å overstige din monitors refresh rate."
     ],
     "LABEL": [
-      "Metrics",
-      "Fullscreen",
-      "Borderless Fullscreen",
-      "Max Framerate"
+      "Metrikk",
+      "Fullskjerm",
+      "Rammeløs fullskjerm",
+      "Maks bilderate"
     ]
   },
   "Shop Tip": {
     "TEXT": [
-      "Remove a card from your deck. The cost of this service increases by #b",
-      " for the rest of this run."
+      "Fjern et kort fra kortstokken din. Dette tilbudet vil øke med #b",
+      " resten av gjennomspillingen."
     ],
     "LABEL": [
-      "Card Removal Service"
+      "Kortfjerneservice"
     ]
   },
   "End Turn Tip": {
     "TEXT": [
-      "Pressing this button will end your turn. NL NL You will discard your hand, enemies will take their turn, you will draw ",
-      " cards, then it will be your turn again."
+      "Hvis du trykker på denne knappen vil runden din avsluttes. NL NL Du kaster da resten av kortene du har på hånda, og det blir fiendens tur. Deretter trekker du ",
+      " nye kort, og det er din tur igjen."
     ],
     "LABEL": [
-      "End Turn"
+      "Avslutt runden"
     ]
   },
   "Discard Tip": {
     "TEXT": [
-      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL Click to view the cards in your discard pile."
+      "Hvis trekkebunken din er tom, blir kastebunken din blandet inn i trekkebunken igjen. NL NL Klikk for å se kortene i kastebunken din."
     ],
     "LABEL": [
-      "Discard Pile"
+      "Kastebunke"
     ]
   },
   "Energy Panel Tip": {
     "TEXT": [
-      "Your current energy count. Cards require energy to play."
+      "Din nåværende mengde energi. Kort trenger energi for å kunne spilles."
     ],
     "LABEL": [
-      "Energy"
+      "Energi"
     ]
   },
   "Potion Panel Tip": {
     "TEXT": [
-      "Throws this potion at your enemy.",
-      "Consume this potion.",
-      "Discards this potion NL #r(cannot #rbe #rundone)"
+      "Kaster denne trylledrikken på fienden din.",
+      "Drikk denne trylledrikken.",
+      "Fjerner trylledrikken NL #r(kan #rikke #rgjøres #rom)"
     ],
     "LABEL": [
-      "Throw",
-      "Drink",
-      "Discard"
+      "Kast",
+      "Drikk",
+      "Fjern"
     ]
   },
   "Top Panel Tips": {
     "TEXT": [
-      "Opens the game menu. NL NL Change or update your graphics, audio, and gameplay preferences here.",
-      "View all of the cards in your deck.",
-      "View this current dungeon's map.",
-      "If you run out of HP, you die.",
-      "Shows how much gold you are carrying. Gold is the currency within the Spire.",
-      "Obtained whenever you defeat a #yBoss. NL What could this be for...?",
-      "Obtained whenever you defeat a #yBoss. NL Feed these to #yNeow to unlock items and earn bonuses for new runs.",
-      "Elapsed time for this run."
+      "Åpner spillmenyen. NL NL Endre eller oppdater grafikken, lyden og spillopplevelsen her.",
+      "Se alle kortene i kortstokken din.",
+      "Se tårnets kart.",
+      "Hvis du går tom for HP, dør du.",
+      "Viser hvor mye gull du har med deg. Gull er myntenheten i tårnet.",
+      "Anskaffes i det du slår en #yHøvding. NL Hva skal man bruke dette til...?",
+      "Anskaffes i det du slår en #yHøvding. NL Du kan mate #yNeow med disse for å låse opp nye ting, og bonuser i spillet.",
+      "Anløpt tid denne gjennomspillingen."
     ],
     "LABEL": [
-      "Settings",
-      "Deck",
-      "Map",
+      "Innstillinger",
+      "Kortstokk",
+      "Kart",
       "Hit Points (HP)",
-      "Money Pouch",
-      "Run Timer"
+      "Lommebok",
+      "Tid"
     ]
   },
   "Random Tips": {
     "TEXT": [
-      "Engage with other players to discover new and effective strategies.",
-      "There is always a rest site before a boss.",
-      "Spend gold at shops! (Tip paid for by Merchant)",
-      "Take a break every now and then.",
-      "No enemy will use the same move 3 times in a row.",
-      "Percentage-based calculations always round down at the end.",
-      "During combat, you can view the contents of your draw and discard piles.",
-      "Useful information can be revealed by hovering over most objects.",
-      "Toggle tips on/off by clicking on the ? button in the top right corner.",
-      "Right click will release any cards you are dragging.",
-      "Hover over an enemy to see their name and Power information.",
-      "Use the scroll wheel or click and drag the screen to scroll.",
-      "If you can inspect an item, your cursor will become a magnifying glass.",
-      "There is no limit to how many relics you can carry.",
-      "Chests will always drop a relic.",
-      "Every path you take will always have at least 1 treasure room.",
-      "Use the scrollwheel or click and drag to scroll maps, card screens, and others.",
-      "Elite enemies will always drop a relic.",
-      "You will never see the same relic twice in one run.",
-      "Uncommon cards have a blue frame and banner.",
-      "Rare cards have a golden frame and banner.",
-      "The rarity of a card is visible on the card itself.",
-      "It is not always wise to add cards to your deck.",
-      "Cards exhausted during combat are not removed from your deck.",
-      "You can only have up to 10 cards in your hand.",
-      "Status cards go away at the end of combat.",
-      "Curses cannot be upgraded. Why would you?",
-      "Upgraded cards may appear in rewards past Act 1.",
-      "Potions can only be used during combat.",
-      "Potions cannot be discarded during combat.",
-      "Unknown rooms may contain treasures, monsters, shops, or events.",
-      "The Merchant doesn't offer refunds. He is a jerk.",
-      "The card removal service increases in price whenever you use it.",
-      "The card removal service can only be used once at each shop.",
-      "Damage from potions, relics, and powers are not considered attack damage."
+      "Engasjer deg med de andre spillerne for å oppdage nye og effektive strategier.",
+      "Det er alltid et leirbål før en høvding.",
+      "Du kan bruke gull i butikken! (Dette tipset er bragt til deg av Kjøpmannen)",
+      "Ta en hvil av og til.",
+      "Ingen fiender vil noen sinne utføre samme angrep 3 ganger på rad.",
+      "Prosentvise utregninger vil alltid rundes nedover.",
+      "Unger kamp kan du se innholdet i trekkebunken og kastebunken.",
+      "Nyttig informasjon kan sees hvis du beveger musepekeren over de fleste objekter.",
+      "Slå tips av og på ved å trykke på ?-knappen i øvre høyre hjørne.",
+      "Høyreklikk for å slippe kort du drar med deg.",
+      "Beveg musepekeren over en fiende for å se navnet og informasjon om kreftene deres.",
+      "Bruk musehjulet eller klikk og dra i skjermen for å scrolle.",
+      "Hvis du kan inspisere et objekt, vil musepekeren din bli til et forstørrelsesglass.",
+      "Det er ingen grenser for hvor mange relikvier du kan bære med deg.",
+      "Kister vil alltid inneholde minst en relikvie.",
+      "Alle veier du kan gå på kartet vil alltid inneholde minst et skatterom.",
+      "Bruk musehjulet eller klikk og dra i skjermen for å scrolle kart, kortskjermer og andre skjermer.",
+      "Elitefiender vil alltid etterlate seg en relikvie.",
+      "Du vil aldri støte på den samme relikvien to ganger i en gjennomspilling.",
+      "Uvanlige kort har en blå flamme og blått banner.",
+      "Sjeldne kort har gyllen ramme og banner.",
+      "Sjeldenheten til et kort vises på selve kortet.",
+      "Det er ikke bestandig det er lurt å legge til nye kort i kortstokken.",
+      "Kort som Vrakes under kamp blir ikke fjernet fra kortstokken for alltid.",
+      "Du kan aldri ha mer enn 10 kort på hånda.",
+      "Statuskort fjernes etter at kampen er over.",
+      "Forbannelseskort kan ikke oppgraderes... men hvorfor i all verden ville du ønske å gjøre noe sånt?",
+      "Oppgraderte kort kan dukke opp som belønning etter første akt.",
+      "Trylledrikker kan kun brukes under kamp.",
+      "Trylledrikker kan ikke fjernes i løpet av en kamp.",
+      "?-rom kan inneholde skatter, monstre, butikker eller hendelser.",
+      "Kjøpmannen har ingen angrerett. Han er en dust!.",
+      "Kjøpmannens service for å fjerne kort fra kortstokken øker i pris hver gang du benytter deg av den.",
+      "Kjøpmannens service for å fjerne kort kan kun brukes èn gang for hver gang du besøker butikken hans.",
+      "Skade fra Trylledrikker, Relikvier og Krefter blir ikke ansett som Angrepsskade."
     ],
     "LABEL": [
-      "You can discard potions to make room for others."
+      "Du kan fjerne trylledrikker for å gjøre plass til nye"
     ]
   }
 }

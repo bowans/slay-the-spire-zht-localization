@@ -1,70 +1,58 @@
 {
   "Cursed Run": {
-    "NAME": "Przeklęta Próba",
-    "DESCRIPTION": "Za każdym razem, gdy pokonujesz Bossa, zostajesz Przeklęty."
+    "NAME": "Przeklęta próba",
+    "DESCRIPTION": "Za każdym razem, gdy pokonasz bossa, otrzymujesz #rKlątwę."
   },
-  "Double Elites": {
-    "NAME": "Dwa razy więcej Elitarnych",
-    "DESCRIPTION": "Podwaja liczbę napotkanych Elitarnych."
+  "Elite Swarm": {
+    "NAME": "Rój Elitarnych",
+    "DESCRIPTION": "Elitarne jednostki są absolutnie wszędzie."
   },
-  "Fat Deck": {
-    "NAME": "Gruba Talia",
-    "DESCRIPTION": "Nie możesz ominąć dodawania karty."
+  "Greed": {
+    "NAME": "Chciwość",
+    "DESCRIPTION": "Nie możesz pominąć łupów."
   },
   "Growing Enemies": {
-    "NAME": "Rosnący Przeciwnicy",
-    "DESCRIPTION": "Co turę, przeciwnicy stają się silniejsi."
+    "NAME": "Nieustanny rozwój",
+    "DESCRIPTION": "Z każdą kolejną turą, przeciwnicy stają się silniejsi."
   },
   "Heirloom": {
     "NAME": "Dziedzictwo",
-    "DESCRIPTION": "Zaczynasz z 1 losowym reliktem."
+    "DESCRIPTION": "Zaczynasz grę z 1 artefaktem."
   },
   "Lethal Enemies": {
-    "NAME": "Zabójczy Przeciwnicy",
+    "NAME": "Zabójczy przeciwnicy",
     "DESCRIPTION": "Wszyscy przeciwnicy zaczynają z 3 dodatkowymi pkt. Siły."
   },
   "Night Terrors": {
-    "NAME": "Mary Nocne",
-    "DESCRIPTION": "Odpoczywając odzyskujesz 20% PŻ, a nie 30%."
+    "NAME": "Koszmary",
+    "DESCRIPTION": "Odpoczywając odzyskujesz 20% PŻ, zamiast 30%."
   },
   "Restless Journey": {
-    "NAME": "Bezsenna Wędrówka",
+    "NAME": "Bezsenna wędrówka",
     "DESCRIPTION": "Nie odzyskujesz PŻ zaczynając nowy akt."
   },
   "Slow Start": {
-    "NAME": "Wolny Start",
-    "DESCRIPTION": "Startujesz z dodatkowym Ciosem i Obroną."
+    "NAME": "Powolny start",
+    "DESCRIPTION": "Startujesz z dodatkowym Uderzeniem i Obroną."
   },
   "Tough Enemies": {
-    "NAME": "Twardzi Przeciwnicy",
+    "NAME": "Wytrzymali przeciwnicy",
     "DESCRIPTION": "Przeciwnicy mają 25% więcej PŻ."
   },
-  "Turtle": {
-    "NAME": "Żółw",
-    "DESCRIPTION": "Zaczynasz z 1 Ciosem mniej i 1 Obroną wiecej."
+  "Shiny": {
+    "NAME": "Świecidełko",
+    "DESCRIPTION": "Rozpoczynasz z 1 rzadką kartą."
+  },
+  "Allstar": {
+    "NAME": "Gwiazdor",
+    "DESCRIPTION": "Rozpoczynasz z 2 bezbarwnymi kartami."
+  },
+  "Diverse": {
+    "NAME": "Różnorodność",
+    "DESCRIPTION": "Rozpoczynasz z 2 kartami innej klasy postaci."
   },
   "Vintage": {
     "NAME": "Antyk",
-    "DESCRIPTION": "Ceny Kupca są zwiększone o 25%."
-  },
-  "Shiny": {
-    "NAME": "Shiny",
-    "DESCRIPTION": "Start with 1 random Rare card."
-  },
-  "Elite Swarm": {
-    "NAME": "Elite Swarm",
-    "DESCRIPTION": "Elite enemies are swarming the Spire."
-  },
-  "Greed": {
-    "NAME": "Greed",
-    "DESCRIPTION": "You cannot skip combat rewards."
-  },
-  "Allstar": {
-    "NAME": "All Star",
-    "DESCRIPTION": "Start with 2 random colorless cards."
-  },
-  "Diverse": {
-    "NAME": "Diverse",
-    "DESCRIPTION": "Start with 2 random cards from another class."
+    "DESCRIPTION": "Ceny u Handlarza są zwiększone o 25%."
   }
 }

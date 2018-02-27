@@ -1,12 +1,12 @@
 {
   "Grand Finale": {
     "NAME": "Grand Finale",
-    "DESCRIPTION": "สามารถใช้ได้เมื่อไม่มีการ์ดอยู่ในกองจั่วเท่านั้น. NL ทำดาเมจ !D! กับศัตรูทุกตัว.",
+    "DESCRIPTION": "สามารถใช้ได้เมื่อ NL ไม่มีการ์ดอยู่ในกองจั่วเท่านั้น. NL ทำดาเมจ !D! กับศัตรูทุกตัว.",
     "UPGRADE_DESCRIPTION": "กองจั่วของเรา NL ต้อง #rว่างเปล่า."
   },
   "Immolate": {
     "NAME": "Immolate",
-    "DESCRIPTION": "Exhaust การ์ด 1 ใบ. หากการ์ดที่เลือกเป็นการ์ดคำสาปหรือสถานะ, ทำดาเมจ !D! กับศัตรูทุกตัว."
+    "DESCRIPTION": "Exhaust การ์ด 1 ใบ. หากการ์ดที่เลือกเป็น NL การ์ดคำสาปหรือสถานะ, ทำดาเมจ !D! กับศัตรูทุกตัว."
   },
   "Regret": {
     "NAME": "Regret",
@@ -54,7 +54,7 @@
   },
   "Anger": {
     "NAME": "Anger",
-    "DESCRIPTION": "ทำดาเมจ !D!. NL คัดลอกการ์ดใบนี้ลงในกองทิ้ง."
+    "DESCRIPTION": "ทำดาเมจ !D!. NL คัดลอกการ์ดใบนี้ NL ลงในกองทิ้ง."
   },
   "Storm of Steel": {
     "NAME": "Storm of Steel",
@@ -71,7 +71,7 @@
   },
   "Wraith Form": {
     "NAME": "Wraith Form",
-    "DESCRIPTION": "ทุกครั้งที่ใช้งานการ์ดทักษะ,ทำดาเมจ !M! ให้ศัตรูแบบสุ่ม."
+    "DESCRIPTION": "ทุกครั้งที่ใช้งานการ์ดทักษะ NL ทำดาเมจ !M! ให้ศัตรูแบบสุ่ม."
   },
   "Sadistic Nature": {
     "NAME": "Sadistic Nature",
@@ -116,12 +116,12 @@
   },
   "Bullet Time": {
     "NAME": "Bullet Time",
-    "DESCRIPTION": "คุณไม่สามารถจั่วการ์ดได้อีกในเทิร์นนี้. ลดจำนวนการใช้ Energy ของการ์ดทั้งหมดบนมือลง เป็น 0."
+    "DESCRIPTION": "คุณไม่สามารถจั่วการ์ด NL ได้อีกในเทิร์นนี้. ลดจำนวนการใช้ Energy  NL ของการ์ดทั้งหมด NL บนมือลง เป็น 0."
   },
   "Catalyst": {
     "NAME": "Catalyst",
-    "DESCRIPTION": "ทำให้พิษปัจจุบันของศัตรูเพิ่มขึ้นสองเท่า. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "ทำให้พิษปัจจุบันของศัตรูเพิ่มขึ้นสามเท่า. NL Exhaust."
+    "DESCRIPTION": "ทำให้พิษปัจจุบันของศัตรู NL เพิ่มขึ้นสองเท่า. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "ทำให้พิษปัจจุบันของศัตรู NL พิ่มขึ้นสามเท่า. NL Exhaust."
   },
   "Reaper": {
     "NAME": "Reaper",
@@ -154,7 +154,7 @@
   },
   "Unload": {
     "NAME": "Unload",
-    "DESCRIPTION": "ทำดาเมจ !D!. NL ทิ้งการ์ดทุกใบบนมือที่ไม่ใช่การ์ดโจมตี."
+    "DESCRIPTION": "ทำดาเมจ !D!. NL ทิ้งการ์ดทุกใบบนมือ NL ที่ไม่ใช่การ์ดโจมตี."
   },
   "Blade Dance": {
     "NAME": "Blade Dance",
@@ -208,11 +208,11 @@
   },
   "Necronomicurse": {
     "NAME": "Necronomicurse",
-    "DESCRIPTION": "เล่นไม่ได้. NL ไม่มีทางหนีรอดจากคำสาปนี้ไปได้."
+    "DESCRIPTION": "เล่นไม่ได้. NL ไม่มีทางหนีรอด NL จากคำสาปนี้ไปได้."
   },
   "Choke": {
     "NAME": "Choke",
-    "DESCRIPTION": "ทำดาเมจ !D!. NL ทุกครั้งที่เราใช้งานการ์ดในเทิร์นนี้, เป้าหมายจะสูญเสีย !M! HP."
+    "DESCRIPTION": "ทำดาเมจ !D!.ทุกครั้งที่เราใช้งานการ์ด NL ในเทิร์นนี้, เป้าหมายจะสูญเสีย !M! HP."
   },
   "Juggernaut": {
     "NAME": "Juggernaut",
@@ -228,7 +228,7 @@
   },
   "Blur": {
     "NAME": "Blur",
-    "DESCRIPTION": "ได้รับ !B! Block. NL Block จะไม่หายเมื่อเริ่มต้นเทิร์นในเทิร์นหน้า."
+    "DESCRIPTION": "ได้รับ !B! Block. NL Block จะไม่หายเมื่อเริ่มต้นเทิร์น NL ในเทิร์นหน้า."
   },
   "Body Slam": {
     "NAME": "Body Slam",
@@ -242,7 +242,7 @@
   },
   "Setup": {
     "NAME": "Setup",
-    "DESCRIPTION": "เลือกการ์ดจากบนมือไปวางไว้บนสุดของกองจั่ว. NL การ์ดใบนั้นใช้ 0 Energy จนกว่าจะถูกใช้งาน."
+    "DESCRIPTION": "เลือกการ์ดจากบนมือ NL ไปวางไว้บนสุดของกองจั่ว. NL การ์ดใบนั้นใช้ 0 Energy จนกว่าจะถูกใช้งาน."
   },
   "Blood for Blood": {
     "NAME": "Blood for Blood",
@@ -258,7 +258,7 @@
   },
   "Clash": {
     "NAME": "Clash",
-    "DESCRIPTION": "สามารถใช้งานได้เมื่อบนมือมีแต่การ์ดโจมตีเท่านั้น. NL ทำดาเมจ !D!.",
+    "DESCRIPTION": "สามารถใช้งานได้เมื่อ NL บนมือมีแต่ NL การ์ดโจมตีเท่านั้น. NL ทำดาเมจ !D!.",
     "EXTENDED_DESCRIPTION": [
       "มีการ์ดที่ไม่ใช่การ์ดโจมตีอยู่บนมือ."
     ]
@@ -285,7 +285,7 @@
   },
   "Riddle With Holes": {
     "NAME": "Riddle With Holes",
-    "DESCRIPTION": "ทำดาเมจ !D! 5 ครั้ง."
+    "DESCRIPTION": "ทำดาเมจ !D! ห้าครั้ง."
   },
   "Burning Pact": {
     "NAME": "Burning Pact",
@@ -329,7 +329,7 @@
   },
   "Envenom": {
     "NAME": "Envenom",
-    "DESCRIPTION": "ทุกครั้งที่เราทำดาเมจเข้าเลือดศัตรู, ทำให้ติด 1 Poison."
+    "DESCRIPTION": "ทุกครั้งที่เราทำดาเมจ NL เข้าเลือดศัตรู, ทำให้ติด 1 Poison."
   },
   "Adrenaline": {
     "NAME": "Adrenaline",
@@ -374,7 +374,7 @@
   },
   "Sever Soul": {
     "NAME": "Sever Soul",
-    "DESCRIPTION": "Exhaust การ์ดที่ไม่ใช่การ์ดโจมตีทุกใบบนมือ. NL ทำดาเมจ !D!."
+    "DESCRIPTION": "Exhaust การ์ดที่ไม่ใช่ NL การ์ดโจมตีทุกใบบนมือ. NL ทำดาเมจ !D!."
   },
   "Whirlwind": {
     "NAME": "Whirlwind",
@@ -395,8 +395,8 @@
   },
   "Secret Technique": {
     "NAME": "Secret Technique",
-    "DESCRIPTION": "เลือกการ์ดทักษะที่อยู่ในกองจั่วและนำขึ้นมือ. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "เลือกการ์ดทักษะที่อยู่ในกองจั่วและนำขึ้นมือ.",
+    "DESCRIPTION": "เลือกการ์ดทักษะที่อยู่ใน NL กองจั่วและนำขึ้นมือ. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "เลือกการ์ดทักษะที่อยู่ใน NL กองจั่วและนำขึ้นมือ.",
     "EXTENDED_DESCRIPTION": [
       "ไม่มีการ์ดทักษะในกองจั่ว."
     ]
@@ -412,8 +412,8 @@
   },
   "Deep Breath": {
     "NAME": "Deep Breath",
-    "DESCRIPTION": "นำการ์ดในกองทิ้งสับเข้าไปในกองจั่ว. NL จั่วการ์ด !M! ใบ.",
-    "UPGRADE_DESCRIPTION": "นำการ์ดในกองทิ้งสับเข้าไปในกองจั่ว. NL จั่วการ์ด !M! ใบ."
+    "DESCRIPTION": "นำการ์ดในกองทิ้ง NL สับเข้าไปในกองจั่ว. NL จั่วการ์ด !M! ใบ.",
+    "UPGRADE_DESCRIPTION": "นำการ์ดในกองทิ้ง NL สับเข้าไปในกองจั่ว. NL จั่วการ์ด !M! ใบ."
   },
   "Doubt": {
     "NAME": "Doubt",
@@ -425,7 +425,7 @@
   },
   "Finisher": {
     "NAME": "Finisher",
-    "DESCRIPTION": "ทำดาเมจ !D! ต่อจำนวนการใช้งานการ์ดโจมตีในเทิร์นนี้.",
+    "DESCRIPTION": "ทำดาเมจ !D! ต่อจำนวนการใช้งาน NL การ์ดโจมตีในเทิร์นนี้.",
     "EXTENDED_DESCRIPTION": [
       " NL (คุณได้ใช้งาน ",
       " การ์ดโจมตี.)",
@@ -483,7 +483,7 @@
   },
   "Barricade": {
     "NAME": "Barricade",
-    "DESCRIPTION": "Block จะไม่หายไปเมื่อเริ่มต้นเทิร์นใหม่."
+    "DESCRIPTION": "Block จะไม่หายไป NL เมื่อเริ่มต้นเทิร์นใหม่."
   },
   "Armaments": {
     "NAME": "Armaments",
@@ -492,19 +492,19 @@
   },
   "Havoc": {
     "NAME": "Havoc",
-    "DESCRIPTION": "ใช้งานการ์ดที่วางอยู่บนสุดของกองจั่ว และ  Exhaust การ์ดใบนั้น."
+    "DESCRIPTION": "ใช้งานการ์ดที่ NL วางอยู่บนสุดของกองจั่ว และ  Exhaust การ์ดใบนั้น."
   },
   "Secret Weapon": {
     "NAME": "Secret Weapon",
-    "DESCRIPTION": "เลือกการ์ดโจมตีในกองจั่วเพื่อนำขึ้นมือ. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "เลือกการ์ดโจมตีในกองจั่วเพื่อนำขึ้นมือ.",
+    "DESCRIPTION": "เลือกการ์ดโจมตีใน NL กองจั่วเพื่อนำขึ้นมือ. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "เลือกการ์ดโจมตีใน NL กองจั่วเพื่อนำขึ้นมือ.",
     "EXTENDED_DESCRIPTION": [
       "ไม่มีการ์ดโจมตีในกองจั่ว."
     ]
   },
   "Apotheosis": {
     "NAME": "Apotheosis",
-    "DESCRIPTION": "อัพเกรดการ์ดทุกใบที่เรามีจนจบการต่อสู้. NL Exhaust."
+    "DESCRIPTION": "อัพเกรดการ์ดทุกใบ NL ที่เรามีจนจบการต่อสู้. NL Exhaust."
   },
   "Feel No Pain": {
     "NAME": "Feel No Pain",
@@ -532,7 +532,7 @@
   },
   "Headbutt": {
     "NAME": "Headbutt",
-    "DESCRIPTION": "ทำดาเมจ !D!. NL เลือกการ์ดในกองทิ้งไปวางไว้บนสุดของกองจั่ว."
+    "DESCRIPTION": "ทำดาเมจ !D!. NL เลือกการ์ดในกองทิ้ง NL ไปวางไว้บนสุดของกองจั่ว."
   },
   "Limit Break": {
     "NAME": "Limit Break",
@@ -564,8 +564,8 @@
   },
   "Reflex": {
     "NAME": "Reflex",
-    "DESCRIPTION": "เล่นไมได้. NL ถ้าการ์ดใบนี้ถูกทิ้งจากบนมือ,จั่วการ์ด !M! ใบ.",
-    "UPGRADE_DESCRIPTION": "เล่นไม่ได้. NL ถ้าการ์ดใบนี้ถูกทิ้งจากบนมือ,จั่วการ์ด !M! ใบ.",
+    "DESCRIPTION": "เล่นไมได้. NL ถ้าการ์ดใบนี้ถูกทิ้ง NL จากบนมือ,จั่วการ์ด !M! ใบ.",
+    "UPGRADE_DESCRIPTION": "เล่นไม่ได้. NL ถ้าการ์ดใบนี้ถูกทิ้ง NL จากบนมือ,จั่วการ์ด !M! ใบ.",
     "EXTENDED_DESCRIPTION": [
       "ไม่สามารถเล่นการ์ดใบนี้ได้."
     ]
@@ -585,7 +585,7 @@
   },
   "Eviscerate": {
     "NAME": "Eviscerate",
-    "DESCRIPTION": "ใช้ Energy ลดลง 1 [G] NL ต่อจำนวนการ์ดที่ถูกทิ้งในเทิร์นนี้. NL ทำดาเมจ !D! 3 ครั้ง."
+    "DESCRIPTION": "ใช้ Energy ลดลง 1 [G] NL ต่อจำนวนการ์ดที่ NL ถูกทิ้งในเทิร์นนี้. NL ทำดาเมจ !D! สามครั้ง."
   },
   "Flash of Steel": {
     "NAME": "Flash of Steel",
@@ -593,7 +593,7 @@
   },
   "Battle Trance": {
     "NAME": "Battle Trance",
-    "DESCRIPTION": "จั่วการ์ด !M! ใบ. NL ไม่สามารถจั่วการ์ดเพิ่มได้อีกในเทิร์นนี้."
+    "DESCRIPTION": "จั่วการ์ด !M! ใบ. NL ไม่สามารถจั่วการ์ดเพิ่ม NL ได้อีกในเทิร์นนี้."
   },
   "Heavy Blade": {
     "NAME": "Heavy Blade",
@@ -605,7 +605,7 @@
   },
   "Searing Blow": {
     "NAME": "Searing Blow",
-    "DESCRIPTION": "ทำดาเมจ !D!. NL สามารถอัพเกรดการ์ดใบนี้กี่ครั้งก็ได้"
+    "DESCRIPTION": "ทำดาเมจ !D!. NL สามารถอัพเกรด NL การ์ดใบนี้กี่ครั้งก็ได้"
   },
   "Corpse Explosion": {
     "NAME": "Corpse Explosion",
@@ -617,7 +617,7 @@
   },
   "Second Wind": {
     "NAME": "Second Wind",
-    "DESCRIPTION": "Exhaust การ์ดที่ไม่ใช่การ์ดโจมตีในมือและได้รับ !B! Block ต่อใบ."
+    "DESCRIPTION": "Exhaust การ์ดที่ไม่ใช่ NL การ์ดโจมตีในมือและได้รับ !B! Block ต่อใบ."
   },
   "Enlightenment": {
     "NAME": "Enlightenment",
@@ -709,11 +709,11 @@
   },
   "Flechettes": {
     "NAME": "Flechettes",
-    "DESCRIPTION": "ทำดาเมจ !D! ต่อจำนวนการ์ดทักษะที่อยู่บนมือ.",
+    "DESCRIPTION": "ทำดาเมจ !D! ต่อจำนวนการ์ดทักษะ NL ที่อยู่บนมือ.",
     "EXTENDED_DESCRIPTION": [
-      " NL (You have ",
-      " Skill).",
-      " Skills)."
+      " NL (คุณมี ",
+      " การ์ดทักษะ).",
+      " การ์ดทักษะ)."
     ]
   },
   "Perfected Strike": {
@@ -727,7 +727,7 @@
   },
   "Masterful Stab": {
     "NAME": "Masterful Stab",
-    "DESCRIPTION": "สามารถใช้งานได้เมื่อไม่มีการ์ดใบอื่นอยู่บนมือ. NL ทำดาเมจ !D!.",
+    "DESCRIPTION": "สามารถใช้งานได้เมื่อ NL ไม่มีการ์ดใบอื่นอยู่บนมือ. NL ทำดาเมจ !D!.",
     "UPGRADE_DESCRIPTION": "ต้องเป็นการ์ด NL ใบสุดท้าย."
   },
   "Good Instincts": {
@@ -768,7 +768,8 @@
   },
   "Jack Of All Trades": {
     "NAME": "Jack Of All Trades",
-    "DESCRIPTION": "สุ่มเพิ่มการ์ดไร้สี !M! ใบใส่มือ. NL Exhaust."
+    "DESCRIPTION": "สุ่มเพิ่มการ์ดไร้สี !M! ใบใส่มือ. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add !M! random colorless cards to your hand. NL Exhaust."
   },
   "Demon Form": {
     "NAME": "Demon Form",
@@ -776,7 +777,7 @@
   },
   "Fire Breathing": {
     "NAME": "Fire Breathing",
-    "DESCRIPTION": "เมื่อสิ้นสุดเทิร์น, ทำ 1 ดาเมจให้กับศัตรูทุกตัว ต่อจำนวนการ์ดโจมตีที่ใช้งานไปในเทิร์นนี้"
+    "DESCRIPTION": "เมื่อสิ้นสุดเทิร์น, ทำ 1 ดาเมจให้กับศัตรูทุกตัว ต่อจำนวนการ์ดโจมตี NL ที่ใช้งานไปในเทิร์นนี้"
   },
   "Ghostly Armor": {
     "NAME": "Ghostly Armor",
@@ -788,8 +789,8 @@
   },
   "Mind Blast": {
     "NAME": "Mind Blast",
-    "DESCRIPTION": "ทำดาเมจเท่ากับจำนวนการ์ดในกองจั่ว.",
-    "UPGRADE_DESCRIPTION": "Innate. NL ทำดาเมจเท่ากับจำนวนการ์ดในกองจั่ว.",
+    "DESCRIPTION": "ทำดาเมจเท่ากับ NL จำนวนการ์ดในกองจั่ว.",
+    "UPGRADE_DESCRIPTION": "Innate. NL ทำดาเมจเท่ากับ NL จำนวนการ์ดในกองจั่ว.",
     "EXTENDED_DESCRIPTION": [
       " NL (ทำดาเมจ !D!.)"
     ]
@@ -826,7 +827,7 @@
   },
   "Double Tap": {
     "NAME": "Double Tap",
-    "DESCRIPTION": "ในเทิร์นนี้, การ์ดโจมตีถัดไปจะถูกใช้งานสองรอบ.",
+    "DESCRIPTION": "ในเทิร์นนี้, การ์ดโจมตีถัดไป NL จะถูกใช้งานสองรอบ.",
     "UPGRADE_DESCRIPTION": "ในเทิร์นนี้, การ์ดโจมตี !M! ใบ จะถูกใช้งานสองรอบ."
   },
   "Footwork": {
@@ -835,8 +836,8 @@
   },
   "Thinking Ahead": {
     "NAME": "Thinking Ahead",
-    "DESCRIPTION": "จั่วการ์ด 2 ใบ. NL นำการ์ดบนมือไปวางไว้บนสุดของกองจั่ว. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "จั่วการ์ด 2 ใบ. NL นำการ์ดบนมือไปวางไว้บนสุดของกองจั่ว.."
+    "DESCRIPTION": "จั่วการ์ด 2 ใบ. NL นำการ์ดบนมือไป NL วางไว้บนสุดของกองจั่ว. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "จั่วการ์ด 2 ใบ. NL นำการ์ดบนมือไป NL วางไว้บนสุดของกองจั่ว.."
   },
   "Distraction": {
     "NAME": "Distraction",
