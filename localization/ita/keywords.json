@@ -2,51 +2,33 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "artefatto",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "artefatto"
       ],
       "DESCRIPTION": "Nega il prossimo debuff."
     },
     "BLOCK": {
       "NAMES": [
         "blocco",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "blocks"
       ],
       "DESCRIPTION": "Fino al prossimo turno, previene del danno."
     },
     "CURSE": {
       "NAMES": [
         "maledizione",
-        "maledizioni",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "maledizioni"
       ],
       "DESCRIPTION": "Le Maledizioni sono carte con effetto negativo che rimangono nel tuo mazzo."
     },
     "DEXTERITY": {
       "NAMES": [
-        "destrezza",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "destrezza"
       ],
       "DESCRIPTION": "La Destrezza aumenta il Blocco ottenuto dalle carte."
     },
     "ETHEREAL": {
       "NAMES": [
-        "eterea",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "eterea"
       ],
       "DESCRIPTION": "Se questa carta è nella tua mano alla fine del turno, viene esaurita. Le carte esaurite vengono rimosse dal mazzo per il combattimento."
     },
@@ -62,170 +44,110 @@
     },
     "INNATE": {
       "NAMES": [
-        "innata",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "innata"
       ],
       "DESCRIPTION": "Inizia ogni combattimento con questa carta in mano."
     },
     "LOCKED": {
       "NAMES": [
-        "bloccata",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "bloccata"
       ],
       "DESCRIPTION": "Questa carta deve essere ancora sbloccata."
     },
     "POISON": {
       "NAMES": [
         "veleno",
-        "avvelenato",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "avvelenato"
       ],
       "DESCRIPTION": "Le creature Avvelenate perdono PV all'inizio del loro turno. Ogni turno, il Veleno viene ridotto di #b1."
     },
     "RETAIN": {
       "NAMES": [
-        "conserva",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "conserva"
       ],
       "DESCRIPTION": "Le carte Conservate non vengono scartate alla fine del turno."
     },
     "SHIV": {
       "NAMES": [
         "pugnale",
-        "pugnali",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "pugnali"
       ],
       "DESCRIPTION": "I Pugnali sono carte Attacco con costo #b0 che si Esauriscono."
     },
     "STATUS": {
       "NAMES": [
-        "stato",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "stato"
       ],
       "DESCRIPTION": "Le carte Stato vengono rimosse alla fine del combattimento."
     },
     "STRENGTH": {
       "NAMES": [
-        "forza",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "forza"
       ],
       "DESCRIPTION": "La Forza aggiunge danno addizionale agli attacchi."
     },
     "TRANSFORM": {
       "NAMES": [
-        "trasforma",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "trasforma"
       ],
       "DESCRIPTION": "Le carte Trasformate diventano una carta a caso di qualsiasi rarità."
     },
     "UNKNOWN": {
       "NAMES": [
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "unknown"
       ],
       "DESCRIPTION": "Questa carta deve essere ancora trovata."
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "ingiocabile",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "ingiocabile"
       ],
       "DESCRIPTION": "Le carte Ingiocabili non possono essere giocate dalla tua mano."
     },
     "UPGRADE": {
       "NAMES": [
         "potenzia",
-        "potenziata",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "potenziata"
       ],
       "DESCRIPTION": "Potenziare le carte le rende più forti. Le carte possono solo essere potenziate una volta."
     },
     "VULNERABLE": {
       "NAMES": [
-        "vulnerabile",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "vulnerabile"
       ],
       "DESCRIPTION": "Le creature Vulnerabili prendono il #b50% in più di danno dagli Attacchi."
     },
     "WEAK": {
       "NAMES": [
         "debole",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "weaken",
+        "weakened",
+        "weakens"
       ],
       "DESCRIPTION": "Le creature Deboli infliggono il #b25% in meno di danno con gli Attacchi."
     },
     "WOUND": {
       "NAMES": [
         "ferita",
-        "ferite",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "ferite"
       ],
       "DESCRIPTION": "Le Ferite sono carte stato ingiocabili."
     },
     "FRAIL": {
       "NAMES": [
-        "fragile",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "fragile"
       ],
       "DESCRIPTION": "Finchè Fragile, ottieni il #b25% di #yBlocco in meno dalle carte."
     },
     "STRIKE": {
       "NAMES": [
-        "colpo",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "colpo"
       ],
       "DESCRIPTION": "Qualsiasi carta con la parola \"Colpo\" nel nome."
     },
     "CONFUSED": {
       "NAMES": [
         "confuso",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
         "sia lode a snecko!"
       ],
       "DESCRIPTION": "Il costo delle carte cambia in maniera casuale quando le peschi."

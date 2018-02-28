@@ -2,31 +2,19 @@
   "Game Dictionary": {
     "INNATE": {
       "NAMES": [
-        "angeboren",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "angeboren"
       ],
       "DESCRIPTION": "Beginne jeden Kampf mit dieser Karte in deiner Hand."
     },
     "VULNERABLE": {
       "NAMES": [
-        "verletzlich",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "verletzlich"
       ],
       "DESCRIPTION": "Verletzliche Kreaturen erleiden #b50% mehr Schaden durch Angriffe."
     },
     "STRENGTH": {
       "NAMES": [
-        "Stärke",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "Stärke"
       ],
       "DESCRIPTION": "Stärke lässt Angriffe zusätzlichen Schaden verursachen."
     },
@@ -43,40 +31,27 @@
     "SHIV": {
       "NAMES": [
         "Klinge",
-        "Klingen",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "Klingen"
       ],
       "DESCRIPTION": "Klingen sind #bkostenlose Angriffskarten die bei Benutzung erschöpfen."
     },
     "ETHEREAL": {
       "NAMES": [
-        "ätherisch",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "ätherisch"
       ],
       "DESCRIPTION": "Wenn diese Karte sich am Ende deines Zuges in deiner Hand befindet wird sie erschöpft. NL Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
     },
     "UPGRADE": {
       "NAMES": [
         "verbessern",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "upgraded"
       ],
       "DESCRIPTION": "Verbessern macht Karten mächtiger. Karten können nur ein mal verbessert werden."
     },
     "POISON": {
       "NAMES": [
         "gift",
-        "vergiftet",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "vergiftet"
       ],
       "DESCRIPTION": "Vergiftete Kreaturen verlieren zu ihrem Zugbeginn TP. In jedem Zug wird Gift um #b1 reduziert."
     },
@@ -92,131 +67,83 @@
     },
     "LOCKED": {
       "NAMES": [
-        "gesperrt",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "gesperrt"
       ],
       "DESCRIPTION": "Diese Karte muss noch freigeschaltet werden."
     },
     "UNKNOWN": {
       "NAMES": [
-        "unbekannt",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "unbekannt"
       ],
       "DESCRIPTION": "Dieser Karte muss noch begegnet werden."
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "unspielbar",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "unspielbar"
       ],
       "DESCRIPTION": "Unspielbare Karten können nicht aus deiner Hand ausgespielt werden."
     },
     "BLOCK": {
       "NAMES": [
         "Block",
-        "blockt",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "blockt"
       ],
       "DESCRIPTION": "Verhindert Schaden bis zum nächsten Zug."
     },
     "CONFUSED": {
       "NAMES": [
         "verwirrt",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
         "Gepreised sei Snecko!"
       ],
       "DESCRIPTION": "Immer wenn du eine Karte ziehst, sind ihre Kosten zufällig."
     },
     "STRIKE": {
       "NAMES": [
-        "Schlag",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "Schlag"
       ],
       "DESCRIPTION": "Jede Karte mit „Schlag“ in ihrem Namen."
     },
     "CURSE": {
       "NAMES": [
-        "Fluch",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "Fluch"
       ],
       "DESCRIPTION": "Fluchkarten sind negative Karten, die in deinem Deck bleiben."
     },
     "TRANSFORM": {
       "NAMES": [
-        "transformieren",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "transformieren"
       ],
       "DESCRIPTION": "Transformierte Karten werden zu einer Karte von zufälliger Seltenheit."
     },
     "EXHAUST": {
       "NAMES": [
         "erschöpfen",
-        "erschöpft",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "erschöpft"
       ],
       "DESCRIPTION": "Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
     },
     "RETAIN": {
       "NAMES": [
-        "behalten",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "behalten"
       ],
       "DESCRIPTION": "Behaltene Karten werden am Ende des Zuges nicht abgeworfen."
     },
     "STATUS": {
       "NAMES": [
-        "Status",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "Status"
       ],
       "DESCRIPTION": "Statuskarten werden am Ende des Kampfes entfernt."
     },
     "WOUND": {
       "NAMES": [
         "Wunde",
-        "Wunden",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "Wunden"
       ],
       "DESCRIPTION": "Wunden sind unspielbare Statuskarten."
     },
     "DEXTERITY": {
       "NAMES": [
-        "Geschicklichkeit",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "Geschicklichkeit"
       ],
       "DESCRIPTION": "Geschicklichkeit verbessert von Karten erhaltenen Block."
     },
@@ -228,28 +155,19 @@
         "schwach",
         "schwächen",
         "geschwächt",
-        "schwächt",
-        "UNUSED_RESERVE"
+        "schwächt"
       ],
       "DESCRIPTION": "Geschwächte Kreaturen verursachen #b25% weniger Schaden mit Angriffen."
     },
     "FRAIL": {
       "NAMES": [
-        "gebrechlich",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "gebrechlich"
       ],
       "DESCRIPTION": "Bist du Gebrechlich, erhältst du #b25% weniger #yBlocken von Karten."
     },
     "ARTIFACT": {
       "NAMES": [
-        "Artifakt",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "Artifakt"
       ],
       "DESCRIPTION": "Negiert den nächsten Debuff."
     }

@@ -4,13 +4,30 @@ import os
 from functools import partial, reduce
 from itertools import chain
 
-# a list of files to be ignored
-ignored_files = ["keywords.json"]
+# a list of files to be ignored.
+ignored_files = []
+
+# a list of files for which array size mismatches will be ignored.
+ignored_files_array_size = ["keywords.json"]
 
 if sys.version_info.major < (3):
     raise Exception("must use python 3")
 else:
     from json.decoder import JSONDecodeError
+
+
+class LintError(Exception):
+    def __str__(self):  # Override to include exception name in exception string
+        return "{}: {}".format(self.__class__.__name__, self.args[0])
+
+class TypeMismatch(LintError):
+    pass
+
+class UnsharedDictKeys(LintError):
+    pass
+
+class ArraySizeMismatch(LintError):
+    pass
 
 
 def jsonify(j):
@@ -25,19 +42,19 @@ def truncate_list(l):
 def compare(a, b, path):
     cmp = partial(compare, path=path)
     if type(a) != type(b):
-        return [(path, "Unmatching types: '{}' and '{}'".format(a, b))]
+        return [(path, TypeMismatch("'{}' and '{}'".format(a, b)))]
     elif isinstance(a, dict):
         a_keys = set(a.keys())
         b_keys = set(b.keys())
         set_diff = a_keys.symmetric_difference(b_keys)
         if set_diff != set():
-            return [(path, "Unshared Dict Keys: '{}'".format(set_diff))]
+            return [(path, UnsharedDictKeys("'{}'".format(set_diff)))]
         else:
             return flatten([cmp(x[0][1], x[1][1]) for x in zip(sorted(a.items()), sorted(b.items()))])
     elif isinstance(a, list):
         if len(a) != len(b):
             lang_pack = os.path.basename(os.path.dirname(path))
-            return [(path, "Different lengthed lists (eng={} vs {}={}): search by '{}' or '{}' for eng or {} respectively".format(len(a), lang_pack, len(b), truncate_list(a), truncate_list(b), lang_pack))]
+            return [(path, ArraySizeMismatch("(eng={} vs {}={}): search by '{}' or '{}' for eng or {} respectively".format(len(a), lang_pack, len(b), truncate_list(a), truncate_list(b), lang_pack)))]
         else:
             return flatten(map(lambda x:cmp(*x), zip(b, a)))
     else:
@@ -86,6 +103,7 @@ if __name__ == "__main__":
     errors = flatten(map(compare_against_eng, other_jsons))
     # Filter out errors in file ignore list
     errors = [x for x in errors if os.path.basename(x[0]) not in ignored_files]
+    errors = [x for x in errors if not (os.path.basename(x[0]) in ignored_files_array_size and isinstance(x[1], ArraySizeMismatch))]
     if len(errors) == 0:
         print("SUCCESS. No errors found.")
         sys.exit(0)

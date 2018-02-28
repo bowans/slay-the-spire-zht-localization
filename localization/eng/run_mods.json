@@ -25,7 +25,7 @@
 	},
 	"Night Terrors": {
 		"NAME": "Night Terrors",
-		"DESCRIPTION": "Resting at campfires heal 20% of your HP, rather than 30%."
+		"DESCRIPTION": "Resting at Rest Sites heals 20% of your HP, rather than 30%."
 	},
 	"Restless Journey": {
 		"NAME": "Restless Journey",
@@ -50,6 +50,18 @@
 	"Diverse": {
 		"NAME": "Diverse",
 		"DESCRIPTION": "Start with 2 cards from another class."
+	},
+	"Uncertain Future": {
+		"NAME": "Uncertain Future",
+		"DESCRIPTION": "The map shows only ?."
+	},
+	"Binary": {
+		"NAME": "Binary",
+		"DESCRIPTION": "Card rewards contain only 2 cards."
+	},
+	"Midas": {
+		"NAME": "Midas",
+		"DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
 	},
 	"Vintage": {
 		"NAME": "Vintage",

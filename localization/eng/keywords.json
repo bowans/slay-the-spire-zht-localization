@@ -2,181 +2,114 @@
   "Game Dictionary": {
   	"ARTIFACT": {
 		"NAMES":[
-			"artifact",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"artifact"
 		],
 		"DESCRIPTION": "Negates the next debuff."
 	},
 	"BLOCK": {
 		"NAMES":[
 			"block",
-			"blocks",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"blocks"
 		],
 		"DESCRIPTION": "Until next turn, prevents damage."
 	},
 	"CURSE": {
 		"NAMES":[
-			"curse",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"curse"
 		],
 		"DESCRIPTION": "Curse cards are negative cards that stay in your deck."
 	},
 	"DEXTERITY": {
 		"NAMES":[
-			"dexterity",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"dexterity"
 		],
 		"DESCRIPTION": "Dexterity improves Block gained from cards."
 	},
 	"ETHEREAL": {
 		"NAMES":[
-			"ethereal",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"ethereal"
 		],
 		"DESCRIPTION": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat."
 	},
 	"EXHAUST": {
 		"NAMES":[
 			"exhaust",
-			"exhausted",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"exhausted"
 		],
 		"DESCRIPTION": "Removed until end of combat."
 	},
 	"INNATE": {
 		"NAMES":[
-			"innate",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"innate"
 		],
 		"DESCRIPTION": "Start each combat with this card in your hand."
 	},
 	"LOCKED": {
 		"NAMES":[
-			"locked",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"locked"
 		],
 		"DESCRIPTION": "This card has yet to be unlocked."
 	},
 	"POISON": {
 		"NAMES":[
 			"poison",
-			"poisoned",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"poisoned"
 		],
 		"DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1."
 	},
 	"RETAIN": {
 		"NAMES":[
-			"retain",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"retain"
 		],
 		"DESCRIPTION": "Retained cards are not discarded at the end of turn."
 	},
 	"SHIV": {
 		"NAMES":[
 			"shiv",
-			"shivs",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"shivs"
 		],
 		"DESCRIPTION": "Shivs are #b0 cost Attack cards which Exhaust."
 	},
 	"STATUS": {
 		"NAMES":[
-			"status",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"status"
 		],
 		"DESCRIPTION": "Status cards are removed at the end of combat."
 	},
 	"STRENGTH": {
 		"NAMES":[
-			"strength",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"strength"
 		],
 		"DESCRIPTION": "Strength adds additional damage to attacks."
 	},
 	"TRANSFORM": {
 		"NAMES":[
-			"transform",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"transform"
 		],
 		"DESCRIPTION": "Transformed cards become a random card of any rarity."
 	},
 	"UNKNOWN": {
 		"NAMES":[
-			"unknown",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"unknown"
 		],
 		"DESCRIPTION": "This card has yet to be encountered."
 	},
 	"UNPLAYABLE": {
 		"NAMES":[
-			"unplayable",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"unplayable"
 		],
 		"DESCRIPTION": "Unplayable cards cannot be played from your hand."
 	},
 	"UPGRADE": {
 		"NAMES":[
 			"upgrade",
-			"upgraded",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"upgraded"
 		],
 		"DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
 	},
 	"VULNERABLE": {
 		"NAMES":[
-			"vulnerable",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"vulnerable"
 		],
 		"DESCRIPTION": "Vulnerable creatures take #b50% more damage from Attacks."
 	},
@@ -185,48 +118,32 @@
 			"weak",
 			"weaken",
 			"weakened",
-			"weakens",
-			"UNUSED_RESERVE"
+			"weakens"
 		],
 		"DESCRIPTION": "Weakened creatures deal #b25% less damage with Attacks."
 	},
 	"WOUND": {
 		"NAMES":[
 			"wound",
-			"wounds",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"wounds"
 		],
 		"DESCRIPTION": "Wounds are unplayable status cards."
 	},
 	"FRAIL": {
 		"NAMES":[
-			"frail",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"frail"
 		],
 		"DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards."
 	},
 	"STRIKE": {
 		"NAMES":[
-			"strike",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"strike"
 		],
 		"DESCRIPTION": "Any card with the word \"Strike\" in its name."
 	},
 	"CONFUSED": {
 		"NAMES":[
-			"confused",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"confused"
 		],
 		"DESCRIPTION": "Whenever you draw a card, randomize its cost."
 	},

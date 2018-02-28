@@ -2,231 +2,148 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "인공물",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "인공물"
       ],
       "DESCRIPTION": "다음에 걸리는 해로운 효과를 무효화 합니다."
     },
     "BLOCK": {
       "NAMES": [
         "방어도",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "blocks"
       ],
       "DESCRIPTION": "다음 턴까지 피해량을 감소시킵니다."
     },
     "CURSE": {
       "NAMES": [
-        "저주",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "저주"
       ],
       "DESCRIPTION": "자신에게 부정적인 효과를 갖고 있는 카드입니다."
     },
     "DEXTERITY": {
       "NAMES": [
-        "민첩",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "민첩"
       ],
       "DESCRIPTION": "카드 사용시 얻는 방어도를 증가시킵니다."
     },
     "ETHEREAL": {
       "NAMES": [
-        "휘발성",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "휘발성"
       ],
       "DESCRIPTION": "턴 종료시 손에 있을 경우 소멸되는 카드입니다. 소멸된 카드는 전투가 종료될 때 까지 덱에서 제외됩니다."
     },
     "EXHAUST": {
       "NAMES": [
         "소멸",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "exhausted"
       ],
       "DESCRIPTION": "전투가 종료될 때 까지 덱에서 제외됩니다."
     },
     "INNATE": {
       "NAMES": [
-        "선천성",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "선천성"
       ],
       "DESCRIPTION": "전투 시작 시 뽑는 카드에 포함됩니다."
     },
     "LOCKED": {
       "NAMES": [
-        "잠긴",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "잠긴"
       ],
       "DESCRIPTION": "아직 해금되지 않은 카드입니다."
     },
     "POISON": {
       "NAMES": [
         "중독",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "poisoned"
       ],
       "DESCRIPTION": "상대 턴이 시작할 때 중독된 적은 그 만큼 피해를 받습니다. 중독은 매 턴  #b1 씩 감소합니다."
     },
     "RETAIN": {
       "NAMES": [
-        "보존",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "보존"
       ],
       "DESCRIPTION": "턴 종료시 버려지지 않습니다."
     },
     "SHIV": {
       "NAMES": [
         "단도",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "shivs"
       ],
       "DESCRIPTION": "사용 시 소멸되는 비용이 #b0 인 카드입니다."
     },
     "STATUS": {
       "NAMES": [
-        "상태이상",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "상태이상"
       ],
       "DESCRIPTION": "전투가 끝나면 사라지는 카드입니다."
     },
     "STRENGTH": {
       "NAMES": [
-        "힘",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "힘"
       ],
       "DESCRIPTION": "주는 피해량을 증가시킵니다."
     },
     "TRANSFORM": {
       "NAMES": [
-        "변화",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "변화"
       ],
       "DESCRIPTION": "무작위로 정해진 카드로 교체됩니다."
     },
     "UNKNOWN": {
       "NAMES": [
-        "미지",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "미지"
       ],
       "DESCRIPTION": "아직 본 적 없는 카드입니다."
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "사용불가",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "사용불가"
       ],
       "DESCRIPTION": "사용할 수 없는 카드입니다."
     },
     "UPGRADE": {
       "NAMES": [
         "강화",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "upgraded"
       ],
       "DESCRIPTION": "강화를 통해 카드를 더욱 강력하게 만들 수 있습니다. 이는 카드당 한 번만 가능합니다."
     },
     "VULNERABLE": {
       "NAMES": [
-        "취약",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "취약"
       ],
       "DESCRIPTION": "공격을 받을 시 #b50% 의 피해를 추가로 받습니다."
     },
     "WEAK": {
       "NAMES": [
         "약화",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "weaken",
+        "weakened",
+        "weakens"
       ],
       "DESCRIPTION": "공격 시 피해량이 #b25% 감소합니다."
     },
     "WOUND": {
       "NAMES": [
         "부상",
-        "부상",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "부상"
       ],
       "DESCRIPTION": "사용 불가인 상태이상 카드입니다."
     },
     "FRAIL": {
       "NAMES": [
-        "손상",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "손상"
       ],
       "DESCRIPTION": "카드로부터 얻는 #y방어도 가 #b25% 감소합니다."
     },
     "STRIKE": {
       "NAMES": [
-        "타격",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "타격"
       ],
       "DESCRIPTION": "\"타격\"이 이름에 포함되어 있는 카드입니다."
     },
     "CONFUSED": {
       "NAMES": [
-        "혼란",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "혼란"
       ],
       "DESCRIPTION": "카드를 가져올 때 마다 비용이 무작위로 정해집니다."
     },

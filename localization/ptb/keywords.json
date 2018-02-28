@@ -2,181 +2,114 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "artefato",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "artefato"
       ],
       "DESCRIPTION": "Nega o próximo efeito negativo."
     },
     "BLOCK": {
       "NAMES": [
         "proteção",
-        "proteções",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "proteções"
       ],
       "DESCRIPTION": "Até o próximo turno, previne dano."
     },
     "CURSE": {
       "NAMES": [
-        "maldição",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "maldição"
       ],
       "DESCRIPTION": "Cartas de maldição são cartas negativas que permanecem no seu baralho."
     },
     "DEXTERITY": {
       "NAMES": [
-        "destreza",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "destreza"
       ],
       "DESCRIPTION": "Destreza melhora a Proteção ganha de Cartas."
     },
     "ETHEREAL": {
       "NAMES": [
-        "etérea",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "etérea"
       ],
       "DESCRIPTION": "Se esta carta estiver em sua mão no fim do turno, ela será exaurida. Cartas exauridas são removidas do seu baralho até o fim do combate."
     },
     "EXHAUST": {
       "NAMES": [
         "exaurir",
-        "exaurida",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "exaurida"
       ],
       "DESCRIPTION": "Removida até o fim do combate."
     },
     "INNATE": {
       "NAMES": [
-        "inata",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "inata"
       ],
       "DESCRIPTION": "Comece cada combate com esta carta em sua mão."
     },
     "LOCKED": {
       "NAMES": [
-        "bloqueada",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "bloqueada"
       ],
       "DESCRIPTION": "Esta carta ainda deve ser desbloqueada."
     },
     "POISON": {
       "NAMES": [
         "veneno",
-        "envenenado",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "envenenado"
       ],
       "DESCRIPTION": "Criaturas envenenadas perdem PV no início de seus turnos. A cada turno, o Veneno é reduzido em #b1."
     },
     "RETAIN": {
       "NAMES": [
-        "manter",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "manter"
       ],
       "DESCRIPTION": "Cartas mantidas não são descartadas no fim do turno."
     },
     "SHIV": {
       "NAMES": [
         "estoque",
-        "estoques",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "estoques"
       ],
       "DESCRIPTION": "Estoques são cartas de Ataque com custo #b0 com Exaurir."
     },
     "STATUS": {
       "NAMES": [
-        "condição",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "condição"
       ],
       "DESCRIPTION": "Cartas de condição são removidas no fim do combate."
     },
     "STRENGTH": {
       "NAMES": [
-        "força",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "força"
       ],
       "DESCRIPTION": "Força adiciona dano adicional a Ataques."
     },
     "TRANSFORM": {
       "NAMES": [
-        "transformar",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "transformar"
       ],
       "DESCRIPTION": "Cartas transformadas se tornam cartas aleatórias de qualquer raridade."
     },
     "UNKNOWN": {
       "NAMES": [
-        "desconhecida",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "desconhecida"
       ],
       "DESCRIPTION": "Essa carta ainda não foi encontrada."
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "injogável",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "injogável"
       ],
       "DESCRIPTION": "Cartas injogáveis não podem ser jogadas da sua mão."
     },
     "UPGRADE": {
       "NAMES": [
         "aprimorar",
-        "aprimorada",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "aprimorada"
       ],
       "DESCRIPTION": "Aprimorar cartas as fazem mais poderosas. Cartas só podem ser aprimoradas uma vez."
     },
     "VULNERABLE": {
       "NAMES": [
-        "vulnerável",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "vulnerável"
       ],
       "DESCRIPTION": "Criaturas vulneráveis recebem #b50% a mais de dano de Ataques."
     },
@@ -185,48 +118,32 @@
         "fraqueza",
         "enfraquecer",
         "enfraquecido",
-        "enfraquece",
-        "UNUSED_RESERVE"
+        "enfraquece"
       ],
       "DESCRIPTION": "Criaturas enfraquecidas causam #b25% a menos de dano em Ataques."
     },
     "WOUND": {
       "NAMES": [
         "ferida",
-        "feridas",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "feridas"
       ],
       "DESCRIPTION": "Feridas são cartas de condição injogáveis."
     },
     "FRAIL": {
       "NAMES": [
-        "fragilizado",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "fragilizado"
       ],
       "DESCRIPTION": "Enquanto Fragilizado, ganhe #b25% menos #yProteção de cartas."
     },
     "STRIKE": {
       "NAMES": [
-        "golpe",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "golpe"
       ],
       "DESCRIPTION": "Qualquer carta que contenha \"Golpe\" em seu nome."
     },
     "CONFUSED": {
       "NAMES": [
-        "confuso",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "confuso"
       ],
       "DESCRIPTION": "Sempre que você comprar uma carta, aleatorize seu custo."
     },

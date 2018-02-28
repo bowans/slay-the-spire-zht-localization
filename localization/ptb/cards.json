@@ -13,7 +13,7 @@
     "DESCRIPTION": "Injogável. NL No fim do seu turno, perca 1 PV para cada carta em sua mão."
   },
   "Crippling Poison": {
-    "NAME": "Veneno Incapacitante",
+    "NAME": "Veneno Debilitante",
     "DESCRIPTION": "Aplique !M! de Veneno. NL Aplique !M! de Fraqueza."
   },
   "A Thousand Cuts": {
@@ -119,7 +119,7 @@
     "DESCRIPTION": "Você não pode comprar mais cartas neste turno. Reduz o custo de cartas na sua mão para 0 neste turno."
   },
   "Catalyst": {
-    "NAME": "Catalizador",
+    "NAME": "Catalisador",
     "DESCRIPTION": "Dobre o Veneno de um inimigo. NL Exaurir.",
     "UPGRADE_DESCRIPTION": "Triplique o Veneno de um inimigo. NL Exaurir."
   },
@@ -296,7 +296,7 @@
     "DESCRIPTION": "No fim do seu turno, ganhe !M! de Proteção."
   },
   "Pommel Strike": {
-    "NAME": "Golpe de Empunhadura",
+    "NAME": "Golpe de Pomo",
     "DESCRIPTION": "Cause !D! de dano. NL Compre !M! carta.",
     "UPGRADE_DESCRIPTION": "Cause !D! de dano. NL Compre !M! cartas."
   },
@@ -433,7 +433,7 @@
     ]
   },
   "Dark Embrace": {
-    "NAME": "Abraçar as Trevas",
+    "NAME": "Enlace Sombrio",
     "DESCRIPTION": "Sempre que uma carta for exaurida, NL compre 1 carta."
   },
   "Die Die Die": {
@@ -608,7 +608,7 @@
     "DESCRIPTION": "Cause !D! de dano. NL Pode ser aprimorada qualquer número de vezes."
   },
   "Corpse Explosion": {
-    "NAME": "Explosão de Corpos",
+    "NAME": "Explosão de Cadáveres",
     "DESCRIPTION": "O inimigo perde todo o Veneno. Cause dano igual a duas vezes a quantia perdidida a TODOS os inimigos.",
     "UPGRADE_DESCRIPTION": "O inimigo perde todo o Veneno. Cause dano igual a 3 vezes a quantia perdidida a TODOS os inimigos.",
     "EXTENDED_DESCRIPTION": [
@@ -769,14 +769,14 @@
   "Jack Of All Trades": {
     "NAME": "Pau Para Toda Obra",
     "DESCRIPTION": "Adicione !M! carta incolor aleatória à sua mão. NL Exaurir.",
-    "UPGRADE_DESCRIPTION": "Add !M! random colorless cards to your hand. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Adicione !M! cartas incolores aleatórias à sua mão. NL Exaurir."
   },
   "Demon Form": {
     "NAME": "Forma Demoníaca",
     "DESCRIPTION": "No início de cada turno, ganhe !M! de Força."
   },
   "Fire Breathing": {
-    "NAME": "Cuspir Fogo",
+    "NAME": "Pirofagia",
     "DESCRIPTION": "No fim do seu turno, para cada Ataque jogado neste turno cause 1 de dano a TODOS os inimigos.."
   },
   "Ghostly Armor": {

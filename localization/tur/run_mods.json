@@ -1,58 +1,70 @@
 {
   "Cursed Run": {
-    "NAME": "Cursed Run",
-    "DESCRIPTION": "Whenever you defeat a Boss, become Cursed."
+    "NAME": "Lanetlenmiş Oyun",
+    "DESCRIPTION": "Ne zaman bir Boss'u yenersen, Lanetlen."
   },
   "Growing Enemies": {
-    "NAME": "Growing Enemies",
-    "DESCRIPTION": "Enemies get stronger each turn."
+    "NAME": "Güçlenen Düşmanlar",
+    "DESCRIPTION": "Düşmanlar her geçen tur güçlenir."
   },
   "Heirloom": {
-    "NAME": "Heirloom",
-    "DESCRIPTION": "Start with 1 random relic."
+    "NAME": "Yadigar",
+    "DESCRIPTION": "Rastgele 1 Nadir kalıntı ile başla."
   },
   "Lethal Enemies": {
-    "NAME": "Lethal Enemies",
-    "DESCRIPTION": "All enemies start with +3 Strength."
+    "NAME": "Ölümcül Düşmanlar",
+    "DESCRIPTION": "Tüm düşmanlar +3 Kuvvet ile başlar."
   },
   "Night Terrors": {
-    "NAME": "Night Terrors",
-    "DESCRIPTION": "Resting at campfires heal 20% of your HP, rather than 30%."
+    "NAME": "Gece Korkusu",
+    "DESCRIPTION": "Kamp ateşlerinde dinlenmek %30 yerine, %20 iyileştirir."
   },
   "Restless Journey": {
-    "NAME": "Restless Journey",
-    "DESCRIPTION": "You no longer heal when entering new levels."
+    "NAME": "Dinlemeden Yolculuk",
+    "DESCRIPTION": "Yeni bölümlere geçerken iyileşmezsin."
   },
   "Slow Start": {
-    "NAME": "Slow Start",
-    "DESCRIPTION": "Start with 1 additional Strike and Defend."
+    "NAME": "Yavaş Başlangıç",
+    "DESCRIPTION": "Fazladan 1 Vuruş ve Savun ile başla."
   },
   "Tough Enemies": {
-    "NAME": "Tough Enemies",
-    "DESCRIPTION": "Enemies have 25% more HP."
+    "NAME": "Zorlu Düşmanlar",
+    "DESCRIPTION": "Düşmanları %25 daha fazla HP'ye sahip."
   },
   "Vintage": {
-    "NAME": "Vintage",
-    "DESCRIPTION": "The Merchant's prices are increased by 25%."
+    "NAME": "Eskiden Kalma",
+    "DESCRIPTION": "Tüccar'ın sattıkları %25 daha pahalı."
   },
   "Shiny": {
-    "NAME": "Shiny",
-    "DESCRIPTION": "Start with 1 random Rare card."
+    "NAME": "Parlak",
+    "DESCRIPTION": "Rastgele 1 Nadir Kart ile başla."
   },
   "Elite Swarm": {
-    "NAME": "Elite Swarm",
-    "DESCRIPTION": "Elite enemies are swarming the Spire."
+    "NAME": "Elit Sürüsü",
+    "DESCRIPTION": "Elitler Spiral'de sürü halinde dolaşıyorlar."
   },
   "Allstar": {
-    "NAME": "All Star",
-    "DESCRIPTION": "Start with 2 random colorless cards."
+    "NAME": "Yıldız",
+    "DESCRIPTION": "Rastgele 2 renksiz kart ile başla."
   },
   "Greed": {
-    "NAME": "Greed",
-    "DESCRIPTION": "You cannot skip combat rewards."
+    "NAME": "Açgözlü",
+    "DESCRIPTION": "Dövüş ödüllerini almadan geçemezsin."
   },
   "Diverse": {
-    "NAME": "Diverse",
-    "DESCRIPTION": "Start with 2 random cards from another class."
+    "NAME": "Çeşit Çeşit",
+    "DESCRIPTION": "Diğer sınıflardan rastgele 2 kart ile başla."
+  },
+  "Binary": {
+    "NAME": "Binary",
+    "DESCRIPTION": "Card rewards contain only 2 cards."
+  },
+  "Uncertain Future": {
+    "NAME": "Uncertain Future",
+    "DESCRIPTION": "The map shows only ?."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Enemies drop 500% more gold, but you cannot upgrade cards at Rest Sites."
   }
 }

@@ -2,231 +2,148 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "アーティファクト",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "アーティファクト"
       ],
       "DESCRIPTION": "次に付与される能力低下を打ち消す。"
     },
     "BLOCK": {
       "NAMES": [
         "ブロック",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "blocks"
       ],
       "DESCRIPTION": "次のターン開始時まで、ダメージを軽減する。"
     },
     "CURSE": {
       "NAMES": [
-        "呪い",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "呪い"
       ],
       "DESCRIPTION": "呪いはデメリットカードとして、あなたのデッキに残り続ける。"
     },
     "DEXTERITY": {
       "NAMES": [
-        "敏捷性",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "敏捷性"
       ],
       "DESCRIPTION": "敏捷性はカードから得られるブロック値を上昇させる。"
     },
     "ETHEREAL": {
       "NAMES": [
-        "エセリアル",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "エセリアル"
       ],
       "DESCRIPTION": "ターン終了時にこのカードが手札にある時、廃棄する。"
     },
     "EXHAUST": {
       "NAMES": [
         "廃棄",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "exhausted"
       ],
       "DESCRIPTION": "戦闘終了までデッキから取り除く。"
     },
     "INNATE": {
       "NAMES": [
-        "天賦",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "天賦"
       ],
       "DESCRIPTION": "手札に加えた状態で戦闘を開始する。"
     },
     "LOCKED": {
       "NAMES": [
-        "ロック中",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "ロック中"
       ],
       "DESCRIPTION": "このカードはアンロックされていない。"
     },
     "POISON": {
       "NAMES": [
         "毒",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "poisoned"
       ],
       "DESCRIPTION": "ターン開始時、毒状態の敵はダメージを受ける。 毎ターン毒は #b1 減少する。"
     },
     "RETAIN": {
       "NAMES": [
-        "保留",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "保留"
       ],
       "DESCRIPTION": "保留したカードはターン終了時に捨て札にしない。"
     },
     "SHIV": {
       "NAMES": [
         "ナイフ",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "shivs"
       ],
       "DESCRIPTION": "ナイフは #b0 コストのアタックカード。プレイ時に廃棄する。"
     },
     "STATUS": {
       "NAMES": [
-        "状態異常",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "状態異常"
       ],
       "DESCRIPTION": "状態異常カードは戦闘終了時に取り除かれる。"
     },
     "STRENGTH": {
       "NAMES": [
-        "筋力",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "筋力"
       ],
       "DESCRIPTION": "筋力はアタックプレイ時に追加のダメージを与える。"
     },
     "TRANSFORM": {
       "NAMES": [
-        "変化",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "変化"
       ],
       "DESCRIPTION": "変化したカードはすべてのレアリティのカードからランダムに選ばれる。"
     },
     "UNKNOWN": {
       "NAMES": [
-        "不明",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "不明"
       ],
       "DESCRIPTION": "このカードは未発見。"
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "使用不可",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "使用不可"
       ],
       "DESCRIPTION": "手札からプレイできない。"
     },
     "UPGRADE": {
       "NAMES": [
         "アップグレード",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "upgraded"
       ],
       "DESCRIPTION": "カードをアップグレードするとより強力になる。カードは1度までしかアップグレードできない。"
     },
     "VULNERABLE": {
       "NAMES": [
-        "弱体",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "弱体"
       ],
       "DESCRIPTION": "弱体中の敵は、アタックで受けるダメージが #b50% 増加する。"
     },
     "WEAK": {
       "NAMES": [
         "脱力",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "weaken",
+        "weakened",
+        "weakens"
       ],
       "DESCRIPTION": "脱力中の敵は、アタックで与えるダメージが #b25% 低下する。"
     },
     "WOUND": {
       "NAMES": [
         "負傷",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "wounds"
       ],
       "DESCRIPTION": "負傷はプレイ不可の状態異常カード。"
     },
     "FRAIL": {
       "NAMES": [
-        "脆弱化",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "脆弱化"
       ],
       "DESCRIPTION": "脆弱化中は、カードから得られるブロック値が #b25% 低下する。"
     },
     "STRIKE": {
       "NAMES": [
-        "ストライク",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "ストライク"
       ],
       "DESCRIPTION": " \"ストライク\" が名前に入ったカード。"
     },
     "CONFUSED": {
       "NAMES": [
-        "混乱",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "混乱"
       ],
       "DESCRIPTION": "カードを引くたびに、そのコストはランダムに変化する。"
     },

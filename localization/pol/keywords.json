@@ -3,10 +3,7 @@
     "ARTIFACT": {
       "NAMES": [
         "relikt",
-        "relikty",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "relikty"
       ],
       "DESCRIPTION": "Neutralizuje negatywny efekt."
     },
@@ -14,29 +11,21 @@
       "NAMES": [
         "blok",
         "bloku",
-        "blokuje",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "blokuje"
       ],
       "DESCRIPTION": "Pochłania otrzymywane obrażenia."
     },
     "CURSE": {
       "NAMES": [
         "klątwa",
-        "klątwy",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "klątwy"
       ],
       "DESCRIPTION": "Klątwy to negatywne karty będące na stałe w twojej talii."
     },
     "DEXTERITY": {
       "NAMES": [
         "zręczność",
-        "zręczności",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "zręczności"
       ],
       "DESCRIPTION": "Zręczność wpływa na ilość otrzymywanych punktów Bloku (z kart)."
     },
@@ -44,9 +33,7 @@
       "NAMES": [
         "eteryczność",
         "eteryczne",
-        "eteryczna",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "eteryczna"
       ],
       "DESCRIPTION": "Jeśli ta karta będzie w twojej ręce pod koniec tury, zostanie wykluczona. Wykluczone karty są usuwane z talii do końca walki."
     },
@@ -55,48 +42,33 @@
         "wykluczenie",
         "wyklucz",
         "wykluczona",
-        "wykluczone",
-        "UNUSED_RESERVE"
+        "wykluczone"
       ],
       "DESCRIPTION": "Karta jest usuwana z talii do końca walki."
     },
     "INNATE": {
       "NAMES": [
-        "startowa",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "startowa"
       ],
       "DESCRIPTION": "Zaczniesz walkę z tą kartą w ręce."
     },
     "LOCKED": {
       "NAMES": [
-        "zablokowana",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "zablokowana"
       ],
       "DESCRIPTION": "Karta musi zostać wcześniej odblokowana."
     },
     "POISON": {
       "NAMES": [
         "trucizna",
-        "trucizny",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "trucizny"
       ],
       "DESCRIPTION": "Zatrute istoty tracą PŻ na początku ich tury. Co turę wartość Trucizny zmniejsza się o #b1."
     },
     "RETAIN": {
       "NAMES": [
         "zachowanie",
-        "zachowaj",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "zachowaj"
       ],
       "DESCRIPTION": "Zachowane karty nie zostają odrzucone pod koniec tury."
     },
@@ -104,59 +76,40 @@
       "NAMES": [
         "nóż",
         "noże",
-        "noży",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "noży"
       ],
       "DESCRIPTION": "Nóż to karta Ataku kosztująca #b0 i wykluczana po zagraniu."
     },
     "STATUS": {
       "NAMES": [
         "stan",
-        "stanu",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "stanu"
       ],
       "DESCRIPTION": "Karty Stanu są usuwane z talii po zakończeniu walki."
     },
     "STRENGTH": {
       "NAMES": [
         "siła",
-        "siły",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "siły"
       ],
       "DESCRIPTION": "Siła zwiększa obrażenia zadawane kartami Ataku."
     },
     "TRANSFORM": {
       "NAMES": [
         "podmień",
-        "podmienione",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "podmienione"
       ],
       "DESCRIPTION": "Podmieniona karta staje się kartą o losowej rzadkości."
     },
     "UNKNOWN": {
       "NAMES": [
-        "nieznane",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "nieznane"
       ],
       "DESCRIPTION": "Tę kartę należy wcześniej odkryć."
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "niezagrywalna",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "niezagrywalna"
       ],
       "DESCRIPTION": "Niezagrywalne karty są, no... niezagrywalne."
     },
@@ -165,18 +118,14 @@
         "ulepszenie",
         "ulepsz",
         "ulepsza",
-        "ulepszy",
-        "UNUSED_RESERVE"
+        "ulepszy"
       ],
       "DESCRIPTION": "Ulepszanie kart sprawia, że stają się potężniejsze. Karty można ulepszyć tylko raz."
     },
     "VULNERABLE": {
       "NAMES": [
         "wrażliwość",
-        "wrażliwości",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "wrażliwości"
       ],
       "DESCRIPTION": "Wrażliwe istoty otrzymują #b50% więcej obrażeń od Ataków."
     },
@@ -184,9 +133,8 @@
       "NAMES": [
         "słabość",
         "słabości",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "weakened",
+        "weakens"
       ],
       "DESCRIPTION": "Osłabione istoty zadają #b25% mniej obrażeń Atakami."
     },
@@ -194,29 +142,20 @@
       "NAMES": [
         "rana",
         "rany",
-        "ran",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "ran"
       ],
       "DESCRIPTION": "Rany to niegrywalne karty Stanu."
     },
     "FRAIL": {
       "NAMES": [
         "kruchość",
-        "kruchości",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "kruchości"
       ],
       "DESCRIPTION": "Kruchość zmniejsza otrzymywane z kart pkt. #yBloku o #b25%."
     },
     "STRIKE": {
       "NAMES": [
-        "uderzenie",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "uderzenie"
       ],
       "DESCRIPTION": "Dowolna karta z „uderzenie” w nazwie."
     },
@@ -224,9 +163,7 @@
       "NAMES": [
         "dezorientacja",
         "dezorientacji",
-        "dezorientacją",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "dezorientacją"
       ],
       "DESCRIPTION": "Koszt każdej dobranej karty jest losowy."
     },
