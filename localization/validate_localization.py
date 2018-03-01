@@ -7,9 +7,6 @@ from itertools import chain
 # a list of files to be ignored.
 ignored_files = []
 
-# a list of files for which array size mismatches will be ignored.
-ignored_files_array_size = ["keywords.json"]
-
 if sys.version_info.major < (3):
     raise Exception("must use python 3")
 else:
@@ -101,9 +98,12 @@ if __name__ == "__main__":
     other_jsons = [get_json_files(x) for x in lang_packs]
     compare_against_eng = partial(compare_lang_pack, eng_json)
     errors = flatten(map(compare_against_eng, other_jsons))
-    # Filter out errors in file ignore list
-    errors = [x for x in errors if os.path.basename(x[0]) not in ignored_files]
-    errors = [x for x in errors if not (os.path.basename(x[0]) in ignored_files_array_size and isinstance(x[1], ArraySizeMismatch))]
+
+    # Filter out errors in file ignore list. The more complicated rules are hardcoded to save time.
+    errors = [e for e in errors if not (os.path.basename(e[0]) in ignored_files)]
+    errors = [e for e in errors if not (os.path.basename(e[0]) in "keywords.json" and isinstance(e[1], ArraySizeMismatch))]
+    errors = [e for e in errors if not (os.path.basename(e[0]) == "cards.json" and isinstance(e[1], UnsharedDictKeys) and 'UPGRADE_DESCRIPTION' in str(e[1]))]
+
     if len(errors) == 0:
         print("SUCCESS. No errors found.")
         sys.exit(0)

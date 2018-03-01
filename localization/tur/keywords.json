@@ -3,180 +3,117 @@
     "ARTIFACT": {
       "NAMES": [
         "dokunulmaz",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "dokunulmazlık"
       ],
       "DESCRIPTION": "Sıradaki debuff etki etmez."
     },
     "BLOCK": {
       "NAMES": [
         "blok",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "blocks"
       ],
       "DESCRIPTION": "Sıradaki tura kadar, hasardan korur."
     },
     "CURSE": {
       "NAMES": [
         "lanet",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "lanetlenmiş"
       ],
       "DESCRIPTION": "Lanet kartları destende kalan negatif etkili kartlardır."
     },
     "DEXTERITY": {
       "NAMES": [
-        "beceri",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "beceri"
       ],
       "DESCRIPTION": "Beceri kartlardan kazanılan blok'u arttırır."
     },
     "ETHEREAL": {
       "NAMES": [
-        "ruhani",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "ruhani"
       ],
       "DESCRIPTION": "Eğer bu kart turun sonunda elinde kalırsa, tükenir. Tükenmiş kartlar dövüşün sonuna kadar elinden silinir."
     },
     "EXHAUST": {
       "NAMES": [
         "tüken",
-        "tüketildi",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "tüketildi"
       ],
       "DESCRIPTION": "Dövüşün sonuna kadar silinir."
     },
     "INNATE": {
       "NAMES": [
-        "ilk el",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "ilk el"
       ],
       "DESCRIPTION": "Her dövüşe elinizde bu kartla başlarsınız."
     },
     "LOCKED": {
       "NAMES": [
-        "kilitli",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "kilitli"
       ],
       "DESCRIPTION": "Bu kart daha açılmadı."
     },
     "POISON": {
       "NAMES": [
         "zehir",
-        "zehirlendi",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "zehirlendi"
       ],
       "DESCRIPTION": "Zehirlenmiş yaratıklar turları başlamadan önce HP kaybederler. Her tur Zehir #b1 azalır."
     },
     "RETAIN": {
       "NAMES": [
-        "elinde tut",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "elinde tut"
       ],
       "DESCRIPTION": "Elde tutulan kartlar tur sonunda atılmazlar."
     },
     "SHIV": {
       "NAMES": [
         "sustalı",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "shivs"
       ],
       "DESCRIPTION": "Sustalılar #b0 enerjisi olan ve kullanıldıktan sonra tükenen kartlardır."
     },
     "STATUS": {
       "NAMES": [
-        "durum",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "durum"
       ],
       "DESCRIPTION": "Durum kartları dövüş sonunda silinirler."
     },
     "STRENGTH": {
       "NAMES": [
-        "kuvvet",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "kuvvet"
       ],
       "DESCRIPTION": "Kuvvet ataklara ek hasar ekler."
     },
     "TRANSFORM": {
       "NAMES": [
-        "dönüştür",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "dönüştür"
       ],
       "DESCRIPTION": "Dönüştürülen kartlar herhangi bir nadirlikte rastgele kartlara dönüşürler."
     },
     "UNKNOWN": {
       "NAMES": [
-        "bilinmiyor",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "bilinmiyor"
       ],
       "DESCRIPTION": "Bu kartla henüz karşılaşılmadı."
     },
     "UNPLAYABLE": {
       "NAMES": [
         "oynanamaz",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "oynanmaz"
       ],
       "DESCRIPTION": "Oynanamaz kartlar elinizde kalır, oynanmazlar."
     },
     "UPGRADE": {
       "NAMES": [
         "geliştir",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "upgraded"
       ],
       "DESCRIPTION": "Kartları geliştirmek onları daha güçlü yapar, kartlar yalnızca bir kez geliştirilebilir."
     },
     "VULNERABLE": {
       "NAMES": [
         "yarala",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "yaralan"
       ],
       "DESCRIPTION": "Yaralanmış yaratıklar ataklardan #b%50 daha fazla hasar alırlar."
     },
@@ -185,48 +122,33 @@
         "zayıf",
         "zayıflaştır",
         "zayıflat",
-        "zayıflaştırma",
-        "UNUSED_RESERVE"
+        "zayıflaştırma"
       ],
       "DESCRIPTION": "Zayıflaştırılmış yaratıklar #b%25 daha az hasar verirler."
     },
     "WOUND": {
       "NAMES": [
         "yara",
-        "yaralar",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "yaralar"
       ],
       "DESCRIPTION": "Yaralar oynanamaz durum kartlarıdır."
     },
     "FRAIL": {
       "NAMES": [
-        "kırılgan",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "kırılgan"
       ],
       "DESCRIPTION": "Kırılganken, kartlardan #b%25 daha az #yBlok kazanırsınız."
     },
     "STRIKE": {
       "NAMES": [
-        "vuruş",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "vuruş"
       ],
       "DESCRIPTION": "Adında \"Vuruş\" içeren her kart."
     },
     "CONFUSED": {
       "NAMES": [
         "kafası karışık",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "kafası karışmış"
       ],
       "DESCRIPTION": "Ne zaman kart çekersen enerjisini rastgele belirler."
     },
