@@ -12,31 +12,31 @@
     "DESCRIPTION": "Vous ne pouvez pas passer les récompenses."
   },
   "Growing Enemies": {
-    "NAME": "Ennemis Grandissants",
+    "NAME": "Ennemis grandissants",
     "DESCRIPTION": "Les ennemis deviennent plus forts à chaque tour."
   },
   "Heirloom": {
     "NAME": "Héritage",
-    "DESCRIPTION": "Commencez avec une relique aléatoire."
+    "DESCRIPTION": "Commencez avec une relique rare aléatoire."
   },
   "Lethal Enemies": {
-    "NAME": "Ennemis Mortels",
+    "NAME": "Ennemis mortels",
     "DESCRIPTION": "Tous les ennemis commencent avec +3 de Force."
   },
   "Night Terrors": {
-    "NAME": "Terreurs Nocturnes",
+    "NAME": "Terreurs nocturnes",
     "DESCRIPTION": "Se reposer aux feux de camps soigne 20% de vos PV max, au lieu de 30%."
   },
   "Restless Journey": {
-    "NAME": "Voyage Épuisant",
+    "NAME": "Voyage épuisant",
     "DESCRIPTION": "Vous ne vous soignez plus quand vous entrez dans un nouveau niveau."
   },
   "Slow Start": {
-    "NAME": "Départ Tardif",
+    "NAME": "Départ tardif",
     "DESCRIPTION": "Commencez avec une carte Frappe et une carte Défense en plus."
   },
   "Tough Enemies": {
-    "NAME": "Ennemis Coriaces",
+    "NAME": "Ennemis coriaces",
     "DESCRIPTION": "Les ennemis ont 25% de PV en plus."
   },
   "Diverse": {
@@ -49,22 +49,22 @@
   },
   "Allstar": {
     "NAME": "All Star",
-    "DESCRIPTION": "Commencez avec 2 cartes incolore."
+    "DESCRIPTION": "Commencez avec 2 cartes incolores."
   },
   "Vintage": {
     "NAME": "Vintage",
     "DESCRIPTION": "Les prix du Marchand sont augmentés de 25%."
   },
-  "Binary": {
-    "NAME": "Binary",
-    "DESCRIPTION": "Card rewards contain only 2 cards."
-  },
   "Uncertain Future": {
-    "NAME": "Uncertain Future",
-    "DESCRIPTION": "The map shows only ?."
+    "NAME": "Futur incertain",
+    "DESCRIPTION": "La carte n'affiche que des ?."
+  },
+  "Binary": {
+    "NAME": "Binaire",
+    "DESCRIPTION": "Vous ne choisisez qu'entre 2 cartes, au lieu de 3."
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+    "DESCRIPTION": "Les ennemis donnent 200% d'or en plus, mais vous ne pouvez plus améliorer de cartes aux feux de camps."
   }
 }

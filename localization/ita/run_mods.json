@@ -3,7 +3,7 @@
     "NAME": "Partita Maledetta",
     "DESCRIPTION": "Quando sconfiggi un Boss vieni Maledetto."
   },
-  "Elite Swarm": {
+  "Elite Swarms": {
     "NAME": "Sciame di Elite",
     "DESCRIPTION": "La Guglia brulica di Elite."
   },
@@ -17,7 +17,7 @@
   },
   "Heirloom": {
     "NAME": "Eredità",
-    "DESCRIPTION": "Cominci con una reliquia casuale."
+    "DESCRIPTION": "Cominci con una reliquia Rara."
   },
   "Lethal Enemies": {
     "NAME": "Nemici Mortali",
@@ -40,7 +40,7 @@
     "DESCRIPTION": "I nemici hanno il 25% di PV in più."
   },
   "Shiny": {
-    "NAME": "Sbrillucicante",
+    "NAME": "Luccichio",
     "DESCRIPTION": "Cominci con 1 carta Rara casuale."
   },
   "Allstar": {
@@ -51,20 +51,24 @@
     "NAME": "Differente",
     "DESCRIPTION": "Cominci con 2 carte di un altra classe."
   },
+  "Uncertain Future": {
+    "NAME": "Futuro Incerto",
+    "DESCRIPTION": "La mappa mostra soltanto ?."
+  },
+  "Binary": {
+    "NAME": "Binario",
+    "DESCRIPTION": "Quando ottieni una carta, scegli fra 2 invece che 3."
+  },
+  "Midas": {
+    "NAME": "Re Mida",
+    "DESCRIPTION": "I nemici garantiscono il #b200% #yd'Oro in più ma non puoi più Potenziare le carte ai Falò."
+  },
   "Vintage": {
     "NAME": "Vintage",
     "DESCRIPTION": "I prezzi del mercante sono aumentati del 25%."
   },
-  "Binary": {
-    "NAME": "Binary",
-    "DESCRIPTION": "Card rewards contain only 2 cards."
-  },
-  "Uncertain Future": {
-    "NAME": "Uncertain Future",
-    "DESCRIPTION": "The map shows only ?."
-  },
-  "Midas": {
-    "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+  "Elite Swarm": {
+    "NAME": "Elite Swarm",
+    "DESCRIPTION": "Elite enemies are swarming the Spire."
   }
 }

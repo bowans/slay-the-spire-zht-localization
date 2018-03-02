@@ -9,40 +9,25 @@
     "BLOCK": {
       "NAMES": [
         "armure",
-        "bloque",
-        "",
-        "",
-        ""
+        "bloque"
       ],
       "DESCRIPTION": "Bloque les dégâts jusqu'au prochain tour."
     },
     "CURSE": {
       "NAMES": [
-        "malédiction",
-        "",
-        "",
-        "",
-        ""
+        "malédiction"
       ],
       "DESCRIPTION": "Les cartes malédiction sont des cartes négatives qui restent dans votre deck."
     },
     "DEXTERITY": {
       "NAMES": [
-        "dextérité",
-        "",
-        "",
-        "",
-        ""
+        "dextérité"
       ],
       "DESCRIPTION": "La dextérité augmente l'armure apportée par les cartes."
     },
     "ETHEREAL": {
       "NAMES": [
-        "éthérée",
-        "",
-        "",
-        "",
-        ""
+        "éthérée"
       ],
       "DESCRIPTION": "Si cette carte est dans votre main à la fin de votre tour, elle est épuisée. Les cartes épuisées sont enlevées de votre deck jusqu'à la fin du combat."
     },
@@ -51,128 +36,85 @@
         "épuisement",
         "épuisé",
         "épuisée",
-        "épuisez",
-        ""
+        "épuisez"
       ],
       "DESCRIPTION": "Écarté jusqu'à la fin du combat."
     },
     "INNATE": {
       "NAMES": [
-        "inné",
-        "",
-        "",
-        "",
-        ""
+        "inné"
       ],
       "DESCRIPTION": "Commencez chaque combat avec cette carte dans votre main."
     },
     "LOCKED": {
       "NAMES": [
-        "verrouillé",
-        "",
-        "",
-        "",
-        ""
+        "verrouillé"
       ],
       "DESCRIPTION": "Cette carte doit encore être déverrouillée."
     },
     "POISON": {
       "NAMES": [
         "poison",
-        "empoisonné",
-        "",
-        "",
-        ""
+        "empoisonné"
       ],
       "DESCRIPTION": "Les créatures empoisonnées perdent des PV au début de leur tour. Chaque tour, le Poison diminue de #b1."
     },
     "RETAIN": {
       "NAMES": [
         "conserver",
-        "conservez",
-        "",
-        "",
-        ""
+        "conservez"
       ],
       "DESCRIPTION": "Les cartes conservées ne sont pas défaussées à la fin du tour."
     },
     "SHIV": {
       "NAMES": [
         "surin",
-        "surins",
-        "",
-        "",
-        ""
+        "surins"
       ],
       "DESCRIPTION": "Les Surins sont des cartes d'attaque qui coûtent #b0 et s'épuisent."
     },
     "STATUS": {
       "NAMES": [
-        "statut",
-        "",
-        "",
-        "",
-        ""
+        "statut"
       ],
       "DESCRIPTION": "Les cartes de statut sont enlevées à la fin du combat."
     },
     "STRENGTH": {
       "NAMES": [
-        "force",
-        "",
-        "",
-        "",
-        ""
+        "force"
       ],
       "DESCRIPTION": "La force ajoute des dégâts supplémentaires aux attaques."
     },
     "TRANSFORM": {
       "NAMES": [
         "transforme",
-        "transformez",
-        "",
-        "",
-        ""
+        "transformez"
       ],
       "DESCRIPTION": "Les cartes transformées sont changées en de nouvelles cartes aléatoires de n'importe quelle rareté."
     },
     "UNKNOWN": {
       "NAMES": [
-        "inconnu",
-        "",
-        "",
-        "",
-        ""
+        "inconnu"
       ],
       "DESCRIPTION": "Cette carte n'a pas encore été découverte."
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "injouable",
-        "",
-        "",
-        "",
-        ""
+        "injouable"
       ],
       "DESCRIPTION": "Les cartes non jouables ne peuvent pas être jouées depuis votre main."
     },
     "UPGRADE": {
       "NAMES": [
         "amélioration",
-        "améliorez",
-        "",
-        "",
-        ""
+        "améliorez"
       ],
       "DESCRIPTION": "Améliorer une carte la rend plus puissante. Une carte ne peut être améliorée qu'une fois."
     },
     "VULNERABLE": {
       "NAMES": [
         "vulnérabilité",
-        "vulnérable",
-        "",
-        "",
-        ""
+        "vulnérable"
       ],
       "DESCRIPTION": "Les créatures vulnérables subissent #b50 #b% de dégâts supplémentaires."
     },
@@ -181,48 +123,32 @@
         "faiblesse",
         "affaiblir",
         "affaibli",
-        "affaiblit",
-        ""
+        "affaiblit"
       ],
       "DESCRIPTION": "Les attaques d'une créature affaiblie inflige #b25 #b% de dégâts en moins."
     },
     "WOUND": {
       "NAMES": [
         "plaie",
-        "plaies",
-        "",
-        "",
-        ""
+        "plaies"
       ],
       "DESCRIPTION": "Les plaies sont des cartes statut injouables."
     },
     "FRAIL": {
       "NAMES": [
-        "fragilité",
-        "",
-        "",
-        "",
-        ""
+        "fragilité"
       ],
       "DESCRIPTION": "Les créatures fragilisées reçoivent #b25 #b% d'armure en moins."
     },
     "STRIKE": {
       "NAMES": [
-        "frappe",
-        "",
-        "",
-        "",
-        ""
+        "frappe"
       ],
       "DESCRIPTION": "Toute carte dont le nom contient le mot \"frappe\"."
     },
     "CONFUSED": {
       "NAMES": [
-        "confus",
-        "",
-        "",
-        "",
-        ""
+        "confus"
       ],
       "DESCRIPTION": "Quand vous piochez une carte, son coût est rendu aléatoire."
     },

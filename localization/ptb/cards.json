@@ -21,7 +21,7 @@
     "DESCRIPTION": "Sempre que você jogar uma carta, cause !M! de dano a TODOS os inimigos."
   },
   "Spot Weakness": {
-    "NAME": "Encontrar Ponto Fraco",
+    "NAME": "Encontrar Fraqueza",
     "DESCRIPTION": "Se um inimigo tem a intenção de atacar, ganhe !M! de Força."
   },
   "Wound": {
@@ -34,7 +34,7 @@
   },
   "Dark Shackles": {
     "NAME": "Grilhões Sombrios",
-    "DESCRIPTION": "O inimigo perde !M! de Força pelo reto deste turno. NL Exaurir."
+    "DESCRIPTION": "O inimigo perde !M! de Força pelo resto deste turno. NL Exaurir."
   },
   "Glass Knife": {
     "NAME": "Faca Vítrea",
@@ -94,7 +94,7 @@
     "DESCRIPTION": "Adicione 2 Feridas à sua mão. NL Ganhe !B! de Proteção."
   },
   "Dual Wield": {
-    "NAME": "Empunhadura Dupla",
+    "NAME": "Manejar Duplo",
     "DESCRIPTION": "Crie uma cópia de uma carta de Ataque ou Poder na sua mão.",
     "UPGRADE_DESCRIPTION": "Crie duas cópias de uma carta de Ataque ou Poder na sua mão."
   },
@@ -167,7 +167,7 @@
   "Trip": {
     "NAME": "Tropeço",
     "DESCRIPTION": "Aplique !M! de Vulnerabilidade.",
-    "UPGRADE_DESCRIPTION": "Aplique !M! de Vulnerabilidade em TODOS os inimigos."
+    "UPGRADE_DESCRIPTION": "Aplique !M! de Vulnerabilidade a TODOS os inimigos."
   },
   "Dagger Throw": {
     "NAME": "Arremessar Adaga",
@@ -777,10 +777,10 @@
   },
   "Fire Breathing": {
     "NAME": "Pirofagia",
-    "DESCRIPTION": "No fim do seu turno, para cada Ataque jogado neste turno cause 1 de dano a TODOS os inimigos.."
+    "DESCRIPTION": "No fim do seu turno, para cada Ataque jogado neste turno cause 1 de dano a TODOS os inimigos."
   },
   "Ghostly Armor": {
-    "NAME": "Armadura Fantasmagórica",
+    "NAME": "Armadura Fantasma",
     "DESCRIPTION": "Etérea. NL Ganhe !B! de Proteção."
   },
   "Uppercut": {

@@ -86,6 +86,14 @@
       "Pila de Extracción"
     ]
   },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Haz click para ver cartas Agotadas en este combate."
+    ],
+    "LABEL": [
+      "Cartas Agotadas"
+    ]
+  },
   "Options Tip": {
     "TEXT": [
       "Datos de juego y registros de errores son enviados a Mega Crit con elproposito de balancear el juego. NL NL Información de identificación personal NO se colecciona.",
@@ -153,9 +161,9 @@
       "Mira el mapa del calabozo actual.",
       "Si pierdes todo tus PV, mueres.",
       "Muestra cuánto oro llevas. Oro es la moneda dentro de la Torre.",
-      "Se obtiene cada vez que derrotas un #yJefe. NL ¿Para que podria ser...?",
-      "Se obtiene cada vez que derrotas un #yJefe. NL Alimenta estas a #yNeow para desbloquear objetos y recibir bonificaciones para nuevas partidas.",
-      "Elapsed time for this run."
+      "",
+      "",
+      "Tiempo transcurrido en esta partida-"
     ],
     "LABEL": [
       "Ajustes",
@@ -163,7 +171,7 @@
       "Mapa",
       "Puntos de Vida (PV)",
       "Monedero",
-      "Run Timer"
+      "Temporizador de Partida"
     ]
   },
   "Random Tips": {
@@ -206,14 +214,6 @@
     ],
     "LABEL": [
       "Puedes descartar pociones para hacer espacio para otras nuevas."
-    ]
-  },
-  "Exhaust Tip": {
-    "TEXT": [
-      "Click to view cards Exhausted this combat."
-    ],
-    "LABEL": [
-      "Exhausted Cards"
     ]
   }
 }

@@ -806,7 +806,7 @@
     "NAME": "Sozu",
     "FLAVOR": "Te das cuenta que los líquidos mágicos parecen perder sus propiedades cuando en proximidad a esta reliquia.",
     "DESCRIPTIONS": [
-      " Ya no puedes usar pociones. ",
+      " Ya no puedes obtener pociones. ",
       "Gana [R] al comienzo de cada turno.",
       "Gana [G] al comienzo de cada turno.",
       "Gana [B] al comienzo de cada turno."
@@ -854,7 +854,7 @@
   },
   "War Paint": {
     "NAME": "Pintura de Guerra",
-    "FLAVOR": "Le falta descripción.",
+    "FLAVOR": "En el pasado, los Blindados creaban runas usando pintura de guerra antes de lanzarse a una batalla",
     "DESCRIPTIONS": [
       "Al recoger, #yMejora #b",
       " #yHabilidades al azar."
@@ -862,7 +862,7 @@
   },
   "Darkstone Periapt": {
     "NAME": "Amuleto de Darkstone",
-    "FLAVOR": "Le falta descripción.",
+    "FLAVOR": "La piedra obtiene poder de energía oscura, convirtiendola en vitalidad para el que la usa.",
     "DESCRIPTIONS": [
       "Cada vez que obtengas una #yMaldición, incrementa tus PV Máximos por #b"
     ]
@@ -974,7 +974,7 @@
     "DESCRIPTIONS": [
       "Obtén #b1 poción. NL Gana #b",
       " de #yOro. NL Aumenta tus PV Máximos por #b",
-      ". NL Obtén #b1 carta.",
+      ". NL Obtén #b1 carta. NL Mejora #b1 carta al azar",
       "¡Casa Diminuta!"
     ]
   },

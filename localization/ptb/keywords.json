@@ -33,8 +33,9 @@
     },
     "EXHAUST": {
       "NAMES": [
+        "exaurida",
         "exaurir",
-        "exaurida"
+        "exaura"
       ],
       "DESCRIPTION": "Removida até o fim do combate."
     },
@@ -103,18 +104,21 @@
     "UPGRADE": {
       "NAMES": [
         "aprimorar",
-        "aprimorada"
+        "aprimorada",
+        "aprimore"
       ],
       "DESCRIPTION": "Aprimorar cartas as fazem mais poderosas. Cartas só podem ser aprimoradas uma vez."
     },
     "VULNERABLE": {
       "NAMES": [
-        "vulnerável"
+        "vulnerável",
+        "vulnerabilidade"
       ],
       "DESCRIPTION": "Criaturas vulneráveis recebem #b50% a mais de dano de Ataques."
     },
     "WEAK": {
       "NAMES": [
+        "fraco",
         "fraqueza",
         "enfraquecer",
         "enfraquecido",

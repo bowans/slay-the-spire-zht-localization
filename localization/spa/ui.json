@@ -53,11 +53,11 @@
       "Victorias y Derrotas",
       "Victorias",
       "Derrotas",
-      "Daily",
-      "Any Game Type",
-      "Only Normal",
-      "Only Ascension",
-      "Only Daily Challenge"
+      "Diario",
+      "Cualquier Tipo de Juego",
+      "Solo Normal",
+      "Solo Ascención",
+      "Solo Reto Diario"
     ]
   },
   "LeaderboardsScreen": {
@@ -109,12 +109,12 @@
       "Hebreo",
       "Turco",
       "Sueco",
-      "Norwegian",
-      "Thai",
-      "Serbian",
-      "Ukrainian",
-      "Vietnamese",
-      "Hungarian"
+      "Noruego",
+      "Tailandes",
+      "Serbio",
+      "Ucraniano",
+      "Vietnamita",
+      "Hungaro"
     ]
   },
   "Proceed Button": {
@@ -529,6 +529,11 @@
       "Escoge una"
     ]
   },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTA AHORA: "
+    ]
+  },
   "CardRewardScreen": {
     "TEXT": [
       "Omitir",
@@ -607,6 +612,24 @@
       "Modo de Arte de Pruebas"
     ]
   },
+  "DailyScreen": {
+    "TEXT": [
+      "Reto Diario",
+      "Conectandote al Servidor de Tiempo...",
+      "#yNOTA: Ya haz completado el reto de hoy. NL No se suben puntuaciones de intentos repetidos.",
+      "Regresar",
+      "Embarcarse",
+      "Personaje de hoy: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Tiempo Restante: ",
+      "#yPiso #yAlcanzado: NL  ",
+      " NL NL  #yMazo: NL ",
+      " NL NL  #yReliquias: NL  ",
+      " NL Reto de Hoy: NL #yClase: NL ",
+      " NL #yMods: ",
+      "Modificadores: "
+    ]
+  },
   "SettingsScreen": {
     "TEXT": [
       "¿Estas seguro/a?",
@@ -655,21 +678,21 @@
   },
   "MenuButton": {
     "TEXT": [
-      "Biblioteca de Cartas",
+      "",
       "Jugar",
-      "Desafio Diario",
-      "Colección de Reliquias",
+      "",
+      "",
       "Continuar",
-      "Clasificación",
+      "",
       "Estadísticas",
-      "Créditos",
+      "",
       "Salir",
       "Notas del Parche",
       "Abandonar Partida",
-      "Abandonar Partida (haz click otra vez para confirmar)",
+      "",
       "Opciones",
-      "Historia de Partidas",
-      "Compendium"
+      "",
+      "Compendio"
     ]
   },
   "CreditsScreen": {
@@ -917,70 +940,47 @@
       "El Más Allá"
     ]
   },
-  "TwitchVoter": {
-    "TEXT": [
-      "VOTE NOW: "
-    ]
-  },
-  "DailyScreen": {
-    "TEXT": [
-      "Daily Challenge",
-      "Connecting to Time Server...",
-      "You have done today's challenge",
-      "Return",
-      "Embark",
-      "Today's character: ",
-      "dd/MM/yyyy HH:mm:ss",
-      "Time Left: ",
-      "#yFloor #yReached: NL  ",
-      " NL NL  #yDeck: NL ",
-      " NL NL  #yRelics: NL  ",
-      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
-      " NL TAB #yMods: ",
-      "Modifiers: "
-    ]
-  },
   "MenuPanels": {
     "TEXT": [
       "Standard",
       "",
-      "Embark on a quest to Slay the Spire.",
-      "Daily Climb",
+      "Embarcate en una misión para Vencer a la Torre.",
+      "Ascenso Diario",
       "",
-      "A new challenge is availble once a day.\n\nCompete with other players for the highest score!",
-      "Ascension",
+      "Un nuevo reto esta disponible una vez al día.\n\n¡Compite con otros jugadores por el puntaje más alto!",
+      "Ascención",
       "",
-      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
-      "Card Library",
+      "La torre se vuelve mas poderosa con cada victoria.\n\nPrueba los limites de tus mejores estrategias.",
+      "Biblioteca de Cartas",
       "",
-      "View all of the cards you have encountered throughout the Spire.",
-      "Relic Collection",
+      "Ve todas las cartas que has encontrado en la Torre.",
+      "Colección de Reliquias",
       "",
-      "Examine the various trinkets and artifacts obtained throughout your runs.",
-      "Bestiary",
+      "Examina los varios artefactos que has obtenido en tus partidas.",
+      "Bestiario",
       "",
-      "This feature is not yet available.",
-      "Character Stats",
+      "Esta opción no esta disponble por el momento.",
+      "Estadísticas de Personajes",
       "",
-      "The progress and statistics for each character can be seen here.",
-      "Leaderboards",
+      "El progreso y estadísticas de cada personaje se encuentran aquí.",
+      "Puntajes",
       "",
-      "View and compare your score with friends and other players.",
-      "Run History",
+      "Ve y compara tus puntuaciones con tus amigos y otros jugadores.",
+      "Historia de Partidas",
       "",
-      "Revisit your past attempts at slaying the Spire.",
-      "Game Settings",
+      "Revisita tus intentos pasados de vencer a la Torre.",
+      "Opciones de Juego",
       "",
-      "Change your resolution and toggle various options on/off.",
-      "Input Settings",
+      "Cambia tu resolución y activa/desactiva varias opciones.",
+      "Opciones de Control",
       "",
-      "This feature is not yet available.",
-      "Credits",
+      "Esta opción no esta disponble por el momento.",
+      "Creditos",
       "",
-      "See all of the people who contributed on Slay the Spire!",
-      "Unknown",
+      "¡Ve a todas las personas que contribuyeron en Slay the Spire!",
+      "Desconocido",
       "",
-      "This feature is not yet available."
+      "Esta opción no esta disponble por el momento."
     ]
   }
 }

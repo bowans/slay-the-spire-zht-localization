@@ -93,7 +93,7 @@
   "LOC_KOR": {
     "HEADER": "Traducción Koreano",
     "NAMES": [
-      "Translation Manager:",
+      "Administrador de Traducción:",
       "Eteriny",
       "Translation:",
       "Simcoding",
@@ -101,27 +101,44 @@
       "insight",
       "K4lium",
       "hina",
-      "Steam Page Translation:",
+      "Traducción de Página en Steam:",
       "GyeRyak"
+    ]
+  },
+  "LOC_NOR": {
+    "HEADER": "Norsk Oversettelse",
+    "NAMES": [
+      "Eystein Jarp"
     ]
   },
   "LOC_POL": {
     "HEADER": "Traducción Polaco",
     "NAMES": [
-      "Translation and Coordination:",
+      "Traducción y Coordinación:",
       "Stanis³aw \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
-      "Additional Translations:",
+      "Traducciones Adicionales:",
       "Adrian \"xeros\" Rolka",
       "Proofreading:",
       "Oskar \"volf3n\" Nowak",
-      "Suggestions and Feedback:",
+      "Sugerencias y Retroalimentación:",
       "Kasper \"Awokado\" Beræ",
       "Pawe³ \"BASTIL\" Kaleta",
       "Grzegorz \"GregPL\" Bogus³awski",
       "Erwin \"mateusz3010\" Matys",
       "Mettie",
       "Rafa³ \"SponTon83\" Szyszko"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "Localização - Português do Brasil",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
     ]
   },
   "LOC_RUS": {
@@ -202,22 +219,5 @@
   "THANKS_MSG": {
     "HEADER": "...!y gracias a TI por jugar!",
     "NAMES": []
-  },
-  "LOC_PTB": {
-    "HEADER": "Localização - Português do Brasil",
-    "NAMES": [
-      "Guilherme \"GPerego\" Perego",
-      "Gustavo \"KomKlave\" Duarte",
-      "José \"Maneimax\" Vasconcelos",
-      "Leonardo \"Iikat\" Takii",
-      "Nathan \"NoxShadow\" Cervieri",
-      "Paulo \"SilverTape\" Hauck"
-    ]
-  },
-  "LOC_NOR": {
-    "HEADER": "Norsk Oversettelse",
-    "NAMES": [
-      "Eystein Jarp"
-    ]
   }
 }

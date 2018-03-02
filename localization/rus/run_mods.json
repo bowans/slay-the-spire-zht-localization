@@ -9,7 +9,7 @@
   },
   "Heirloom": {
     "NAME": "Наследство",
-    "DESCRIPTION": "Вы начинаете с 1 реликвией."
+    "DESCRIPTION": "Вы начинаете с 1 редкой реликвией."
   },
   "Lethal Enemies": {
     "NAME": "Смертоносные враги",
@@ -21,7 +21,7 @@
   },
   "Restless Journey": {
     "NAME": "Беспрерывный поход",
-    "DESCRIPTION": "Вы не исцеляетесь при переходе в след. акт."
+    "DESCRIPTION": "ОЗ не восполняются при переходе в след. акт."
   },
   "Slow Start": {
     "NAME": "Медленный старт",
@@ -56,15 +56,15 @@
     "DESCRIPTION": "Элитные враги заполонили Шпиль."
   },
   "Binary": {
-    "NAME": "Binary",
-    "DESCRIPTION": "Card rewards contain only 2 cards."
-  },
-  "Uncertain Future": {
-    "NAME": "Uncertain Future",
-    "DESCRIPTION": "The map shows only ?."
+    "NAME": "Бинарность",
+    "DESCRIPTION": "При получении награды вы можете выбирать только из 2 карт."
   },
   "Midas": {
-    "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+    "NAME": "Мидас",
+    "DESCRIPTION": "С врагов падает на 200% больше золота, но вы не можете улучшать карты в лагере."
+  },
+  "Uncertain Future": {
+    "NAME": "Мутное будущее",
+    "DESCRIPTION": "Карта акта отображает только «?»."
   }
 }

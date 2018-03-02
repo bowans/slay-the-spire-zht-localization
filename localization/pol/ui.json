@@ -53,11 +53,11 @@
       "Zwycięstwa i porażki",
       "Zwycięstwa",
       "Porażki",
-      "Daily",
-      "Any Game Type",
-      "Only Normal",
-      "Only Ascension",
-      "Only Daily Challenge"
+      "Wyzwania Dnia",
+      "Każdy typ gry",
+      "Tylko zwykłe",
+      "Tylko Wyniesienie",
+      "Tylko Wyzwanie Dnia"
     ]
   },
   "LeaderboardsScreen": {
@@ -94,26 +94,26 @@
   },
   "LanguageDropdown": {
     "TEXT": [
-      "Portugalski Brazylijski",
-      "Chiński (uproszczony)",
-      "Chiński (tradycyjny)",
-      "Angielski",
-      "Francuski",
-      "Niemiecki",
-      "Włoski",
-      "Japoński",
-      "Koreański",
+      "Brazilian Portuguese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Japanese",
+      "Korean",
       "Polski",
-      "Rosyjski",
-      "Hiszpański",
-      "Hebrajski",
-      "Turecki",
-      "Szwedzki",
-      "Norweski",
-      "Tajski",
-      "Serbski",
-      "Ukraiński",
-      "Wietnamski",
+      "Russian",
+      "Spanish",
+      "Hebrew",
+      "Turkish",
+      "Swedish",
+      "Norwegian",
+      "Thai",
+      "Serbian",
+      "Ukrainian",
+      "Vietnamese",
       "Hungarian"
     ]
   },
@@ -144,7 +144,7 @@
   },
   "ShopRoom": {
     "TEXT": [
-      "Pomiń handlarza"
+      "Pomiń Handlarza"
     ]
   },
   "TreasureRoom": {
@@ -222,7 +222,7 @@
   },
   "Smith Option": {
     "TEXT": [
-      "Kuźnia",
+      "Wykuj",
       "Ulepsz jedną z kart w talii.",
       "Brak odpowiednich kart."
     ]
@@ -399,7 +399,7 @@
     "TEXT": [
       "Karty stąd są tasowane i przenoszone do stosu rozgrywającego kiedy ten stanie się pusty.",
       "Wróć",
-      "Stos odrzuconych"
+      "Stos kart odrzuconych"
     ]
   },
   "CopyAction": {
@@ -513,7 +513,7 @@
       "Pomiń kartę",
       "Pomiń złoto",
       "Pomiń miksturę",
-      "Pomiń relikwię",
+      "Pomiń artefakt",
       "Pomiń łupy",
       "Zamknij",
       "Skarb!",
@@ -600,7 +600,7 @@
       "Główny NL Muzyka NL Efekty",
       "Efekty tła NL Wycisz dźwięk, gdy okno jest nieaktywne",
       "Preferencje",
-      "Wyświetlaj sumę obrażeń na złoto NL Wyświetlaj sumę zablok. obrażeń na niebiesko NL Wyłącz powiadomienie przy wyborze 1 karty",
+      "Wyświetlaj sumę obrażeń na złoto NL Wyświetlaj sumę zablokowanych obrażeń na niebiesko NL Wyłącz powiadomienie przy wyborze 1 karty",
       "Tryb „speedrun”",
       "",
       "Inne",
@@ -616,7 +616,7 @@
     "TEXT": [
       "Wyzwanie Dnia",
       "Łączenie z serwerem...",
-      "Ukończono dzisiejsze wyzwanie",
+      "Ukończono dzisiejsze wyzwanie. NL Liczy się wynik tylko z pierwszej próby.",
       "Powrót",
       "W drogę",
       "Dzisiejsza postać: ",
@@ -634,7 +634,7 @@
     "TEXT": [
       "Czy aby na pewno?",
       "Twój postęp jest automatycznie zapisywany.",
-      "Opuszczenie gry jest równy z przegraną.",
+      "Opuszczenie gry jest równe z przegraną.",
       "Uwaga:\nPostęp nie jest zapisywany.\n\nDotrzyj do kolejnego piętra, aby zapisać.",
       "Wróć",
       "Postęp dla Wyzwań Dnia nie jest zapisywany."
@@ -703,7 +703,7 @@
   "PatchNotesScreen": {
     "TEXT": [
       "Wróć",
-      "#Lista #yzmian",
+      "#yLista #yzmian",
       " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
     ]
   },
@@ -723,7 +723,7 @@
       "Ze zdarzeń:",
       "Te artefakty można uzyskać tylko podczas wydarzeń.",
       "Od Handlarza:",
-      "Artefakty, które można zakupić u handlarza."
+      "Artefakty, które można zakupić u Handlarza."
     ]
   },
   "CharacterOption": {
@@ -797,7 +797,7 @@
       "Ten przeciwnik zamierza użyć #yWzmocnienia.",
       "Ten przeciwnik zamierza rzucić na ciebie #ynegatywny #yefekt.",
       "Ten przeciwnik zamierza rzucić na ciebie potężny #ynegatywny #yefekt.",
-      "Ten przeciwnik zamierza #ysię #ybronić.",
+      "Ten przeciwnik zamierza się #ybronić.",
       "Ten przeciwnik zamierza NL się #ybronić i rzucić na ciebie #ynegatywny #yefekt.",
       "Ten przeciwnik zamierza NL się #ybronić i użyć #yWzmocnienia.",
       "Ten przeciwnik zamierza #yuciec.",
@@ -959,7 +959,7 @@
       "Wyświetl wszystkie artefakty napotkane \nw Iglicy.",
       "Bestiariusz",
       "",
-      "This feature is not yet available.",
+      "Ta funkcja nie jest jeszcze dostępna.",
       "Statystyki",
       "",
       "Możesz tu zobaczyć postęp i statystyki wszystkich postaci.",
@@ -974,13 +974,13 @@
       "Zmień rozdzielczość ekranu oraz inne opcje.",
       "Sterowanie",
       "",
-      "This feature is not yet available.",
+      "Ta funkcja nie jest jeszcze dostępna.",
       "Autorzy",
       "",
       "Wyświetl listę osób, które przyczyniły się do powstania Slay the Spire!",
       "Unknown",
       "",
-      "This feature is not yet available."
+      "Ta funkcja nie jest jeszcze dostępna."
     ]
   }
 }

@@ -17,7 +17,7 @@
   },
   "Heirloom": {
     "NAME": "Dziedzictwo",
-    "DESCRIPTION": "Zaczynasz grę z 1 artefaktem."
+    "DESCRIPTION": "Zaczynasz grę z 1 rzadkim artefaktem."
   },
   "Lethal Enemies": {
     "NAME": "Zabójczy przeciwnicy",
@@ -51,20 +51,20 @@
     "NAME": "Różnorodność",
     "DESCRIPTION": "Rozpoczynasz z 2 kartami innej klasy postaci."
   },
-  "Vintage": {
-    "NAME": "Antyk",
-    "DESCRIPTION": "Ceny u Handlarza są zwiększone o 25%."
+  "Uncertain Future": {
+    "NAME": "Niepewna przyszłość",
+    "DESCRIPTION": "Mapa pokazuje tylko „?”."
   },
   "Binary": {
-    "NAME": "Binary",
-    "DESCRIPTION": "Card rewards contain only 2 cards."
-  },
-  "Uncertain Future": {
-    "NAME": "Uncertain Future",
-    "DESCRIPTION": "The map shows only ?."
+    "NAME": "Binarnie",
+    "DESCRIPTION": "Tylko 2 karty na ekranie wyboru kart."
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+    "DESCRIPTION": "Wrogowie zostawiają 200% więcej złota, ale nie możesz już ulepszać kart w Obozowiskach."
+  },
+  "Vintage": {
+    "NAME": "Antyk",
+    "DESCRIPTION": "Ceny u Handlarza są zwiększone o 25%."
   }
 }

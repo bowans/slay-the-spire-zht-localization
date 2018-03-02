@@ -27,7 +27,7 @@
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Immagini di Carte ed Eventi",
+    "HEADER": "Illustrazioni di Carte ed Eventi",
     "NAMES": [
       "Anailis Dorta"
     ]
@@ -105,10 +105,16 @@
       "GyeRyak"
     ]
   },
+  "LOC_NOR": {
+    "HEADER": "Localizzazione Norvegese",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
+  },
   "LOC_POL": {
     "HEADER": "Localizzazione Polacca",
     "NAMES": [
-      "Translation and Coordination:",
+      "Traduzione e coordinamento:",
       "Stanis³aw \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
       "Additional Translations:",
@@ -122,6 +128,23 @@
       "Erwin \"mateusz3010\" Matys",
       "Mettie",
       "Rafa³ \"SponTon83\" Szyszko"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "Localizazione Portoghese Brasiliana",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov"
     ]
   },
   "LOC_RUS": {
@@ -202,22 +225,5 @@
   "THANKS_MSG": {
     "HEADER": "...e grazie a TE, per aver giocato!",
     "NAMES": []
-  },
-  "LOC_PTB": {
-    "HEADER": "Localização - Português do Brasil",
-    "NAMES": [
-      "Guilherme \"GPerego\" Perego",
-      "Gustavo \"KomKlave\" Duarte",
-      "José \"Maneimax\" Vasconcelos",
-      "Leonardo \"Iikat\" Takii",
-      "Nathan \"NoxShadow\" Cervieri",
-      "Paulo \"SilverTape\" Hauck"
-    ]
-  },
-  "LOC_NOR": {
-    "HEADER": "Norsk Oversettelse",
-    "NAMES": [
-      "Eystein Jarp"
-    ]
   }
 }

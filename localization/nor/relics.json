@@ -833,7 +833,7 @@
   },
   "War Paint": {
     "NAME": "Krigsmaling",
-    "FLAVOR": "\"Hvis man skal ut i kamp, må man ikle seg rollen ordentlig.\" - Ranwid.",
+    "FLAVOR": "I gamle dager brukte de Jernkledde å beskytte seg mot det onde ved å bruke forhekset krigsmaling før de gikk i kamp.",
     "DESCRIPTIONS": [
       "Når du plukker opp denne, får du #yOppgradere #b",
       " tilfeldige #yEgenskapskort."
@@ -841,7 +841,7 @@
   },
   "Darkstone Periapt": {
     "NAME": "Et smykke av mørkestein",
-    "FLAVOR": "Mangler beskrivelse.",
+    "FLAVOR": "Steinen får sin kraft fra mørk energi, og gjør det om til styrke for den som bærer smykket.",
     "DESCRIPTIONS": [
       "Når du får et #yForbannelseskort, øker du Max HP med #b"
     ]
@@ -916,8 +916,8 @@
     ]
   },
   "The Specimen": {
-    "NAME": "Testprøven",
-    "FLAVOR": "\"Fasinerende! Jeg fant en mutert skapning som viste utrolige giftige egenskaper. Jeg tar med meg en prøve for å se nærmere på den senere.\" - Ranwid",
+    "NAME": "Eksemplaret",
+    "FLAVOR": "\"Fasinerende! Jeg fant en mutert skapning som viste utrolige giftige egenskaper. Jeg tar med meg et eksemplar for å se nærmere på den senere.\" - Ranwid",
     "DESCRIPTIONS": [
       "Når en fiende dør kan du overføre all #yGiften den er påført til en tilfeldig fiende."
     ]
@@ -1024,7 +1024,7 @@
     ]
   },
   "Lee's Waffle": {
-    "NAME": "Lees vaffel",
+    "NAME": "Lee sin vaffel",
     "FLAVOR": "\"Den mest smakfulle av desserter i hele Tårnet. Bakt i dag, kun for deg!\"",
     "DESCRIPTIONS": [
       "Øk Max HP med #b",

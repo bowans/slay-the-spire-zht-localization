@@ -42,7 +42,9 @@
         "wykluczenie",
         "wyklucz",
         "wykluczona",
-        "wykluczone"
+        "wykluczone",
+        "wykluczysz",
+        "wyklucza"
       ],
       "DESCRIPTION": "Karta jest usuwana z talii do końca walki."
     },
@@ -50,7 +52,7 @@
       "NAMES": [
         "startowa"
       ],
-      "DESCRIPTION": "Zaczniesz walkę z tą kartą w ręce."
+      "DESCRIPTION": "Zaczniesz walkę z tą kartą NL w ręce."
     },
     "LOCKED": {
       "NAMES": [
@@ -133,8 +135,8 @@
       "NAMES": [
         "słabość",
         "słabości",
-        "weakened",
-        "weakens"
+        "osłabienia",
+        "osłabiona"
       ],
       "DESCRIPTION": "Osłabione istoty zadają #b25% mniej obrażeń Atakami."
     },

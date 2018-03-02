@@ -699,7 +699,7 @@
       "Serbe",
       "Ukrainien",
       "Vietnamien",
-      "Hungarian"
+      "Hongrois"
     ]
   },
   "UnlockTextEffect": {
@@ -715,7 +715,7 @@
   "AbstractPlayer": {
     "TEXT": [
       "Bloqué",
-      "le Soldat de Fer",
+      "le Soldat de fer",
       "la Silencieuse",
       "the Gunner"
     ]
@@ -812,7 +812,7 @@
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Le Soldat de Fer",
+      "Le Soldat de fer",
       "La Silencieuse",
       "3rd Char. DO NOT TRANSLATE",
       "Étage Atteint Moyen (Sur les 20 Dernières Tentatives)",
@@ -872,7 +872,7 @@
   },
   "RunHistoryScreen": {
     "TEXT": [
-      "Le Soldat de Fer",
+      "Le Soldat de fer",
       "La Silencieuse",
       "",
       "Retour",
@@ -899,11 +899,11 @@
       "Victoires et défaites",
       "Victoires",
       "Défaites",
-      "Daily",
-      "Any Game Type",
-      "Only Normal",
-      "Only Ascension",
-      "Only Daily Challenge"
+      "Défi",
+      "Tout mode de jeu",
+      "Normal",
+      "Ascension",
+      "Défi quotidien"
     ]
   },
   "DeathScreenUi": {
@@ -926,7 +926,7 @@
     "TEXT": [
       "Défi Quotidien",
       "Connexion au Serveur...",
-      "Vous avez fini le défi du jour.",
+      "#yRemarque: Vous avez fini le défi du jour. NL Seul le premier score est envoyé.",
       "Retour",
       "Démarrer",
       "Personnage du jour: ",

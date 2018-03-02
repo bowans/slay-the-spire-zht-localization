@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "Poświęcenie",
-    "DESCRIPTION": "Wyklucz 1 kartę. Jeśli wybrana karta byłą kartą Stanu lub Klątwy, zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom."
+    "DESCRIPTION": "Wyklucz 1 kartę. Jeśli była to karta Stanu lub Klątwy, zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom."
   },
   "Regret": {
     "NAME": "Żal",
@@ -311,7 +311,7 @@
   },
   "Acrobatics": {
     "NAME": "Akrobatyka",
-    "DESCRIPTION": "Dobierz !M! kart. NL Odrzuć 1 kartę."
+    "DESCRIPTION": "Dobierz !M! karty. NL Odrzuć 1 kartę."
   },
   "Blind": {
     "NAME": "Oślepienie",
@@ -320,8 +320,8 @@
   },
   "Doppelganger": {
     "NAME": "Klonowanie",
-    "DESCRIPTION": "W następnej turze dobierz X kart i zyskaj X [G]. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "W następnej turze dobierz X+1 kart i zyskaj X+1 [G]. NL Wykluczenie."
+    "DESCRIPTION": "W następnej turze dobierz X kart NL i zyskaj X [G]. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "W następnej turze dobierz X+1 kart NL i zyskaj X+1 [G]. NL Wykluczenie."
   },
   "Skewer": {
     "NAME": "Szpikulec",
@@ -593,7 +593,7 @@
   },
   "Battle Trance": {
     "NAME": "Trans bitewny",
-    "DESCRIPTION": "Dobierz !M! karty. NL W czasie tej tury nie możesz dobrać więcej kart."
+    "DESCRIPTION": "Dobierz !M! karty. NL W czasie tej tury nie możesz dobrać NL więcej kart."
   },
   "Heavy Blade": {
     "NAME": "Ciężkie ostrze",
@@ -630,7 +630,7 @@
   },
   "Panacea": {
     "NAME": "Panaceum",
-    "DESCRIPTION": "Zyskaj !M! relikt. NL Wykluczenie."
+    "DESCRIPTION": "Zyskaj relikt: !M!. NL Wykluczenie."
   },
   "Dash": {
     "NAME": "Zryw",
@@ -731,7 +731,7 @@
     "UPGRADE_DESCRIPTION": "To musi być moja NL jedyna karta."
   },
   "Good Instincts": {
-    "NAME": "Wyczucie czasu",
+    "NAME": "6. zmysł",
     "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
   },
   "Prepared": {
@@ -769,7 +769,7 @@
   "Jack Of All Trades": {
     "NAME": "Walet w rękawie",
     "DESCRIPTION": "Dodaj !M! losową bezbarwną kartę NL do ręki. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Add !M! random colorless cards to your hand. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Dodaj !M! losowe bezbarwne karty NL do ręki. NL Wykluczenie."
   },
   "Demon Form": {
     "NAME": "Demoniczna forma",
