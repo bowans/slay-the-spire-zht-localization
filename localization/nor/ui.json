@@ -37,7 +37,7 @@
       "Seier!",
       "Kort",
       "Relikvier",
-      "Startkort",
+      "Start",
       "Vanlig",
       "Uvanlig",
       "Sjelden",
@@ -179,11 +179,11 @@
       "Et ukjent rom NL NL Du kan treffe på fiender, finne skatter eller butikker, eller møte noe helt annet.",
       "Kjøpmann",
       "Butikker",
-      "En mystisk kjøpmann selger varene sine i dette rommet NL NL Bruk ditt oppsparte #ygull her!",
+      "En mystisk kjøpmann selger varene sine i dette rommet NL NL Bruk ditt oppsparte #yGull her!",
       "Skatt",
       "Rom med skatter i",
       "#yRelikvier og #yGull kan finnes i disse ettertraktede rommene.",
-      "Hvil",
+      "Leirbål",
       "Leirbål",
       "Stopp innom disse rommene for å #gHelbrede deg litt, eller for å #yOppgradere et kort.",
       "Fiende",
@@ -191,7 +191,7 @@
       "Onde fiender venter i disse rommene.",
       "Elitefiende",
       "Elitefiender",
-      "Kraftige fiender er i disse rommene. NL NL Hvis du beseirer dem vil du bli belønnet med en relikvie.",
+      "Kraftige fiender er i disse rommene. NL NL Hvis du beseirer dem vil du bli belønnet med en #yRelikvie.",
       "Legende"
     ]
   },
@@ -404,27 +404,27 @@
   },
   "CopyAction": {
     "TEXT": [
-      "Kopier"
+      "Kopieres"
     ]
   },
   "DiscardAction": {
     "TEXT": [
-      "Kast"
+      "Kastes"
     ]
   },
   "ArmamentsAction": {
     "TEXT": [
-      "Oppgrader"
+      "Oppgraderes"
     ]
   },
   "DualWieldAction": {
     "TEXT": [
-      "Dupliser"
+      "Dupliseres"
     ]
   },
   "HiddenChamberAction": {
     "TEXT": [
-      "Dupliser"
+      "Dupliseres"
     ]
   },
   "DeathScreenUi": {
@@ -590,17 +590,17 @@
       "Spillmeny",
       "Grafikk",
       "Oppløsning: NL Bilderate Max:",
-      "Full skjerm NL Full skjerm uten rammer (anbefalt) NL Skjermristing",
+      "Fullskjerm NL Fullskjerm uten rammer (anbefalt) NL Skjermristing",
       "Lyd",
       "Hovedvolum NL Musikkvolum NL Effektvolum",
-      "Lydeffekter fra omgivelsene",
+      "Lydeffekter fra omgivelsene NL Demp lyden mens spillet er i bakgrunnen",
       "Foretrukne valg",
       "Vis oppsummert Skade med gullskrift NL Vis Blokkert Skade med blå skrift NL Slå av bekreftelse når man skal velge 1 kort",
-      "Vanlige tips NL Korttips",
+      "Hurtigmodus",
+      "",
       "Krafttips NL Relikvietips",
-      "Diverse",
       "Språk:",
-      "Lås opp spilldata #b(?)",
+      "Last opp spilldata #b(?)",
       "Avslutt spillet",
       "Lagre & avslutt",
       "NL NL VSync",
@@ -937,7 +937,7 @@
       "Fremgangen, og statistikken, for hver figur kan du se her.",
       "Resultatliste",
       "",
-      "Se og sammenlign din poengsumm med dine venners poengsum, og poengsummen til andre spillere.",
+      "Se og sammenlign din poengsum med dine venners poengsum, og poengsummen til andre spillere.",
       "Spillhistorikk",
       "",
       "Gjense dine tidligere forsøk på å overvinne tårnet.",
@@ -964,7 +964,7 @@
     "TEXT": [
       "Daglig utfordring",
       "Kobler til serveren...",
-      "Du har allerede gjennomført dagens utfordring",
+      "Du har allerede gjennomført dagens utfordring. NL Du vil ikke kunne laste opp poengsummer for gjentakende forsøk.",
       "Tilbake",
       "Sett i gang",
       "Dagens figur: ",
@@ -974,7 +974,7 @@
       " NL NL  #yKortstokk: NL ",
       " NL NL  #yRelikvier: NL  ",
       " NL Dagens utfordring: NL TAB #yKlasse: NL TAB ",
-      " NL TAB #yMods: ",
+      " NL TAB #yModder: ",
       "Modifikasjoner: ",
       "Leaderboards"
     ]

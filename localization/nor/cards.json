@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Underhåndsslag",
-    "DESCRIPTION": "Uspillbart. NL Hvis dette kartet kastes fra hånda, påfør en tilfeldig fiende !D! Skade.",
+    "DESCRIPTION": "Uspillbart. NL Hvis dette kortet kastes fra hånda, påfør en tilfeldig fiende !D! Skade.",
     "EXTENDED_DESCRIPTION": [
       "Jeg kan ikke spille dette kortet."
     ]
@@ -116,7 +116,7 @@
   },
   "Bullet Time": {
     "NAME": "Bullet Time",
-    "DESCRIPTION": "Du kan ikke trekke kort denne runden. Reduser kostnaden av alle kortene på hånda til 0 denne rundern."
+    "DESCRIPTION": "Du kan ikke trekke kort denne runden. Reduser kostnaden av alle kortene på hånda til 0 denne runden."
   },
   "Catalyst": {
     "NAME": "Katalysator",
@@ -191,7 +191,7 @@
     "DESCRIPTION": "Uspillbart. NL På slutten av runden din tar du 2 Skade."
   },
   "Tools of the Trade": {
-    "NAME": "Verktøyene som trengs",
+    "NAME": "Det du trenger",
     "DESCRIPTION": "I starten av runden din, trekk 1 kort og kast 1 kort."
   },
   "Dramatic Entrance": {
@@ -212,7 +212,7 @@
   },
   "Choke": {
     "NAME": "Kvelning",
-    "DESCRIPTION": "Påfør en fiende !D! Skade. NL Når du spiller et kort denne runden får mister denne fienden !M! HP."
+    "DESCRIPTION": "Påfør en fiende !D! Skade. NL Når du spiller et kort denne runden mister denne fienden !M! HP."
   },
   "Juggernaut": {
     "NAME": "Kjempekraft",
@@ -609,10 +609,10 @@
   },
   "Corpse Explosion": {
     "NAME": "Eksploderende lik",
-    "DESCRIPTION": "En fiende er ikke lenger Forgiftet. Påfør ALLE fiender Skade tilsvarende det dobbelte av Forgiftningen fienden mistet.",
-    "UPGRADE_DESCRIPTION": "En fiende er ikke lenger Forgiftet. Påfør ALLE fiender Skade tilsvarende det tre ganger  Forgiftningen fienden mistet.",
+    "DESCRIPTION": "En fiende er ikke lenger Forgiftet. Påfør ALLE fiender Skade tilsvarende det dobbelte av Giften mistet.",
+    "UPGRADE_DESCRIPTION": "En fiende er ikke lenger Forgiftet. Påfør ALLE fiender Skade tilsvarende det tre ganger Giften mistet.",
     "EXTENDED_DESCRIPTION": [
-      "Den fienden er jo ikke Forgiftet?"
+      "Denne fienden er jo ikke Forgiftet?"
     ]
   },
   "Second Wind": {
@@ -663,7 +663,7 @@
   },
   "Bouncing Flask": {
     "NAME": "Flaskesprett",
-    "DESCRIPTION": "Forgift en tilfeldig fiende med 3 !M! ganger."
+    "DESCRIPTION": "Påfør en tilfeldig fiende 3 Gift, !M! ganger."
   },
   "Bludgeon": {
     "NAME": "Slå ham blodig",

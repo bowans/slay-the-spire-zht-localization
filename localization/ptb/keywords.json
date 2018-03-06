@@ -60,7 +60,8 @@
     },
     "RETAIN": {
       "NAMES": [
-        "manter"
+        "manter",
+        "mantenha"
       ],
       "DESCRIPTION": "Cartas mantidas não são descartadas no fim do turno."
     },
@@ -118,10 +119,9 @@
     },
     "WEAK": {
       "NAMES": [
-        "fraco",
+        "enfraquecido",
         "fraqueza",
         "enfraquecer",
-        "enfraquecido",
         "enfraquece"
       ],
       "DESCRIPTION": "Criaturas enfraquecidas causam #b25% a menos de dano em Ataques."
@@ -163,7 +163,7 @@
     },
     "TODO": {
       "NAMES": [
-        "todo",
+        "to do",
         "JUST FOR DEVS, DONT TRANSLATE",
         "JUST FOR DEVS, DONT TRANSLATE",
         "JUST FOR DEVS, DONT TRANSLATE",

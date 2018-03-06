@@ -89,10 +89,10 @@
       "Du ignorerer helligdommen."
     ],
     "OPTIONS": [
-      "[Be] #gFå #g100 #ggull.",
+      "[Be] #gFå #g",
+      " #gGull.",
       "[Ødelegg] #gFå #g250 #ggull. #rBli #rforbannet #r- #rAnger.",
-      "[Stikk]",
-      "[Leave]"
+      "[Stikk]"
     ]
   },
   "Lab": {
@@ -112,7 +112,7 @@
       "Du ignorerer helligdommen."
     ],
     "OPTIONS": [
-      "[Be] #gFfjern #get #gkort #gfra #gkortstokken #gdin.",
+      "[Be] #gFjern #get #gkort #gfra #gkortstokken #gdin.",
       "[Stikk]",
       "Velg et kort du vil fjerne."
     ]
@@ -198,11 +198,11 @@
       "Du drar, mens du lurer på hva som ville skjedd."
     ],
     "OPTIONS": [
-      "[Hopp inn] #gHelbred #gfullt #gopp. #gSenk #rMax #rHP #rmed #r10.",
+      "[Hopp inn] #gHelbred #gfullt #gopp. #gSenk #rMax #rHP #rmed #r",
+      ".",
       "[Offer: Gullidol] #gMotta #g333 #ggull. #rMist #rGullidolet #rditt.",
       "[Låst] Krever: Gullidol.",
-      "[Stikk]",
-      "[Leave]"
+      "[Stikk]"
     ]
   },
   "Mysterious Sphere": {
@@ -257,10 +257,10 @@
     ],
     "OPTIONS": [
       "...",
-      "[Omfavn galskapen] #gMotta #g2 #gGalskap. #rMist #r10 #rHP.",
+      "[Omfavn galskapen] #gMotta #g2 #gGalskap. #rMist #r10 #r",
+      " HP.",
       "[Fokuser] #rMotta #ren #rForbannelse #r- #rVri #rseg. #gHelbred #g",
       "[Stikk]",
-      " #gHP.",
       " #gHP."
     ]
   },
@@ -349,7 +349,7 @@
   "Golden Wing": {
     "NAME": "Bevinget statue",
     "DESCRIPTIONS": [
-      "Blandt steiner og berg, legger du merke til en intrikat, stor, blå statue som ligner en vinge. NL Du ser at det er #ygull som kommer ut fra en sprekk i den. Kanskje er det mer inni den?",
+      "Blant steiner og berg, legger du merke til en intrikat, stor, blå statue som ligner en vinge. NL Du ser at det er #ygull som kommer ut fra en sprekk i den. Kanskje er det mer inni den?",
       "Noen fortalte deg en gang om en kult som tilba en enorm fugl. I det du kneler i bønn, ~føler~ ~du~ ~deg~ ... ~Svimmel~ . NL NL Du våkner en stund senere, og føler deg merkelig rask til fots.",
       "Med all din kraft hakker du løs på statuen. NL Den går i @oppløsning,@ og avslører en #yhaug #ymed #ygull. Du tar så mye du greier og fortsetter reisen din.",
       "Statuen gjør at du føler deg ~uvel.~ Du går forbi den og fortsetter reisen din."
@@ -426,7 +426,7 @@
     "OPTIONS": [
       "[Tramp] #rGjør #rsoppen #rsint.",
       "[Spis] #gHelbred #g",
-      " #gHP. #rBli #rforbannet #r- #rParasitt.",
+      " #gHP. #rFå #ret #rForbannelseskort #r- #rParasitt.",
       "[Slåss]",
       "[Stikk]"
     ]
@@ -447,9 +447,9 @@
   "Scrap Ooze": {
     "NAME": "Skrapeslim",
     "DESCRIPTIONS": [
-      "I det du entrer rommet hører du ~gurgling~ og et @klang@ av metall. Foran deg er et slimaktig vesen som spiste for mye skrap til sitt eget beste. I midten av skapningen ser du et merkelig lys, som fra noe magisk. Det ser ut som om du kan hente ut en #yskatt bare ved å strekke ut hånda og hente det ut av vesenet. Det kan imidlertid virke som om syren og de skarpe objektene skapningen har spist kan påføre deg #rSkade.",
+      "I det du entrer rommet hører du ~gurgling~ og et @klang@ av metall. Foran deg er et slimaktig vesen som har spist mer skrap enn det tåler. I midten av skapningen ser du et merkelig lys, som fra noe magisk. Det ser ut som om du kan hente ut en #yskatt bare ved å strekke ut hånda og hente det ut av vesenet. Det kan imidlertid virke som om syren og de skarpe objektene skapningen har spist kan påføre deg #rSkade.",
       "#r@AU!@ NL Du finner bare rustnet metall og en stor mengde #r@brennende #r@smerte. NL Du er imidlertid fortsatt overbevist om at det finnes en #yrelikvie der inne...",
-      "#gSuksess! NL Etter å ha rotet rundt inne i skapningen blandt metall og brennende syre, finner du til slutt en #yrelikvie og drar den ut. NL Du får endelig hånden ut av slimet, men den er likevel #rskadet.",
+      "#gSuksess! NL Etter å ha rotet rundt inne i skapningen blant metall og brennende syre, finner du til slutt en #yrelikvie og drar den ut. NL Du får endelig hånden ut av slimet, men den er likevel #rskadet.",
       "Du bestemmer deg for å forlate området. Den slimete skapningen bryr seg ikke om deg. Den er for opptatt med å spise mer."
     ],
     "OPTIONS": [
@@ -542,9 +542,9 @@
       "[Fortsett] #rMist #r2 #rHP.",
       "[Fortsett] #rMist #r3 #rHP.",
       "[Stopp] #rMist #r3 #rHP.",
-      "[Ta boka] #gTa #gmed #gboka. #rMist #r10 #rHP.",
-      "[Stikk]",
-      "[Leave]"
+      "[Ta boka] #gTa #gmed #gboka. #rMist #r",
+      " #rHP",
+      "[Stikk]"
     ]
   },
   "Drug Dealer": {
@@ -686,15 +686,15 @@
   "The Mausoleum": {
     "NAME": "Mausoleet",
     "DESCRIPTIONS": [
-      "Du går igjennom en rekke gravkammer, til du til slutt står foran en stor sarkofag som er ~dekket~ ~med~ ~edelstener~. Den står midt i rommet. NL Du greier ikke å se hva som står på den, men du legger merke til at #p~sort~ #p~tåke~ lekker ut av sidene.",
+      "Du går igjennom en rekke gravkammer, til du til slutt står foran en stor sarkofag som er ~dekket~ ~med~ ~edelstener.~ Den står midt i rommet. NL Du greier ikke å se hva som står på den, men du legger merke til at #p~sort~ #p~tåke~ lekker ut av sidene.",
       "Du åpner sarkofagen. I det du gjør deg, spyr den ut #p~sort~ #p~tåke~ og dekker hele rommet! Inne i sarkofagen er det ingen død kropp, bare en #y~relikvie.~ Du tar den og går videre mens du #r@hoster@ #r@kraftig.@",
       "Du åpner kisten. Tåken går harmløst i oppløsning. Inne i kisten finner du det som er igjen av en høyt dekorert soldat, som holder en gammel #yrelikvie. Du stjeler den og drar din vei.",
       "Du fortsetter på fin vei, og lar de døde være døde."
     ],
     "OPTIONS": [
-      "[Åpne kisten] #gFå #gen #grelikvie. #r50%: #rBli #rforbannet #r- #rVri #rseg.",
-      "[Stikk]",
-      "[Leave]"
+      "[Åpne kisten] #gMotta #gen #gRelikvie. #r",
+      "%: #rMotta #ret #rForbannelseskort #r- #rVri #rseg.",
+      "[Stikk]"
     ]
   },
   "Vampires": {
@@ -718,7 +718,7 @@
   "The Woman in Blue": {
     "NAME": "Kvinnen i blått",
     "DESCRIPTIONS": [
-      "Fra mørket dukker det opp en arm som drar deg inn i en liten butikk. Da øynene dine venner seg til mørket ser du en blek kvinne i skarpe klær som peker mot en vegg med trylledrikker. NL \"Kjøp en trylledrikk. NÅ!\" sier hun.",
+      "Fra mørket dukker det opp en arm som drar deg inn i en liten butikk. I det øynene dine venner seg til mørket ser du en blek kvinne i skarpe klær som peker mot en vegg med trylledrikker. NL \"Kjøp en trylledrikk. NÅ!\" sier hun.",
       "\"Bra. Nå, dra.\" NL Du går forsiktig ut av butikken.",
       "#r@PANG@ NL Den behanskede hånden hennes kolliderer med ansiktet ditt, og slår deg nesten i bakken. NL \"Kom deg ut før jeg sprer innvollene dine utover gulvet mitt.\" Du tar henne på ordet, og forlater butikken mens innvollene dine fortsatt er trygt inne i kroppen din."
     ],

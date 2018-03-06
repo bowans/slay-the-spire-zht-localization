@@ -29,8 +29,8 @@
     "NAME": "Klinkekuler",
     "FLAVOR": "Var en gang et populært leketøy i byen. Er svært nyttig til å få fiender til å miste balansen.",
     "DESCRIPTIONS": [
-      "I starten av hver kamp, #ySvekk ALLE fiender med #b",
-      "."
+      "I starten av hver kamp, gjør ALLE fiender #b",
+      " #ySårbare."
     ]
   },
   "Bag of Preparation": {
@@ -384,7 +384,7 @@
     "NAME": "Brevåpner",
     "FLAVOR": "Unaturlig skarp.",
     "DESCRIPTIONS": [
-      "Hver gang du spiller #b3 #yEgenskapskor på en enkelt runde, påfører du ALLE fiender #b",
+      "Hver gang du spiller #b3 #yEgenskapskort i en enkelt runde, påfører du ALLE fiender #b",
       " Skade."
     ]
   },
@@ -444,7 +444,7 @@
     "NAME": "Medisinskrin",
     "FLAVOR": "\"Har alt du trenger! Anti-klø, anti-gift, og mer!!\"",
     "DESCRIPTIONS": [
-      "#yStatuskort kan nå spilles. Spiller du et #yStatuskort #yVrakes kortet."
+      "#yStatuskort kan nå spilles. Spiller du et #yStatuskort, #yVrakes kortet."
     ]
   },
   "Membership Card": {
@@ -455,7 +455,7 @@
     ]
   },
   "Mercury Hourglass": {
-    "NAME": "Timeglass fylt med kvikksølv",
+    "NAME": "Timeglass med kvikksølv",
     "FLAVOR": "Et forhekset timeglass som drypper evig.",
     "DESCRIPTIONS": [
       "I starten av runden påfører du ALLE fiender #b",
@@ -642,7 +642,7 @@
     ]
   },
   "Prayer Wheel": {
-    "NAME": "Bedehjul",
+    "NAME": "Bønnehjul",
     "FLAVOR": "Hjulet slutter aldri å snurre.",
     "DESCRIPTIONS": [
       "Kister som ikke er Høvdingkister inneholder nå også kort."
@@ -652,7 +652,7 @@
     "NAME": "Ukjent kort",
     "FLAVOR": "\"De som har flere valg minimaliserer ulempene ved kaos.\" - Kublai den Store.",
     "DESCRIPTIONS": [
-      "Når du får kortbelønninger, kan du velge mellom #b4 kort isteden for #b3."
+      "Når du får kort som belønning, vil du kunne velge mellom #y1 #yekstra #ykort."
     ]
   },
   "Red Circlet": {
@@ -989,7 +989,7 @@
     ]
   },
   "Toy Ornithopter": {
-    "NAME": "Lekehelikopter",
+    "NAME": "Lekefly",
     "FLAVOR": "\"Denne lille leken er den perfekte følgesvenn for en ensom eventyrer!\"",
     "DESCRIPTIONS": [
       "Når du bruker en trylledrikk helbreder du #b",
