@@ -1,43 +1,27 @@
 {
   "Cursed Run": {
     "NAME": "Przeklęta próba",
-    "DESCRIPTION": "Za każdym razem, gdy pokonasz bossa, otrzymujesz #rKlątwę."
+    "DESCRIPTION": "Za każdym razem, gdy pokonasz bossa, otrzymujesz #rKlątwę. Zamiast początkowego artefatku otrzymujesz Przeklęty klucz, Kamienny amulet i Lalkę Du-Vu."
   },
   "Elite Swarm": {
     "NAME": "Rój Elitarnych",
-    "DESCRIPTION": "Elitarne jednostki są absolutnie wszędzie."
-  },
-  "Greed": {
-    "NAME": "Chciwość",
-    "DESCRIPTION": "Nie możesz pominąć łupów."
-  },
-  "Growing Enemies": {
-    "NAME": "Nieustanny rozwój",
-    "DESCRIPTION": "Z każdą kolejną turą, przeciwnicy stają się silniejsi."
+    "DESCRIPTION": "Elitarne jednostki są absolutnie wszędzie i zostawiają po sobie lepsze łupy."
   },
   "Heirloom": {
     "NAME": "Dziedzictwo",
     "DESCRIPTION": "Zaczynasz grę z 1 rzadkim artefaktem."
   },
-  "Lethal Enemies": {
-    "NAME": "Zabójczy przeciwnicy",
-    "DESCRIPTION": "Wszyscy przeciwnicy zaczynają z 3 dodatkowymi pkt. Siły."
+  "Lethality": {
+    "NAME": "Lethality",
+    "DESCRIPTION": "Rozpoczynasz walkę z dodatkowymi 3 pkt. Siły. Wszyscy wrogowie rozpoczynają walkę z dodatkowymi 3 pkt. Siły."
   },
   "Night Terrors": {
     "NAME": "Koszmary",
-    "DESCRIPTION": "Odpoczywając odzyskujesz 20% PŻ, zamiast 30%."
+    "DESCRIPTION": "Odpoczywając odzyskujesz 100% PŻ, ale tracisz 5 maksymalnych PŻ."
   },
-  "Restless Journey": {
-    "NAME": "Bezsenna wędrówka",
-    "DESCRIPTION": "Nie odzyskujesz PŻ zaczynając nowy akt."
-  },
-  "Slow Start": {
-    "NAME": "Powolny start",
-    "DESCRIPTION": "Startujesz z dodatkowym Uderzeniem i Obroną."
-  },
-  "Tough Enemies": {
-    "NAME": "Wytrzymali przeciwnicy",
-    "DESCRIPTION": "Przeciwnicy mają 25% więcej PŻ."
+  "Insanity": {
+    "NAME": "Insanity",
+    "DESCRIPTION": "Rozpoczynasz z talią 50 losowych kart."
   },
   "Shiny": {
     "NAME": "Świecidełko",
@@ -52,8 +36,8 @@
     "DESCRIPTION": "Rozpoczynasz z 2 kartami innej klasy postaci."
   },
   "Uncertain Future": {
-    "NAME": "Niepewna przyszłość",
-    "DESCRIPTION": "Mapa pokazuje tylko „?”."
+    "NAME": "Pewna przyszłość",
+    "DESCRIPTION": "Tylko jedna ścieżka."
   },
   "Binary": {
     "NAME": "Binarnie",
@@ -65,14 +49,14 @@
   },
   "Vintage": {
     "NAME": "Antyk",
-    "DESCRIPTION": "Ceny u Handlarza są zwiększone o 25%."
+    "DESCRIPTION": "Zwykli wrogowie zostawiają po sobie artefakty zamiast kart."
   },
-  "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
+  "Terminal": {
+    "NAME": "Terminal",
+    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
   },
-  "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
+  "Time Dilation": {
+    "NAME": "Time Dilation",
+    "DESCRIPTION": "All enemies become Slow."
   }
 }

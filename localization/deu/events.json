@@ -727,7 +727,9 @@
       "[Kaufe 2 Tränke] #y",
       "[Kaufe 3 Tränke] #y",
       " #yGold.",
-      "[Verlassen]"
+      "[Verlassen]",
+      "[Leave] #rTake #r",
+      " #rDamage."
     ]
   }
 }

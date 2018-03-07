@@ -32,7 +32,7 @@
       "Nic się nie wydarzyło... NL Duchy wydają się ignorować twoją osobę. Rozczarowujące...",
       "Palenisko nieznacznie się rozjaśniło. NL Duchy kontynuują swój rytuał. Czujesz wewnętrzne ciepło w ich obecności. NL #gPrzwrócono #b5 PŻ.",
       "Ogień gwałtownie się wzmaga, rozświetlając okolicę! NL Pełne ekscytacji duchy tańczą wokół ciebie, wypełniając cię ~wewnętrznym~ ~ciepłem.~ NL #gPrzywrócono wszystkie PŻ.",
-      "Płomienie zostają @gwałtownie@ @wyrzucone@ w górę, niemalże pozbawiając cię równowagi. NL Pełne radości duchy tańczą wokół ciebie, a następnie ~łączą~ ~się~ ~z~ ~twoim~ ~ciałem,~ wypełniając cię wewnętrznym ciepłem i energią. NL #gPrzywrócono wszystkie PŻ oraz zwiększono ich maks. liczbę o #b10."
+      "Płomienie zostają @gwałtownie@ @wyrzucone@ w górę, niemalże pozbawiając cię równowagi. NL Pełne radości duchy tańczą wokół ciebie, a następnie ~łączą~ ~się~ ~z~ ~twoim~ ~ciałem,~ wypełniając cię wewnętrznym ciepłem i energią. NL #gPrzywrócono wszystkie PŻ oraz zwiększono ich maksymalną liczbę o #b10."
     ],
     "OPTIONS": [
       "[Dalej]",
@@ -199,7 +199,7 @@
     ],
     "OPTIONS": [
       "[Wejdź do środka] #gPrzywróć #gutracone #gPŻ. #rUtrać #r",
-      " #rmaks. #rPŻ.",
+      " #rmaksymalnych #rPŻ.",
       "[Ofiaruj złotego bożka] #gOtrzymaj #g333 #gszt. #gzłota. #rUtrać #rZłotego #rbożka.",
       "[Zablokowane] Wymagania: artefakt „Złoty bożek”.",
       "[Odejdź]"
@@ -277,7 +277,7 @@
     "OPTIONS": [
       "[Banan] #gPrzywróć #g",
       " #gPŻ.",
-      "[Pączek] #gMaks. #gPŻ #g+",
+      "[Pączek] #gMaksymalne #gPŻ #g+",
       ".",
       "[Pudełko] #gOtrzymaj #g1 #gartefakt. #rOtrzymaj #rKlątwę #r- #rŻal.",
       "[Odejdź]"
@@ -343,7 +343,7 @@
       "[Spróbuj go zatrzymać] #rUtrać #r",
       " #rPŻ.",
       "[Spróbuj przylgnąć się do ściany] #rUtrać #r",
-      " #rmaks. #rPŻ."
+      " #rmaksymalnych #rPŻ."
     ]
   },
   "Golden Wing": {
@@ -575,7 +575,7 @@
       "[Ofiaruj Złotego bożka] #gOtrzymaj #gunikalny #gartefakt. #rUtrać #rZłotego #rbożka.",
       "[Zablokowane] Wymagania: artefakt „Złoty bożek”.",
       "[Ofiara] #gOtrzymaj #g",
-      " #gmaks. #gPŻ. #rUtrać #r",
+      " #gmaksymalnych #gPŻ. #rUtrać #r",
       " #rPŻ.",
       "[Zablokowane] Wymagania: człowieczeństwo.",
       "[Zbezcześć] #rOtrzymujesz #rKlątwę #r- #gRozkład."
@@ -708,7 +708,7 @@
     ],
     "OPTIONS": [
       "[Zgódź się] #gUsuń #gkarty #gUderzeń. #gZyskaj #g5 #gkart #gUgryzień. #rUtrać #r",
-      "% #rmaks. #rPŻ.",
+      "% #rmaksymalnych #rPŻ.",
       "[Odmów]",
       "[Utrać – ",
       "] #gUsuń #gwszystkie #gUderzeń. #gZyskaj #g5 #gkart #gUgryzień.",
@@ -727,7 +727,9 @@
       "[Kup 2 mikstury] #y",
       "[Kup 3 mikstury] #y",
       " #yszt. #yzłota",
-      "[Odejdź]"
+      "[Odejdź]",
+      "[Leave] #rTake #r",
+      " #rDamage."
     ]
   }
 }

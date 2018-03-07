@@ -727,7 +727,9 @@
 			"[Buy 2 Potions] #y",
 			"[Buy 3 Potions] #y",
 			" #yGold.",
-			"[Leave]"
+			"[Leave]",
+      		"[Leave] #rTake #r",
+      		" #rDamage."
     ]
   }
 }

@@ -54,7 +54,7 @@
   },
   "Anger": {
     "NAME": "怒り",
-    "DESCRIPTION": "!D! ダメージを与える。 NL このカードのコピーを捨て札に置く。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL このカードのコピーを捨て札に加える。"
   },
   "Storm of Steel": {
     "NAME": "鋼の嵐",
@@ -208,7 +208,7 @@
   },
   "Necronomicurse": {
     "NAME": "死霊の呪い ",
-    "DESCRIPTION": "使用不可 。 NL この 呪い から逃れる方法はない。"
+    "DESCRIPTION": "使用不可 。 NL この 呪い から逃れるすべはない。"
   },
   "Choke": {
     "NAME": "窒息",
@@ -216,7 +216,7 @@
   },
   "Juggernaut": {
     "NAME": "ジャガーノート",
-    "DESCRIPTION": "ブロックを得るたび、ランダムな敵に !M! ダメージを与える。"
+    "DESCRIPTION": "ブロック を得るたび、ランダムな敵に !M! ダメージを与える。"
   },
   "Caltrops": {
     "NAME": "まきびし",
@@ -358,7 +358,7 @@
   },
   "Shockwave": {
     "NAME": "衝撃波",
-    "DESCRIPTION": "敵全体に !M! の  脱力 と 弱体 を与える。 NL 廃棄 。"
+    "DESCRIPTION": "敵全体に 脱力 !M! と 弱体 !M! を与える。 NL 廃棄 。"
   },
   "Rampage": {
     "NAME": "ランページ",
@@ -412,8 +412,8 @@
   },
   "Deep Breath": {
     "NAME": "深呼吸",
-    "DESCRIPTION": "捨て札のカードを山札に戻す。 NL カードを !M! 枚引く",
-    "UPGRADE_DESCRIPTION": "捨て札のカードを山札に戻す。 NL カードを !M! 枚引く。"
+    "DESCRIPTION": "捨て札全てを山札に戻す。 NL カードを !M! 枚引く",
+    "UPGRADE_DESCRIPTION": "捨て札全てを山札に戻す。 NL カードを !M! 枚引く。"
   },
   "Doubt": {
     "NAME": "疑念",
@@ -696,8 +696,8 @@
   },
   "Bloodletting": {
     "NAME": "瀉血",
-    "DESCRIPTION": "[R] を得る。 NL HP !M! を失う。",
-    "UPGRADE_DESCRIPTION": "[R] [R] を得る。 NL HP !M! を失う。"
+    "DESCRIPTION": "[R] を得る。 NL HP 3 を失う。",
+    "UPGRADE_DESCRIPTION": "[R] [R] を得る。 NL HP 3 を失う。"
   },
   "Concentrate": {
     "NAME": "集中",

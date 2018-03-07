@@ -1,11 +1,11 @@
 {
   "Cursed Run": {
     "NAME": "詛咒局",
-    "DESCRIPTION": "每打敗一名首領都被詛咒。"
+    "DESCRIPTION": "每打敗一名首領都被詛咒。你的起始遺物被替換成詛咒鑰匙、黑石護符和毒巫娃娃。"
   },
   "Elite Swarm": {
-    "NAME": "遍地精英",
-    "DESCRIPTION": "高塔中滿是精英。"
+    "NAME": "精英獵手",
+    "DESCRIPTION": "高塔中現在滿是精英，而且擊敗他們的獎勵變得更好。"
   },
   "Greed": {
     "NAME": "貪婪",
@@ -24,8 +24,8 @@
     "DESCRIPTION": "所有敵人獲得+3力量。"
   },
   "Night Terrors": {
-    "NAME": "夜不能寐",
-    "DESCRIPTION": "在營地休息只回復20%生命而非30%。"
+    "NAME": "暗夜驚魂",
+    "DESCRIPTION": "在營地休息回復100%生命，但會降低5點最大生命值。"
   },
   "Restless Journey": {
     "NAME": "不休旅途",
@@ -52,27 +52,35 @@
     "DESCRIPTION": "開始時擁有兩張隨機其他職業的牌。"
   },
   "Vintage": {
-    "NAME": "奇貨可居",
-    "DESCRIPTION": "商人漲價25%。"
+    "NAME": "上等好貨",
+    "DESCRIPTION": "普通敵人不再掉落卡牌，而是掉落遺物。"
   },
   "Binary": {
     "NAME": "兩者擇一",
     "DESCRIPTION": "卡牌獎勵只有兩張牌。"
   },
   "Uncertain Future": {
-    "NAME": "前路成謎",
-    "DESCRIPTION": "地圖上只顯示 ？ 。"
+    "NAME": "前路已定",
+    "DESCRIPTION": "地圖上只有一條道路。"
   },
   "Midas": {
     "NAME": "點金手",
     "DESCRIPTION": "敵人掉落200%金幣，但你不能在休息處升級卡牌。"
   },
   "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
+    "NAME": "精神錯亂",
+    "DESCRIPTION": "起始牌組將是50張隨機卡牌。"
   },
   "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
+    "NAME": "死鬥",
+    "DESCRIPTION": "你在每場戰鬥開始時獲得+3力量，所有敵人在戰鬥開始時獲得+3力量。"
+  },
+  "Terminal": {
+    "NAME": "Terminal",
+    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+  },
+  "Time Dilation": {
+    "NAME": "Time Dilation",
+    "DESCRIPTION": "All enemies become Slow."
   }
 }

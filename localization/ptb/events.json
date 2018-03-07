@@ -386,7 +386,7 @@
   "Liars Game": {
     "NAME": "A Ssssserpente",
     "DESCRIPTIONS": [
-      "Você entra em uma sala e encontra um grande buraco no chão. Conforme você se aproxima do buraco, uma enorme criatura em forma de serpente aparece de dentro. NL NL ~\"Ho~ ~hooo!~ ~Olá~ ~olá!~ ~o~ ~que~ ~temos~ ~aqui?~ Olá aventureiro, eu tenho uma simples pergunta. NL A mais gratificante das vidas é aquela em que você pode #y~comprar~ #y~qualquer~ ~#ycoisa!~ NL Você concorda?\"",
+      "Você entra em uma sala e encontra um grande buraco no chão. Conforme você se aproxima do buraco, uma enorme criatura em forma de serpente aparece de dentro. NL NL ~\"Ho~ ~hooo!~ ~Olá~ ~olá!~ ~o~ ~que~ ~temos~ ~aqui?~ Olá aventureiro, eu tenho uma simples pergunta. NL A mais gratificante das vidas é aquela em que você pode #y~comprar~ #y~qualquer~ #y~coisa!~ NL Você concorda?\"",
       "~\"Sssssssssssssssiiiiiiim!~ NL ~Tudo~ ~isssssso~ ~valerá~ ~a~ ~pena.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
       "A serpente te observa com um olhar de extremo desapontamento.",
       "A serpente ergue a cabeça e começa a jorrar #youro para cima! NL É incrível e arrepilante ao mesmo tempo. NL Você recolhe todo o #youro, agradece a cobra, e segue seu caminho."
@@ -727,7 +727,9 @@
       "[Compre 2 Poções] #y",
       "[Compre 3 Poções] #y",
       " #yOuro",
-      "[Sair]"
+      "[Sair]",
+      "[Leave] #rTake #r",
+      " #rDamage."
     ]
   }
 }

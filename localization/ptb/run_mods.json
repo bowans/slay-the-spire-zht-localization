@@ -1,43 +1,27 @@
 {
   "Cursed Run": {
     "NAME": "Jornada Amaldiçoada",
-    "DESCRIPTION": "Sempre que você derrotar um Chefe, seja Amaldiçoado."
+    "DESCRIPTION": "Sempre que você derrotar um Chefe, seja Amaldiçoado. Sua relíquia inicial é trocada por Chave Amaldiçoada, Amuleto de Pedra Negra, e Boneco Du-Vu."
   },
   "Elite Swarm": {
-    "NAME": "Infestação de Elites",
-    "DESCRIPTION": "Inimigos de elite estão infestando o Pináculo."
-  },
-  "Greed": {
-    "NAME": "Ganância",
-    "DESCRIPTION": "Você não pode pular recompensas de combate."
-  },
-  "Growing Enemies": {
-    "NAME": "Inimigos em Crescimento",
-    "DESCRIPTION": "Inimigos ficam mais fortes a cada turno."
+    "NAME": "Caçador de Grandes Presas",
+    "DESCRIPTION": "Inimigos de elite agora estão infestando o Pináculo e deixam recompensas melhores."
   },
   "Heirloom": {
     "NAME": "Herança",
     "DESCRIPTION": "Comece com 1 relíquia Rara."
   },
-  "Lethal Enemies": {
-    "NAME": "Inimigos Letais",
-    "DESCRIPTION": "Todos os inimigos começam com +3 de Força."
+  "Lethality": {
+    "NAME": "Letalidade",
+    "DESCRIPTION": "Você começa cada combate com +3 de Força. Todos os inimigos começam o combate com +3 de Força."
   },
   "Night Terrors": {
     "NAME": "Terrores Noturnos",
-    "DESCRIPTION": "Descansar em Locais de Descanso cura 20% do seu PV, ao invés de 30%."
+    "DESCRIPTION": "Descansar em Locais de Descanso cura 100% do seu PV, mas custa 5 PV máximo."
   },
-  "Restless Journey": {
-    "NAME": "Jornada sem Descanso",
-    "DESCRIPTION": "Você não mais se cura ao entrar em novos atos."
-  },
-  "Slow Start": {
-    "NAME": "Início Lento",
-    "DESCRIPTION": "Comece com 1 Golpe e Defender adicionais."
-  },
-  "Tough Enemies": {
-    "NAME": "Inimigos Durões",
-    "DESCRIPTION": "Inimigos têm 25% a mais PV."
+  "Insanity": {
+    "NAME": "Insanidade",
+    "DESCRIPTION": "Comece com um baralho aleatório de 50 cartas."
   },
   "Shiny": {
     "NAME": "Cintilante",
@@ -52,8 +36,8 @@
     "DESCRIPTION": "Comece com 2 cartas de outra classe."
   },
   "Uncertain Future": {
-    "NAME": "Futuro Incerto",
-    "DESCRIPTION": "O mapa mostra apenas ?."
+    "NAME": "Futuro Certo",
+    "DESCRIPTION": "O mapa contém apenas um caminho."
   },
   "Binary": {
     "NAME": "Binário",
@@ -65,14 +49,14 @@
   },
   "Vintage": {
     "NAME": "Vintage",
-    "DESCRIPTION": "Os preços do Vendedor são aumentados em 25%."
+    "DESCRIPTION": "Inimigos normais deixam relíquias ao invés de cartas."
   },
-  "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
+  "Terminal": {
+    "NAME": "Terminal",
+    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
   },
-  "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
+  "Time Dilation": {
+    "NAME": "Time Dilation",
+    "DESCRIPTION": "All enemies become Slow."
   }
 }

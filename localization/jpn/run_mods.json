@@ -1,43 +1,27 @@
 {
   "Cursed Run": {
     "NAME": "呪われし道程",
-    "DESCRIPTION": "ボスを倒すたび、呪われる。"
+    "DESCRIPTION": "ボスを倒すたび、呪われる。スターターレリックが呪いの鍵、ダークストーンの護符、ドゥーブー人形に置き換わる。"
   },
   "Elite Swarm": {
     "NAME": "エリートの群れ",
-    "DESCRIPTION": "エリート達が塔で群れを成す。"
-  },
-  "Greed": {
-    "NAME": "貪欲",
-    "DESCRIPTION": "戦闘の報酬はスキップできない。"
-  },
-  "Growing Enemies": {
-    "NAME": "成長し続ける敵",
-    "DESCRIPTION": "敵は毎ターン強化される。"
+    "DESCRIPTION": "エリート達が塔で群れを成し、より良いものをドロップするようになる。"
   },
   "Heirloom": {
     "NAME": "先祖伝来の家宝",
     "DESCRIPTION": "ランダムなレアレリック1つを所持してスタートする。"
   },
-  "Lethal Enemies": {
-    "NAME": "致命的な敵",
-    "DESCRIPTION": "戦闘開始時、すべての敵は 筋力 3 を得る。"
+  "Lethality": {
+    "NAME": "致命傷",
+    "DESCRIPTION": "戦闘開始時、あなたとすべての敵は筋力3を得る。"
   },
   "Night Terrors": {
     "NAME": "夜の恐怖",
-    "DESCRIPTION": "たき火でのHP回復が30％から20％に低下する。"
+    "DESCRIPTION": "休憩場所での回復量が100％になるが、最大HP5を失うようになる。"
   },
-  "Restless Journey": {
-    "NAME": "休み無き旅路",
-    "DESCRIPTION": "ボスを倒した後、HPが回復しない。"
-  },
-  "Slow Start": {
-    "NAME": "スロースタート",
-    "DESCRIPTION": "ストライクと防御を1枚ずつ所持してスタートする。"
-  },
-  "Tough Enemies": {
-    "NAME": "しぶとい敵",
-    "DESCRIPTION": "敵のHPが25％上昇。"
+  "Insanity": {
+    "NAME": "狂気の沙汰",
+    "DESCRIPTION": "ランダムな50枚のデッキでスタートする。"
   },
   "Shiny": {
     "NAME": "ピカピカ",
@@ -52,8 +36,8 @@
     "DESCRIPTION": "他のクラスのカード2枚を所持してスタートする。"
   },
   "Uncertain Future": {
-    "NAME": "五里霧中",
-    "DESCRIPTION": "地図のマーカーがすべて？になる。"
+    "NAME": "確定的未来",
+    "DESCRIPTION": "マップが一本道になる。"
   },
   "Binary": {
     "NAME": "二択",
@@ -67,12 +51,12 @@
     "NAME": "ヴィンテージ",
     "DESCRIPTION": "商人の販売価格が25％上昇する。"
   },
-  "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
+  "Terminal": {
+    "NAME": "Terminal",
+    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
   },
-  "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
+  "Time Dilation": {
+    "NAME": "Time Dilation",
+    "DESCRIPTION": "All enemies become Slow."
   }
 }
