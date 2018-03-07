@@ -74,5 +74,13 @@
   "Lethality": {
     "NAME": "死鬥",
     "DESCRIPTION": "你在每場戰鬥開始時獲得+3力量，所有敵人在戰鬥開始時獲得+3力量。"
+  },
+  "Terminal": {
+    "NAME": "Terminal",
+    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+  },
+  "Time Dilation": {
+    "NAME": "Time Dilation",
+    "DESCRIPTION": "All enemies become Slow."
   }
 }
