@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "Absorb",
-    "DESCRIPTIONS": [
-      "Whenever attacked, gain #b",
-      " Charge。"
-    ]
-  },
   "Accuracy": {
     "NAME": "精準",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " 回合少抽 #b1 張牌。"
     ]
   },
-  "Electric Field": {
-    "NAME": "Electric Field",
-    "DESCRIPTIONS": [
-      "When attacked, deal #b1 damage for every #b",
-      " Charge you have。",
-      "When attacked, deal #b1 damage for every Charge you have。"
-    ]
-  },
   "Energized": {
     "NAME": "能量提升",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B] 。"
     ]
   },
-  "Generator": {
-    "NAME": "Generator",
-    "DESCRIPTIONS": [
-      "At the start of each turn, gain #b",
-      " #yCharge。"
-    ]
-  },
   "Hex": {
     "NAME": "邪咒",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "你在你的下個回合開始前不會受到傷害。",
       "你在 #b",
       " 個回合內不會受到傷害。"
-    ]
-  },
-  "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTIONS": [
-      "在你的回合結束時， lose #b",
-      " Charge。"
     ]
   },
   "Infinite Blades": {
@@ -667,12 +638,6 @@
     "DESCRIPTIONS": [
       "攻擊傷害提升 #b",
       "攻擊傷害降低 #b"
-    ]
-  },
-  "Systems": {
-    "NAME": "Systems",
-    "DESCRIPTIONS": [
-      "每當你獲得Charge, deal that much damage to a random enemy。"
     ]
   },
   "Thievery": {
