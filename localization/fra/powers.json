@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "Absorption",
-    "DESCRIPTIONS": [
-      "Lorsqu'on vous attaque, gagnez #b",
-      " de Charge."
-    ]
-  },
   "Accuracy": {
     "NAME": "Précision",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " tours."
     ]
   },
-  "Electric Field": {
-    "NAME": "Champ électrique",
-    "DESCRIPTIONS": [
-      "À chaque attaque, infligez #b1 dégâts pour chaque #b",
-      " Charge.",
-      "À chaque attaque, infligez #b1 dégâts pour chaque Charge."
-    ]
-  },
   "Energized": {
     "NAME": "Énergétique",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B] ."
     ]
   },
-  "Generator": {
-    "NAME": "Générateur",
-    "DESCRIPTIONS": [
-      "Au début de chaque tour, gagnez #b",
-      " de #yCharge."
-    ]
-  },
   "Hex": {
     "NAME": "Maléfice",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "Vous ne subissez aucun dégât jusqu'au début de votre prochain tour.",
       "Vous ne subissez aucun dégât pendant #b",
       " tours."
-    ]
-  },
-  "Impulse": {
-    "NAME": "Impulsion",
-    "DESCRIPTIONS": [
-      "À la fin de votre tour, vous perdez #b",
-      " de Charge."
     ]
   },
   "Infinite Blades": {
@@ -654,12 +625,6 @@
     "DESCRIPTIONS": [
       "Augmente les dégâts d'Attaque de #b",
       "Réduit les dégâts d'Attaque de #b"
-    ]
-  },
-  "Systems": {
-    "NAME": "Systèmes",
-    "DESCRIPTIONS": [
-      "Lorsque vous gagnez en Charge, infligez le même montant de dégâts à un ennemi aléatoire."
     ]
   },
   "Thievery": {

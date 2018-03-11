@@ -1,35 +1,15 @@
 {
   "Cursed Run": {
     "NAME": "Проклятая вылазка",
-    "DESCRIPTION": "Вы получаете Проклятие, побеждая босса."
-  },
-  "Growing Enemies": {
-    "NAME": "Растущие враги",
-    "DESCRIPTION": "Враги сильнее с каждым ходом."
+    "DESCRIPTION": "Вы получаете Проклятие, побеждая босса. Ваша начальная реликвия заменена на Проклятый ключ, Амулет из тёмного камня и Куклу ду-ву."
   },
   "Heirloom": {
     "NAME": "Наследство",
     "DESCRIPTION": "Вы начинаете с 1 редкой реликвией."
   },
-  "Lethal Enemies": {
-    "NAME": "Смертоносные враги",
-    "DESCRIPTION": "У всех врагов +3 Силы."
-  },
   "Night Terrors": {
     "NAME": "Ночные кошмары",
-    "DESCRIPTION": "Отдых в лагере восполняет 20% ОЗ вместо 30%."
-  },
-  "Restless Journey": {
-    "NAME": "Беспрерывный поход",
-    "DESCRIPTION": "ОЗ не восполняются при переходе в след. акт."
-  },
-  "Slow Start": {
-    "NAME": "Медленный старт",
-    "DESCRIPTION": "Вы начинаете с 1 доп. Ударом и Обороной."
-  },
-  "Tough Enemies": {
-    "NAME": "Живучие враги",
-    "DESCRIPTION": "У всех врагов +25% ОЗ."
+    "DESCRIPTION": "Отдых в лагере восполняет 100% ОЗ, но отнимает 5 Макс. ОЗ."
   },
   "Shiny": {
     "NAME": "Прелесть",
@@ -45,15 +25,11 @@
   },
   "Vintage": {
     "NAME": "Раритет",
-    "DESCRIPTION": "Цены торговца на 25% выше."
-  },
-  "Greed": {
-    "NAME": "Жадность",
-    "DESCRIPTION": "Вы не можете пропускать награду за бой."
+    "DESCRIPTION": "В награду за бой с обычными врагами даются реликвии, а не карты."
   },
   "Elite Swarm": {
-    "NAME": "Набег элиты",
-    "DESCRIPTION": "Элитные враги заполонили Шпиль."
+    "NAME": "Сезон охоты",
+    "DESCRIPTION": "Элитные враги заполонили Шпиль и за бой с ними даётся улучшенная награда."
   },
   "Binary": {
     "NAME": "Бинарность",
@@ -64,23 +40,23 @@
     "DESCRIPTION": "С врагов падает на 200% больше золота, но вы не можете улучшать карты в лагере."
   },
   "Uncertain Future": {
-    "NAME": "Мутное будущее",
-    "DESCRIPTION": "Карта акта отображает только «?»."
-  },
-  "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
+    "NAME": "Ясное будущее",
+    "DESCRIPTION": "Карта акта содержит лишь один путь."
   },
   "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
+    "NAME": "Смертоносность",
+    "DESCRIPTION": "Вы начинаете каждый бой с +3 Силы. Все враги начинают бой с +3 Силы."
   },
-  "Terminal": {
-    "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+  "Insanity": {
+    "NAME": "Сумасшествие",
+    "DESCRIPTION": "Вы начнёте с колодой из 50-и случайных карт."
   },
   "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies become Slow."
+    "NAME": "Искревление времени",
+    "DESCRIPTION": "На всех противников накладывается Медлительность."
+  },
+  "Terminal": {
+    "NAME": "Лепра",
+    "DESCRIPTION": "Вы теряете 1 Макс. ОЗ, когда заходите в новую комнату, и начинаете каждый бой с 5 ед. «Латных доспехов»."
   }
 }

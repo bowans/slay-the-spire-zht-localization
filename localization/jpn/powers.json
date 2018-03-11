@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "吸収",
-    "DESCRIPTIONS": [
-      "攻撃されると、チャージ #b",
-      " を得る。"
-    ]
-  },
   "Accuracy": {
     "NAME": "精度上昇",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " ターン有効。"
     ]
   },
-  "Electric Field": {
-    "NAME": "エレクトリックフィールド",
-    "DESCRIPTIONS": [
-      "攻撃を受けると、　#b",
-      " チャージごとに #b1 のダメージを与える。",
-      "攻撃を受けると、チャージｘ #b1 のダメージを与える。"
-    ]
-  },
   "Energized": {
     "NAME": "活性化",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B] ."
     ]
   },
-  "Generator": {
-    "NAME": "Generator",
-    "DESCRIPTIONS": [
-      "At the start of each turn, gain #b",
-      " #yCharge."
-    ]
-  },
   "Hex": {
     "NAME": "呪詛",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "次のターン開始時までダメージでHPが減らない。",
       "ダメージでHPが減らない。 #b",
       " ターン有効。"
-    ]
-  },
-  "Impulse": {
-    "NAME": "インパルス",
-    "DESCRIPTIONS": [
-      "ターン終了時、チャージ #b",
-      " を失う。"
     ]
   },
   "Infinite Blades": {
@@ -680,12 +651,6 @@
     "DESCRIPTIONS": [
       "攻撃ダメージが #b+",
       "攻撃ダメージが #b-"
-    ]
-  },
-  "Systems": {
-    "NAME": "システム",
-    "DESCRIPTIONS": [
-      "チャージを得るたび、同量のダメージを敵に与える。"
     ]
   },
   "Thievery": {

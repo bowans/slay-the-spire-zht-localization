@@ -12,15 +12,15 @@
     "DESCRIPTION": "Zaczynasz grę z 1 rzadkim artefaktem."
   },
   "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "Rozpoczynasz walkę z dodatkowymi 3 pkt. Siły. Wszyscy wrogowie rozpoczynają walkę z dodatkowymi 3 pkt. Siły."
+    "NAME": "Śmiertelność",
+    "DESCRIPTION": "Rozpoczynasz walkę z dodatkowymi 3 pkt. Siły. Wrogowie rozpoczynają walkę z dodatkowymi 3 pkt. Siły."
   },
   "Night Terrors": {
     "NAME": "Koszmary",
     "DESCRIPTION": "Odpoczywając odzyskujesz 100% PŻ, ale tracisz 5 maksymalnych PŻ."
   },
   "Insanity": {
-    "NAME": "Insanity",
+    "NAME": "Szaleństwo",
     "DESCRIPTION": "Rozpoczynasz z talią 50 losowych kart."
   },
   "Shiny": {
@@ -52,11 +52,11 @@
     "DESCRIPTION": "Zwykli wrogowie zostawiają po sobie artefakty zamiast kart."
   },
   "Terminal": {
-    "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+    "NAME": "Śmiertelna choroba",
+    "DESCRIPTION": "Za każdym razem, gdy wchodzisz do pokoju, tracisz 1 maksymalny PŻ. Rozpoczynasz walkę z Pancerzem(5)."
   },
   "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies become Slow."
+    "NAME": "Zakrzywienie czasu",
+    "DESCRIPTION": "Wrogowie są Ślamazarni."
   }
 }

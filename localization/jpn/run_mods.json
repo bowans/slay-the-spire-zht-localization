@@ -47,16 +47,16 @@
     "NAME": "ミダス",
     "DESCRIPTION": "敵が落とすゴールドが2倍になるが、休憩場所でカードのアップグレードができなくなる。"
   },
+  "Terminal": {
+    "NAME": "ターミナル",
+    "DESCRIPTION": "新しい部屋に入るたび、最大HP1を失う。 戦闘開始時、プレートアーマー 5 を得る。"
+  },
+  "Time Dilation": {
+    "NAME": "時間の遅れ",
+    "DESCRIPTION": "全ての敵にスローを付与する。"
+  },
   "Vintage": {
     "NAME": "ヴィンテージ",
     "DESCRIPTION": "商人の販売価格が25％上昇する。"
-  },
-  "Terminal": {
-    "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
-  },
-  "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies become Slow."
   }
 }

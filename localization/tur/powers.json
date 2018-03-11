@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "Darbeyi Em",
-    "DESCRIPTIONS": [
-      "Saldırıldığında, #b",
-      " Yük kazan."
-    ]
-  },
   "Accuracy": {
     "NAME": "İsabet",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " tur boyunca."
     ]
   },
-  "Electric Field": {
-    "NAME": "Elektrik Alan",
-    "DESCRIPTIONS": [
-      "Saldırıldığında, elindeki her #b",
-      " Yük için #b1 hasar ver.",
-      "Saldırıldığında, elindeki her Yük için #b1 hasar ver."
-    ]
-  },
   "Energized": {
     "NAME": "Enerjik",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B] kazan."
     ]
   },
-  "Generator": {
-    "NAME": "Jeneratör",
-    "DESCRIPTIONS": [
-      "Her turun başında, #b",
-      " #yYük kazan."
-    ]
-  },
   "Hex": {
     "NAME": "Nazar",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "Diğer turun başına kadar hasar alamazsın.",
       " #b",
       " tur boyunca hasar almazsın."
-    ]
-  },
-  "Impulse": {
-    "NAME": "Dürtü",
-    "DESCRIPTIONS": [
-      "Turunun sonunda, #b",
-      " Yük kaybet."
     ]
   },
   "Infinite Blades": {
@@ -673,12 +644,6 @@
     "DESCRIPTIONS": [
       "Saldırı hasarını arttırır, #b",
       "Saldırı hasarını azaltır, #b"
-    ]
-  },
-  "Systems": {
-    "NAME": "Sistemler",
-    "DESCRIPTIONS": [
-      "Ne zaman Yük kazanırsan, rastgele bir düşmana kazandığın kadar hasar ver."
     ]
   },
   "Thievery": {

@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "Absorb",
-    "DESCRIPTIONS": [
-      "Whenever attacked, gain #b",
-      " Charge."
-    ]
-  },
   "Accuracy": {
     "NAME": "Precisione",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " turni."
     ]
   },
-  "Electric Field": {
-    "NAME": "Electric Field",
-    "DESCRIPTIONS": [
-      "When attacked, deal #b1 damage for every #b",
-      " Charge you have.",
-      "When attacked, deal #b1 damage for every Charge you have."
-    ]
-  },
   "Energized": {
     "NAME": "Supercarica",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B] ."
     ]
   },
-  "Generator": {
-    "NAME": "Generator",
-    "DESCRIPTIONS": [
-      "At the start of each turn, gain #b",
-      " #yCharge."
-    ]
-  },
   "Hex": {
     "NAME": "Maleficio",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "Non puoi ricevere danno fino all'inizio del tuo prossimo turno.",
       "Non puoi ricevere danno per #b",
       " turni."
-    ]
-  },
-  "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " Charge."
     ]
   },
   "Infinite Blades": {
@@ -673,12 +644,6 @@
     "DESCRIPTIONS": [
       "Aumenta il danno degli attacchi di #b",
       "Riduce il danno degli attacchi di #b"
-    ]
-  },
-  "Systems": {
-    "NAME": "Systems",
-    "DESCRIPTIONS": [
-      "Whenever you gain Charge, deal that much damage to a random enemy."
     ]
   },
   "Thievery": {

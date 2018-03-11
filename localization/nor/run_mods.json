@@ -1,43 +1,19 @@
 {
   "Cursed Run": {
     "NAME": "En forbannet oppstigning",
-    "DESCRIPTION": "Hver gang du slår en høvding får du et Forbannelseskort."
+    "DESCRIPTION": "Hver gang du slår en høvding får du et Forbannelseskort. Startrelikvien din blir erstattet med Forbannelsens nøkkel, Et smykke av mørkestein, og Du-Vu-dukke"
   },
   "Elite Swarm": {
-    "NAME": "Elitesvermer",
-    "DESCRIPTION": "Elitefiender svermer rundt i tårnet."
-  },
-  "Greed": {
-    "NAME": "Grådighet",
-    "DESCRIPTION": "Du kan ikke hoppe over belønninger du får etter kamper."
-  },
-  "Growing Enemies": {
-    "NAME": "Sterkere fiender",
-    "DESCRIPTION": "Fiender blir sterkere for hver runde."
+    "NAME": "Storviltjeger",
+    "DESCRIPTION": "Elitefiender svermer rundt i tårnet, og etterlater seg bedre belønninger."
   },
   "Heirloom": {
     "NAME": "Arv",
     "DESCRIPTION": "Start med en tilfeldig Relikvie."
   },
-  "Lethal Enemies": {
-    "NAME": "Dødelige fiender",
-    "DESCRIPTION": "Alle fiender starter med +3 i Styrke."
-  },
   "Night Terrors": {
     "NAME": "Fryktens natt",
-    "DESCRIPTION": "Hvis du hviler ved Leirbål, helbreder du bare 20% av max HP isteden for 30%."
-  },
-  "Restless Journey": {
-    "NAME": "En hvileløs reise",
-    "DESCRIPTION": "Du helbreder ikke lenger når du entrer nye nivåer."
-  },
-  "Slow Start": {
-    "NAME": "Treg start",
-    "DESCRIPTION": "Start med 1 ekstra Slag- og Forsvarkort."
-  },
-  "Tough Enemies": {
-    "NAME": "Tøffe fiender",
-    "DESCRIPTION": "Fiender har 25% mer HP."
+    "DESCRIPTION": "Hvis du hviler ved Leirbål, helbreder du 100% av max HP, men mister 5 Max HP i prosessen."
   },
   "Shiny": {
     "NAME": "Skinnende",
@@ -53,7 +29,7 @@
   },
   "Vintage": {
     "NAME": "Gammeldags",
-    "DESCRIPTION": "Kjøpmannens priser er økt med 25%%."
+    "DESCRIPTION": "Normale fiender etterlater seg Relikvier isteden for kort."
   },
   "Binary": {
     "NAME": "Binær",
@@ -61,26 +37,26 @@
   },
   "Uncertain Future": {
     "NAME": "Usikker fremtid",
-    "DESCRIPTION": "Kartet viser bare ?."
+    "DESCRIPTION": "Kartet inneholder kun èn retning."
   },
   "Midas": {
     "NAME": "Midas",
     "DESCRIPTION": "Fiender slipper 200% mer gull, men du kan ikke oppgradere kort ved Leirbål."
   },
   "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
+    "NAME": "Galskap",
+    "DESCRIPTION": "Start med en tilfeldig kortstokk med 50 kort."
   },
   "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
+    "NAME": "Dødelighet",
+    "DESCRIPTION": "Du starter alle kamper med +3 i Styrke. Alle fiender starter også kampene med +3 i Styrke."
   },
   "Terminal": {
-    "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+    "NAME": "Den aller siste",
+    "DESCRIPTION": "Hver gang du entrer et nytt rom mister du 1 i Max HP. Du starter alle kamper med 5 Jernrustning."
   },
   "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies become Slow."
+    "NAME": "Utvidelse av tiden",
+    "DESCRIPTION": "Alle fiender blir Trege."
   }
 }

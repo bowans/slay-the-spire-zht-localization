@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "Absorber",
-    "DESCRIPTIONS": [
-      "Cuando es atacado, gana #b",
-      " Carga."
-    ]
-  },
   "Accuracy": {
     "NAME": "Precisión",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " turnos."
     ]
   },
-  "Electric Field": {
-    "NAME": "Campo Eléctrico",
-    "DESCRIPTIONS": [
-      "Cuando eres atacado, infliges #b1 de daño por cada #b",
-      " de Carga que tengas.",
-      "Cuando eres atacado, infliges #b1 de daño por cada Carga que tengas."
-    ]
-  },
   "Energized": {
     "NAME": "Energizado",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B] ."
     ]
   },
-  "Generator": {
-    "NAME": "Generador",
-    "DESCRIPTIONS": [
-      "Al comienzo de cada turno, gana #b",
-      " de #yCarga."
-    ]
-  },
   "Hex": {
     "NAME": "Maleficio",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "No puedes recibir daño hasta el principio de tu turno.",
       "No puedes recibir daño durante #b",
       " turnos."
-    ]
-  },
-  "Impulse": {
-    "NAME": "Impulso",
-    "DESCRIPTIONS": [
-      "Al final de tu turno, pierde #b",
-      " Carga."
     ]
   },
   "Infinite Blades": {
@@ -673,12 +644,6 @@
     "DESCRIPTIONS": [
       "Aumenta el daño de ataque en #b",
       "Reduce el daño de ataque en #b"
-    ]
-  },
-  "Systems": {
-    "NAME": "Sistemas",
-    "DESCRIPTIONS": [
-      "Cada vez que gana Carga, inflige esa cantidad de daño a un enemigo aleatorio."
     ]
   },
   "Thievery": {

@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "Absorber",
-    "DESCRIPTIONS": [
-      "Når du blir angrepet, lad #b",
-      "."
-    ]
-  },
   "Accuracy": {
     "NAME": "Nøyaktighet",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " runder."
     ]
   },
-  "Electric Field": {
-    "NAME": "Elektrisk felt",
-    "DESCRIPTIONS": [
-      "Når angrepet påfører den #b1 Skade for hver #b",
-      " oppladning du har.",
-      "Når angrepet påfører den #b1 Skade for hver oppladning du har."
-    ]
-  },
   "Energized": {
     "NAME": "Energiboost",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B] ."
     ]
   },
-  "Generator": {
-    "NAME": "Generator",
-    "DESCRIPTIONS": [
-      "I starten av hver runde, få #b",
-      " #yOppladning."
-    ]
-  },
   "Hex": {
     "NAME": "Forheks",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "Du kan ikke ta Skade inntil begynnelsen av din neste runde.",
       "Du kan ikke ta Skade de neste #b",
       " rundene."
-    ]
-  },
-  "Impulse": {
-    "NAME": "Impuls",
-    "DESCRIPTIONS": [
-      "I slutten av runden din mister du #b",
-      " Oppladninger."
     ]
   },
   "Infinite Blades": {
@@ -673,12 +644,6 @@
     "DESCRIPTIONS": [
       "Øker Skade påført fra angrep med #b",
       "Minsker Skade påført fra angrep med #b"
-    ]
-  },
-  "Systems": {
-    "NAME": "Systemer",
-    "DESCRIPTIONS": [
-      "Når du blir Oppladet, påfører du så mye Skade til en tilfeldig fiende."
     ]
   },
   "Thievery": {

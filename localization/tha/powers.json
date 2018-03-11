@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "Absorb",
-    "DESCRIPTIONS": [
-      "เมื่อถูกโจมตี, ได้รับ #b",
-      " Charge."
-    ]
-  },
   "Accuracy": {
     "NAME": "Accuracy",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " turns."
     ]
   },
-  "Electric Field": {
-    "NAME": "Electric Field",
-    "DESCRIPTIONS": [
-      "When attacked, deal #b1 damage for every #b",
-      " Charge you have.",
-      "When attacked, deal #b1 damage for every Charge you have."
-    ]
-  },
   "Energized": {
     "NAME": "Energized",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B] ."
     ]
   },
-  "Generator": {
-    "NAME": "Generator",
-    "DESCRIPTIONS": [
-      "At the start of each turn, gain #b",
-      " #yCharge."
-    ]
-  },
   "Hex": {
     "NAME": "Hex",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "You cannot take damage until the start of your next turn.",
       "You cannot take damage for #b",
       " turns."
-    ]
-  },
-  "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " Charge."
     ]
   },
   "Infinite Blades": {
@@ -673,12 +644,6 @@
     "DESCRIPTIONS": [
       "Increases attack damage by #b",
       "Decrease attack damage by #b"
-    ]
-  },
-  "Systems": {
-    "NAME": "Systems",
-    "DESCRIPTIONS": [
-      "Whenever you gain Charge, deal that much damage to a random enemy."
     ]
   },
   "Thievery": {

@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "Absorbieren",
-    "DESCRIPTIONS": [
-      "Immer wenn du angegriffen wirst, erhältst du #b",
-      " Ladung."
-    ]
-  },
   "Accuracy": {
     "NAME": "Genauigkeit",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " Züge."
     ]
   },
-  "Electric Field": {
-    "NAME": "Elektrisches Feld",
-    "DESCRIPTIONS": [
-      "Wenn du angegriffen wirst, verursachst du #b1 Schaden für jede #b",
-      " Ladung, die du hast.",
-      "Wenn du angegriffen wirst, verursachst du #b1 Schaden für jede Ladung, die du hast."
-    ]
-  },
   "Energized": {
     "NAME": "Energiegeladen",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B] ."
     ]
   },
-  "Generator": {
-    "NAME": "Generator",
-    "DESCRIPTIONS": [
-      "Zu Beginn jedes Zuges erhältst du #b",
-      " #yLadung."
-    ]
-  },
   "Hex": {
     "NAME": "Verfluchen",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "Du kannst bis zum Beginn deines nächsten Zuges keinen Schaden erleiden.",
       "Du kannst #b",
       " Züge lang keinen Schaden erleiden."
-    ]
-  },
-  "Impulse": {
-    "NAME": "Impuls",
-    "DESCRIPTIONS": [
-      "Am Ende deines Zuges verlierst du #b",
-      " Ladung."
     ]
   },
   "Infinite Blades": {
@@ -654,12 +625,6 @@
     "DESCRIPTIONS": [
       "Erhöht Angriffsschaden um #b",
       "Verringert Angriffsschaden um #b"
-    ]
-  },
-  "Systems": {
-    "NAME": "Systeme",
-    "DESCRIPTIONS": [
-      "Immer wenn du eine Ladung erhältst, verursachst du an einem zufälligen Gegner dieselbe Menge Schaden."
     ]
   },
   "Thievery": {

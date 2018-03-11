@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "Absorpcja",
-    "DESCRIPTIONS": [
-      "Po każdym otrzymanym ataku zyskaj #b",
-      " ładunek."
-    ]
-  },
   "Accuracy": {
     "NAME": "Celność",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " kolejnych tur."
     ]
   },
-  "Electric Field": {
-    "NAME": "Pole siłowe",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek otrzymasz obrażenia, zadaj #b1 pkt. obrażeń za każdy #b",
-      " ładunek, który posiadasz.",
-      "Kiedykolwiek otrzymasz obrażenia, zadaj #b1 pkt. obrażeń za każdy ładunek, który posiadasz."
-    ]
-  },
   "Energized": {
     "NAME": "Pobudzenie",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B]."
     ]
   },
-  "Generator": {
-    "NAME": "Generator",
-    "DESCRIPTIONS": [
-      "Na początku każdej tury zyskaj #b",
-      " #yładunek."
-    ]
-  },
   "Hex": {
     "NAME": "Przekleństwo",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "Nie otrzymujesz obrażeń do końca tury.",
       "Nie otrzymujesz obrażeń przez #b",
       " tury."
-    ]
-  },
-  "Impulse": {
-    "NAME": "Zapęd",
-    "DESCRIPTIONS": [
-      "Na końcu tury utrać #b",
-      " ładunek."
     ]
   },
   "Infinite Blades": {
@@ -673,12 +644,6 @@
     "DESCRIPTIONS": [
       "Zwiększa obrażenia o #b",
       "Zmniejsza obrażenia o #b"
-    ]
-  },
-  "Systems": {
-    "NAME": "Układy",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek zyskasz ładunek, zadaj tyle samo obrażeń przeciwnikowi."
     ]
   },
   "Thievery": {

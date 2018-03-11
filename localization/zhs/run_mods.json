@@ -7,37 +7,13 @@
     "NAME": "精英猎手",
     "DESCRIPTION": "高塔中现在满是精英，且击败它们的奖励变得更好。"
   },
-  "Greed": {
-    "NAME": "贪婪",
-    "DESCRIPTION": "不能跳过战斗胜利后的奖励。"
-  },
-  "Growing Enemies": {
-    "NAME": "万物生长",
-    "DESCRIPTION": "敌人每回合变强。"
-  },
   "Heirloom": {
     "NAME": "传家宝",
     "DESCRIPTION": "开始时获得一件随机遗物。"
   },
-  "Lethal Enemies": {
-    "NAME": "致命强敌",
-    "DESCRIPTION": "所有敌人获得+3力量。"
-  },
   "Night Terrors": {
     "NAME": "暗夜惊魂",
     "DESCRIPTION": "在营地休息回复100%生命，但会降低5点最大生命值。"
-  },
-  "Restless Journey": {
-    "NAME": "不休旅途",
-    "DESCRIPTION": "战胜Boss后不会回复生命。"
-  },
-  "Slow Start": {
-    "NAME": "缓慢起步",
-    "DESCRIPTION": "开始时多拥有一张打击和一张防御。"
-  },
-  "Tough Enemies": {
-    "NAME": "坚实强敌",
-    "DESCRIPTION": "敌人获得25%额外生命。"
   },
   "Shiny": {
     "NAME": "金光闪闪",
@@ -76,11 +52,11 @@
     "DESCRIPTION": "你在每场战斗开始时获得+3力量，所有敌人在战斗开始时获得+3力量。"
   },
   "Terminal": {
-    "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+    "NAME": "身患绝症",
+    "DESCRIPTION": "你每进入一个新房间时都失去1点最大生命。你在每场战斗开始时获得5层多层护甲。"
   },
   "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies become Slow."
+    "NAME": "时间膨胀",
+    "DESCRIPTION": "所有敌人都拥有“缓慢”特性。"
   }
 }

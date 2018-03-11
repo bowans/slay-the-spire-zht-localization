@@ -90,7 +90,7 @@
     ],
     "OPTIONS": [
       "[Be] #gFå #g",
-      " #gGull.",
+	  " #gGull.",	  
       "[Ødelegg] #gFå #g250 #ggull. #rBli #rforbannet #r- #rAnger.",
       "[Stikk]"
     ]
@@ -199,7 +199,7 @@
     ],
     "OPTIONS": [
       "[Hopp inn] #gHelbred #gfullt #gopp. #gSenk #rMax #rHP #rmed #r",
-      ".",
+	  ".",	  
       "[Offer: Gullidol] #gMotta #g333 #ggull. #rMist #rGullidolet #rditt.",
       "[Låst] Krever: Gullidol.",
       "[Stikk]"
@@ -258,7 +258,7 @@
     "OPTIONS": [
       "...",
       "[Omfavn galskapen] #gMotta #g2 #gGalskap. #rMist #r10 #r",
-      " HP.",
+	  " HP.",
       "[Fokuser] #rMotta #ren #rForbannelse #r- #rVri #rseg. #gHelbred #g",
       "[Stikk]",
       " #gHP."
@@ -692,9 +692,9 @@
       "Du fortsetter på fin vei, og lar de døde være døde."
     ],
     "OPTIONS": [
-      "[Åpne kisten] #gMotta #gen #gRelikvie. #r",
-      "%: #rMotta #ret #rForbannelseskort #r- #rVri #rseg.",
-      "[Stikk]"
+			"[Åpne kisten] #gMotta #gen #gRelikvie. #r",
+			"%: #rMotta #ret #rForbannelseskort #r- #rVri #rseg.",
+			"[Stikk]"
     ]
   },
   "Vampires": {
@@ -726,10 +726,10 @@
       "[Kjøp 1 trylledrikk] #y",
       "[Kjøp 2 trylledrikker] #y",
       "[Kjøp 3 trylledrikker] #y",
-      " #ygull",
+      " #yGull",
       "[Stikk]",
-      "[Leave] #rTake #r",
-      " #rDamage."
+	  "[Stikk] #rTa #r",
+      " #rSkade."
     ]
   }
 }
