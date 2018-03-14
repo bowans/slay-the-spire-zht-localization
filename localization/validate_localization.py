@@ -102,6 +102,7 @@ if __name__ == "__main__":
     # Filter out errors in file ignore list. The more complicated rules are hardcoded to save time.
     errors = [e for e in errors if not (os.path.basename(e[0]) in ignored_files)]
     errors = [e for e in errors if not (os.path.basename(e[0]) in "keywords.json" and isinstance(e[1], ArraySizeMismatch))]
+    errors = [e for e in errors if not (os.path.basename(e[0]) in "credits.json" and isinstance(e[1], ArraySizeMismatch))]
     errors = [e for e in errors if not (os.path.basename(e[0]) == "cards.json" and isinstance(e[1], UnsharedDictKeys) and 'UPGRADE_DESCRIPTION' in str(e[1]))]
 
     if len(errors) == 0:

@@ -1,86 +1,62 @@
 {
   "Cursed Run": {
-    "NAME": "저주받은 여정",
-    "DESCRIPTION": "보스를 처치할 때마다 저주를 받습니다."
+    "NAME": "저주받은 도전",
+    "DESCRIPTION": "보스를 처치할 때마다 저주를 받습니다. 시작 유물이 저주받은 열쇠, 흑옥 부적, 저주 인형으로 교체됩니다."
   },
-  "Growing Enemies": {
-    "NAME": "성장하는 적들",
-    "DESCRIPTION": "적들이 매 턴 강력해집니다."
+  "Elite Swarm": {
+    "NAME": "나 이런 사냥꾼이야",
+    "DESCRIPTION": "엘리트가 첨탑에 바글거리며 더 좋은 보상을 줍니다."
   },
   "Heirloom": {
     "NAME": "가보",
     "DESCRIPTION": "무작위 유물 1개를 얻고 시작합니다."
   },
-  "Lethal Enemies": {
-    "NAME": "치명적인 적들",
-    "DESCRIPTION": "모든 적의 힘이 3 증가한 상태로 전투를 시작합니다."
+  "Lethality": {
+    "NAME": "양날의 검",
+    "DESCRIPTION": "전투 시작 시, 3의 힘을 얻습니다. 전투 시작 시, 모든 적이 3의 힘을 얻습니다."
   },
   "Night Terrors": {
-    "NAME": "밤공포증",
-    "DESCRIPTION": "모닥불에서의 회복량이 30%에서 20%로 감소합니다."
+    "NAME": "밤의 공포",
+    "DESCRIPTION": "모닥불에서 체력이 100% 회복되지만, 최대 체력이 5 감소됩니다."
   },
-  "Restless Journey": {
-    "NAME": "쉴 수 없는 모험",
-    "DESCRIPTION": "새로운 단계에 도달할 때 더 이상 체력이 회복되지 않습니다."
-  },
-  "Slow Start": {
-    "NAME": "느린 시작",
-    "DESCRIPTION": "타격과 수비 카드를 각각 1장씩 더 받고 시작합니다."
-  },
-  "Tough Enemies": {
-    "NAME": "튼튼한 적들",
-    "DESCRIPTION": "모든 적의 체력이 25% 증가합니다."
-  },
-  "Vintage": {
-    "NAME": "빈티지",
-    "DESCRIPTION": "상점 물품들의 가격이 25% 증가합니다."
+  "Insanity": {
+    "NAME": "정신 이상",
+    "DESCRIPTION": "50장의 무작위 카드로 구성된 덱으로 시작합니다."
   },
   "Shiny": {
-    "NAME": "반짝거림",
+    "NAME": "빛나는 것이 좋아",
     "DESCRIPTION": "무작위 희귀 카드 1장을 얻고 시작합니다."
-  },
-  "Elite Swarm": {
-    "NAME": "넘쳐나는 엘리트",
-    "DESCRIPTION": "첨탑이 엘리트로 넘쳐납니다."
   },
   "Allstar": {
     "NAME": "올스타",
     "DESCRIPTION": "무작위 무색 카드 2장을 얻고 시작합니다."
   },
-  "Greed": {
-    "NAME": "탐욕",
-    "DESCRIPTION": "전투 보상을 스킵할 수 없습니다."
-  },
   "Diverse": {
     "NAME": "다양성",
     "DESCRIPTION": "다른 직업의 무작위 카드 2장을 얻고 시작합니다."
   },
-  "Binary": {
-    "NAME": "2진법",
-    "DESCRIPTION": "카드 보상의 선택이 2장으로 줄어듭니다."
-  },
   "Uncertain Future": {
-    "NAME": "불확실한 미래",
-    "DESCRIPTION": "지도에서 모든 장소가 ?로 표시됩니다."
+    "NAME": "확실한 미래",
+    "DESCRIPTION": "지도에 단 하나의 길만 존재합니다."
+  },
+  "Binary": {
+    "NAME": "양자택일",
+    "DESCRIPTION": "카드 보상에서 3장이 아닌 2장의 카드 중에서 선택하게 됩니다."
   },
   "Midas": {
-    "NAME": "미다스",
+    "NAME": "마이더스",
     "DESCRIPTION": "적 처치시 골드 획득량이 2배로 증가하지만 모닥불에서 카드 재련을 할 수 없습니다."
   },
-  "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
-  },
-  "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
-  },
   "Terminal": {
-    "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+    "NAME": "불치병",
+    "DESCRIPTION": "새로운 방에 입장할 때마다, 1의 최대 체력을 잃습니다. 전투 시작 시, 5의 판금 갑옷을 얻습니다."
   },
   "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies become Slow."
+    "NAME": "시간 팽창",
+    "DESCRIPTION": "모든 적이 둔화에 걸립니다."
+  },
+  "Vintage": {
+    "NAME": "빈티지",
+    "DESCRIPTION": "일반 적들의 보상으로 카드가 아닌 유물을 받습니다."
   }
 }

@@ -21,22 +21,30 @@ def fill_with_a(a, b):
         missing_keys = a.keys() - b.keys()
         for key in missing_keys:
             b[key] = a.get(key)
+        extra_keys = b.keys() - a.keys()
+        if len(extra_keys) > 0:
+            raise Exception("Uhoh, I don't know what to do with these extra "
+                            "keys: '{}'. Someone might have screwed up?"
+                            .format(extra_keys))
+        assert len(a.keys()) == len(b.keys())
         return flatten([fill_with_a(x[0][1], x[1][1]) for x in zip(sorted(a.items()), sorted(b.items()))])
     elif isinstance(a, list):
         b.extend(a[len(b):])
-        return flatten(map(lambda x:fill_with_a(*x), zip(b, a)))
+        return flatten(map(lambda x:fill_with_a(*x), zip(a, b)))
     else:
         return []
 
 
 def resolve_discrep(eng_files, other_files):
-    eng_filenames = sorted(map(os.path.basename, eng_files))
-    other_filenames = sorted(map(os.path.basename, other_files))
-    assert sorted(eng_filenames) == sorted(other_filenames), "{} --- {}".format(eng_filenames, other_filenames)
-    eng_jsons = map(read_json, sorted(eng_files))
-    other_jsons = list(map(read_json, sorted(other_files)))
-    out = list(map(lambda x: fill_with_a(*x), zip(eng_jsons, other_jsons)))
-    out2 = list(map(lambda x: write_json(*x), zip(sorted(other_files), other_jsons)))
+    eng_files   = sorted(list(eng_files))
+    other_files = sorted(list(other_files))
+    eng_filenames   = list(map(os.path.basename, eng_files))
+    other_filenames = list(map(os.path.basename, other_files))
+    assert eng_filenames == other_filenames, "{} --- {}".format(eng_filenames, other_filenames)
+    eng_jsons   = list(map(read_json, eng_files))
+    other_jsons = list(map(read_json, other_files))
+    list(map(lambda x: fill_with_a(*x), zip(eng_jsons, other_jsons)))
+    list(map(lambda x: write_json(*x),  zip(other_files, other_jsons)))
 
 
 def write_json(filename, data):

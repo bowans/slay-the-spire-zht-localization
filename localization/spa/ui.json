@@ -65,12 +65,12 @@
       "Regresar",
       "Filtros",
       "Personaje",
-      "Region",
+      "Región",
       "Tipo",
       "Ver mi Puntuación",
       "Rango",
       "Nombre",
-      "Puntuacion",
+      "Puntuación",
       "Retirando Datos...",
       "Clasificación (NOTA: Se reiniciarán cada semana)",
       "Desconectado de Steam",
@@ -349,8 +349,8 @@
       "Munición",
       "Solo puedo jugar cartas en mi turno.",
       "Estoy #rEnredado! NL No puedo jugar Ataques",
-      "Insuficiente #rEnergía.",
-      "Insuficiente #rCarga.",
+      "#rEnergía Insuficiente.",
+      "#rCarga Insuficiente.",
       "No puedo jugar NL esta carta"
     ]
   },
@@ -628,7 +628,7 @@
       " NL Reto de Hoy: NL #yClase: NL ",
       " NL #yMods: ",
       "Modificadores: ",
-      "Leaderboards"
+      "Puntuación"
     ]
   },
   "SettingsScreen": {
@@ -664,8 +664,8 @@
     "TEXT": [
       "¿Que es Acceso Anticipado?",
       "¿Que es la Beta Abierta?",
-      "¡Slay the Spire aún esta en desarrollo activo! NL Muchas características, cartas y enemigos aún están experimentando cambios. NL NL Si encuentras problemas o tienes alguna sugerencia, por favor haznoslo saber en nuestra página #bDiscusiónes de #bSteam. NL NL Ya has leído suficiente, tienes una torre que escalar!",
-      "¡Slay the Spire aún esta en desarrollo activo! NL Por lo tanto, estas jugando la versión Beta del juego. NL NL Por favor déjanos saber de cualquier problema que tengas mientras juegas, pero no te sorprendas si ves algun arte provisional para contenidos futuros. NL NL Suficiente lectura, tienes una torre que escalar!",
+      "¡Slay the Spire aún está en desarrollo activo! NL Muchas características, cartas y enemigos aún están experimentando cambios. NL NL Si encuentras problemas o tienes alguna sugerencia, por favor haznoslo saber en nuestra página #bDiscusiónes de #bSteam. NL NL Ya has leído suficiente, tienes una torre que escalar!",
+      "¡Slay the Spire aún está en desarrollo activo! NL Por lo tanto, estas jugando la versión Beta del juego. NL NL Por favor déjanos saber de cualquier problema que tengas mientras juegas, pero no te sorprendas si ves algun arte provisional para contenidos futuros. NL NL Suficiente lectura, tienes una torre que escalar!",
       "Haz click en cualquier lugar para Comenzar"
     ]
   },
@@ -748,7 +748,7 @@
       "El Blindado",
       "La Silenciosa",
       "Crowbot",
-      "Atras",
+      "Atrás",
       "Modo de Ascención (Nivel ",
       ")",
       "Modo de Ascención",
@@ -943,12 +943,12 @@
   },
   "MenuPanels": {
     "TEXT": [
-      "Standard",
+      "Estándar",
       "",
       "Embarcate en una misión para Vencer a la Torre.",
       "Ascenso Diario",
       "",
-      "Un nuevo reto esta disponible una vez al día.\n\n¡Compite con otros jugadores por el puntaje más alto!",
+      "Un nuevo reto está disponible una vez al día.\n\n¡Compite con otros jugadores por la mayor puntuación!",
       "Ascención",
       "",
       "La torre se vuelve mas poderosa con cada victoria.\n\nPrueba los limites de tus mejores estrategias.",
@@ -960,28 +960,28 @@
       "Examina los varios artefactos que has obtenido en tus partidas.",
       "Bestiario",
       "",
-      "Esta opción no esta disponble por el momento.",
+      "Esta opción no está disponible por el momento.",
       "Estadísticas de Personajes",
       "",
       "El progreso y estadísticas de cada personaje se encuentran aquí.",
-      "Puntajes",
+      "Puntuación",
       "",
-      "Ve y compara tus puntuaciones con tus amigos y otros jugadores.",
-      "Historia de Partidas",
+      "Mira y compara tus puntuaciones con tus amigos y otros jugadores.",
+      "Historial de Partidas",
       "",
-      "Revisita tus intentos pasados de vencer a la Torre.",
+      "Revisa tus intentos pasados de vencer a la Torre.",
       "Opciones de Juego",
       "",
       "Cambia tu resolución y activa/desactiva varias opciones.",
       "Opciones de Control",
       "",
-      "Esta opción no esta disponble por el momento.",
-      "Creditos",
+      "Esta opción no está disponible por el momento.",
+      "Créditos",
       "",
       "¡Ve a todas las personas que contribuyeron en Slay the Spire!",
       "Desconocido",
       "",
-      "Esta opción no esta disponble por el momento."
+      "Esta opción no está disponible por el momento."
     ]
   }
 }

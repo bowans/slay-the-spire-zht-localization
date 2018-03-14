@@ -1,19 +1,27 @@
 {
   "Cursed Run": {
     "NAME": "Partida Maldita",
-    "DESCRIPTION": "Cuando derrotes a un Jefe, te Maldices."
+    "DESCRIPTION": "Cuando derrotes a un Jefe, te Maldices. Tu reliquia inicial es reemplazada por Llave Maldita, Amuleto de Darkstone, y Muñeco de Du-Vu"
   },
   "Elite Swarm": {
-    "NAME": "Plaga de Elites",
-    "DESCRIPTION": "Enemigos Elite estan invadiendo la Torre."
+    "NAME": "Cazador de Caza Mayor",
+    "DESCRIPTION": "Enemigos Elite estan invadiendo la Torre y dejan mejores recompensas"
   },
   "Heirloom": {
     "NAME": "Reliquia Familiar",
     "DESCRIPTION": "Empieza con 1 Reliquia Rara."
   },
+  "Lethality": {
+    "NAME": "Letalidad",
+    "DESCRIPTION": "Empiezas cada combate con +3 de Fuerza. Todos los enemigos empiezan el combate con +3 de Fuerza."
+  },
   "Night Terrors": {
     "NAME": "Terrores Nocturnos",
-    "DESCRIPTION": "Decansar en Áreas de Descanso te cura 20% de tus PV, en vez de 30%."
+    "DESCRIPTION": "Decansar en Áreas de Descanso te cura 100% de tus PV pero te cuesta 5 PV Máximos"
+  },
+  "Insanity": {
+    "NAME": "Locura",
+    "DESCRIPTION": "Empieza con un mazo de 50 cartas al azar."
   },
   "Shiny": {
     "NAME": "Brillante",
@@ -28,35 +36,27 @@
     "DESCRIPTION": "Empieza con 2 cartas de otra clase."
   },
   "Uncertain Future": {
-    "NAME": "Futuro Incierto",
-    "DESCRIPTION": "El mapa solo muestra ?"
+    "NAME": "Futuro Definido",
+    "DESCRIPTION": "El mapa solo contine un camino."
   },
   "Binary": {
     "NAME": "Binario",
-    "DESCRIPTION": "Las recompenzas de cartas solo contienen 2 cartas."
+    "DESCRIPTION": "Las recompensas de cartas solo contienen 2 cartas."
   },
   "Midas": {
     "NAME": "Midas",
     "DESCRIPTION": "Los enemigos tiran 200% más de oro, pero ya no puedes mejorar cartas en Áreas de Descanso."
   },
-  "Vintage": {
-    "NAME": "Clásico",
-    "DESCRIPTION": "Los precios del Vendedor son incrementados en un 25%."
-  },
-  "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
-  },
-  "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
-  },
   "Terminal": {
     "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+    "DESCRIPTION": "Cuando entras a un nuevo cuarto, pierde 1 PV Máximo. Comienza cada combate con 5 de Armadura Blindada."
   },
   "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies become Slow."
+    "NAME": "Dilatación Temporal",
+    "DESCRIPTION": "Todos los enemigos se vuelven Lentos."
+  },
+  "Vintage": {
+    "NAME": "Clásico",
+    "DESCRIPTION": "Los enemigos normales dejan reliquias en vez de cartas"
   }
 }

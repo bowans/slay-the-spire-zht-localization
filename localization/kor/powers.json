@@ -1,11 +1,4 @@
 {
-  "Absorb": {
-    "NAME": "흡수",
-    "DESCRIPTIONS": [
-      "공격 당할 때마다, 충전을 #b",
-      " 얻습니다."
-    ]
-  },
   "Accuracy": {
     "NAME": "정밀",
     "DESCRIPTIONS": [
@@ -222,14 +215,6 @@
       " 턴 동안 덜 뽑습니다."
     ]
   },
-  "Electric Field": {
-    "NAME": "전기장",
-    "DESCRIPTIONS": [
-      "공격 받으면, 가지고 있는 충전 #b",
-      " 개당 #b1 피해를 줍니다.",
-      "공격 받으면, 가지고 있는 충전만큼 #b1 피해를 줍니다."
-    ]
-  },
   "Energized": {
     "NAME": "혈기왕성",
     "DESCRIPTIONS": [
@@ -324,13 +309,6 @@
       " [B] 를 얻습니다 ."
     ]
   },
-  "Generator": {
-    "NAME": "발전기",
-    "DESCRIPTIONS": [
-      "매 턴 시작 시, #y충전을 #b",
-      " 얻습니다."
-    ]
-  },
   "Hex": {
     "NAME": "주술",
     "DESCRIPTIONS": [
@@ -344,13 +322,6 @@
       "다음 턴이 시작할 때까지 체력을 잃지 않습니다.",
       "#b",
       " 턴 동안 체력을 잃지 않습니다."
-    ]
-  },
-  "Impulse": {
-    "NAME": "충동",
-    "DESCRIPTIONS": [
-      "턴 종료 시 체력을 #b",
-      " 얻습니다."
     ]
   },
   "Infinite Blades": {
@@ -667,12 +638,6 @@
     "DESCRIPTIONS": [
       "공격 피해가 다음 수치만큼 증가합니다 : #b",
       "공격 피해가 다음 수치만큼 감소합니다 : #b"
-    ]
-  },
-  "Systems": {
-    "NAME": "시스템",
-    "DESCRIPTIONS": [
-      "충전을 얻을 때마다, 임의의 적에게 그만큼의 피해를 줍니다."
     ]
   },
   "Thievery": {
