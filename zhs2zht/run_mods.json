@@ -57,6 +57,10 @@
   },
   "Time Dilation": {
     "NAME": "時間膨脹",
-    "DESCRIPTION": "所有敵人都擁有“緩慢”特性。"
+    "DESCRIPTION": "所有敵人初始被賦予“緩慢”負面效果。"
+  },
+  "Hoarder": {
+    "NAME": "囤積癖",
+    "DESCRIPTION": "每當你往牌組中增添牌時，都將額外增加兩張相同牌。你不能在商人處移除卡牌。"
   }
 }
