@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "隱秘打擊",
-    "DESCRIPTION": " 不能被打出 。 NL 如果這張牌從你的手牌中被丟棄，對隨機一名敵人造成 !D! 點傷害。",
+    "DESCRIPTION": " 造成 !D! 點傷害。 NL 如果你在這回合丟棄過牌，獲得 [G] [G] 。",
     "EXTENDED_DESCRIPTION": [
       "這張牌不能被打出。"
     ]
@@ -745,12 +745,12 @@
   },
   "Normality": {
     "NAME": "凡庸",
-    "DESCRIPTION": " 不能被打出 。 NL 在手牌中時，你每回合無法打出3張以上牌。",
+    "DESCRIPTION": " 不能被打出 。 NL 在手牌中時，本回合你無法打出超過3張牌。",
     "EXTENDED_DESCRIPTION": [
       "我這回合最多 NL 只能打出 #r3 張牌。",
-      "不能被打出。 NL 在手牌中時，你每回合無法打出 ",
-      " 張以上牌。",
-      " 張以上牌。 NL 你本回合已經打出 ",
+      "不能被打出。 NL 在手牌中時，本回合你無法打出超過 ",
+      " 張牌。",
+      " 張牌。 NL 本回合你已經打出 ",
       " 張牌。"
     ]
   },
@@ -866,5 +866,17 @@
   "Bite": {
     "NAME": "噬咬",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 回復 !M! 點生命。"
+  },
+  "Slimed": {
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
+  },
+  "Void": {
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+  },
+  "AscendersBane": {
+    "NAME": "Ascender’s Bane",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   }
 }

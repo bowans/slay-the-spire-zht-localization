@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Frappe sournoise",
-    "DESCRIPTION": "Injouable. NL Si cette carte est défaussée, infligez !D! dégâts à un ennemi aléatoire.",
+    "DESCRIPTION": "Infligez !D! dégat(s). NL Si vous avez défaussé une carte ce tour, gagnez [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -866,5 +866,17 @@
   "Expertise": {
     "NAME": "Expertise",
     "DESCRIPTION": "Piochez des cartes jusqu'à en avoir !M! dans votre main."
+  },
+  "Slimed": {
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
+  },
+  "Void": {
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+  },
+  "AscendersBane": {
+    "NAME": "Ascender’s Bane",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   }
 }

@@ -1,23 +1,27 @@
 {
   "Cursed Run": {
     "NAME": "Course Maudite",
-    "DESCRIPTION": "À chaque fois que vous battez un boss, devenez Maudit."
+    "DESCRIPTION": "À chaque fois que vous battez un boss, devenez Maudit. Votre relique de départ est remplacée par Clé maudite, Amulette de pierre noire et Poupée dou-vau"
   },
   "Elite Swarm": {
-    "NAME": "Armée d'Élites",
+    "NAME": "Chasseur de gros gibier",
     "DESCRIPTION": "La Tour est remplie d'Élites."
   },
   "Heirloom": {
     "NAME": "Héritage",
     "DESCRIPTION": "Commencez avec une relique rare aléatoire."
   },
+  "Lethality": {
+    "NAME": "Létalité",
+    "DESCRIPTION": "Vous commencez chaque combat avec 3 de Force. Tous les ennemis commencent avec 3 de Force."
+  },
   "Night Terrors": {
     "NAME": "Terreurs nocturnes",
-    "DESCRIPTION": "Se reposer aux feux de camps soigne 20% de vos PV max, au lieu de 30%."
+    "DESCRIPTION": "Se reposer aux feux de camps soigne 100% de vos PV max, mais vous perdez 5 PV max."
   },
-  "Diverse": {
-    "NAME": "Différent",
-    "DESCRIPTION": "Commencez avec 2 cartes d'une autre classe."
+  "Insanity": {
+    "NAME": "Démence",
+    "DESCRIPTION": "Commencez avec un deck de 50 cartes aléatoires."
   },
   "Shiny": {
     "NAME": "Doré !",
@@ -27,36 +31,36 @@
     "NAME": "All Star",
     "DESCRIPTION": "Commencez avec 2 cartes incolores."
   },
-  "Vintage": {
-    "NAME": "Vintage",
-    "DESCRIPTION": "Les prix du Marchand sont augmentés de 25%."
+  "Diverse": {
+    "NAME": "Différent",
+    "DESCRIPTION": "Commencez avec 2 cartes d'une autre classe."
   },
   "Uncertain Future": {
-    "NAME": "Futur incertain",
-    "DESCRIPTION": "La carte n'affiche que des ?."
+    "NAME": "Fatalité",
+    "DESCRIPTION": "La carte ne contient qu'un seul chemin."
   },
   "Binary": {
     "NAME": "Binaire",
-    "DESCRIPTION": "Vous ne choisisez qu'entre 2 cartes, au lieu de 3."
+    "DESCRIPTION": "Lors des récompenses, vous ne choisisez qu'entre 2 cartes au lieu de 3."
   },
   "Midas": {
     "NAME": "Midas",
     "DESCRIPTION": "Les ennemis donnent 200% d'or en plus, mais vous ne pouvez plus améliorer de cartes aux feux de camps."
   },
-  "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
-  },
-  "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
-  },
   "Terminal": {
-    "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+    "NAME": "Incurable",
+    "DESCRIPTION": "Quand vous entrez dans une salle, perdez 1 PV max. Commencez chaque combat avec 5 d'Armure plaquée."
   },
   "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies become Slow."
+    "NAME": "Dilatation temporelle",
+    "DESCRIPTION": "Tous les ennemis sont Ralentis."
+  },
+  "Hoarder": {
+    "NAME": "Syllogomanie",
+    "DESCRIPTION": "Quand vous gagnez une carte, ajoutez deux copies supplémentaires dans votre deck. Vous ne pouvez plus retirer de cartes au marchand."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "Les ennemis donnent des Reliques au lieu de cartes."
   }
 }

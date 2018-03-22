@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Colpo Scorretto",
-    "DESCRIPTION": "Ingiocabile. NL Quando scarti questa carta, infliggi !D! danni ad un nemico casuale.",
+    "DESCRIPTION": "Infliggi !D! danni. NL Se hai scartato una carta in questo turno, NL ottieni [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Non posso giocare questa carta."
     ]
@@ -849,7 +849,7 @@
   },
   "All Out Attack": {
     "NAME": "Attacco Sfrenato",
-    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Pesca 1 carta in meno il prossimo turno."
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Scarta 1 carta casuale dalla tua mano."
   },
   "Flying Knee": {
     "NAME": "Ginocchiata Volante",
@@ -866,5 +866,17 @@
   "Expertise": {
     "NAME": "Competenza",
     "DESCRIPTION": "Pesca carte fino ad averne !M! in mano."
+  },
+  "Slimed": {
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
+  },
+  "Void": {
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+  },
+  "AscendersBane": {
+    "NAME": "Ascender’s Bane",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   }
 }

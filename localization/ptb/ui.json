@@ -60,6 +60,31 @@
       "Apenas Desafio Diário"
     ]
   },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Desconhecido",
+      "Inimigo",
+      "Elite",
+      "Evento",
+      "Chefe",
+      "Tesouro",
+      "Tesouro de Chefe",
+      "Descanso",
+      "Vendedor",
+      "Desconhecido (Inimigo)",
+      "Desconhecido (Vendedor)",
+      "Desconhecido (Tesouro)",
+      "Andar %1$s - %2$s",
+      "Andar %s",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Picked %s",
+      "Skipped:",
+      "Missing Info"
+    ]
+  },
   "LeaderboardsScreen": {
     "TEXT": [
       "Retornar",
@@ -165,6 +190,11 @@
   "SkillFromDeckToHandAction": {
     "TEXT": [
       "Escolha uma Técnica para ser Adicionada à Sua Mão"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Escolha um Ataque para ser Adicionado à Sua Mão"
     ]
   },
   "DiscardPileToTopOfDeckAction": {

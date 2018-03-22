@@ -199,7 +199,7 @@
     "NAME": "Le coursier",
     "FLAVOR": "L'animal de compagnie du Marchand !",
     "DESCRIPTIONS": [
-      "Le Marchand n'est plus jamais à court de cartes, reliques ou potions."
+      "Le Marchand n'est plus jamais à court de cartes, reliques ou potions et ses prix sont réduits de #b20%."
     ]
   },
   "Cursed Key": {
@@ -327,7 +327,7 @@
     "NAME": "Gingembre",
     "FLAVOR": "Un ingrédient puissant utilisé dans de nombreuses boissons tonifiantes.",
     "DESCRIPTIONS": [
-      "Les ennemis ne peuvent plus vous #yAffaiblir."
+      "Vous ne pouvez plus être #yAffaibli."
     ]
   },
   "Girya": {
@@ -345,7 +345,7 @@
     ]
   },
   "Gremlin Horn": {
-    "NAME": "Cor de diablotin",
+    "NAME": "Corne de diablotin",
     "FLAVOR": "\"Les diablotins peuvent grandir jusqu'à leur mort. C'est remarquable.\" - Ranwid",
     "DESCRIPTIONS": [
       "Lorsqu'un ennemi meurt, gagnez ",
@@ -454,7 +454,7 @@
     "NAME": "Os à viande",
     "FLAVOR": "La viande ne cesse de se reformer.",
     "DESCRIPTIONS": [
-      "Si vos PV sont inférieurs à #b50 % à la fin du combat, récupérez #b",
+      "Si vos PV sont inférieurs ou égaux à #b50 % à la fin du combat, récupérez #b",
       " PV."
     ]
   },
@@ -555,7 +555,7 @@
     "NAME": "Champignon étrange",
     "FLAVOR": "\"Après avoir consommé ce trichellum parastius, je me suis senti plus imposant et moins... susceptible.\" - Ranwid ",
     "DESCRIPTIONS": [
-      "Sous #yVulnérabilité, les dégâts subis augmentent de #b25 % au lieu de #b50 %."
+      "Sous #yVulnérabilité, vous ne subissez plus que #b25 % de dégâts supplémentaires au lieu de #b50 %."
     ]
   },
   "Old Coin": {
@@ -670,7 +670,7 @@
     "NAME": "Carte d'interrogation",
     "FLAVOR": "\"Ceux dont les choix sont plus nombreux font souvent fi des inconvénients du chaos.\" - Le grand Kublai",
     "DESCRIPTIONS": [
-      "Lorsque vous recevez une carte comme récompense, choisissez parmi #b4 cartes au lieu de #b3."
+      "Lorsque vous choisissez une carte comme récompense, vous avez un choix supplémentaire."
     ]
   },
   "Red Circlet": {
@@ -692,7 +692,7 @@
     "NAME": "Crâne rouge",
     "FLAVOR": "Un petit crâne recouvert de peintures décoratives.",
     "DESCRIPTIONS": [
-      "Quand vos PV sont inférieurs à #b50 %, vous avez #b",
+      "Quand vos PV sont inférieurs ou égaux à #b50 %, vous avez #b",
       " de #yForce supplémentaire."
     ]
   },
@@ -707,7 +707,7 @@
   "Ring of the Serpent": {
     "NAME": "Anneau du cobra",
     "DESCRIPTIONS": [
-      "Remplace l'#ganneau #gdu #gserpent. Quand vous tuez un ennemi #yd'Élite, augmentez vos PV max de #b"
+      "Remplace l'#gAnneau #gdu #gserpent. Quand vous tuez un ennemi #yd'Élite, augmentez vos PV max de #b"
     ]
   },
   "Runic Cube": {
@@ -785,15 +785,15 @@
     ]
   },
   "Snecko Eye": {
-    "NAME": "Œil de snecko",
-    "FLAVOR": "L'œil d'un snecko déchu. Il est bien plus gros qu'on ne pourrait l'imaginer.",
+    "NAME": "Œil de geckobra",
+    "FLAVOR": "L'œil d'un geckobra déchu. Il est bien plus gros qu'on ne pourrait l'imaginer.",
     "DESCRIPTIONS": [
       "Piochez #b2 cartes supplémentaires à chaque tour. Commencez chaque combat avec #yConfusion."
     ]
   },
   "Snake Skull": {
-    "NAME": "Crâne de snecko",
-    "FLAVOR": "Un crâne de snecko en parfait état. Il est étrangement propre et lisse, au point que la poussière et la saleté en tombent mystérieusement.",
+    "NAME": "Crâne de geckobra",
+    "FLAVOR": "Un crâne de geckobra en parfait état. Il est étrangement propre et lisse, au point que la poussière et la saleté en tombent mystérieusement.",
     "DESCRIPTIONS": [
       "Lorsque vous appliquez #yPoison, appliquez #b",
       " de #yPoison supplémentaire."

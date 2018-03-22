@@ -118,7 +118,7 @@
     ]
   },
   "Transmorgrifier": {
-    "NAME": "Métamorphoseur",
+    "NAME": "Transmogrifeur",
     "DESCRIPTIONS": [
       "Devant vous se trouve un autel élaboré consacré à un esprit oublié.",
       "Alors que le pouvoir de l'autel vous envahit, votre esprit semble altéré.",
@@ -728,8 +728,8 @@
       "[Acheter 3potions] #y",
       " #yd'or.",
       "[Partir]",
-      "[Leave] #rTake #r",
-      " #rDamage."
+      "[Partir] #rPrenez #r",
+      " #rdégâts."
     ]
   }
 }

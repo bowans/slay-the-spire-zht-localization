@@ -10,7 +10,7 @@
   },
   "Cancel Button": {
     "TEXT": [
-		"Delete Save"	
+		"Delete Save"
 	]
   },
   "Confirm Button": {
@@ -60,6 +60,31 @@
 		"Only Daily Challenge"
     ]
   },
+	"RunHistoryPathNodes": {
+		"TEXT": [
+			"Unknown",
+			"Enemy",
+			"Elite",
+			"Event",
+			"Boss",
+			"Treasure",
+			"Boss Treasure",
+			"Rest",
+			"Merchant",
+			"Unknown (Enemy)",
+			"Unknown (Merchant)",
+			"Unknown (Treasure)",
+			"Floor %1$s - %2$s",
+			"Floor %s",
+			"#r%s Damage",
+			"#r%s Turns",
+			"#r%s #r/ #r%s #rHP",
+			"#y%s #yGold",
+			"Picked %s",
+			"Skipped:",
+			"Missing Info"
+		]
+	},
   "LeaderboardsScreen": {
     "TEXT": [
         "Return",
@@ -165,6 +190,11 @@
   "SkillFromDeckToHandAction": {
     "TEXT": [
 		"Choose a Skill to Add to Your Hand"
+	]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+		"Choose an Attack to Add to Your Hand"
 	]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -766,7 +796,7 @@
 		"Normal enemies are tougher.",
 		"Elites are tougher.",
 		"Bosses are tougher.",
-		"Parasite!",
+		"Start each run cursed.",
 		"Potions are less potent.",
 		"Upgraded cards appear less often.",
 		"Poor bosses.",

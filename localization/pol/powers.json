@@ -248,8 +248,10 @@
   "Explosive": {
     "NAME": "Wybuchowość",
     "DESCRIPTIONS": [
-      "W momencie śmierci zadaje #b",
-      " pkt. obrażeń."
+      "Za tur: #b",
+      " , wybuchnie zadając #b",
+      " pkt. obrażeń.",
+      "Na końcu tury, wybuchnie zadając #b"
     ]
   },
   "Feel No Pain": {
@@ -546,6 +548,13 @@
       " pkt. #ySiły."
     ]
   },
+  "GrowthPower": {
+    "NAME": "Rośnięcie",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek rzucisz kartę #yUmiejętności, zadaj ",
+      " pkt. obrażeń losowemu wrogowi."
+    ]
+  },
   "Generic Strength Up Power": {
     "NAME": "",
     "DESCRIPTIONS": [
@@ -734,13 +743,6 @@
     "DESCRIPTIONS": [
       "Kiedykolwiek zagrasz #yUmiejętność, zadaj ",
       " pkt. obrażeń losowemu przeciwnikowi."
-    ]
-  },
-  "GrowthPower": {
-    "NAME": "Rośnięcie",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek rzucisz kartę #yUmiejętności, zadaj ",
-      " pkt. obrażeń losowemu wrogowi."
     ]
   }
 }

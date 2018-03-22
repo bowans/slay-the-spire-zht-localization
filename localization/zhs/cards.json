@@ -845,7 +845,7 @@
   },
   "All Out Attack": {
     "NAME": "全力攻击",
-    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 在下一回合少抽1张牌。"
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 丢弃一张随机手牌。"
   },
   "Flying Knee": {
     "NAME": "飞膝",
@@ -866,5 +866,17 @@
   "Bite": {
     "NAME": "噬咬",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 回复 !M! 点生命。"
+  },
+  "Slimed": {
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
+  },
+  "Void": {
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+  },
+  "AscendersBane": {
+    "NAME": "Ascender’s Bane",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   }
 }

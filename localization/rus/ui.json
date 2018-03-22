@@ -983,5 +983,35 @@
       "",
       "Эта опция ещё не доступна."
     ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Unknown",
+      "Enemy",
+      "Elite",
+      "Event",
+      "Boss",
+      "Treasure",
+      "Boss Treasure",
+      "Rest",
+      "Merchant",
+      "Unknown (Enemy)",
+      "Unknown (Merchant)",
+      "Unknown (Treasure)",
+      "Floor %1$s - %2$s",
+      "Floor %s",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Picked %s",
+      "Skipped:",
+      "Missing Info"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Choose an Attack to Add to Your Hand"
+    ]
   }
 }

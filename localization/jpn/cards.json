@@ -47,14 +47,14 @@
   },
   "Underhanded Strike": {
     "NAME": "卑怯なる一撃",
-    "DESCRIPTION": "使用不可 。 NL このカードを捨てた時、ランダムな敵に !D! ダメージを与える。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL このターンにカードを捨てていれば、 [G] [G] を得る。",
     "EXTENDED_DESCRIPTION": [
       "このカードはプレイできない。"
     ]
   },
   "Anger": {
     "NAME": "怒り",
-    "DESCRIPTION": "!D! ダメージを与える。 NL このカードのコピーを捨て札に加える。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL このカードの複製を捨て札に加える。"
   },
   "Storm of Steel": {
     "NAME": "鋼の嵐",
@@ -83,7 +83,7 @@
   },
   "Offering": {
     "NAME": "供物",
-    "DESCRIPTION": "HP 4 を失う。 NL [R] [R] を得る。 NL カードを !M! 枚引く。 NL 廃棄 。"
+    "DESCRIPTION": "HPを 4 を失う。 NL [R] [R] を得る。 NL カードを !M! 枚引く。 NL 廃棄 。"
   },
   "Exhume": {
     "NAME": "発掘",
@@ -125,7 +125,7 @@
   },
   "Reaper": {
     "NAME": "死神",
-    "DESCRIPTION": "敵全体に !D! ダメージを与える。防御されなかったダメージ分を回復する。 NL 廃棄 。"
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。防御されなかったダメージ分HPを回復する。 NL 廃棄 。"
   },
   "Shiv": {
     "NAME": " ナイフ ",
@@ -133,8 +133,8 @@
   },
   "Tactician": {
     "NAME": "策士",
-    "DESCRIPTION": "使用不可 。 NL このカードを捨てた時、 [G] を得る。",
-    "UPGRADE_DESCRIPTION": "使用不可 。 NL このカードを捨てた時、 [G] [G] を得る。",
+    "DESCRIPTION": "使用不可 。 NL このカードを捨てたとき、 [G] を得る。",
+    "UPGRADE_DESCRIPTION": "使用不可 。 NL このカードを捨てたとき、 [G] [G] を得る。",
     "EXTENDED_DESCRIPTION": [
       "このカードはプレイできない。"
     ]
@@ -227,7 +227,7 @@
     "DESCRIPTION": "!D! ダメージを与える。 NL 毒 !M! を与える。"
   },
   "Blur": {
-    "NAME": "霞隠れ",
+    "NAME": "ブラー",
     "DESCRIPTION": "!B! ブロック を得る。 NL 次のターン開始時にブロックを失わない。"
   },
   "Body Slam": {
@@ -237,7 +237,7 @@
   },
   "True Grit": {
     "NAME": "不屈の闘志",
-    "DESCRIPTION": "!B! ブロック を得る。 NL 手札をランダムで 1 枚 廃棄 する。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 手札をランダムに 1 枚 廃棄 する。",
     "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 手札を 1 枚 廃棄 する。"
   },
   "Setup": {
@@ -391,7 +391,7 @@
   },
   "Bite": {
     "NAME": "噛みつき",
-    "DESCRIPTION": "!D! ダメージを与える。 NL HPを !M! 回復する。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL HPを !M! 回復。"
   },
   "Secret Technique": {
     "NAME": "シークレットテクニック",
@@ -572,8 +572,8 @@
   },
   "Sentinel": {
     "NAME": "見張り",
-    "DESCRIPTION": "!B! ブロック を得る。 NL このカードを 廃棄 した時、 NL [R] [R] を得る。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL このカードを 廃棄 した時、 NL [R] [R] [R] を得る。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL このカードを 廃棄 したとき、 NL [R] [R] を得る。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL このカードを 廃棄 したとき、 NL [R] [R] [R] を得る。"
   },
   "Survivor": {
     "NAME": "サバイバー",
@@ -751,10 +751,10 @@
     "NAME": "平静",
     "DESCRIPTION": "使用不可 。 NL このターン、あなたは 3 枚以上のカードをプレイできない。",
     "EXTENDED_DESCRIPTION": [
-      "このターン、あなたは 3 枚以上のカードをプレイできない。",
+      "このターン、あなたは 3 枚しかカードをプレイできない",
       "使用不可。 NL あなたはこのターン、",
-      " 枚以上のカードをプレイできない。",
-      " 枚以上のカードをプレイできない。 NL 既に",
+      " 枚のカードをプレイできない。",
+      " 枚のカードをプレイできない。 NL 既に",
       " 枚のカードをプレイした。"
     ]
   },
@@ -849,7 +849,7 @@
   },
   "All Out Attack": {
     "NAME": "フルアタック",
-    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 次のターン、引くカードが 1 枚減る。"
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 手札をランダムに 1 枚捨てる。"
   },
   "Flying Knee": {
     "NAME": "飛び膝蹴り",
@@ -866,5 +866,17 @@
   "Expertise": {
     "NAME": "職人技",
     "DESCRIPTION": "手札が !M! 枚になるまでカードを引く。"
+  },
+  "Slimed": {
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
+  },
+  "Void": {
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+  },
+  "AscendersBane": {
+    "NAME": "Ascender’s Bane",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   }
 }

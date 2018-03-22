@@ -248,8 +248,10 @@
   "Explosive": {
     "NAME": "Explosivo",
     "DESCRIPTIONS": [
-      "Al morir, te inflige #b",
-      " de daño."
+      "En #b",
+      " turnos, explota causando #b",
+      " de daño.",
+      "Al inicio de su turno, explota causando #b"
     ]
   },
   "Feel No Pain": {

@@ -626,8 +626,8 @@
       "寂靜獵手",
       "烏鴉機器人",
       "返回",
-      "攫升模式 （等級 ",
-      "）",
+      "攫升",
+      "等級 ",
       "攫升模式",
       "隨著勝利次數增多，難度也會進一步提升……（不會影響連勝）"
     ]
@@ -982,6 +982,36 @@
       "未知",
       "",
       "這個功能還沒做好。"
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Unknown",
+      "Enemy",
+      "Elite",
+      "Event",
+      "Boss",
+      "Treasure",
+      "Boss Treasure",
+      "Rest",
+      "Merchant",
+      "Unknown (Enemy)",
+      "Unknown (Merchant)",
+      "Unknown (Treasure)",
+      "Floor %1$s - %2$s",
+      "Floor %s",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Picked %s",
+      "Skipped:",
+      "Missing Info"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Choose an Attack to Add to Your Hand"
     ]
   }
 }

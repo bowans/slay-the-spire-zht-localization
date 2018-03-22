@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Golpe Baixo",
-    "DESCRIPTION": "Injogável. NL Se esta carta for descartada da sua mão, cause !D! de dano a um inimigo aleatório.",
+    "DESCRIPTION": "Cause !D! de dano. NL Se você descartou uma carta neste turo, ganhe [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Eu não posso jogar esta carta."
     ]
@@ -849,7 +849,7 @@
   },
   "All Out Attack": {
     "NAME": "Ataque Total",
-    "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Compre 1 carta a menos no próximo turno."
+    "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Descarte 1 carta aleatoriamente."
   },
   "Flying Knee": {
     "NAME": "Joelhada Voadora",
@@ -866,5 +866,17 @@
   "Expertise": {
     "NAME": "Perícia",
     "DESCRIPTION": "Compre cartas até que você tenha !M! na mão."
+  },
+  "Slimed": {
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
+  },
+  "Void": {
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+  },
+  "AscendersBane": {
+    "NAME": "Ascender’s Bane",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   }
 }

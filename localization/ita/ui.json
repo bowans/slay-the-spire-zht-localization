@@ -53,11 +53,36 @@
       "Vittorie e Sconfitte",
       "Vittorie",
       "Sconfitte",
-      "Sfida di oggi",
+      "Sfida del Giorno",
       "Ogni Partita",
       "Modalità Normale",
       "Modalità Ascensione",
       "Sfide del Giorno"
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Sconosciuto",
+      "Nemico",
+      "Elite",
+      "Evento",
+      "Boss",
+      "Tesoro",
+      "Tesoro del Boss",
+      "Falò",
+      "Mercante",
+      "Sconosciuto (Nemico)",
+      "Sconosciuto (Mercante)",
+      "Sconosciuto (Tesoro)",
+      "Piano %1$s - %2$s",
+      "Piano %s",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Picked %s",
+      "Skipped:",
+      "Missing Info"
     ]
   },
   "LeaderboardsScreen": {
@@ -68,7 +93,7 @@
       "Regione",
       "Tipo",
       "Visualizza il mio Punteggio",
-      "Grado",
+      "Posizione",
       "Nome",
       "Punteggio",
       "Recuperando Dati...",
@@ -165,6 +190,11 @@
   "SkillFromDeckToHandAction": {
     "TEXT": [
       "Scegli un'Abilità da Mettere in Mano"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Scegli un'Attacco da Mettere in Mano"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -616,7 +646,7 @@
     "TEXT": [
       "Sfida del Giorno",
       "Connessione al Server...",
-      "#yNOTA: Hai già giocato la sfida di oggi. NL I punteggi degli altri tentativi non vengono inviati.",
+      "#yNOTA: Hai già affrontato la sfida di oggi. NL Se la riprovi, il punteggio non sarà inviato.",
       "Indietro",
       "Inizia",
       "Personaggio di oggi: ",

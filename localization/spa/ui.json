@@ -60,6 +60,31 @@
       "Solo Reto Diario"
     ]
   },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Desconocido",
+      "Enemigo",
+      "Elite",
+      "Evento",
+      "Jefe",
+      "Tesoro",
+      "Tesoro de Jefe",
+      "Descanso",
+      "Comerciante",
+      "Desconocido (Enemigo)",
+      "Desconocido (Comerciante)",
+      "Desconocido (Tesoro)",
+      "Piso %1$s - %2$s",
+      "Piso %s",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Picked %s",
+      "Skipped:",
+      "Missing Info"
+    ]
+  },
   "LeaderboardsScreen": {
     "TEXT": [
       "Regresar",
@@ -165,6 +190,11 @@
   "SkillFromDeckToHandAction": {
     "TEXT": [
       "Escoge una Habilidad para Añadir a Tu Mano"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Elige una Ataque para Agregar a tu Mano"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -331,7 +361,7 @@
       "Poco Común",
       "Bloqueada",
       "Desconocida",
-      "Reliquia",
+      "Reliquia ",
       "Esta reliquia aún no ha sido desbloqueada.",
       "Esta reliquia aún no se ha visto."
     ]

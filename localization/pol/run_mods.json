@@ -1,7 +1,7 @@
 {
   "Cursed Run": {
     "NAME": "Przeklęta próba",
-    "DESCRIPTION": "Za każdym razem, gdy pokonasz bossa, otrzymujesz #rKlątwę. Zamiast początkowego artefatku otrzymujesz Przeklęty klucz, Kamienny amulet i Lalkę Du-Vu."
+    "DESCRIPTION": "Za każdym razem, gdy pokonasz bossa, otrzymujesz #rKlątwę. Zamiast początkowego artefatku otrzymujesz: Przeklęty klucz, Kamienny amulet i Lalkę Du-Vu."
   },
   "Elite Swarm": {
     "NAME": "Rój Elitarnych",
@@ -47,10 +47,6 @@
     "NAME": "Midas",
     "DESCRIPTION": "Wrogowie zostawiają 200% więcej złota, ale nie możesz już ulepszać kart w Obozowiskach."
   },
-  "Vintage": {
-    "NAME": "Antyk",
-    "DESCRIPTION": "Zwykli wrogowie zostawiają po sobie artefakty zamiast kart."
-  },
   "Terminal": {
     "NAME": "Śmiertelna choroba",
     "DESCRIPTION": "Za każdym razem, gdy wchodzisz do pokoju, tracisz 1 maksymalny PŻ. Rozpoczynasz walkę z Pancerzem(5)."
@@ -58,5 +54,13 @@
   "Time Dilation": {
     "NAME": "Zakrzywienie czasu",
     "DESCRIPTION": "Wrogowie są Ślamazarni."
+  },
+  "Hoarder": {
+    "NAME": "Syllogomania",
+    "DESCRIPTION": "Za każdym razem, gdy dodasz kartę do talii, dodaj dodatkowo jej dwie kopie. Nie możesz już usuwać kart u Handlarza."
+  },
+  "Vintage": {
+    "NAME": "Antyk",
+    "DESCRIPTION": "Zwykli wrogowie zostawiają po sobie artefakty zamiast kart."
   }
 }

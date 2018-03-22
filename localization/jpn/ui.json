@@ -60,6 +60,31 @@
       "デイリーチャレンジ"
     ]
   },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "未知",
+      "敵",
+      "エリート",
+      "イベント",
+      "ボス",
+      "財宝",
+      "ボスの財宝",
+      "休憩",
+      "商人",
+      "未知 （通常の敵）",
+      "未知 （商人）",
+      "未知 （財宝）",
+      "%1$s 階層 - %2$s",
+      "%s 階層",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Picked %s",
+      "Skipped:",
+      "Missing Info"
+    ]
+  },
   "LeaderboardsScreen": {
     "TEXT": [
       "戻る",
@@ -164,12 +189,17 @@
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-      "手札に追加する「スキル」カードを選択"
+      "手札に追加する「スキル」を選択"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "手札に追加する「アタック」を選択"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "山札の1番上に置くカードを1枚選んでくれ。"
+      "山札の一番上に置くカードを1枚選択。"
     ]
   },
   "Legend": {
@@ -187,7 +217,7 @@
       "休憩場所",
       "この部屋ではHPの #g回復 とカードの #yアップグレード が可能。",
       "敵",
-      "敵",
+      "通常の敵",
       "敵が潜む部屋。",
       "エリート",
       "エリート",

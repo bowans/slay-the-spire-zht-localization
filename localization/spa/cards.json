@@ -34,7 +34,7 @@
   },
   "Dark Shackles": {
     "NAME": "Grilletes Oscuros",
-    "DESCRIPTION": "Enemigo pierde !M! Fuerza durante el resto del turno. NL Agota."
+    "DESCRIPTION": "Un enemigo pierde !M! Fuerza durante el resto del turno. NL Agota."
   },
   "Glass Knife": {
     "NAME": "Cuchillo de Vidrio",
@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Golpe Bajo",
-    "DESCRIPTION": "Injugable. NL Si esta carta es descartada de tu mano, causa !D! de daño a un enemigo al azar.",
+    "DESCRIPTION": "Causa !D! de daño. NL Si has descartado alguna carta en este turno, NL gana [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "No puedo jugar esta carta."
     ]
@@ -75,7 +75,7 @@
   },
   "Sadistic Nature": {
     "NAME": "Naturaleza Sádica",
-    "DESCRIPTION": "Cuando apliques una Desmejora a un enemigo, éste recibe !M! de daño."
+    "DESCRIPTION": "Cuando apliques una Desmejora a un enemigo, este recibe !M! de daño."
   },
   "J.A.X.": {
     "NAME": "J.A.X.",
@@ -195,7 +195,7 @@
     "DESCRIPTION": "Al inicio de tu turno, roba 1 carta y descarta 1 carta."
   },
   "Dramatic Entrance": {
-    "NAME": "Entrada Dramatica",
+    "NAME": "Entrada Dramática",
     "DESCRIPTION": "Innata. NL Causa !D! de daño a TODOS los enemigos. NL Agota."
   },
   "Hemokinesis": {
@@ -204,7 +204,7 @@
   },
   "Intimidate": {
     "NAME": "Intimidar",
-    "DESCRIPTION": "Aplica !M! Debil a TODOS los enemigos. NL Agota."
+    "DESCRIPTION": "Aplica !M! Débil a TODOS los enemigos. NL Agota."
   },
   "Necronomicurse": {
     "NAME": "Necronomicondenación",
@@ -212,7 +212,7 @@
   },
   "Choke": {
     "NAME": "Estrangular",
-    "DESCRIPTION": "Causa !D! de daño. NL Cuando juegues una carta en este turno, el enemigo elegido pierde !M! PV."
+    "DESCRIPTION": "Causa !D! de daño. NL Cuando juegues una carta este turno, el enemigo elegido pierde !M! PV."
   },
   "Juggernaut": {
     "NAME": "Destructor",
@@ -242,7 +242,7 @@
   },
   "Setup": {
     "NAME": "Preparación",
-    "DESCRIPTION": "Coloca una carta de tu mano en el tope de tu pila de extracción. NL Cuesta 0 hasta que es jugada."
+    "DESCRIPTION": "Coloca una carta de tu mano en el tope de tu pila de extracción. NL Cuesta 0 hasta que sea jugada."
   },
   "Blood for Blood": {
     "NAME": "Sangre por Sangre",
@@ -272,7 +272,7 @@
     "DESCRIPTION": "Gana !B! Bloqueo. NL Cuando seas atacado en este turno, causa !M! de daño al atacante. "
   },
   "Endless Agony": {
-    "NAME": "Agonia Eterna",
+    "NAME": "Agonía Eterna",
     "DESCRIPTION": "Cuando saques esta carta, agrega una copia de ella a tu mano. NL Causa !D! de daño. NL Agota."
   },
   "Berserk": {
@@ -302,7 +302,7 @@
   },
   "Pain": {
     "NAME": "Dolor",
-    "DESCRIPTION": "Injugable. NL Mientras este en tu mano, pierde 1 PV cuando otras cartas son jugadas."
+    "DESCRIPTION": "Injugable. NL Mientras esté en tu mano, pierde 1 PV por cada carta jugada."
   },
   "Burst": {
     "NAME": "Ráfaga",
@@ -354,11 +354,11 @@
   },
   "Clothesline": {
     "NAME": "Soga",
-    "DESCRIPTION": "Causa !D! de daño. NL Aplica !M! Debil."
+    "DESCRIPTION": "Causa !D! de daño. NL Aplica !M! Débil."
   },
   "Shockwave": {
     "NAME": "Onda de Choque",
-    "DESCRIPTION": "Aplica !M! Debil y Vulnerable a TODOS los enemigos. NL Agota."
+    "DESCRIPTION": "Aplica !M! Débil y Vulnerable a TODOS los enemigos. NL Agota."
   },
   "Rampage": {
     "NAME": "Desenfreno",
@@ -403,12 +403,12 @@
   },
   "Calculated Gamble": {
     "NAME": "Apuesta Calculada",
-    "DESCRIPTION": "Descarta tu mano, NL luego roba igual número de cartas. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Descarta tu mano, NL luego roba igual número de cartas."
+    "DESCRIPTION": "Descarta tu mano, NL luego roba el mismo número de cartas. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Descarta tu mano, NL luego roba el mismo número de cartas."
   },
   "Combust": {
     "NAME": "Combustión",
-    "DESCRIPTION": "Al final de tu turno, pierde 1 PV and causa !M! de daño a TODOS los enemigos."
+    "DESCRIPTION": "Al final de tu turno, pierde 1 PV y causa !M! de daño a TODOS los enemigos."
   },
   "Deep Breath": {
     "NAME": "Respiro Profundo",
@@ -425,7 +425,7 @@
   },
   "Finisher": {
     "NAME": "Rematador",
-    "DESCRIPTION": "Causa !D! de daño por cada Ataque jugado en este turno.",
+    "DESCRIPTION": "Causa !D! de daño por cada Ataque jugado este turno.",
     "EXTENDED_DESCRIPTION": [
       " NL (Has jugado ",
       " Ataque.)",
@@ -470,7 +470,7 @@
     "DESCRIPTION": "Cada vez que juegas 5 cartas en un solo turno, causa !M! de daño a TODOS los enemigos."
   },
   "Fiend Fire": {
-    "NAME": "Fuego Demoniaco",
+    "NAME": "Fuego Demoníaco",
     "DESCRIPTION": "Agota tu mano. NL Causa !D! de daño por cada carta agotada. NL Agota."
   },
   "Terror": {
@@ -492,7 +492,7 @@
   },
   "Havoc": {
     "NAME": "Caos",
-    "DESCRIPTION": "Juega la carta al top de tu pila de extracción y agotala."
+    "DESCRIPTION": "Juega la carta al tope de tu pila de extracción y agotala."
   },
   "Secret Weapon": {
     "NAME": "Arma Secreta",
@@ -520,7 +520,7 @@
   },
   "Heel Hook": {
     "NAME": "Agarre de tobillo",
-    "DESCRIPTION": "Causa !D! de daño. NL Si el enemigo está Debil, NL gana [G] y NL roba 1 carta."
+    "DESCRIPTION": "Causa !D! de daño. NL Si el enemigo está Débil, NL gana [G] y NL roba 1 carta."
   },
   "Injury": {
     "NAME": "Lesión",
@@ -535,7 +535,7 @@
     "DESCRIPTION": "Causa !D! de daño. NL Coloca una carta de tu pila de descartes al tope de tu pila de extracción."
   },
   "Limit Break": {
-    "NAME": "Romper el limite",
+    "NAME": "Romper el Límite",
     "DESCRIPTION": "Duplica tu Fuerza. NL Agota.",
     "UPGRADE_DESCRIPTION": "Duplica tu Fuerza."
   },
@@ -559,8 +559,8 @@
   },
   "Malaise": {
     "NAME": "Malestar",
-    "DESCRIPTION": "El enemigo pierde X Fuerza. Aplica X Debil. NL Agota.",
-    "UPGRADE_DESCRIPTION": "El enemigo pierde X+1 Fuerza. Aplica X+1 Debil. NL Agota."
+    "DESCRIPTION": "El enemigo pierde X Fuerza. Aplica X Débil. NL Agota.",
+    "UPGRADE_DESCRIPTION": "El enemigo pierde X+1 Fuerza. Aplica X+1 Débil. NL Agota."
   },
   "Reflex": {
     "NAME": "Reflejo",
@@ -581,11 +581,11 @@
   },
   "Wild Strike": {
     "NAME": "Golpe Salvaje",
-    "DESCRIPTION": "Causa !D! de daño. NL Barajea una Herida en tu pila de extracción."
+    "DESCRIPTION": "Causa !D! de daño. NL Baraja una Herida en tu pila de extracción."
   },
   "Eviscerate": {
     "NAME": "Eviscerar",
-    "DESCRIPTION": "Cuesta 1 [G] menos NL por cada carta descartada en este turno. NL Causa !D! de daño trés veces."
+    "DESCRIPTION": "Cuesta 1 [G] menos NL por cada carta descartada en este turno. NL Causa !D! de daño tres veces."
   },
   "Flash of Steel": {
     "NAME": "Destello de Acero",
@@ -621,8 +621,8 @@
   },
   "Enlightenment": {
     "NAME": "Iluminación",
-    "DESCRIPTION": "Reduce el costo de las cartas en tu mano a 1 en este turno.",
-    "UPGRADE_DESCRIPTION": "Reduce el costo de las cartas en tu mano a 1 en este combate."
+    "DESCRIPTION": "Reduce el costo de las cartas en tu mano a 1 este turno.",
+    "UPGRADE_DESCRIPTION": "Reduce el costo de las cartas en tu mano a 1 este combate."
   },
   "Purity": {
     "NAME": "Pureza",
@@ -658,8 +658,8 @@
     "DESCRIPTION": "Cuando pierdes PV por una carta, NL gana 1 Fuerza."
   },
   "Venomology": {
-    "NAME": "Alquímia",
-    "DESCRIPTION": "Obtiene una poción al alzar. NL Agota."
+    "NAME": "Alquimia",
+    "DESCRIPTION": "Obtienes una poción al alzar. NL Agota."
   },
   "Bouncing Flask": {
     "NAME": "Frasco Rebotador",
@@ -718,8 +718,8 @@
   },
   "Perfected Strike": {
     "NAME": "Golpe Perfeccionado",
-    "DESCRIPTION": "Causa !D! de daño. NL Causa un +2 daño adicional por TODAS tus cartas que contengan \"Golpe\".",
-    "UPGRADE_DESCRIPTION": "Causa !D! de daño. NL Causa un +3 daño adicional por TODAS tus cartas que contengan \"Golpe\"."
+    "DESCRIPTION": "Causa !D! de daño. NL Causa +2 de daño adicional por cada carta que contenga \"Golpe\".",
+    "UPGRADE_DESCRIPTION": "Causa !D! de daño. NL Causa +3 de daño adicional por cada carta que contenga \"Golpe\"."
   },
   "Carnage": {
     "NAME": "Matanza",
@@ -727,7 +727,7 @@
   },
   "Masterful Stab": {
     "NAME": "Puñalada Maestra",
-    "DESCRIPTION": "Sólo puede ser jugada si no hay mas cartas en tu mano. NL Causa !D! de daño.",
+    "DESCRIPTION": "Solo puede ser jugada si no hay mas cartas en tu mano. NL Causa !D! de daño.",
     "UPGRADE_DESCRIPTION": "Esta tiene que ser mi NL única carta."
   },
   "Good Instincts": {
@@ -768,11 +768,11 @@
   },
   "Jack Of All Trades": {
     "NAME": "Hábil en Todo",
-    "DESCRIPTION": "Agrega !M! cartas incoloras al azar a tu mano. NL Agota.",
+    "DESCRIPTION": "Agrega !M! carta incolora al azar a tu mano. NL Agota.",
     "UPGRADE_DESCRIPTION": "Agrega !M! cartas incoloras al azar a tu mano. NL Agota."
   },
   "Demon Form": {
-    "NAME": "Forma Demoniaca",
+    "NAME": "Forma Demoníaca",
     "DESCRIPTION": "Al inicio de cada turno, gana !M! Fuerza."
   },
   "Fire Breathing": {
@@ -785,7 +785,7 @@
   },
   "Uppercut": {
     "NAME": "Gancho",
-    "DESCRIPTION": "Causa !D! de daño. NL Aplica !M! Debil. NL Aplica !M! Vulnerable."
+    "DESCRIPTION": "Causa !D! de daño. NL Aplica !M! Débil. NL Aplica !M! Vulnerable."
   },
   "Mind Blast": {
     "NAME": "Explosión Mental",
@@ -797,7 +797,7 @@
   },
   "Neutralize": {
     "NAME": "Neutralizar",
-    "DESCRIPTION": "Causa !D! de daño. NL Aplica !M! Debil."
+    "DESCRIPTION": "Causa !D! de daño. NL Aplica !M! Débil."
   },
   "Strike_R": {
     "NAME": "Golpe",
@@ -813,8 +813,8 @@
   },
   "Evolve": {
     "NAME": "Evolucionar",
-    "DESCRIPTION": "Barajea 2 Heridas en tu pila de extracción. NL Cuando saques una Herida, roba !M! carta.",
-    "UPGRADE_DESCRIPTION": "Barajea 2 Heridas en tu pila de extracción. NL Cuando saques una Herida, roba !M! cartas."
+    "DESCRIPTION": "Baraja 2 Heridas en tu pila de extracción. NL Cuando saques una Herida, roba !M! carta.",
+    "UPGRADE_DESCRIPTION": "Baraja 2 Heridas en tu pila de extracción. NL Cuando saques una Herida, roba !M! cartas."
   },
   "Burn": {
     "NAME": "Quemadura",
@@ -823,7 +823,7 @@
   },
   "Sucker Punch": {
     "NAME": "Golpe a Traición",
-    "DESCRIPTION": "Causa !D! de daño. NL Aplica !M! Debil."
+    "DESCRIPTION": "Causa !D! de daño. NL Aplica !M! Débil."
   },
   "Double Tap": {
     "NAME": "Ataque Doble",
@@ -849,7 +849,7 @@
   },
   "All Out Attack": {
     "NAME": "Darlo Todo",
-    "DESCRIPTION": "Causa !D! de daño a TODOS los enemigos. NL Roba 1 carta menos el siguiente turno."
+    "DESCRIPTION": "Causa !D! de daño a TODOS los enemigos. NL Descarta 1 carta al azar."
   },
   "Flying Knee": {
     "NAME": "Rodillazo",
@@ -866,5 +866,17 @@
   "Expertise": {
     "NAME": "Experiencia",
     "DESCRIPTION": "Roba cartas hasta que tengas !M! en tu mano."
+  },
+  "Slimed": {
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
+  },
+  "Void": {
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+  },
+  "AscendersBane": {
+    "NAME": "Ascender’s Bane",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   }
 }

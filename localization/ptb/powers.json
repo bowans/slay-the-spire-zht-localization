@@ -138,7 +138,7 @@
     ]
   },
   "Dark Embrace": {
-    "NAME": "Abraçar as Trevas",
+    "NAME": "Enlace Sombrio",
     "DESCRIPTIONS": [
       "Sempre que uma carta é #yExaurida, compre #b1 carta.",
       "Sempre que uma carta é #yExaurida, compre #b",
@@ -248,8 +248,10 @@
   "Explosive": {
     "NAME": "Explosivo",
     "DESCRIPTIONS": [
-      "Na morte, causa #b",
-      " de dano a você."
+      "Em #b",
+      " turnos, explode causando #b",
+      " de dano.",
+      "No começo do turno dele, explode causando #b"
     ]
   },
   "Feel No Pain": {
@@ -260,7 +262,7 @@
     ]
   },
   "Fire Breathing": {
-    "NAME": "Cuspir Fogo",
+    "NAME": "Pirofagia",
     "DESCRIPTIONS": [
       "No fim do seu turno, para cada #yAtaque jogado neste turno cause #b",
       " de dano a TODOS os inimigos."
@@ -690,7 +692,7 @@
     ]
   },
   "Tools Of The Trade": {
-    "NAME": "Ferramentas do Ofício",
+    "NAME": "Ferramentas Do Ofício",
     "DESCRIPTIONS": [
       "No início do seu turno, compre #b",
       " carta e descarte #b",

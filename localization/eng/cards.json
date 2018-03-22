@@ -46,8 +46,8 @@
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add !M! Shivs to your hand."
   },
   "Underhanded Strike": {
-    "NAME": "Underhanded Strike",
-    "DESCRIPTION": "Deal !D! damage. NL If you discarded a card this turn, gain [G] [G].",
+    "NAME": "Sneaky Strike",
+    "DESCRIPTION": "Deal !D! damage. NL If you have discarded a card this turn, NL gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
     	"I can't play this card."	
     ]
@@ -481,6 +481,18 @@
     "NAME": "Dazed",
     "DESCRIPTION": "Unplayable. NL Ethereal."
   },
+  "Void": {
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+  },
+  "Slimed": {
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
+  },
+  "AscendersBane": {
+    "NAME": "Ascender’s Bane",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+  },
   "Barricade": {
     "NAME": "Barricade",
     "DESCRIPTION": "Block no longer expires at the start of your turn."
@@ -849,7 +861,7 @@
   },
   "All Out Attack": {
     "NAME": "All-Out Attack",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw 1 less card next turn."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Discard 1 card at random."
   },
   "Flying Knee": {
     "NAME": "Flying Knee",

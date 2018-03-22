@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "비열한 타격",
-    "DESCRIPTION": "사용불가 NL 이 카드가 버려지면 무작위 적에게 !D! 의 피해를 줍니다.",
+    "DESCRIPTION": "!D! 의 피해를 줍니다. NL 이번 턴에 버린 카드가 있으면 [G] [G] 를 얻습니다.",
     "EXTENDED_DESCRIPTION": [
       "이 카드는 사용할 수 없다."
     ]
@@ -849,7 +849,7 @@
   },
   "All Out Attack": {
     "NAME": "총공격",
-    "DESCRIPTION": "적 전체에게 !D! 의 피해를 줍니다. NL 다음 턴에 카드를 1장 덜 뽑습니다."
+    "DESCRIPTION": "적 전체에게 !D! 의 피해를 줍니다. NL 무작위 카드를 1장 버립니다."
   },
   "Flying Knee": {
     "NAME": "플라잉 니킥",
@@ -866,5 +866,17 @@
   "Expertise": {
     "NAME": "전문성",
     "DESCRIPTION": "손에 카드가 !M! 장이 될 때까지 카드를 뽑습니다."
+  },
+  "Slimed": {
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
+  },
+  "Void": {
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+  },
+  "AscendersBane": {
+    "NAME": "Ascender’s Bane",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   }
 }

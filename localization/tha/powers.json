@@ -249,7 +249,9 @@
     "NAME": "Explosive",
     "DESCRIPTIONS": [
       "On death, deals #b",
-      " damage to you."
+      " damage to you.",
+      " damage.",
+      "At the end of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {
