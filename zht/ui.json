@@ -986,32 +986,32 @@
   },
   "RunHistoryPathNodes": {
     "TEXT": [
-      "Unknown",
-      "Enemy",
-      "Elite",
-      "Event",
-      "Boss",
-      "Treasure",
-      "Boss Treasure",
-      "Rest",
-      "Merchant",
-      "Unknown (Enemy)",
-      "Unknown (Merchant)",
-      "Unknown (Treasure)",
-      "Floor %1$s - %2$s",
-      "Floor %s",
-      "#r%s Damage",
-      "#r%s Turns",
+      "問號",
+      "敵人",
+      "精英",
+      "事件",
+      "首領",
+      "財寶",
+      "首領財寶",
+      "休息處",
+      "商人",
+      "問號（敵人）",
+      "問號（商人）",
+      "問號（財寶）",
+      "%1$s層 - %2$s",
+      "第%s層",
+      "#r%s 傷害",
+      "#r%s 回合",
       "#r%s #r/ #r%s #rHP",
-      "#y%s #yGold",
-      "Picked %s",
-      "Skipped:",
-      "Missing Info"
+      "#y%s #y金幣",
+      "拾取 %s",
+      "略過:",
+      "情報遺失"
     ]
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choose an Attack to Add to Your Hand"
+      "選擇一張攻擊牌放入你的手牌"
     ]
   }
 }
