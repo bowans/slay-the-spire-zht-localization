@@ -733,7 +733,7 @@
     ]
   },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "幽靈議會",
     "DESCRIPTIONS": [
       "Placeholder 1",
       "Placeholder 2",
@@ -742,12 +742,12 @@
       "Placeholder 5"
     ],
     "OPTIONS": [
-      "[Accept] #g #gall #gDefends. #gObtain #g5 #gGhostly. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
-      "[Lose ",
-      "] #gRemove #gall #gDefends. #gObtain #g5 #gGhostly.",
-      "[Leave]"
+      "[接受] #g移除所有 #g防禦 #g牌 。 #g獲得5張 #g靈體 #g牌 。 #r失去 #r",
+      "% #r最大生命 。",
+      "[拒絕]",
+      "[失去 ",
+      "] #g移除所有 #g防禦 #g牌 。 #g獲得5張 #g靈體 #g牌 。",
+      "[離開]"
     ]
   }
 }
