@@ -371,7 +371,7 @@
     "NAME": "Mondo Appiccicoso",
     "DESCRIPTIONS": [
       "Cadi in una pozzanghera. NL @IL@ @MONDO@ @DIVENTA@ @UN@ #g@MARE@ #g@DI@ #g@MELMA!!@ NL Dopo aver combattuto freneticamente con la melma corrosiva riesci a liberarti. NL Sei inzaccherato dalla testa ai piedi. NL NL Dopo esserti arrampicato fuori, noti che hai perso #ydell'oro. Eh già, il liquido appiciccoso ora contiene anche i tuoi soldi, oltre #yall'oro di qualche altro avventuriero sfortunato.",
-      "A contato con la melma, la tua pelle brucia e si ustiona, ma riesci in a recuperare #yl'oro.",
+      "A contatto con la melma, la tua pelle brucia e si ustiona, ma riesci a recuperare #yl'oro.",
       "Decidi che il gioco non vale la candela."
     ],
     "OPTIONS": [
@@ -713,6 +713,24 @@
       "[Perdi ",
       "] #gRimuovi #gi #gColpi ed #gOttieni #g5 #gMorsi.",
       "[Prosegui]"
+    ]
+  },
+  "Ghosts": {
+    "NAME": "Council of Ghosts",
+    "DESCRIPTIONS": [
+      "Placeholder 1",
+      "Placeholder 2",
+      "Placeholder 3",
+      "Placeholder 4",
+      "Placeholder 5"
+    ],
+    "OPTIONS": [
+      "[Accept] #g #gall #gDefends. #gObtain #g5 #gGhostly. #rLose #r",
+      "% #rMax #rHP.",
+      "[Refuse]",
+      "[Lose ",
+      "] #gRemove #gall #gDefends. #gObtain #g5 #gGhostly.",
+      "[Leave]"
     ]
   },
   "The Woman in Blue": {

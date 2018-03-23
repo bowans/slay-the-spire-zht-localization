@@ -744,5 +744,11 @@
       "在其回合结束时，获得 #b",
       " 点 #y力量 。"
     ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce ALL damage taken and HP loss to #b1."
+    ]
   }
 }

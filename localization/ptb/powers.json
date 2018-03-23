@@ -251,7 +251,7 @@
       "Em #b",
       " turnos, explode causando #b",
       " de dano.",
-      "No começo do turno dele, explode causando #b"
+      "No início de seu turno, explode causando #b"
     ]
   },
   "Feel No Pain": {
@@ -299,7 +299,7 @@
     "NAME": "Algemado",
     "DESCRIPTIONS": [
       "Recupera #b",
-      " de #yForça no fim do turno dele."
+      " de #yForça no fim de seu turno."
     ]
   },
   "Gambit": {
@@ -388,7 +388,7 @@
       "Ganhe #b",
       " de #yProteção no fim do seu turno.",
       "Ganha #b",
-      " de #yProteção no fim do turno dele."
+      " de #yProteção no fim de seu turno."
     ]
   },
   "Minion": {
@@ -460,7 +460,7 @@
       "Ganhe #b",
       " de #yProteção no fim do seu turno. Perder PV de um ataque reduz #yArmadura #yChapeada em #b1.",
       "Ganha #b",
-      " de #yProteção no fim do turno dele. Perder PV de um ataque reduz #yArmadura #yChapeada em #b1."
+      " de #yProteção no fim de seu turno. Perder PV de um ataque reduz #yArmadura #yChapeada em #b1."
     ]
   },
   "Poison": {
@@ -468,7 +468,7 @@
     "DESCRIPTIONS": [
       "No início do seu turno, perca #b",
       " PV, então reduz o #yVeneno em #b1.",
-      "No início do turno dele, perde #b"
+      "No início de seu turno, perde #b"
     ]
   },
   "Rage": {
@@ -488,7 +488,7 @@
     "NAME": "Regenerar",
     "DESCRIPTIONS": [
       "Cura #b",
-      " #yPV no fim do turno dele."
+      " #yPV no fim de seu turno."
     ]
   },
   "Regeneration": {
@@ -544,21 +544,21 @@
   "Ritual": {
     "NAME": "Ritual",
     "DESCRIPTIONS": [
-      "No fim do turno dele, ganha #b",
+      "No fim de seu turno, ganha #b",
       " de #yForça."
     ]
   },
   "GrowthPower": {
     "NAME": "Crescimento",
     "DESCRIPTIONS": [
-      "No fim do turno dele, ganha #b",
+      "No fim de seu turno, ganha #b",
       " de #yForça."
     ]
   },
   "Generic Strength Up Power": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "No fim do turno dele, ganha #b",
+      "No fim de seu turno, ganha #b",
       " de #yForça."
     ]
   },
@@ -622,7 +622,7 @@
   "Split": {
     "NAME": "Dividir",
     "DESCRIPTIONS": [
-      "Quando o PV dele está em #b50% ou abaixo, irá se dividir em #b2 gosmas menores com o PV atual de ",
+      "Quando seu PV está em #b50% ou abaixo, irá se dividir em #b2 gosmas menores com o PV atual de ",
       "."
     ]
   },
@@ -743,6 +743,12 @@
     "DESCRIPTIONS": [
       "Sempre que você jogar uma Técnica, cause ",
       " de dano a um inimigo aleatório."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce ALL damage taken and HP loss to #b1."
     ]
   }
 }

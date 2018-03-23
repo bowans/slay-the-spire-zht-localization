@@ -157,6 +157,12 @@
 		],
 		"DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
 	},
+	"INTANGIBLE": {
+		"NAMES":[
+			"intangible"
+		],
+		"DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+	},
 	"TODO": {
 		"NAMES":[
 			"todo",

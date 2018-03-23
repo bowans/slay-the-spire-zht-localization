@@ -251,7 +251,7 @@
       "在 #b",
       " 回合後，爆炸並造成 #b",
       " 點傷害。",
-      "在這個回合結束時，爆炸並造成 #b"
+      "在它的下個回合開始時，爆炸並造成 #b"
     ]
   },
   "Feel No Pain": {
@@ -743,6 +743,12 @@
     "DESCRIPTIONS": [
       "在其回合結束時，獲得 #b",
       " 點 #y力量 。"
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce ALL damage taken and HP loss to #b1."
     ]
   }
 }

@@ -179,6 +179,13 @@
       ],
       "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
     },
+    "INTANGIBLE": {
+      "NAMES": [
+        "Nieuchwytność",
+        "Nieuchwytności"
+      ],
+      "DESCRIPTION": "Zmniejsza WSZYSTKIE otrzymywane obrażenia do #b1 pkt.."
+    },
     "TODO": {
       "NAMES": [
         "todo",

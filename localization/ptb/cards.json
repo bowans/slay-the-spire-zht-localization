@@ -46,7 +46,7 @@
     "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. NL Adicione !M! Estoques à sua mão."
   },
   "Underhanded Strike": {
-    "NAME": "Golpe Baixo",
+    "NAME": "Golpe Furtivo",
     "DESCRIPTION": "Cause !D! de dano. NL Se você descartou uma carta neste turo, ganhe [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Eu não posso jogar esta carta."
@@ -481,6 +481,18 @@
     "NAME": "Atordoado",
     "DESCRIPTION": "Injogável. NL Etérea."
   },
+  "Void": {
+    "NAME": "Vácuo",
+    "DESCRIPTION": "Injogável. NL Quando esta carta é comprada, perca 1 de Energia. NL Etérea."
+  },
+  "Slimed": {
+    "NAME": "Gosmento",
+    "DESCRIPTION": "Exaurir."
+  },
+  "AscendersBane": {
+    "NAME": "Ruína do Ascensor",
+    "DESCRIPTION": "Injogável. NL Não pode ser removida do seu baralho."
+  },
   "Barricade": {
     "NAME": "Barricada",
     "DESCRIPTION": "A Proteção não expira mais no início do seu turno."
@@ -867,16 +879,9 @@
     "NAME": "Perícia",
     "DESCRIPTION": "Compre cartas até que você tenha !M! na mão."
   },
-  "Slimed": {
-    "NAME": "Slimed",
-    "DESCRIPTION": "Exhaust."
-  },
-  "Void": {
-    "NAME": "Void",
-    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
-  },
-  "AscendersBane": {
-    "NAME": "Ascender’s Bane",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+  "Ghostly": {
+    "NAME": "Ghostly",
+    "DESCRIPTION": "Gain 1 Intangible. NL Exhaust. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
   }
 }

@@ -862,7 +862,7 @@
       "Les ennemis normaux ont plus de vie.",
       "Les Élites ont plus de vie.",
       "Les Boss ont plus de vie.",
-      "Parasite !",
+      "Commencez chaque partie maudit !",
       "Les potions sont moins efficaces.",
       "Les cartes améliorées apparaissent moins souvent.",
       "Les boss sont pauvres.",
@@ -984,34 +984,34 @@
       "Cette fonctionnalité n'est pas encore disponible."
     ]
   },
-  "RunHistoryPathNodes": {
-    "TEXT": [
-      "Unknown",
-      "Enemy",
-      "Elite",
-      "Event",
-      "Boss",
-      "Treasure",
-      "Boss Treasure",
-      "Rest",
-      "Merchant",
-      "Unknown (Enemy)",
-      "Unknown (Merchant)",
-      "Unknown (Treasure)",
-      "Floor %1$s - %2$s",
-      "Floor %s",
-      "#r%s Damage",
-      "#r%s Turns",
-      "#r%s #r/ #r%s #rHP",
-      "#y%s #yGold",
-      "Picked %s",
-      "Skipped:",
-      "Missing Info"
-    ]
-  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choose an Attack to Add to Your Hand"
+      "Choisissez une Attaque à ajouter à votre main"
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Inconnu",
+      "Ennemi",
+      "Elite",
+      "Événement",
+      "Boss",
+      "Coffre",
+      "Coffre de Boss",
+      "Feu de camp",
+      "Marchand",
+      "Inconnu (Ennemi)",
+      "Inconnu (Marchand)",
+      "Inconnu (Coffre)",
+      "Étage %1$s - %2$s",
+      "Étage %s",
+      "#r%s Dégâts",
+      "#r%s Tours",
+      "#r%s #r/ #r%s #rPV",
+      "#y%s #yOr",
+      "Choisi %s",
+      "Passé:",
+      "Information manquante"
     ]
   }
 }

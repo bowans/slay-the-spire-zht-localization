@@ -868,15 +868,20 @@
     "DESCRIPTION": "손에 카드가 !M! 장이 될 때까지 카드를 뽑습니다."
   },
   "Slimed": {
-    "NAME": "Slimed",
-    "DESCRIPTION": "Exhaust."
+    "NAME": "점액투성이",
+    "DESCRIPTION": "소멸"
   },
   "Void": {
-    "NAME": "Void",
-    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+    "NAME": "공허",
+    "DESCRIPTION": "사용불가 NL 이 카드를 뽑으면, 1의 에너지를 잃습니다. NL 휘발성"
   },
   "AscendersBane": {
-    "NAME": "Ascender’s Bane",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+    "NAME": "등반자의 골칫거리",
+    "DESCRIPTION": "사용불가 NL 덱에서 제거할 수 없습니다."
+  },
+  "Ghostly": {
+    "NAME": "영체화",
+    "DESCRIPTION": "불가침 을 1 얻습니다. NL 소멸 NL 휘발성",
+    "UPGRADE_DESCRIPTION": "불가침 을 1 얻습니다. NL 소멸"
   }
 }

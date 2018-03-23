@@ -251,7 +251,7 @@
       "Za tur: #b",
       " , wybuchnie zadając #b",
       " pkt. obrażeń.",
-      "Na końcu tury, wybuchnie zadając #b"
+      "Na początku tury, wybuchnie zadając #b"
     ]
   },
   "Feel No Pain": {
@@ -743,6 +743,12 @@
     "DESCRIPTIONS": [
       "Kiedykolwiek zagrasz #yUmiejętność, zadaj ",
       " pkt. obrażeń losowemu przeciwnikowi."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce ALL damage taken and HP loss to #b1."
     ]
   }
 }

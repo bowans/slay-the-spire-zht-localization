@@ -76,13 +76,13 @@
       "Desconhecido (Tesouro)",
       "Andar %1$s - %2$s",
       "Andar %s",
-      "#r%s Damage",
-      "#r%s Turns",
-      "#r%s #r/ #r%s #rHP",
-      "#y%s #yGold",
-      "Picked %s",
-      "Skipped:",
-      "Missing Info"
+      "#r%s de Dano",
+      "#r%s Turnos",
+      "#r%s #r/ #r%s #rPV",
+      "#y%s #yde #yOuro",
+      "Pegou %s",
+      "Pulou:",
+      "Informação Faltante"
     ]
   },
   "LeaderboardsScreen": {
@@ -796,7 +796,7 @@
       "Inimigos normais são mais resistentes.",
       "Elites são mais resistentes.",
       "Chefes são mais resistentes.",
-      "Parasita!",
+      "Comece cada jornada amaldiçoado(a).",
       "Poções são menos potentes.",
       "Cartas aprimoradas aparecem menos.",
       "Chefes pobres.",

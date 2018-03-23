@@ -173,6 +173,12 @@
     },
     "TEXT": [
       "Energia é utilizada para jogar cartas da sua mão."
-    ]
+    ],
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangible"
+      ],
+      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+    }
   }
 }

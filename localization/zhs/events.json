@@ -731,5 +731,23 @@
       "[离开] #r受到 #r",
       " #r点伤害。"
     ]
+  },
+  "Ghosts": {
+    "NAME": "幽魂议会",
+    "DESCRIPTIONS": [
+      "Placeholder 1",
+      "Placeholder 2",
+      "Placeholder 3",
+      "Placeholder 4",
+      "Placeholder 5"
+    ],
+    "OPTIONS": [
+      "[接受] #g移除所有 #g防御 #g牌。 #g获得5张 #g灵体 #g牌。 #r失去 #r",
+      "% #r最大生命。",
+      "[拒绝]",
+      "[失去 ",
+      "] #g移除所有 #g防御 #g牌。 #g获得5张 #g灵体 #g牌。",
+      "[Leave]"
+    ]
   }
 }

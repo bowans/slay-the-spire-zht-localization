@@ -250,6 +250,12 @@
     },
     "TEXT": [
       "Energi brukes for å spille kort fra hånda."
-    ]
+    ],
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangible"
+      ],
+      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+    }
   }
 }

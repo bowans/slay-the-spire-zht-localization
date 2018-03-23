@@ -868,15 +868,20 @@
     "DESCRIPTION": "造成 !D! 點傷害。 NL 回復 !M! 點生命。"
   },
   "Slimed": {
-    "NAME": "Slimed",
-    "DESCRIPTION": "Exhaust."
+    "NAME": "黏液",
+    "DESCRIPTION": "消耗 。"
   },
   "Void": {
-    "NAME": "Void",
-    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+    "NAME": "虛空",
+    "DESCRIPTION": "不能被打出。 NL 抽到這張牌時失去1點能量。 NL 虛無 。"
   },
   "AscendersBane": {
-    "NAME": "Ascender’s Bane",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+    "NAME": "攫升之災",
+    "DESCRIPTION": "不能被打出。 NL 不能從牌組中移除。"
+  },
+  "Ghostly": {
+    "NAME": "Ghostly",
+    "DESCRIPTION": "Gain 1 Intangible. NL Exhaust. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
   }
 }

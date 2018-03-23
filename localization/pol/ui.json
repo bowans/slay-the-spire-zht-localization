@@ -32,8 +32,8 @@
       "Wróć",
       "Nie znaleziono poprzednich rozgrywek. NL No dalej, zdobądź Iglicę!",
       "Poziom Wyniesienia: ",
-      "Śmierć na %1$d. piętrze z ręki %2$s",
-      "Porzucono wyprawę na %d. piętrze",
+      "Śmierć na %1$d piętrze z ręki %2$s",
+      "Porzucono wyprawę na %d piętrze",
       "Zwycięstwo!",
       "Karty",
       "Artefakty",
@@ -58,6 +58,31 @@
       "Tylko zwykłe",
       "Tylko Wyniesienie",
       "Tylko Wyzwanie Dnia"
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Nieznane",
+      "Przeciwnik",
+      "Elitarny",
+      "Wydarzenie",
+      "Boss",
+      "Łup",
+      "Łup bossa",
+      "Obozowisko",
+      "Handlarz",
+      "Nieznane (Przeciwnik)",
+      "Nieznane (Handlarz)",
+      "Nieznane (Skarb)",
+      "Piętro %1$s - %2$s",
+      "Piętro %s",
+      "#r%s pkt. obrażeń",
+      "tury: #r%s",
+      "#r%s #r/ #r%s #rPŻ",
+      "#y%s #yszt. #yzłota",
+      "Zebrano %s",
+      "Ominięto:",
+      "Brakujący opis"
     ]
   },
   "LeaderboardsScreen": {
@@ -167,6 +192,11 @@
       "Wybierz kartę umiejętności jaką chcesz dodać do ręki"
     ]
   },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Wybierz kartę ataku jaką chcesz dodać do ręki"
+    ]
+  },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
       "Wybierz kartę jaką chcesz położyć na górze stosu."
@@ -176,7 +206,7 @@
     "TEXT": [
       "Nieznane",
       "???",
-      "Tajemnicze pomieszczenie. NL NL Możesz w nim spotkać potwory, skarby, sklepy lub coś zupełnie innego.",
+      "Tajemnicze pomieszczenie. NL NL Możesz w nim spotkać przeciwników, skarby, Handlarza lub coś zupełnie innego.",
       "Handlarz",
       "Handlarz",
       "W tych pomieszczeniach znajdziesz Handlarza sprzedającego różnorodny asortyment. NL NL Możesz tutaj wydać całe ciężko zarobione #yZłoto!",
@@ -648,7 +678,7 @@
       "Zielone",
       "Niebieskie",
       "Bezbarwne",
-      "Przeklęte",
+      "Klątw",
       "Stanu",
       "Pokaż ulepszenie"
     ]
@@ -766,7 +796,7 @@
       "Zwyczajni wrogowie są wytrzymalsi.",
       "Jednostki elitarne są wytrzymalsze.",
       "Bossowie są wytrzymalsi.",
-      "Pasożyt!",
+      "Zaczynasz każdą próbę z klątwą",
       "Mikstury są mniej skuteczne.",
       "Karty ulepszeń są rzadsze.",
       "Spłukani bossowie.",
@@ -982,36 +1012,6 @@
       "Unknown",
       "",
       "Ta funkcja nie jest jeszcze dostępna."
-    ]
-  },
-  "RunHistoryPathNodes": {
-    "TEXT": [
-      "Unknown",
-      "Enemy",
-      "Elite",
-      "Event",
-      "Boss",
-      "Treasure",
-      "Boss Treasure",
-      "Rest",
-      "Merchant",
-      "Unknown (Enemy)",
-      "Unknown (Merchant)",
-      "Unknown (Treasure)",
-      "Floor %1$s - %2$s",
-      "Floor %s",
-      "#r%s Damage",
-      "#r%s Turns",
-      "#r%s #r/ #r%s #rHP",
-      "#y%s #yGold",
-      "Picked %s",
-      "Skipped:",
-      "Missing Info"
-    ]
-  },
-  "AttackFromDeckToHandAction": {
-    "TEXT": [
-      "Choose an Attack to Add to Your Hand"
     ]
   }
 }

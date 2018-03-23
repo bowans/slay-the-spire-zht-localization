@@ -849,7 +849,7 @@
   },
   "All Out Attack": {
     "NAME": "Attaque suprême",
-    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Piochez 1 carte en moins au prochain tour."
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Défausse 1 carte au hasard."
   },
   "Flying Knee": {
     "NAME": "Coup de genou",
@@ -867,16 +867,21 @@
     "NAME": "Expertise",
     "DESCRIPTION": "Piochez des cartes jusqu'à en avoir !M! dans votre main."
   },
+  "Ghostly": {
+    "NAME": "Évanescent",
+    "DESCRIPTION": "Gagnez 1 Intangible. NL Épuisement. NL Éthérée.",
+    "UPGRADE_DESCRIPTION": "Gagnez 1 Intangible. NL Épuisement."
+  },
   "Slimed": {
-    "NAME": "Slimed",
-    "DESCRIPTION": "Exhaust."
+    "NAME": "Englué",
+    "DESCRIPTION": "Épuisement."
   },
   "Void": {
-    "NAME": "Void",
-    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+    "NAME": "Néant",
+    "DESCRIPTION": "Injouable. NL Lorsce que vous piochez cette carte, perdez 1 Énergie. NL Éthérée."
   },
   "AscendersBane": {
-    "NAME": "Ascender’s Bane",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+    "NAME": "Fléau du grimpeur",
+    "DESCRIPTION": "Injouable. NL Ne peut pas être retirée du deck."
   }
 }

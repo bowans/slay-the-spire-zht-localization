@@ -157,6 +157,12 @@
       ],
       "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
     },
+    "INTANGIBLE": {
+      "NAMES": [
+        "無形"
+      ],
+      "DESCRIPTION": "すべてのダメージとHPを失う効果を #b1 に軽減する。"
+    },
     "TODO": {
       "NAMES": [
         "todo",

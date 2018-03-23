@@ -841,7 +841,7 @@
   },
   "All Out Attack": {
     "NAME": "Атака напролом",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL В след. ходу вы возьмёте на 1 карту меньше."
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Вы сбрасываете 1 случайную карту."
   },
   "Flying Knee": {
     "NAME": "Коленом в лицо",
@@ -868,15 +868,20 @@
     ]
   },
   "Slimed": {
-    "NAME": "Slimed",
-    "DESCRIPTION": "Exhaust."
+    "NAME": "Слизь",
+    "DESCRIPTION": "Сжигается."
   },
   "Void": {
-    "NAME": "Void",
-    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+    "NAME": "Бездна",
+    "DESCRIPTION": "Неиграбельная. NL Вы теряете 1 энергию, когда берёте эту карту. NL Эфирная."
   },
   "AscendersBane": {
-    "NAME": "Ascender’s Bane",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+    "NAME": "Бремя возвышения",
+    "DESCRIPTION": "Неиграбельная. NL Не может быть удалена из колоды."
+  },
+  "Ghostly": {
+    "NAME": "Призрачность",
+    "DESCRIPTION": "Даёт 1 Неосязаемости. NL Сжигается. NL Эфирная.",
+    "UPGRADE_DESCRIPTION": "Даёт 1 Неосязаемости. NL Сжигается."
   }
 }

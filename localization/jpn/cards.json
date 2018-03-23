@@ -481,6 +481,18 @@
     "NAME": "めまい",
     "DESCRIPTION": "使用不可 。 NL エセリアル 。"
   },
+  "Void": {
+    "NAME": "空虚",
+    "DESCRIPTION": "使用不可 。 NL このカードを引いたとき、エナジーを1失う。 NL エセリアル 。"
+  },
+  "Slimed": {
+    "NAME": "粘液",
+    "DESCRIPTION": "廃棄 。"
+  },
+  "AscendersBane": {
+    "NAME": "アセンダーの災厄",
+    "DESCRIPTION": "使用不可 。 NL デッキから削除できない。"
+  },
   "Barricade": {
     "NAME": "バリケード",
     "DESCRIPTION": "ターン開始時にブロック値を失わない。"
@@ -795,6 +807,11 @@
       " NL (!D! ダメージを与える。)"
     ]
   },
+  "Ghostly": {
+    "NAME": "Ghostly",
+    "DESCRIPTION": "無形 1 を得る。 NL 廃棄 。 NL エセリアル 。",
+    "UPGRADE_DESCRIPTION": "無形 1 を得る。 NL 廃棄 。"
+  },
   "Neutralize": {
     "NAME": "無力化",
     "DESCRIPTION": "!D! ダメージを与える。 NL 脱力 !M! を与える。"
@@ -866,17 +883,5 @@
   "Expertise": {
     "NAME": "職人技",
     "DESCRIPTION": "手札が !M! 枚になるまでカードを引く。"
-  },
-  "Slimed": {
-    "NAME": "Slimed",
-    "DESCRIPTION": "Exhaust."
-  },
-  "Void": {
-    "NAME": "Void",
-    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
-  },
-  "AscendersBane": {
-    "NAME": "Ascender’s Bane",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   }
 }
