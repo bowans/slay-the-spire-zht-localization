@@ -169,6 +169,12 @@
         "人工製品"
       ],
       "DESCRIPTION": "免疫下一次受到的負面效果。"
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangible"
+      ],
+      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
     }
   }
 }

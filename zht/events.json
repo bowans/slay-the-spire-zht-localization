@@ -731,5 +731,23 @@
       "[離開] #r受到 #r",
       " #r點傷害 。"
     ]
+  },
+  "Ghosts": {
+    "NAME": "Council of Ghosts",
+    "DESCRIPTIONS": [
+      "Placeholder 1",
+      "Placeholder 2",
+      "Placeholder 3",
+      "Placeholder 4",
+      "Placeholder 5"
+    ],
+    "OPTIONS": [
+      "[Accept] #g #gall #gDefends. #gObtain #g5 #gGhostly. #rLose #r",
+      "% #rMax #rHP.",
+      "[Refuse]",
+      "[Lose ",
+      "] #gRemove #gall #gDefends. #gObtain #g5 #gGhostly.",
+      "[Leave]"
+    ]
   }
 }
