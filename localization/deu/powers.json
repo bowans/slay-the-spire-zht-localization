@@ -248,10 +248,10 @@
   "Explosive": {
     "NAME": "Explosiv",
     "DESCRIPTIONS": [
-      "Verursacht beim Tod #b",
-      " Schaden an dir.",
-      " damage.",
-      "At the end of its turn, explodes dealing #b"
+      "Verursacht in #b",
+      " Zügen und verursacht #b",
+      " Schaden.",
+      "Explodiert im eigenen Zug und verursacht #b Schaden."
     ]
   },
   "Feel No Pain": {

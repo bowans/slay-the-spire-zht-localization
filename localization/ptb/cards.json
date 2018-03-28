@@ -491,7 +491,7 @@
   },
   "AscendersBane": {
     "NAME": "Ruína do Ascensor",
-    "DESCRIPTION": "Injogável. NL Não pode ser removida do seu baralho."
+    "DESCRIPTION": "Injogável. NL Etérea. NL Não pode ser removida do seu baralho."
   },
   "Barricade": {
     "NAME": "Barricada",
@@ -807,6 +807,11 @@
       " NL (Cause !D! de dano.)"
     ]
   },
+  "Ghostly": {
+    "NAME": "Aparição",
+    "DESCRIPTION": "Ganhe 1 Intangível. NL Exaurir. NL Etérea.",
+    "UPGRADE_DESCRIPTION": "Ganhe 1 Intangível. NL Exaurir."
+  },
   "Neutralize": {
     "NAME": "Neutralizar",
     "DESCRIPTION": "Cause !D! de dano. NL Aplique !M! de Fraqueza."
@@ -825,8 +830,8 @@
   },
   "Evolve": {
     "NAME": "Evoluir",
-    "DESCRIPTION": "Embaralhe 2 Feridas na sua pilha de compra. NL Sempre que comprar uma Ferida, compre !M! carta.",
-    "UPGRADE_DESCRIPTION": "Embaralhe 2 Feridas na sua pilha de compra. NL Sempre que comprar uma Ferida, compre !M! cartas."
+    "DESCRIPTION": "Sempre que comprar uma Condição, compre !M! carta.",
+    "UPGRADE_DESCRIPTION": "Sempre que comprar uma Condição, compre !M! cartas."
   },
   "Burn": {
     "NAME": "Queimadura",
@@ -878,10 +883,5 @@
   "Expertise": {
     "NAME": "Perícia",
     "DESCRIPTION": "Compre cartas até que você tenha !M! na mão."
-  },
-  "Ghostly": {
-    "NAME": "Ghostly",
-    "DESCRIPTION": "Gain 1 Intangible. NL Exhaust. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
   }
 }

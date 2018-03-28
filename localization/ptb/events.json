@@ -715,6 +715,36 @@
       "[Sair]"
     ]
   },
+  "Ghosts": {
+    "NAME": "Conselho de Fantasmas",
+    "DESCRIPTIONS": [
+      "Conforme você continua sua subida, #p~fumaça~ #p~espessa~ #p~e~ #p~negra~ começa a levantar do chão e paredes ao seu redor, coalescendo em tês formas mascaradas que começam a falar. NL NL ~\"Outra~ ~marionete~ ~de~ #y~Neow~ ~eu~ ~creio.\"~ NL #r@\"CONCORDO!@ #r@ELA@ #r@SEMPRE@ #r@FAZ@ #r@OS@ #r@MAIS@ #r@DIVERTIDOS@ #r@BRINQUEDOS!\"@ NL NL Você nota um sorriso extra-grande conforme o terceiro se dirige a você. NL \"Ignore os outros... Você gostaria de uma amostra de nosso #y~poder?\"~ ",
+      "",
+      "#y\"Excelente!\" NL Conforme a forma fantasmagórica fala, você nota sua larga boca abrindo mais e mais. #p~Fumaça~ #p~espessa~ #p~e~ #p~negra~ é cuspida e envolve a sala. Você não consegue ver ou respirar... NL NL Logo antes de você perder a consciência, a sensação para. NL NL O que quer que fossem aquelas coisas, elas se foram agora. Você continua, sentindo-se um tanto #bvazio.",
+      "\"Que desapontante...\" NL ~\"Você~ ~irá~ ~se~ ~unir~ ~a~ ~nós~ ~cedo~ ~ou~ ~tarde.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL As formas se esvaem, deixando apenas a inquietante risada zumbindo em seus ouvidos.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Aceitar] #gObtenha #g5 #gAparição. #rPerca #r",
+      "% #rPV #rMáximo.",
+      "[Recusar]",
+      "",
+      "",
+      "[Sair]"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Portal Secreto",
+    "DESCRIPTIONS": [
+      "À sua frente está uma vista que parece deslocada na alienígena paisagem ao seu redor. Estranhamente localizada dentro de uma das paredes vivas do Além está uma entrada cercada de pedras preenchida com um #p~portal~ #p~mágico~ #p~rodopiante.~ NL NL Você não tem certeza aonde ele leva, mas talvez ele poderia acelerar sua jornada através do Pináculo.",
+      "Pulando através do portal, seu senso de tempo e espaço é completamente despedaçado. NL NL Conforme você se reorienta aos novos arredores, você percebe que logo à sua frente está uma temível batalha.",
+      "Cuidado e cautela parecem ser a melhor abordagem para alcançar o topo do Pináculo. Ignorando o portal você continua."
+    ],
+    "OPTIONS": [
+      "[Entrar no Portal] IMEDIATAMENTE viaje para o chefe.",
+      "[Sair]"
+    ]
+  },
   "The Woman in Blue": {
     "NAME": "A Mulher de Azul",
     "DESCRIPTIONS": [
@@ -730,24 +760,6 @@
       "[Sair]",
       "[Sair] #rReceba #r",
       " #rde #rDano."
-    ]
-  },
-  "Ghosts": {
-    "NAME": "Council of Ghosts",
-    "DESCRIPTIONS": [
-      "Placeholder 1",
-      "Placeholder 2",
-      "Placeholder 3",
-      "Placeholder 4",
-      "Placeholder 5"
-    ],
-    "OPTIONS": [
-      "[Accept] #g #gall #gDefends. #gObtain #g5 #gGhostly. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
-      "[Lose ",
-      "] #gRemove #gall #gDefends. #gObtain #g5 #gGhostly.",
-      "[Leave]"
     ]
   }
 }

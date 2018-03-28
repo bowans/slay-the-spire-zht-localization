@@ -733,20 +733,32 @@
     ]
   },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "幽靈議會",
     "DESCRIPTIONS": [
-      "Placeholder 1",
-      "Placeholder 2",
-      "Placeholder 3",
-      "Placeholder 4",
-      "Placeholder 5"
+      "在你向上攀升時，突然四周的牆壁和地面開始冒出 #p~濃重的黑煙~ ，逐漸聚成了三個戴著面具的形狀，它們交頭接耳地說起話來。 ~「看來這又是一個~ #y~涅奧~ ~的玩偶。」~ NL #r@「我看也是！@ #r@她總能做出最有趣的玩具！」@ NL NL 你注意到第三個存在有著巨大的嘴，它露出了一個大到誇張的微笑對你說： NL 「別管那兩個傢伙……總之，你想不想嘗試一下我們的 #y~力量~ 呢？」 ",
+      "",
+      "#y「好極了！」 NL 那個幽靈鬼影的話音剛落，你就看見它本已碩大的嘴張開得越來越大，從中湧出更多 #p~濃重的黑煙~ 籠罩了整個房間。你什麼也看不見，也無法呼吸…… NL NL 就在你快要失去意識的時候，煙霧的感覺突然消失了。 NL NL 不管那三個東西是什麼存在，它們現在已經不在了。你重新上路，但總覺得自己的內心變得有些 #b空洞 。",
+      "“真令人失望……” NL ~「反正你遲早會成為我們的一員。」~  NL #r@「哈哈@ #r@哈哈哈哈！」@ NL NL 那些幽影消散了，只留下這令人不安的大笑聲在你耳中回蕩。",
+      ""
     ],
     "OPTIONS": [
-      "[Accept] #g #gall #gDefends. #gObtain #g5 #gGhostly. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
-      "[Lose ",
-      "] #gRemove #gall #gDefends. #gObtain #g5 #gGhostly.",
+      "[接受] #g移除所有 #g防禦 #g牌 。 #g獲得5張 #g幽影 #g牌 。 #r失去 #r",
+      "% #r最大生命 。",
+      "[拒絕]",
+      "[失去 ",
+      "] #g移除所有 #g防禦 #g牌 。 #g獲得5張 #g幽影 #g牌 。",
+      "[離開]"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Secret Portal",
+    "DESCRIPTIONS": [
+      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
+      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
+      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
+    ],
+    "OPTIONS": [
+      "[Enter the Portal] IMMEDIATELY travel to the boss.",
       "[Leave]"
     ]
   }

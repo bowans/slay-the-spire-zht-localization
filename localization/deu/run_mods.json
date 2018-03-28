@@ -1,15 +1,15 @@
 {
   "Cursed Run": {
     "NAME": "Verfluchter Run",
-    "DESCRIPTION": "Erhalte einen Fluch, wenn du einen Boss besiegst."
+    "DESCRIPTION": "Erhalte einen Fluch, wenn du einen Boss besiegst. Dein Startrelikt ist ersetzt durch Verfluchter Schlüssel, Nullstein-Amulett und die Du-Vu-Puppe."
   },
   "Heirloom": {
     "NAME": "Erbstück",
-    "DESCRIPTION": "Beginne mit 1 zufälligen Relikt."
+    "DESCRIPTION": "Beginne mit 1 seltenen Relikt."
   },
   "Night Terrors": {
     "NAME": "Nachtangst",
-    "DESCRIPTION": "An einem Lagerfeuer ausruhen heilt nun 20% deiner TP, anstatt von 30%."
+    "DESCRIPTION": "An einem Lagerfeuer ausruhen heilt dich komplett, aber kostet dich 5 max. TP."
   },
   "Vintage": {
     "NAME": "Antiquitäten",
@@ -21,7 +21,7 @@
   },
   "Elite Swarm": {
     "NAME": "Eliten-Schwarm",
-    "DESCRIPTION": "Elite schwärmen den Spire."
+    "DESCRIPTION": "Elite schwärmen den Spire und lassen besseren Loot fallen."
   },
   "Allstar": {
     "NAME": "All Star",
@@ -33,34 +33,38 @@
   },
   "Binary": {
     "NAME": "Binary",
-    "DESCRIPTION": "Card rewards contain only 2 cards."
+    "DESCRIPTION": "Kartenbelohnungen enthalten nur 2 Karten."
   },
   "Uncertain Future": {
     "NAME": "Uncertain Future",
-    "DESCRIPTION": "The map shows only ?."
+    "DESCRIPTION": "Die Karte zeigt nurnoch ?."
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+    "DESCRIPTION": "Gegner droppen 200% mehr Gold, aber du kannst deine Karten an Ruhestätten nicht upgraden."
   },
   "Insanity": {
     "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
+    "DESCRIPTION": "Starte mit einem Deck von 50 zufälligen Karten."
   },
   "Lethality": {
     "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
+    "DESCRIPTION": "Du und alle Gegner starten jeden Kampf mit +3 Stärke."
   },
   "Terminal": {
     "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+    "DESCRIPTION": "Verliere 1 max. TP, wenn du einen Raum betrittst. Beginne jeden Kampf mit 5 Panzerrüstung."
   },
   "Time Dilation": {
     "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies become Slow."
+    "DESCRIPTION": "Alle Gegner sind verlangsamt."
   },
   "Hoarder": {
     "NAME": "Hoarder",
-    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
+    "DESCRIPTION": "Immer wenn du eine Karte zu deinem Deck hinzufügst, fügst du auch 2 Kopien hinzu. Du kannst beim Händler keine Karten entfernen."
+  },
+  "Draft": {
+    "NAME": "Draft",
+    "DESCRIPTION": "Draft a custom starting deck of cards."
   }
 }

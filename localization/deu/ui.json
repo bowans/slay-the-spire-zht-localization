@@ -457,7 +457,8 @@
       "Spiel verlassen",
       "Speichern & Verlassen",
       "NL NL VSync",
-      "Spieltester Kartendesign"
+      "Spieltester Kartendesign",
+      "Show Card Quick Select Keys"
     ]
   },
   "SettingsScreen": {
@@ -847,7 +848,7 @@
       "7. Normale Gegner halten mehr aus.",
       "8. Eliten halten mehr aus.",
       "9. Bosse halten mehr aus.",
-      "10. Parasit!",
+      "10. Beginne jeden Run verflucht.",
       "11. Tränke sind schwächer.",
       "12. Verbesserte Karten erscheinen seltener.",
       "13. Arme Bosse.",
@@ -901,15 +902,15 @@
       "%1$d %2$s",
       "%1$s (%2$d):",
       "Score: %d",
-      "All Characters",
-      "Wins and Losses",
-      "Wins",
-      "Losses",
-      "Daily",
-      "Any Game Type",
-      "Only Normal",
-      "Only Ascension",
-      "Only Daily Challenge"
+      "Alle Charaktere",
+      "Siege und Niederlagen",
+      "Siege",
+      "Niederlagen",
+      "Täglich",
+      "Jeder Spielmodus",
+      "Nur Normal",
+      "Nur Aufstieg",
+      "Nur tägliche Herausforderung"
     ]
   },
   "CreditsScreen": {
@@ -926,7 +927,7 @@
     "TEXT": [
       "Tägliche Herausforderung",
       "Verbindung zum Zeitserver wird hergestellt...",
-      "Du hast die heutige Herausforderung abgeschlossen",
+      "Du hast die heutige Herausforderung abgeschlossen, NL bei neuen Anläufen wird kein Score gespeichert.",
       "Zurück",
       "Aufbrechen",
       "Heutiger Charakter: ",
@@ -938,7 +939,7 @@
       " NL Heutige Herausforderung: NL TAB #yKlasse: NL TAB ",
       " NL TAB #yMods: ",
       "Modifikatoren: ",
-      "Leaderboards"
+      "Ranglisten"
     ]
   },
   "MenuPanels": {
@@ -986,32 +987,32 @@
   },
   "RunHistoryPathNodes": {
     "TEXT": [
-      "Unknown",
-      "Enemy",
+      "Unbekannt",
+      "Gegner",
       "Elite",
       "Event",
       "Boss",
-      "Treasure",
-      "Boss Treasure",
-      "Rest",
-      "Merchant",
-      "Unknown (Enemy)",
-      "Unknown (Merchant)",
-      "Unknown (Treasure)",
-      "Floor %1$s - %2$s",
-      "Floor %s",
-      "#r%s Damage",
-      "#r%s Turns",
+      "Schatz",
+      "Boss-Schatz",
+      "Ruheort",
+      "Händler",
+      "Unbekannt (Gegner)",
+      "Unbekannt (Händler)",
+      "Unbekannt (Schatz)",
+      "Ebene %1$s - %2$s",
+      "Ebene %s",
+      "#r%s Schaden",
+      "#r%s Runden",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yGold",
-      "Picked %s",
-      "Skipped:",
-      "Missing Info"
+      "Ausgewählte %s",
+      "Übersprungen:",
+      "Fehlende Infos"
     ]
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choose an Attack to Add to Your Hand"
+      "Wähle eine Attacke zum Zufügen zu deiner Hand aus."
     ]
   }
 }

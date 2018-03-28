@@ -240,8 +240,8 @@
   "Evolve": {
     "NAME": "Evolve",
     "DESCRIPTIONS": [
-      "Whenever you draw a #yWound, draw a card.",
-      "Whenever you draw a #yWound, draw #b",
+      "Whenever you draw a #yStatus, draw a card.",
+      "Whenever you draw a #yStatus, draw #b",
       " cards."
     ]
   },
@@ -251,7 +251,7 @@
       "In #b",
       " turns, explodes dealing #b",
 	  " damage.",
-	  "At the start of its turn, explodes dealing #b"
+	  "On its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {

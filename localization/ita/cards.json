@@ -46,7 +46,7 @@
     "UPGRADE_DESCRIPTION": "Ottieni !B! Blocco. NL Aggiungi !M! Pugnali alla tua mano."
   },
   "Underhanded Strike": {
-    "NAME": "Colpo Scorretto",
+    "NAME": "Colpo a Sorpresa",
     "DESCRIPTION": "Infliggi !D! danni. NL Se hai scartato una carta in questo turno, NL ottieni [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Non posso giocare questa carta."
@@ -486,12 +486,12 @@
     "DESCRIPTION": "Ingiocabile. NL Quando questa carta viene pescata, perdi 1 Energia. NL Eterea."
   },
   "Slimed": {
-    "NAME": "Melmato",
+    "NAME": "Inzaccherato",
     "DESCRIPTION": "Esaurisci."
   },
   "AscendersBane": {
-    "NAME": "Tormento dello Scalatore",
-    "DESCRIPTION": "Ingiocabile. NL Non può essere rimossa dal mazzo."
+    "NAME": "Cruccio dell'Asceso",
+    "DESCRIPTION": "Ingiocabile. NL Eterea. NL Non può essere rimossa dal mazzo."
   },
   "Barricade": {
     "NAME": "Barricata",
@@ -808,7 +808,7 @@
     ]
   },
   "Ghostly": {
-    "NAME": "Spettrale",
+    "NAME": "Spettro",
     "DESCRIPTION": "Ottieni 1 Intangibile. NL Esaurisci. NL Eterea.",
     "UPGRADE_DESCRIPTION": "Ottieni 1 Intangibile. NL Esaurisci."
   },
@@ -830,8 +830,8 @@
   },
   "Evolve": {
     "NAME": "Evoluzione",
-    "DESCRIPTION": "Mescola 2 Ferite nella tua Pila. NL Quando peschi una Ferita, pesca !M! carta.",
-    "UPGRADE_DESCRIPTION": "Mescola 2 Ferite nella tua Pila. NL Quando peschi una Ferita, pesca !M! carte."
+    "DESCRIPTION": "Quando peschi uno Stato, pesca !M! carta.",
+    "UPGRADE_DESCRIPTION": "Quando peschi uno Stato, pesca !M! carta."
   },
   "Burn": {
     "NAME": "Ustione",

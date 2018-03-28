@@ -716,21 +716,33 @@
     ]
   },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "Rada Duchów",
     "DESCRIPTIONS": [
-      "Placeholder 1",
-      "Placeholder 2",
-      "Placeholder 3",
-      "Placeholder 4",
-      "Placeholder 5"
+      "W pewnym momencie twojej wspinaczki #p~gęsty~, #p~czarny~ #p~dym~ zaczyna wydobywać się spod ziemi oraz ze ścian wokół ciebie. Po chwili kłębowisko zaczyna przeobrażać się w trzy zamaskowane postacie które zwracają się w twoją stronę. NL NL ~„Kolejna~ ~marionetka~ #y~Neow~.”~ NL #r@\"PRAWDA!@ #r@ONA@ #r@TWORZY@ #r@NAJLEPSZE@ #r@ZABAWKI@!”@ NL NL Pod maską trzeciej postaci zauważasz przesadnie szeroki uśmiech. NL „Zignoruj ich... Nie masz może ochoty poznać czym jest prawdziwa #y~moc?”~ ",
+      "",
+      "#y„Doskonale!” NL Kiedy zjawa wypowiada te słowa, jej usta rozwierają się coraz szerzej i szerzej. #p~Gęsty~, #p~czarny~ #p~dym~ wypełnia pomieszczenie, spowijając okolicę w mroku. Czujesz, że nie możesz złapać oddechu... NL NL Na ułamek przed utratą przytomności czujesz, że przedziwne uczucie znika. NL NL Duchowe istoty, czymkolwiek one były, zniknęły bez śladu. Ruszasz dalej, czując w środku niewytłumaczalną #bpustkę.",
+      "„Żałosne...” NL ~„Wkrótce~ ~do~ ~nas~ ~dołączysz,~ ~śmiertelniku.”~ NL #r@„HA@ #r@HA@ #r@HA@ #r@HAHAHA!”@ NL NL Postacie znikają, pozostawiając jedynie głuchy, dudniący w uszach, śmiech.",
+      ""
     ],
     "OPTIONS": [
-      "[Accept] #g #gall #gDefends. #gObtain #g5 #gGhostly. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
-      "[Lose ",
-      "] #gRemove #gall #gDefends. #gObtain #g5 #gGhostly.",
-      "[Leave]"
+      "[Zgódź się] #gOtrzymaj #g5 #gkart #gDuchowej #gformy #rUtrać #r",
+      "% #rmaksymalnych #rPŻ.",
+      "[Odmów]",
+      "",
+      "",
+      "[Odejdź]"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Sekretny Portal",
+    "DESCRIPTIONS": [
+      "Natrafiasz na widok, który odstaje od, zupełnie odrealnionego już, pomieszczenia Iglicy. Widzisz wbudowany w jedną z żywych ścian Pogranicza #p~portal~, emanujący #p~pradawną~ #p~energią~. NL NL Nie masz pojęcia dokąd prowadzi, ale istnieje cień szansy, że pomoże ci szybciej opuścić Iglicę.",
+      "Wskakując w portal czujesz, że pojęcie czasu i przestrzeni kompletnie się zaciera, tworząc jednolitą masę. NL NL Kiedy już zaczynasz składać elementy tajemniczej układanki w całość, dostrzegasz, że znajdujesz się w jednym pomieszczeniu z czymś naprawdę potężnym.",
+      "Przezorny i zabezpieczony zawsze wygrywa. Ignorujesz portal, kontynuując wyprawę."
+    ],
+    "OPTIONS": [
+      "[Przejdź przez portal] Natychmiast przenieś się do bossa.",
+      "[Odejdź]"
     ]
   },
   "The Woman in Blue": {

@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Hinterlistiger Schlag",
-    "DESCRIPTION": "Unspielbar. NL Wenn du diese Karte abwirfst, verursachst du !D! Schaden an einem zufälligen Gegner.",
+    "DESCRIPTION": "Verursache !D! Schaden. NL Erhalte [G] [G], NL wenn du diese Karte abwirfst.",
     "EXTENDED_DESCRIPTION": [
       "Ich kann diese Karte nicht ausspielen."
     ]
@@ -793,8 +793,8 @@
   },
   "Evolve": {
     "NAME": "Entwickeln",
-    "DESCRIPTION": "Du mischst 2 Wunden in deinen Aufnahmestapel. NL Immer wenn du eine Wunde ziehst, ziehe !M! Karte.",
-    "UPGRADE_DESCRIPTION": "Du mischst 2 Wunden in deinen Aufnahmestapel. NL Immer wenn du eine Wunde ziehst, ziehe !M! Karten."
+    "DESCRIPTION": "Immer wenn du eine Status ziehst, ziehe !M! Karte.",
+    "UPGRADE_DESCRIPTION": "Immer wenn du einen Status ziehst, ziehe !M! Karten."
   },
   "Burn": {
     "NAME": "Brennen",
@@ -829,7 +829,7 @@
   },
   "All Out Attack": {
     "NAME": "Großangriff",
-    "DESCRIPTION": "Du verursachst !D! Schaden an ALLEN Gegnern. NL Du ziehst im nächsten Zug 1 Karte weniger."
+    "DESCRIPTION": "Du verursachst !D! Schaden an ALLEN Gegnern. NL Werfe 1 zufällige Karte ab."
   },
   "Flying Knee": {
     "NAME": "Kniestoß",
@@ -869,19 +869,19 @@
   },
   "Slimed": {
     "NAME": "Slimed",
-    "DESCRIPTION": "Exhaust."
+    "DESCRIPTION": "Erschöpft."
   },
   "Void": {
     "NAME": "Void",
-    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+    "DESCRIPTION": "Unspielbar. NL Verliere 1 Energie, wenn diese Karte gezogen wird. NL Ätherisch."
   },
   "AscendersBane": {
-    "NAME": "Ascender’s Bane",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+    "NAME": "Aufstiegsflug",
+    "DESCRIPTION": "Unspielbar. NL Kann nicht vom Deck entfernt werden."
   },
   "Ghostly": {
     "NAME": "Ghostly",
-    "DESCRIPTION": "Gain 1 Intangible. NL Exhaust. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
+    "DESCRIPTION": "Erhalte 1 Unangreifbar. NL Erschöpft. NL Ätherisch.",
+    "UPGRADE_DESCRIPTION": "Erhalte 1 Unangreifbar. NL Erschöpft."
   }
 }

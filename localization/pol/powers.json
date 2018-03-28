@@ -240,9 +240,9 @@
   "Evolve": {
     "NAME": "Ewolucja",
     "DESCRIPTIONS": [
-      "Kiedykolwiek dobierzesz #yRanę, dobierz #b1 kartę.",
-      "Kiedykolwiek dobierzesz #yRanę, dobierz #b",
-      " kart(y)."
+      "Kiedykolwiek dobierzesz kartę #yStanu, dobierz #b1 kartę.",
+      "Kiedykolwiek dobierzesz kartę #yStanu, dobierz kart: #b",
+      " ."
     ]
   },
   "Explosive": {
@@ -343,7 +343,13 @@
   "Intangible": {
     "NAME": "Nieuchwytność",
     "DESCRIPTIONS": [
-      "Zredukuj otrzymywane obrażenia oraz utratę PŻ do #b1 pkt. w tej turze. Efekt jest nakładany ponownie co turę."
+      "Redukuje WSZYSTKIE otrzymywane obrażenia oraz utratę PŻ do #b1 pkt. w tej turze. Efekt jest nakładany ponownie co drugą turę."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Nieuchwytność",
+    "DESCRIPTIONS": [
+      "Redukuje WSZYSTKIE otrzymywane obrażenia oraz utratę PŻ do #b1 pkt.."
     ]
   },
   "Inverted": {
@@ -743,12 +749,6 @@
     "DESCRIPTIONS": [
       "Kiedykolwiek zagrasz #yUmiejętność, zadaj ",
       " pkt. obrażeń losowemu przeciwnikowi."
-    ]
-  },
-  "IntangiblePlayer": {
-    "NAME": "Intangible",
-    "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
     ]
   }
 }

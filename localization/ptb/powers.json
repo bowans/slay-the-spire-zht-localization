@@ -240,8 +240,8 @@
   "Evolve": {
     "NAME": "Evoluir",
     "DESCRIPTIONS": [
-      "Sempre que você comprar uma #yFerida, compre uma carta.",
-      "Sempre que você comprar uma #yFerida, compre #b",
+      "Sempre que você comprar uma #yCondição, compre uma carta.",
+      "Sempre que você comprar uma #yCondição, compre #b",
       " cartas."
     ]
   },
@@ -251,7 +251,7 @@
       "Em #b",
       " turnos, explode causando #b",
       " de dano.",
-      "No início de seu turno, explode causando #b"
+      "Em seu turno, explode causando #b"
     ]
   },
   "Feel No Pain": {
@@ -344,6 +344,12 @@
     "NAME": "Intangível",
     "DESCRIPTIONS": [
       "Reduza TODO dano recebido e perda de PV para #b1 neste turno. Intangível é reaplicado em um a cada dois turnos."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangível",
+    "DESCRIPTIONS": [
+      "Reduza TODO dano recebido e perda de PV para #b1."
     ]
   },
   "Inverted": {
@@ -743,12 +749,6 @@
     "DESCRIPTIONS": [
       "Sempre que você jogar uma Técnica, cause ",
       " de dano a um inimigo aleatório."
-    ]
-  },
-  "IntangiblePlayer": {
-    "NAME": "Intangible",
-    "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
     ]
   }
 }

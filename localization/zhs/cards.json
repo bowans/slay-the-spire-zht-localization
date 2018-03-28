@@ -809,8 +809,8 @@
   },
   "Evolve": {
     "NAME": "进化",
-    "DESCRIPTION": "在你的抽牌堆中随机放入2张 伤口 。 NL 每当你抽到一张 伤口 ，抽 !M! 张牌。",
-    "UPGRADE_DESCRIPTION": "在你的抽牌堆中随机放入2张 伤口 。 NL 每当你抽到一张 伤口 ，抽 !M! 张牌。"
+    "DESCRIPTION": "每当你抽到一张 状态 牌时，抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "每当你抽到一张 状态 牌时，抽 !M! 张牌。"
   },
   "Burn": {
     "NAME": "灼伤",
@@ -877,7 +877,7 @@
   },
   "AscendersBane": {
     "NAME": "进阶之灾",
-    "DESCRIPTION": "不能被打出 。 NL 不能从牌组中移除。"
+    "DESCRIPTION": "不能被打出 。 NL 虚无 。 NL 不能从牌组中移除。"
   },
   "Ghostly": {
     "NAME": "灵体",

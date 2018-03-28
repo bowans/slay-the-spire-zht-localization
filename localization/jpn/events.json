@@ -732,21 +732,33 @@
       " #rダメージを受ける。"
     ]
   },
+  "SecretPortal": {
+    "NAME": "Secret Portal",
+    "DESCRIPTIONS": [
+      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
+      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
+      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
+    ],
+    "OPTIONS": [
+      "[Enter the Portal] IMMEDIATELY travel to the boss.",
+      "[Leave]"
+    ]
+  },
   "Ghosts": {
     "NAME": "Council of Ghosts",
     "DESCRIPTIONS": [
-      "Placeholder 1",
-      "Placeholder 2",
-      "Placeholder 3",
-      "Placeholder 4",
-      "Placeholder 5"
+      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKE@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
+      "",
+      "#y\"Excellent!\" NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. #p~Thick~ #p~black~ #p~smoke~ spews forth and envelops the room. You cannot see or breathe... NL NL Just before you lose consciousness, the sensation stops. NL NL Whatever those things were, they are gone now. You continue on, feeling rather #bhollow.",
+      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
+      ""
     ],
     "OPTIONS": [
-      "[Accept] #g #gall #gDefends. #gObtain #g5 #gGhostly. #rLose #r",
+      "[Accept] #gObtain #g5 #gApparition. #rLose #r",
       "% #rMax #rHP.",
       "[Refuse]",
-      "[Lose ",
-      "] #gRemove #gall #gDefends. #gObtain #g5 #gGhostly.",
+      "",
+      "",
       "[Leave]"
     ]
   }

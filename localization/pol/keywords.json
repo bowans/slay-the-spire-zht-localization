@@ -20,14 +20,14 @@
         "klątwa",
         "klątwy"
       ],
-      "DESCRIPTION": "Klątwy to negatywne karty będące na stałe w twojej talii."
+      "DESCRIPTION": "Negatywna karta będąca na stałe w twojej talii."
     },
     "DEXTERITY": {
       "NAMES": [
         "zręczność",
         "zręczności"
       ],
-      "DESCRIPTION": "Zręczność wpływa na ilość otrzymywanych punktów Bloku (z kart)."
+      "DESCRIPTION": "Wpływa na ilość otrzymywanych punktów Bloku (z kart)."
     },
     "ETHEREAL": {
       "NAMES": [
@@ -46,7 +46,7 @@
         "wykluczysz",
         "wyklucza"
       ],
-      "DESCRIPTION": "Karta jest usuwana z talii do końca walki."
+      "DESCRIPTION": "Karta zostanie usunięta z talii do końca walki."
     },
     "INNATE": {
       "NAMES": [
@@ -80,7 +80,7 @@
         "noże",
         "noży"
       ],
-      "DESCRIPTION": "Nóż to karta Ataku kosztująca #b0 i wykluczana po zagraniu."
+      "DESCRIPTION": "Karta Ataku kosztująca #b0 i wykluczana po zagraniu."
     },
     "STATUS": {
       "NAMES": [
@@ -94,7 +94,7 @@
         "siła",
         "siły"
       ],
-      "DESCRIPTION": "Siła zwiększa obrażenia zadawane kartami Ataku."
+      "DESCRIPTION": "Zwiększa obrażenia zadawane kartami Ataku."
     },
     "TRANSFORM": {
       "NAMES": [
@@ -113,7 +113,7 @@
       "NAMES": [
         "niezagrywalna"
       ],
-      "DESCRIPTION": "Niezagrywalne karty są, no... niezagrywalne."
+      "DESCRIPTION": "Karty ta jest, no... niezagrywalna."
     },
     "UPGRADE": {
       "NAMES": [
@@ -122,7 +122,7 @@
         "ulepsza",
         "ulepszy"
       ],
-      "DESCRIPTION": "Ulepszanie kart sprawia, że stają się potężniejsze. Karty można ulepszyć tylko raz."
+      "DESCRIPTION": "Sprawia, że karty stają się potężniejsze. Karty można ulepszyć tylko raz."
     },
     "VULNERABLE": {
       "NAMES": [
@@ -146,14 +146,14 @@
         "rany",
         "ran"
       ],
-      "DESCRIPTION": "Rany to niegrywalne karty Stanu."
+      "DESCRIPTION": "Niezagrywalna karta Stanu."
     },
     "FRAIL": {
       "NAMES": [
         "kruchość",
         "kruchości"
       ],
-      "DESCRIPTION": "Kruchość zmniejsza otrzymywane z kart pkt. #yBloku o #b25%."
+      "DESCRIPTION": "Zmniejsza otrzymywane z kart pkt. #yBloku o #b25%."
     },
     "STRIKE": {
       "NAMES": [

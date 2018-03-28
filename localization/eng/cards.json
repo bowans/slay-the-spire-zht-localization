@@ -491,7 +491,7 @@
   },
   "AscendersBane": {
     "NAME": "Ascender’s Bane",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+    "DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
   },
   "Barricade": {
     "NAME": "Barricade",
@@ -808,7 +808,7 @@
     ]
   },
   "Ghostly": {
-    "NAME": "Ghostly",
+    "NAME": "Apparition",
     "DESCRIPTION": "Gain 1 Intangible. NL Exhaust. NL Ethereal.",
     "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
   },
@@ -830,8 +830,8 @@
   },
   "Evolve": {
     "NAME": "Evolve",
-    "DESCRIPTION": "Shuffle 2 Wounds into your draw pile. NL Whenever you draw a Wound, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Shuffle 2 Wounds into your draw pile. NL Whenever you draw a Wound, draw !M! cards."
+    "DESCRIPTION": "Whenever you draw a Status, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Whenever you draw a Status, draw !M! cards."
   },
   "Burn": {
     "NAME": "Burn",

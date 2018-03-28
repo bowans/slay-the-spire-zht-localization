@@ -300,7 +300,7 @@
       "[Gesperrt] Erfordert: 50 Gold.",
       "[Verlassen]",
       "Wähle eine Karte zum Entfernen.",
-      "."
+      " #gTP."
     ]
   },
   "Dead Adventurer": {
@@ -728,26 +728,38 @@
       "[Kaufe 3 Tränke] #y",
       " #yGold.",
       "[Verlassen]",
-      "[Leave] #rTake #r",
-      " #rDamage."
+      "[Verlassen] #rNehme #r",
+      " #rSchaden."
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Geheimes Portal",
+    "DESCRIPTIONS": [
+      "Vor dir liegt ein Anblick, der wie eine nicht passende außerirdische Landschaft aussieht. In den lebenden Wänden befindet sich ein komisch platzierter Steineingang, in dem sich ein #p~schwindelerregendes~ #p~magisches~ #p~Portal~ befindet. NL NL Du bist dir nicht sicher, wo es hinführt, aber es könnte deine Reise beschleunigen.",
+      "Deine Wahrnemung von Raum und Zeit zerreist komplett, während du durch das Portal springst. NL NL Als du wieder zu Sinnen kommst wird dir klar, dass direkt vor dir ein heftiger Kampf liegt.",
+      "Wachsamkeit und Sicherheit scheinen ein besserer Ansatz zum erreichen der Spitze zu sein. Du ignorierst das Portal und gehst weiter."
+    ],
+    "OPTIONS": [
+      "[Betrete das Portal] Bewege dich DIREKT zum Boss.",
+      "[Verlassen]"
     ]
   },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "Geisterrat",
     "DESCRIPTIONS": [
-      "Placeholder 1",
-      "Placeholder 2",
-      "Placeholder 3",
-      "Placeholder 4",
-      "Placeholder 5"
+      "Während du deinen Aufstieg fortschreitest beginnt #p~dicker~ #p~schwarzer~ #pRauch aus dem Boden und Wänden um dich herum zu quellen, welcher sich in drei maskierte Gestalten formt.NL NL ~\"Noch~ ~eine~ ~von~ #y~Neows~ ~Puppen~, ~glaub~ ~ich~.\"~ NL #r@\"ZUGESTIMMT!@ #r@SIE@ #r@KREIERT@ #r@IMMER@ #r@DIE@ #r@LUSTIGSTEN@ #r@SPIELZEUGE!\"@ NL NL Dir fällt das überspitzte Lächeln der Drei auf. NL \"Ignoriere die anderen... Willst du eine Kostprobe unserer #y~Kraft?\"~ ",
+      "",
+      "#y\"Exzellent!\" NL Als die Geisterfigur spricht, bemerkst du wie ihr riesiger Mund sich immer weiter öffnet. #p~Dicker~ #p~schwarzer~ #p~Rauch~ quellt hervor und überschwemmt den Raum. Du kannst weder sehen noch atmen... NL NL Das Gefühl schwindet, kurz bevor du ohnmächtig wirst . NL NL Was auch immer sie waren, jetzt sind sie fort. Du gehst weiter, fühlst dich jedoch #pleer ...",
+      "\"Wie enttäuschend...\" NL ~\"Früher~ ~oder~ ~später~ ~wirst~ ~du~ ~uns~ ~beitreten.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Die Gestalten verschwinden und hinterlassen nur das nervtötende Lachen in deinen Ohren.",
+      ""
     ],
     "OPTIONS": [
-      "[Accept] #g #gall #gDefends. #gObtain #g5 #gGhostly. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
-      "[Lose ",
-      "] #gRemove #gall #gDefends. #gObtain #g5 #gGhostly.",
-      "[Leave]"
+      "[Akzeptieren] #gErhalte #g5 #gApparition. #rVerliere #r",
+      "% #rMax #rTP.",
+      "[Ablehnen]",
+      "",
+      "",
+      "[Verlassen]"
     ]
   }
 }
