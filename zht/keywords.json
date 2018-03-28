@@ -172,9 +172,9 @@
     },
     "INTANGIBLE": {
       "NAMES": [
-        "無實體"
+        "intangible"
       ],
-      "DESCRIPTION": "將受到的所有傷害和生命減少效果降低為 #b1 。"
+      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
     }
   }
 }
