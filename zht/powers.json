@@ -240,8 +240,8 @@
   "Evolve": {
     "NAME": "進化",
     "DESCRIPTIONS": [
-      "每當你抽到一張 #y傷口 ，抽一張牌。",
-      "每當你抽到一張 #y傷口 ，抽 #b",
+      "每當你抽到一張 #y狀態 牌，抽一張牌。",
+      "每當你抽到一張 #y狀態 牌，抽 #b",
       " 張牌。"
     ]
   },
@@ -746,9 +746,9 @@
     ]
   },
   "IntangiblePlayer": {
-    "NAME": "Intangible",
+    "NAME": "無實體",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
+      "將所有受到的傷害和生命減少效果降低為 #b1 。"
     ]
   }
 }
