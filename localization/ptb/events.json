@@ -745,6 +745,24 @@
       "[Sair]"
     ]
   },
+  "SensoryStone": {
+    "NAME": "Pedra Sensorial",
+    "DESCRIPTIONS": [
+      "Navegando através do Além, você descobre um #bbrilhante #btesserato @girando@ e se ~deslocando~ suavemente no ar.",
+      "Você o toca. NL NL Uma #r@dor@ #r@aguda@ flui através de você, seguida por lampejos vívidos de uma distante memória. NL ...de quem são essas memórias?",
+      "#r~MEDO.~ NL NL Uma criatura demoníaca se eleva acima de você, asas abertas conforme ela uiva com gargalhadas. Corpos mortos de uma tribo te cercam enquanto a vila é engolida em terríveis #p~chamas~ #p~negras.~ NL NL O demônio chama, provocando você. NL NL \" #r@VOCÊ@ r@REALMENTE@ #r@É@ #r@O@ #r@MAIS@ #r@FORTE@ #r@AGORA!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Esta gargalhada ecoa para sempre... ",
+      "#g~TRIUNFO.~ NL NL Os restos de uma #p~criatura~ #p~fantasmagórica~ afundam lentamente na lama à sua frente, quase invisível ao luar. Você se provou dentre suas irmãs. NL NL Em pé vitoriosamente, você espera em silêncio conforme as outras cerimoniosamente colocam o #ycrânio #yda #ycriatura sobre sua cabeça. O ritual foi concluído. NL NL Você se dirige em direção ao Pináculo...",
+      "#b~DESCONHECIDO.~ NL NL Ainda não implementado."
+    ],
+    "OPTIONS": [
+      "[Relembrar] #gAdicione #g1 #gcarta #gIncolor #gao #gseu #gbaralho.",
+      "[Relembrar] #gAdicione #g2 #gcartas #gIncolores #gao #gseu #gbaralho. #rPerca #r",
+      "[Relembrar] #gAdicione #g3 #gcartas #gIncolores #gao #gseu #gbaralho. #rPerca #r",
+      " #rPV.",
+      "[Sair]",
+      "[Interagir]"
+    ]
+  },
   "The Woman in Blue": {
     "NAME": "A Mulher de Azul",
     "DESCRIPTIONS": [

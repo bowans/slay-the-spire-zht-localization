@@ -742,24 +742,42 @@
       ""
     ],
     "OPTIONS": [
-      "[接受] #g移除所有 #g防禦 #g牌 。 #g獲得5張 #g幽影 #g牌 。 #r失去 #r",
-      "% #r最大生命 。",
+      "[接受] #g獲得5張 #g靈體 #g牌 。 #r失去 #r",
+      "% #r最大生命。",
       "[拒絕]",
-      "[失去 ",
-      "] #g移除所有 #g防禦 #g牌 。 #g獲得5張 #g幽影 #g牌 。",
+      "",
+      "",
       "[離開]"
     ]
   },
   "SecretPortal": {
-    "NAME": "Secret Portal",
+    "NAME": "秘密傳送門",
     "DESCRIPTIONS": [
-      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
-      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
-      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
+      "在你面前有一樣與周圍奇異景觀完全不符合的東西：在深處地區一面活牆壁上，奇怪地出現了一道石做的拱門，裡面有一個 #p~旋轉的魔法傳送門~ 。 NL NL 你不知道它會通向哪裡，但它應該能夠節約你爬塔的時間。",
+      "你跳進了傳送門，瞬間失去了一切對時間與空間的感知。 NL NL 當你好不容易鎮定下來時，你發現自己到達了一個新的地方，而前方正有一場苦戰在等待著你。",
+      "你覺得小心謹慎才是在這座高塔的登頂之道。你無視了傳送門，繼續上路。"
     ],
     "OPTIONS": [
-      "[Enter the Portal] IMMEDIATELY travel to the boss.",
-      "[Leave]"
+      "[進入傳送門] 立即傳送到首領房間。",
+      "[離開]"
+    ]
+  },
+  "SensoryStone": {
+    "NAME": "Sensory Stone",
+    "DESCRIPTIONS": [
+      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
+      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
+      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
+      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
+      "#b~UNKNOWN.~ NL NL Not yet implemented."
+    ],
+    "OPTIONS": [
+      "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
+      "[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
+      "[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
+      " #rHP.",
+      "[Leave]",
+      "[Interact]"
     ]
   }
 }
