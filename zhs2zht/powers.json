@@ -728,7 +728,7 @@
   "Wraith Form": {
     "NAME": "幽魂形態",
     "DESCRIPTIONS": [
-      "你每打出一張技能牌，對一名隨機敵人造成 #b",
+      "你每打出一張技能牌，對一名隨機敵人造成 ",
       " 點傷害。"
     ]
   },
@@ -748,7 +748,7 @@
   "IntangiblePlayer": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
+      "將受到的所有傷害和生命減少效果降低為 #b1 。"
     ]
   }
 }
