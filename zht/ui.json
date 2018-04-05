@@ -630,7 +630,11 @@
       "攫升",
       "等級 ",
       "攫升模式",
-      "隨著勝利次數增多，難度也會進一步提升……（不會影響連勝）"
+      "隨著勝利次數增多，難度也會進一步提升……（不會影響連勝）",
+      "Seed ",
+      "Random Seed",
+      "The starting seed used to determine what randomly appears in the run.",
+      "Set Seed"
     ]
   },
   "AbstractMonster": {
@@ -910,7 +914,8 @@
       "任意遊戲模式",
       "僅普通模式",
       "僅攫升模式",
-      "僅每日挑戰模式"
+      "僅每日挑戰模式",
+      "Seed: %s"
     ]
   },
   "CreditsScreen": {
@@ -1013,6 +1018,14 @@
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "選擇一張攻擊牌放入你的手牌"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel"
     ]
   }
 }
