@@ -57,8 +57,9 @@
 		"Any Game Type",
 		"Only Normal",
 		"Only Ascension",
-		"Only Daily Challenge"
-    ]
+		"Only Daily Challenge",
+		"Seed: %s"
+	]
   },
 	"RunHistoryPathNodes": {
 		"TEXT": [
@@ -290,6 +291,14 @@
 		"Cancel"
 	]
   },
+  "SeedPanel": {
+    "TEXT": [
+		"0000000000",
+		"Enter a new Seed",
+		"Confirm",
+		"Cancel"
+	]
+  },
   "AbstractCard": {
     "TEXT": [
 		"Locked",
@@ -381,7 +390,7 @@
 		"I'm #rEntangled! NL Can't play Attacks",
 		"Not enough #rEnergy.",
 		"Not enough #rCharge.",
-		"I can't play NL this card"
+		"I can't play NL this card."
 	]
   },
   "MasterDeckViewScreen": {
@@ -783,7 +792,11 @@
 		"Ascension",
 		"Level ",
 		"Ascension Mode",
-		"Runs get harder as you win... (Winstreaks are unaffected)"
+		"Runs get harder as you win... (Winstreaks are unaffected)",
+		"Seed ",
+		"Random Seed",
+		"The starting seed is used to determine what randomly appears in the run.",
+		"Set Seed"
 	]
   },
   "AscensionModeDescriptions": {

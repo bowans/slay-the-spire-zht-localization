@@ -745,6 +745,24 @@
       "[Odejdź]"
     ]
   },
+  "SensoryStone": {
+    "NAME": "Kamień doznań",
+    "DESCRIPTIONS": [
+      "Przemierzając Pogranicza natrafiasz na #bpołyskujący #bteserakt, który @kreśli@ w powietrzu ~przeróżne~ kształty.",
+      "Dotykasz go. NL NL Czujesz jak #r@przeszywający@ #r@ból@ przechodzi przez twoje ciało, po chwili obrazując ci jakieś wspomnienia. NL Nie masz pojęcia czyje one są...",
+      "#r~STRACH.~ NL NL Demonicznie wyglądająca postać z szeroko rozwartymi skrzydłami góruje nad tobą, zatracając się w poniżającym śmiechu. Truchła plemieńców pokrywają ziemie wioski spowitej #p~mrocznym~ #p~ogniem.~ NL NL Demon wzywa cię, nieustannie się śmiejąc. NL NL „ #r@PATRZĄC@ r@NA@ #r@RESZTĘ@ #r@TO@ #r@Z@ #r@PEWNOŚCIĄ@ #r@JESTEŚ@ #r@TUTAJ@ #r@NAJPOTĘŻNIEJSZĄ@ #r@ISTOTĄ!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ ” NL NL Jego śmiech zdaje się nie mieć końca... ",
+      "#g~TRIUMF.~ NL NL Cząstki #p~duchowej~ #p~istoty~ zostają pochłonięte przez otaczającą je prochy księżycowej ziemi. Twoje umiejętności śmiało przewyższają inne, podobne tobie istoty. NL NL Zachowując dumną pozę czekasz aż pozostali ukoronują cię czaszką #ypoległego #ystworzenia. Rytuał chyli się ku końcowi. NL NL Ruszasz dalej, chcąc zdobyć szczyt Iglicy...",
+      "#b~UNKNOWN.~ NL NL Not yet implemented."
+    ],
+    "OPTIONS": [
+      "[Przypomnij sobie] #gDodaj #g1 #gbezbarwną #gkartę #gdo #gswojej #gtalii.",
+      "[Przypomnij sobie] #gDodaj #g2 #gbezbarwne #gkarty #gdo #gswojej #gtalii. #rUtrać #r",
+      "[Przypomnij sobie] #gDodaj #g3 #gbezbarwne #gkarty #gdo #gswojej #gtalii. #rUtrać #r",
+      " #rPŻ.",
+      "[Odejdź]",
+      "[Podejdź bliżej]"
+    ]
+  },
   "The Woman in Blue": {
     "NAME": "Kobieta w Błękicie",
     "DESCRIPTIONS": [
@@ -760,24 +778,6 @@
       "[Odejdź]",
       "[Odejdź] #rUtrać #r",
       " #rPŻ."
-    ]
-  },
-  "SensoryStone": {
-    "NAME": "Sensory Stone",
-    "DESCRIPTIONS": [
-      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
-      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
-      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
-      "#b~UNKNOWN.~ NL NL Not yet implemented."
-    ],
-    "OPTIONS": [
-      "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
-      "[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      "[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      " #rHP.",
-      "[Leave]",
-      "[Interact]"
     ]
   }
 }

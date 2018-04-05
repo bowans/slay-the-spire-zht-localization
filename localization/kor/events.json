@@ -728,56 +728,56 @@
       "[포션을 3개 구매] #y",
       " #y골드",
       "[떠나기]",
-      "[Leave] #r체력을 #r",
+      "[떠나기] #r체력을 #r",
       " #r잃습니다."
     ]
   },
   "SecretPortal": {
-    "NAME": "Secret Portal",
+    "NAME": "비밀 포탈",
     "DESCRIPTIONS": [
-      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
-      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
-      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
+      "당신 앞에는 미지의 풍경이 펼쳐져 있는 것 같습니다. 저편의 살아 움직이는 벽이 #p~소용돌이치는~ #p~마법의~ #p~포탈~ 로 가득찬 돌 입구를 둘러싸고 있습니다. NL NL 어디로 가게 될지는 모르지만, 첨탑의 여정을 조금 단축시켜 줄 것 같아 보입니다.",
+      "포탈로 몸을 내던지자, 시간과 공간의 개념이 흩어집니다. NL NL 바뀐 주변을 둘러보자, 무시무시한 전투 직전임을 깨닫습니다.",
+      "주의하고 조심하는 것이 첨탑의 꼭대기에 도달하는 더 좋은 방법입니다. 포탈은 무시한 채, 계속 나아갑니다."
     ],
     "OPTIONS": [
-      "[Enter the Portal] IMMEDIATELY travel to the boss.",
-      "[Leave]"
+      "[포탈에 들어간다] 즉시 보스를 조우합니다.",
+      "[떠나기]"
     ]
   },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "유령 의회",
     "DESCRIPTIONS": [
-      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKE@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
+      "계속 올라가다 보니, #p~짙고~ #p~검은~ #p~연기~ 가 주변의 땅과 벽에서 차오르더니 가면을 쓴 세 형상으로 합쳐집니다. NL NL ~\"내가~ ~보기엔~ #y~니오우~ ~의~ ~또~ ~다른~ ~하수인인~ ~것~ ~같은데.\"~ NL #r@\"동의하네!@ #r@그녀는@ #r@항상@ #r@재미난@ #r@장난감을@ #r@만든단@ #r@말이지!\"@ NL NL 당신은 세 번째 존재가 지나칠 정도로 큰 미소를 짓는 걸 알아챕니다. NL \"다른 자들은 신경쓰지 말게... 우리의 #y~힘~을 맛보고 싶은가?\" ",
       "",
-      "#y\"Excellent!\" NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. #p~Thick~ #p~black~ #p~smoke~ spews forth and envelops the room. You cannot see or breathe... NL NL Just before you lose consciousness, the sensation stops. NL NL Whatever those things were, they are gone now. You continue on, feeling rather #bhollow.",
-      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
+      "#y\"멋지군!\" NL 유령의 형상을 한 것이 말을 하면 할수록 그것의 큰 입이 점점 더 커지는 것을 알아챕니다. #p~짙고~ #p~검은~ #p~연기~ 가 방에서 잔뜩 뿜어져 나와 방을 뒤덮습니다. 당신은 볼 수도, 숨쉴 수도 없습니다... NL NL 의식을 잃기 직전에야 이상한 느낌이 멎습니다. NL NL 그것들이 무엇이었든 간에, 그것들은 사라졌습니다. 당신은 #b공허함 을 느끼지만 계속 나아갑니다.",
+      "\"정말 실망스럽군...\" NL ~\"넌~ ~늦든~ ~빠르든~ ~우리와~ ~함께하게~ ~될거야.\"~ NL #r@\"하@ #r@하@ #r@하@ #r@하하하하!\"@ NL NL 그 형상들은 점차 사라졌고, 귀에 웃음소리만 계속 맴돕니다.",
       ""
     ],
     "OPTIONS": [
-      "[Accept] #gObtain #g5 #gApparition. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
+      "[승낙] #g영체화 #g카드 #g5장 #g획득. #r최대 체력 #r-",
+      "%",
+      "[거절]",
       "",
       "",
-      "[Leave]"
+      "[떠나기]"
     ]
   },
   "SensoryStone": {
-    "NAME": "Sensory Stone",
+    "NAME": "감각석",
     "DESCRIPTIONS": [
-      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
-      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
-      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
-      "#b~UNKNOWN.~ NL NL Not yet implemented."
+      "저편을 탐험하는 중, 당신은 허공에서 #빛나는 #b4차원의 #b도형이 @회전하고@ ~변화하는~ 것을 발견합니다.",
+      "당신은 그것을 만집니다. NL NL #r@날카로운@ #r@고통@ 이 당신을 타고 흐릅니다. 기억이 선명하게 스쳐 지나갑니다. NL ...이 기억들은 누구의 것이지?",
+      "#r~공포.~ NL NL 당신 위의 악마같은 생명체가, 날개를 넓게 펼치고는 크게 냉소를 터뜨립니다. 마을이 끔찍한 #p~검은~ #p~화염~ 으로 완전히 뒤덮인 상황에서 부족의 시체가 당신 주변에 쌓여 있습니다. NL NL 악마가 굉음을 내며 당신을 도발합니다. NL NL \" #r@너는@ #r@진정으로@ #r@가장@ #r@강한@ #r@자로구나!@ #r@크하하...@ #r@히히...@ #r@하하하하하하하!@ \" NL NL 그 웃음소리가 영원히 메아리칩니다...",
+      "#g~승리.~ NL NL #p~유령같은~ #p~생명체~ 의 일부가 서서히 진흙 속으로 빠져드는 것을 희미한 달빛 덕에 볼 수 있습니다. 당신은 자매들 사이에서 스스로를 증명해 보였습니다. NL NL 승리에 도취한 채, 조용히 다른 사람들이 예식에 따라 #y생명체의 #y두개골 을 머리 위에 올리는 것을 기다립니다. 의식은 종료되었습니다. NL NL 이제 다시 첨탑을 향합니다...",
+      "#b~미지.~ NL NL 아직 완료되지 않았습니다."
     ],
     "OPTIONS": [
-      "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
-      "[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      "[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      " #rHP.",
-      "[Leave]",
-      "[Interact]"
+      "[회상] #g1장의 #g무색 #g카드를 #g덱에 #g추가합니다.",
+      "[회상] #g2장의 #g무색 #g카드를 #g덱에 #g추가합니다. #r체력을 #r",
+      "[회상] #g3장의 #g무색 #g카드를 #g덱에 #g추가합니다. #r체력을 #r",
+      " 잃습니다.",
+      "[떠나기]",
+      "[상호작용]"
     ]
   }
 }

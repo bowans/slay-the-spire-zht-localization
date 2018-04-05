@@ -813,8 +813,8 @@
   },
   "Evolve": {
     "NAME": "진화",
-    "DESCRIPTION": "뽑을 카드 더미에 부상 카드를 2장 섞습니다. 부상 카드를 뽑으면 카드를 !M! 장 뽑습니다.",
-    "UPGRADE_DESCRIPTION": "뽑을 카드 더미에 부상 카드를 2장 섞습니다. 부상 카드를 뽑으면 카드를 !M! 장 뽑습니다."
+    "DESCRIPTION": "상태이상 카드를 뽑으면 카드를 !M! 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "상태이상 카드를 뽑으면 카드를 !M! 장 뽑습니다."
   },
   "Burn": {
     "NAME": "화상",
@@ -877,7 +877,7 @@
   },
   "AscendersBane": {
     "NAME": "등반자의 골칫거리",
-    "DESCRIPTION": "사용불가 NL 덱에서 제거할 수 없습니다."
+    "DESCRIPTION": "사용불가 NL 휘발성 NL 덱에서 제거할 수 없습니다."
   },
   "Ghostly": {
     "NAME": "영체화",

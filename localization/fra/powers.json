@@ -240,8 +240,8 @@
   "Evolve": {
     "NAME": "Évolution",
     "DESCRIPTIONS": [
-      "Lorsque vous piochez une carte #yBlessure, piochez une carte.",
-      "Lorsque vous piochez une carte #yBlessure, piochez #b",
+      "Lorsque vous piochez une carte de #yStatut, piochez une carte.",
+      "Lorsque vous piochez une carte de #yStatut, piochez #b",
       " cartes."
     ]
   },
@@ -251,7 +251,7 @@
       "Dans #b",
       " tours, explose et inflige #b",
       " dégâts.",
-      "Au début de son tour, explose et inflige #b"
+      "Pendant son tour, explose et inflige #b"
     ]
   },
   "Feel No Pain": {

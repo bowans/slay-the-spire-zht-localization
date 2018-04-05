@@ -57,7 +57,8 @@
       "Ogni Partita",
       "Modalità Normale",
       "Modalità Ascensione",
-      "Sfide del Giorno"
+      "Sfide del Giorno",
+      "Seed: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -783,7 +784,11 @@
       "Modalità Ascensione",
       "Livello ",
       "Modalità Ascensione",
-      "Le partite diventano più difficili dopo ogni vittoria... (non influisce sulle winstreak)"
+      "Le partite diventano più difficili dopo ogni vittoria... (non influisce sulle winstreak)",
+      "Seed ",
+      "Random Seed",
+      "The starting seed used to determine what randomly appears in the run.",
+      "Set Seed"
     ]
   },
   "AscensionModeDescriptions": {
@@ -1013,6 +1018,14 @@
       "Unknown",
       "",
       "Questa opzione non è ancora disponibile."
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel"
     ]
   }
 }

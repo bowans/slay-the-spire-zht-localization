@@ -763,21 +763,21 @@
     ]
   },
   "SensoryStone": {
-    "NAME": "Sensory Stone",
+    "NAME": "感知石",
     "DESCRIPTIONS": [
-      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
-      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
-      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
-      "#b~UNKNOWN.~ NL NL Not yet implemented."
+      "你在高塔深處前進時，你遇到一個懸浮在空中緩慢 @旋轉@ 且 ~變幻~ 著的 #b發光超立方體 。",
+      "你觸碰了超立方體。 NL NL 你渾身感到一股 #r@劇烈的疼痛@ ，然後一段遙遠的回憶清晰地閃現在你腦中。 NL ……這是誰的記憶？",
+      "#r~恐懼。~ NL NL 一個惡魔般的生物聳立在你上方，它的雙翅張開，放聲大笑。你的周圍是數不盡的同族們的屍體，整個村莊已被可怕的 #p~黑色火焰~ 吞沒殆盡。 NL NL 惡魔嘲笑著你： NL NL 「 #r@這下你確實成為最強的了！@ #r@哈哈哈……呵呵呵……@ #r@哈哈哈哈哈！！@」 NL NL 它的笑聲沒有停止，永遠回蕩在你的耳中…… ",
+      "#g~凱旋。~ NL NL 月光之下，一具 #p~幽靈般生物~ 的遺骸慢慢沒入了你面前的泥土中，讓人看不真切。你已向姐妹們證明了自己的實力。 NL NL 你以勝者的姿態靜靜佇立著，周圍的人們隆重地將 #y那個生物的頭骨 放置在你的頭上，儀式完成了。 NL NL 你向著一座高塔出發……",
+      "#b~未知。~ NL NL 這個選項還沒做好。"
     ],
     "OPTIONS": [
-      "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
-      "[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      "[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      " #rHP.",
-      "[Leave]",
-      "[Interact]"
+      "[回憶] #g在你的牌組中加入 #g1 #g張無色牌。",
+      "[回憶] #g在你的牌組中加入 #g2 #g張無色牌。 #r失去 #r",
+      "[回憶] #g在你的牌組中加入 #g3 #g張無色牌。 #r失去 #r",
+      " #r點生命。",
+      "[離開]",
+      "[互動]"
     ]
   }
 }

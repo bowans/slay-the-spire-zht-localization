@@ -491,7 +491,7 @@
   },
   "AscendersBane": {
     "NAME": "アセンダーの災厄",
-    "DESCRIPTION": "使用不可 。 NL デッキから削除できない。"
+    "DESCRIPTION": "使用不可 。 NL エセリアル 。 NL デッキから削除できない。"
   },
   "Barricade": {
     "NAME": "バリケード",
@@ -808,7 +808,7 @@
     ]
   },
   "Ghostly": {
-    "NAME": "Ghostly",
+    "NAME": "幻姿",
     "DESCRIPTION": "無形 1 を得る。 NL 廃棄 。 NL エセリアル 。",
     "UPGRADE_DESCRIPTION": "無形 1 を得る。 NL 廃棄 。"
   },
@@ -830,8 +830,8 @@
   },
   "Evolve": {
     "NAME": "進化",
-    "DESCRIPTION": "負傷 を山札に 2 枚加える。 NL 負傷 を引くたび、カードを !M! 枚引く。",
-    "UPGRADE_DESCRIPTION": "負傷 を山札に 2 枚加える。 NL 負傷 を引くたび、カードを !M! 枚引く。"
+    "DESCRIPTION": "「状態異常」を引くたび、カードを !M! 枚引く。",
+    "UPGRADE_DESCRIPTION": "「状態異常」を引くたび、カードを !M! 枚引く。"
   },
   "Burn": {
     "NAME": "火傷",

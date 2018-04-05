@@ -458,7 +458,7 @@
       "Sauvegarder et quitter",
       "NL NL Synchronisation verticale",
       "Mode artistique du testeur",
-      "Show Card Quick Select Keys"
+      "Montrer les raccourcis de sélection de cartes"
     ]
   },
   "SettingsScreen": {
@@ -577,7 +577,11 @@
       "Ascension",
       "Niveau ",
       "Mode Ascension",
-      "Les tentatives deviennent plus difficiles à chaque victoire... (Les victoires successives ne sont pas affectées)"
+      "Les tentatives deviennent plus difficiles à chaque victoire... (Les victoires successives ne sont pas affectées)",
+      "Seed ",
+      "Random Seed",
+      "The starting seed used to determine what randomly appears in the run.",
+      "Set Seed"
     ]
   },
   "AbstractMonster": {
@@ -904,7 +908,8 @@
       "Tout mode de jeu",
       "Normal",
       "Ascension",
-      "Défi quotidien"
+      "Défi quotidien",
+      "Seed: %s"
     ]
   },
   "DeathScreenUi": {
@@ -1013,6 +1018,14 @@
       "Choisi %s",
       "Passé:",
       "Information manquante"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel"
     ]
   }
 }

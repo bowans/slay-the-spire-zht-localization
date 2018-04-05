@@ -91,7 +91,7 @@
     "OPTIONS": [
       "[Молиться] #gПолучить #g",
       " #gзолота.",
-      "[Осквернить] #gПолучить #g250 #gзолота. #rПолучить #rПроклятие #r- #rСожаление.",
+      "[Осквернить] #gПолучить #g250 #gзолота. #rПолучить #rПроклятие #r— #rСожаление.",
       "[Уйти]"
     ]
   },
@@ -161,7 +161,7 @@
       "[Приз!] УРА!!!!",
       "[Приз!] #gПолучить #gреликвию.",
       "[Приз!] #gПолностью #gвосполнить #gздоровье.",
-      "[Приз?] #rПроклятие #r- #rГниение.",
+      "[Приз?] #rПроклятие #r— #rГниение.",
       "[Приз!] #gУбрать #gкарту #gиз #gколоды.",
       "[Приз?] #rПотерять #r",
       " #rОЗ.",
@@ -228,7 +228,7 @@
     "OPTIONS": [
       "[Слизь] #rПотерять #rслучайную #rредкую #rкарту.",
       "[Лицом в грязь] #rПолучить #r",
-      " #rурона. #rПолучить #rПроклятие #r- #rТравма.",
+      " #rурона. #rПолучить #rПроклятие #r— #rТравма.",
       "[Уйти]"
     ]
   },
@@ -279,7 +279,7 @@
       " #gОЗ.",
       "[Пончик] #gМакс. #gОЗ #g+",
       ".",
-      "[Коробка] #gПолучить #gреликвию. #rПолучить #rПроклятие #r- #rСожаление.",
+      "[Коробка] #gПолучить #gреликвию. #rПолучить #rПроклятие #r— #rСожаление.",
       "[Уйти]"
     ]
   },
@@ -339,7 +339,7 @@
     "OPTIONS": [
       "[Взять] #gПолучить #gЗолотого #gистукана. #rАктивировать #rловушку.",
       "[Уйти]",
-      "[Убежать] #rПолучить #rПроклятие #r- #rТравма.",
+      "[Убежать] #rПолучить #rПроклятие #r— #rТравма.",
       "[Сокрушить] #rПолучить #r",
       " #rурона.",
       "[Пригнуться] #rПотерять #r",
@@ -358,7 +358,7 @@
       "[Молиться] #gУбрать #gкарту #gиз #gколоды. #rПотерять #r",
       " #rОЗ.",
       "[Разрушить] #gПолучить #g",
-      " #g- #g",
+      " #g— #g",
       " #gзолота.",
       "[Закрыто] Требуется: карта с ",
       " или более урона.",
@@ -393,7 +393,7 @@
     ],
     "OPTIONS": [
       "[Согласиться] #gПолучить #g",
-      " #gзолота. #rПолучить #rПроклятие #r- #rСомнения.",
+      " #gзолота. #rПолучить #rПроклятие #r— #rСомнения.",
       "[Не согласиться]",
       "[Продолжить]",
       "[Уйти]"
@@ -426,7 +426,7 @@
     "OPTIONS": [
       "[Раздавить] #rРазозлить #rгрибы.",
       "[Съесть] #gВосполнить #g",
-      " #gОЗ. #rПолучить #rПроклятие #r- #rПаразит.",
+      " #gОЗ. #rПолучить #rПроклятие #r— #rПаразит.",
       "[Драться]",
       "[Уйти]"
     ]
@@ -529,9 +529,9 @@
     "DESCRIPTIONS": [
       "В заброшенном храме вы находите огромную распахнутую книгу, испещрённую #p@загадочными@ #p@писаниями.@ NL NL По ходу того, как вы вникаете в суть таинственных текстов, они начинают #b~смещаться~ и #b~меняться~ в знакомые вам слова.",
       "Странно. Похоже, эта книга — о #yДревнем по имени #yНьов. NL NL У вас загорается интерес, однако вы чувствуете лёгкое #p~недомогание.~",
-      "Древний-воскреситель #yНьов был изгнан к подножию Шпиля. NL NL Вы погружаетесь в повествование, однако чувствуете #r~ломоту~ в теле",
+      "Древний-воскреситель, #yНьов, была изгнана к подножию Шпиля. NL NL Вы погружаетесь в повествование, однако чувствуете #r~ломоту~ в теле",
       "Стремясь к отмщению, #yНьов благословляет чужаков, используя их в своих целях. NL NL Вас начинает одолевать #r~слабость~ #r~и~ #r~усталость...~",
-      "Возрождённые #yНьовом помнят лишь обрывки своего прошлого, они прокляты сражаться вечно. NL NL Как только вы доходите до последней страницы, ваши #r@старые@ #r@раны@ #r@вновь@ #r@открываются!@",
+      "Возвращённые к жизни силами #yНьов помнят лишь обрывки своего прошлого, они прокляты сражаться вечно. NL NL Как только вы доходите до последней страницы, ваши #r@старые@ #r@раны@ #r@вновь@ #r@открываются!@",
       "Дочитав фолиант, вы решаете забрать его с собой. Теперь, имея свидетельства прошлого, может, вы сумеете его вспомнить?",
       "Вы выходите, ощущая #p~тёмную~ #p~энергию,~ которую #p~источает~ книга.",
       "Проявив невероятную силу воли, вы противостоите трансу и @ЗАХЛОПЫВАЕТЕ@ фолиант. NL Вы выходите из храма, чувствуя #b~истощение...~"
@@ -578,7 +578,7 @@
       " #gМакс. #gОЗ. #rПотерять #r",
       " #rОЗ.",
       "[Закрыто] Требуется человечность.",
-      "[Осквернить] #rПолучить #rПроклятие #r- #rГниение."
+      "[Осквернить] #rПолучить #rПроклятие #r— #rГниение."
     ]
   },
   "Knowing Skull": {
@@ -658,10 +658,10 @@
     "OPTIONS": [
       "[Продолжить]",
       "[Убийца] #yПоставить #y",
-      " #yзолота - #g70%: #gвы выиграете #g",
+      " #yзолота — #g70%: #gвы выиграете #g",
       " #gзолота.",
       "[Владелец] #yПоставить #y",
-      " #yзолота - #g30%: #gвы выиграете #g",
+      " #yзолота — #g30%: #gвы выиграете #g",
       "[Смотреть]",
       "[Уйти]"
     ]
@@ -693,7 +693,7 @@
     ],
     "OPTIONS": [
       "[Открыть гроб] #gПолучить #gреликвию. #r",
-      "%: #rполучить #rПроклятие #r- #rМуки.",
+      "%: #rполучить #rПроклятие #r— #rМуки.",
       "[Уйти]"
     ]
   },
@@ -732,52 +732,52 @@
       " #rурона."
     ]
   },
-  "SecretPortal": {
-    "NAME": "Secret Portal",
-    "DESCRIPTIONS": [
-      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
-      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
-      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
-    ],
-    "OPTIONS": [
-      "[Enter the Portal] IMMEDIATELY travel to the boss.",
-      "[Leave]"
-    ]
-  },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "Совет призраков",
     "DESCRIPTIONS": [
-      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKE@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
+      "Вы продолжаете своё восхождение, но внезапно комнату заполняет #p~густой #p~чёрный дым, формируя три гигантские фигуры в масках. Они начинают говорить. NL NL ~\"Очередная~ ~марионетка~ #y~Ньов,~ ~я~ ~полагаю.\"~ NL #r@\"ПОХОЖЕ@ #r@НА@ #r@ТО!@ #r@ЕЁ@ #r@ИГРУШКИ@ #r@ВСЕГДА@ #r@ТАКИЕ@ #r@ЗАБАВНЫЕ!\"@ NL NL Вы видите невероятно широкую улыбку, когда третья фигура обращается к вам. NL \"Не слушай их... Хочешь ли ты почувствовать нашу #y~силу?\"~ ",
       "",
-      "#y\"Excellent!\" NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. #p~Thick~ #p~black~ #p~smoke~ spews forth and envelops the room. You cannot see or breathe... NL NL Just before you lose consciousness, the sensation stops. NL NL Whatever those things were, they are gone now. You continue on, feeling rather #bhollow.",
-      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
+      "#y\"Превосходно!\" NL Пока призрачная фигура говорит, вы видите, как её рот открывается всё шире и шире. #p~Густой~ #p~чёрный~ #p~дым~ выплёскивается из него, обволакивая всё вокруг. В глазах темнеет, вы задыхаетесь... NL NL Но прямо перед тем, как потерять сознание, вы понимаете — эта пытка прекратилась. NL NL Кем бы ни были эти фигуры — они исчезли. Вы продолжаете идти вперёд, ощущая в себе #bпустоту.",
+      "\"Какое разочарование...\" NL ~\"Рано~ ~или~ ~поздно~ ~ты~ ~присоединишься~ ~к~ ~нам.\"~ NL #r@\"ХА@ #r@ХА@ #r@ХА@ #r@ХА-ХА-ХА!\"@ NL NL Фигуры удаляются прочь, оставляя лишь жуткий смех звенеть в ваших ушах.",
       ""
     ],
     "OPTIONS": [
-      "[Accept] #gObtain #g5 #gApparition. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
+      "[Согласиться] #gПолучить #g5 #gкарт #gПризрачность. #rПотерять #r",
+      "% #rМакс. #rОЗ.",
+      "[Отказаться]",
       "",
       "",
-      "[Leave]"
+      "[Уйти]"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Секретный портал",
+    "DESCRIPTIONS": [
+      "Перед собой вы видите нечто, что кажется совершенно неуместным в чуждом ландшафте вокруг вас — странно расположенный в одной из живых стен Запределья проход, внутри которого находится #p~вращающийся~ #p~магический~ #p~портал.~ NL NL Вы не уверены в том, куда он ведёт, но, быть может, он сможет ускорить ваше путешествие по Шпилю.",
+      "Когда вы прыгаете в портал, ощущение пространства и времени полностью покидает вас. NL NL Когда вы приходите в себя в новом месте, вы понимаете, что прямо сейчас вам предстоит серьёзный бой.",
+      "Вам кажется, что подниматься на вершину Шпиля лучше аккуратно и не спеша. Оставив портал в покое, вы продолжаете своё путешествие."
+    ],
+    "OPTIONS": [
+      "[Войти в портал] МГНОВЕННО перенестись к боссу.",
+      "[Уйти]"
     ]
   },
   "SensoryStone": {
-    "NAME": "Sensory Stone",
+    "NAME": "Камень ощущений",
     "DESCRIPTIONS": [
-      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
-      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
-      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
+      "Пробираясь через Запределье, вы натыкаетесь на #bсветящийся, ~плавно~ @вращающийся@ в воздухе #bтессеракт.",
+      "Вы прикасаетесь к нему. NL NL Вас пронзает #r@острая@ #r@боль@, которую сменяют яркие вспышки воспоминаний из далёкого прошлого. NL ...Чьи же это воспоминания?",
+      "#r~СТРАХ.~ NL NL Над вами вздымается зловеще хохочущий демон с широко распахнутыми крыльями. Вокруг вас трупы соплеменников, а деревня поглощена ужасающим #p~тёмным~ #p~пламенем.~ NL NL Демон с насмешкой окликает вас. NL NL \" #r@ТЕПЕРЬ@ r@ТЫ@ #r@И@ #r@ВПРАВДУ@ #r@СИЛЬНЕЙШИЙ@!@ #r@Ха-ха..@ #r@ХЕ-ХЕ...@ #rХА-ХА-ХА-ХА-ХА!!@ \" NL NL Отзвуки его смеха раздраются вечно...",
+      "#g~ТРИУМФ.~ NL NL Останки #p~призрачного~ #p~существа~, еле видные при лунном свете, медленно тонут в луже грязи перед вами. Вы проявили себя перед своими сёстрами. NL NL Стоя в гордом безмолвии, вы ждёте, пока они церемониально надевают на вас #yчереп #yсущества. Ритуал свершён. NL NL Вы отправляетесь в Шпиль...",
       "#b~UNKNOWN.~ NL NL Not yet implemented."
     ],
     "OPTIONS": [
-      "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
-      "[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      "[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      " #rHP.",
-      "[Leave]",
-      "[Interact]"
+      "[Вспомнить] #gДобавить #g1 #gбесцветную #gкарту #gв #gколоду.",
+      "[Вспомнить] #gДобавить #g2 #gбесцветных #gкарты #gв #gколоду. #rПотерять #r",
+      "[Вспомнить] #gДобавить #g3 #gбесцветных #gкарты #gв #gколоду. #rПотерять #r",
+      " #rОЗ.",
+      "[Уйти]",
+      "[Коснуться]"
     ]
   }
 }

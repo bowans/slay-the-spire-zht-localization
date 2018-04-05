@@ -25,15 +25,15 @@
   },
   "Shiny": {
     "NAME": "ピカピカ",
-    "DESCRIPTION": "レアカード1枚を所持してスタートする。"
+    "DESCRIPTION": "初期デッキのカードをすべてレアカードと置き換える。"
   },
   "Allstar": {
     "NAME": "オールスター",
-    "DESCRIPTION": "無色のカード2枚を所持してスタートする。"
+    "DESCRIPTION": "無色のカード5枚を所持してスタートする。"
   },
   "Diverse": {
     "NAME": "多様性",
-    "DESCRIPTION": "他のクラスのカード2枚を所持してスタートする。"
+    "DESCRIPTION": "カードはキャラクターの制限を受けない。"
   },
   "Uncertain Future": {
     "NAME": "確定的未来",
@@ -64,7 +64,7 @@
     "DESCRIPTION": "通常の敵がカードの代わりにレリックをドロップするようになる。"
   },
   "Draft": {
-    "NAME": "Draft",
-    "DESCRIPTION": "Draft a custom starting deck of cards."
+    "NAME": "ドラフト",
+    "DESCRIPTION": "カードをドラフトして初期デッキを作る。"
   }
 }

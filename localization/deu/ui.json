@@ -577,7 +577,11 @@
       "Aufstiegsmodus (Level ",
       ")",
       "Aufstiegsmodus",
-      "EXPERIMENTAL: Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)"
+      "EXPERIMENTAL: Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)",
+      "Seed ",
+      "Random Seed",
+      "The starting seed used to determine what randomly appears in the run.",
+      "Set Seed"
     ]
   },
   "AbstractMonster": {
@@ -910,7 +914,8 @@
       "Jeder Spielmodus",
       "Nur Normal",
       "Nur Aufstieg",
-      "Nur tägliche Herausforderung"
+      "Nur tägliche Herausforderung",
+      "Seed: %s"
     ]
   },
   "CreditsScreen": {
@@ -1013,6 +1018,14 @@
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Wähle eine Attacke zum Zufügen zu deiner Hand aus."
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel"
     ]
   }
 }

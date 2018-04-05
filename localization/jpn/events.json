@@ -63,7 +63,7 @@
       "あなたは颯爽と聖堂を通り過ぎた。"
     ],
     "OPTIONS": [
-      "[祈る] #g手札のカードを #g1 #g枚複製。",
+      "[祈る] #gデッキのカードを #g1 #g枚複製。",
       "[立ち去る]",
       "複製するカードを 1 枚選択する。"
     ]
@@ -76,7 +76,7 @@
       "得体の知れない水なので、喉はカラカラだったがあなたは先に進んだ。"
     ],
     "OPTIONS": [
-      "[飲む] #g手札から呪いをすべて削除 。",
+      "[飲む] #gデッキから呪いをすべて削除 。",
       "[立ち去る]"
     ]
   },
@@ -112,7 +112,7 @@
       "あなたは聖堂を無視した。"
     ],
     "OPTIONS": [
-      "[祈る] 手札からカードを #g1 #g枚削除 。",
+      "[祈る] デッキからカードを #g1 #g枚削除 。",
       "[立ち去る]",
       "削除するカードを 1 枚選択する。"
     ]
@@ -393,7 +393,7 @@
     ],
     "OPTIONS": [
       "[同意] #gゴールド #g",
-      " #g獲得。 #r呪い-疑惑 #rを獲得。",
+      " #g獲得。 #r呪い-疑念 #rを獲得。",
       "[同意しない]",
       "[続行]",
       "[立ち去る]"
@@ -516,7 +516,7 @@
     ],
     "OPTIONS": [
       "[ゴールドを提供] #y",
-      " #yゴールド： #g手札からカードを #g1 #g枚削除。",
+      " #yゴールド： #gデッキからカードを #g1 #g枚削除。",
       "[ロック] 必要な物： ",
       " ゴールド。",
       "[続行]",
@@ -702,17 +702,65 @@
     "DESCRIPTIONS": [
       "灯りが落ちた通りを行くと、数人の頭巾をした人物が何やら儀式のようなものを行っているところに出くわした。あなたが近づくと、薄気味悪く一斉にこちらを向く。一番背の高い人物には牙があった。彼は長く青白い手をあなたに伸ばしてくる。 NL ~「兄弟よ我らと共に、そして塔の温もりを肌で感じるのだ」~",
       "灯りが落ちた通りを行くと、数人の頭巾をした人物が何やら儀式のようなものを行っているところに出くわした。あなたが近づくと、薄気味悪く一斉にこちらを向く。一番背の高い人物には牙があった。彼は長く青白い手をあなたに伸ばしてくる。 NL ~「姉妹よ我らと共に、そして塔の温もりを肌で感じるのだ」~",
-      "その長身の人物にあなたは腕を掴まれて引き寄せられた。彼の牙があなたの首筋に突き刺さる。@暗闇の@ @力@ が首から注ぎ込まれ、身体を @駆け巡る@ のを感じた。 NL ... NL しばらくして目を覚ますと、誰もいなくなっていた。あなたは強烈な ~空腹~ をおぼえる。 #r何か口にしなければ...",
+      "その長身の人物にあなたは腕を掴まれて引き寄せられた。彼の牙があなたの首筋に突き刺さる。 @暗闇の力@ が首から注ぎ込まれ、身体を @駆け巡る@ のを感じた。 NL ... NL しばらくして目を覚ますと、誰もいなくなっていた。あなたは強烈な ~空腹~ をおぼえる。 #r何か口にしなければ...",
       "あなたは後ろに下がると武器を構えて抵抗する姿勢を見せた。長身の人物が溜息をつく。「いいだろう」頭巾の団体は毒黒い黒煙に姿を変えると、漂いながら飛び去っていった。 NL あなたはまた一人になった。",
       "あなたが #y血のガラス瓶 を取り出すと青白い人物たちは固唾をのんだ。 NL ~「主の~ ~血だ...~ ~主の~ ~血だ！~ @我が主の@　@血だ！」@ NL 彼らが熱心に何かを詠唱する中、長身の人物があなたにお辞儀をした。「彼の血を飲むがいい、そして #y~彼~ と1つになるのだ」 NL 詠唱がさらに激しくなる、あなたは瓶の中身を飲み干した。すぐに ~気が遠く~ なり、暗闇に包まれていった。 NL NL しばらくして目を覚ますと、誰もいなくなっていた。あなたは強烈な ~空腹~ をおぼえる。 #r何か　#r口にしなければ。"
     ],
     "OPTIONS": [
-      "[承服] #gすべてのストライクを削除。 #g5 #g枚の噛みつきを獲得。 #r最大HP #r",
+      "[承諾] #gすべてのストライクを削除。 #g5 #g枚の噛みつきを獲得。 #r最大HPの #r",
       "%を #r失う。",
       "[拒否]",
       "[喪失 ",
       "] #gすべてのストライクを削除。 #g5 #g枚の噛みつきを獲得。",
       "[立ち去る]"
+    ]
+  },
+  "Ghosts": {
+    "NAME": "幽霊議会",
+    "DESCRIPTIONS": [
+      "塔を上り続けていると、 #p~濃密な黒煙~ があなたの周囲の地面や壁から噴き出し、3体の仮面を被った何かに形を変えて話し始めた。 NL NL ~「~ #y~ネオー~ ~のあやつり人形がまた一人来たようだな。」~ NL #r@「そのようだ！@ #r@彼女が作るおもちゃはいつだって最高だ！」@ NL NL あなたは口が裂けるほどの笑みを浮かべた三体目が、こちらを見つめていることに気づいた。 NL 「他の二人は気にするな… 我らの #y~力~ に興味はないか？」",
+      "",
+      "#y「すばらしい！」 NL 幽霊のような何かが喋ると、 その口がどんどん大きく開いていくことに気づいた。 噴き出した #p~深い黒煙~ が部屋を包み込む。 何も見えず、息もできない… NL NL あなたが意識を失う直前に、謎の現象は収まった。 NL NL 一体何が起こったのかわからないが、彼らはもうどこかに消えてしまった。 軽い #b虚脱感 を感じる。",
+      "「おやおや…」 NL ~「遅かれ早かれ我らの仲間入りをするというのに。」~ NL #r@「アーハッハッハッハッハハハ！」@ NL NL 謎の何かは消え去り、ゾッとするような笑い声だけがあなたの耳に残った。",
+      ""
+    ],
+    "OPTIONS": [
+      "[承諾] #g5 枚の #g幻姿 を獲得。 #r最大HPの #r",
+      "%を #r失う。",
+      "[拒否]",
+      "",
+      "",
+      "[立ち去る]"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "秘密のポータル",
+    "DESCRIPTIONS": [
+      "目の前に、あなたの周りの景色にはそぐわない光景が広がっていた。 石に囲まれた #p~ぐるぐる渦巻く魔法のポータル~ が、彼方の壁に奇妙にも埋め込まれていた。~ NL NL どこに通じてるのか見当もつかないが、もしかしたら塔の旅を速めてくれるかもしれない。",
+      "ポータルに飛び込むと、あなたの時間と空間の感覚は完全に切り離された。 NL NL 新しい場所に意識を向けると、あなたは眼前に恐ろしき戦いが待ち受けていることに気づいた。",
+      "慎重さと用心深さこそが、塔の頂上への近道だろう。 ポータルを無視してあなたは進むことにした。"
+    ],
+    "OPTIONS": [
+      "[ポータルに入る] 即座にボスのところまでワープする。",
+      "[立ち去る]"
+    ]
+  },
+  "SensoryStone": {
+    "NAME": "センサリーストーン",
+    "DESCRIPTIONS": [
+      "彼方を探索していると、空中に浮かぶ #b光輝く 四次元立方体を発見した。それは静かに @回転@ し、 ~変化し続けている。~ ",
+      "あなたはそれに触れる。 NL NL #r鋭い痛み が体の中を駆け巡り、遠い記憶が鮮やかに蘇る。 NL …一体これは誰の記憶だ？",
+      "#r~恐怖。~ NL NL 悪魔のような生き物が、笑い声を上げながらあなたの頭上を飛び回っている。 あなたは仲間の死体に囲まれていて、村は恐ろしい #p~闇の炎~ に飲み込まれている。 NL NL 悪魔は叫び、あなたを嘲笑った。 NL NL 「 #r@フフッ…フハハハハハッハハッハハッハ！@ 」 NL NL 笑い声は永遠に響き続けた…",
+      "#g~勝利。~ NL NL #p~幽霊のような生物~ の残滓が、あなたの目の前の泥に沈んでいくのが、月明かりのもとでかろうじて見えた。 あなたは姉妹たちの中で確固たる自らの価値を証明した。 NL NL 勝ち誇って立ち上がり、他の者たちが儀式の一環で動物の頭蓋骨を頭に被せるのを、ただ静かに待っていた。 儀式は完了した。 NL NL あなたは塔へ向かう…",
+      "#b~UNKNOWN.~ NL NL Not yet implemented."
+    ],
+    "OPTIONS": [
+      "[思い起こす] #g無色のカード1枚をデッキに加える。",
+      "[思い起こす] #g無色のカード2枚をデッキに加える。 #rHPを #r",
+      "[思い起こす] #g無色のカード3枚をデッキに加える。 #rHPを #r",
+      " #r失う。",
+      "[立ち去る]",
+      "[触れる]"
     ]
   },
   "The Woman in Blue": {
@@ -730,54 +778,6 @@
       "[立ち去る]",
       "[立ち去る] #r",
       " #rダメージを受ける。"
-    ]
-  },
-  "SecretPortal": {
-    "NAME": "Secret Portal",
-    "DESCRIPTIONS": [
-      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
-      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
-      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
-    ],
-    "OPTIONS": [
-      "[Enter the Portal] IMMEDIATELY travel to the boss.",
-      "[Leave]"
-    ]
-  },
-  "Ghosts": {
-    "NAME": "Council of Ghosts",
-    "DESCRIPTIONS": [
-      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKE@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
-      "",
-      "#y\"Excellent!\" NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. #p~Thick~ #p~black~ #p~smoke~ spews forth and envelops the room. You cannot see or breathe... NL NL Just before you lose consciousness, the sensation stops. NL NL Whatever those things were, they are gone now. You continue on, feeling rather #bhollow.",
-      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
-      ""
-    ],
-    "OPTIONS": [
-      "[Accept] #gObtain #g5 #gApparition. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
-      "",
-      "",
-      "[Leave]"
-    ]
-  },
-  "SensoryStone": {
-    "NAME": "Sensory Stone",
-    "DESCRIPTIONS": [
-      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
-      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
-      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
-      "#b~UNKNOWN.~ NL NL Not yet implemented."
-    ],
-    "OPTIONS": [
-      "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
-      "[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      "[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      " #rHP.",
-      "[Leave]",
-      "[Interact]"
     ]
   }
 }

@@ -57,7 +57,8 @@
       "Alle spilltyper",
       "Kun Normal",
       "Kun Oppstigning",
-      "Kun Daglig utfordring"
+      "Kun Daglig utfordring",
+      "Seed: %s"
     ]
   },
   "LeaderboardsScreen": {
@@ -724,7 +725,11 @@
       "Oppstigningsmodus (Nivå ",
       ")",
       "Oppstigningsmodus",
-      "EKSPERIMENTELT: Gjennomspillingene blir vanskeligere etter hvert som du vinner... (Dette påvirker ikke seire på rad)"
+      "EKSPERIMENTELT: Gjennomspillingene blir vanskeligere etter hvert som du vinner... (Dette påvirker ikke seire på rad)",
+      "Seed ",
+      "Random Seed",
+      "The starting seed used to determine what randomly appears in the run.",
+      "Set Seed"
     ]
   },
   "AscensionModeDescriptions": {
@@ -1013,6 +1018,14 @@
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Choose an Attack to Add to Your Hand"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel"
     ]
   }
 }

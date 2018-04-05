@@ -732,52 +732,52 @@
       " #rdégâts."
     ]
   },
-  "SecretPortal": {
-    "NAME": "Secret Portal",
-    "DESCRIPTIONS": [
-      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
-      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
-      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
-    ],
-    "OPTIONS": [
-      "[Enter the Portal] IMMEDIATELY travel to the boss.",
-      "[Leave]"
-    ]
-  },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "Conseil des fantômes",
     "DESCRIPTIONS": [
-      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKE@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
+      "Alors que vous continuez votre ascension, #p~une~ #p~épaisse~ #p~fumée~ #p~noire~ commence à émaner du sol et des murs autour de vous, se regroupant en trois formes masquées qui commencent à parler. NL NL ~\"Encore~ ~un~ ~pantin~ ~de~ ~Neow~ ~je~ ~pense.\"~ NL #r@\"EN@ #r@EFFET!@ #r@ELLE@ #r@CHOISIT@ #r@TOUJOURS@ #r@LES@ #r@MEILLEURS@ #r@JOUETS!\"@ NL NL Vous remarquez un sourire surdimensionné alors que le troisième s'adresse à vous. NL \"Ne fais pas attention à eux... Voudrais-tu goûter à notre #y~pouvoir?\"~",
       "",
-      "#y\"Excellent!\" NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. #p~Thick~ #p~black~ #p~smoke~ spews forth and envelops the room. You cannot see or breathe... NL NL Just before you lose consciousness, the sensation stops. NL NL Whatever those things were, they are gone now. You continue on, feeling rather #bhollow.",
-      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
+      "#y\"Excellent!\" NL Pendant que la forme fantômatique parle, vous remarquez que sa bouche s'ouvre de plus en plus large. #p~L'épaisse~ #p~fumée~ #p~noire~ se déverse et enveloppe la pièce. Vous ne pouvez plus rien voir ni respirer... NL NL Juste avant que vous perdiez connaissance, la sensation s'arrête. Quoi qu'étaient ces choses, elles sont désormais parties. Vous continuez, vous sentant plutôt vide.",
+      "\"Quelle déception...\" NL ~\"Vous~ ~nous~ ~rejoindrez~ ~tôt~ ~ou~ ~tard.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Les formes s'effacent, ne laissant derrière elles que leur rire inquiétant résonner dans vos oreilles.",
       ""
     ],
     "OPTIONS": [
-      "[Accept] #gObtain #g5 #gApparition. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
+      "[Accepter]  #gObtenez #g5 #gApparition. #rPerdez #r",
+      " #r% #rde #rvos #rPV #rmax.",
+      "[Refuser]",
       "",
       "",
-      "[Leave]"
+      "[Partir]"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Portail secret",
+    "DESCRIPTIONS": [
+      "Devant vous se dresse quelque chose qui retient votre attention dans le paysage extraterrestre. Étrangement placée dans l'un des murs vivants de l'Au-delà se trouve une arche de pierre remplie par un #p~portail~ #p~magique~ #p~tourbillonant.~ NL NL Vous n'êtes pas sûr d'où il mène, mais peut-être peut-il accélérer votre voyage dans la Tour.",
+      "Sautant au travers du portail, vous sentez le continuum espace-temps se déchirer. NL NL Alors que vous tentez de vous orienter dans ce nouvel environnement, vous réalisez qu'une bataille effrayante vous attend.",
+      "La prudence semble être la meilleure approche pour atteindre le sommet de la Tour. Vous ignorez le portail et continuez."
+    ],
+    "OPTIONS": [
+      "[Entrer dans le portail] Téléportez-vous IMMÉDIATEMENT jusqu'au boss.",
+      "[Partir]"
     ]
   },
   "SensoryStone": {
-    "NAME": "Sensory Stone",
+    "NAME": "Pierre sensorielle",
     "DESCRIPTIONS": [
-      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
-      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
-      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
-      "#b~UNKNOWN.~ NL NL Not yet implemented."
+      "En naviguant à travers l'Au-delà, vous découvrez un #btesseract #bbrillant qui @tourne@ et ~se~ ~déplace~ doucement dans les airs.",
+      "Vous le touchez. NL NL Une #r@douleur@ #r@vive@ vous parcourt, suivie par des visions vives d'une mémoire lointaine. NL ...À qui appartiennent ces souvenirs?",
+      "#r~PEUR.~ NL NL Une créature démoniaque s'élève au dessus de vous, les ailes déployées, hurlant de rire. Les cadavres d'une tribu vous entourent alors que le village est englouti de #p~flammes~ #p~sombres.~ NL NL Le démon vous appelle, narquois. NL NL \" #r@TU@ r@ES@ #r@VRAIMENT@ #r@LE@ #r@PLUS@ #r@FORT@ #r@MAINTENANT!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Ce rire résonne pour toujours...",
+      "#g~TRIOMPHE.~ NL NL Les restes d'une #p~créature~ #p~fantômatique~ s'enfoncent lentement dans la boue devant vous, à peine visibles au clair de lune. Vous avez fait vos preuves parmi vos soeurs. NL NL Victorieuse, vous attendez en silence pendant que les autres placent cérémonialement le #ycrâne #yde #yla #ycréature sur votre tête. Le rituel est terminé. Vous vous dirigez vers une tour...",
+      "#b~INCONNU.~ NL NL Pas encore implémenté."
     ],
     "OPTIONS": [
-      "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
-      "[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      "[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      " #rHP.",
-      "[Leave]",
-      "[Interact]"
+      "[Se souvenir] #gAjoutez #g1 #gcarte #gincolore #gà #gvotre #gdeck.",
+      "[Se souvenir] #gAjoutez #g2 #gcartes #gincolores #gà #gvotre #gdeck. #rPerdez #r",
+      "[Se souvenir] #gAjoutez #g3 #gcartes #gincolores #gà #gvotre #gdeck. #rPerdez #r",
+      " #rPV.",
+      "[Partir]",
+      "[Interagir]"
     ]
   }
 }

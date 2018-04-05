@@ -813,8 +813,8 @@
   },
   "Evolve": {
     "NAME": "Évolution",
-    "DESCRIPTION": "Ajoutez 2 cartes Plaie dans votre pioche. NL Quand vous piochez une carte Plaie, piochez !M! cartes.",
-    "UPGRADE_DESCRIPTION": "Ajoutez 2 cartes Plaie dans votre pioche. NL Quand vous piochez une carte Plaie, piochez !M! cartes."
+    "DESCRIPTION": "Quand vous piochez une carte carte de Statut, piochez !M! cartes.",
+    "UPGRADE_DESCRIPTION": "Quand vous piochez une carte carte de Statut, piochez !M! cartes."
   },
   "Burn": {
     "NAME": "Brûlure",
@@ -849,7 +849,7 @@
   },
   "All Out Attack": {
     "NAME": "Attaque suprême",
-    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Défausse 1 carte au hasard."
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Défaussez une carte aléatoire de votre main."
   },
   "Flying Knee": {
     "NAME": "Coup de genou",
@@ -868,7 +868,7 @@
     "DESCRIPTION": "Piochez des cartes jusqu'à en avoir !M! dans votre main."
   },
   "Ghostly": {
-    "NAME": "Évanescent",
+    "NAME": "Apparition",
     "DESCRIPTION": "Gagnez 1 Intangible. NL Épuisement. NL Éthérée.",
     "UPGRADE_DESCRIPTION": "Gagnez 1 Intangible. NL Épuisement."
   },
@@ -882,6 +882,6 @@
   },
   "AscendersBane": {
     "NAME": "Fléau du grimpeur",
-    "DESCRIPTION": "Injouable. NL Ne peut pas être retirée du deck."
+    "DESCRIPTION": "Injouable. NL Éthérée. NL Ne peut pas être retirée du deck."
   }
 }

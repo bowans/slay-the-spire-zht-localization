@@ -57,7 +57,8 @@
       "Każdy typ gry",
       "Tylko zwykłe",
       "Tylko Wyniesienie",
-      "Tylko Wyzwanie Dnia"
+      "Tylko Wyzwanie Dnia",
+      "Seed: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -783,7 +784,11 @@
       "Tryb Wyniesienia – poziom: ",
       "",
       "Tryb Wyniesienia",
-      "Wyprawy stają się trudniejsze po każdej wygranej... (nie wpływa na serię zwycięstw)"
+      "Wyprawy stają się trudniejsze po każdej wygranej... (nie wpływa na serię zwycięstw)",
+      "Seed ",
+      "Random Seed",
+      "The starting seed used to determine what randomly appears in the run.",
+      "Set Seed"
     ]
   },
   "AscensionModeDescriptions": {
@@ -1013,6 +1018,14 @@
       "Unknown",
       "",
       "Ta funkcja nie jest jeszcze dostępna."
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel"
     ]
   }
 }

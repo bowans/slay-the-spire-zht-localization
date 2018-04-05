@@ -57,7 +57,8 @@
       "Any Game Type",
       "Only Normal",
       "Only Ascension",
-      "Only Daily Challenge"
+      "Only Daily Challenge",
+      "Seed: %s"
     ]
   },
   "LeaderboardsScreen": {
@@ -734,7 +735,11 @@
       "ความยาก",
       "ระดับที่ ",
       "โหมดความยาก",
-      "Runs get harder as you win... (Winstreaks are unaffected)"
+      "Runs get harder as you win... (Winstreaks are unaffected)",
+      "Seed ",
+      "Random Seed",
+      "The starting seed used to determine what randomly appears in the run.",
+      "Set Seed"
     ]
   },
   "AscensionModeDescriptions": {
@@ -1013,6 +1018,14 @@
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Choose an Attack to Add to Your Hand"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel"
     ]
   }
 }

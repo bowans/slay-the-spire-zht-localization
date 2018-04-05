@@ -57,7 +57,8 @@
       "Herhangi Oyun Türü",
       "Yalnızca Normal",
       "Yalnızca Basamak",
-      "Yalnızca Günlük Mücadele"
+      "Yalnızca Günlük Mücadele",
+      "Seed: %s"
     ]
   },
   "LeaderboardsScreen": {
@@ -724,7 +725,11 @@
       "Basamak",
       "Seviye ",
       "Basamak Modu",
-      "Kazandığın sürece oyun zorlaşır... (kazanma serileri etkilenmez)"
+      "Kazandığın sürece oyun zorlaşır... (kazanma serileri etkilenmez)",
+      "Seed ",
+      "Random Seed",
+      "The starting seed used to determine what randomly appears in the run.",
+      "Set Seed"
     ]
   },
   "AscensionModeDescriptions": {
@@ -1013,6 +1018,14 @@
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Choose an Attack to Add to Your Hand"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel"
     ]
   }
 }

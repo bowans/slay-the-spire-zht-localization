@@ -57,7 +57,8 @@
       "Cualquier Tipo de Juego",
       "Solo Normal",
       "Solo Ascención",
-      "Solo Reto Diario"
+      "Solo Reto Diario",
+      "Seed: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -783,7 +784,11 @@
       "Modo de Ascención (Nivel ",
       ")",
       "Modo de Ascención",
-      "Las partidas se vuelven más difíciles cuando ganas... (no afecta a tu racha de victorias)"
+      "Las partidas se vuelven más difíciles cuando ganas... (no afecta a tu racha de victorias)",
+      "Seed ",
+      "Random Seed",
+      "The starting seed used to determine what randomly appears in the run.",
+      "Set Seed"
     ]
   },
   "AscensionModeDescriptions": {
@@ -1013,6 +1018,14 @@
       "Desconocido",
       "",
       "Esta opción no está disponible por el momento."
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel"
     ]
   }
 }
