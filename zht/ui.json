@@ -540,7 +540,9 @@
     "TEXT": [
       "稀有度",
       "類型",
-      "A-Z"
+      "A-Z",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {
@@ -915,7 +917,8 @@
       "僅普通模式",
       "僅攫升模式",
       "僅每日挑戰模式",
-      "種子碼： %s"
+      "種子碼： %s",
+      "Custom Seed: %s"
     ]
   },
   "CreditsScreen": {

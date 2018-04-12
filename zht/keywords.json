@@ -6,16 +6,6 @@
       ],
       "DESCRIPTION": "不能被打出的牌不能從你的手牌中被打出。"
     },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "只有彈藥能被發射，發射彈藥將會觸發其效果，並將其丟棄。"
-    },
     "INNATE": {
       "NAMES": [
         "固有"
@@ -175,6 +165,19 @@
         "無實體"
       ],
       "DESCRIPTION": "將所有受到的傷害和生命減少效果降低為 #b1 。"
+    },
+    "BURN": {
+      "NAMES": [
+        "burn",
+        "burns"
+      ],
+      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+    },
+    "DAZED": {
+      "NAMES": [
+        "dazed"
+      ],
+      "DESCRIPTION": "Dazed are unplayable status cards."
     }
   }
 }
