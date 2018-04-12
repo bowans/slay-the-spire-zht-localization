@@ -58,7 +58,8 @@
       "Only Normal",
       "Only Ascension",
       "Only Daily Challenge",
-      "Seed: %s"
+      "Seed: %s",
+      "Custom Seed: %s"
     ]
   },
   "LeaderboardsScreen": {
@@ -640,7 +641,9 @@
     "TEXT": [
       "ความหายาก",
       "ประเภท",
-      "A-Z"
+      "A-Z",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {

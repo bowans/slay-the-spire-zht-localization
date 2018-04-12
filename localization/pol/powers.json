@@ -558,7 +558,7 @@
     "NAME": "Rośnięcie",
     "DESCRIPTIONS": [
       "Kiedykolwiek rzucisz kartę #yUmiejętności, zadaj ",
-      " pkt. obrażeń losowemu wrogowi."
+      " pkt. obrażeń losowemu przeciwnikowi."
     ]
   },
   "Generic Strength Up Power": {
@@ -749,6 +749,13 @@
     "DESCRIPTIONS": [
       "Kiedykolwiek zagrasz #yUmiejętność, zadaj ",
       " pkt. obrażeń losowemu przeciwnikowi."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Widmowa forma",
+    "DESCRIPTIONS": [
+      "Na końcu tury, utrać #b",
+      " pkt. Zwinności."
     ]
   }
 }

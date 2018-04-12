@@ -151,16 +151,6 @@
       ],
       "DESCRIPTION": "Sempre que você comprar uma carta, aleatorize seu custo."
     },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
     "INTANGIBLE": {
       "NAMES": [
         "intangível"
@@ -179,6 +169,19 @@
     },
     "TEXT": [
       "Energia é utilizada para jogar cartas da sua mão."
-    ]
+    ],
+    "BURN": {
+      "NAMES": [
+        "burn",
+        "burns"
+      ],
+      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+    },
+    "DAZED": {
+      "NAMES": [
+        "dazed"
+      ],
+      "DESCRIPTION": "Dazed are unplayable status cards."
+    }
   }
 }

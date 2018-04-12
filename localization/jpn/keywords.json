@@ -147,16 +147,6 @@
       ],
       "DESCRIPTION": "カードを引くたび、そのコストはランダムに変化する。"
     },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
     "INTANGIBLE": {
       "NAMES": [
         "無形"
@@ -175,6 +165,19 @@
     },
     "TEXT": [
       "エナジーはあなたの手札からカードをプレイするときに消費する。"
-    ]
+    ],
+    "BURN": {
+      "NAMES": [
+        "burn",
+        "burns"
+      ],
+      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+    },
+    "DAZED": {
+      "NAMES": [
+        "dazed"
+      ],
+      "DESCRIPTION": "Dazed are unplayable status cards."
+    }
   }
 }

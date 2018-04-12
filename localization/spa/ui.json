@@ -58,7 +58,8 @@
       "Solo Normal",
       "Solo Ascención",
       "Solo Reto Diario",
-      "Seed: %s"
+      "Seed: %s",
+      "Custom Seed: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -689,7 +690,9 @@
     "TEXT": [
       "Rareza",
       "Tipo",
-      "A-Z"
+      "A-Z",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {

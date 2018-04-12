@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "Immolate",
-    "DESCRIPTION": "Exhaust 1 card. If the chosen card was a Status or Curse, deal !D! damage to ALL enemies."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Shuffle a Burn into your draw pile."
   },
   "Regret": {
     "NAME": "Regret",
@@ -54,7 +54,7 @@
   },
   "Anger": {
     "NAME": "Anger",
-    "DESCRIPTION": "Deal !D! damage. NL Place a copy of this card into your discard pile."
+    "DESCRIPTION": "Deal !D! damage. NL Add a copy of this card to your discard pile."
   },
   "Storm of Steel": {
     "NAME": "Storm of Steel",
@@ -68,6 +68,10 @@
   "Inflame": {
     "NAME": "Inflame",
     "DESCRIPTION": "Gain !M! Strength."
+  },
+  "Wraith Form v2": {
+    "NAME": "Wraith Form",
+    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
   },
   "Wraith Form": {
     "NAME": "Wraith Form",
@@ -87,7 +91,7 @@
   },
   "Exhume": {
     "NAME": "Exhume",
-    "DESCRIPTION": "Choose an exhausted card and place it in your hand. NL Exhaust."
+    "DESCRIPTION": "Place a card from your exhaust pile into your hand. NL Exhaust."
   },
   "Power Through": {
     "NAME": "Power Through",
@@ -184,7 +188,7 @@
   },
   "Reckless Charge": {
     "NAME": "Reckless Charge",
-    "DESCRIPTION": "Gain 1 Vulnerable. NL Deal !D! damage."
+    "DESCRIPTION": "Deal !D! damage. NL Shuffle a Dazed into your draw pile."
   },
   "Decay": {
     "NAME": "Decay",

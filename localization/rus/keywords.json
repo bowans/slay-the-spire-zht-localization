@@ -221,16 +221,6 @@
       ],
       "DESCRIPTION": "Каждая взятая карта будет иметь случайную стоимость."
     },
-    "FIRE": {
-      "NAMES": [
-        "выстрел",
-        "выстреленный",
-        "YOU CANNOT STOP ME",
-        "FROM TRANSLATING",
-        "THE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Стрелять можно только Снарядами. Стрельба Снарядом расходует его эффект и сбрасывает его."
-    },
     "TODO": {
       "NAMES": [
         "сделать",
@@ -259,6 +249,19 @@
         "Неосязаемость"
       ],
       "DESCRIPTION": "Понижает ЛЮБУЮ потерю ОЗ до #b1."
+    },
+    "BURN": {
+      "NAMES": [
+        "burn",
+        "burns"
+      ],
+      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+    },
+    "DAZED": {
+      "NAMES": [
+        "dazed"
+      ],
+      "DESCRIPTION": "Dazed are unplayable status cards."
     }
   }
 }

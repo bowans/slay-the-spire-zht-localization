@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "Immolazione",
-    "DESCRIPTION": "Esaurisci 1 carta. Se era uno Stato o Maledizione, infliggi !D! danni a TUTTI i nemici."
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Mescola una Ustione nella tua Pila."
   },
   "Regret": {
     "NAME": "Rimorso",
@@ -68,6 +68,10 @@
   "Inflame": {
     "NAME": "Animo Ardente",
     "DESCRIPTION": "Ottieni !M! Forza."
+  },
+  "Wraith Form v2": {
+    "NAME": "Forma Spettrale",
+    "DESCRIPTION": "Ottieni !M! Intangibile. NL Alla fine del tuo turno, perdi 1 Destrezza."
   },
   "Wraith Form": {
     "NAME": "Forma Spettrale",
@@ -184,7 +188,7 @@
   },
   "Reckless Charge": {
     "NAME": "Carica Selvaggia",
-    "DESCRIPTION": "Ottieni 1 Vulnerabile. NL Infliggi !D! danni."
+    "DESCRIPTION": "Infliggi !D! danni.  NL Mescola un Disorientato nella tua Pila."
   },
   "Decay": {
     "NAME": "Rovina",

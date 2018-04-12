@@ -487,7 +487,9 @@
     "TEXT": [
       "Seltenheit",
       "Typ",
-      "A–Z"
+      "A–Z",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {
@@ -580,7 +582,7 @@
       "EXPERIMENTAL: Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)",
       "Seed ",
       "Random Seed",
-      "The starting seed used to determine what randomly appears in the run.",
+      "The starting seed is used to determine what randomly appears in the run.",
       "Set Seed"
     ]
   },
@@ -915,7 +917,8 @@
       "Nur Normal",
       "Nur Aufstieg",
       "Nur tägliche Herausforderung",
-      "Seed: %s"
+      "Seed: %s",
+      "Custom Seed: %s"
     ]
   },
   "CreditsScreen": {

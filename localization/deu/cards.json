@@ -864,15 +864,15 @@
     "DESCRIPTION": "Erhalte einen zufälligen Trank. NL Erschöpft."
   },
   "Bite": {
-    "NAME": "Bite",
+    "NAME": "Biss",
     "DESCRIPTION": "Du verursachst !D! Schaden. NL Du heilst !M! TP."
   },
   "Slimed": {
-    "NAME": "Slimed",
+    "NAME": "Verschleimt",
     "DESCRIPTION": "Erschöpft."
   },
   "Void": {
-    "NAME": "Void",
+    "NAME": "Leere",
     "DESCRIPTION": "Unspielbar. NL Verliere 1 Energie, wenn diese Karte gezogen wird. NL Ätherisch."
   },
   "AscendersBane": {
@@ -880,8 +880,12 @@
     "DESCRIPTION": "Unspielbar. NL Kann nicht vom Deck entfernt werden."
   },
   "Ghostly": {
-    "NAME": "Ghostly",
+    "NAME": "Geisterhaft",
     "DESCRIPTION": "Erhalte 1 Unangreifbar. NL Erschöpft. NL Ätherisch.",
     "UPGRADE_DESCRIPTION": "Erhalte 1 Unangreifbar. NL Erschöpft."
+  },
+  "Wraith Form v2": {
+    "NAME": "Wraith Form",
+    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
   }
 }

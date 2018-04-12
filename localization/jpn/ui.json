@@ -58,7 +58,8 @@
       "ノーマル",
       "アセンション",
       "デイリーチャレンジ",
-      "Seed: %s"
+      "シード: %s",
+      "Custom Seed: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -287,6 +288,14 @@
     "TEXT": [
       "<名前なし>",
       "名前を入力",
+      "決定",
+      "キャンセル"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "新しいシード値を入力",
       "決定",
       "キャンセル"
     ]
@@ -689,7 +698,9 @@
     "TEXT": [
       "レアリティ",
       "タイプ",
-      "A～Z"
+      "A～Z",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {
@@ -785,10 +796,10 @@
       "レベル ",
       "アセンションモード",
       "クリアするたびに、攻略はより困難になる（連続クリア回数には影響しない）",
-      "Seed ",
-      "Random Seed",
-      "The starting seed used to determine what randomly appears in the run.",
-      "Set Seed"
+      "シード ",
+      "ランダムシード",
+      "開始時のシード値を元にして攻略中のランダム要素が生成される。",
+      "　シードを設定"
     ]
   },
   "AscensionModeDescriptions": {
@@ -1018,14 +1029,6 @@
       "Unknown",
       "",
       "この機能は未実装。"
-    ]
-  },
-  "SeedPanel": {
-    "TEXT": [
-      "0000000000",
-      "Enter a new Seed",
-      "Confirm",
-      "Cancel"
     ]
   }
 }

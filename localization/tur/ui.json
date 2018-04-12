@@ -58,7 +58,8 @@
       "Yalnızca Normal",
       "Yalnızca Basamak",
       "Yalnızca Günlük Mücadele",
-      "Seed: %s"
+      "Seed: %s",
+      "Custom Seed: %s"
     ]
   },
   "LeaderboardsScreen": {
@@ -635,7 +636,9 @@
     "TEXT": [
       "Nadirlik",
       "Tip",
-      "A-Z"
+      "A-Z",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {

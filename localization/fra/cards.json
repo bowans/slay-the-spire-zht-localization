@@ -231,7 +231,7 @@
     "DESCRIPTION": "Gagnez !B! d'Armure. NL L'Armure n'est pas retirée au début du prochain tour."
   },
   "Body Slam": {
-    "NAME": "Projection",
+    "NAME": "Plaquage",
     "DESCRIPTION": "Infligez un total de dégâts égal à votre Armure actuel.",
     "UPGRADE_DESCRIPTION": " NL (Infligez !D! dégât(s).)"
   },
@@ -883,5 +883,9 @@
   "AscendersBane": {
     "NAME": "Fléau du grimpeur",
     "DESCRIPTION": "Injouable. NL Éthérée. NL Ne peut pas être retirée du deck."
+  },
+  "Wraith Form v2": {
+    "NAME": "Wraith Form",
+    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
   }
 }

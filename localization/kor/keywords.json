@@ -147,16 +147,6 @@
       ],
       "DESCRIPTION": "카드를 가져올 때 마다 비용이 무작위로 정해집니다."
     },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
     "TODO": {
       "NAMES": [
         "todo",
@@ -175,6 +165,19 @@
         "불가침"
       ],
       "DESCRIPTION": "받는 피해와 체력 손실을 전부 #b1 로 감소시킵니다."
+    },
+    "BURN": {
+      "NAMES": [
+        "burn",
+        "burns"
+      ],
+      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+    },
+    "DAZED": {
+      "NAMES": [
+        "dazed"
+      ],
+      "DESCRIPTION": "Dazed are unplayable status cards."
     }
   }
 }

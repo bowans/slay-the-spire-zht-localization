@@ -25,15 +25,15 @@
   },
   "Shiny": {
     "NAME": "빛나는 것이 좋아",
-    "DESCRIPTION": "무작위 희귀 카드 1장을 얻고 시작합니다."
+    "DESCRIPTION": "시작 덱이 모든 희귀 카드가 1장씩 있는 덱으로 변경됩니다."
   },
   "Allstar": {
     "NAME": "올스타",
-    "DESCRIPTION": "무작위 무색 카드 2장을 얻고 시작합니다."
+    "DESCRIPTION": "무작위 무색 카드 5장을 얻고 시작합니다."
   },
   "Diverse": {
     "NAME": "다양성",
-    "DESCRIPTION": "다른 직업의 무작위 카드 2장을 얻고 시작합니다."
+    "DESCRIPTION": "플레이하는 캐릭터와 상관없이 모든 카드가 등장합니다."
   },
   "Uncertain Future": {
     "NAME": "확실한 미래",
@@ -64,7 +64,7 @@
     "DESCRIPTION": "덱에 카드를 추가할 때마다, 두 장 더 복사해서 가져옵니다. 상점에서 카드를 제거할 수 없습니다."
   },
   "Draft": {
-    "NAME": "초안",
-    "DESCRIPTION": "시작 덱의 초안을 직접 만듭니다."
+    "NAME": "드래프트",
+    "DESCRIPTION": "시작 덱 15장을 직접 만듭니다."
   }
 }

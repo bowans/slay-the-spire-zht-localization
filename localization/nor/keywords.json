@@ -228,16 +228,6 @@
       ],
       "DESCRIPTION": "Når du trekker et kort koster det tilfeldig mye å spille."
     },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
     "TODO": {
       "NAMES": [
         "todo",
@@ -256,6 +246,19 @@
         "intangible"
       ],
       "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+    },
+    "BURN": {
+      "NAMES": [
+        "burn",
+        "burns"
+      ],
+      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+    },
+    "DAZED": {
+      "NAMES": [
+        "dazed"
+      ],
+      "DESCRIPTION": "Dazed are unplayable status cards."
     }
   }
 }

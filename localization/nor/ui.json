@@ -58,7 +58,8 @@
       "Kun Normal",
       "Kun Oppstigning",
       "Kun Daglig utfordring",
-      "Seed: %s"
+      "Seed: %s",
+      "Custom Seed: %s"
     ]
   },
   "LeaderboardsScreen": {
@@ -635,7 +636,9 @@
     "TEXT": [
       "Sjeldenhet",
       "Type",
-      "A-Å"
+      "A-Å",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {

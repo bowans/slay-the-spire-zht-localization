@@ -58,7 +58,8 @@
       "Modalità Normale",
       "Modalità Ascensione",
       "Sfide del Giorno",
-      "Seed: %s"
+      "Seed: %s",
+      "Seed Personalizzato: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -287,6 +288,14 @@
     "TEXT": [
       "<nessun nome>",
       "Inserisci  Il  Tuo  Nome",
+      "Conferma",
+      "Annulla"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Inserisci un nuovo Seed",
       "Conferma",
       "Annulla"
     ]
@@ -689,7 +698,9 @@
     "TEXT": [
       "Rarità",
       "Tipo",
-      "A-Z"
+      "A-Z",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {
@@ -775,7 +786,7 @@
   },
   "CharacterSelectScreen": {
     "TEXT": [
-      "Seleziona il Tuo Personaggio",
+      "Scegli un Personaggio",
       "Inizia",
       "L'Ironclad",
       "La Silent",
@@ -786,9 +797,9 @@
       "Modalità Ascensione",
       "Le partite diventano più difficili dopo ogni vittoria... (non influisce sulle winstreak)",
       "Seed ",
-      "Random Seed",
-      "The starting seed used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Seed Casuale",
+      "Il seed determina la struttura di una partita e gli eventi casuali associati ad essa.",
+      "Scegli il Seed"
     ]
   },
   "AscensionModeDescriptions": {
@@ -1018,14 +1029,6 @@
       "Unknown",
       "",
       "Questa opzione non è ancora disponibile."
-    ]
-  },
-  "SeedPanel": {
-    "TEXT": [
-      "0000000000",
-      "Enter a new Seed",
-      "Confirm",
-      "Cancel"
     ]
   }
 }

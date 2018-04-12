@@ -1,12 +1,12 @@
 {
   "Grand Finale": {
     "NAME": "Wielki finał",
-    "DESCRIPTION": "Można zagrać tylko wtedy, gdy stos rozgrywający jest pusty. NL Zadaj !D! pkt. obrażeń WSZYSTKIM wrogom.",
+    "DESCRIPTION": "Można zagrać tylko wtedy, gdy stos rozgrywający jest pusty. NL Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom.",
     "UPGRADE_DESCRIPTION": "Stos rozgrywający NL musi być #rpusty."
   },
   "Immolate": {
     "NAME": "Poświęcenie",
-    "DESCRIPTION": "Wyklucz 1 kartę. Jeśli była to karta Stanu lub Klątwy, zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Wtasuj Poparzenie do swojego stosu kart rozgrywającego."
   },
   "Regret": {
     "NAME": "Żal",
@@ -73,6 +73,10 @@
     "NAME": "Widmowa forma",
     "DESCRIPTION": "Kiedykolwiek zagrasz kartę Umiejętności, zadaj !M! pkt. obrażeń losowemu przeciwnikowi."
   },
+  "Wraith Form v2": {
+    "NAME": "Widmowa forma",
+    "DESCRIPTION": "Zyskaj !M! pkt. Nieuchwytności. NL Na końcu tury, utrać 1 pkt. Zwinności."
+  },
   "Sadistic Nature": {
     "NAME": "Sadyzm",
     "DESCRIPTION": "Kiedykolwiek nałożysz negatywny efekt na przeciwnika, otrzyma on !M! pkt. obrażeń."
@@ -125,7 +129,7 @@
   },
   "Reaper": {
     "NAME": "Żniwiarz",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM wrogom. NL Przywróć PŻ równe niezablok. obrażeniom. NL Wykluczenie."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywróć PŻ równe niezablok. obrażeniom. NL Wykluczenie."
   },
   "Shiv": {
     "NAME": "Nóż",
@@ -184,7 +188,7 @@
   },
   "Reckless Charge": {
     "NAME": "Zuchwała szarża",
-    "DESCRIPTION": "Otrzymaj 1 pkt. Wrażliwości. NL Zadaj !D! pkt. obrażeń."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wtasuj jedną kartę Oszołomienia do swojego stosu rozgrywającego."
   },
   "Decay": {
     "NAME": "Rozkład",
@@ -358,7 +362,7 @@
   },
   "Shockwave": {
     "NAME": "Fala uderzeniowa",
-    "DESCRIPTION": "Nałóż !M! pkt. Słabości NL i Wrażliwości na WSZYSTKICH wrogów. NL Wykluczenie."
+    "DESCRIPTION": "Nałóż !M! pkt. Słabości NL i Wrażliwości na WSZYSTKICH przeciwników. NL Wykluczenie."
   },
   "Rampage": {
     "NAME": "Dziki szał",
@@ -621,8 +625,8 @@
   },
   "Corpse Explosion": {
     "NAME": "Eksplozja zwłok",
-    "DESCRIPTION": "Przeciwnik traci wszystkie pkt. Trucizny. Zadaj obrażenia równe 2-krotnej liczbie zdjętych pkt. Trucizny WSZYSTKIM wrogom.",
-    "UPGRADE_DESCRIPTION": "Przeciwnik traci wszystkie pkt. Trucizny. Zadaj obrażenia równe 3-krotnej liczbie zdjętych pkt. Trucizny WSZYSTKIM wrogom.",
+    "DESCRIPTION": "Przeciwnik traci wszystkie pkt. Trucizny. Zadaj obrażenia równe 2-krotnej liczbie zdjętych pkt. Trucizny WSZYSTKIM przeciwnikom.",
+    "UPGRADE_DESCRIPTION": "Przeciwnik traci wszystkie pkt. Trucizny. Zadaj obrażenia równe 3-krotnej liczbie zdjętych pkt. Trucizny WSZYSTKIM przeciwnikom.",
     "EXTENDED_DESCRIPTION": [
       "Przeciwnik nie jest zatruty."
     ]
@@ -675,7 +679,7 @@
   },
   "Bouncing Flask": {
     "NAME": "Skaczący flakon",
-    "DESCRIPTION": "Nałóż 3 pkt. Trucizny losowemu wrogowi. Powtórz !M! razy."
+    "DESCRIPTION": "Nałóż 3 pkt. Trucizny losowemu przeciwnikowi. Powtórz !M! razy."
   },
   "Bludgeon": {
     "NAME": "Zmiażdżenie",

@@ -557,7 +557,9 @@
     "TEXT": [
       "희귀도",
       "종류",
-      "이름순"
+      "이름순",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {
@@ -648,10 +650,10 @@
       "단계",
       "승천",
       "당신이 승리할수록 도전은 어려워질 것입니다... (연승 기록에 영향을 주지 않습니다.)",
-      "Seed ",
-      "Random Seed",
-      "The starting seed used to determine what randomly appears in the run.",
-      "Set Seed"
+      "시드 ",
+      "무작위 시드",
+      "시드는 도전에서 무작위로 나타나는 요소와 연관이 있습니다.",
+      "시드 설정"
     ]
   },
   "AbstractMonster": {
@@ -915,7 +917,8 @@
       "일반 모드만",
       "승천 모드만",
       "일일 도전 모드만",
-      "Seed: %s"
+      "시드: %s",
+      "Custom Seed: %s"
     ]
   },
   "CreditsScreen": {

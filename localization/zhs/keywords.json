@@ -6,16 +6,6 @@
       ],
       "DESCRIPTION": "不能被打出的牌不能从你的手牌中被打出。"
     },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "只有弹药能被发射，发射弹药将会触发其效果，并将其丢弃。"
-    },
     "INNATE": {
       "NAMES": [
         "固有"
@@ -175,6 +165,19 @@
         "无实体"
       ],
       "DESCRIPTION": "将受到的所有伤害和生命减少效果降低为 #b1 。"
+    },
+    "BURN": {
+      "NAMES": [
+        "灼伤",
+        "burns"
+      ],
+      "DESCRIPTION": "灼伤是 不能被打出 的状态牌，并会对你造成伤害。"
+    },
+    "DAZED": {
+      "NAMES": [
+        "晕眩"
+      ],
+      "DESCRIPTION": "晕眩是 不能被打出 的 虚无 状态牌。"
     }
   }
 }

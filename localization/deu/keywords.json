@@ -18,16 +18,6 @@
       ],
       "DESCRIPTION": "Stärke lässt Angriffe zusätzlichen Schaden verursachen."
     },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
     "SHIV": {
       "NAMES": [
         "Klinge",
@@ -176,6 +166,19 @@
         "Unangreifbar"
       ],
       "DESCRIPTION": "Reduziere jeglichen genommenen Schaden auf #b1."
+    },
+    "BURN": {
+      "NAMES": [
+        "burn",
+        "burns"
+      ],
+      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+    },
+    "DAZED": {
+      "NAMES": [
+        "dazed"
+      ],
+      "DESCRIPTION": "Dazed are unplayable status cards."
     }
   }
 }

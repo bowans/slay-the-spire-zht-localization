@@ -346,6 +346,12 @@
       "TUTTO il danno e i PV persi vengono ridotti a #b1 per questo turno. Intangibile viene riapplicato ogni altro turno."
     ]
   },
+  "IntangiblePlayer": {
+    "NAME": "Intangibile",
+    "DESCRIPTIONS": [
+      "TUTTO il danno e i PV persi sono ridotti a #b1."
+    ]
+  },
   "Inverted": {
     "NAME": "Inverted",
     "DESCRIPTIONS": [
@@ -548,6 +554,13 @@
       " #yForza."
     ]
   },
+  "GrowthPower": {
+    "NAME": "Crescita",
+    "DESCRIPTIONS": [
+      "A fine turno, guadagna #b",
+      " #yForza."
+    ]
+  },
   "Generic Strength Up Power": {
     "NAME": "",
     "DESCRIPTIONS": [
@@ -738,17 +751,11 @@
       " danni ad un nemico casuale."
     ]
   },
-  "GrowthPower": {
-    "NAME": "Growth",
+  "Wraith Form v2": {
+    "NAME": "Forma Spettrale",
     "DESCRIPTIONS": [
-      "At the end of its turn, gains #b",
-      " #yStrength."
-    ]
-  },
-  "IntangiblePlayer": {
-    "NAME": "Intangible",
-    "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
+      "A fine turno perdi #b ",
+      " Destrezza."
     ]
   }
 }

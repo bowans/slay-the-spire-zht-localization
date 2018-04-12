@@ -129,6 +129,19 @@
 		],
 		"DESCRIPTION": "Wounds are unplayable status cards."
 	},
+	"DAZED": {
+		"NAMES":[
+			"dazed"
+		],
+		"DESCRIPTION": "Dazed are unplayable status cards."
+	},
+	"BURN": {
+		"NAMES":[
+			"burn",
+			"burns"
+		],
+		"DESCRIPTION": "Burns are unplayable status cards that damage you."
+	},
 	"FRAIL": {
 		"NAMES":[
 			"frail"
@@ -146,16 +159,6 @@
 			"confused"
 		],
 		"DESCRIPTION": "Whenever you draw a card, randomize its cost."
-	},
-	"FIRE": {
-		"NAMES":[
-			"fire",
-			"fired",
-			"DONT TRANSLATE FIRED STUFF",
-			"DONT TRANSLATE FIRED STUFF",
-			"DONT TRANSLATE FIRED STUFF"
-		],
-		"DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
 	},
 	"INTANGIBLE": {
 		"NAMES":[

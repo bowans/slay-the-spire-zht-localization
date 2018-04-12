@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "燔祭",
-    "DESCRIPTION": " 消耗 1 张牌，如果被 消耗 的牌是 诅咒 或 状态 ，对所有敌人造成 !D! 点伤害。"
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL  将一张 灼伤 放入你的抽牌堆中。"
   },
   "Regret": {
     "NAME": "悔恨",
@@ -184,7 +184,7 @@
   },
   "Reckless Charge": {
     "NAME": "无谋冲锋",
-    "DESCRIPTION": "获得 1 层 易伤 。 NL 造成 !D! 点伤害。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL  将一张 晕眩 放入你的抽牌堆中。"
   },
   "Decay": {
     "NAME": "腐朽",
@@ -883,5 +883,9 @@
     "NAME": "灵体",
     "DESCRIPTION": "获得1层 无实体 。 NL 消耗 。 NL 虚无 。",
     "UPGRADE_DESCRIPTION": "获得1层 无实体 。 NL 消耗 。 "
+  },
+  "Wraith Form v2": {
+    "NAME": "幽魂形态",
+    "DESCRIPTION": "获得 !M! 层 无实体 。 NL 在你的回合结束时，失去1点敏捷。"
   }
 }

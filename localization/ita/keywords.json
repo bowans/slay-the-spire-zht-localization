@@ -133,11 +133,24 @@
       ],
       "DESCRIPTION": "Le Ferite sono carte stato ingiocabili."
     },
+    "DAZED": {
+      "NAMES": [
+        "Disorientato"
+      ],
+      "DESCRIPTION": "Le carte Disorientato sono delle carte Eteree che non possono essere giocate."
+    },
+    "BURN": {
+      "NAMES": [
+        "Ustione",
+        "Ustioni"
+      ],
+      "DESCRIPTION": "Le Ustioni sono carte di stato ingiocabili che ti infliggono danni."
+    },
     "FRAIL": {
       "NAMES": [
         "fragile"
       ],
-      "DESCRIPTION": "Finchè Fragile, ottieni il #b25% di #yBlocco in meno dalle carte."
+      "DESCRIPTION": "Se sei Fragile, ottieni il #b25% di #yBlocco in meno dalle carte."
     },
     "STRIKE": {
       "NAMES": [
@@ -150,16 +163,6 @@
         "confuso"
       ],
       "DESCRIPTION": "Il costo delle carte cambia in maniera casuale quando le peschi."
-    },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
     },
     "TODO": {
       "NAMES": [

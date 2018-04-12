@@ -152,16 +152,6 @@
       ],
       "DESCRIPTION": "Quand vous piochez une carte, son coût est rendu aléatoire."
     },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
     "TODO": {
       "NAMES": [
         "todo",
@@ -180,6 +170,19 @@
         "intangible"
       ],
       "DESCRIPTION": "Réduit TOUS les dégâts subis et la perte de PV à #b1."
+    },
+    "BURN": {
+      "NAMES": [
+        "burn",
+        "burns"
+      ],
+      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+    },
+    "DAZED": {
+      "NAMES": [
+        "dazed"
+      ],
+      "DESCRIPTION": "Dazed are unplayable status cards."
     }
   }
 }

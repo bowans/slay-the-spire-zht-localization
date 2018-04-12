@@ -7,7 +7,7 @@
   "Accursed Blacksmith": {
     "NAME": "Unheilvolle Schmiede",
     "DESCRIPTIONS": [
-      "Du betrittst eine kleine Hütte. Drinnen findest du etwas, das eine Schmiede zu sein scheint. Die Schmiedewerkzeuge sind mit Staub bedeckt, doch im Ofen lodert ein Feuer. Du bist nervös …",
+      "Du betrittst eine kleine Hütte. Drinnen findest du etwas, das eine Schmiede zu sein scheint. Die Schmiedewerkzeuge sind mit Staub beDeckt, doch im Ofen lodert ein Feuer. Du bist nervös …",
       "Du entschließt dich, die Schmiede zu benutzen und … NL #y@KLONK @ #y@KLOOONK@ #y@KLONK!@ NL … verbesserst dein Arsenal!",
       "Du beschließt nachzusehen, ob du etwas nützliches finden kannst. Nachdem du unter Planen und in Kisten, Ecken und Rissen gesucht hast, findest du ein verstaubtes #y~Relikt!~",
       "Als du am letzten Schliff arbeitest, greifen die Flammen der Schmiede plötzlich nach dir und #r@verbrennen@ #r@und@ #r@vernarben@ deine Arme …",
@@ -495,7 +495,7 @@
   "Back to Basics": {
     "NAME": "Uralte Inschrift",
     "DESCRIPTIONS": [
-      "Als du die Stadt durchstreifst, fällt dir eine Wand auf, die mit Schriften der #y~Ahnen~ bedeckt ist. Als du zu begreifen versuchst, was die rätselhaften Symbole und Glyphen bedeuten könnten, beginnt die Inschrift zu #b~leuchten.~ NL Auf einmal wird dir die Bedeutung klar …",
+      "Als du die Stadt durchstreifst, fällt dir eine Wand auf, die mit Schriften der #y~Ahnen~ beDeckt ist. Als du zu begreifen versuchst, was die rätselhaften Symbole und Glyphen bedeuten könnten, beginnt die Inschrift zu #b~leuchten.~ NL Auf einmal wird dir die Bedeutung klar …",
       "Die Antwort war Eleganz. NL Natürlich.",
       "Die Wahrheit ist immer schlicht."
     ],
@@ -568,7 +568,7 @@
     "DESCRIPTIONS": [
       "Vor dir befindet sich ein Altar, der einem vergessenen Gott gewidmet ist. NL Auf dem Altar sitzt eine verzierte, weibliche Statue, die ihre Arme ausstreckt. NL Sie ruft nach dir, verlangt ein Opfer.",
       "Als du den Götzen vorsichtig auf den Altar setzt, wirbelt ein #bkalter Wind durch den Raum. NL Die Arme der Statue verlieren ihre Farbe und beginnen zu bröckeln. NL NL Die Farbe deines #ygoldenen #yGötzen beginnt zu verblassen und Blut strömt aus den Augen. NL Die Blutung hört nicht auf.",
-      "Du stehst auf dem Altar und schneidest in deine Handgelenke. NL Als das #rBlut als Opfergabe fließt, strecken sich die Arme der Statue nach dir aus und verdecken deine Augen. NL Alles wird dunkel. NL Du erwachst kurze Zeit später und spürst neues Potential in dir.",
+      "Du stehst auf dem Altar und schneidest in deine Handgelenke. NL Als das #rBlut als Opfergabe fließt, strecken sich die Arme der Statue nach dir aus und verDecken deine Augen. NL Alles wird dunkel. NL Du erwachst kurze Zeit später und spürst neues Potential in dir.",
       "Der magische Bann, den dieser Raum auf dich hatte, bricht, als du ausholst und die Statue vor dir zerschmetterst. NL Ein düsteres Wehklagen hallt um dich wieder und du kannst spüren, wie die #p~verfluchte~ #p~Magie~ in deine Knochen sickert."
     ],
     "OPTIONS": [
@@ -645,7 +645,7 @@
   "The Joust": {
     "NAME": "Der Zweikampf",
     "DESCRIPTIONS": [
-      "Als du deinen Weg durch die großen Gebäude fortsetzt, gelangst du zu einer langen, schmalen Brücke und entdeckst Ritter an beiden Enden, die einander zugewandt sind. Du näherst dich … NL @„Halt!“@ NL NL Ein Ritter signalisiert dir deutlich mit seiner Lanze, stehen zu bleiben.",
+      "Als du deinen Weg durch die großen Gebäude fortsetzt, gelangst du zu einer langen, schmalen Brücke und entDeckst Ritter an beiden Enden, die einander zugewandt sind. Du näherst dich … NL @„Halt!“@ NL NL Ein Ritter signalisiert dir deutlich mit seiner Lanze, stehen zu bleiben.",
       "„Heute ist der Tag, an dem ich die Rechnung mit dem #rMörder meines geliebten Haustiers #yNoodles begleichen muss. Bis dahin kannst du nicht vorbei. NL NL Geschätzter Zeuge, warum #bwettest du nicht darauf, wer siegreich hervorgehen wird?“",
       "„Ich kann nicht glauben, dass du gegen #yNoodles wettest!“ NL NL Wütend klappt er seinen Helm runter und stürmt auf seinen Erzfeind zu.",
       "„Gib mir Kraft, #yNoodles!“ NL NL Der Ritter klappt seinen Helm runter und stürmt voran.",
@@ -763,21 +763,21 @@
     ]
   },
   "SensoryStone": {
-    "NAME": "Sensory Stone",
+    "NAME": "Sinnlicher Stein",
     "DESCRIPTIONS": [
-      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
-      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
-      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
-      "#b~UNKNOWN.~ NL NL Not yet implemented."
+      "Als du durch das Jenseits wanderst, entDeckst du einen #bleuchtenden #bTesserakt ,der sich sanft in der Luft @dreht@ und ~verändert~.",
+      "Du berührst in. NL NL Ein #r@scharfer@ #r@pSchmerz@ fließt durch dich, gefolgt von lebhaften, blitzenden, fernen Erinnerungen. NL ...Wessen Erinnerungen sind das?",
+      "#r~ANGST.~ NL NL Eine teuflische Kreatur befindet sich über dir, ihre Flügel sind weit gespreizt, während sie in Gelächter aufheult. Tote Körper eines Stammes umgeben dich, als das Dorf von schrecklichen, #p~dunklen~ #p~Flammen~ verschlugen wird. NL NL Der Dämon schreit und verspottet dich. NL NL \" #r@DU@ #r@BIST@ #r@JETZT@ r@WIRKLICH@ #r@DER STÄRKSTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Diese Lache hallt für immer wieder... ",
+      "#g~TRIUMPH.~ NL NL Die Überreste einer #p~geisterhaften~ #p~Kreatur~ fällt langsam in den Schlamm vor dir, sie ist im Mondlicht kaum sichtbar. Du hast dich vor deinen Schwestern bewiesen. NL NL Du stehst siegreich da und wartest im Schweigen, als die Anderen dir zeremoniell den #ySchädel der #yKreatur auf den Kopf setzen. Das Ritual ist abgeschlossen. NL NL Du gehst in die Richtung eines Turmes...",
+      "#b~UNBEKANNT.~ NL NL Noch nicht eingefügt."
     ],
     "OPTIONS": [
-      "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
-      "[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      "[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      " #rHP.",
-      "[Leave]",
-      "[Interact]"
+      "[Recall] #gFüge #gdeinem #gDeck #g1 #gfarblose #gKarten #gzu.",
+      "[Recall] #gFüge #gdeinem #gDeck #g2 #gfarblose #gKarten #gzu. #rVerliere #r",
+      "[Recall] #gFüge #gdeinem #gDeck #g3 #gfarblose #gKarten #gzu. #rVerliere #r",
+      " #rTP.",
+      "[Verlasse]",
+      "[Interagiere]"
     ]
   }
 }

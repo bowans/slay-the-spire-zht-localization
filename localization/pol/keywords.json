@@ -113,7 +113,7 @@
       "NAMES": [
         "niezagrywalna"
       ],
-      "DESCRIPTION": "Karty ta jest, no... niezagrywalna."
+      "DESCRIPTION": "Karta ta jest, no... niezagrywalna."
     },
     "UPGRADE": {
       "NAMES": [
@@ -148,6 +148,20 @@
       ],
       "DESCRIPTION": "Niezagrywalna karta Stanu."
     },
+    "DAZED": {
+      "NAMES": [
+        "oszołomienie",
+        "oszołomienia"
+      ],
+      "DESCRIPTION": "Niezagrywalna Eteryczna karta Stanu."
+    },
+    "BURN": {
+      "NAMES": [
+        "poparzenie",
+        "burns"
+      ],
+      "DESCRIPTION": "Niezagrywalna karta Stanu, zadająca obrażenia."
+    },
     "FRAIL": {
       "NAMES": [
         "kruchość",
@@ -169,20 +183,10 @@
       ],
       "DESCRIPTION": "Koszt każdej dobranej karty jest losowy."
     },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
     "INTANGIBLE": {
       "NAMES": [
-        "Nieuchwytność",
-        "Nieuchwytności"
+        "nieuchwytność",
+        "nieuchwytności"
       ],
       "DESCRIPTION": "Zmniejsza WSZYSTKIE otrzymywane obrażenia do #b1 pkt.."
     },

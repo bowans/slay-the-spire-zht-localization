@@ -21,7 +21,7 @@
   "End Turn Button": {
     "TEXT": [
       "Koniec tury",
-      "Tura wroga"
+      "Tura przeciwnika"
     ]
   },
   "RunHistoryScreen": {
@@ -58,7 +58,8 @@
       "Tylko zwykłe",
       "Tylko Wyniesienie",
       "Tylko Wyzwanie Dnia",
-      "Seed: %s"
+      "Ziarno: %s",
+      "Wybrane ziarno: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -218,10 +219,10 @@
       "Obozowiska",
       "Zatrzymaj się w nich, aby #gprzywrócić część PŻ lub #yulepszyć kartę.",
       "Przeciwnik",
-      "Wrogowie",
+      "Przeciwnicy",
       "Wrogo nastawione stworzenia okupują te pomieszczenia.",
       "Elitarny",
-      "Elitarni wrogowie",
+      "Elitarni przeciwnicy",
       "Potężne stworzenia zamieszkują te pomieszczenia. NL NL Za ich pokonanie otrzymasz artefakt.",
       "Legenda"
     ]
@@ -291,6 +292,14 @@
       "Anuluj"
     ]
   },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Wpisz nowe ziarno",
+      "Zatwierdź",
+      "Anuluj"
+    ]
+  },
   "AbstractCard": {
     "TEXT": [
       "Zablokowane",
@@ -356,7 +365,7 @@
       "Pospolity",
       "Nieaktualny",
       "Rzadki",
-      "Sklepowy",
+      "Handlarza",
       "Znaleziony",
       "Początkowy",
       "Niepospolity",
@@ -509,7 +518,7 @@
       "Odblokuj",
       "Pozostałe ulepszenia – ",
       "Pozostałe ulepszenia – ",
-      "Pokonani wrogowie",
+      "Pokonani przeciwnicy",
       "Pokonane elitarne jednostki",
       "Niewydane złoto",
       "Bonus PŻ"
@@ -689,7 +698,9 @@
     "TEXT": [
       "Rzadk.",
       "Typ",
-      "A-Z"
+      "A-Z",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {
@@ -785,21 +796,21 @@
       "",
       "Tryb Wyniesienia",
       "Wyprawy stają się trudniejsze po każdej wygranej... (nie wpływa na serię zwycięstw)",
-      "Seed ",
-      "Random Seed",
-      "The starting seed used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Ziarno ",
+      "Ziarno",
+      "Na podstawie niewielkiej ilości informacji, ziarna (ang. seed), ustala, co losowo będzie się pojawiało podczas próby.",
+      "Ustaw ziarno"
     ]
   },
   "AscensionModeDescriptions": {
     "TEXT": [
       "Jednostki elitarne pojawiają się częściej.",
-      "Zwyczajni wrogowie są bardziej zabójczy.",
+      "Zwyczajni przeciwnicy są bardziej zabójczy.",
       "Jednostki elitarne są groźniejsze.",
       "Bossowie są groźniejsi.",
       "Przywracasz mniejszą ilość PŻ po pokonaniu Bossa.",
       "Zaczynasz każdą wyprawę z obrażeniami.",
-      "Zwyczajni wrogowie są wytrzymalsi.",
+      "Zwyczajni przeciwnicy są wytrzymalsi.",
       "Jednostki elitarne są wytrzymalsze.",
       "Bossowie są wytrzymalsi.",
       "Zaczynasz każdą próbę z klątwą",
@@ -869,7 +880,7 @@
     "TEXT": [
       "Szykuj się do walki",
       "Tura gracza",
-      "Tura wroga",
+      "Tura przeciwnika",
       ". tura"
     ]
   },
@@ -1018,14 +1029,6 @@
       "Unknown",
       "",
       "Ta funkcja nie jest jeszcze dostępna."
-    ]
-  },
-  "SeedPanel": {
-    "TEXT": [
-      "0000000000",
-      "Enter a new Seed",
-      "Confirm",
-      "Cancel"
     ]
   }
 }

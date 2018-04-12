@@ -424,7 +424,7 @@
     "DESCRIPTION": "Вы берёте 1 карту. NL Даёт !B! Защиты, если это Навык."
   },
   "Finisher": {
-    "NAME": "Добивающий удар",
+    "NAME": "Добивание",
     "DESCRIPTION": "Наносит по !D! урона за каждую разыгранную в этом ходу Атаку.",
     "EXTENDED_DESCRIPTION": [
       " NL (Вы разыграли ",
@@ -883,5 +883,9 @@
     "NAME": "Призрачность",
     "DESCRIPTION": "Даёт 1 Неосязаемости. NL Сжигается. NL Эфирная.",
     "UPGRADE_DESCRIPTION": "Даёт 1 Неосязаемости. NL Сжигается."
+  },
+  "Wraith Form v2": {
+    "NAME": "Wraith Form",
+    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
   }
 }

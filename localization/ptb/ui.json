@@ -58,7 +58,8 @@
       "Apenas Normal",
       "Apenas Ascensão",
       "Apenas Desafio Diário",
-      "Seed: %s"
+      "Seed: %s",
+      "Custom Seed: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -291,6 +292,14 @@
       "Cancelar"
     ]
   },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Insira uma nova Seed",
+      "Confirmar",
+      "Cancelar"
+    ]
+  },
   "AbstractCard": {
     "TEXT": [
       "Bloqueada",
@@ -382,7 +391,7 @@
       "Estou #rPreso! NL Não posso jogar Ataques",
       "Não tenho #rEnergia suficiente.",
       "Não tenho #rCarga suficiente.",
-      "Eu não posso jogar NL essa carta"
+      "Eu não posso jogar NL essa carta."
     ]
   },
   "MasterDeckViewScreen": {
@@ -689,7 +698,9 @@
     "TEXT": [
       "Raridade",
       "Tipo",
-      "A-Z"
+      "A-Z",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {
@@ -784,11 +795,11 @@
       "Ascensão",
       "Nível ",
       "Modo Ascensão",
-      "Jornadas ficam mais difíceis enquanto você vence... (Sequências de Vitórias não são afetadas)",
+      "Jornadas ficam mais difíceis conforme você vence... (Sequências de Vitórias não são afetadas)",
       "Seed ",
-      "Random Seed",
-      "The starting seed used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Seed Aleatória",
+      "A seed inicial usada para determinar o que aleatoriamente aparece na jornada.",
+      "Definir Seed"
     ]
   },
   "AscensionModeDescriptions": {
@@ -1018,14 +1029,6 @@
       "Desconhecido",
       "",
       "Essa funcionalidade ainda não está disponível."
-    ]
-  },
-  "SeedPanel": {
-    "TEXT": [
-      "0000000000",
-      "Enter a new Seed",
-      "Confirm",
-      "Cancel"
     ]
   }
 }
