@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "Immolation",
-    "DESCRIPTION": "Épuisez 1 carte. Si Statut ou Malédiction, infligez !D! dégât(s) à TOUS les ennemis."
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Ajoutez une Brûlure à votre pioche."
   },
   "Regret": {
     "NAME": "Regret",
@@ -54,7 +54,7 @@
   },
   "Anger": {
     "NAME": "Colère",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Placez une copie de cette carte dans votre défausse."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez une copie de cette carte à votre défausse."
   },
   "Storm of Steel": {
     "NAME": "Tempête d'acier",
@@ -184,7 +184,7 @@
   },
   "Reckless Charge": {
     "NAME": "Charge imprudente",
-    "DESCRIPTION": "Subissez 1 de Vulnérabilité. NL Infligez !D! dégât(s)."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez un Hébètement à votre pioche."
   },
   "Decay": {
     "NAME": "Déclin",
@@ -273,7 +273,7 @@
   },
   "Endless Agony": {
     "NAME": "Agonie éternelle",
-    "DESCRIPTION": "Ajoutez une copie de cette carte dans votre main quand vous la piochez. NL Infligez !D! dégât(s). NL Épuisement."
+    "DESCRIPTION": "Ajoutez une copie de cette carte à votre main quand vous la piochez. NL Infligez !D! dégât(s). NL Épuisement."
   },
   "Berserk": {
     "NAME": "Folie furieuse",
@@ -638,8 +638,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Ajoutez X cartes incolores dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoutez X cartes incolores améliorées dans votre main. NL Épuisement."
+    "DESCRIPTION": "Ajoutez X cartes incolores à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez X cartes incolores améliorées à votre main. NL Épuisement."
   },
   "Backstab": {
     "NAME": "Trahison",
@@ -813,8 +813,8 @@
   },
   "Evolve": {
     "NAME": "Évolution",
-    "DESCRIPTION": "Quand vous piochez une carte carte de Statut, piochez !M! cartes.",
-    "UPGRADE_DESCRIPTION": "Quand vous piochez une carte carte de Statut, piochez !M! cartes."
+    "DESCRIPTION": "Quand vous piochez une carte Statut, piochez !M! cartes.",
+    "UPGRADE_DESCRIPTION": "Quand vous piochez une carte Statut, piochez !M! cartes."
   },
   "Burn": {
     "NAME": "Brûlure",
@@ -885,7 +885,7 @@
     "DESCRIPTION": "Injouable. NL Éthérée. NL Ne peut pas être retirée du deck."
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
-    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
+    "NAME": "Forme spectrale",
+    "DESCRIPTION": "Gagnez !M! Intangible. NL À la fin de votre tour, perdez 1 de Dexterité."
   }
 }

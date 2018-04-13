@@ -387,7 +387,7 @@
       "Passer",
       "Choisissez une carte",
       "+2 PV Max",
-      "VOTEZ: ",
+      "VOTEZ : ",
       "s restantes."
     ]
   },
@@ -397,7 +397,7 @@
       "Confirmer votre sélection",
       "Choisir une Relique",
       "Passer",
-      "VOTEZ: ",
+      "VOTEZ : ",
       "s restantes."
     ]
   },
@@ -477,9 +477,9 @@
       "Rouges",
       "Vertes",
       "Bleues",
-      "Incolore",
+      "Incolores",
       "Malédictions",
-      "Statuts",
+      "Statut",
       "Voir l'amélioration"
     ]
   },
@@ -488,8 +488,8 @@
       "Rareté",
       "Type",
       "A-Z",
-      "Cost",
-      "Jump To:"
+      "Coût",
+      "Aller à :"
     ]
   },
   "EarlyAccessPopup": {
@@ -583,7 +583,7 @@
       "Seed ",
       "Seed aléatoire",
       "La seed de départ est utilisé pour générer les éléments aléatoires de cette partie.",
-      "Définir la Seed"
+      "Définir la seed"
     ]
   },
   "AbstractMonster": {
@@ -900,8 +900,8 @@
       "Boutique",
       "Inconnue",
       "%1$d %2$s",
-      "%1$s (%2$d):",
-      "Score: %d",
+      "%1$s (%2$d) :",
+      "Score : %d",
       "Tous les personnages",
       "Victoires et défaites",
       "Victoires",
@@ -911,8 +911,8 @@
       "Normal",
       "Ascension",
       "Défi quotidien",
-      "Seed: %s",
-      "Custom Seed: %s"
+      "Seed : %s",
+      "Seed personnalisée : %s"
     ]
   },
   "DeathScreenUi": {
@@ -928,19 +928,19 @@
   },
   "TwitchVoter": {
     "TEXT": [
-      "VOTEZ: "
+      "VOTEZ : "
     ]
   },
   "DailyScreen": {
     "TEXT": [
       "Défi Quotidien",
       "Connexion au Serveur...",
-      "#yRemarque: Vous avez fini le défi du jour. NL Seul le premier score est envoyé.",
+      "#yRemarque : Vous avez fini le défi du jour. NL Seul le premier score est envoyé.",
       "Retour",
       "Démarrer",
-      "Personnage du jour: ",
+      "Personnage du jour : ",
       "dd/MM/yyyy HH:mm:ss",
-      "Temps restant: ",
+      "Temps restant : ",
       "#yÉtage #yAtteint : NL  ",
       " NL NL  #yDeck : NL ",
       " NL NL  #yReliques : NL  ",
@@ -1019,14 +1019,14 @@
       "#r%s #r/ #r%s #rPV",
       "#y%s #yOr",
       "Choisi %s",
-      "Passé:",
+      "Passé :",
       "Information manquante"
     ]
   },
   "SeedPanel": {
     "TEXT": [
       "0000000000",
-      "Entrez une nouvelle Seed",
+      "Entrez une nouvelle seed",
       "Confirmer",
       "Annuler"
     ]

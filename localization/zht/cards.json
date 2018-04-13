@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "燔祭",
-    "DESCRIPTION": " 消耗 1 張牌，如果被 消耗 的牌是 詛咒 或 狀態 ，對所有敵人造成 !D! 點傷害。"
+    "DESCRIPTION": "對所有敵人造成 !D! 點傷害。 NL  將一張 灼傷 放入你的抽牌堆中。"
   },
   "Regret": {
     "NAME": "悔恨",
@@ -38,7 +38,7 @@
   },
   "Glass Knife": {
     "NAME": "玻璃刀刃",
-    "DESCRIPTION": "造成 !D! 點傷害兩次。 玻璃刀刃 在這場戰鬥中造成的傷害減少2。"
+    "DESCRIPTION": "造成 !D! 點傷害兩次。 玻璃刀刃 在這場戰鬥中造成的傷害減少2點。"
   },
   "Cloak And Dagger": {
     "NAME": "斗篷與匕首",
@@ -184,7 +184,7 @@
   },
   "Reckless Charge": {
     "NAME": "無謀衝鋒",
-    "DESCRIPTION": "獲得 1 層 易傷 。 NL 造成 !D! 點傷害。"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL  將一張 暈眩 放入你的抽牌堆中。"
   },
   "Decay": {
     "NAME": "腐朽",
@@ -885,7 +885,7 @@
     "UPGRADE_DESCRIPTION": "獲得1層 無實體 。 NL 消耗 。"
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
-    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
+    "NAME": "幽魂形態",
+    "DESCRIPTION": "獲得 !M! 層 無實體 。 NL 在你的回合結束時，失去1點敏捷。"
   }
 }

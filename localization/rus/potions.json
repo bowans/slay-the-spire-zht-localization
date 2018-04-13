@@ -1,4 +1,11 @@
 {
+  "Ancient Potion": {
+    "NAME": "Древнее зелье",
+    "DESCRIPTIONS": [
+      "Даёт #b",
+      " #yАртефакта."
+    ]
+  },
   "Block Potion": {
     "NAME": "Зелье защиты",
     "DESCRIPTIONS": [
@@ -93,13 +100,6 @@
     "DESCRIPTIONS": [
       "Накладывает #b",
       " #yСлабости."
-    ]
-  },
-  "Ancient Potion": {
-    "NAME": "Древнее зелье",
-    "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yАртефакта."
     ]
   }
 }

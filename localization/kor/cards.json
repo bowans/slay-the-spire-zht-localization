@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "화형",
-    "DESCRIPTION": "카드를 1장 소멸 시키고, 그 카드가 상태이상 또는 저주 카드라면 적 전체에게 !D! 의 피해를 줍니다."
+    "DESCRIPTION": "적 전체에게 !M! 의 피해를 줍니다. NL 뽑을 카드 더미에 화상 카드를 섞어 넣습니다."
   },
   "Regret": {
     "NAME": "후회",
@@ -184,7 +184,7 @@
   },
   "Reckless Charge": {
     "NAME": "무모한 돌진",
-    "DESCRIPTION": "취약 을 1 받습니다. NL !D! 의 피해를 줍니다."
+    "DESCRIPTION": "!D! 의 피해를 줍니다. NL 뽑을 카드 더미에 어지러움 카드를 섞어 넣습니다."
   },
   "Decay": {
     "NAME": "부패",
@@ -885,7 +885,7 @@
     "UPGRADE_DESCRIPTION": "불가침 을 1 얻습니다. NL 소멸"
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
-    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
+    "NAME": "유령화",
+    "DESCRIPTION": "불가침을 !M! 얻습니다. NL  턴 종료 시 민첩 을 1 잃습니다."
   }
 }

@@ -240,8 +240,8 @@
   "Evolve": {
     "NAME": "Évolution",
     "DESCRIPTIONS": [
-      "Lorsque vous piochez une carte de #yStatut, piochez une carte.",
-      "Lorsque vous piochez une carte de #yStatut, piochez #b",
+      "Lorsque vous piochez une carte #yStatut, piochez une carte.",
+      "Lorsque vous piochez une carte #yStatut, piochez #b",
       " cartes."
     ]
   },
@@ -729,7 +729,7 @@
   "Painful Stabs": {
     "NAME": "Coups de Poignard Douloureux",
     "DESCRIPTIONS": [
-      "À chaque fois que cet ennemi vous inflige des dégâts, ajoutez une #yPlaie dans votre Défausse."
+      "À chaque fois que cet ennemi vous inflige des dégâts, ajoutez une #yPlaie à votre Défausse."
     ]
   },
   "Minion": {
@@ -752,10 +752,10 @@
     ]
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
+    "NAME": "Forme spectrale",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b ",
-      " Dexterity."
+      "À la fin de votre tour, perdez #b",
+      " de #yDextérité."
     ]
   }
 }

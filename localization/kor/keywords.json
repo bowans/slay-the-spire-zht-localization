@@ -168,16 +168,16 @@
     },
     "BURN": {
       "NAMES": [
-        "burn",
-        "burns"
+        "화상",
+        "화상들"
       ],
-      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+      "DESCRIPTION": "화상은 턴 종료 시 손에 있으면 자신에게 피해를 주는 사용 불가인 상태이상 카드입니다."
     },
     "DAZED": {
       "NAMES": [
-        "dazed"
+        "어지러움"
       ],
-      "DESCRIPTION": "Dazed are unplayable status cards."
+      "DESCRIPTION": "어지러움은 사용 불가인 상태이상 카드입니다."
     }
   }
 }
