@@ -765,16 +765,16 @@
   "SensoryStone": {
     "NAME": "Sinnlicher Stein",
     "DESCRIPTIONS": [
-      "Als du durch das Jenseits wanderst, entDeckst du einen #bleuchtenden #bTesserakt ,der sich sanft in der Luft @dreht@ und ~verändert~.",
-      "Du berührst in. NL NL Ein #r@scharfer@ #r@pSchmerz@ fließt durch dich, gefolgt von lebhaften, blitzenden, fernen Erinnerungen. NL ...Wessen Erinnerungen sind das?",
+      "Als du durch das Jenseits wanderst, entdeckst du einen #bleuchtenden #bTesserakt, der sich sanft in der Luft @dreht@ und ~verändert~.",
+      "Du berührst ihn. NL NL Ein #r@scharfer@ #r@pSchmerz@ fließt durch dich, gefolgt von lebhaften, blitzenden, fernen Erinnerungen. NL ...Wessen Erinnerungen sind das?",
       "#r~ANGST.~ NL NL Eine teuflische Kreatur befindet sich über dir, ihre Flügel sind weit gespreizt, während sie in Gelächter aufheult. Tote Körper eines Stammes umgeben dich, als das Dorf von schrecklichen, #p~dunklen~ #p~Flammen~ verschlugen wird. NL NL Der Dämon schreit und verspottet dich. NL NL \" #r@DU@ #r@BIST@ #r@JETZT@ r@WIRKLICH@ #r@DER STÄRKSTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Diese Lache hallt für immer wieder... ",
       "#g~TRIUMPH.~ NL NL Die Überreste einer #p~geisterhaften~ #p~Kreatur~ fällt langsam in den Schlamm vor dir, sie ist im Mondlicht kaum sichtbar. Du hast dich vor deinen Schwestern bewiesen. NL NL Du stehst siegreich da und wartest im Schweigen, als die Anderen dir zeremoniell den #ySchädel der #yKreatur auf den Kopf setzen. Das Ritual ist abgeschlossen. NL NL Du gehst in die Richtung eines Turmes...",
       "#b~UNBEKANNT.~ NL NL Noch nicht eingefügt."
     ],
     "OPTIONS": [
-      "[Recall] #gFüge #gdeinem #gDeck #g1 #gfarblose #gKarten #gzu.",
-      "[Recall] #gFüge #gdeinem #gDeck #g2 #gfarblose #gKarten #gzu. #rVerliere #r",
-      "[Recall] #gFüge #gdeinem #gDeck #g3 #gfarblose #gKarten #gzu. #rVerliere #r",
+      "[Erinnern] #gFüge #gdeinem #gDeck #g1 #gfarblose #gKarten #gzu.",
+      "[Erinnern] #gFüge #gdeinem #gDeck #g2 #gfarblose #gKarten #gzu. #rVerliere #r",
+      "[Erinnern] #gFüge #gdeinem #gDeck #g3 #gfarblose #gKarten #gzu. #rVerliere #r",
       " #rTP.",
       "[Verlasse]",
       "[Interagiere]"

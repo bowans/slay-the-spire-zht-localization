@@ -2,19 +2,19 @@
   "Grand Finale": {
     "NAME": "Grand Finale",
     "DESCRIPTION": "Can only be played if there are no cards in your draw pile. NL Deal !D! damage to ALL enemies.",
-	"UPGRADE_DESCRIPTION": "My draw pile NL must be #rEmpty."
+    "UPGRADE_DESCRIPTION": "My draw pile NL must be #rEmpty."
   },
   "Immolate": {
     "NAME": "Immolate",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Shuffle a Burn into your draw pile."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a Burn to your discard pile."
   },
   "Regret": {
     "NAME": "Regret",
     "DESCRIPTION": "Unplayable. NL At the end of your turn, lose 1 HP for each card in your hand."
   },
   "Crippling Poison": {
-    "NAME": "Crippling Poison",
-    "DESCRIPTION": "Apply !M! Poison. NL Apply !M! Weak."
+    "NAME": "Crippling Cloud",
+    "DESCRIPTION": "Apply !M! Poison and 2 Weak to ALL enemies. NL Exhaust."
   },
   "A Thousand Cuts": {
     "NAME": "A Thousand Cuts",
@@ -49,7 +49,7 @@
     "NAME": "Sneaky Strike",
     "DESCRIPTION": "Deal !D! damage. NL If you have discarded a card this turn, NL gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
-    	"I can't play this card."	
+      "I can't play this card."
     ]
   },
   "Anger": {
@@ -140,7 +140,7 @@
     "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
     "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
-    	"I can't play this card."	
+      "I can't play this card."
     ]
   },
   "Bane": {
@@ -180,7 +180,7 @@
   "Brutality": {
     "NAME": "Brutality",
     "DESCRIPTION": "At the start of your turn, lose 1 HP and draw 1 card.",
-	"UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, lose 1 HP and draw 1 card."
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, lose 1 HP and draw 1 card."
   },
   "Iron Wave": {
     "NAME": "Iron Wave",
@@ -264,7 +264,7 @@
     "NAME": "Clash",
     "DESCRIPTION": "Can only be played if every card in your hand is an Attack. NL Deal !D! damage.",
     "EXTENDED_DESCRIPTION": [
-    	"I have non-attack cards in my hand."	
+      "I have non-attack cards in my hand."
     ]
   },
   "Thunderclap": {
@@ -372,7 +372,7 @@
     "NAME": "Bandage Up",
     "DESCRIPTION": "Heal !M! HP. NL Exhaust."
   },
- "The Bomb": {
+  "The Bomb": {
     "NAME": "The Bomb",
     "DESCRIPTION": "Deal !D! damage to everyone (including yourself). NL Exhaust."
   },
@@ -400,9 +400,9 @@
   "Secret Technique": {
     "NAME": "Secret Technique",
     "DESCRIPTION": "Choose a Skill from your draw pile and place it into your hand. NL Exhaust.",
-	"UPGRADE_DESCRIPTION": "Choose a Skill from your draw pile and place it into your hand.",
-	"EXTENDED_DESCRIPTION": [
-    	"There are no Skills NL in my draw pile."
+    "UPGRADE_DESCRIPTION": "Choose a Skill from your draw pile and place it into your hand.",
+    "EXTENDED_DESCRIPTION": [
+      "There are no Skills NL in my draw pile."
     ]
   },
   "Calculated Gamble": {
@@ -430,10 +430,10 @@
   "Finisher": {
     "NAME": "Finisher",
     "DESCRIPTION": "Deal !D! damage for each Attack played this turn.",
-    	"EXTENDED_DESCRIPTION": [
-    	" NL (You have played ",
-    	" Attack.)",
-    	" Attacks.)"
+    "EXTENDED_DESCRIPTION": [
+      " NL (You have played ",
+      " Attack.)",
+      " Attacks.)"
     ]
   },
   "Dark Embrace": {
@@ -457,7 +457,7 @@
     "NAME": "Defend",
     "DESCRIPTION": "Gain !B! Block."
   },
-    "Defend_B": {
+  "Defend_B": {
     "NAME": "Defend",
     "DESCRIPTION": "Gain !B! Block."
   },
@@ -494,7 +494,7 @@
     "DESCRIPTION": "Exhaust."
   },
   "AscendersBane": {
-    "NAME": "Ascender’s Bane",
+    "NAME": "Ascender's Bane",
     "DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
   },
   "Barricade": {
@@ -513,9 +513,9 @@
   "Secret Weapon": {
     "NAME": "Secret Weapon",
     "DESCRIPTION": "Choose an Attack from your draw pile and place it into your hand. NL Exhaust.",
-	"UPGRADE_DESCRIPTION": "Choose an Attack from your draw pile and place it into your hand.",
-	"EXTENDED_DESCRIPTION": [
-    	"There are no Attacks NL in my draw pile."
+    "UPGRADE_DESCRIPTION": "Choose an Attack from your draw pile and place it into your hand.",
+    "EXTENDED_DESCRIPTION": [
+      "There are no Attacks NL in my draw pile."
     ]
   },
   "Apotheosis": {
@@ -583,7 +583,7 @@
     "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! card.",
     "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! cards.",
     "EXTENDED_DESCRIPTION": [
-    	"I can't play this card."	
+      "I can't play this card."
     ]
   },
   "Sentinel": {
@@ -638,7 +638,7 @@
   "Enlightenment": {
     "NAME": "Enlightenment",
     "DESCRIPTION": "Reduce the cost of cards in your hand to 1 this turn.",
-	"UPGRADE_DESCRIPTION": "Reduce the cost of cards in your hand to 1 this combat."
+    "UPGRADE_DESCRIPTION": "Reduce the cost of cards in your hand to 1 this combat."
   },
   "Purity": {
     "NAME": "Purity",
@@ -706,8 +706,8 @@
     "NAME": "Nightmare",
     "DESCRIPTION": "Choose a card. NL Next turn, add !M! copies of that card into your hand. Exhaust.",
     "EXTENDED_DESCRIPTION": [
-    	"I can only use NL ",
-    	" NL once per turn."	
+      "I can only use NL ",
+      " NL once per turn."
     ]
   },
   "Bloodletting": {
@@ -726,10 +726,10 @@
   "Flechettes": {
     "NAME": "Flechettes",
     "DESCRIPTION": "Deal !D! damage for each Skill in your hand.",
-	"EXTENDED_DESCRIPTION": [
-    	" NL (You have ",
-    	" Skill).",
-    	" Skills)."
+    "EXTENDED_DESCRIPTION": [
+      " NL (You have ",
+      " Skill).",
+      " Skills)."
     ]
   },
   "Perfected Strike": {
@@ -744,7 +744,7 @@
   "Masterful Stab": {
     "NAME": "Masterful Stab",
     "DESCRIPTION": "Can only be played if there are no other cards in your hand. NL Deal !D! damage.",
-	"UPGRADE_DESCRIPTION": "This has to be my NL only card."
+    "UPGRADE_DESCRIPTION": "This has to be my NL only card."
   },
   "Good Instincts": {
     "NAME": "Good Instincts",
@@ -767,11 +767,11 @@
     "NAME": "Normality",
     "DESCRIPTION": "Unplayable. NL You cannot play more than 3 cards this turn.",
     "EXTENDED_DESCRIPTION": [
-    	"I can only play up to NL #r3 cards this turn.",
-    	"Unplayable. NL You cannot play more than ",
-    	" cards per turn.",
-		" cards per turn. NL You have played ",
-		" card this turn."	
+      "I can only play up to NL #r3 cards this turn.",
+      "Unplayable. NL You cannot play more than ",
+      " cards per turn.",
+      " cards per turn. NL You have played ",
+      " card this turn."
     ]
   },
   "Accuracy": {
@@ -828,7 +828,7 @@
     "NAME": "Strike",
     "DESCRIPTION": "Deal !D! damage."
   },
-    "Strike_B": {
+  "Strike_B": {
     "NAME": "Strike",
     "DESCRIPTION": "Deal !D! damage."
   },

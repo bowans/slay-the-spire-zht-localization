@@ -34,10 +34,11 @@
       "瑞典语",
       "挪威语",
       "泰语",
-      "塞尔维亚语",
+      "塞尔维亚语（西里尔字母）",
       "乌克兰语",
       "越南语",
-      "匈牙利语"
+      "匈牙利语",
+      "塞尔维亚语（拉丁字母）"
     ]
   },
   "Proceed Button": {
@@ -947,7 +948,8 @@
       " NL 今日挑战： NL  #y职业： NL  ",
       " NL  #y今日特效： ",
       "每日特效： ",
-      "排行榜"
+      "排行榜",
+      "*Achievements are off for Daily Climb."
     ]
   },
   "MenuPanels": {
@@ -1028,7 +1030,8 @@
       "0000000000",
       "输入新种子",
       "确认",
-      "取消"
+      "取消",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used."
     ]
   }
 }

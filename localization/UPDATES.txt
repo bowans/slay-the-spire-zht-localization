@@ -1,5 +1,38 @@
 Updates for Translators!
 
+04/18/2018:
+ui.json
+	"DailyScreen"
+		"*Achievements are off for Daily Climb."
+	"SeedPanel"
+		"*Achievements and Leaderboards are disabled if a custom Seed is used."
+cards.json
+	"Crippling Poison"
+		 "DESCRIPTION": "Apply !M! Poison. NL Apply !M! Weak." ->
+		 "DESCRIPTION": "Apply !M! Poison and 2 Weak to ALL enemies. NL Exhaust." 
+		 
+----------------------------------
+
+04/17/2018:
+relics.json
+	"On Card Reward screens you have #y1 #yadditional #ycard to choose from."
+	"On future Card Reward screens you have #y1 #yadditional #ycard to choose from."
+cards.json
+	"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a Burn to your discard pile."
+
+----------------------------------
+
+04/16/2018:
+events.json
+	"Sensory Stone"
+		"#g~TRIUMPH.~ NL NL The remains, of a #p~ghostly~ #p~creature,~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...", ->
+		"#g~TRIUMPH.~ NL NL The remains, of a #p~ghostly~ #p~creature,~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...",
+relics.json
+	"Astrolabe"
+		"Upon pickup, choose and #yTransform #b3 cards, then #yUpgrade them.",  -> "Upon pick up, choose and #yTransform #b3 cards, then #yUpgrade them.",
+
+----------------------------------
+
 04/12/2018:
 relics.json
 	"Pandora's Box"

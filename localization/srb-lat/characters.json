@@ -1,0 +1,148 @@
+{
+  "Ironclad": {
+    "NAMES": [
+      "Železni"
+    ],
+    "TEXT": [
+      "Jedini preostali vitez iz odreda Železnih. NL Trampio dušu za đavolje moći."
+    ]
+  },
+  "Crowbot": {
+    "NAMES": [
+      "Crowbot"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Nema"
+    ],
+    "TEXT": [
+      "Smrtonosni lovac iz maglom opasanih zemalja. NL Neprijatelje istrebljuje bodežima i otrovom."
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Njov"
+    ],
+    "TEXT": [
+      "~Pozdrav...~ NL ~Ja..~ ~sam~ ~Njov...~",
+      "~Zdravo...~ NL ~Ponovo..~",
+      "~Pozdrav...~",
+      "~Još~ ~jedan~ NL ~pokušaj...?~",
+      "~Stigni~ ~do~ ~vožda...~ NL ~ako~ ~želiš~ ~moj..~ ~blagoslov...~",
+      "~Za~ ~početak...~ NL ~se~ ~barem~ ~suoči..~ NL ~sa~ ~prvim~ ~voždom...~",
+      "~Ja~ ~te~ ~vratih...~",
+      "~Biraj...~",
+      "~Podato...~",
+      "~Rizik...~ NL ~..nagrada....~",
+      "~Vreme~ ~je~ ~za~ NL ~IZAZOV...~",
+      "Nagrade"
+    ],
+    "OPTIONS": [
+      "[Nastavi]",
+      "[Razgovaraj]",
+      "[Preskoči]",
+      "[Pođi]"
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gIzaberi #gkartu ]",
+      "[ #gZadobi #gretku #gnasumičnu #gkartu ]",
+      "[ #gUkloni #gkartu ]",
+      "[ #gPoboljšaj #gkartu ]",
+      "[ #gPreobrazi #gkartu ]",
+      "[ #gZadobi #gtri #gnasumična #gnapitka ]",
+      "[ #gZadobi #gobičnu #gnasumičnu #grelikviju ]",
+      "[ #gMaks. #gZP #g+",
+      "[ #gZadobi #g",
+      " #gzlato ]",
+      "#gUkloni #gdve #gkarte ]",
+      "#gZadobi #gnasumičnu #gretku #grelikviju ]",
+      "#gIzaberi #gretku #gkartu ]",
+      "#gZadobi #g",
+      " #gzlato ]",
+      "#gPreobrazi #gdve #gkarte ]",
+      "#gmaks. #gZP #g+",
+      "[ #rŽrtvuj #r",
+      " #rmaks. #rZP ",
+      "[ #rOdbaci #rsve #rzlato ",
+      "[ #rPostani #ruklet ",
+      "[ #rŽrtvuj #r50% #rtrenutnih #rZP ",
+      "Izaberi kartu",
+      "Ukloni kartu",
+      "Ukloni dve karte",
+      "Preobrazi kartu",
+      "Preobrazi dve karte",
+      "Poboljšaj kartu",
+      "[ #gNeprijatelji #gu #gsledeće #gtri #gborbe #gće #gimati #gpo #gjedan #gZP ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rOdbaci #rurođenu #rrelikviju #gZadobi #gnasumičnu #gvoždovsku #grelikviju ]"
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Nastavi",
+      "~Dobar~ ~dan!~"
+    ],
+    "TEXT": [
+      "Ćao! NL Kupi nešto! NL Kupi kupi kupi!",
+      "Sviđa mi se tvoja frizura",
+      "Imaš li malo vremena?",
+      "Jel više voliš kuce ili mace?",
+      "Izgledaš ~opasno,~ NL hehe...",
+      "Polako, bez žurbe... NL ..... NL ... ili sa",
+      "Jel ti se sviđa ovaj tepih? NL Nije na prodaju",
+      "Podrži male preduzetnike!",
+      "Maske su kul, prvi bih znao!",
+      "Hmm... NL ...hmm... NL O!",
+      "Podivani i poslušaj!",
+      "Opasno je lutati sam! Poveri mi sve svoje zlato!",
+      "Kupi neš'",
+      "~*ZEV*~",
+      "Volim zlato.",
+      "Moja omiljena boja je plava. NL Tvoja?"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Zdravo~ NL ~zdravo!~",
+      "'Ajde sad, NL treba ti NL još #rzlata.",
+      "'Ej drugar, nemaš dovoljno #rnovca!",
+      "Švorc?",
+      "Nem'š dovoljno #rzlata.",
+      "To ne možeš da priuštiš.",
+      "Ovde ne doniramo.",
+      "~Hvaaaala~",
+      "Još jedna prodaja... NL hohoho! NL Zvec - @ZVEC!@",
+      "@PRODATO!@",
+      "Nema povraćaja.",
+      "Prijatan dan.",
+      "Pođi",
+      "Ukloni kartu iz špila."
+    ],
+    "TEXT": [
+      "Ćao! NL Kupi nešto! NL Kupi kupi kupi!",
+      "Sviđa mi se tvoja frizura",
+      "Imaš li malo vremena?",
+      "Jel više voliš kuce ili mace?",
+      "Izgledaš ~opasno,~ NL hehe...",
+      "Polako, bez žurbe... NL ..... NL ... ili sa",
+      "Jel ti se sviđa ovaj tepih? NL Nije na prodaju",
+      "Podrži male preduzetnike!",
+      "Maske su kul, prvi bih znao!",
+      "Jel si video mog kurira?",
+      "Podivani i poslušaj!",
+      "Opasno je lutati sam! Poveri mi sve svoje zlato!",
+      "Kupi neš'",
+      "~*ZEV*~",
+      "Volim zlato.",
+      "Moja omiljena boja je plava. NL Tvoja?"
+    ]
+  }
+}

@@ -276,9 +276,9 @@
     ]
   },
   "Flight": {
-    "NAME": "Flucht",
+    "NAME": "Flug",
     "DESCRIPTIONS": [
-      "Du reduzierst den erlittenen #yAngriffsschaden um #b50%. Wird aufgehoben, wenn in einem Zug #b3 Mal #yAngriffsschaden verursacht wird."
+      "Verringert #yAngriffsschaden um #b50%. Wird aufgehoben, wenn in einem Zug #b3 Mal #yAngriffsschaden verursacht wird."
     ]
   },
   "Nullify Attack": {
@@ -343,7 +343,7 @@
   "Intangible": {
     "NAME": "Ungreifbar",
     "DESCRIPTIONS": [
-      "Du reduzierst JEGLICHEN erlittenen Schaden und TP-Verlust auf #b1 für diesen Zug. Ungreifbar wird jeden zweiten Zug neu angewendet."
+      "Verringert in diesem Zug JEGLICHEN erlittenen Schaden und TP-Verlust auf #b1. Ungreifbar wird jeden zweiten Zug neu angewendet."
     ]
   },
   "Inverted": {
@@ -678,7 +678,7 @@
   "Unawakened": {
     "NAME": "Noch nicht erwacht",
     "DESCRIPTIONS": [
-      "Dieser Gegner ist noch nicht erwacht …"
+      "Dieser Gegner ist noch nicht erwacht…"
     ]
   },
   "Unstable": {
@@ -739,23 +739,23 @@
     ]
   },
   "GrowthPower": {
-    "NAME": "Growth",
+    "NAME": "Wachstum",
     "DESCRIPTIONS": [
-      "At the end of its turn, gains #b",
-      " #yStrength."
+      "Erhält am Ende seines Zuges #b",
+      " #yStärke."
     ]
   },
   "IntangiblePlayer": {
-    "NAME": "Intangible",
+    "NAME": "Ungreifbar",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
+      "Verringert ALLEN genommenen Schaden und TP-Verlust auf #b1."
     ]
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
+    "NAME": "Geistform",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b ",
-      " Dexterity."
+      "Verliere am Ende des Zuges #b ",
+      " Geschicklichkeit."
     ]
   }
 }

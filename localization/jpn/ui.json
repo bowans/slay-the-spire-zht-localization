@@ -59,7 +59,7 @@
       "アセンション",
       "デイリーチャレンジ",
       "シード: %s",
-      "Custom Seed: %s"
+      "カスタムシード: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -141,7 +141,8 @@
       "Serbian",
       "Ukrainian",
       "Vietnamese",
-      "Hungarian"
+      "Hungarian",
+      "Serbian (Latin)"
     ]
   },
   "Proceed Button": {
@@ -297,7 +298,8 @@
       "0000000000",
       "新しいシード値を入力",
       "決定",
-      "キャンセル"
+      "キャンセル",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used."
     ]
   },
   "AbstractCard": {
@@ -669,7 +671,8 @@
       " NL 今日のチャレンジ: NL #yクラス: NL ",
       " NL #y特殊効果: ",
       "特殊効果: ",
-      "ランキング"
+      "ランキング",
+      "*Achievements are off for Daily Climb."
     ]
   },
   "SettingsScreen": {
@@ -699,7 +702,7 @@
       "レアリティ",
       "タイプ",
       "A～Z",
-      "Cost",
+      "コスト",
       "Jump To:"
     ]
   },
@@ -799,7 +802,7 @@
       "シード ",
       "ランダムシード",
       "開始時のシード値を元にして攻略中のランダム要素が生成される。",
-      "　シードを設定"
+      "シードを設定"
     ]
   },
   "AscensionModeDescriptions": {

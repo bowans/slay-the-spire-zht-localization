@@ -14,16 +14,16 @@
     },
     "STRENGTH": {
       "NAMES": [
-        "Stärke"
+        "stärke"
       ],
       "DESCRIPTION": "Stärke lässt Angriffe zusätzlichen Schaden verursachen."
     },
     "SHIV": {
       "NAMES": [
-        "Klinge",
-        "Klingen"
+        "klinge",
+        "klingen"
       ],
-      "DESCRIPTION": "Klingen sind #bkostenlose Angriffskarten die bei Benutzung erschöpfen."
+      "DESCRIPTION": "Klingen sind #bkostenlose Angriffskarten, die bei Benutzung erschöpfen."
     },
     "ETHEREAL": {
       "NAMES": [
@@ -34,7 +34,7 @@
     "UPGRADE": {
       "NAMES": [
         "verbessern",
-        "upgraded"
+        "verbessert"
       ],
       "DESCRIPTION": "Verbessern macht Karten mächtiger. Karten können nur ein mal verbessert werden."
     },
@@ -75,7 +75,7 @@
     },
     "BLOCK": {
       "NAMES": [
-        "Block",
+        "block",
         "blockt"
       ],
       "DESCRIPTION": "Verhindert Schaden bis zum nächsten Zug."
@@ -89,19 +89,21 @@
     },
     "STRIKE": {
       "NAMES": [
-        "Schlag"
+        "schlag"
       ],
-      "DESCRIPTION": "Jede Karte mit „Schlag“ in ihrem Namen."
+      "DESCRIPTION": "Jede Karte mit dem Wort \"Schlag\" in ihrem Namen."
     },
     "CURSE": {
       "NAMES": [
-        "Fluch"
+        "fluch"
       ],
       "DESCRIPTION": "Fluchkarten sind negative Karten, die in deinem Deck bleiben."
     },
     "TRANSFORM": {
       "NAMES": [
-        "transformieren"
+        "transformieren",
+        "transformierst",
+        "transformiere"
       ],
       "DESCRIPTION": "Transformierte Karten werden zu einer Karte von zufälliger Seltenheit."
     },
@@ -114,26 +116,27 @@
     },
     "RETAIN": {
       "NAMES": [
+        "behalte",
         "behalten"
       ],
       "DESCRIPTION": "Behaltene Karten werden am Ende des Zuges nicht abgeworfen."
     },
     "STATUS": {
       "NAMES": [
-        "Status"
+        "status"
       ],
       "DESCRIPTION": "Statuskarten werden am Ende des Kampfes entfernt."
     },
     "WOUND": {
       "NAMES": [
-        "Wunde",
-        "Wunden"
+        "wunde",
+        "wunden"
       ],
       "DESCRIPTION": "Wunden sind unspielbare Statuskarten."
     },
     "DEXTERITY": {
       "NAMES": [
-        "Geschicklichkeit"
+        "geschicklichkeit"
       ],
       "DESCRIPTION": "Geschicklichkeit verbessert von Karten erhaltenen Block."
     },
@@ -157,28 +160,28 @@
     },
     "ARTIFACT": {
       "NAMES": [
-        "Artifakt"
+        "artefakt"
       ],
       "DESCRIPTION": "Negiert den nächsten Debuff."
     },
     "INTANGIBLE": {
       "NAMES": [
-        "Unangreifbar"
+        "unangreifbar"
       ],
       "DESCRIPTION": "Reduziere jeglichen genommenen Schaden auf #b1."
     },
     "BURN": {
       "NAMES": [
-        "burn",
-        "burns"
+        "brennen",
+        ""
       ],
-      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+      "DESCRIPTION": "Brennen ist eine unspielbare Statuskarte, die dir Schaden zufügt."
     },
     "DAZED": {
       "NAMES": [
-        "dazed"
+        "benommen"
       ],
-      "DESCRIPTION": "Dazed are unplayable status cards."
+      "DESCRIPTION": "Benommen ist eine unspielbare Statuskarte."
     }
   }
 }

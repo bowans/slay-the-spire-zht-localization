@@ -579,7 +579,7 @@
   },
   "Pandora's Box": {
     "NAME": "Büchse der Pandora",
-    "FLAVOR": "Du hast ein mulmiges Gefühl dabei, dies zu öffnen.",
+    "FLAVOR": "Solltest du sie öffnen? Du hast ein mulmiges Gefühl.",
     "DESCRIPTIONS": [
       "#bTransformiere alle Schläge und Verteidigungen.",
       "Die Büchse der Pandora wurde geöffnet …"
@@ -649,7 +649,7 @@
     "NAME": "Fragekarte",
     "FLAVOR": "„Jene mit mehr Auswahl mindern die Kehrseite des Chaos.“ – Kublai der Große",
     "DESCRIPTIONS": [
-      "Wähle auf Kartenbelohnungs-Bildschirmen von #b4 Karten statt von #b3."
+      "Du hast auf Kartenbelohnungs-Bildschirmen #y1 #yzusätzliche #yKarte zur Auswahl."
     ]
   },
   "Red Circlet": {
@@ -782,7 +782,7 @@
     "NAME": "Sozu",
     "FLAVOR": "Du merkst, wie magische Flüssigkeiten in der Nähe dieses Relikts die Wirkung verlieren.",
     "DESCRIPTIONS": [
-      " Du kannst keine Tränke mehr nutzen. ",
+      " Du kannst keine Tränke mehr aufnehmen. ",
       "Zu Beginn jedes Zuges erhältst du [R] .",
       "Zu Beginn jedes Zuges erhältst du [G] .",
       "Zu Beginn jedes Zuges erhältst du [B] ."
@@ -1073,14 +1073,14 @@
     "NAME": "Gefrorenes Ei (BETA)",
     "FLAVOR": "Ein regloses und gefrorenes Ei, das niemals schlüpfen wird.",
     "DESCRIPTIONS": [
-      "Jedes mal, wenn du eine #yKraftkarte erhältst, ist sie #yverbessert."
+      "Jedes mal, wenn du eine #yMachtkarte erhältst, ist sie #yverbessert."
     ]
   },
   "Toxic Egg 2": {
     "NAME": "Toxisches Ei (BETA)",
     "FLAVOR": "\"Was eine fabelhafte Entdeckung! Es scheint ein inaktives Ei einer magischen Kreatur zu sein. Wer oder was hat es erschaffen?\" - Ranwid",
     "DESCRIPTIONS": [
-      "Jedes mal, wenn du eine #yFähigkeitskarte erhältst, ist sie #yverbessert."
+      "Jedes mal, wenn du eine #yFertigkeitskarte erhältst, ist sie #yverbessert."
     ]
   }
 }

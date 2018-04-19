@@ -127,7 +127,20 @@
         "負傷",
         "wounds"
       ],
-      "DESCRIPTION": "負傷はプレイ不可の状態異常カード。"
+      "DESCRIPTION": "負傷はプレイできない状態異常カード。"
+    },
+    "DAZED": {
+      "NAMES": [
+        "めまい"
+      ],
+      "DESCRIPTION": "めまいはプレイできない状態異常カード。"
+    },
+    "BURN": {
+      "NAMES": [
+        "火傷",
+        ""
+      ],
+      "DESCRIPTION": "火傷はプレイできず、あたなにダメージを与える状態異常カード。"
     },
     "FRAIL": {
       "NAMES": [
@@ -165,19 +178,6 @@
     },
     "TEXT": [
       "エナジーはあなたの手札からカードをプレイするときに消費する。"
-    ],
-    "BURN": {
-      "NAMES": [
-        "burn",
-        "burns"
-      ],
-      "DESCRIPTION": "Burns are unplayable status cards that damage you."
-    },
-    "DAZED": {
-      "NAMES": [
-        "dazed"
-      ],
-      "DESCRIPTION": "Dazed are unplayable status cards."
-    }
+    ]
   }
 }

@@ -6,11 +6,11 @@
   },
   "Immolate": {
     "NAME": "犠牲",
-    "DESCRIPTION": "カードを 1 枚廃棄する。それが 状態異常 か 呪い の場合、敵全体に !D! ダメージを与える。"
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 火傷を1枚山札に加える。"
   },
   "Regret": {
     "NAME": "後悔",
-    "DESCRIPTION": "使用不可 。 NL ターン終了時に、手札のカード 1 枚につき HP が -1。"
+    "DESCRIPTION": "使用不可 。 NL ターン終了時に、手札のカード 1 枚につき HP を1失う。"
   },
   "Crippling Poison": {
     "NAME": "劇毒",
@@ -69,6 +69,10 @@
     "NAME": "発火",
     "DESCRIPTION": "筋力 !M! を得る。"
   },
+  "Wraith Form v2": {
+    "NAME": "死霊化",
+    "DESCRIPTION": "無形 !M! を得る。 NL ターン終了時に、敏捷性1を失う。"
+  },
   "Wraith Form": {
     "NAME": "死霊化",
     "DESCRIPTION": "「スキル」をプレイするたび、ランダムな敵に !M! ダメージを与える。"
@@ -83,7 +87,7 @@
   },
   "Offering": {
     "NAME": "供物",
-    "DESCRIPTION": "HPを 4 を失う。 NL [R] [R] を得る。 NL カードを !M! 枚引く。 NL 廃棄 。"
+    "DESCRIPTION": "HPを 4 失う。 NL [R] [R] を得る。 NL カードを !M! 枚引く。 NL 廃棄 。"
   },
   "Exhume": {
     "NAME": "発掘",
@@ -184,7 +188,7 @@
   },
   "Reckless Charge": {
     "NAME": "無謀なる突進",
-    "DESCRIPTION": "1 の 弱体 を得る。 NL !D! ダメージを与える。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL めまい 1枚を山札に加える。"
   },
   "Decay": {
     "NAME": "腐敗",
@@ -200,7 +204,7 @@
   },
   "Hemokinesis": {
     "NAME": "ヘモキネシス",
-    "DESCRIPTION": "HP !M! を失う。 NL !D! ダメージを与える。"
+    "DESCRIPTION": "HPを !M! 失う。 NL !D! ダメージを与える。"
   },
   "Intimidate": {
     "NAME": "威嚇",
@@ -212,7 +216,7 @@
   },
   "Choke": {
     "NAME": "窒息",
-    "DESCRIPTION": "!D! ダメージを与える。 NL このターンでカードをプレイするたび、ターゲットの敵がHP !M! を失う。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL このターンカードをプレイするたび、対象の敵はHP !M! を失う。"
   },
   "Juggernaut": {
     "NAME": "ジャガーノート",
@@ -302,7 +306,7 @@
   },
   "Pain": {
     "NAME": "痛み",
-    "DESCRIPTION": "使用不可 。 NL 手札にある状態で他のカードをプレイするたび、HP -1。"
+    "DESCRIPTION": "使用不可 。 NL 手札にある状態で他のカードをプレイするたび、HPを1失う。"
   },
   "Burst": {
     "NAME": "バースト",
@@ -572,7 +576,7 @@
   "Malaise": {
     "NAME": "不快感",
     "DESCRIPTION": "敵は 筋力　X　を失う。 脱力　X を与える。 NL 廃棄 。",
-    "UPGRADE_DESCRIPTION": "敵は X +1 の 筋力 を失う。 X +1 の 脱力 を与える。 NL 廃棄 。"
+    "UPGRADE_DESCRIPTION": "敵は 筋力　X+1　を失う。 脱力　X+1 を与える。 NL 廃棄 。"
   },
   "Reflex": {
     "NAME": "反射",
@@ -708,8 +712,8 @@
   },
   "Bloodletting": {
     "NAME": "瀉血",
-    "DESCRIPTION": "[R] を得る。 NL HP 3 を失う。",
-    "UPGRADE_DESCRIPTION": "[R] [R] を得る。 NL HP 3 を失う。"
+    "DESCRIPTION": "[R] を得る。 NL HPを 3 失う。",
+    "UPGRADE_DESCRIPTION": "[R] [R] を得る。 NL HPを 3 失う。"
   },
   "Concentrate": {
     "NAME": "集中",
@@ -883,9 +887,5 @@
   "Expertise": {
     "NAME": "職人技",
     "DESCRIPTION": "手札が !M! 枚になるまでカードを引く。"
-  },
-  "Wraith Form v2": {
-    "NAME": "Wraith Form",
-    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
   }
 }

@@ -71,7 +71,7 @@
       "???",
       "Ein unbekannter Raum. NL NL Du könntest auf Monster, Schätze, Läden oder etwas völlig anderes treffen.",
       "Händler",
-      "Läden",
+      "Laden",
       "Ein mysteriöser Händler verkauft seine Waren in diesen Räumen. NL NL Gib hier dein wohlverdientes #yGold aus!",
       "Schatz",
       "Schatzräume",
@@ -191,16 +191,16 @@
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-      "Boss",
+      "Boss-",
       "Gewöhnliches",
-      "Veraltet",
+      "Veraltetes",
       "Seltenes",
-      "Laden",
-      "Event",
-      "Anfänger",
+      "Laden-",
+      "Ereignis-",
+      "Start-",
       "Ungewöhnliches",
-      "Gesperrt",
-      "Unbekannt",
+      "Gesperrtes",
+      "Unbekanntes",
       " Relikt",
       "Dieses Relikt muss noch freigeschaltet werden.",
       "Dieses Relikt muss noch entdeckt werden."
@@ -342,17 +342,17 @@
       "Jenseits-Eliten getötet",
       "Sprinter",
       "Lichtgeschwindigkeit",
-      "Hochländer",
+      "Highlander",
       "Sammlung",
       "Volles Set",
-      "Knabe",
+      "Bettler",
       "Bibliothekar",
       "Enzyklopädie",
       "Gut genährt",
       "Vollgestopft",
       "Verflucht!",
       "Selbst schuld",
-      "",
+      "Champion",
       "Perfekt",
       "Mehr als Perfekt",
       "Overkill",
@@ -387,8 +387,8 @@
       "Überspringen",
       "Wähle eine Karte",
       "+2 Max TP",
-      "VOTE NOW: ",
-      "s left."
+      "JETZT ABSTIMMEN: ",
+      "s übrig."
     ]
   },
   "BossRelicSelectScreen": {
@@ -397,8 +397,8 @@
       "Bestätige deine Auswahl",
       "Wähle ein Relikt",
       "Überspringen",
-      "VOTE NOW: ",
-      "s left."
+      "JETZT ABSTIMMEN: ",
+      "s übrig."
     ]
   },
   "GridCardSelectScreen": {
@@ -448,7 +448,7 @@
       "Gesamtlautstärke NL Musiklautstärke NL Effektlautstärke",
       "Hintergrundgeräusche NL Stummschalten, falls im Hintergrund",
       "Präferenzen",
-      "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Bestätigung beim Wählen 1 Karte deaktivieren",
+      "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Wählen einer einzelnen Karte ohne Bestätigen",
       "Schnellmodus",
       "",
       "Diverses",
@@ -458,7 +458,7 @@
       "Speichern & Verlassen",
       "NL NL VSync",
       "Spieltester Kartendesign",
-      "Show Card Quick Select Keys"
+      "Zeige Tasten für Kartenschnellwahl"
     ]
   },
   "SettingsScreen": {
@@ -488,16 +488,16 @@
       "Seltenheit",
       "Typ",
       "A–Z",
-      "Cost",
-      "Jump To:"
+      "Kosten",
+      "Springe zu:"
     ]
   },
   "EarlyAccessPopup": {
     "TEXT": [
       "Was ist Early Access?",
       "Was ist eine Open Beta?",
-      "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! NL Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-Diskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
-      "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! NL Noch dazu spielst du die Beta-Version des Spiels. NL NL Lass uns bitte von jeglichen Problemen wissen, die während des Spielens auftreten, aber sei nicht von Platzhaltern für kommende Inhalte überrascht. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
+      "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-Diskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
+      "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! Noch dazu spielst du die Beta-Version des Spiels. NL Lass uns bitte von jeglichen Problemen wissen, die während des Spielens auftreten, aber sei nicht von Platzhaltern für kommende Inhalte überrascht. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
       "Klicke irgendwohin, um zu starten"
     ]
   },
@@ -548,8 +548,8 @@
       "Einzigartige und mächtige Relikte, die nur selten gefunden werden können.",
       "Boss:",
       "Relikte, die ausschließlich in Bosstruhen gefunden werden können.",
-      "Event:",
-      "Relikte, die nur durch Events erhalten werden können.",
+      "Ereignis:",
+      "Relikte, die nur durch Ereignisse erhalten werden können.",
       "Laden:",
       "Relikte, die nur beim Händler gekauft werden können."
     ]
@@ -579,11 +579,11 @@
       "Aufstiegsmodus (Level ",
       ")",
       "Aufstiegsmodus",
-      "EXPERIMENTAL: Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)",
+      "EXPERIMENTELL: NL Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)",
       "Seed ",
-      "Random Seed",
-      "The starting seed is used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Zufälliger Seed",
+      "Mit einem Startseed wird bestimmt, was in diesem Durchlauf zufällig auftaucht.",
+      "Seed einstellen"
     ]
   },
   "AbstractMonster": {
@@ -686,27 +686,28 @@
   },
   "LanguageDropdown": {
     "TEXT": [
-      "Brazilian Portugese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "English",
-      "French",
-      "German",
-      "Italian",
-      "Japanese",
-      "Korean",
-      "Polish",
-      "Russian",
-      "Spanish",
-      "Hebrew",
-      "Turkish",
-      "Swedish",
-      "Norwegian",
+      "Brasilian. Portugiesisch",
+      "Chinesisch (Vereinfacht)",
+      "Chinesisch (Traditionell)",
+      "Englisch",
+      "Französisch",
+      "Deutsch",
+      "Italienisch",
+      "Japanisch",
+      "Koreanisch",
+      "Polnisch",
+      "Russisch",
+      "Spanisch",
+      "Hebräisch",
+      "Türkisch",
+      "Schwedisch",
+      "Norwegisch",
       "Thai",
-      "Serbian",
-      "Ukrainian",
-      "Vietnamese",
-      "Hungarian"
+      "Serbisch",
+      "Ukrainisch",
+      "Vietnamesisch",
+      "Ungarisch",
+      "Serbisch (Latinisiert)"
     ]
   },
   "UnlockTextEffect": {
@@ -848,9 +849,9 @@
       "1. Eliten spawnen öfter.",
       "2. Normale Gegner sind tödlicher.",
       "3. Eliten sind tödlicher.",
-      "4. Bosses sind tödlicher.",
-      "5. Heilung nach Bosskämpfen ist verringert.",
-      "6. Sei direkt am Beginn des Durchlaufes angeschlagen.",
+      "4. Bosse sind tödlicher.",
+      "5. Weniger Heilung nach Bosskämpfen.",
+      "6. Beginne jeden Run mit Schaden.",
       "7. Normale Gegner halten mehr aus.",
       "8. Eliten halten mehr aus.",
       "9. Bosse halten mehr aus.",
@@ -859,14 +860,14 @@
       "12. Verbesserte Karten erscheinen seltener.",
       "13. Arme Bosse.",
       "14. Niedrigere max TP.",
-      "15. Ungünstige Events."
+      "15. (Höchstes Level) Ungünstige Ereignisse."
     ]
   },
   "MerchantImageTextNotInGame": {
     "TEXT": [
       "Kartenentfernungsdienst",
       "AUSVERKAUF",
-      "Not for Sale",
+      "Unverkäuflich",
       "Ausverkauft",
       "Oh nein!"
     ]
@@ -892,19 +893,19 @@
       "Keine Run-Historie gefunden. NL Geh und Slay the Spire!",
       "Aufstieg Level: ",
       "Besiegt auf Ebene %1$d von %2$s",
-      "Abandoned Run on Floor %d",
+      "Run verlassen auf Ebene %d",
       "Sieg!",
       "Karten",
       "Relikte",
       "Starter",
-      "Common",
-      "Uncommon",
-      "Rare",
-      "Special",
-      "Curse",
+      "Gewöhnlich",
+      "Ungewöhnlich",
+      "Selten",
+      "Besondere",
+      "Fluch",
       "Boss",
-      "Shop",
-      "Unknown",
+      "Laden",
+      "Unbekannt",
       "%1$d %2$s",
       "%1$s (%2$d):",
       "Score: %d",
@@ -918,7 +919,7 @@
       "Nur Aufstieg",
       "Nur tägliche Herausforderung",
       "Seed: %s",
-      "Custom Seed: %s"
+      "Eigener Seed: %s"
     ]
   },
   "CreditsScreen": {
@@ -928,7 +929,7 @@
   },
   "TwitchVoter": {
     "TEXT": [
-      "VOTE NOW: "
+      "JETZT ABSTIMMEN: "
     ]
   },
   "DailyScreen": {
@@ -947,7 +948,8 @@
       " NL Heutige Herausforderung: NL TAB #yKlasse: NL TAB ",
       " NL TAB #yMods: ",
       "Modifikatoren: ",
-      "Ranglisten"
+      "Ranglisten",
+      "*Achievements are off for Daily Climb."
     ]
   },
   "MenuPanels": {
@@ -957,7 +959,7 @@
       "Breche auf eine Quest auf, um den Spire zu erschlagen.",
       "Täglicher Aufstieg",
       "",
-      "Eine neue Herausforderung ist jeden Tag verfügbar.\n\nTrete gegen andere Spieler an, um den Highscore zu erhalten!",
+      "Eine neue Herausforderung ist jeden Tag verfügbar.\n\nTritt gegen andere Spieler an, um den Highscore zu erhalten!",
       "Aufstiegsmodus",
       "",
       "Der Spire wird mit jedem Sieg stärker.\n\nTeste die Grenzen deiner stärksten Strategien.",
@@ -966,31 +968,31 @@
       "Sieh dir alle Karten an, die dir im Spire begegnet sind.",
       "Reliktsammlung",
       "",
-      "Untersuche die vielfältigen Examine the various Schmuckstücke und Artifakte, die dir bereits begegnet sind.",
+      "Untersuche die vielfältigen Schmuckstücke und Artefakte, die dir bereits begegnet sind.",
       "Bestiarium",
       "",
       "Dieses Feature ist noch nicht verfügbar.",
-      "Charakterstatistiken",
+      "Charakter- Statistiken",
       "",
       "Fortschritte und Statistiken jedes Charakters können hier eingesehen werden.",
       "Ranglisten",
       "",
-      "Sehe und vergleiche deinen Score mit dem anderer Spieler.",
+      "Sieh deinen Score an und vergleiche ihn mit dem anderer Spieler.",
       "Run-Historie",
       "",
       "Sieh dir deine vergangenen Versuche, den Spire zu erschlagen, an.",
-      "Spieleinstellungen",
+      "Spiel- Einstellungen",
       "",
-      "Ändere deine auflösung und schalte Optionen aus/ein.",
+      "Ändere deine Auflösung und wähle weitere Optionen für das Spiel.",
       "Eingabeoptionen",
       "",
       "Dieses Feature ist noch nicht verfügbar.",
       "Credits",
       "",
       "Sieh dir all die Leute an, die zu Slay the Spire beigetragen haben!",
-      "Unknown",
+      "Unbekannt",
       "",
-      "This feature is not yet available."
+      "Dieses Feature ist noch nicht verfügbar."
     ]
   },
   "RunHistoryPathNodes": {
@@ -998,7 +1000,7 @@
       "Unbekannt",
       "Gegner",
       "Elite",
-      "Event",
+      "Ereignis",
       "Boss",
       "Schatz",
       "Boss-Schatz",
@@ -1020,15 +1022,16 @@
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Wähle eine Attacke zum Zufügen zu deiner Hand aus."
+      "Wähle einen Angriff zum Zufügen zu deiner Hand aus."
     ]
   },
   "SeedPanel": {
     "TEXT": [
       "0000000000",
-      "Enter a new Seed",
-      "Confirm",
-      "Cancel"
+      "Gib einen neuen Seed ein",
+      "Bestätigen",
+      "Abbrechen",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used."
     ]
   }
 }
