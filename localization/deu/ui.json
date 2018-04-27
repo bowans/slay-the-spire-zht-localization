@@ -12,7 +12,7 @@
   "End Turn Button": {
     "TEXT": [
       "Zug beenden",
-      "Gegnerischer Zug"
+      "Gegnerzug"
     ]
   },
   "Proceed Button": {
@@ -27,7 +27,7 @@
   },
   "RetainCardsAction": {
     "TEXT": [
-      "Behalten"
+      "Behältst"
     ]
   },
   "AbstractChest": {
@@ -57,12 +57,12 @@
   },
   "SetupAction": {
     "TEXT": [
-      "Legen auf deinen Aufnahmestapel."
+      "auf deinen Nachziehstapel legst."
     ]
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-      "Wähle eine Fertigkeit, um sie deiner Hand hinzuzufügen"
+      "Wähle eine Fertigkeit, die du auf die Hand nimmst."
     ]
   },
   "Legend": {
@@ -117,7 +117,7 @@
     "TEXT": [
       "Schmied",
       "Verbessere eine Karte in deinem Deck.",
-      "Keine verbesserungsfähigen Karten."
+      "Keine verbesserbaren Karten."
     ]
   },
   "Toke Option": {
@@ -133,7 +133,7 @@
   },
   "DrawPilePanel": {
     "TEXT": [
-      "Mein Aufnahmestapel ist #rleer."
+      "Mein Nachziehstapel ist #rleer."
     ]
   },
   "PotionPopUp": {
@@ -142,7 +142,7 @@
       "Trinken",
       "Abwerfen",
       "Ich kann keine Tränke verwenden!",
-      "Ich kann das während des Kampfes nicht tun!"
+      "Im Kampf kann ich das nicht tun!"
     ]
   },
   "RenamePanel": {
@@ -155,7 +155,7 @@
   },
   "TopPanel": {
     "TEXT": [
-      " Ebene",
+      ". Ebene",
       " - Aufstieg ",
       " (Max. Level)"
     ]
@@ -186,22 +186,22 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Ausgeraubt …"
+      "Ausgeraubt..."
     ]
   },
   "SingleViewRelicPopup": {
     "TEXT": [
       "Boss-",
-      "Gewöhnliches",
-      "Veraltetes",
-      "Seltenes",
+      "Gewöhnliches ",
+      "Veraltetes ",
+      "Seltenes ",
       "Laden-",
       "Ereignis-",
       "Start-",
-      "Ungewöhnliches",
-      "Gesperrtes",
-      "Unbekanntes",
-      " Relikt",
+      "Ungewöhnliches ",
+      "Gesperrtes ",
+      "Unbekanntes ",
+      "Relikt",
       "Dieses Relikt muss noch freigeschaltet werden.",
       "Dieses Relikt muss noch entdeckt werden."
     ]
@@ -216,7 +216,7 @@
       "Unbekannt",
       "Verbesserung ansehen",
       "Status",
-      "Ammo",
+      "Munition",
       "Ich kann Karten nur während meines Zuges spielen.",
       "Ich bin #rVerwickelt ! NL Ich kann keine Angriffskarten spielen.",
       "Nicht genug #rEnergie.",
@@ -256,12 +256,12 @@
       "Von hier werden zu Beginn jedes Zuges Karten gezogen.",
       "(Gezeigte Karten sind in zufälliger Reihenfolge)",
       "Zurückkehren",
-      "Aufnahmestapel"
+      "Nachziehstapel"
     ]
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "Karten hier werden in deinen Aufnahmestapel gemischt, wenn ihm die Karten ausgehen.",
+      "Diese Karten werden in deinen Nachziehstapel gemischt, wenn dort die Karten ausgehen.",
       "Zurückkehren",
       "Abwurfstapel"
     ]
@@ -281,11 +281,6 @@
       "Duplizieren"
     ]
   },
-  "HiddenChamberAction": {
-    "TEXT": [
-      "Duplizieren"
-    ]
-  },
   "DeathScreen": {
     "TEXT": [
       "Fortsetzen",
@@ -296,7 +291,7 @@
       "Spielzeit",
       "Punktzahl",
       "Erobert",
-      "Tod …",
+      "Tod...",
       "Niederlage",
       "Besiegt!",
       "Entweiht",
@@ -313,13 +308,13 @@
       "Unzureichend vorbereitet.",
       "Unfassbar!",
       "Ist das mein wahres Potenzial?",
-      "War ja klar …",
-      "Nicht so …",
+      "War ja klar...",
+      "Nicht so...",
       "Nicht wirklich an der Spitze.",
-      "Der Spire verschlingt den Nächsten …",
-      "Dein Bewusstsein schwindet …",
+      "Der Spire verschlingt den Nächsten...",
+      "Dein Bewusstsein schwindet...",
       "Niederlage",
-      "Annahme",
+      "Akzeptierung",
       "Fortsetzen",
       "Erneut versuchen",
       "Hauptmenü",
@@ -374,12 +369,12 @@
       "Belohnungen!",
       "Waren!",
       "Beute!",
-      "Tip: "
+      "Tipp: "
     ]
   },
   "ChooseOneScreen": {
     "TEXT": [
-      "Wähle eine"
+      "Wähle eins"
     ]
   },
   "CardRewardScreen": {
@@ -411,12 +406,12 @@
   },
   "HandCardSelectScreen": {
     "TEXT": [
-      "Karte bestätigen zum ",
-      "Karten bestätigen zum ",
+      "Karte bestätigen, die du ",
+      "Karten bestätigen, die du ",
       "Wähle ",
-      " Karten zum ",
-      "Wähle eine beliebige Anzahl an Karten zum ",
-      "Wähle eine Karte zum "
+      " Karten, die du ",
+      "Wähle eine beliebig viele Karten, die du ",
+      "Wähle eine Karte, die du "
     ]
   },
   "AbandonRunButton": {
@@ -458,7 +453,8 @@
       "Speichern & Verlassen",
       "NL NL VSync",
       "Spieltester Kartendesign",
-      "Zeige Tasten für Kartenschnellwahl"
+      "Zeige Tasten für Kartenschnellwahl",
+      "Eingabeoptionen"
     ]
   },
   "SettingsScreen": {
@@ -468,7 +464,7 @@
       "Das Verlassen des Spiels wird zu Verlusten führen.",
       "ACHTUNG:\nFortschritt NICHT gespeichert.\n\nErreiche die nächste Ebene, um den aktuellen Durchlauf zu speichern.",
       "Zurückkehren",
-      "Fortschritt für tägliche Durchläufe wird NICHT gespeichert."
+      "Fortschritt für Tägliche Herausforderungen wird NICHT gespeichert."
     ]
   },
   "CardLibraryScreen": {
@@ -496,8 +492,8 @@
     "TEXT": [
       "Was ist Early Access?",
       "Was ist eine Open Beta?",
-      "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-Diskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
-      "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! Noch dazu spielst du die Beta-Version des Spiels. NL Lass uns bitte von jeglichen Problemen wissen, die während des Spielens auftreten, aber sei nicht von Platzhaltern für kommende Inhalte überrascht. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
+      "Slay the Spire befindet sich noch in der aktiven Entwicklung! Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-Diskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
+      "Slay the Spire befindet sich noch in der aktiven Entwicklung! Noch dazu spielst du die Beta-Version des Spiels. NL Lass uns bitte von jeglichen Problemen wissen, die während des Spielens auftreten, aber sei nicht von Platzhaltern für kommende Inhalte überrascht. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
       "Klicke irgendwohin, um zu starten"
     ]
   },
@@ -545,7 +541,7 @@
       "Ungewöhnlich:",
       "Stärkere Relikte, die seltener auftauchen als gewöhnliche Relikte.",
       "Selten:",
-      "Einzigartige und mächtige Relikte, die nur selten gefunden werden können.",
+      "Einzigartige und mächtige Relikte, die nur selten zu sehen sind.",
       "Boss:",
       "Relikte, die ausschließlich in Bosstruhen gefunden werden können.",
       "Ereignis:",
@@ -559,7 +555,7 @@
       "Gesperrt",
       "Dieser Charakter wird durch das Abschließen eines einzigen Durchlaufs freigeschaltet.",
       "Dieser Charakter ist während Early Access noch nicht erhältlich.",
-      "Dieser Charakter wird durch das Erreichen der Spitze des Spire freigeschaltet.",
+      "Dieser Charakter wird durch das Abschließen eines Durchlaufs mit der Stillen freigeschaltet.",
       "TP: ",
       "Gold: ",
       " Verbleibende Freischaltungen",
@@ -574,12 +570,12 @@
       "Beginnen",
       "Der Eiserne",
       "Die Stille",
-      "Krähbot",
+      "Das Defekte",
       "Zurück",
-      "Aufstiegsmodus (Level ",
-      ")",
       "Aufstiegsmodus",
-      "EXPERIMENTELL: NL Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)",
+      "Level ",
+      "Aufstiegsmodus",
+      "Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)",
       "Seed ",
       "Zufälliger Seed",
       "Mit einem Startseed wird bestimmt, was in diesem Durchlauf zufällig auftaucht.",
@@ -663,7 +659,7 @@
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "platziere oben auf deinem Aufnahmestapel"
+      "auf deinen Nachziehstapel legst"
     ]
   },
   "ApplyPowerAction": {
@@ -676,7 +672,7 @@
   },
   "CopyAction": {
     "TEXT": [
-      "Kopieren"
+      "kopierst"
     ]
   },
   "PowerExpireTextEffect": {
@@ -717,7 +713,7 @@
   },
   "ImmolateAction": {
     "TEXT": [
-      "erschöpft"
+      "erschöpfst"
     ]
   },
   "AbstractPlayer": {
@@ -725,12 +721,12 @@
       "Blocked",
       "Der Eiserne",
       "Die Stille",
-      "Der Revolverheld"
+      "Das Defekte"
     ]
   },
   "ExhaustAction": {
     "TEXT": [
-      "erschöpft"
+      "erschöpfst"
     ]
   },
   "RewardItem": {
@@ -750,7 +746,7 @@
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Wähle eine Karte zum Entfernen."
+      "Wähle eine Karte, die du entfernst."
     ]
   },
   "CampfireUI": {
@@ -771,7 +767,7 @@
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Wähle eine Karte zum Verbessern"
+      "Wähle eine Karte, die du verbesserst."
     ]
   },
   "BattleStartEffect": {
@@ -810,19 +806,19 @@
       "Lade Daten...",
       "Rangliste",
       "Nicht mit Steam verbunden",
-      "Keine Scores verfügbar \n Geh und Slay the Spire!"
+      "Keine Scores verfügbar \n Geh und Schlag den Spire!"
     ]
   },
   "ExhumeAction": {
     "TEXT": [
-      "Wähle eine Karte zum Aufnehmen auf die Hand"
+      "Wähle eine Karte, die du auf die Hand nimmst"
     ]
   },
   "LeaderboardFilters": {
     "TEXT": [
       "Der Eiserne",
       "Die Stille",
-      "3rd Char. DO NOT TRANSLATE",
+      "Das Defekte",
       "Durschnittlich erreichte Ebene (Letzte 20 Versuche)",
       "Durchschnittlicher Score (Letzte 20 Versuche)",
       "Beste Siegesserie",
@@ -835,32 +831,32 @@
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Wähle eine Karte, um sie oben auf deinen Aufnahmestapel zu legen."
+      "Wähle eine Karte, die du auf deinen Nachziehstapel lest."
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "Diese Karten wurde diesen Kampf erschöpft.",
+      "Diese Karten wurden in diesen Kampf erschöpft.",
       "Zurück"
     ]
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "1. Eliten spawnen öfter.",
-      "2. Normale Gegner sind tödlicher.",
-      "3. Eliten sind tödlicher.",
-      "4. Bosse sind tödlicher.",
-      "5. Weniger Heilung nach Bosskämpfen.",
-      "6. Beginne jeden Run mit Schaden.",
-      "7. Normale Gegner halten mehr aus.",
-      "8. Eliten halten mehr aus.",
-      "9. Bosse halten mehr aus.",
-      "10. Beginne jeden Run verflucht.",
-      "11. Tränke sind schwächer.",
-      "12. Verbesserte Karten erscheinen seltener.",
-      "13. Arme Bosse.",
-      "14. Niedrigere max TP.",
-      "15. (Höchstes Level) Ungünstige Ereignisse."
+      "Eliten spawnen öfter.",
+      "Normale Gegner sind tödlicher.",
+      "Eliten sind tödlicher.",
+      "Bosse sind tödlicher.",
+      "Weniger Heilung nach Bosskämpfen.",
+      "Beginne jeden Run mit Schaden.",
+      "Normale Gegner halten mehr aus.",
+      "Eliten halten mehr aus.",
+      "Bosse halten mehr aus.",
+      "Beginne jeden Run verflucht.",
+      "Tränke sind schwächer.",
+      "Verbesserte Karten erscheinen seltener.",
+      "Arme Bosse.",
+      "Weniger max TP.",
+      "(Höchstes Level) Ungünstige Ereignisse."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -888,9 +884,9 @@
     "TEXT": [
       "Der Eiserne",
       "Die Stille",
-      "",
+      "Das Defekte",
       "Zurück",
-      "Keine Run-Historie gefunden. NL Geh und Slay the Spire!",
+      "Keine Run-Historie gefunden. NL Geh und Schlag den Spire!",
       "Aufstieg Level: ",
       "Besiegt auf Ebene %1$d von %2$s",
       "Run verlassen auf Ebene %d",
@@ -910,21 +906,21 @@
       "%1$s (%2$d):",
       "Score: %d",
       "Alle Charaktere",
-      "Siege und Niederlagen",
+      "Siege & Niederlagen",
       "Siege",
       "Niederlagen",
       "Täglich",
       "Jeder Spielmodus",
       "Nur Normal",
       "Nur Aufstieg",
-      "Nur tägliche Herausforderung",
+      "Tägliche Herausf.",
       "Seed: %s",
       "Eigener Seed: %s"
     ]
   },
   "CreditsScreen": {
     "TEXT": [
-      "erneut klicken zum Verlassen"
+      "Erneut klicken zum Verlassen"
     ]
   },
   "TwitchVoter": {
@@ -936,7 +932,7 @@
     "TEXT": [
       "Tägliche Herausforderung",
       "Verbindung zum Zeitserver wird hergestellt...",
-      "Du hast die heutige Herausforderung abgeschlossen, NL bei neuen Anläufen wird kein Score gespeichert.",
+      "Du hast die heutige Herausforderung abgeschlossen, NL bei weiteren Anläufen wird kein Score gespeichert.",
       "Zurück",
       "Aufbrechen",
       "Heutiger Charakter: ",
@@ -949,26 +945,26 @@
       " NL TAB #yMods: ",
       "Modifikatoren: ",
       "Ranglisten",
-      "*Achievements are off for Daily Climb."
+      "*Errungenschaften sind beim Täglichen Aufstieg abgeschaltet."
     ]
   },
   "MenuPanels": {
     "TEXT": [
       "Standard",
       "",
-      "Breche auf eine Quest auf, um den Spire zu erschlagen.",
+      "Brich auf eine Quest auf, um den Spire zu erschlagen.",
       "Täglicher Aufstieg",
       "",
-      "Eine neue Herausforderung ist jeden Tag verfügbar.\n\nTritt gegen andere Spieler an, um den Highscore zu erhalten!",
+      "Jeden Tag ist eine neue Herausforderung verfügbar.\n\nTritt gegen andere Spieler an, um den Highscore zu bekommen!",
       "Aufstiegsmodus",
       "",
       "Der Spire wird mit jedem Sieg stärker.\n\nTeste die Grenzen deiner stärksten Strategien.",
       "Kartenbibliothek",
       "",
-      "Sieh dir alle Karten an, die dir im Spire begegnet sind.",
+      "Sieh dir all die Karten an, die dir bereits im Spire begegnet sind.",
       "Reliktsammlung",
       "",
-      "Untersuche die vielfältigen Schmuckstücke und Artefakte, die dir bereits begegnet sind.",
+      "Untersuche die vielfältigen Schmuckstücke und Artefakte, die du in deinen Durchläufen erhalten hast.",
       "Bestiarium",
       "",
       "Dieses Feature ist noch nicht verfügbar.",
@@ -977,10 +973,10 @@
       "Fortschritte und Statistiken jedes Charakters können hier eingesehen werden.",
       "Ranglisten",
       "",
-      "Sieh deinen Score an und vergleiche ihn mit dem anderer Spieler.",
+      "Erfahre deinen Score und vergleiche ihn mit Freunden und anderen Spielern.",
       "Run-Historie",
       "",
-      "Sieh dir deine vergangenen Versuche, den Spire zu erschlagen, an.",
+      "Wirf einen Blick zurück auf deine vergangenen Versuche, den Spire zu erschlagen.",
       "Spiel- Einstellungen",
       "",
       "Ändere deine Auflösung und wähle weitere Optionen für das Spiel.",
@@ -1022,7 +1018,7 @@
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Wähle einen Angriff zum Zufügen zu deiner Hand aus."
+      "Wähle einen Angriff, den du auf die Hand nimmst."
     ]
   },
   "SeedPanel": {
@@ -1031,7 +1027,61 @@
       "Gib einen neuen Seed ein",
       "Bestätigen",
       "Abbrechen",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "*Errungenschaften und Ranglisten sind abgeschaltet, wenn ein eigener Seed benutzt wird."
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Eingabeoptionen",
+      "Spieloptionen",
+      "Zurück",
+      "Befehle",
+      "Tastatur",
+      "Controller (noch nicht verfügbar)",
+      "Auf normal zurücksetzen",
+      "Bestätigen",
+      "Abbrechen / Schließen",
+      "Karte",
+      "Gesamtdeck",
+      "Nachziehstapel",
+      "Abwurfstapel",
+      "Erschöpfte Karten",
+      "Zug beenden",
+      "Links",
+      "Rechts",
+      "Wähle Karte Nr. 1",
+      "Wähle Karte Nr. 2",
+      "Wähle Karte Nr. 3",
+      "Wähle Karte Nr. 4",
+      "Wähle Karte Nr. 5",
+      "Wähle Karte Nr. 6",
+      "Wähle Karte Nr. 7",
+      "Wähle Karte Nr. 8",
+      "Wähle Karte Nr. 9",
+      "Wähle Karte Nr. 10"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Entf",
+      "Delete": "Rücktaste"
+    }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Wirf ab"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du auf deinen Nachziehstapel legst.",
+      "Wähle Karten, die du auf deinen Nachziehstapel legst."
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
     ]
   }
 }

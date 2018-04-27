@@ -58,8 +58,8 @@
       "Solo Normal",
       "Solo Ascención",
       "Solo Reto Diario",
-      "Seed: %s",
-      "Custom Seed: %s"
+      "Semilla: %s",
+      "Semilla Personalizada: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -78,13 +78,13 @@
       "Desconocido (Tesoro)",
       "Piso %1$s - %2$s",
       "Piso %s",
-      "#r%s Damage",
-      "#r%s Turns",
-      "#r%s #r/ #r%s #rHP",
-      "#y%s #yGold",
-      "Picked %s",
-      "Skipped:",
-      "Missing Info"
+      "#r%s Daño",
+      "#r%s Turnos",
+      "#r%s #r/ #r%s #rPV",
+      "#y%s #yOro",
+      "Obtenido %s",
+      "Saltado:",
+      "Falta información"
     ]
   },
   "LeaderboardsScreen": {
@@ -142,7 +142,7 @@
       "Ucraniano",
       "Vietnamita",
       "Hungaro",
-      "Serbian (Latin)"
+      "Serbio (Latin)"
     ]
   },
   "Proceed Button": {
@@ -187,7 +187,7 @@
   },
   "SetupAction": {
     "TEXT": [
-      "pon encima de tu pila de extracción."
+      "pon encima de tu pila de robado."
     ]
   },
   "SkillFromDeckToHandAction": {
@@ -197,12 +197,12 @@
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Elige una Ataque para Agregar a tu Mano"
+      "Elige una Ataque para Añadir a tu Mano"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Elige una Carta para Colocar Encima de tu Pila de Extracción."
+      "Elige una carta para colocar encima de tu pila de robado."
     ]
   },
   "Legend": {
@@ -262,7 +262,7 @@
   },
   "Toke Option": {
     "TEXT": [
-      "Esfumar",
+      "Fumar",
       "Elimina una carta de tu mazo."
     ]
   },
@@ -311,7 +311,7 @@
     "TEXT": [
       "Muerto",
       "Bloqueado",
-      "HP Máximo +",
+      "PV Máximo +",
       "¡Aturdido!",
       "¡Interrumpido!"
     ]
@@ -338,8 +338,8 @@
       "¡Cartas Desbloqueadas!",
       "¡Reliquias Desbloqueadas!",
       "Nuevo Personaje",
-      "Nota: Cartas desbloqueadas aparecen en partidas futuras.",
-      "Nota: Reliquias desbloqueadas aparecen en partidas futuras."
+      "Nota: Las cartas desbloqueadas aparecerán en partidas futuras.",
+      "Nota: Las reliquias desbloqueadas aparecerán en partidas futuras."
     ]
   },
   "StorePotion": {
@@ -520,7 +520,7 @@
       "Elites de Exoridum Derrotados",
       "Elites de la Ciudad Derrotados",
       "Elites del Más Allá Derrotados",
-      "Speedster",
+      "Fitipaldi",
       "Velocidad de la Luz",
       "Highlander",
       "Colección",
@@ -643,7 +643,8 @@
       "Guardar y Salir",
       "NL NL VSync",
       "Modo de Arte de Pruebas",
-      "Show Card Quick Select Keys"
+      "Mostrar Selección Rápida de Cartas",
+      "Input Settings"
     ]
   },
   "DailyScreen": {
@@ -663,7 +664,7 @@
       " NL #yMods: ",
       "Modificadores: ",
       "Puntuación",
-      "*Achievements are off for Daily Climb."
+      "*Los logros están desactivados para el Reto Diario."
     ]
   },
   "SettingsScreen": {
@@ -693,8 +694,8 @@
       "Rareza",
       "Tipo",
       "A-Z",
-      "Cost",
-      "Jump To:"
+      "Coste",
+      "Saltar a:"
     ]
   },
   "EarlyAccessPopup": {
@@ -784,16 +785,16 @@
       "Embarcar",
       "El Blindado",
       "La Silenciosa",
-      "Crowbot",
+      "Cuer-bot",
       "Atrás",
       "Modo de Ascención (Nivel ",
       ")",
       "Modo de Ascención",
       "Las partidas se vuelven más difíciles cuando ganas... (no afecta a tu racha de victorias)",
-      "Seed ",
-      "Random Seed",
-      "The starting seed used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Semilla ",
+      "Semilla aleatoria",
+      "La semilla inicial se utiliza para determinar la aleatoriedad de la partida.",
+      "Establecer semilla"
     ]
   },
   "AscensionModeDescriptions": {
@@ -969,7 +970,7 @@
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "pon encima de tu pila de extracción"
+      "pon encima de tu pila de robado"
     ]
   },
   "ImmolateAction": {
@@ -1028,10 +1029,59 @@
   "SeedPanel": {
     "TEXT": [
       "0000000000",
-      "Enter a new Seed",
+      "Introduce una nueva semilla",
+      "Confirmar",
+      "Cancela",
+      "*Los logros y rankings serán desactivados al utilizar una semilla personalizada."
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Input Settings",
+      "Game Settings",
+      "Return",
+      "Commands",
+      "Keyboard",
+      "Controller (Not Yet Available)",
+      "Reset to Default",
       "Confirm",
-      "Cancel",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "Cancel / Exit",
+      "Map",
+      "Master Deck",
+      "Draw Pile",
+      "Discard Pile",
+      "Exhaust Pile",
+      "End Turn",
+      "Left",
+      "Right",
+      "Select Card #1",
+      "Select Card #2",
+      "Select Card #3",
+      "Select Card #4",
+      "Select Card #5",
+      "Select Card #6",
+      "Select Card #7",
+      "Select Card #8",
+      "Select Card #9",
+      "Select Card #10"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Discard"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile.",
+      "Choose Cards to Put on Top of Your Draw Pile."
     ]
   }
 }

@@ -9,15 +9,15 @@
   },
   "Night Terrors": {
     "NAME": "Nachtangst",
-    "DESCRIPTION": "An einem Lagerfeuer ausruhen heilt dich komplett, aber kostet dich 5 max. TP."
+    "DESCRIPTION": "Ausruhen an einem Lagerfeuer heilt dich komplett, aber kostet dich 5 max. TP."
   },
   "Vintage": {
     "NAME": "Antiquitäten",
-    "DESCRIPTION": "Die Preise des Händlers sind um 25% erhöht."
+    "DESCRIPTION": "Normale Gegner hinterlassen Relikte statt Karten."
   },
   "Shiny": {
     "NAME": "Glänzend",
-    "DESCRIPTION": "Beginne mit 1 zufälligen seltenen Karte."
+    "DESCRIPTION": "Das Startdeck wird ersetzt durch 1 von jeder seltenen Karte."
   },
   "Elite Swarm": {
     "NAME": "Eliten-Schwarm",
@@ -25,11 +25,11 @@
   },
   "Allstar": {
     "NAME": "Alleskönner",
-    "DESCRIPTION": "Beginne mit 2 zufälligen farblosen karten."
+    "DESCRIPTION": "Beginne mit 5 farblosen Karten."
   },
   "Diverse": {
     "NAME": "Vielfalt",
-    "DESCRIPTION": "Beginne mit 2 zufälligen Karten einer anderen Klasse."
+    "DESCRIPTION": "Karten sind nicht durch deinen Charakter eingeschränkt."
   },
   "Binary": {
     "NAME": "Binär",
@@ -37,19 +37,19 @@
   },
   "Uncertain Future": {
     "NAME": "Zukunftsgewissheit",
-    "DESCRIPTION": "Die Karte zeigt nur noch einen Pfad."
+    "DESCRIPTION": "Die Karte zeigt nur einen Pfad."
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Gegner droppen 200% mehr Gold, aber du kannst deine Karten an Ruhestätten nicht verbessern."
+    "DESCRIPTION": "Gegner lassen 200% mehr Gold fallen, aber du kannst keine Karten am Lagerfeuer verbessern."
   },
   "Insanity": {
     "NAME": "Wahnsinn",
-    "DESCRIPTION": "Starte mit einem Deck aus 50 zufälligen Karten."
+    "DESCRIPTION": "Starte mit einem zufälligen Deck aus 50 Karten."
   },
   "Lethality": {
     "NAME": "Tödlichkeit",
-    "DESCRIPTION": "Du und alle Gegner beginnen jeden Kampf mit +3 Stärke."
+    "DESCRIPTION": "Du beginnst jeden Kampf mit +3 Stärke. Alle Gegner beginnen den Kampf mit +3 Stärke."
   },
   "Terminal": {
     "NAME": "Terminiert",
@@ -57,7 +57,7 @@
   },
   "Time Dilation": {
     "NAME": "Zeitverzögerung",
-    "DESCRIPTION": "Alle Gegner sind verlangsamt."
+    "DESCRIPTION": "Alle Gegner beginnen mit dem Debuff Langsam."
   },
   "Hoarder": {
     "NAME": "Sammler",
@@ -65,6 +65,6 @@
   },
   "Draft": {
     "NAME": "Draft",
-    "DESCRIPTION": "Du draftest die Karten für dein Startdeck."
+    "DESCRIPTION": "Drafte die Karten für dein Startdeck."
   }
 }

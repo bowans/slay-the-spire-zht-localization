@@ -133,6 +133,20 @@
       ],
       "DESCRIPTION": "Feridas são cartas de condição injogáveis."
     },
+    "DAZED": {
+      "NAMES": [
+        "atordoado"
+      ],
+      "DESCRIPTION": "Atordoato são cartas de condição não-jogáveis."
+    },
+    "BURN": {
+      "NAMES": [
+        "queimadura",
+        "queima",
+        "queimaduras"
+      ],
+      "DESCRIPTION": "Queimaduras são cartas de condição não-jogáveios que lhe causam dano."
+    },
     "FRAIL": {
       "NAMES": [
         "fragilizado"
@@ -170,18 +184,66 @@
     "TEXT": [
       "Energia é utilizada para jogar cartas da sua mão."
     ],
-    "BURN": {
+    "VOID": {
       "NAMES": [
-        "burn",
-        "burns"
+        "void",
+        "voids"
       ],
-      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
     },
-    "DAZED": {
+    "FOCUS": {
       "NAMES": [
-        "dazed"
+        "focus"
       ],
-      "DESCRIPTION": "Dazed are unplayable status cards."
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Gains Energy."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "channel",
+        "channeled"
+      ],
+      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+    },
+    "DARK": {
+      "NAMES": [
+        "dark",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "lightning",
+        "lightning+"
+      ],
+      "DESCRIPTION": "Orb: Deals damage to random enemies."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Gains #yBlock."
     }
   }
 }

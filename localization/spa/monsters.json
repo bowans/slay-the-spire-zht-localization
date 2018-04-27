@@ -37,7 +37,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Byrd",
+    "NAME": "Jáparo",
     "DIALOG": [
       "@CAW!@ NL @CAAAW@",
       ""
@@ -46,10 +46,10 @@
   "Snecko": {
     "MOVES": [
       "Mirada confundidora",
-      "Golpe con la cola",
+      "Golpe de cola",
       "Mordida"
     ],
-    "NAME": "Snecko",
+    "NAME": "Serpentija",
     "DIALOG": [
       ""
     ]
@@ -155,7 +155,7 @@
   },
   "GremlinLeader": {
     "MOVES": [
-      "Reunanse!"
+      "¡Reúnanse!"
     ],
     "NAME": "Líder Gremlin",
     "DIALOG": [
@@ -170,7 +170,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Centurion",
+    "NAME": "Centurión",
     "DIALOG": [
       ""
     ]
@@ -317,7 +317,7 @@
   },
   "FungiBeast": {
     "MOVES": [
-      "Grow"
+      "Crecer"
     ],
     "NAME": "Bestia Fungi",
     "DIALOG": [
@@ -384,7 +384,7 @@
   },
   "FuzzyLouseNormal": {
     "MOVES": [
-      "Grow"
+      "Crecer"
     ],
     "NAME": "Piojo",
     "DIALOG": [
@@ -420,9 +420,9 @@
   },
   "Hexaghost": {
     "MOVES": [
-      "Inflame",
-      "Sear",
-      "Inferno"
+      "Prender",
+      "Abrasar",
+      "Infierno"
     ],
     "NAME": "Hexafantasma",
     "DIALOG": []
@@ -439,8 +439,8 @@
   },
   "SlaverRed": {
     "MOVES": [
-      "Scrape",
-      "Entangle"
+      "Raspar",
+      "Enredar"
     ],
     "NAME": "Esclavista",
     "DIALOG": [
@@ -449,7 +449,7 @@
   },
   "SlaverBlue": {
     "MOVES": [
-      "Rake"
+      "Rastrillar"
     ],
     "NAME": "Esclavista",
     "DIALOG": [
@@ -624,7 +624,7 @@
     "MOVES": [
       "¡Ñam! ¡Ñam!"
     ],
-    "NAME": "Oscurecedor",
+    "NAME": "Prole Oscura",
     "DIALOG": [
       "Regenerándose..."
     ]
@@ -640,8 +640,8 @@
   },
   "GremlinNob": {
     "MOVES": [
-      "Skull Bash",
-      "Bull Rush"
+      "Golpe al cráneo",
+      "Carga de embestida"
     ],
     "NAME": "Gremlin Idiota",
     "DIALOG": [

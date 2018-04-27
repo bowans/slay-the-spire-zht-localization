@@ -25,21 +25,21 @@
   },
   "Neow Event": {
     "NAMES": [
-      "Neow"
+      "Niau"
     ],
     "TEXT": [
-      "~Sei~ ~gegrüßt~ NL ~Ich~ ~bin~ ~Neow~ ~…~",
-      "~Hallo~ ~…~ NL ~Noch~ ~mal~ ~…~",
-      "~Sei~ ~gegrüßt~ ~…~",
-      "~Noch~ ~ein~ NL ~Versuch~ ~…?~",
-      "~Erreiche~ ~den~ ~Boss~ ~…~ NL ~um~ ~meinen~ ~…~ ~Segen~ ~zu~ ~erhalten~ ~…~",
-      "~Stelle~ ~dich~ ~zumindest~ ~…~ NL ~dem~ ~ersten~ ~Boss~ ~…~",
-      "~Ich~ ~habe~ ~dich~ ~zurückgeholt~ ~…~",
-      "~Wähle~ ~…~",
-      "~Gewährt~ ~…~",
-      "~Risiko~ ~…~ NL ~…Belohnung~ ~…~",
+      "~Sei~ ~gegrüßt~ NL ~Ich~ ~bin~ ~Niau~ ~...~",
+      "~Hallo~ ~...~ NL ~Noch~ ~mal~ ~...~",
+      "~Sei~ ~gegrüßt~ ~...~",
+      "~Noch~ ~ein~ NL ~Versuch~ ~...?~",
+      "~Erreiche~ ~den~ ~Boss~ ~...~ NL ~um~ ~meinen~ ~...~ ~Segen~ ~zu~ ~erhalten~ ~...~",
+      "~Stelle~ ~dich~ ~zumindest~ ~...~ NL ~dem~ ~ersten~ ~Boss~ ~...~",
+      "~Ich~ ~habe~ ~dich~ ~zurückgeholt~ ~...~",
+      "~Wähle...~",
+      "~Gewährt...~",
+      "~Risiko...~ NL ~...Belohnung...~",
       "~Zeit~ ~für~ ~eine~ NL ~HERAUSFORDERUNG...~",
-      "Rewards"
+      "Belohnungen"
     ],
     "OPTIONS": [
       "[Fortsetzen]",
@@ -51,38 +51,38 @@
   "Neow Reward": {
     "NAMES": [],
     "TEXT": [
-      "[ #gEine #gKarte #gwählen, #gum #gdiese #gzu #gerhalten ]",
-      "[ #gEine #gzufällige #gseltene #gKarte #gerhalten ]",
-      "[ #gEine #gKarte #gaus #gdeinem #gDeck #gentfernen ]",
-      "[ #gEine #gKarte #gverbessern ]",
-      "[ #gEine #gKarte #gtransformieren ]",
-      "[ #g3 #gzufällige #gTränke #gerhalten ]",
-      "[ #gEin #gzufälliges #ggewöhnliches #gRelikt #gerhalten ]",
+      "[ #gWähle #geine #gKarte #gfür #gdein #gDeck ]",
+      "[ #gErhalte #geine #gzufällige #gseltene #gKarte ]",
+      "[ #gEntferne #geine #gKarte #gaus #gdeinem #gDeck ]",
+      "[ #gVerbessere #geine #gKarte ]",
+      "[ #gTransformiere #geine #gKarte ]",
+      "[ #gErhalte #g3 #gzufällige #gTränke ]",
+      "[ #gErhalte #gein #gzufälliges #ggewöhnliches #gRelikt ]",
       "[ #gMax. #gTP #g+",
-      "[ #gDu #gerhältst #g",
+      "[ #gErhalte #g",
       " #gGold ]",
-      "#g2 #gKarten #gentfernen ]",
-      "#gEin #gseltenes #gRelikt #gerhalten ]",
-      "#gEine #gseltene #gKarte #gerhalten ]",
-      "#g",
-      " #gGold #gerhalten]",
-      "#g2 #gKarten #gtransformieren ]",
-      "#gMax. #gTP #g+",
+      "#gentferne #g2 #gKarten ]",
+      "#gerhalte #gein #gzufälliges #gseltenes #gRelikt ]",
+      "#gwähle #geine #gseltene #gKarte #gfür #gdein #gDeck ]",
+      "#gerhalte #g",
+      " #gGold ]",
+      "#gtransformiere #g2 #gKarten ]",
+      "#gmax. #gTP #g+",
       "[ #rVerliere #r",
-      " #rmax. #rTP. ",
-      "[ #rVerliere #rdein #rgesamtes #rGold. ",
-      "[ #rErhalte #reinen #rFluch. ",
-      "[ #rVerliere #r50% #rdeiner #raktuellen #rTP. ",
-      "Eine Karte wählen",
-      "Eine Karte zum Entfernen wählen",
-      "2 Karten zum Entfernen wählen",
-      "Eine Karte zum Transformieren wählen",
-      "2 Karten zum Transformieren wählen",
-      "Eine Karte zum Verbessern wählen",
-      "[ #gDie #gnächsten #g3 #gGegner #ghaben #g1 #gTP ]"
+      " #rmax. #rTP und ",
+      "[ #rVerliere #rdein #rgesamtes #rGold und ",
+      "[ #rErhalte #reinen #rFluch und ",
+      "[ #rVerliere #r50% #rdeiner #raktuellen #rTP und ",
+      "Wähle eine Karte",
+      "Wähle eine Karte zum Entfernen",
+      "Wähle 2 Karten zum Entfernen",
+      "Wähle eine Karte zum Transformieren",
+      "Wähle 2 Karten zum Transformieren",
+      "Wähle eine Karte zum Verbessern",
+      "[ #gIn #gden #gnächsten #g3 #gKämpfen #ghaben #gGegner #g1 #gTP ]"
     ],
     "UNIQUE_REWARDS": [
-      "[ #rVerliere #rdein #rStartrelikt , um #gEin #gzufälliges #gBossrelikt #gzu #gerhalten ]"
+      "[ #rVerliere #rdein #rStartrelikt und #gerhalte #gein #gzufälliges #gBossrelikt ]"
     ]
   },
   "Merchant": {
@@ -92,21 +92,21 @@
     ],
     "TEXT": [
       "Hi! NL Kauf etwas! NL Kauf, kauf, kauf!",
-      "Ich mag deine Frisur",
-      "Hast du die Zeit?",
+      "Ich mag deine Frisur.",
+      "Hast du so viel Zeit?",
       "Bist du ein Hunde- oder ein Katzenmensch?",
-      "Du siehst ~gefährlich~ aus, NL hehe …",
-      "Lass dir Zeit … NL …… NL … oder auch nicht",
-      "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf",
+      "Du siehst ~gefährlich~ aus, NL hehe ...",
+      "Lass dir Zeit ... NL ...... NL ... oder auch nicht.",
+      "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf.",
       "Unterstütze Kleinunternehmen!",
       "Masken sind cool, ich muss es ja wissen!",
-      "Hmm … NL … hmm … NL Oh!",
+      "Hmm ... NL ... hmm ... NL Oh!",
       "Bleib eine Weile und hör zu!",
-      "Es ist gefährlich, allein zu gehen! Gib mir all dein Gold!",
-      "Kauf was",
+      "Allein ist es gefährlich hier! Gib mir all dein Gold!",
+      "Kauf was!",
       "~*GÄHN*~",
       "Ich mag Gold.",
-      "Meine Lieblingsfarbe ist Blau. NL Und was ist deine?"
+      "Meine Lieblingsfarbe ist Blau. NL Und deine?"
     ]
   },
   "Shop Screen": {
@@ -117,9 +117,9 @@
       "Biste pleite?",
       "Du hast nicht genug #rGold.",
       "Das kannst du dir nicht leisten.",
-      "Das hier ist nicht die Wohlfahrt.",
+      "Das ist hier nicht die Wohlfahrt.",
       "~Daaaanke~",
-      "Wieder was verkauft … NL hohoho! NL Ka – @Ching!@",
+      "Wieder was verkauft ... NL hohoho! NL Ka – @Ching!@",
       "@VERKAUFT!@",
       "Rückerstattungen gibt’s bei mir nicht.",
       "Einen schönen Tag noch.",
@@ -128,21 +128,29 @@
     ],
     "TEXT": [
       "Hi! NL Kauf etwas! NL Kauf, kauf, kauf!",
-      "Ich mag deine Frisur",
+      "Ich mag deine Frisur.",
       "Hast du die Zeit?",
       "Bist du ein Hunde- oder ein Katzenmensch?",
-      "Du siehst ~gefährlich~ aus, NL hehe …",
-      "Lass dir Zeit … NL …… NL … oder auch nicht",
-      "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf",
+      "Du siehst ~gefährlich~ aus, NL hehe ...",
+      "Lass dir Zeit ... NL ...... NL ... oder auch nicht.",
+      "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf.",
       "Unterstütze Kleinunternehmen!",
       "Masken sind cool, ich muss es ja wissen!",
       "Hast du meinen Kurier gesehen?",
       "Bleib eine Weile und hör zu!",
-      "Es ist gefährlich, allein zu gehen! Gib mir all dein Gold!",
-      "Kauf was",
+      "Allein ist es gefährlich hier! Gib mir all dein Gold!",
+      "Kauf was!",
       "~*GÄHN*~",
       "Ich mag Gold.",
-      "Meine Lieblingsfarbe ist Blau. NL Und was ist deine?"
+      "Meine Lieblingsfarbe ist Blau. NL Und deine?"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "Das Defekte"
+    ],
+    "TEXT": [
+      "Ein Kampf-Automaton, das Selbstbewusstsein erlangte. NL Manipuliert Orbs mithilfe vorzeitlicher Technologie."
     ]
   }
 }

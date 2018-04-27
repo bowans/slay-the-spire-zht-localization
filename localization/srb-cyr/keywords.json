@@ -28,7 +28,7 @@
         "окретност",
         "окретности"
       ],
-      "DESCRIPTION": "Окретност побољшава Одбрану задобијену од карата."
+      "DESCRIPTION": "Окретност побољшава одбрану задобијену од карата."
     },
     "ETHEREAL": {
       "NAMES": [
@@ -64,7 +64,7 @@
         "отрова",
         "затрован"
       ],
-      "DESCRIPTION": "Отрована створења губе ЗП на почетку свог потеза. Отров се смањује за #bједан сваки круг."
+      "DESCRIPTION": "Отрована створења губе ж. п. на почетку свог потеза. Отров се смањује за #bједан сваки круг."
     },
     "RETAIN": {
       "NAMES": [
@@ -77,7 +77,7 @@
         "нож",
         "ножа"
       ],
-      "DESCRIPTION": "Ножеви су Исцрпљиви Напади који коштају #b0."
+      "DESCRIPTION": "Ножеви су напади чија је цена #bнула. Исцрпљују се."
     },
     "STATUS": {
       "NAMES": [
@@ -133,7 +133,7 @@
       "NAMES": [
         "слабост",
         "слабости",
-        "weakened",
+        "ослабљен",
         "weakens"
       ],
       "DESCRIPTION": "Напади ослабљених створења задају #b25% мање штете."
@@ -144,26 +144,26 @@
         "ране",
         "рану"
       ],
-      "DESCRIPTION": "Ране су неодигрива Стања."
+      "DESCRIPTION": "Ране су неодигрива стања."
     },
     "DAZED": {
       "NAMES": [
         "ошамућеност"
       ],
-      "DESCRIPTION": "Ошамућености су неодигрива Стања."
+      "DESCRIPTION": "Ошамућености су неодигрива стања."
     },
     "BURN": {
       "NAMES": [
         "опекотина",
         "опекотину"
       ],
-      "DESCRIPTION": "Опекотине су неодигрива Стања која ти наносе штету."
+      "DESCRIPTION": "Опекотине су неодигрива стања која ти наносе штету."
     },
     "FRAIL": {
       "NAMES": [
         "оронуо"
       ],
-      "DESCRIPTION": "Као Оронуо, задобијаш #b25% мање #yОдбране од карата."
+      "DESCRIPTION": "Као оронуо, задобијаш #b25% мање #yодбране од карата."
     },
     "STRIKE": {
       "NAMES": [
@@ -182,7 +182,7 @@
         "неопипљив",
         "неопипљивост"
       ],
-      "DESCRIPTION": "Смањује СВУ примљену штету и губитак ЗП на #b1."
+      "DESCRIPTION": "Смањује СВУ примљену штету и губитак ж. п. на #b1."
     },
     "TODO": {
       "NAMES": [
@@ -196,6 +196,67 @@
     },
     "TEXT": [
       "Енергија се користи за одигравање карата из руке."
-    ]
+    ],
+    "VOID": {
+      "NAMES": [
+        "void",
+        "voids"
+      ],
+      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Gains Energy."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "channel",
+        "channeled"
+      ],
+      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+    },
+    "DARK": {
+      "NAMES": [
+        "dark",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "lightning",
+        "lightning+"
+      ],
+      "DESCRIPTION": "Orb: Deals damage to random enemies."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Gains #yBlock."
+    }
   }
 }

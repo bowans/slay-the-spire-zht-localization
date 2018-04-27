@@ -38,7 +38,7 @@
   },
   "Shuffle Tip": {
     "TEXT": [
-      "NL Wenn es keine Karten zum Ziehen gibt, wird dein Abwurfstapel in den Aufnahmestapel gemischt."
+      "NL Wenn es keine Karten zum Ziehen gibt, wird dein Abwurfstapel in den Nachziehstapel gemischt."
     ],
     "LABEL": [
       "Keine Karten mehr?"
@@ -59,7 +59,7 @@
     "TEXT": [
       "Relikte, die im Spire gefunden werden, gewähren einzigartige Boni und werden während des gesamten Durchlaufs behalten. NL Sie können durch das Besiegen von mächtigen Gegnern oder in Truhen gefunden werden.",
       "Dieses Relikt muss noch entdeckt werden.",
-      "Its power is all used up."
+      "Die Kraft dieses Reliktes ist schon aufgebraucht."
     ],
     "LABEL": [
       "Relikte",
@@ -79,16 +79,16 @@
   "Draw Tip": {
     "TEXT": [
       "Zu Beginn jedes Zuges werden hier NL #b",
-      " Karten gezogen. NL NL Klicke, um die Karten in deinem Aufnahmestapel anzusehen (gemischt).",
-      " Karten gezogen. NL NL Klicke, um die Karten in deinem Aufnahmestapel anzusehen."
+      " Karten gezogen. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen (gemischt).",
+      " Karten gezogen. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen."
     ],
     "LABEL": [
-      "Aufnahmestapel"
+      "Nachziehstapel"
     ]
   },
   "Options Tip": {
     "TEXT": [
-      "Spieldaten und Fehlerprotokolle werden aus Balancing-Gründen an Mega Crit gesendet. NL NL Personenbezogene Informationen werden NICHT gesammelt.",
+      "Spieldaten und Fehlerprotokolle werden zu Balancing-Zwecken an Mega Crit gesendet. NL NL Personenbezogene Informationen werden NICHT gesammelt.",
       "Slay the Spire läuft am schnellsten im Vollbildmodus. Für OSX empfohlen, da das Dock und die Menüleiste ausgeblendet werden. NL HINWEIS: Auf dem PC kann es vorkommen, dass das Drücken der Alt- und Tab-Taste im Vollbildmodus den Spieler nicht zurück zu Slay the Spire bringt.",
       "Da Slay the Spire kein anspruchsvolles Spiel ist, empfehlen wir den Vollbild-Fenster-Modus für eine schnelle Nutzung der Alt- und Tab-Tastenkombination. Läuft am besten auf dem PC.",
       "Hinweis: Wenn VSync an ist, kann die max. Framerate deine Bildwiederholfrequenz nicht übersteigen."
@@ -111,7 +111,7 @@
   },
   "End Turn Tip": {
     "TEXT": [
-      "Das Drücken dieser Taste beendet deinen Zug. NL NL Du wirfst deine Hand ab, die Gegner sind am Zug, du ziehst ",
+      "Das Drücken dieser Taste beendet deinen Zug. NL NL Dann wirfst du deine Hand ab, die Gegner sind am Zug, du ziehst ",
       " Karten und dann bist du wieder am Zug."
     ],
     "LABEL": [
@@ -120,7 +120,7 @@
   },
   "Discard Tip": {
     "TEXT": [
-      "Wenn dein Aufnahmestapel leer ist, wird dein Abwurfstapel in den Aufnahmestapel gemischt. NL NL Klicke, um die Karten in deinem Abwurfstapel anzusehen."
+      "Wenn dein Nachziehstapel leer ist, wird dein Abwurfstapel in den Nachziehstapel gemischt. NL NL Klicke, um die Karten in deinem Abwurfstapel anzusehen."
     ],
     "LABEL": [
       "Abwurfstapel"
@@ -137,7 +137,7 @@
   "Potion Panel Tip": {
     "TEXT": [
       "Dieser Trank wird auf deinen Gegner geworfen.",
-      "Du trinkst diesen Trank.",
+      "Trinke diesen Trank.",
       "Dieser Trank wird abgeworfen NL #r(kann #rnicht #rrückgängig #rgemacht #rwerden)."
     ],
     "LABEL": [
@@ -155,15 +155,15 @@
       "Zeigt, wie viel Gold du besitzt. Gold ist die anerkannte Währung im Spire.",
       "Du erhältst dies, wenn du einen #yBoss besiegst. NL Wofür könnte das sein …?",
       "Du erhältst dies, wenn du einen #yBoss besiegst. NL Verfüttere diese an #yNeow, um Gegenstände freizuschalten und Boni für neue Durchläufe zu verdienen.",
-      "Elapsed time for this run."
+      "Abgelaufene Zeit in diesem Durchlauf."
     ],
     "LABEL": [
-      "Einstellungen ",
-      "Deck ",
-      "Karte ",
+      "Einstellungen",
+      "Deck",
+      "Karte",
       "Trefferpunkte (TP)",
-      "Geldkatze",
-      "Run Timer"
+      "Geldbeutel",
+      "Timer"
     ]
   },
   "Random Tips": {
@@ -213,7 +213,7 @@
       "Klicke, um die in diesem Kampf erschöpften Karten anzusehen."
     ],
     "LABEL": [
-      "Erschöpfte Karte"
+      "Erschöpfte Karten"
     ]
   }
 }

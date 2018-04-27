@@ -25,10 +25,10 @@
   },
   "Neow Event": {
     "NAMES": [
-      "Njov"
+      "Njova"
     ],
     "TEXT": [
-      "~Pozdrav...~ NL ~Ja..~ ~sam~ ~Njov...~",
+      "~Pozdrav...~ NL ~Ja..~ ~sam~ ~Njova...~",
       "~Zdravo...~ NL ~Ponovo..~",
       "~Pozdrav...~",
       "~Još~ ~jedan~ NL ~pokušaj...?~",
@@ -58,28 +58,28 @@
       "[ #gPreobrazi #gkartu ]",
       "[ #gZadobi #gtri #gnasumična #gnapitka ]",
       "[ #gZadobi #gobičnu #gnasumičnu #grelikviju ]",
-      "[ #gMaks. #gZP #g+",
+      "[ #gMaks. #gž. #gp. #g+",
       "[ #gZadobi #g",
-      " #gzlato ]",
+      " #gzlata ]",
       "#gUkloni #gdve #gkarte ]",
       "#gZadobi #gnasumičnu #gretku #grelikviju ]",
       "#gIzaberi #gretku #gkartu ]",
       "#gZadobi #g",
-      " #gzlato ]",
+      " #gzlata ]",
       "#gPreobrazi #gdve #gkarte ]",
-      "#gmaks. #gZP #g+",
+      "#gmaks. #gž. #gp. #g+",
       "[ #rŽrtvuj #r",
-      " #rmaks. #rZP ",
+      " #rmaks. #rž. #rp. ",
       "[ #rOdbaci #rsve #rzlato ",
       "[ #rPostani #ruklet ",
-      "[ #rŽrtvuj #r50% #rtrenutnih #rZP ",
+      "[ #rŽrtvuj #r50% #rtrenutnih #rž. #rp. ",
       "Izaberi kartu",
       "Ukloni kartu",
       "Ukloni dve karte",
       "Preobrazi kartu",
       "Preobrazi dve karte",
       "Poboljšaj kartu",
-      "[ #gNeprijatelji #gu #gsledeće #gtri #gborbe #gće #gimati #gpo #gjedan #gZP ]"
+      "[ #gNeprijatelji #gu #gsledeće #gtri #gborbe #gimaju #gpo #gjedan #gž. #gp. ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rOdbaci #rurođenu #rrelikviju #gZadobi #gnasumičnu #gvoždovsku #grelikviju ]"
@@ -143,6 +143,14 @@
       "~*ZEV*~",
       "Volim zlato.",
       "Moja omiljena boja je plava. NL Tvoja?"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "The Defect"
+    ],
+    "TEXT": [
+      "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
     ]
   }
 }

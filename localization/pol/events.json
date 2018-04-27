@@ -330,7 +330,7 @@
     "NAME": "Złoty Bożek",
     "DESCRIPTIONS": [
       "Natrafiasz na niepozornie wyglądający piedestał z #ybłyszczącym #yZłotym #yBożkiem. Wygląda na wartościowego. NL NL Na pierwszy rzut oka brak śladu jakichkolwiek pułapek.",
-      "Kiedy podnosisz figurkę, wielki głaz przebija się przez sklepienie i ląduje obok ciebie. NL Ogromny kamień zaczyna się toczyć w twoją stronę.",
+      "Kiedy podnosisz figurkę, wielki głaz przebija sklepienie i ląduje obok ciebie. NL Ogromny kamień zaczyna się toczyć w twoją stronę.",
       "@W@ @NOGIII!@ NL W ostatniej chwili udaje ci się uskoczyć w boczną alejkę. NL Niestety czujesz, że masz zwichniętą kostkę.",
       "Stajesz głazowi na drodze, zapierając się z całych sił. NL Po odzyskaniu przytomności wstajesz, kuśtykając w stronę wyjścia.",
       "@MLASK!@ NL Głaz przeciska się obok ciebie boleśnie, ale poza kilkoma złamanymi zebrami, udaje ci się wyjść z tej sytuacji bez szwanku.",
@@ -567,7 +567,7 @@
     "NAME": "Zapomniany Ołtarz",
     "DESCRIPTIONS": [
       "Widzisz przed sobą ołtarz jakiegoś zapomnianego bóstwa. NL Na jego froncie stoi ozdobna figura kobiety, której ręce są wyciągnięte w twoją stronę. NL Woła do ciebie, żądając ofiary.",
-      "Kiedy ostrożnie kładziesz figurkę na ołtarzu, zrywa się #bzimny wiatr. NL Ramiona kobiecej figury zaczynają zmieniać kolor i kruszyć się. NL NL #yZłoty #ybożek zaczyna blednąć, a z oczu zaczynają płynąć strużki krwi. NL Krwawienie nie ustaje.",
+      "Kiedy ostrożnie kładziesz figurkę na ołtarzu, zrywa się #bzimny wiatr. NL Ramiona kobiecej figury zaczynają zmieniać kolor i kruszyć się. NL NL #yZłoty #ybożek blednie, a z jego oczu zaczynają płynąć strużki krwi. NL Krwawienie nie ustaje.",
       "Stajesz na ołtarzu i nacinasz sobie nadgarstki. NL Kiedy #rkrew dotyka powierzchni ołtarza, ręce statuy obejmują cię, zakrywając ci oczy. NL Wszystko wokół znika w ciemności. NL Budzisz się jakiś czas później, czując w sobie nowy potencjał.",
       "Zamachujesz się i rozbijasz statuę, zrywając urok, który rzucało na ciebie to pomieszczenie. NL Mroczny lament rozbrzmiewa w około, czujesz jak #p~Klątwa~ przenika twoje ciało."
     ],
@@ -704,7 +704,8 @@
       "Idąc wzdłuż spowitej mrokiem ulicy, dostrzegasz grupę zakapturzonych postaci, odprawiających jakiś mroczny rytuał. Kiedy się zbliżasz, odwracają się w twoją stronę. Najwyższy z nich obnaża długie, połyskujące kły i wyciąga do ciebie chudą, bladą rękę. NL ~„Dołącz~ ~do~ ~nas~ ~siostro~ ~i~ ~poczuj~ ~żar~ ~Iglicy.”~",
       "Wysoka postać chwyta cię za ramię, błyskawicznie przyciąga do siebie NL i wgryza się w twoją szyję. Czujesz, że @mroczna@ @siła@ wlewa się przez twoją szyję i @rozchodzi@ po całym ciele. NL ... NL Budzisz się. Nikogo wokół. Potworny ~głód~ nie daje o sobie zapomnieć. NL #rŁakniesz #rkrwi...",
       "Cofasz się, unosząc broń w powietrze. Wysoka postać wzdycha. „Jak sobie życzysz.” Grupa zakapturzonych postaci znika w gęstej, czarnej mgle, która natychmiast się rozmywa. NL Nikogo wokół.",
-      "Blade postacie wzdrygają kiedy wyjmujesz #yfiolkę #yz #ykrwią. NL ~„Krew~ ~Pana...~ ~Krew~ ~Pana!~ @KREW@ @PANA!”@ NL Wszyscy zaczynają śpiewać, a wysoka postać kłania ci się nisko. NL „Wypij jego krew i stań się z #y~Nim jednością.”~ NL Śpiew przybiera na sile. Wypijasz całą zawartość fiolki. Twoje oczy spowija mgła. NL NL Budzisz się. Nikogo wokół. Nieodparty ~głód~ nie daje o sobie zapomnieć. NL #rŁakniesz #rkrwi..."
+      "Blade postacie wzdrygają kiedy wyjmujesz #yfiolkę #yz #ykrwią. NL ~„Krew~ ~Pana...~ ~Krew~ ~Pana!~ @KREW@ @PANA!”@ NL Wszyscy zaczynają śpiewać, a wysoka postać kłania ci się nisko. NL „Wypij jego krew i stań się z #y~Nim jednością.”~ NL Śpiew przybiera na sile. Wypijasz całą zawartość fiolki. Twoje oczy spowija mgła. NL NL Budzisz się. Nikogo wokół. Nieodparty ~głód~ nie daje o sobie zapomnieć. NL #rŁakniesz #rkrwi...",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
       "[Zgódź się] #gUsuń #gkarty #gUderzeń. #gZyskaj #g5 #gkart #gUgryzień. #rUtrać #r",
@@ -718,7 +719,7 @@
   "Ghosts": {
     "NAME": "Rada Duchów",
     "DESCRIPTIONS": [
-      "W pewnym momencie twojej wspinaczki #p~gęsty~, #p~czarny~ #p~dym~ zaczyna wydobywać się spod ziemi oraz ze ścian wokół ciebie. Po chwili kłębowisko zaczyna przeobrażać się w trzy zamaskowane postacie które zwracają się w twoją stronę. NL NL ~„Kolejna~ ~marionetka~ #y~Neow~.”~ NL #r@\"PRAWDA!@ #r@ONA@ #r@TWORZY@ #r@NAJLEPSZE@ #r@ZABAWKI@!”@ NL NL Pod maską trzeciej postaci zauważasz przesadnie szeroki uśmiech. NL „Zignoruj ich... Nie masz może ochoty poznać czym jest prawdziwa #y~moc?”~ ",
+      "W pewnym momencie twojej wspinaczki #p~gęsty~ , #p~czarny~ #p~dym~ zaczyna wydobywać się spod ziemi oraz ze ścian wokół ciebie. Po chwili kłębowisko zaczyna przeobrażać się w trzy zamaskowane postacie które zwracają się w twoją stronę. NL NL ~„Kolejna~ ~marionetka~ #y~Neow.”~ NL #r@\"PRAWDA!@ #r@ONA@ #r@TWORZY@ #r@NAJLEPSZE@ #r@ZABAWKI!”@ NL NL Pod maską trzeciej postaci zauważasz przesadnie szeroki uśmiech. NL „Zignoruj ich... Nie masz może ochoty poznać czym jest prawdziwa #y~moc?”~ ",
       "",
       "#y„Doskonale!” NL Kiedy zjawa wypowiada te słowa, jej usta rozwierają się coraz szerzej i szerzej. #p~Gęsty~, #p~czarny~ #p~dym~ wypełnia pomieszczenie, spowijając okolicę w mroku. Czujesz, że nie możesz złapać oddechu... NL NL Na ułamek przed utratą przytomności czujesz, że przedziwne uczucie znika. NL NL Duchowe istoty, czymkolwiek one były, zniknęły bez śladu. Ruszasz dalej, czując w środku niewytłumaczalną #bpustkę.",
       "„Żałosne...” NL ~„Wkrótce~ ~do~ ~nas~ ~dołączysz,~ ~śmiertelniku.”~ NL #r@„HA@ #r@HA@ #r@HA@ #r@HAHAHA!”@ NL NL Postacie znikają, pozostawiając jedynie głuchy, dudniący w uszach, śmiech.",

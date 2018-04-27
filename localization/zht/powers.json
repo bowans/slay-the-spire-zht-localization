@@ -145,12 +145,6 @@
       " 張牌。"
     ]
   },
-  "Darkness": {
-    "NAME": "黑暗",
-    "DESCRIPTIONS": [
-      "在你的回合開始時獲得能量減少 #b1 。"
-    ]
-  },
   "Demon Form": {
     "NAME": "惡魔形態",
     "DESCRIPTIONS": [
@@ -162,7 +156,8 @@
     "NAME": "敏捷",
     "DESCRIPTIONS": [
       "從卡牌獲得的 #y格擋 增加 #b",
-      "從卡牌獲得的 #y格擋 減少 #b"
+      "從卡牌獲得的 #y格擋 減少 #b",
+      "."
     ]
   },
   "Double Damage": {
@@ -499,12 +494,6 @@
       "如果其他敵人還生存，將在 #b2 回合後以 #b50% 生命復活。"
     ]
   },
-  "Relentless Beating": {
-    "NAME": "不懈跳動",
-    "DESCRIPTIONS": [
-      "你出牌或造成傷害就會跳得更快"
-    ]
-  },
   "Repulse": {
     "NAME": "反衝",
     "DESCRIPTIONS": [
@@ -639,7 +628,8 @@
     "NAME": "力量",
     "DESCRIPTIONS": [
       "攻擊傷害提升 #b",
-      "攻擊傷害降低 #b"
+      "攻擊傷害降低 #b",
+      "."
     ]
   },
   "Thievery": {
@@ -725,13 +715,6 @@
       " 回合。"
     ]
   },
-  "Wraith Form": {
-    "NAME": "幽魂形態",
-    "DESCRIPTIONS": [
-      "你每打出一張技能牌，對一名隨機敵人造成 ",
-      " 點傷害。"
-    ]
-  },
   "Minion": {
     "NAME": "爪牙",
     "DESCRIPTIONS": [
@@ -756,6 +739,150 @@
     "DESCRIPTIONS": [
       "在你的回合結束時，失去 #b",
       " 點 #y敏捷 。"
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Heatsink",
+    "DESCRIPTIONS": [
+      "Whenever you play a Power, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Repair": {
+    "NAME": "Repair",
+    "DESCRIPTIONS": [
+      "At the end of combat, heal #b",
+      " HP."
+    ]
+  },
+  "Storm": {
+    "NAME": "Storm",
+    "DESCRIPTIONS": [
+      "Whenever you play a #bPower, #yChannel #b ",
+      " Lightning."
+    ]
+  },
+  "Focus": {
+    "NAME": "Focus",
+    "DESCRIPTIONS": [
+      "Increases the effectiveness of Orbs by #b",
+      "Decreases the effectiveness of Orbs by #b",
+      "."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Conserve",
+    "DESCRIPTIONS": [
+      "#yEnergy is conserved this turn.",
+      "#yEnergy is conserved for the next #b",
+      " turns."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetism",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b%s random colorless card to your hand.",
+      "At the start of your turn, add #b%s random colorless cards to your hand."
+    ]
+  },
+  "Bias": {
+    "NAME": "Bias",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " #yFocus."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Creative AI",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Power card into your hand."
+    ]
+  },
+  "No Attack": {
+    "NAME": "No Attack",
+    "DESCRIPTIONS": [
+      "You cannot play #yAttacks this turn."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplify",
+    "DESCRIPTIONS": [
+      "On this turn, play your next #yPower twice.",
+      "On this turn, play your next ",
+      " #yPowers twice."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Buffer",
+    "DESCRIPTIONS": [
+      "Prevent the next time you would lose HP.",
+      "Prevent the next #b",
+      " times you would lose HP."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Rebound",
+    "DESCRIPTIONS": [
+      "The next card you play this turn is placed on top of your draw pile.",
+      "The next #b",
+      " cards you play this turn are placed on top of your draw pile."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Static Discharge",
+    "DESCRIPTIONS": [
+      "When receiving #yAttack damage, #yChannel #b",
+      " #yLightning."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Machine Learning",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " additional card at the start of each turn.",
+      " additional cards at the start of each turn."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Echo Form",
+    "DESCRIPTIONS": [
+      "The first card you play each turn is played #b",
+      " extra time.",
+      " extra times."
+    ]
+  },
+  "Prime": {
+    "NAME": "Prime",
+    "DESCRIPTIONS": [
+      "Whenever you #yChannel an Orb, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Loop": {
+    "NAME": "Loop",
+    "DESCRIPTIONS": [
+      "At the start of your turn, use the passive ability of your next Orb.",
+      "At the start of your turn, use the passive ability of your next #b",
+      " Orbs."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitive",
+    "DESCRIPTIONS": [
+      "Whenever you play a Common card, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Hello": {
+    "NAME": "Hello",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Common cards to your hand.",
+      " random Common card to your hand."
     ]
   }
 }

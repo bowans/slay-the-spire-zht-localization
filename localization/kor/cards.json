@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "화형",
-    "DESCRIPTION": "적 전체에게 !M! 의 피해를 줍니다. NL 뽑을 카드 더미에 화상 카드를 섞어 넣습니다."
+    "DESCRIPTION": "적 전체에게 !D! 의 피해를 줍니다. NL 버린 카드 더미에 화상 카드를 섞어 넣습니다."
   },
   "Regret": {
     "NAME": "후회",
@@ -14,7 +14,7 @@
   },
   "Crippling Poison": {
     "NAME": "신경독",
-    "DESCRIPTION": " 중독 을 !M! 부여합니다. NL 약화 를 !M! 부여합니다."
+    "DESCRIPTION": "적 전체에게 !M! 의 중독 과 2 의 약화 를 부여합니다. NL 소멸"
   },
   "A Thousand Cuts": {
     "NAME": "능지처참",
@@ -68,10 +68,6 @@
   "Inflame": {
     "NAME": "발화",
     "DESCRIPTION": "힘 을 !M! 얻습니다."
-  },
-  "Wraith Form": {
-    "NAME": "유령화",
-    "DESCRIPTION": "스킬 카드를 사용할 때마다 무작위 적에게 !M! 의 피해를 줍니다."
   },
   "Sadistic Nature": {
     "NAME": "가학적 본성",
@@ -208,7 +204,7 @@
   },
   "Necronomicurse": {
     "NAME": "네크로노미콘의 저주",
-    "DESCRIPTION": "사용불가 NL 이 저주는 제거할 수 없습니다."
+    "DESCRIPTION": "사용불가 NL 이 저주에서 벗어날 수 없습니다."
   },
   "Choke": {
     "NAME": "교살",
@@ -362,7 +358,7 @@
   },
   "Rampage": {
     "NAME": "광란",
-    "DESCRIPTION": " !D! 의 피해를 줍니다. NL 이 카드를 사용할 때마다 이 카드의 피해량이 !M! 증가합니다."
+    "DESCRIPTION": " !D! 의 피해를 줍니다. NL 이 카드를 사용할 때마다 이번 전투 동안 이 카드의 피해량이 !M! 증가합니다."
   },
   "Bandage Up": {
     "NAME": "붕대 감기",
@@ -645,10 +641,6 @@
     "NAME": "배신",
     "DESCRIPTION": " !D! 의 피해를 줍니다. NL 선천성 NL 소멸"
   },
-  "Step Through Time": {
-    "NAME": "Step Through Time",
-    "DESCRIPTION": "COST: 2 Charge. NL Your HP returns to the value it was last turn. NL Exhaust."
-  },
   "Feed": {
     "NAME": "포식",
     "DESCRIPTION": " !D! 의 피해를 줍니다. NL 이 공격으로 적이 죽으면 영구적으로 최대 체력이 !M! 증가합니다. 소멸"
@@ -886,6 +878,364 @@
   },
   "Wraith Form v2": {
     "NAME": "유령화",
-    "DESCRIPTION": "불가침을 !M! 얻습니다. NL  턴 종료 시 민첩 을 1 잃습니다."
+    "DESCRIPTION": "불가침 을 !M! 얻습니다. NL  턴 종료 시 민첩 을 1 잃습니다."
+  },
+  "Auto Shields": {
+    "NAME": "자동 방패",
+    "DESCRIPTION": "방어도 가 0이면, !B! 방어도 를 얻습니다."
+  },
+  "Rip and Tear": {
+    "NAME": "날뛰기",
+    "DESCRIPTION": "무작위 적에게 피해를 !D! 만큼 !M! 번 줍니다."
+  },
+  "Zap": {
+    "NAME": "파지직",
+    "DESCRIPTION": "전기 를 !M! 번 영창 합니다."
+  },
+  "Fission": {
+    "NAME": "핵분열",
+    "DESCRIPTION": "모든 구체 를 발현 합니다. 발현 된 구체 하나당 구체 슬롯을 1 증가시킵니다."
+  },
+  "Storm": {
+    "NAME": "폭풍",
+    "DESCRIPTION": "파워 카드를 사용할 때마다 전기 를 1 번 영창 합니다.",
+    "UPGRADE_DESCRIPTION": "선천성 NL 파워 카드를 사용할 때마다 전기 를 1 번 영창 합니다."
+  },
+  "Impulse": {
+    "NAME": "임펄스",
+    "DESCRIPTION": "모든 영창된 구체 의 지속 효과를 발동시킵니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "모든 영창된 구체 의 지속 효과를 발동시킵니다."
+  },
+  "Double Energy": {
+    "NAME": "에너자이저",
+    "DESCRIPTION": "에너지 를 두배로 만듭니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "에너지 를 두배로 만듭니다."
+  },
+  "Go for the Eyes": {
+    "NAME": "눈 찌르기",
+    "DESCRIPTION": "피해를 !D! 줍니다. 적이 공격할 의도가 있다면 약화 를 !M! 부여합니다."
+  },
+  "Flux Capacitor": {
+    "NAME": "유동 콘덴서",
+    "DESCRIPTION": "모든 영창된 구체 를 플라즈마 로 교체합니다. NL 소멸"
+  },
+  "Self Repair": {
+    "NAME": "자가 수리",
+    "DESCRIPTION": "전투 종료 시 체력을 !M! 회복합니다."
+  },
+  "Chaos": {
+    "NAME": "혼돈",
+    "DESCRIPTION": "무작위 구체 를 !M! 번 영창 합니다.",
+    "UPGRADE_DESCRIPTION": "무작위 구체 를 !M! 번 영창 합니다."
+  },
+  "Cold Snap": {
+    "NAME": "꽃샘추위",
+    "DESCRIPTION": "피해를 !D! 줍니다. 냉기 를 !M! 번 영창 합니다."
+  },
+  "Overclock": {
+    "NAME": "deprecated",
+    "DESCRIPTION": "deprecated",
+    "UPGRADE_DESCRIPTION": "deprecated"
+  },
+  "Hyperbeam": {
+    "NAME": "파괴광선",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 밀집 을 !M! 잃습니다."
+  },
+  "Energy Pulse": {
+    "NAME": "에너지 맥동",
+    "DESCRIPTION": "에너지 만큼의 방어도 를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "에너지 의 두배만큼의 방어도 를 얻습니다."
+  },
+  "Reinforced Body": {
+    "NAME": "강화된 몸체",
+    "DESCRIPTION": "방어도 !B! 를 X 번 얻습니다."
+  },
+  "Skim": {
+    "NAME": "걷어내기",
+    "DESCRIPTION": "카드를 !M! 장 뽑습니다."
+  },
+  "Heatsinks": {
+    "NAME": "히트싱크",
+    "DESCRIPTION": "파워 카드를 낼 때마다 카드를 !M! 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "파워 카드를 낼 때마다 카드를 !M! 장 뽑습니다."
+  },
+  "Darkness": {
+    "NAME": "어둠",
+    "DESCRIPTION": "취약 을 !M! 부여합니다. 암흑 을 !M! 번 영창 합니다.",
+    "UPGRADE_DESCRIPTION": "약화 를 !M! 부여합니다. 취약 을 !M! 부여합니다. 암흑 을 !M! 번 영창 합니다."
+  },
+  "Dualcast": {
+    "NAME": "이중 시전",
+    "DESCRIPTION": "가장 오른쪽의 구체 를 2번 발현 합니다."
+  },
+  "Magnetism": {
+    "NAME": "자기력",
+    "DESCRIPTION": "턴 시작 시 무작위 무색 카드 1 장을 얻습니다."
+  },
+  "Recycle": {
+    "NAME": "재활용",
+    "DESCRIPTION": "카드를 1 장 소멸 시킵니다. NL 그 카드의 비용만큼 [B] 를 얻습니다."
+  },
+  "Melter": {
+    "NAME": "용해 장치",
+    "DESCRIPTION": "적의 모든 방어도 를 없앱니다. NL 피해를 !D! 줍니다."
+  },
+  "FTL": {
+    "NAME": "FTL",
+    "DESCRIPTION": "피해를 !D! 줍니다. 만약 이번 턴에 카드를 !M! 장 미만으로 사용했다면 카드를 1 장 뽑습니다."
+  },
+  "Barrage": {
+    "NAME": "일제 사격",
+    "DESCRIPTION": "영창된 구체 하나당 피해를 !D! 줍니다."
+  },
+  "Allocate": {
+    "NAME": "할당",
+    "DESCRIPTION": "밀집 을 !M! 얻습니다. NL 힘 을 1 잃습니다. NL 민첩 을 1 잃습니다."
+  },
+  "Creative AI": {
+    "NAME": "창의적인 인공지능",
+    "DESCRIPTION": "매 턴 시작 시 무작위 파워 카드를 1 장 얻습니다."
+  },
+  "Ball Lightning": {
+    "NAME": "번개 구체",
+    "DESCRIPTION": "피해를 !D! 줍니다. 전기 를 !M! 번 영창 합니다."
+  },
+  "Coolheaded": {
+    "NAME": "냉정함",
+    "DESCRIPTION": "냉기 를 1 번 영창 합니다. NL 카드를 !M! 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "냉기 를 1 번 영창 합니다. NL 카드를 !M! 장 뽑습니다."
+  },
+  "Genetic Algorithm": {
+    "NAME": "유전 알고리즘",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. 카드를 사용하면 이 카드의 방어도를 영구적으로 !M! 증가시킵니다. NL 소멸"
+  },
+  "Amplify": {
+    "NAME": "증폭",
+    "DESCRIPTION": "이번 턴에 사용하는 다음 파워 카드가 두 번 사용됩니다.",
+    "UPGRADE_DESCRIPTION": "이번 턴에 사용하는 다음 파워 카드 !M! 장이 두 번 사용됩니다."
+  },
+  "Conserve Battery": {
+    "NAME": "배터리 보존",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 다음 턴까지 에너지 를 보존합니다."
+  },
+  "Aggregate": {
+    "NAME": "합하기",
+    "DESCRIPTION": "뽑을 카드 더미에 있는 카드 !M! 장당 [B] 를 얻습니다."
+  },
+  "Buffer": {
+    "NAME": "버퍼",
+    "DESCRIPTION": "다음 번에 체력을 잃는 것을 막아줍니다.",
+    "UPGRADE_DESCRIPTION": "다음 !M! 번 체력을 잃는 것을 막아줍니다."
+  },
+  "Winter": {
+    "NAME": "deprecated",
+    "DESCRIPTION": "deprecated"
+  },
+  "Steam Power": {
+    "NAME": "증기 발전",
+    "DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 화상 카드를 버린 카드 더미에 넣습니다."
+  },
+  "Reprogram": {
+    "NAME": "재구성",
+    "DESCRIPTION": "뽑을 카드 더미 위의 카드 !M! 장을 봅니다. 그 중에서 원하는 만큼 카드를 버립니다."
+  },
+  "Cache": {
+    "NAME": "deprecated",
+    "DESCRIPTION": "deprecated"
+  },
+  "Rebound": {
+    "NAME": "되돌리기",
+    "DESCRIPTION": "피해를 !D! 줍니다. 이번 턴에 사용하는 다음 카드를 뽑을 카드 더미의 맨 위에 놓습니다."
+  },
+  "Capacitor": {
+    "NAME": "커패시터",
+    "DESCRIPTION": "구체 슬롯 !M! 개를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "구체 슬롯 !M! 개를 얻습니다."
+  },
+  "Meteor Strike": {
+    "NAME": "운석 강타",
+    "DESCRIPTION": "피해를 !D! 줍니다. 플라즈마 를 !M! 번 영창 합니다."
+  },
+  "Stack": {
+    "NAME": "스택",
+    "DESCRIPTION": "버린 카드 더미에 있는 카드의 수만큼 방어도를 얻습니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "버린 카드 더미에 있는 카드의 수만큼 방어도를 얻습니다.",
+    "EXTENDED_DESCRIPTION": [
+      " NL ( 방어도 를 !B! 얻습니다.)"
+    ]
+  },
+  "Multi-Cast": {
+    "NAME": "다중 시전",
+    "DESCRIPTION": "가장 오른쪽의 구체를 X 번 발현 합니다.",
+    "UPGRADE_DESCRIPTION": "가장 오른쪽의 구체를 X+1 번 발현 합니다."
+  },
+  "Sweeping Beam": {
+    "NAME": "광선 휩쓸기",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 카드를 !M! 장 뽑습니다."
+  },
+  "Undo": {
+    "NAME": "되감기",
+    "DESCRIPTION": "현재 체력을 지난 턴의 체력으로 만듭니다. NL 소멸"
+  },
+  "Doom and Gloom": {
+    "NAME": "암울한 전망",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 암흑 을 !M! 번 영창 합니다."
+  },
+  "Thunder Strike": {
+    "NAME": "전격",
+    "DESCRIPTION": "이번 전투에서 영창된 전기 하나당 무작위 적에게 피해를 !D! 줍니다.",
+    "EXTENDED_DESCRIPTION": [
+      " (전기 를 !M! 번 영창 했습니다.)"
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "기계학습",
+    "DESCRIPTION": "턴 시작 시 카드를 !M! 장 더 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "선천성 NL 턴 시작 시 카드를 !M! 장 더 뽑습니다."
+  },
+  "Tempest": {
+    "NAME": "뇌우",
+    "DESCRIPTION": "전기 를 X 번 영창 합니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "전기 를 X+1 번 영창 합니다. NL 소멸"
+  },
+  "Streamline": {
+    "NAME": "간소화",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 간소화 카드를 사용할 때마다 이번 전투 동안 이 카드의 비용이 !M! 감소합니다."
+  },
+  "All For One": {
+    "NAME": "하나를 위한 모두",
+    "DESCRIPTION": "피해를 !D! 줍니다. 버린 카드 더미에 있는 비용이 0인 카드를 모두 손으로 가져옵니다."
+  },
+  "Channel": {
+    "NAME": "deprecated",
+    "DESCRIPTION": "deprecated"
+  },
+  "Gash": {
+    "NAME": "깊은 자상",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이번 전투에서 모든 깊은 자상 카드의 피해량이 !M! 증가합니다."
+  },
+  "Axe Kick": {
+    "NAME": "엑스 킥",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 가장 오른쪽의 구체를 발현 합니다."
+  },
+  "Fusion": {
+    "NAME": "융합",
+    "DESCRIPTION": "플라즈마 를 !M! 번 영창 합니다."
+  },
+  "Hologram": {
+    "NAME": "홀로그램",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 버린 카드 더미에서 무작위 카드 한 장을 손으로 가져옵니다.",
+    "UPGRADE_DESCRIPTION": "방어도 를 !B! 얻습니다. NL 버린 카드 더미에서 카드 한 장을 선택해서 손으로 가져옵니다."
+  },
+  "Blaster": {
+    "NAME": "블래스터",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 영창된 구체 하나당 [B] 를 얻습니다. NL 소멸"
+  },
+  "Biased Cognition": {
+    "NAME": "편견",
+    "DESCRIPTION": "밀집 을 !M! 얻습니다. NL 내 턴 시작 시 밀집 을 1 잃습니다."
+  },
+  "Beam Cell": {
+    "NAME": "레이저 포인터",
+    "DESCRIPTION": "피해를 !D! 주고 취약 을 !M! 부여합니다."
+  },
+  "Static Discharge": {
+    "NAME": "정전기 방전",
+    "DESCRIPTION": "공격 피해를 받을 때마다 전기 를 !M! 번 영창 합니다."
+  },
+  "Ice Wall": {
+    "NAME": "deprecated",
+    "DESCRIPTION": "deprecated",
+    "UPGRADE_DESCRIPTION": "deprecated"
+  },
+  "Reboot": {
+    "NAME": "다시 시작",
+    "DESCRIPTION": "모든 카드를 뽑을 카드 더미에 섞어 넣은 뒤 카드를 !M! 장 뽑습니다. NL 소멸"
+  },
+  "Blizzard": {
+    "NAME": "눈보라",
+    "DESCRIPTION": "이번 전투에서 영창된 냉기 의 2 배만큼 적 전체에게 피해를 줍니다.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (피해를 !D! 줍니다.)",
+      ""
+    ],
+    "UPGRADE_DESCRIPTION": "이번 전투에서 영창된 냉기 의 3 배만큼 적 전체에게 피해를 줍니다."
+  },
+  "Turbo": {
+    "NAME": "터보",
+    "DESCRIPTION": "[B] [B] 를 얻습니다. NL 버린 카드 더미에 공허 카드를 섞어 넣습니다.",
+    "UPGRADE_DESCRIPTION": "[B] [B] [B] 를 얻습니다. NL 버린 카드 더미에 공허 카드를 섞어 넣습니다."
+  },
+  "Glacier": {
+    "NAME": "빙하",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 냉기 를 !M! 번 영창 합니다.",
+    "UPGRADE_DESCRIPTION": "방어도를 !B! 얻습니다. NL 냉기 를 !M! 번 영창 합니다."
+  },
+  "Rainbow": {
+    "NAME": "무지개",
+    "DESCRIPTION": "전기 를 1 번, 냉기 를 1 번, 암흑 을 1 번 영창 합니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "전기 를 1 번, 냉기 를 1 번, 암흑 을 1 번 영창 합니다."
+  },
+  "Defragment": {
+    "NAME": "조각모음",
+    "DESCRIPTION": "밀집 을 !M! 얻습니다."
+  },
+  "Leap": {
+    "NAME": "도약",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+  "Redo": {
+    "NAME": "다시하기",
+    "DESCRIPTION": "가장 오른쪽의 구체를 발현 합니다. NL 발현 된 구체를 영창 합니다."
+  },
+  "White Noise": {
+    "NAME": "백색 소음",
+    "DESCRIPTION": "무작위 파워 카드 1 장을 얻습니다. NL 이번 턴 동안 그 카드의 비용이 0이 됩니다. NL 소멸"
+  },
+  "Nova": {
+    "NAME": "별의 탄생",
+    "DESCRIPTION": "이번 전투에서 사용된 파워 카드 한장당 적 전체에게 피해를 !M! 줍니다.",
+    "EXTENDED_DESCRIPTION": [
+      " NL 소멸",
+      " NL 피해를 !D! 줍니다."
+    ]
+  },
+  "Sunder": {
+    "NAME": "찢기",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 만약 적이 죽으면 [B] [B] [B] 를 얻습니다."
+  },
+  "Chill": {
+    "NAME": "오한",
+    "DESCRIPTION": "전투 중인 적 하나당 냉기 를 !M! 번 영창 합니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "선천성 NL 전투 중인 적 하나당 냉기 를 !M! 번 영창 합니다. NL 소멸"
+  },
+  "Seek": {
+    "NAME": "탐색",
+    "DESCRIPTION": "뽑을 카드 더미에서 카드 !M! 장을 골라 손으로 가져옵니다. NL 소멸"
+  },
+  "Echo Form": {
+    "NAME": "메아리",
+    "DESCRIPTION": "매 턴 처음 사용하는 카드가 두 번 사용됩니다."
+  },
+  "Force Field": {
+    "NAME": "전자기장",
+    "DESCRIPTION": "이번 전투에 사용된 파워 카드 한장당 [B] 소모가 1 감소합니다. NL 방어도 를 !B! 얻습니다."
+  },
+  "Prime": {
+    "NAME": "밑작업",
+    "DESCRIPTION": "구체 를 영창 할 때마다 카드를 !M! 장 뽑습니다."
+  },
+  "Loop": {
+    "NAME": "반복",
+    "DESCRIPTION": "턴 시작 시 가장 오른쪽 구체의 지속 효과를 발동시킵니다."
+  },
+  "Hello World": {
+    "NAME": "Hello World",
+    "DESCRIPTION": "턴 시작 시 무작위 일반 카드를 1장 얻습니다.",
+    "UPGRADE_DESCRIPTION": "선천성 NL 턴 시작 시 무작위 일반 카드를 1장 얻습니다."
+  },
+  "Primitive Tech": {
+    "NAME": "deprecated",
+    "DESCRIPTION": "deprecated"
   }
 }

@@ -13,8 +13,8 @@
     "DESCRIPTION": " 不能被打出 。 NL 在你的回合结束时，每有一张手牌就失去1点生命。"
   },
   "Crippling Poison": {
-    "NAME": "致残毒药",
-    "DESCRIPTION": "给予 !M! 层 中毒 。 NL 给予 !M! 层 虚弱 。"
+    "NAME": "致残毒云",
+    "DESCRIPTION": "给予所有敌人 !M! 层 中毒 和2层 虚弱 。 NL 消耗 。"
   },
   "A Thousand Cuts": {
     "NAME": "凌迟",
@@ -68,10 +68,6 @@
   "Inflame": {
     "NAME": "燃烧",
     "DESCRIPTION": "获得 !M! 点 力量 。"
-  },
-  "Wraith Form": {
-    "NAME": "幽魂形态",
-    "DESCRIPTION": "每当你打出一张技能牌，对一名随机敌人造成 !M! 点伤害。"
   },
   "Sadistic Nature": {
     "NAME": "残虐天性",
@@ -524,7 +520,7 @@
   },
   "Rage": {
     "NAME": "狂怒",
-    "DESCRIPTION": "你在这个回合内每打出一张攻击牌，就获得 !M! 格挡 。"
+    "DESCRIPTION": "打出此牌后，你在这个回合内每打出一张攻击牌，获得 !M! 格挡 。"
   },
   "Headbutt": {
     "NAME": "头槌",
@@ -640,10 +636,6 @@
   "Backstab": {
     "NAME": "背刺",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 固有 。 NL 消耗 。"
-  },
-  "Step Through Time": {
-    "NAME": "Step Through Time",
-    "DESCRIPTION": "COST: 2 Charge. NL Your HP returns to the value it was last turn. NL 消耗 。"
   },
   "Feed": {
     "NAME": "狂宴",
@@ -886,6 +878,364 @@
   },
   "Wraith Form v2": {
     "NAME": "幽魂形态",
-    "DESCRIPTION": "获得 !M! 层 无实体 。 NL 在你的回合结束时，失去1点敏捷。"
+    "DESCRIPTION": "获得 !M! 层 无实体 。 NL 在你的回合结束时，失去1点 敏捷 。"
+  },
+  "Auto Shields": {
+    "NAME": "自动护盾",
+    "DESCRIPTION": "如果你没有格挡，获得 !B! 点 格挡 。"
+  },
+  "Rip and Tear": {
+    "NAME": "狂乱撕扯",
+    "DESCRIPTION": "对一名随机敌人造成 !D! 点伤害 !M! 次。"
+  },
+  "Zap": {
+    "NAME": "电击",
+    "DESCRIPTION": "生成 !M! 个 闪电 充能球。"
+  },
+  "Fission": {
+    "NAME": "裂变",
+    "DESCRIPTION": "激发 所有充能球。 获得相同数量的充能球栏位。"
+  },
+  "Storm": {
+    "NAME": "雷暴",
+    "DESCRIPTION": "你每打出一张能力牌， 生成 1 个 闪电 充能球。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 你每打出一张能力牌，生成 1 个 闪电 充能球。"
+  },
+  "Impulse": {
+    "NAME": "脉冲",
+    "DESCRIPTION": "使用所有 充能球 的被动效果。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "使用所有 充能球 的被动效果。"
+  },
+  "Double Energy": {
+    "NAME": "双倍能量",
+    "DESCRIPTION": "将你的 能量 翻倍。 NL 消耗。",
+    "UPGRADE_DESCRIPTION": "将你的 能量 翻倍。"
+  },
+  "Go for the Eyes": {
+    "NAME": "眼部攻击",
+    "DESCRIPTION": "造成 !D! 点伤害。 如果目标敌人的意图是攻击，则给予其 !M! 层 虚弱 。"
+  },
+  "Flux Capacitor": {
+    "NAME": "通量电容器",
+    "DESCRIPTION": "将所有充能球替换为 等离子 充能球。 NL 消耗 。"
+  },
+  "Self Repair": {
+    "NAME": "自我修复",
+    "DESCRIPTION": "在战斗结束时，回复 !M! 点生命。"
+  },
+  "Chaos": {
+    "NAME": "混沌",
+    "DESCRIPTION": "随机 生成 !M! 个充能球。",
+    "UPGRADE_DESCRIPTION": "随机 生成 !M! 个充能球。"
+  },
+  "Cold Snap": {
+    "NAME": "寒流",
+    "DESCRIPTION": "造成 !D! 点伤害。 生成 !M! 个 冰霜 充能球。"
+  },
+  "Overclock": {
+    "NAME": "超频",
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
+  },
+  "Hyperbeam": {
+    "NAME": "超能光束",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 失去 !M! 点 集中 。"
+  },
+  "Energy Pulse": {
+    "NAME": "能量波动",
+    "DESCRIPTION": "获得你当前 能量 的 格挡 值。",
+    "UPGRADE_DESCRIPTION": "获得你当前 能量 两倍的 格挡 值。"
+  },
+  "Reinforced Body": {
+    "NAME": "硬化机体",
+    "DESCRIPTION": "获得 !B! 点 格挡 X 次。"
+  },
+  "Skim": {
+    "NAME": "快速检索",
+    "DESCRIPTION": "抽 !M! 张牌。"
+  },
+  "Heatsinks": {
+    "NAME": "散热片",
+    "DESCRIPTION": "你每打出一张能力牌，抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "你每打出一张能力牌，抽 !M! 张牌。"
+  },
+  "Darkness": {
+    "NAME": "漆黑",
+    "DESCRIPTION": "给予 !M! 层 虚弱 。 NL 生成 !M! 个 黑暗 能量球。",
+    "UPGRADE_DESCRIPTION": "给予 !M! 层 虚弱 。 NL 给予 !M! 层 易伤 。 NL 生成 !M! 个 黑暗 能量球。"
+  },
+  "Dualcast": {
+    "NAME": "双重释放",
+    "DESCRIPTION": "激发 你最右侧的充能球2次。"
+  },
+  "Magnetism": {
+    "NAME": "磁力",
+    "DESCRIPTION": "在每回合开始时，增加一张随机无色牌到你的手牌。"
+  },
+  "Recycle": {
+    "NAME": "回收",
+    "DESCRIPTION": "消耗 一张牌。 NL 获得与其耗能相等的 [B] 。"
+  },
+  "Melter": {
+    "NAME": "熔化",
+    "DESCRIPTION": "去除一名敌人的所有 格挡 值。 NL 造成 !D! 点伤害。"
+  },
+  "FTL": {
+    "NAME": "超越光速",
+    "DESCRIPTION": "造成 !D! 点伤害。 如果你在这回合打出的牌数少于 !M! 张，抽一张牌。"
+  },
+  "Barrage": {
+    "NAME": "弹幕齐射",
+    "DESCRIPTION": "你每拥有一个充能球，造成 !D! 点伤害。"
+  },
+  "Allocate": {
+    "NAME": "分配",
+    "DESCRIPTION": "获得 !M! 点 集中 。 NL 失去1点 力量 。 NL 失去1点 敏捷 。"
+  },
+  "Creative AI": {
+    "NAME": "创造性AI",
+    "DESCRIPTION": "在每回合开始时，增加一张随机 能力 牌到你的手牌。"
+  },
+  "Ball Lightning": {
+    "NAME": "球状闪电",
+    "DESCRIPTION": "造成 !D! 点伤害。 生成 !M! 个 闪电 充能球。"
+  },
+  "Coolheaded": {
+    "NAME": "冷静头脑",
+    "DESCRIPTION": "生成 1 个 冰霜 充能球。 NL 抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "生成 1 个 冰霜 充能球。 NL 抽 !M! 张牌。"
+  },
+  "Genetic Algorithm": {
+    "NAME": "遗传算法",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 每打出一次，这张牌在本局游戏中的格挡值永久性增加 !M! 。 NL 消耗 。"
+  },
+  "Amplify": {
+    "NAME": "增幅",
+    "DESCRIPTION": "在这个回合，你的下一张 能力牌 会打出两次。",
+    "UPGRADE_DESCRIPTION": "在这个回合，你的下 !M! 张 能力牌 会打出两次。"
+  },
+  "Conserve Battery": {
+    "NAME": "保留电量",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 能够保留多余的能量一个回合。"
+  },
+  "Aggregate": {
+    "NAME": "汇集",
+    "DESCRIPTION": "你的抽牌堆中每有 !M! 张牌，获得一点 [B] 。"
+  },
+  "Buffer": {
+    "NAME": "缓冲",
+    "DESCRIPTION": "阻止下一次你受到的生命值损伤。",
+    "UPGRADE_DESCRIPTION": "阻止下 !M! 次你受到的生命值损伤。"
+  },
+  "Winter": {
+    "NAME": "Winter",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Steam Power": {
+    "NAME": "蒸汽动力",
+    "DESCRIPTION": "抽 !M! 张牌。 NL  将一张 灼伤 放入你的弃牌堆中。"
+  },
+  "Reprogram": {
+    "NAME": "重编程",
+    "DESCRIPTION": "检视你抽牌堆顶部的 !M! 张牌。 你可以选择丢弃其中的任意张。"
+  },
+  "Cache": {
+    "NAME": "高速缓存",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Rebound": {
+    "NAME": "弹回",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你在这个回合打出的下一张牌将会被放置到抽牌堆的顶部。"
+  },
+  "Capacitor": {
+    "NAME": "电容器",
+    "DESCRIPTION": "获得 !M! 个充能球栏位。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 个充能球栏位。"
+  },
+  "Meteor Strike": {
+    "NAME": "陨石打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 生成 !M! 个 等离子 充能球。"
+  },
+  "Stack": {
+    "NAME": "堆栈",
+    "DESCRIPTION": "获得与你当前弃牌堆中牌数相等的 格挡 值。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得与你当前弃牌堆中牌数相等的 格挡 值。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （获得 !B! 点格挡。）"
+    ]
+  },
+  "Multi-Cast": {
+    "NAME": "多重释放",
+    "DESCRIPTION": "激发 你最右侧的充能球X次。",
+    "UPGRADE_DESCRIPTION": "激发 你最右侧的充能球X+1次。"
+  },
+  "Sweeping Beam": {
+    "NAME": "扫荡射线",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 抽 !M! 张牌。"
+  },
+  "Undo": {
+    "NAME": "撤消",
+    "DESCRIPTION": "将你的生命值变为上回合开始时的数值。 NL 消耗 。"
+  },
+  "Doom and Gloom": {
+    "NAME": "愁云惨淡",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 生成 !M! 个 黑暗 充能球。"
+  },
+  "Thunder Strike": {
+    "NAME": "雷霆打击",
+    "DESCRIPTION": "随机选中一名敌人，你在这场战斗中每 生成 过 一个 闪电 充能球，对其造成一次 !D! 点伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "（生成 过 !M! 个闪电 充能球。）"
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "机器学习",
+    "DESCRIPTION": "在每回合开始时额外抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 在每回合开始时额外抽 !M! 张牌。"
+  },
+  "Tempest": {
+    "NAME": "暴风雨",
+    "DESCRIPTION": "生成 X 个 闪电 充能球。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "生成 X+1 个 闪电 充能球。 NL 消耗 。"
+  },
+  "Streamline": {
+    "NAME": "精简改良",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你每打出一次 精简改良 ，它在这场战斗中的耗能就减少 !M! 。"
+  },
+  "All For One": {
+    "NAME": "万物一心",
+    "DESCRIPTION": "造成 !D! 点伤害。 将弃牌堆中所有0耗能的牌放入你的手牌。"
+  },
+  "Channel": {
+    "NAME": "Channel",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Gash": {
+    "NAME": "痛割",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 在这场战斗中所有 痛割 牌的伤害增加 !M! 。"
+  },
+  "Axe Kick": {
+    "NAME": "下压踢",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 激发 你最右侧的充能球。"
+  },
+  "Fusion": {
+    "NAME": "聚变",
+    "DESCRIPTION": "生成 !M! 个 等离子 充能球。"
+  },
+  "Hologram": {
+    "NAME": "全息影像",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 将弃牌堆中的一张随机牌放入你的手牌。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 将弃牌堆中的一张牌放入你的手牌。"
+  },
+  "Blaster": {
+    "NAME": "爆破射线",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 每拥有一个 能量球，获得 [B] 。 NL 消耗 。"
+  },
+  "Biased Cognition": {
+    "NAME": "偏差认知",
+    "DESCRIPTION": "获得 !M! 点 集中。 NL 在每回合开始时，失去 1 点 集中 。"
+  },
+  "Beam Cell": {
+    "NAME": "光束射线",
+    "DESCRIPTION": "造成 !D! 点伤害，给予 !M! 层 易伤 。"
+  },
+  "Static Discharge": {
+    "NAME": "静电释放",
+    "DESCRIPTION": "每当你受到攻击伤害时， 生成 !M! 个 闪电 充能球。"
+  },
+  "Ice Wall": {
+    "NAME": "冰墙",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 每拥有一个 冰霜 充能球，获得的 格挡 +3。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 每拥有一个 冰霜 充能球，获得的 格挡 +5。"
+  },
+  "Reboot": {
+    "NAME": "重启",
+    "DESCRIPTION": "将你所有未消耗的牌重新洗牌放入抽牌堆，然后抽 !M! 张牌。 NL 消耗 。"
+  },
+  "Blizzard": {
+    "NAME": "暴雪",
+    "DESCRIPTION": "对所有敌人造成你在这场战斗中 生成 过的 冰霜 充能球总数两倍的伤害。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成你在这场战斗中 生成 过的 冰霜 充能球总数 !M! 倍的伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （造成 !D! 点伤害。）",
+      ""
+    ]
+  },
+  "Turbo": {
+    "NAME": "内核加速",
+    "DESCRIPTION": "获得 [B] [B] 。 NL 将一张 虚空 放入你的弃牌堆中。",
+    "UPGRADE_DESCRIPTION": "获得 [B] [B] [B] 。 NL 将一张 虚空 放入你的弃牌堆中。"
+  },
+  "Glacier": {
+    "NAME": "冰川",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 生成 !M! 个 冰霜 充能球。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 生成 !M! 个 冰霜 充能球。"
+  },
+  "Rainbow": {
+    "NAME": "彩虹",
+    "DESCRIPTION": "生成 闪电 、 冰霜 、 黑暗 充能球各一个。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "生成 闪电 、 冰霜 、 黑暗 充能球各一个。"
+  },
+  "Defragment": {
+    "NAME": "碎片清理",
+    "DESCRIPTION": "获得 !M! 点 集中 。"
+  },
+  "Leap": {
+    "NAME": "飞跃",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+  "Redo": {
+    "NAME": "重复",
+    "DESCRIPTION": "激发 你最右侧的充能球。 NL 然后 生成 一个刚才被 激发 的充能球。"
+  },
+  "White Noise": {
+    "NAME": "白噪音",
+    "DESCRIPTION": "增加一张随机能力牌到你的手牌。 NL 这张牌在本回合耗能变为0。  NL 消耗 。"
+  },
+  "Nova": {
+    "NAME": "新星",
+    "DESCRIPTION": "对所有敌人造成你在这场战斗中打出过的能力牌总数乘以 !M! 的伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " NL 消耗 。",
+      " NL 造成 !D! 点伤害。"
+    ]
+  },
+  "Sunder": {
+    "NAME": "分离",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死了敌人，则获得 [B] [B] [B]。"
+  },
+  "Chill": {
+    "NAME": "冰寒",
+    "DESCRIPTION": "当前每有一名敌人，生成 !M! 个 冰霜 充能球。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 当前每有一名敌人，生成 !M! 个 冰霜 充能球。 NL 消耗 。"
+  },
+  "Seek": {
+    "NAME": "搜寻",
+    "DESCRIPTION": "从抽牌堆中选择 !M! 张牌放入你的手牌。 NL 消耗 。"
+  },
+  "Echo Form": {
+    "NAME": "回响形态",
+    "DESCRIPTION": "你每回合打出的第一张牌会打出两次。"
+  },
+  "Force Field": {
+    "NAME": "力场",
+    "DESCRIPTION": "你在这场战斗中每打出一张能力牌，耗能就减少1 [B] 。 NL 获得 !B! 点 格挡 。"
+  },
+  "Prime": {
+    "NAME": "预备",
+    "DESCRIPTION": "每当你 生成 充能球时，抽 !M! 张牌。"
+  },
+  "Loop": {
+    "NAME": "循环",
+    "DESCRIPTION": "在你的回合开始时，使用你最右侧的1个充能球的被动能力。"
+  },
+  "Hello World": {
+    "NAME": "你好，世界",
+    "DESCRIPTION": "在你的回合开始时，增加一张随机普通牌到你的手牌。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 在你的回合开始时，增加一张随机普通牌到你的手牌。"
+  },
+  "Primitive Tech": {
+    "NAME": "原始科技",
+    "DESCRIPTION": "Deprecated."
   }
 }

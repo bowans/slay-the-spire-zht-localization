@@ -191,17 +191,17 @@
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-      "Boss",
-      "Commune",
-      "Sans valeur",
-      "Rare",
-      "Boutique",
-      "Événement",
-      "Basique",
-      "Peu commune",
-      "Verrouillée",
-      "Inconnue",
-      " Relique",
+      "Relique de Boss",
+      "Relique commune",
+      "Relique sans valeur",
+      "Relique rare",
+      "Relique du Marchand",
+      "Relique événement",
+      "Relique basique",
+      "Relique peu commune",
+      "Relique verrouillée",
+      "Relique inconnue",
+      "",
       "Cette Relique doit être déverrouillée.",
       "Cette Relique doit être découverte."
     ]
@@ -277,11 +277,6 @@
     ]
   },
   "DualWieldAction": {
-    "TEXT": [
-      "Dupliquer"
-    ]
-  },
-  "HiddenChamberAction": {
     "TEXT": [
       "Dupliquer"
     ]
@@ -439,8 +434,8 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "REMARQUE : les options en ROUGE ne sont pas encore implémentées.",
-      "Menu du jeu",
+      "",
+      "Options de jeu",
       "Graphismes",
       "Résolution : NL Fréquence d'images max :",
       "Plein écran NL Plein écran fenêtré (recommandé) NL Tremblement de l'écran",
@@ -458,7 +453,8 @@
       "Sauvegarder et quitter",
       "NL NL Synchronisation verticale",
       "Mode artistique du testeur",
-      "Montrer les raccourcis de sélection de cartes"
+      "Montrer les raccourcis de sélection de cartes",
+      "Input Settings"
     ]
   },
   "SettingsScreen": {
@@ -538,19 +534,19 @@
   "RelicViewScreen": {
     "TEXT": [
       "Retour",
-      "Classiques :",
+      "Basiques :",
       "les personnages peuvent commencer la partie avec ces Reliques.",
-      "Ordinaires :",
+      "Communes :",
       "des Reliques faibles qu'on trouve facilement.",
-      "Inhabituelles :",
-      "des Reliques plus puissantes et moins fréquentes que les reliques ordinaires.",
+      "Peu communes :",
+      "des Reliques plus puissantes et moins fréquentes que les reliques communes.",
       "Rares :",
       "des Reliques puissantes et uniques qu'on trouve rarement.",
       "Boss :",
       "des Reliques uniquement trouvées dans des coffres de boss.",
       "Événement :",
       "des Reliques uniquement disponibles lors d'événements.",
-      "Boutique :",
+      "Marchand :",
       "des Reliques qui s'achètent uniquement chez le Marchand."
     ]
   },
@@ -559,7 +555,7 @@
       "Verrouillé",
       "Ce personnage peut être déverrouillé en terminant une partie.",
       "Ce personnage n'est pas disponible en accès anticipé.",
-      "Ce personnage peut être déverrouillé en atteignant le haut de la Tour.",
+      "Ce personnage peut être déverrouillé en terminant une partie avec la Silencieuse.",
       "PV : ",
       "Or : ",
       " À déverrouiller",
@@ -574,7 +570,7 @@
       "Commencer",
       "Le Soldat de fer",
       "La Silencieuse",
-      "Corbot",
+      "Le Défectueux",
       "Retour",
       "Ascension",
       "Niveau ",
@@ -703,11 +699,11 @@
       "Suédois",
       "Norvégien",
       "Thaï",
-      "Serbe",
+      "Serbe (Cyrillique)",
       "Ukrainien",
       "Vietnamien",
       "Hongrois",
-      "Serbian (Latin)"
+      "Serbe (Latin)"
     ]
   },
   "UnlockTextEffect": {
@@ -725,7 +721,7 @@
       "Bloqué",
       "le Soldat de fer",
       "la Silencieuse",
-      "the Gunner"
+      "le Défectueux"
     ]
   },
   "ExhaustAction": {
@@ -822,7 +818,7 @@
     "TEXT": [
       "Le Soldat de fer",
       "La Silencieuse",
-      "3rd Char. DO NOT TRANSLATE",
+      "Le Défectueux",
       "Étage atteint moyen (sur les 20 dernières tentatives)",
       "Score moyen (sur les 20 dernières tentatives)",
       "Meilleure série de victoires",
@@ -882,7 +878,7 @@
     "TEXT": [
       "Le Soldat de fer",
       "La Silencieuse",
-      "",
+      "Le Défectueux",
       "Retour",
       "Pas d'historique de parties trouvé. NL Allez vaincre la Tour !",
       "Niveau d'Ascension : ",
@@ -895,10 +891,10 @@
       "Commune",
       "Peu commune",
       "Rare",
-      "Spéciale",
+      "Événement",
       "Malédiction",
       "Boss",
-      "Boutique",
+      "Marchand",
       "Inconnue",
       "%1$d %2$s",
       "%1$s (%2$d) :",
@@ -949,7 +945,7 @@
       " NL #yModificateurs : ",
       "Modificateurs : ",
       "Classements",
-      "*Achievements are off for Daily Climb."
+      "*Les succès sont désactivés pendant les défis quotidens."
     ]
   },
   "MenuPanels": {
@@ -1031,7 +1027,61 @@
       "Entrez une nouvelle seed",
       "Confirmer",
       "Annuler",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "*Les succès et le partage de votre score sont désactivés si vous utilisez une Seed personnalisée."
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "Échap",
+      "Forward Delete": "Suppr",
+      "Delete": "Retour arrière"
+    }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Défausser"
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Contrôles",
+      "Paramètres de jeu",
+      "Retour (?)",
+      "Commandes (?)",
+      "Clavier",
+      "Manette (Bientôt)",
+      "Réinitialiser",
+      "Confirmer",
+      "Annuler / Quitter",
+      "Carte",
+      "Deck",
+      "Pioche",
+      "Défausse",
+      "Cartes épuisées",
+      "Fin du tour",
+      "Gauche",
+      "Droite",
+      "Sélectionner la carte n°1",
+      "Sélectionner la carte n°2",
+      "Sélectionner la carte n°3",
+      "Sélectionner la carte n°4",
+      "Sélectionner la carte n°5",
+      "Sélectionner la carte n°6",
+      "Sélectionner la carte n°7",
+      "Sélectionner la carte n°8",
+      "Sélectionner la carte n°9",
+      "Sélectionner la carte n°10"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Choisissez une carte à placer au dessus de votre pioche.",
+      "Choisissez les cartes à placer au dessus de votre pioche."
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
     ]
   }
 }

@@ -20,6 +20,13 @@
       ],
       "DESCRIPTION": "Le Maledizioni sono carte con effetto negativo che rimangono nel tuo mazzo."
     },
+    "EVOKE": {
+      "NAMES": [
+        "evoca",
+        "evocato"
+      ],
+      "DESCRIPTION": "Consuma il tuo Globo più a destra e usa i suoi effetti di Evocazione."
+    },
     "DEXTERITY": {
       "NAMES": [
         "destrezza"
@@ -48,11 +55,23 @@
       ],
       "DESCRIPTION": "Inizia ogni combattimento con questa carta in mano."
     },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Il Focus aumenta l'efficacia dei Globi #yCanalizzati."
+    },
     "LOCKED": {
       "NAMES": [
         "bloccata"
       ],
       "DESCRIPTION": "Questa carta deve essere ancora sbloccata."
+    },
+    "OPENER": {
+      "NAMES": [
+        "apertura"
+      ],
+      "DESCRIPTION": "Le carte d'apertura possono essere giocate soltanto come prima carta in ogni turno."
     },
     "POISON": {
       "NAMES": [
@@ -111,6 +130,13 @@
       ],
       "DESCRIPTION": "Potenziare le carte le rende più forti. Le carte possono solo essere potenziate una volta."
     },
+    "VOID": {
+      "NAMES": [
+        "vuoto",
+        "vuoti"
+      ],
+      "DESCRIPTION": "I vuoti sono carte di stato ingiocabili che consumano energiano quando vengono pescate."
+    },
     "VULNERABLE": {
       "NAMES": [
         "vulnerabile"
@@ -164,6 +190,49 @@
       ],
       "DESCRIPTION": "Il costo delle carte cambia in maniera casuale quando le peschi."
     },
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangibile"
+      ],
+      "DESCRIPTION": "Riduce TUTTO il danno e la perdita di HP ad #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "fulmine",
+        "fulmine+"
+      ],
+      "DESCRIPTION": "Globo: infligge danni a un nemico casuale."
+    },
+    "FROST": {
+      "NAMES": [
+        "ghiaccio",
+        "ghiaccio+"
+      ],
+      "DESCRIPTION": "Globo: Ottieni #yBlocco."
+    },
+    "DARK": {
+      "NAMES": [
+        "oscurità",
+        "oscurità+"
+      ],
+      "DESCRIPTION": "Globo: Infligge danno aggiuntivo ogni turno. Quando viene #yEvocata, infligge danni al nemico con meno PV."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Globo: Ottieni Energia."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "canalizza",
+        "canalizzato",
+        "canalizzi",
+        "canalizzati"
+      ],
+      "DESCRIPTION": "Canalizzare crea un Globo che si sposta nel tuo primo spazio vuoto. Se non ci sono spazi vuoti, il tuo primo Globo (a destra) sarà immediatamente #yEvocato per fare spazio."
+    },
     "TODO": {
       "NAMES": [
         "todo",
@@ -176,12 +245,6 @@
     },
     "TEXT": [
       "L'Energia viene usata per giocare carte dalla tua mano."
-    ],
-    "INTANGIBLE": {
-      "NAMES": [
-        "intangible"
-      ],
-      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
-    }
+    ]
   }
 }

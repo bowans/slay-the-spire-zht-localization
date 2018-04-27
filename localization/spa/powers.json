@@ -53,7 +53,7 @@
     ]
   },
   "Blur": {
-    "NAME": "Desdibujarse",
+    "NAME": "Difuminarse",
     "DESCRIPTIONS": [
       "El #yBloqueo ya no expira al comienzo de tu siguiente turno.",
       "El #yBloqueo ya no expira al comienza de tus siguientes #b",
@@ -145,12 +145,6 @@
       " cartas."
     ]
   },
-  "Darkness": {
-    "NAME": "Oscuridad",
-    "DESCRIPTIONS": [
-      "Pierde #b1 de Energía al comienzo de tu turno."
-    ]
-  },
   "Demon Form": {
     "NAME": "Forma de Demonio",
     "DESCRIPTIONS": [
@@ -162,7 +156,8 @@
     "NAME": "Destreza",
     "DESCRIPTIONS": [
       "Aumenta el #yBloqueo ganado de las cartas en #b",
-      "Reduce el #yBloqueo ganado de las cartas en #b"
+      "Reduce el #yBloqueo ganado de las cartas en #b",
+      "."
     ]
   },
   "Double Damage": {
@@ -383,7 +378,7 @@
     ]
   },
   "Metallicize": {
-    "NAME": "Metalizado",
+    "NAME": "Metalizar",
     "DESCRIPTIONS": [
       "Gana #b",
       " de #yBloqueo al final de tu turno.",
@@ -503,12 +498,6 @@
     "NAME": "Vínculo de Vida",
     "DESCRIPTIONS": [
       "Si otros enemigos siguen vivos, revive en #b2 turnos al #b50% de PV."
-    ]
-  },
-  "Relentless Beating": {
-    "NAME": "Latido Incesante",
-    "DESCRIPTIONS": [
-      " late más rápido cada vez que juegas cartas o infliges daño"
     ]
   },
   "Repulse": {
@@ -645,7 +634,8 @@
     "NAME": "Fuerza",
     "DESCRIPTIONS": [
       "Aumenta el daño de ataque en #b",
-      "Reduce el daño de ataque en #b"
+      "Reduce el daño de ataque en #b",
+      "."
     ]
   },
   "Thievery": {
@@ -663,7 +653,7 @@
     ]
   },
   "Thousand Cuts": {
-    "NAME": "Mil Cortes",
+    "NAME": "Un Millar de Cortes",
     "DESCRIPTIONS": [
       "Cuando juegues una carta, inflige #b",
       " de daño a TODOS los enemigos."
@@ -707,7 +697,7 @@
     ]
   },
   "Venomology": {
-    "NAME": "Venomology",
+    "NAME": "Venomología",
     "DESCRIPTIONS": [
       "#yVeneno crece en #b",
       " en lugar de disminuir cada turno."
@@ -731,31 +721,168 @@
       " turnos."
     ]
   },
-  "Wraith Form": {
-    "NAME": "Forma Espectral",
-    "DESCRIPTIONS": [
-      "Cada vez que juegues una Habilidad, inflige ",
-      " de daño a un enemigo aleatorio."
-    ]
-  },
   "GrowthPower": {
-    "NAME": "Growth",
+    "NAME": "Crecimiento",
     "DESCRIPTIONS": [
-      "At the end of its turn, gains #b",
-      " #yStrength."
+      "Al final del turno, gana #b",
+      " #yFuerza."
     ]
   },
   "IntangiblePlayer": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
+      "Reduce TODO el daño recibido y PV perdidos a #b1."
     ]
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
+    "NAME": "Forma Espectral",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b ",
-      " Dexterity."
+      "Al final de tu turno, pierde #b ",
+      " Destreza."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Heatsink",
+    "DESCRIPTIONS": [
+      "Whenever you play a Power, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Repair": {
+    "NAME": "Repair",
+    "DESCRIPTIONS": [
+      "At the end of combat, heal #b",
+      " HP."
+    ]
+  },
+  "Storm": {
+    "NAME": "Storm",
+    "DESCRIPTIONS": [
+      "Whenever you play a #bPower, #yChannel #b ",
+      " Lightning."
+    ]
+  },
+  "Focus": {
+    "NAME": "Focus",
+    "DESCRIPTIONS": [
+      "Increases the effectiveness of Orbs by #b",
+      "Decreases the effectiveness of Orbs by #b",
+      "."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Conserve",
+    "DESCRIPTIONS": [
+      "#yEnergy is conserved this turn.",
+      "#yEnergy is conserved for the next #b",
+      " turns."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetism",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b%s random colorless card to your hand.",
+      "At the start of your turn, add #b%s random colorless cards to your hand."
+    ]
+  },
+  "Bias": {
+    "NAME": "Bias",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " #yFocus."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Creative AI",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Power card into your hand."
+    ]
+  },
+  "No Attack": {
+    "NAME": "No Attack",
+    "DESCRIPTIONS": [
+      "You cannot play #yAttacks this turn."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplify",
+    "DESCRIPTIONS": [
+      "On this turn, play your next #yPower twice.",
+      "On this turn, play your next ",
+      " #yPowers twice."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Buffer",
+    "DESCRIPTIONS": [
+      "Prevent the next time you would lose HP.",
+      "Prevent the next #b",
+      " times you would lose HP."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Rebound",
+    "DESCRIPTIONS": [
+      "The next card you play this turn is placed on top of your draw pile.",
+      "The next #b",
+      " cards you play this turn are placed on top of your draw pile."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Static Discharge",
+    "DESCRIPTIONS": [
+      "When receiving #yAttack damage, #yChannel #b",
+      " #yLightning."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Machine Learning",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " additional card at the start of each turn.",
+      " additional cards at the start of each turn."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Echo Form",
+    "DESCRIPTIONS": [
+      "The first card you play each turn is played #b",
+      " extra time.",
+      " extra times."
+    ]
+  },
+  "Prime": {
+    "NAME": "Prime",
+    "DESCRIPTIONS": [
+      "Whenever you #yChannel an Orb, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Loop": {
+    "NAME": "Loop",
+    "DESCRIPTIONS": [
+      "At the start of your turn, use the passive ability of your next Orb.",
+      "At the start of your turn, use the passive ability of your next #b",
+      " Orbs."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitive",
+    "DESCRIPTIONS": [
+      "Whenever you play a Common card, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Hello": {
+    "NAME": "Hello",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Common cards to your hand.",
+      " random Common card to your hand."
     ]
   }
 }

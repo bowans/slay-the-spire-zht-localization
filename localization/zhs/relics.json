@@ -1082,5 +1082,69 @@
     "DESCRIPTIONS": [
       "每当你获得 #y技能牌 时，将其 #y升级 。"
     ]
+  },
+  "DataDisk": {
+    "NAME": "数据磁盘",
+    "FLAVOR": "这张磁盘里记录了关于鸟类和蛇类的珍贵数据。",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时，获得 #b",
+      " 点 #y集中 。"
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "核能电池",
+    "FLAVOR": "哇噢……",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时， #y生成 #b1 个 #y等离子 充能球。"
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "破损核心",
+    "FLAVOR": "高塔中所有自动机器人体内都有的神秘生命力之源，这个似乎已经有一点破损了。",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时， #y生成 #b1 个 #y闪电 充能球。"
+    ]
+  },
+  "Turnip": {
+    "NAME": "萝卜",
+    "FLAVOR": "与生姜搭配尤为适合。",
+    "DESCRIPTIONS": [
+      "你不会再被 #y脆弱 。"
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "情感芯片",
+    "FLAVOR": "……<3……？",
+    "DESCRIPTIONS": [
+      "在每回合开始时，如果你在之前回合受到过伤害，则触发所有充能球的被动效果。"
+    ]
+  },
+  "Inserter": {
+    "NAME": "嵌入机",
+    "FLAVOR": "这件遗物还没有说明。",
+    "DESCRIPTIONS": [
+      "每 #b2 回合，获得 #b1 个充能球栏位。"
+    ]
+  },
+  "Cables": {
+    "NAME": "镀金缆线",
+    "FLAVOR": "“有意思！看来就连自动机器人也会有安慰剂效应。”——兰伟德",
+    "DESCRIPTIONS": [
+      "你最右侧的充能球会额外触发一次被动效果。"
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "符文电容器",
+    "FLAVOR": "多多益善。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，获得 #b3 个额外充能球栏位。"
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "共生病毒",
+    "FLAVOR": "小小的 #r麻烦 ，却可以带来大大的  #g益处 ……",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时， #y生成 #b1 个 #y黑暗 充能球。"
+    ]
   }
 }

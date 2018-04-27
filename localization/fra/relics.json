@@ -268,7 +268,7 @@
     "NAME": "Œuf gelé",
     "FLAVOR": "L'œuf est inerte et gelé, il n'éclora jamais.",
     "DESCRIPTIONS": [
-      "Quand vous obtenez une carte Pouvoir, elle est #yAméliorée."
+      "Quand vous obtenez une carte #yPouvoir, elle est #yAméliorée."
     ]
   },
   "Molten Egg 2": {
@@ -1081,6 +1081,70 @@
     "FLAVOR": "Cette amulette absorbe le pouvoir d'énergies démoniaques et le convertit en vitalité pour son porteur.",
     "DESCRIPTIONS": [
       "Lorsque vous recevez une #yMalédiction, augmentez vos PV Max de #b"
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Cœur fissuré",
+    "FLAVOR": "La mystérieuse forme vitale qui alimente le robot de combat dans la Tour. Il parrait fissurée.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yKéraunique."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Inserter (?)",
+    "FLAVOR": "Manquant.",
+    "DESCRIPTIONS": [
+      "Tous les #2 tours, gagnez #b1 emplacement d'Orbe."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Emotion Chip",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "Au début de chaque tour, si vous avez subis des dégâts au tour précédent, déclenche la capassité passive de TOUS vos Orbes."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Condensateur runique",
+    "FLAVOR": "Plus on fait, mieux c'est.",
+    "DESCRIPTIONS": [
+      "Débutez chaque combat avec #b3 emplacements d'Orbes supplémentaires."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Navet",
+    "FLAVOR": "Meilleur avec du gimgembre.",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez plus devenir #yFrêle."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Batterie nucléaire",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yPlasmique."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Virus symbiotique",
+    "FLAVOR": "Un peu de #douleur peut faire beaucoup de #gbien...",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, #yCanalisez #b1 #Orbe #Obscur."
+    ]
+  },
+  "Cables": {
+    "NAME": "Cable plaqué-or",
+    "FLAVOR": "\"Intéressant! Même les robots de combat sont affecté par l'effet placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Votre Orbe le plus à droite déclenche sa capacité passive une fois supplémentaire."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Disque dur",
+    "FLAVOR": "Ce disque dur contient de précieuses informations sur les oiseaux et les serpents.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, gagnez #b",
+      " #yConcentration."
     ]
   }
 }

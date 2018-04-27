@@ -44,9 +44,9 @@
   "Match and Keep!": {
     "NAME": "Abbina e Vinci!",
     "DESCRIPTIONS": [
-      "\" #bDodici carte! Abbinale per tenerle! #bCinque tentativi, niente bonus. NL Sei pronto? Andiamo!\"",
+      "\" #bDodici carte! Forma le coppie per tenerle! #bCinque tentativi, niente bonus. NL Sei pronto? Andiamo!\"",
       "Completi il gioco del gremlin e alzi lo sguardo. NL È sparito?",
-      "Un gremlin mescola carte a una velocità folle su un tavolo. Sembra un mostriciattolo inoffensivo e lo avvicini con curiosità."
+      "Un gremlin mescola alcune carte su un tavolo a una velocità folle. Sembra un mostriciattolo inoffensivo, ti avvicini con curiosità."
     ],
     "OPTIONS": [
       "[Continua]",
@@ -59,8 +59,8 @@
     "NAME": "Duplicatore",
     "DESCRIPTIONS": [
       "Di fronte a te c'è un ornato altare, dedicato ad antichi dei.",
-      "Ti inchini rispettosamente. Un'eterea immagine speculare appare dall'altare e ti attraversa.",
-      "Ignori l'altare, convinto della tua scelta."
+      "Ti inchini rispettosamente. Un immagine riflessa compare di fronte all'altare e ti attraversa.",
+      "Ignori l'altare, sicuro nelle tue scelte."
     ],
     "OPTIONS": [
       "[Prega] #gDuplica #guna #gcarta #gnel #gtuo #gmazzo.",
@@ -73,7 +73,7 @@
     "DESCRIPTIONS": [
       "Davanti a te #b~risplende~ #b~l'acqua~ che fluisce incessantemente da una fontana a muro.",
       "Mentre l'#b~acqua~ ti scorre attraverso, è come se ti liberasse da una #pstretta #pinvisibile.",
-      "Non convinto della natura dell'acqua, continui par la tua strada, assetato."
+      "Diffidando della natura dell'acqua, continui par la tua strada assetato."
     ],
     "OPTIONS": [
       "[Bevi] #gRimuovi #gtutte #gle #gMaledizioni #gdal #gtuo #gmazzo.",
@@ -85,7 +85,7 @@
     "DESCRIPTIONS": [
       "Davanti a te c'è un altare intarsiato, dedicato ad un antico spirito.",
       "Mentre la tua mano tocca l'altare, una pioggia #yd'oro scende dal soffitto, ~ricoprendoti.~",
-      "Per ogni colpo che dai all'altare, ancora più #yoro ne fuoriesce! NL Mentre intaschi il danaro, qualcosa #rd'altro #rti #rappesantisce.",
+      "Ogni colpo sferrato all'altare libera un rivolo #yd'oro! NL Mentre  ti riempi le tasche, #rqualcosa #rti #rappesantisce.",
       "Ignori l'altare."
     ],
     "OPTIONS": [
@@ -98,10 +98,10 @@
   "Lab": {
     "NAME": "Lab",
     "DESCRIPTIONS": [
-      "La stanza dove ti trovi è piena di provette, becher, beute, forcipi, matracci, bacchette in vetro, pinze, occhiali protettivi, imbuti, pipette, cilindri e condensatori. C'è anche un raro refrigerante. NL NL C'è da chiedersi come tu faccia a conoscere i nomi di questi strumenti... Non importa. Ti guardi intorno."
+      "La stanza dove ti trovi è piena di provette, becher, beute, forcipi, matracci, bacchette in vetro, pinze, occhialoni, imbuti, pipette, cilindri e condensatori. C'è anche un raro refrigerante. NL NL C'è da chiedersi come tu faccia a conoscere i nomi di questi strumenti... Non importa. Ti guardi intorno."
     ],
     "OPTIONS": [
-      "[Cerca] #gTrova #gdelle #gPozioni!"
+      "[Cerca] #gTrova #galcune #gPozioni!"
     ]
   },
   "Purifier": {
@@ -121,7 +121,7 @@
     "NAME": "Trasmodificatore",
     "DESCRIPTIONS": [
       "Davanti a te c'è uno strano altare, dedicato ad un antico spirito.",
-      "Mentre il potere dell'altare ti attraversa, i tuoi pensieri si modificano.",
+      "Mentre il potere dell'altare ti attraversa, i tuoi pensieri si ristrutturano.",
       "Ignori l'altare."
     ],
     "OPTIONS": [
@@ -147,14 +147,14 @@
   "Wheel of Change": {
     "NAME": "Ruota del Cambiamento",
     "DESCRIPTIONS": [
-      "Incontri un elegante ed allegro gremlin. NL \"È tempo di girare la ruota! Sei ~P~ ~R~ ~O~ ~N~ ~T~ ~O~ ~?~ Certo che sì!\"",
-      "\"Vinci un po' #yd'ORO! NL YAY!!!\"",
-      "\"Ah, un #gregalo! NL Goditelo!\"",
+      "Incontri un goblin allegro e molto elegante. NL \"È tempo di girare la ruota! Sei ~P~ ~R~ ~O~ ~N~ ~T~ ~O~ ~?~ Certo che sì!\"",
+      "\"Vinci #ydell'ORO! NL YAY!!!\"",
+      "\"Ah, un #gregalo! NL Fanne buon uso!\"",
       "\"Oooh, #gCura gratuita in arrivo!\"",
       "\"A quanto pare hai vinto una #pMaledizione! NL Peccato. NL Oh beh! Andrà meglio la prossima volta!\"",
       "\"Ohh, il potere #r~oscuro...~ NL Scegli una carta da rimuovere dal mazzo!\"",
       "\"Oh-oh! NL Hai perso!\" NL Noti che prende un pugnale...",
-      "Attacchi il gremlin folle, ma è troppo rapido! Un paio di colpi ti raggiungono. NL \"Il prezzo è stato pagato!!\" NL E con ciò, gremlin e ruota spariscono in una nuvola di fumo."
+      "Attacchi il gremlin impazzito, ma è troppo rapido! Alcuni fendenti ti raggiungono. NL \"Il prezzo è stato pagato!!\" NL E con ciò, gremlin e ruota spariscono in una nuvola di fumo."
     ],
     "OPTIONS": [
       "[Gioca]",
@@ -173,9 +173,9 @@
     "NAME": "Caduta",
     "DESCRIPTIONS": [
       "Saltellando fra un oggetto sospeso e l'altro, scivoli. NL NL Cadi.",
-      "Mentre cadi, consideri le tue opzioni: NL Atterrare sano e salvo affidandoti alle migliori tecniche che hai. NL Incanalare un Potere per sopravvivere. NL Colpire il muro per aggrapparti.",
+      "Mentre cadi, consideri le tue opzioni: NL Atterrare sano e salvo affidandoti alle migliori tecniche che conosci. NL Incanalare un Potere per sopravvivere. NL Aggrapparti al muro colpendolo.",
       "Atterri con estrema grazia prima di proseguire.",
-      "Raccogliendo la tua forza interiore, riesci ad atterrare senza un graffio.",
+      "Raccogliendo la tua energia interiore, riesci ad atterrare senza un graffio.",
       "Riesci ad aggrapparti al muro e con un balzo raggiungi un'altra piattaforma stabile."
     ],
     "OPTIONS": [
@@ -192,9 +192,9 @@
   "The Moai Head": {
     "NAME": "Il Moai",
     "DESCRIPTIONS": [
-      "Incappi in qualcosa che sembra *davvero* fuori posto. Di fronte a te, una gigantesca testa di pietra spunta da un segmento di muro che non cambia forma come il resto del paesaggio. NL La bocca della statua spalancata rivela grossi denti macchiati di sangue. La superficie è disseminata di pittogrammi, che sembrano idicare come alcuni si gettassero nelle fauci della statua, venendo divorati. Chi potrebbe voler fare una cosa simile?",
-      "Dapprima, non accade nulla. Sei nella bocca della statua e ti senti molto sciocco, quando gli immensi molari precipitano serrandosi e ti schiacciano. NL @Tutto@ @è@ @Oscurità.@ NL Qualche tempo dopo, una lama di luce squarcia le tenebre e il rumore dei denti di pietra annuncia l'apertura dell'ingresso. NL NL NL Prosegui, confuso.",
-      "Sobbalzi, indietreggiando un po', mentre i molari giganti riducono l'idolo in polvere schiacciandolo. Quando si sollevano, un fiume #yd'oro si riversa in un torrente dall'apertura, ricoprendoti.",
+      "Incappi in qualcosa che sembra *davvero* fuori posto. Di fronte a te, una gigantesca testa di pietra sbuca fuori da un segmento di muro che non cambia forma come il resto del paesaggio. NL La bocca spalancata della statua rivela grossi denti macchiati di sangue. La sua superficie è disseminata di pittogrammi, che sembrano idicare come alcuni si gettassero nelle fauci della statua, venendone divorati. Chi potrebbe volere una cosa simile?",
+      "Dapprima, non accade nulla. Sei nella bocca della statua e ti senti abbastanza sciocco, quando gli immensi molari precipitano serrandosi e ti schiacciano. NL @L'Oscurità@ @Avvolge@ @Tutto.@ NL Dopo un po', una lama di luce squarcia le tenebre e un forte rumore annuncia l'apertura dell'ingresso, mentre i denti di pietra si sollevano. NL NL NL Prosegui, confuso.",
+      "Sobbalzi indietreggiando un po', mentre i molari giganti riducono l'idolo in polvere schiacciandolo. Quando si sollevano, un fiume #yd'oro si riversa in un torrente dall'apertura, ricoprendoti.",
       "Mentre te ne vai, ti chiedi cosa sarebbe accaduto se..."
     ],
     "OPTIONS": [
@@ -208,7 +208,7 @@
   "Mysterious Sphere": {
     "NAME": "Sfera Misteriosa",
     "DESCRIPTIONS": [
-      "Dal terreno dissestato che ti circonda, spunta una sfera d'ossa in cui è incastonato un oggetto luminoso. NL Nonostante la curiosità, noti alcune sentinelle di guardia. ",
+      "Dal terreno dissestato che ti circonda spunta una sfera d'ossa in cui è incastonato un oggetto luminoso. NL La curiosità non ti impedisce di notare alcune sentinelle di guardia. ",
       "Appena colpisci la sfera le sentinelle prendono vita e ti circondano!",
       "Forse è meglio non essere avidi..."
     ],
@@ -222,7 +222,7 @@
     "NAME": "Riflesso nell'Acqua",
     "DESCRIPTIONS": [
       "Metti piede in una pozza scintillante... e riappari sospeso a mezz'aria vicino al soffitto della stanza! NL Mentre cadi, rifletti sul da farsi.",
-      "Agiti le braccia terrorizato e usi tutti i tuoi trucchi per non farti male. Sorprendentemente, cadi ancora nella pozza... e ancora... e ancora... e ancora. Passano giorni prima che tu riesca a capire come uscirne. Imbarazzante.",
+      "Agiti le braccia terrorizato e usi tutti i trucchi che conosci per salvarti. Sorprendentemente, cadi ancora nella pozza... e ancora... e ancora... e ancora. Passano giorni prima che tu riesca a capire come uscirne. Imbarazzante.",
       "Ti prepari all'impatto della caduta, ma non esiste un buon modo per atterrare in questa situazione assurda. @THUD@ NL NL ...rimani steso per un po', imprecando contro le pozzanghere, magiche e non."
     ],
     "OPTIONS": [
@@ -235,9 +235,9 @@
   "Tomb of Lord Red Mask": {
     "NAME": "Tomba di Lord Red Mask",
     "DESCRIPTIONS": [
-      "C'è una tomba regale alla fine di un sentiero levitante. La raggiungi e noti una fessura per introdurre #yoro con un'iscrizione intagliata sopra.",
-      "Indossi la maschera e l'intera struttura comincia a ~sfaldarsi~ ~sparendo...~ un passaggio segreto! NL NL La via è seminato di beni rubati e montagne #yd'oro!",
-      "Un'apertura appare nella tomba e ne sbuca fuori una maschera rossa con una nota. \"Prendi agli altri come io ho preso a te!\""
+      "Scorgi una tomba regale alla fine di un sentiero levitante. La raggiungi e noti una fessura per introdurre #yoro con un'iscrizione intagliata sopra.",
+      "Indossi la maschera e l'intera struttura comincia a ~sfaldarsi~ ~scomparendo...~ un passaggio segreto! NL NL La via è seminata di oggetti rubati e montagne #yd'oro!",
+      "Un'apertura compare nel muro della tomba e ne sbuca fuori una maschera rossa con una nota. \"Prendi agli altri come io ho preso a te!\""
     ],
     "OPTIONS": [
       "[Indossa la Maschera Rossa] #gOttieni #g222 #gOro.",
@@ -248,11 +248,11 @@
     ]
   },
   "Winding Halls": {
-    "NAME": "Vie Serpeggianti",
+    "NAME": "Vie Tortuose",
     "DESCRIPTIONS": [
-      "Avanzi a rilento, ma ti perdi comunque di continuo mentre muri e pavimento sembrano mutare forma inspiegabilmente. Non sembra che il bisbiglio costante delle voci nella tua testa ti aiuti a raccapezzarti.",
+      "Avanzi a rilento, ma ti perdi comunque di continuo mentre mura e pavimento sembrano mutare forma inspiegabilmente. Il bisbiglio costante delle voci nella tua testa non ti aiuti a raccapezzarti.",
       "Costeggiando edifici che sei sicuro di aver già visto, ti domandi se stai impazzendo, o se sia solo l'assurda configurazione geografica di questo luogo ad influenzarti. Qualcosa deve cambiare, immediatamente. O perlomeno questo è quello che dicono le voci... ~Perchè~ ~mai~ ~dovrebbero~ ~mentire?~",
-      "Qualcosa in te si spezza. Solo un pazzo potrebbe comprendere un luogo come questo, quindi decidi di ascoltare i sussurri e proseguire con una \"nuova\" prospettiva. Tutto sembra avere senso adesso.",
+      "Qualcosa in te si spezza. Solo un folle potrebbe comprendere un luogo come questo, quindi decidi di ascoltare i sussurri e proseguire con una \"nuova\" prospettiva. Tutto sembra avere senso adesso.",
       "Fermandoti ad osservare il paesaggio cangiante, riesci ad intravedere un accenno di ordine nel caos. Ogni volta che i sussurri si intromettono nei tuoi pensieri, tu ti sforzi di ignorarli. NL NL Finalmente capisci come fare ad andare avanti, e prosegui, immune alla nefasta natura di questo posto assurdo."
     ],
     "OPTIONS": [
@@ -286,9 +286,9 @@
   "The Cleric": {
     "NAME": "Il Chierico",
     "DESCRIPTIONS": [
-      "Uno stravagante uomo blu in elmo dorato(?) ti si avvicina con un ampio sorriso. NL @\"Salve@ @amico!@ Io #bChierico! Vuoi aiuto?!\" urla la creatura.",
+      "Uno stravagante uomo blu che indossa un elmo dorato ti si avvicina con un ampio sorriso. NL @\"Salve@ @amico!@ Io #bChierico! Serve aiuto?!\" urla la creatura.",
       "Una calda luce dorata ti avvolge, poi si disperde subito. NL La creatura ti sorride. \"Chierico migliore curatore! @Buona@ @giornata!\"@",
-      "Una fredda fiamma bluastra ti avvolge, disperdendosi dopo poco tempo. NL La creatura ti sorride. \"Abile Chierico! @Buona@ @giornata!\"@",
+      "Una fredda fiamma bluastra ti avvolge, disperdendosi subito. NL La creatura ti sorride. \"Abile Chierico! @Buona@ @giornata!\"@",
       "Questo #b\"Chierico\" non ti sembra molto affidabile, perciò decidi di andartene."
     ],
     "OPTIONS": [
@@ -309,10 +309,10 @@
       "Mentre perquisisci l'avventuriero vieni colto di sorpresa!",
       "Ti allontani in silenzio.",
       "Riverso sul pavimento c'è il #rcadavere #rdi #run #ravventuriero. NL Gli hanno rubato i #bpantaloni! Inoltre, ",
-      " #r@le@ #r@fiamme@ #r@gli@ #r@hanno@ #r@bruciato@ il viso e l'armatura.  ",
+      "sembra che #r@le@ #r@fiamme@ #r@abbiano@ #r@bruciato@ il suo viso e la sua armatura.  ",
       "sembra essere stato #r@impalato@ #@dalle@ #r@corna@ di qualche bestia. ",
       "sembra essere stato #r@sventrato@ #r@e@ #r@fatto@ #r@a@ #r@pezzi@ da qualcosa con enormi artigli. ",
-      "NL Anche se i suoi #yaveri #ysembrano #yancora #yintatti, non vuoi restare per scoprire cosa sia successo...",
+      "NL Anche se i suoi #yaveri #ysembrano #yancora #yintatti, non vuoi rimanere per scoprire cosa sia successo...",
       "Hai trovato #ydell'oro! NL Continui a cercare?",
       "Hmm, non hai trovato nulla... NL Vuoi continuare a cercare?",
       "Hai trovato una #yreliquia! NL Vuoi continuare a cercare?",
@@ -329,12 +329,12 @@
   "Golden Idol": {
     "NAME": "Idolo Dorato",
     "DESCRIPTIONS": [
-      "Di fronte a te c'è un incospicuo piedistallo, dal quale uno #ysplendente #yidolo #ydorato ti osserva beffardo. Sembra valere molto #yoro. NL NL No, sicuramente non è una trappola!",
-      "Afferri la Reliquia e stai per riporla nella tua sacca, ma un macigno sfonda il soffitto e cade proprio dietro di te. NL Il pavimento dev'essere in pendenza, visto che l'enorme roccia comincia a rotolare, avvicinandosi.",
+      "Di fronte a te c'è un piccolo piedistallo, sul quale uno #ysplendente #yidolo #ydorato ti osserva beffardo. Sembra poter valere molto #yoro. NL NL No, sicuramente non è una trappola!",
+      "Afferrata la Reliquia stai per riporla nella tua sacca, ma un macigno sfonda il soffitto e cade proprio dietro di te. NL Il pavimento dev'essere inclinato, visto che l'enorme roccia comincia a rotolare verso di te.",
       "@SCAPPAAAAA!@ NL Per un pelo! Con un balzo entri in un passaggio laterale ed il masso ti rotola accanto. Purtroppo, hai preso una brutta storta.",
-      "Ti lanci contro il grosso macigno e lo colpisci a piena forza. Quando la nuvola di polvere si dissipa, scorgi una via d'uscita.",
-      "@APPIATTISCITI!@ NL Il macigno ti schiaccia un po' passando, ma riesci a scappare.",
-      "Se mai il premio \"Trappola più Ovvia\" esistesse, lo vincerebbe questa stanza. NL Sai che è meglio non toccare gli idoli."
+      "Ti lanci contro il grosso macigno e lo colpisci con tutta la tua forza. Quando la nuvola di polvere si dissipa, scorgi una via d'uscita.",
+      "@APPIATTISCITI!@ NL Il macigno ti schiaccia lievemente passando, ma riesci a scappare.",
+      "Se mai il premio \"Trappola più Ovvia\" esistesse, lo vincerebbe questa stanza. NL Sai che è meglio star lonani dagli idoli."
     ],
     "OPTIONS": [
       "[Prendi] #gRicevi #gl' #gIdolo #gDorato. #rFai #rscattare #runa #rtrappola.",
@@ -350,8 +350,8 @@
     "NAME": "Statua Alata",
     "DESCRIPTIONS": [
       "Tra massi e rocce, noti un'elaborata statua blu arabescata, simile ad un ala. NL #yDell'oro fuoriusce dalle crepe. Forse ce n'è dell'altro...",
-      "Credi di aver già sentito parlare di un culto in onore di un uccello gigantesco. Ti inginocchi in preghiera, ma dopo un po' cominci a ~sentirti~ ... ~strano~ . NL NL Quando ti risvegli, ti senti stranamente più agile.",
-      "Raccogliendo le tue energie, prepari un colpo formidabile. NL La statua va subito in @mille@ @pezzi:@ era #ypiena #yd'oro. Ne raccogli il più possibile prima di rimetterti in cammino.",
+      "Credi di aver già sentito parlare di un culto in onore di un uccello gigantesco. Ti inginocchi in preghiera, ma dopo un po' cominci a ~sentirti~ ... ~confuso~ . NL NL Quando ti risvegli, ti senti stranamente più agile.",
+      "Raccogliendo le energie, prepari un colpo formidabile. NL La statua va subito in @mille@ @pezzi:@ era #ypiena #yd'oro. Ne raccogli il più possibile prima di rimetterti in cammino.",
       "La presenza della statua ti fa sentire ~a~ ~disagio.~ Prosegui oltre, ignorandola."
     ],
     "OPTIONS": [
@@ -370,7 +370,7 @@
   "World of Goop": {
     "NAME": "Mondo Appiccicoso",
     "DESCRIPTIONS": [
-      "Cadi in una pozzanghera. NL @IL@ @MONDO@ @DIVENTA@ @UN@ #g@MARE@ #g@DI@ #g@MELMA!!@ NL Dopo aver combattuto freneticamente con la melma corrosiva riesci a liberarti. NL Sei inzaccherato dalla testa ai piedi. NL NL Dopo esserti arrampicato fuori, noti che hai perso #ydell'oro. Eh già, il liquido appiciccoso ora contiene anche i tuoi soldi, oltre #yall'oro di qualche altro avventuriero sfortunato.",
+      "Cadi in una pozzanghera. NL @IL@ @MONDO@ @DIVENTA@ @UN@ #g@MARE@ #g@DI@ #g@MELMA!!@ NL Dopo aver combattuto freneticamente con la melma corrosiva riesci a liberarti. NL Sei inzaccherato dalla testa ai piedi. NL NL Una volta fuori, noti che hai perso #ydell'oro. Eh già, il liquido appiciccoso ora contiene anche i tuoi soldi, oltre #yall'oro di qualche altro avventuriero sfortunato.",
       "A contatto con la melma, la tua pelle brucia e si ustiona, ma riesci a recuperare #yl'oro.",
       "Decidi che il gioco non vale la candela."
     ],
@@ -386,7 +386,7 @@
   "Liars Game": {
     "NAME": "Il Ssssserpente",
     "DESCRIPTIONS": [
-      "Ti ritrovi in una stanza con un enorme buco nel pavimento. Mentre ti avvicini, un serpente di gigantesco sbuca dall'apertura. NL NL ~\"Ho~ ~hooo!~ ~Salve,~ ~salve!~ ~E~ ~cosa~ ~abbiamo~ ~mai~ ~qui?~ Salve avventuriero, ti farò una semplice domanda. NL Non c'è di meglio nella vita che poter #y~comprare~ #y~tutto~ #y~ciò~ #y~che~ #y~vuoi!~ NL Vero?\"",
+      "Ti ritrovi in una stanza con un enorme buco nel pavimento. Mentre ti avvicini, un serpente di gigantesco sbuca dall'apertura. NL NL ~\"Ho~ ~hooo!~ ~Salve,~ ~salve!~ ~E~ ~cosa~ ~abbiamo~ ~mai~ ~qui?~ Salve avventuriero, ti farò ora una semplice domanda. NL Non c'è di meglio nella vita che poter #y~comprare~ #y~tutto~ #y~ciò~ #y~che~ #y~vuoi!~ NL Vero?\"",
       "~\"Sssssssssiiiii!~ NL ~Pressssto~ ~~ ~ne~ ~ssssarà~ ~valsssa~ ~la~ ~pena.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
       "Il serpente ti fissa, con lo sguardo colmo di delusione.",
       "Il serpente solleva la testa al soffitto e rigetta una pioggia #yd'oro! NL È un spettacolo magnifico e terrificante. NL Raccogli tutto #yl'oro, ringrazi il serpente, e ti rimetti in cammino."
@@ -421,7 +421,7 @@
     "DESCRIPTIONS": [
       "Cedi allo strano desiderio di nutrirti. Mentre divori un fungo dopo l'altro, inizi a sentirti inebriato e perdi i sensi. Quando ti svegli, ti senti molto strano. NL Vieni #gCurato del #b25% dei tuoi PV, ma ora sei #rinfetto.",
       "#r@È@ #r@un'imboscata!!@ NL Alcuni roditori infettati dai funghi compaiono dal nulla!",
-      "Entri in un corridoio pieno di #b~funghi~ #b~dai~ #b~colori~ #b~ipnotici.~ NL Purtroppo, non avendo una laurea in micologia non ne riconosci le specie. NL Vorresti fuggire, ma vieni colto dallo strano desiderio di mangiare i #b~funghi...~"
+      "Entri in un corridoio pieno di #b~funghi~ #b~dai~ #b~colori~ #b~ipnotici.~ NL Purtroppo, non avendo una laurea in micologia non ne riconosci la specie. NL Vorresti fuggire, ma vieni colto dallo strano desiderio di mangiare i #b~funghi...~"
     ],
     "OPTIONS": [
       "[Calpesta] #rIrrita #ri #rFunghi.",
@@ -447,9 +447,9 @@
   "Scrap Ooze": {
     "NAME": "Melma e Metallo",
     "DESCRIPTIONS": [
-      "Entrando in una stanza, senti un ~gorgoglio~ ed uno @stridio@ metallico. Al centro, vedi una creatura di melma che ha ingerito decisamente troppi rottami. Dal suo interno balugina una strana luce. È forse qualcosa di magico? Ti sembra di poter afferrare un #ytesoro allungando la mano... dentro la creatura. Purtroppo la melma e gli oggetti taglienti sono #rpericolosi.",
-      "#r@Ouch!@ NL Tutto ciò che riesci ad ottenere sono pezzi di metallo corroso e #r@dolore.@ NL Sei convinito in ogni caso che sia una #yreliquia...",
-      "#gSuccesso! NL Dopo aver rovistato tra i pezzi di lamiera nella melma corrosiva, riesci finalmente ad afferrare una #yreliquia e a tirarla fuori. NL Ti allontani dalla melma #rsofferente ma ricompensato.",
+      "Entrando in una stanza, senti un ~gorgoglio~ ed uno @stridio@ metallico. Al centro, c'è una creatura di melma che ha ingerito decisamente troppi rottami. Dal suo interno balugina una strana luce. È forse qualcosa di magico? Ti sembra di poter afferrare un #ytesoro se solo allunghi la mano... dentro la creatura. Purtroppo la melma e gli oggetti taglienti sono #rpericolosi.",
+      "#r@Ouch!@ NL Tutto ciò che riesci ad afferrare sono pezzi di metallo corroso e #r@dolore.@ NL Sei convinito in ogni caso che sia una #yreliquia...",
+      "#gSuccesso! NL Dopo aver rovistato tra i pezzi di lamiera nella melma corrosiva, riesci finalmente ad afferrare una #yreliquia e a tirarla fuori. NL Ti allontani dalla melma #rferito ma ricompensato.",
       "Decidi di andartene dalla stanza. NL La melma, sazia e soddisfatta, non ti nota affatto."
     ],
     "OPTIONS": [
@@ -461,10 +461,10 @@
     ]
   },
   "Shining Light": {
-    "NAME": "Luce Brillante",
+    "NAME": "Intensa Luce",
     "DESCRIPTIONS": [
-      "Trovi una #ymassa #ydi #yluce che brilla al centro di una stanza. NL NL Il suo ~caldo~ ~bagliore~ e gli ~incantevoli~ ~arabeschi~ sono molto invitanti.",
-      "Mentre attraversi la stanza, senti che la luce penetra nel tuo corpo. NL È un #r@calore@ #r@insopportabile@ ! Ad ogni modo, il dolore svanisce subito. NL Ti senti #brinvigorito, come se avessi ricevuto un meritato schiaffio.",
+      "Al centro di una stanza brilla una #ymassa #ydi #yluce. NL NL Il suo ~bagliore~ ~caldo~ ed i suoi ~incantevoli~ ~arabeschi~ sono estremamente invitanti.",
+      "Mentre attraversi la stanza, senti che la luce penetra nel tuo corpo. NL È un #r@calore@ #r@insopportabile!@ In ogni caso, il dolore svanisce subito. NL Ti senti #brinvigorito, come se avessi ricevuto uno schiaffo meritato.",
       "Aggiri la massa luminosa, immaginando cosa sarebbe successo se l'avessi attraversata."
     ],
     "OPTIONS": [
@@ -478,7 +478,7 @@
     "NAME": "Drogato",
     "DESCRIPTIONS": [
       "Mentre tenti di sgattaiolare oltre un gruppo di figure incappucciate, un uomo nudo dalla pelle rossa ti accosta. NL \"Hai un po' di #yJ.A.X., amico? Sto @tremando@ di brutto! Perfavore... o magari qualche #yMoneta?\" NL Sembra delirante, ma innocuo.",
-      "\"Oh sì, ~sì!~ Prendi questo, è uno scambio onesto!\"",
+      "\"Oh sì, ~sì!~ Tu prendi questo, è uno scambio onesto!\"",
       "Il drogato inizia ad urlarti contro, maledicendoti. NL Riesci a scappare prima di ricevere attenzioni indesiderate."
     ],
     "OPTIONS": [
@@ -495,7 +495,7 @@
   "Back to Basics": {
     "NAME": "Scritture Antiche",
     "DESCRIPTIONS": [
-      "Scalando la città, noti una parete coperta da scritture degli #y~Antichi.~ Mentre tenti di capire cosa vogliano dire questi strani simboli e glifi, questi iniziano a #b~risplendere.~ NL Tutto d'un tratto, il messaggio diventa chiaro...",
+      "Scalando la città, noti una parete coperta da scritture degli #y~Antichi.~ Mentre tenti di capire cosa gli strani simboli e glifi possano significare, questi iniziano a #b~risplendere.~ NL Tutto d'un tratto, il messaggio diventa chiaro...",
       "La risposta era eleganza. NL Ovviamente.",
       "La verità è sempre semplice."
     ],
@@ -510,9 +510,9 @@
     "NAME": "Vecchio Mendicante",
     "DESCRIPTIONS": [
       "Un vecchio mendicante, avvolto in un mantello di pelliccia, allunga una mano verso di te mentre passi. \"Puoi farmi la carità, bambino?\"",
-      "Il mendicante guarda il pavimento mentre passi. NL \"Non farai mai una differenza...Non l'hai mai fatta.\"",
-      "Il mendicate rimuove il mantello per rivelare che è un #bChierico! NL @\"Tu@ @hai@ @una@ @anima@ @gentile.@ @Ricevi@ @la@ @mia@ @purificazione!\"@ grida. NL Non riesci a capire se è grato o pazzo.",
-      "@\"Spero@ @che@ @riuscirai@ @a@ @fare@ @di@ @meglio@ @questa@ @volta,@ @amico!\"@ grida. NL Domandandoti cosa avesse voluto dire, continui oltre."
+      "Il mendicante guarda a terra mentre passi. NL \"Non farai mai la differenza...Non succede mai.\"",
+      "Il mendicate rimuove il mantello rivelando di essere un #bChierico! NL @\"Sei@ @una@ @persona@ @d'animo@ @gentile.@ @Lascia@ @che@ @ti@ @purifichi!\"@ grida. NL Non riesci a capire se sia grato o folle.",
+      "@\"Spero@ @che@ @riuscirai@ @a@ @fare@ @di@ @meglio@ @questa@ @volta,@ @amico!\"@ grida. NL Domandandoti cosa avesse voluto dire, prosegui oltre."
     ],
     "OPTIONS": [
       "[Offri Oro] #y",
@@ -528,13 +528,13 @@
     "NAME": "Tomo Maledetto",
     "DESCRIPTIONS": [
       "In un tempio abbandonato, trovi un libro gigantesco, aperto, pieno zeppo di #p@scritture@ #p@criptiche.@ NL NL Mentre tenti di decifrarle, iniziano a #b~cambiare~ e #b~trasformarsi~ in una lingua che conosci.",
-      "Strano. Il libro sembra parlare di un #yAntico chiamato #yNeow. NL NL Questo stuzzica il tuo interesse, ma inizi a provare un certo #p~malessere.~",
+      "Strano. Il libro sembra parlare di un #yAntico chiamato #yNeow. NL NL Questo stuzzica il tuo interesse, ma inizi a sentire un certo #p~malessere.~",
       "L'Antico della Resurrezione, #yNeow, fu esiliato alla base della Guglia. NL NL Vuoi continuare a leggere, ma il tuo corpo inizia a #r~dolere.~",
       "Cercando vendetta, #yNeow benedice gli estranei, sfruttandoli per i suoi scopi. NL NL Inizi a sentirti molto #r~debole~ #r~e~ #r~stanco...~",
-      "Chi viene resuscitato da #yNeow ricorda solo frammenti della sua vita passata, maledetto a combattere per l'eternità. NL NL Mentre stai per arrivare all'ultima pagina, le tue #r@vecchie@ #r@ferite@ #r@iniziano@ #r@a@ #r@riaprirsi!@",
+      "Chi viene resuscitato da #yNeow ricorda solo frammenti della sua vita passata ed è maledetto a combattere per l'eternità. NL NL Mentre stai per arrivare all'ultima pagina, le tue #r@vecchie@ #r@ferite@ #r@iniziano@ #r@a@ #r@riaprirsi!@",
       "Finito il tomo, decidi di portarlo con te. Con la prova tra le mani, riuscirai a tenere i tuoi ricordi?",
       "Esci, sentendo una #p~energia~ #p~oscura~ #p~emanare~ dal libro sul piedistallo.",
-      "Con un incredibile sforzo di volontà, riesci a eludere la trance del tomo e lo chiudi @SBATTENDOLO@ sul piedistallo. NL Ti giri ed esci dal tempio, sentendoti #b~esausto...~"
+      "Con un incredibile sforzo di volontà, riesci ad eludere la trance del tomo e lo chiudi @SBATTENDOLO@ sul piedistallo. NL Ti giri ed esci dal tempio, sentendoti #b~esausto...~"
     ],
     "OPTIONS": [
       "[Leggi]",
@@ -544,13 +544,13 @@
       "[Fermati] #rPerdi #r3 #rPV.",
       "[Raccoglilo] #gPrendi #gil #gLibro. #rPerdi #r",
       " #rPV.",
-      "[Ptrosegui]"
+      "[Prosegui]"
     ]
   },
   "Drug Dealer": {
     "NAME": "Spacciatore di J.A.X.",
     "DESCRIPTIONS": [
-      "Un uomo con una benda su un occhio e dal ghigno diabolico ti avvicina con nonchalance. NL \"Ehilà straniero. Ti farebbe comodo un po' di #yJ.A.X.? Ti renderà più forte di qualsiasi allenamento o benedizione. Ne avrai bisogno se sei uno di quegli eroi che desiderano morire. NL Che ne dici? Vuoi un po' di #yJ.A.X.?\" NL ",
+      "Un uomo con una benda su un occhio ed un ghigno diabolico ti avvicina con nonchalance. NL \"Ehilà straniero. Ti farebbe comodo un po' di #yJ.A.X.? Ti renderà più forte di qualsiasi allenamento o benedizione. Ne avrai bisogno se sei uno di quegli eroi che desiderano morire. NL Che ne dici? Vuoi un po' di #yJ.A.X.?\" NL ",
       "~\"Ottimo.\"~ NL Ti offre una siringa dall'aspetto pericoloso, piena di un liquido luminoso. Poi torna ad appostarsi al buio lì vicino.",
       "\"Non importa, c'è sempre il prossimo...\" NL L'uomo si allontana."
     ],
@@ -624,13 +624,13 @@
   "Spire Heart": {
     "NAME": "Il cuore della Guglia",
     "DESCRIPTIONS": [
-      "@tu-tum@ ... @tum-tum@ ... @tu-tum@ ... NL Una sensazione di profondo terrore riempe pulsando questa stanza, m... NL È dunque questo il #r~cuore~ della Guglia? La fonte di questa malvagità?",
-      "Riesci a fare #b",
+      "@tu-tum@ ... @tum-tum@ ... @tu-tum@ ... NL Una pulsante sensazione di profondo terrore riempe questa stanza... NL Quindi è questo il #r~cuore~ della Guglia? La fonte di questa malvagità?",
+      "Riesci a infliggere #b",
       " danni! NL Il cuore si #r@contorce@ e #r~sanguina~ ...ma continua comunque a battere. NL Neanche I tuoi attacchi più potenti sono abbastanza?",
-      "Ti domandi, ~\"~Sono~ ~forse~ ~già~ ~stato~ ~qui?\"~ NL Pensi di aver raggiunto un totale di #b",
-      " danni fatti al cuore.",
+      "Ti domandi: ~\"~Sono~ ~forse~ ~già~ ~stato~ ~qui?\"~ NL Pensi di aver raggiunto un totale di #b",
+      " danni inflitti al cuore.",
       " NL Un totale di #b",
-      " danni sono stati fatti da tutti coloro che lo hanno sfidato.",
+      " danni sono stati inflitti da tutti coloro che lo hanno sfidato.",
       " NL Il cuore inzia a pulsare sempre più forte mentre la tua #y~coscienza~ #y~scompare...~",
       "NL Prepari la tua lama...",
       "NL Prepari i tuoi pugnali...",
@@ -700,11 +700,12 @@
   "Vampires": {
     "NAME": "Vampiri(?)",
     "DESCRIPTIONS": [
-      "Ti imbatti in alcune figure incappuciate intente ad eseguire un rito oscuro in un vicolo buio. Mentre ti avvicini, si girano verso di te. Il più alto ha canini affilati e ti porge una mano pallida ed affusolata. NL ~\"Unisciti~ ~a~ ~noi~ ~fratello,~ ~e~ ~accetta~ ~il~ ~calore~ ~della~ ~Guglia.\"~",
-      "Ti imbatti in alcune figure incappuciate intente ad eseguire un rito oscuro in un vicolo buio. Mentre ti avvicini, si girano verso di te. Il più alto ha canini affilati e ti porge una mano pallida ed affusolata. NL ~\"Unisciti~ ~a~ ~noi~ ~sorella,~ ~e~ ~accetta~ ~il~ ~calore~ ~della~ ~Guglia.\"~",
+      "Ti imbatti in alcune figure incappuciate intente ad eseguire un rito oscuro in un vicolo buio. Mentre ti avvicini, si girano verso di te. Il più alto mostra gli affilati canini, porgendo una mano pallida ed affusolata. NL ~\"Unisciti~ ~a~ ~noi~ ~fratello,~ ~e~ ~accetta~ ~il~ ~calore~ ~della~ ~Guglia.\"~",
+      "Ti imbatti in alcune figure incappuciate intente ad eseguire un rito oscuro in un vicolo buio. Mentre ti avvicini, si girano verso di te. Il più alto mostra gli affilati canini, porgendo una mano pallida ed affusolata. NL ~\"Unisciti~ ~a~ ~noi~ ~sorella,~ ~e~ ~accetta~ ~il~ ~calore~ ~della~ ~Guglia.\"~",
       "L'alta figura ti afferra, ti trascina a sè ed affonda le zanne nel tuo collo. Una @forza@ @oscura@ si riversa in te e ti @scorre@ nel corpo. NL ... NL Ti svegli dopo qualche tempo, solo. Una ~fame~ intensa ti attraversa. #rDevi #rnutrirti..",
       "Indietreggi e sollevi l'arma con disprezzo. L'alta figura sospira. \"D'accordo allora.\" Il gruppo si trasforma in una densa nebbia nera che si allontana. NL Sei di nuovo solo.",
-      "La pallide figure sussultano quando tiri fuori la #yFiala #ydi #ySangue NL ~\"Il~ ~sangue~ ~del~ ~maestro...~ ~il~ ~sangue~ ~del~ ~maestro!~ @IL@ @SANGUE@ @DEL@ @MAESTRO!\"@ NL Iniziano a cantare con fervore mentre il più alto si inchina a te. \" Bevi il Suo sangue, e diventa uno con #y~Lui.\"~ NL Il canto aumenta di volume, e decidi di bere dalla fiala. La tua vista si ~annebbia~ immediatamente e tutto diventa nero. NL NL Quando ti svegli sei completamente solo. Un'intensa ~fame~ ti tormenta. #rDevi #rnutrirti..."
+      "La pallide figure sussultano quando tiri fuori la #yFiala #ydi #ySangue NL ~\"Il~ ~sangue~ ~del~ ~maestro...~ ~il~ ~sangue~ ~del~ ~maestro!~ @IL@ @SANGUE@ @DEL@ @MAESTRO!\"@ NL Iniziano a cantare con fervore mentre il più alto si inchina a te. \" Bevi il Suo sangue, e diventa uno con #y~Lui.\"~ NL Il canto aumenta di volume, e decidi di bere dalla fiala. La tua vista si ~annebbia~ immediatamente e tutto diventa nero. NL NL Quando ti svegli sei completamente solo. Un'intensa ~fame~ ti tormenta. #rDevi #rnutrirti.",
+      "Ti imbatti in alcune figure incappuciate intente ad eseguire un rito oscuro in un vicolo buio. Mentre ti avvicini, si girano verso di te. Il più alto mostra gli affilati canini, porgendo una mano pallida ed affusolata. NL ~\"Unisciti~ ~a~ ~noi~ ~anima~ ~infranta,~ ~e~ ~senti~ ~il~ ~calore~ ~della~ ~Guglia.\"~"
     ],
     "OPTIONS": [
       "[Accetta] #gRimuovi #gi #gColpi, #gOttieni #g5 #gMorsi. #rPerdi #ril #r",

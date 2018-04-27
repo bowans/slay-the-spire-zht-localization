@@ -13,8 +13,8 @@
     "DESCRIPTION": "Injouable. NL À la fin du tour, perdez 1 PV par carte en main."
   },
   "Crippling Poison": {
-    "NAME": "Poison paralysant",
-    "DESCRIPTION": "Appliquez !M! de Poison. NL Appliquez !M! de Faiblesse."
+    "NAME": "Nuage paralysant",
+    "DESCRIPTION": "Appliquez !M! de Poison et 2 de Faiblesse à TOUS les ennemis. NL Épuisement."
   },
   "A Thousand Cuts": {
     "NAME": "Mille coupures",
@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Frappe sournoise",
-    "DESCRIPTION": "Infligez !D! dégat(s). NL Si vous avez défaussé une carte ce tour, gagnez [G] [G].",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Si vous avez défaussé une carte ce tour, gagnez [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -68,10 +68,6 @@
   "Inflame": {
     "NAME": "Enflammer",
     "DESCRIPTION": "Gagnez !M! de Force."
-  },
-  "Wraith Form": {
-    "NAME": "Forme spectrale",
-    "DESCRIPTION": "Quand vous jouez une carte Compétence, infligez !M! dégâts à un ennemi aléatoire."
   },
   "Sadistic Nature": {
     "NAME": "Sadisme",
@@ -601,7 +597,7 @@
   },
   "Clumsy": {
     "NAME": "Maladresse",
-    "DESCRIPTION": "Injouable. NL Épuisement à la fin de votre tour."
+    "DESCRIPTION": "Injouable. NL Éthérée."
   },
   "Searing Blow": {
     "NAME": "Coup brûlant",
@@ -644,10 +640,6 @@
   "Backstab": {
     "NAME": "Trahison",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Inné. NL Épuisement."
-  },
-  "Step Through Time": {
-    "NAME": "Voyage dans le temps",
-    "DESCRIPTION": "COÛT : 2 Charges. NL Vos PV reviennent à la valeur du tour précédent. NL Épuisement."
   },
   "Feed": {
     "NAME": "Appétit",
@@ -886,6 +878,364 @@
   },
   "Wraith Form v2": {
     "NAME": "Forme spectrale",
-    "DESCRIPTION": "Gagnez !M! Intangible. NL À la fin de votre tour, perdez 1 de Dexterité."
+    "DESCRIPTION": "Gagnez !M! Intangible. NL À la fin de votre tour, perdez 1 de Dextérité."
+  },
+  "Genetic Algorithm": {
+    "NAME": "Algorithme génétique",
+    "DESCRIPTION": "Gagnez !B! d'Armure. Après avoir été jouée, l'Armure de cette carte augmente de !M! définitivement. NL Épuisement."
+  },
+  "Darkness": {
+    "NAME": "Ténèbres",
+    "DESCRIPTION": "Appliquez !M! de Faiblesse. NL Canalisez !M! Orbe(s) Obscur(s).",
+    "UPGRADE_DESCRIPTION": "Appliquez !M! de Faiblesse. NL Appliquez !M! de Vulnérabilité. NL Canalisez !M! Orbe(s) Obscur(s)."
+  },
+  "Recycle": {
+    "NAME": "Recyclage",
+    "DESCRIPTION": "Épuisez une carte. NL Gagnez autant de [B] que son coût."
+  },
+  "Static Discharge": {
+    "NAME": "Décharge statique",
+    "DESCRIPTION": "Quand vous subissez des dégâts d'attaque, Canalisez !M! Orbe(s) Kéraunique(s)."
+  },
+  "Biased Cognition": {
+    "NAME": "Biais cognitif",
+    "DESCRIPTION": "Gagnez !M! de Concentration. NL Au début de chaque tour, perdez 1 de Concentration."
+  },
+  "Allocate": {
+    "NAME": "Attribution",
+    "DESCRIPTION": "Gagnez !M! Concentration. NL Perdez 1 Force. NL Perdez 1 Dextérité."
+  },
+  "Channel": {
+    "NAME": "Deprecated.",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Hologram": {
+    "NAME": "Hologramme",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Retournez une carte aléatoire de votre défausse à votre main.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Retournez une carte de votre défausse à votre main."
+  },
+  "Conserve Battery": {
+    "NAME": "Économie d'énergie",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL L'Énergie est conservée pour le prochain tour."
+  },
+  "FTL": {
+    "NAME": "FTL",
+    "DESCRIPTION": "Infligez !D! dégât(s). Si vous avez joué moins que !M! cartes ce tour, piochez 1 carte."
+  },
+  "Seek": {
+    "NAME": "Recherche",
+    "DESCRIPTION": "Choisissez !M! cartes de votre pioche et ajoutez-les à votre main. NL Épuisement."
+  },
+  "Chaos": {
+    "NAME": "Chaos",
+    "DESCRIPTION": "Canalisez !M! Orbe aléatoire.",
+    "UPGRADE_DESCRIPTION": "Canalisez !M! Orbes aléatoires."
+  },
+  "Thunder Strike": {
+    "NAME": "Coup de tonnerre",
+    "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour chaque Orbe Kéraunique pendant ce combat.",
+    "EXTENDED_DESCRIPTION": [
+      " (!M! Orbes Kérauniques Canalisés.)"
+    ]
+  },
+  "Undo": {
+    "NAME": "Annuler",
+    "DESCRIPTION": "Rétablissez vos PV à ce qu'ils étaient au tour précédent. NL Épuisement."
+  },
+  "Beam Cell": {
+    "NAME": "Beam Cell (?)",
+    "DESCRIPTION": "Infligez !D! dégât(s) et appliquez !M! de Vulnérabilité."
+  },
+  "Impulse": {
+    "NAME": "Impulsion",
+    "DESCRIPTION": "Utilisez la capacité passive de chaque Orbe Canalisé. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Utilisez la capacité passive de chaque Orbe Canalisé."
+  },
+  "Multi-Cast": {
+    "NAME": "Multi-Cast",
+    "DESCRIPTION": "Invoquez votre prochain Orbe X fois.",
+    "UPGRADE_DESCRIPTION": "Invoquez votre prochain Orbe X+1 fois."
+  },
+  "Sunder": {
+    "NAME": "Désassemblage",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi succombe, gagnez [B] [B] [B]."
+  },
+  "Winter": {
+    "NAME": "Deprecated.",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Go for the Eyes": {
+    "NAME": "Vise les yeux",
+    "DESCRIPTION": "Infligez !D! dégât(s). Si l'ennemi compte attaquer, appliquez !M! de Faiblesse."
+  },
+  "Steam Power": {
+    "NAME": "Machine à vapeur",
+    "DESCRIPTION": "Piochez !M! cartes. NL Ajoutez une Brûlure à votre défausse."
+  },
+  "Creative AI": {
+    "NAME": "IA créative",
+    "DESCRIPTION": "Au début de chaque tour, ajoutez un Pouvoir aléatoire à votre main."
+  },
+  "Stack": {
+    "NAME": "Pile",
+    "DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes de votre défausse.",
+    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure qu'il y de cartes de votre défausse + 3.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gagnez !B! d'Armure.)"
+    ]
+  },
+  "Hello World": {
+    "NAME": "Hello World",
+    "DESCRIPTION": "Au début de chaque tour, ajoutez une carte Commune aléatoire à votre main.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Au début de chaque tour, ajoutez une carte Commune aléatoire à votre main."
+  },
+  "Reboot": {
+    "NAME": "Redémarrage",
+    "DESCRIPTION": "Mélangez toutes vos cartes dans votre pioche, puis piochez !M! cartes. NL Épuisement."
+  },
+  "Redo": {
+    "NAME": "Rétablir",
+    "DESCRIPTION": "Invoquez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Invoquer."
+  },
+  "Prime": {
+    "NAME": "Préparation",
+    "DESCRIPTION": "Quand vous Canalisez un Orbe, piochez !M! cartes."
+  },
+  "Self Repair": {
+    "NAME": "Autoréparation",
+    "DESCRIPTION": "À la fin du combat, récupérez !M! PV."
+  },
+  "Cache": {
+    "NAME": "Deprecated.",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Loop": {
+    "NAME": "Boucle",
+    "DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe."
+  },
+  "Glacier": {
+    "NAME": "Glacier",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbe(s) Glaciaire(s).",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbe(s) Glaciaire(s)."
+  },
+  "Skim": {
+    "NAME": "Skim",
+    "DESCRIPTION": "Piochez !M! cartes."
+  },
+  "Hyperbeam": {
+    "NAME": "Ultralaser",
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Perdez !M! de Concentration."
+  },
+  "Nova": {
+    "NAME": "Nova",
+    "DESCRIPTION": "Infligez !M! dégât(s) à TOUS les ennemis pour chaque Pouvoir joué ce combat.",
+    "EXTENDED_DESCRIPTION": [
+      " NL Épuisement.",
+      " NL Infligez !D! dégât(s)."
+    ]
+  },
+  "Turbo": {
+    "NAME": "Turbo",
+    "DESCRIPTION": "Gagnez [B] [B]. NL Ajoutez un Néant dans votre défausse.",
+    "UPGRADE_DESCRIPTION": "Gagnez [B] [B] [B]. NL Ajoutez un Néant dans votre défausse."
+  },
+  "All For One": {
+    "NAME": "Tous pour un",
+    "DESCRIPTION": "Infligez !D! dégât(s). Placez toutes les cartes coûtant 0 de votre défausse dans votre main."
+  },
+  "Blaster": {
+    "NAME": "Pistolet laser",
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Gagnez [B] pour chaque Orbe Canalisé. NL Épuisement."
+  },
+  "Fission": {
+    "NAME": "Fission",
+    "DESCRIPTION": "Invoquez tous vos Orbes. Gagnez autant d'emplacements d'Orbe que vous avez Invoqué d'Orbes."
+  },
+  "Barrage": {
+    "NAME": "Barrage",
+    "DESCRIPTION": "Infligez !D! dégât(s) pour chaque Orbe Canalisé."
+  },
+  "Reprogram": {
+    "NAME": "Reprogrammation",
+    "DESCRIPTION": "Regardez les !M! premières cartes de votre pioche. Défaussez n'importe laquelle d'entre elles."
+  },
+  "Rip and Tear": {
+    "NAME": "Arracher et déchirer",
+    "DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois."
+  },
+  "Ball Lightning": {
+    "NAME": "Foudre en boule",
+    "DESCRIPTION": "Infligez !D! dégât(s). Canalisez !M! Orbe(s) Kéraunique(s)."
+  },
+  "Meteor Strike": {
+    "NAME": "Chute de météorite",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Canalisez !M! Orbe(s) Plasmique(s)."
+  },
+  "Auto Shields": {
+    "NAME": "Bouclier automatique",
+    "DESCRIPTION": "Si vous n'avez pas d'Armure, gagnez !B! d'Armure."
+  },
+  "Gash": {
+    "NAME": "Entaille",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Toutes les cartes Entaille font !M! dégât(s) supplémentaires ce combat."
+  },
+  "Melter": {
+    "NAME": "Fondeur",
+    "DESCRIPTION": "Enlevez toute l'Armure de l'ennemi. NL Infligez !D! dégât(s)."
+  },
+  "Chill": {
+    "NAME": "Frisson",
+    "DESCRIPTION": "Canalisez !M! Orbe(s) Glaciaire(s) pour chaque ennemi dans ce combat. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Canalisez !M! Orbe(s) Glaciaire(s) pour chaque ennemi dans ce combat. NL Épuisement."
+  },
+  "Reinforced Body": {
+    "NAME": "Renforcement",
+    "DESCRIPTION": "Gagnez !B! d'Armure X fois."
+  },
+  "Cold Snap": {
+    "NAME": "Vague de froid",
+    "DESCRIPTION": "Infligez !D! dégât(s). Canalisez !M! Orbe(s) Glaciaire(s)."
+  },
+  "Buffer": {
+    "NAME": "Tampon",
+    "DESCRIPTION": "Empêche votre prochaine perte de PV",
+    "UPGRADE_DESCRIPTION": "Empêche vos !M! prochaines pertes de PV."
+  },
+  "Heatsinks": {
+    "NAME": "Dissipateur de chaleur",
+    "DESCRIPTION": "Quand vous jouez un Pouvoir, piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Quand vous jouez un Pouvoir, piochez !M! cartes."
+  },
+  "Streamline": {
+    "NAME": "Fuselage",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Quand vous jouez Fuselage, son coût est réduit de !M! pour le combat."
+  },
+  "Primitive Tech": {
+    "NAME": "Deprecated.",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Coolheaded": {
+    "NAME": "Sang-froid",
+    "DESCRIPTION": "Canalisez 1 Orbe Glaciaire. NL Piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Canalisez 1 Orbe Glaciaire. NL Piochez !M! cartes."
+  },
+  "Sweeping Beam": {
+    "NAME": "Faisceau balayant",
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Piochez !M! cartes."
+  },
+  "Storm": {
+    "NAME": "Orage",
+    "DESCRIPTION": "Quand vous jouez un Pouvoir, Canalisez 1 Orbe Kéraunique.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Quand vous jouez un Pouvoir, Canalisez 1 Orbe Kéraunique."
+  },
+  "Dualcast": {
+    "NAME": "Dualcast",
+    "DESCRIPTION": "Invoquez votre prochain Orbe 2 fois."
+  },
+  "Ice Wall": {
+    "NAME": "Mur de glace",
+    "DESCRIPTION": "Gagnez !B! d'Armure. Gagnez +3 d'Armure pour chaque Orbe Glaciaire Canalisé.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. Gagnez +5 d'Armure pour chaque Orbe Glaciaire Canalisé."
+  },
+  "Defragment": {
+    "NAME": "Défragmentation",
+    "DESCRIPTION": "Gagnez !M! de Concentration."
+  },
+  "Leap": {
+    "NAME": "Saut",
+    "DESCRIPTION": "Gagnez !B! d'Armure."
+  },
+  "Force Field": {
+    "NAME": "Champ de force",
+    "DESCRIPTION": "Coûte 1 [B] de moins pour chaque Pouvoir joué ce combat. NL Gagnez !B! d'Armure."
+  },
+  "Blizzard": {
+    "NAME": "Blizzard",
+    "DESCRIPTION": "Infligez des dégâts équivalents à 2 fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (!M! Orbes Glaciaires Canalisés.)",
+      "."
+    ],
+    "UPGRADE_DESCRIPTION": "Infligez des dégâts équivalents à !M! fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis."
+  },
+  "Flux Capacitor": {
+    "NAME": "Convecteur temporel",
+    "DESCRIPTION": "Remplacez tous vos Orbes Canalisés par des Orbes Plasmiques. NL Épuisement."
+  },
+  "White Noise": {
+    "NAME": "Bruit blanc",
+    "DESCRIPTION": "Ajoutez un Pouvoir aléatoire à votre main. NL Il coûte 0 ce tour. NL Épuisement."
+  },
+  "Fusion": {
+    "NAME": "Fusion",
+    "DESCRIPTION": "Canalisez !M! Orbe(s) Plasmique(s)."
+  },
+  "Doom and Gloom": {
+    "NAME": "Pessimisme",
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Canalisez !M! Orbe(s) Obscur(s)."
+  },
+  "Rebound": {
+    "NAME": "Rebond",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Placez la prochaine carte que vous jouez ce tour au sommet de votre pioche."
+  },
+  "Amplify": {
+    "NAME": "Amplification",
+    "DESCRIPTION": "Ce tour, votre prochain Pouvoir est joué deux fois.",
+    "UPGRADE_DESCRIPTION": "Ce tour, vos !M! prochains Pouvoirs sont joués deux fois."
+  },
+  "Aggregate": {
+    "NAME": "Agglomération",
+    "DESCRIPTION": "Gagnez [B] pour chaque tranche de !M! cartes dans votre pioche."
+  },
+  "Zap": {
+    "NAME": "Électrisation",
+    "DESCRIPTION": "Canalisez !M! Orbe(s) Kéraunique(s)."
+  },
+  "Energy Pulse": {
+    "NAME": "Impulsion d'énergie",
+    "DESCRIPTION": "Gagnez autant d'Armure que vous avez d'Énergie.",
+    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure que le double de votre Énergie."
+  },
+  "Overclock": {
+    "NAME": "Overclock",
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
+  },
+  "Tempest": {
+    "NAME": "Tempête",
+    "DESCRIPTION": "Canalisez X Orbe(s) Kéraunique(s). NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Canalisez X+1 Orbe(s) Kéraunique(s). NL Épuisement."
+  },
+  "Rainbow": {
+    "NAME": "Arc-en-ciel",
+    "DESCRIPTION": "Canalisez NL 1 Orbe Kéraunique, NL 1 Orbe Glaciaire et NL 1 Orbe Obscur. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Canalisez NL 1 Orbe Kéraunique, NL 1 Orbe Glaciaire et NL 1 Orbe Obscur."
+  },
+  "Capacitor": {
+    "NAME": "Condensateur",
+    "DESCRIPTION": "Gagnez !M! emplacement d'Orbe.",
+    "UPGRADE_DESCRIPTION": "Gagnez !M! emplacements d'Orbe."
+  },
+  "Machine Learning": {
+    "NAME": "Machine Learning",
+    "DESCRIPTION": "Piochez !M! carte supplémentaire au début de chaque tour.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Piochez !M! carte supplémentaire au début de chaque tour."
+  },
+  "Magnetism": {
+    "NAME": "Magnétisme",
+    "DESCRIPTION": "Au début de chaque tour, ajoutez une carte incolore aléatoire à votre main."
+  },
+  "Double Energy": {
+    "NAME": "Énergie double",
+    "DESCRIPTION": "Doublez votre Énergie. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Doublez votre Énergie."
+  },
+  "Echo Form": {
+    "NAME": "Écho",
+    "DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois."
+  },
+  "Axe Kick": {
+    "NAME": "Coup de pied en marteau",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Invoquez votre prochain Orbe."
   }
 }

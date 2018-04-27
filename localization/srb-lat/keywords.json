@@ -28,7 +28,7 @@
         "okretnost",
         "okretnosti"
       ],
-      "DESCRIPTION": "Okretnost poboljšava Odbranu zadobijenu od karata."
+      "DESCRIPTION": "Okretnost poboljšava odbranu zadobijenu od karata."
     },
     "ETHEREAL": {
       "NAMES": [
@@ -64,7 +64,7 @@
         "otrova",
         "zatrovan"
       ],
-      "DESCRIPTION": "Otrovana stvorenja gube ZP na početku svog poteza. Otrov se smanjuje za #bjedan svaki krug."
+      "DESCRIPTION": "Otrovana stvorenja gube ž. p. na početku svog poteza. Otrov se smanjuje za #bjedan svaki krug."
     },
     "RETAIN": {
       "NAMES": [
@@ -77,7 +77,7 @@
         "nož",
         "noža"
       ],
-      "DESCRIPTION": "Noževi su Iscrpljivi Napadi koji koštaju #b0."
+      "DESCRIPTION": "Noževi su napadi čija je cena #bnula. Iscrpljuju se."
     },
     "STATUS": {
       "NAMES": [
@@ -133,7 +133,7 @@
       "NAMES": [
         "slabost",
         "slabosti",
-        "weakened",
+        "oslabljen",
         "weakens"
       ],
       "DESCRIPTION": "Napadi oslabljenih stvorenja zadaju #b25% manje štete."
@@ -144,26 +144,26 @@
         "rane",
         "ranu"
       ],
-      "DESCRIPTION": "Rane su neodigriva Stanja."
+      "DESCRIPTION": "Rane su neodigriva stanja."
     },
     "DAZED": {
       "NAMES": [
         "ošamućenost"
       ],
-      "DESCRIPTION": "Ošamućenosti su neodigriva Stanja."
+      "DESCRIPTION": "Ošamućenosti su neodigriva stanja."
     },
     "BURN": {
       "NAMES": [
         "opekotina",
         "opekotinu"
       ],
-      "DESCRIPTION": "Opekotine su neodigriva Stanja koja ti nanose štetu."
+      "DESCRIPTION": "Opekotine su neodigriva stanja koja ti nanose štetu."
     },
     "FRAIL": {
       "NAMES": [
         "oronuo"
       ],
-      "DESCRIPTION": "Kao Oronuo, zadobijaš #b25% manje #yOdbrane od karata."
+      "DESCRIPTION": "Kao oronuo, zadobijaš #b25% manje #yodbrane od karata."
     },
     "STRIKE": {
       "NAMES": [
@@ -182,7 +182,7 @@
         "neopipljiv",
         "neopipljivost"
       ],
-      "DESCRIPTION": "Smanjuje SVU primljenu štetu i gubitak ZP na #b1."
+      "DESCRIPTION": "Smanjuje SVU primljenu štetu i gubitak ž. p. na #b1."
     },
     "TODO": {
       "NAMES": [
@@ -196,6 +196,67 @@
     },
     "TEXT": [
       "Energija se koristi za odigravanje karata iz ruke."
-    ]
+    ],
+    "VOID": {
+      "NAMES": [
+        "void",
+        "voids"
+      ],
+      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Gains Energy."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "channel",
+        "channeled"
+      ],
+      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+    },
+    "DARK": {
+      "NAMES": [
+        "dark",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "lightning",
+        "lightning+"
+      ],
+      "DESCRIPTION": "Orb: Deals damage to random enemies."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Gains #yBlock."
+    }
   }
 }

@@ -13,6 +13,13 @@
       ],
       "DESCRIPTION": "Until next turn, prevents damage."
     },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+    },
     "CURSE": {
       "NAMES": [
         "curse"
@@ -44,11 +51,23 @@
       ],
       "DESCRIPTION": "Start each combat with this card in your hand."
     },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+    },
     "LOCKED": {
       "NAMES": [
         "locked"
       ],
       "DESCRIPTION": "This card has yet to be unlocked."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
     },
     "POISON": {
       "NAMES": [
@@ -106,6 +125,13 @@
         "upgraded"
       ],
       "DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
+    },
+    "VOID": {
+      "NAMES": [
+        "void",
+        "voids"
+      ],
+      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
     },
     "VULNERABLE": {
       "NAMES": [
@@ -165,6 +191,41 @@
         "intangible"
       ],
       "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "lightning",
+        "lightning+"
+      ],
+      "DESCRIPTION": "Orb: Deals damage to random enemies."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Gains #yBlock."
+    },
+    "DARK": {
+      "NAMES": [
+        "dark",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Gains Energy."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "channel",
+        "channeled"
+      ],
+      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
     },
     "TODO": {
       "NAMES": [

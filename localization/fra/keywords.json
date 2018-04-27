@@ -9,6 +9,8 @@
     "BLOCK": {
       "NAMES": [
         "armure",
+        "l'armure",
+        "d'armure",
         "bloque"
       ],
       "DESCRIPTION": "Bloque les dégâts jusqu'au prochain tour."
@@ -107,7 +109,13 @@
     "UPGRADE": {
       "NAMES": [
         "amélioration",
-        "améliorez"
+        "améliorez",
+        "améliorée",
+        "améliorées",
+        "améliorer",
+        "d'améliorer",
+        "améliorable",
+        "améliorez-les"
       ],
       "DESCRIPTION": "Améliorer une carte la rend plus puissante. Une carte ne peut être améliorée qu'une fois."
     },
@@ -183,6 +191,71 @@
         "brûlures"
       ],
       "DESCRIPTION": "Les brûlures sont des cartes Statut qui vous ingligent des dégâts."
+    },
+    "FROST": {
+      "NAMES": [
+        "glaciaire",
+        "glaciaire+"
+      ],
+      "DESCRIPTION": "Orbe: Procure de #yl'Armure."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "invoquez",
+        "invoqué",
+        "invoqués",
+        "invocation"
+      ],
+      "DESCRIPTION": "Invoquez votre Orbe le plus à droite puis détruisez-le."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "kéraunique",
+        "kéraunique+"
+      ],
+      "DESCRIPTION": "Orbe: Inflige des dégâts à un ennemi aléatoire."
+    },
+    "DARK": {
+      "NAMES": [
+        "obscur",
+        "obscur+"
+      ],
+      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tour. Quand il est #yinvoqué, inflige des dégâts à l'ennemi qui a le moins de PV."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "canaliser",
+        "canalisez",
+        "canalisé",
+        "canalisés"
+      ],
+      "DESCRIPTION": "Canaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre premier Orbe est automatiquement #yInvoqué pour faire de la place."
+    },
+    "VOID": {
+      "NAMES": [
+        "néant",
+        "néants"
+      ],
+      "DESCRIPTION": "Les cartes Néant sont des Statut injouable qui consomme de l'énergie quand elles sont piochées."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasmique",
+        "plasmique+"
+      ],
+      "DESCRIPTION": "Orbe: Procure de l'Énergie."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "concentration"
+      ],
+      "DESCRIPTION": "La Concentration augmente l'efficacité de l'actif des Orbes #yCanalisés."
     }
   }
 }

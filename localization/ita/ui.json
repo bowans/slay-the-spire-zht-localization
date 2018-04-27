@@ -28,7 +28,7 @@
     "TEXT": [
       "L'Ironclad",
       "La Silent",
-      "",
+      "Il Defect",
       "Indietro",
       "Nessuna partita registrata. NL Vai a Scalare la Guglia!",
       "Livello Ascensione: ",
@@ -108,7 +108,7 @@
     "TEXT": [
       "Ironclad",
       "La Silent",
-      "3rd Char. DO NOT TRANSLATE",
+      "Defect",
       "Piano Medio Raggiunto (Ultimi 20 Tentativi)",
       "Punteggio Medio (Ultimi 20 Tentativi)",
       "Migliore Serie di Vittorie",
@@ -152,7 +152,12 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Rimpiazzare (Gettone da Gioco)"
+      "Rimpiazza (Gettone da Gioco)"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Scarta"
     ]
   },
   "RetainCardsAction": {
@@ -198,6 +203,12 @@
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Scegli un'Attacco da Mettere in Mano"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Scegli una Carta da Mettere in Cima alla Tua Pila.",
+      "Scegli le Carte da Mettere in Cima alla Tua Pila."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -299,7 +310,7 @@
       "Inserisci un nuovo Seed",
       "Conferma",
       "Annulla",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "*Gli Achievement e le Leaderboard sono disabilitati quando usi un Seed personalizzato."
     ]
   },
   "AbstractCard": {
@@ -313,7 +324,7 @@
       "Bloccato",
       "l'Ironclad",
       "la Silent",
-      "the Gunner"
+      "il Defect"
     ]
   },
   "AbstractCreature": {
@@ -460,11 +471,6 @@
     ]
   },
   "DualWieldAction": {
-    "TEXT": [
-      "Duplicare"
-    ]
-  },
-  "HiddenChamberAction": {
     "TEXT": [
       "Duplicare"
     ]
@@ -634,7 +640,7 @@
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Menù di Gioco",
+      "Opzioni di Gioco",
       "Grafiche",
       "Risoluzione: NL Framerate Massimo:",
       "Schermo Intero NL Schermo Intero Senza Bordi (raccomandato) NL Screenshake",
@@ -649,10 +655,11 @@
       "Lingua:",
       "Invia informazioni di gioco #b(?)",
       "Esci dal Gioco",
-      "Salva & Esci",
+      "Salva ed Esci",
       "NL NL VSync",
       "Arte del Playtest",
-      "Mostra Tasti Selezione Rapida Carte"
+      "Mostra Tasti Selezione Rapida Carte",
+      "Opzioni Input"
     ]
   },
   "DailyScreen": {
@@ -672,7 +679,7 @@
       " NL #yMods: ",
       "Modificatori: ",
       "Leaderboards",
-      "*Achievements are off for Daily Climb."
+      "*Non puoi ricevere Achievements durante la Sfida Giornaliera."
     ]
   },
   "SettingsScreen": {
@@ -684,6 +691,44 @@
       "Indietro",
       "Il progresso NON viene salvato per le partite giornaliere."
     ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Opzioni Input",
+      "Opzioni di Gioco",
+      "Indietro",
+      "Comand",
+      "Keyboard",
+      "Controller (Non ancora disponibile)",
+      "Ripristina Predefiniti",
+      "Conferma",
+      "Cancella / Esci",
+      "Mappa",
+      "Mazzo",
+      "Pila della Pesca",
+      "Pila degli Scarti",
+      "Pila delle Esaurite",
+      "Passa",
+      "Sinistra",
+      "Destra",
+      "Scegli Carta #1",
+      "Scegli Carta #2",
+      "Scegli Carta #3",
+      "Scegli Carta #4",
+      "Scegli Carta #5",
+      "Scegli Carta #6",
+      "Scegli Carta #7",
+      "Scegli Carta #8",
+      "Scegli Carta #9",
+      "Scegli Carta #10"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Canc",
+      "Delete": "Backspace"
+    }
   },
   "CardLibraryScreen": {
     "TEXT": [
@@ -778,7 +823,7 @@
       "Bloccato",
       "Sbloccherai questo personaggio completando una partita.",
       "Questo personaggio non è ancora disponibile in Early Access.",
-      "Sbloccherai questo personaggio raggiungendo la cima della Guglia.",
+      "Sbloccherai questo personaggio completando una partita con la Silent.",
       "PV: ",
       "Oro: ",
       "Carte ancora da Sbloccare",
@@ -793,7 +838,7 @@
       "Inizia",
       "L'Ironclad",
       "La Silent",
-      "Crowbot",
+      "Il Defect",
       "Indietro",
       "Modalità Ascensione",
       "Livello ",
@@ -986,6 +1031,11 @@
       "Esaurisci"
     ]
   },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
   "TheBeyond": {
     "TEXT": [
       "L'Aldilà"
@@ -1020,12 +1070,12 @@
       "Partite Precedenti",
       "",
       "Rivisita le statistiche e giocate delle tue vecchie partite.",
-      "Opzioni",
+      "Opzioni di Gioco",
       "",
       "Cambia la risoluzione e le opzioni di gioco.",
       "Opzioni Input",
       "",
-      "Questa opzione non è ancora disponibile.",
+      "Cambia i tuoi controlli e i tasti scorciatoia.",
       "Crediti",
       "",
       "Guarda la lista delle persone che hanno contribuito a creare Slay the Spire!",

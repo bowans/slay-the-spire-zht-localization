@@ -16,7 +16,7 @@
       "NAMES": [
         "stärke"
       ],
-      "DESCRIPTION": "Stärke lässt Angriffe zusätzlichen Schaden verursachen."
+      "DESCRIPTION": "Stärke lässt Angriffe mehr Schaden zufügen."
     },
     "SHIV": {
       "NAMES": [
@@ -29,11 +29,12 @@
       "NAMES": [
         "ätherisch"
       ],
-      "DESCRIPTION": "Wenn diese Karte sich am Ende deines Zuges in deiner Hand befindet wird sie erschöpft. NL Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
+      "DESCRIPTION": "Wenn diese Karte sich am Ende deines Zuges in deiner Hand befindet, wird sie erschöpft. NL Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
     },
     "UPGRADE": {
       "NAMES": [
         "verbessern",
+        "verbessere",
         "verbessert"
       ],
       "DESCRIPTION": "Verbessern macht Karten mächtiger. Karten können nur ein mal verbessert werden."
@@ -95,7 +96,8 @@
     },
     "CURSE": {
       "NAMES": [
-        "fluch"
+        "fluch",
+        "flüche"
       ],
       "DESCRIPTION": "Fluchkarten sind negative Karten, die in deinem Deck bleiben."
     },
@@ -110,6 +112,7 @@
     "EXHAUST": {
       "NAMES": [
         "erschöpfen",
+        "erschöpfe",
         "erschöpft"
       ],
       "DESCRIPTION": "Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
@@ -182,6 +185,72 @@
         "benommen"
       ],
       "DESCRIPTION": "Benommen ist eine unspielbare Statuskarte."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "erwecke",
+        "erweckt",
+        "erwecken"
+      ],
+      "DESCRIPTION": "Verbrauche den Orb auf der rechten Seite und nutze seinen Erwecken-Effekt."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Bringt #yBlock."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "kanalisiere",
+        "kanalisieren",
+        "kanalisiert",
+        "kanalisierst",
+        "kanalisierte",
+        "kanalisierten"
+      ],
+      "DESCRIPTION": "Wenn du einen Orb kanalisierst, kommt er in deinen ersten freien Slot. Wenn du keine freien Slots hast, wird dein erster Orb automatisch #yErweckt, um Platz zu machen."
+    },
+    "VOID": {
+      "NAMES": [
+        "Leere",
+        "voids"
+      ],
+      "DESCRIPTION": "Leere ist eine unspielbare Statuskarte, die beim Ziehen Energie verbraucht."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "blitz",
+        "blitz+"
+      ],
+      "DESCRIPTION": "Orb: Fügt zufälligen Gegnern Schaden zu."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Bringt Energie."
+    },
+    "OPENER": {
+      "NAMES": [
+        "eröffnung"
+      ],
+      "DESCRIPTION": "Eine Karte mit Eröffnung kann nur als erste Karte eines Zuges gespielt werden."
+    },
+    "DARK": {
+      "NAMES": [
+        "dunkelheit",
+        "dunkelheit+"
+      ],
+      "DESCRIPTION": "Orb: Erhöht seinen Schaden pro Zug. Beim #yErwecken fügt er dem Gegner mit den wenigsten TP Schaden zu."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Fokus erhöht die Effektivität von #ykanalisierten Orbs."
     }
   }
 }

@@ -3,21 +3,21 @@
     "NAME": "Drevni napitak",
     "DESCRIPTIONS": [
       "Zadobi #b",
-      " #yZaštitu."
+      " #yzaštitu."
     ]
   },
   "Block Potion": {
     "NAME": "Napitak odbrane",
     "DESCRIPTIONS": [
       "Zadobi #b",
-      " #yOdbrane."
+      " #yodbrane."
     ]
   },
   "Dexterity Potion": {
     "NAME": "Napitak okretnosti",
     "DESCRIPTIONS": [
       "Zadobi #b",
-      " #yOkretnosti."
+      " #yokretnosti."
     ]
   },
   "Elixir": {
@@ -25,7 +25,7 @@
     "DESCRIPTIONS": [
       "",
       "",
-      "#yIscrpi sve #yStatuse i #yKletve iz ruke.",
+      "#yIscrpi sve #ystatuse i #ykletve iz ruke.",
       "",
       "Nije imalo efekta..."
     ]
@@ -54,15 +54,15 @@
   "Health Potion": {
     "NAME": "Napitak zdravlja",
     "DESCRIPTIONS": [
-      "Zaceli #b",
-      " ZP."
+      "Zaleči #b",
+      " ž. p."
     ]
   },
   "Poison Potion": {
     "NAME": "Otrovni napitak",
     "DESCRIPTIONS": [
       "Nanesi #b",
-      " #yOtrova."
+      " #yotrova."
     ]
   },
   "Potion Slot": {
@@ -75,16 +75,16 @@
   "Regen Potion": {
     "NAME": "Napitak zaceljivanja",
     "DESCRIPTIONS": [
-      "Zaceli #b",
-      " #yZP na kraju svakog poteza sledećih #b",
+      "Zaleči #b",
+      " #yz. #yp. na kraju svakog poteza sledećih #b",
       " poteza."
     ]
   },
   "Strength Potion": {
     "NAME": "Napitak snage",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yStrength."
+      "Zadobi #b",
+      " #ysnage."
     ]
   },
   "Swift Potion": {
@@ -99,7 +99,7 @@
     "NAME": "Napitak slabosti",
     "DESCRIPTIONS": [
       "Nanesi #b",
-      " #ySlabosti."
+      " #yslabosti."
     ]
   }
 }

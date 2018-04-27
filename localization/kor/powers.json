@@ -145,12 +145,6 @@
       " 장을 뽑습니다."
     ]
   },
-  "Darkness": {
-    "NAME": "암흑",
-    "DESCRIPTIONS": [
-      "턴 시작 시 에너지를 #b1 덜 얻습니다."
-    ]
-  },
   "Demon Form": {
     "NAME": "악마화",
     "DESCRIPTIONS": [
@@ -162,7 +156,8 @@
     "NAME": "민첩",
     "DESCRIPTIONS": [
       "카드에서 얻는 #y방어도 가 다음 수치만큼 증가합니다 : #b",
-      "카드에서 얻는 #y방어도 가 다음 수치만큼 감소합니다 : #b"
+      "카드에서 얻는 #y방어도 가 다음 수치만큼 감소합니다 : #b",
+      "."
     ]
   },
   "Double Damage": {
@@ -499,12 +494,6 @@
       "다른 적이 살아 있다면 #b2 턴 뒤 체력이 #b50% 인 상태로 부활합니다."
     ]
   },
-  "Relentless Beating": {
-    "NAME": "Relentless Beating",
-    "DESCRIPTIONS": [
-      " beats faster as you play cards or deal damage"
-    ]
-  },
   "Repulse": {
     "NAME": "현기증 유발",
     "DESCRIPTIONS": [
@@ -639,7 +628,8 @@
     "NAME": "힘",
     "DESCRIPTIONS": [
       "공격 피해가 다음 수치만큼 증가합니다 : #b",
-      "공격 피해가 다음 수치만큼 감소합니다 : #b"
+      "공격 피해가 다음 수치만큼 감소합니다 : #b",
+      "."
     ]
   },
   "Thievery": {
@@ -725,13 +715,6 @@
       ""
     ]
   },
-  "Wraith Form": {
-    "NAME": "유령화",
-    "DESCRIPTIONS": [
-      "스킬 카드를 사용할 때마다 무작위의 적에게 ",
-      "의 피해를 줍니다."
-    ]
-  },
   "Minion": {
     "NAME": "하수인",
     "DESCRIPTIONS": [
@@ -752,10 +735,154 @@
     ]
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
+    "NAME": "유령화",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b ",
-      " Dexterity."
+      "턴 종료 시 민첩을 #b",
+      " 잃습니다."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "히트싱크",
+    "DESCRIPTIONS": [
+      "파워 카드를 사용할 때마다 카드를 #b",
+      " 장 뽑습니다.",
+      " 장 뽑습니다."
+    ]
+  },
+  "Repair": {
+    "NAME": "수리",
+    "DESCRIPTIONS": [
+      "전투 종료 시 체력을 #b",
+      " 회복합니다."
+    ]
+  },
+  "Storm": {
+    "NAME": "폭풍",
+    "DESCRIPTIONS": [
+      "#b파워 카드를 사용할 때마다 #y전기 를 #b",
+      " 번 #y영창 합니다."
+    ]
+  },
+  "Focus": {
+    "NAME": "밀집",
+    "DESCRIPTIONS": [
+      "구체 의 효과를 다음 수치만큼 증가시킵니다: #b",
+      "구체 의 효과를 다음 수치만큼 감소시킵니다: #b",
+      "."
+    ]
+  },
+  "Conserve": {
+    "NAME": "보존",
+    "DESCRIPTIONS": [
+      "#y에너지 가 다음 턴까지 보존됩니다.",
+      "#y에너지 가 다음 #b",
+      " 턴 동안 보존됩니다."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "자기력",
+    "DESCRIPTIONS": [
+      "턴 시작 시 무작위 무색 카드 #b%s 장을 얻습니다.",
+      "턴 시작 시 무작위 무색 카드 #b%s 장을 얻습니다."
+    ]
+  },
+  "Bias": {
+    "NAME": "편견",
+    "DESCRIPTIONS": [
+      "턴 시작 시 #y밀집 을 #b",
+      " #y잃습니다."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "창의적인 인공지능",
+    "DESCRIPTIONS": [
+      "턴 시작 시 무작위 파워 카드를 #b",
+      " 장 얻습니다."
+    ]
+  },
+  "No Attack": {
+    "NAME": "공격 불가",
+    "DESCRIPTIONS": [
+      "이번 턴에 #y공격 카드를 사용할 수 없습니다."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplify",
+    "DESCRIPTIONS": [
+      "On this turn, play your next #yPower twice.",
+      "On this turn, play your next ",
+      " #yPowers twice."
+    ]
+  },
+  "Buffer": {
+    "NAME": "버퍼",
+    "DESCRIPTIONS": [
+      "다음 번에 체력을 잃는 것을 막아줍니다.",
+      "다음 #b",
+      " 번 체력을 잃는 것을 막아줍니다."
+    ]
+  },
+  "Rebound": {
+    "NAME": "되돌리기",
+    "DESCRIPTIONS": [
+      "이번 턴에 사용하는 다음 카드를 뽑을 카드 더미의 맨 위에 올립니다.",
+      "이번 턴에 사용하는 다음 #b",
+      " 장의 카드를 뽑을 카드 더미의 맨 위에 올립니다."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "정전기 방전",
+    "DESCRIPTIONS": [
+      "#y공격 피해를 받을 때마다 #y전기 를 #b",
+      " 번 #y영창 합니다."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "기계학습",
+    "DESCRIPTIONS": [
+      "턴 시작 시 카드를 #b",
+      " 장 더 뽑습니다.",
+      " 장 더 뽑습니다."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "메아리",
+    "DESCRIPTIONS": [
+      "매 턴 처음 사용하는 카드가 #b",
+      " 번 추가로 사용됩니다.",
+      " 번 추가로 사용됩니다."
+    ]
+  },
+  "Prime": {
+    "NAME": "밑작업",
+    "DESCRIPTIONS": [
+      "구체 를 #y영창 할 때마다 카드를 #b",
+      " 장 뽑습니다.",
+      " 장 뽑습니다."
+    ]
+  },
+  "Loop": {
+    "NAME": "반복",
+    "DESCRIPTIONS": [
+      "턴 시작 시 가장 오른쪽 구체 의 지속 효과를 발동시킵니다.",
+      "턴 시작 시 오른쪽에서부터 #b",
+      " 개의 구체 의 지속 효과를 발동시킵니다."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitive",
+    "DESCRIPTIONS": [
+      "Whenever you play a Common card, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Hello": {
+    "NAME": "안녕하세요",
+    "DESCRIPTIONS": [
+      "턴 시작 시 무작위 일반 카드를 #b",
+      " 장 얻습니다.",
+      " 장 얻습니다."
     ]
   }
 }

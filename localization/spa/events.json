@@ -42,7 +42,7 @@
     ]
   },
   "Match and Keep!": {
-    "NAME": "!Empareja y Quedatelas!",
+    "NAME": "¡Empareja y Quedatelas!",
     "DESCRIPTIONS": [
       "\" #b¡Doce cartas! ¡Emparejalas para quedartelas! #bCinco intentos, sin reintentos. NL ¿Qué esperas? ¡Comencemos!\"",
       "Completas el juego del gremlin y levantas la mirada. NL ¿Desapareció?",
@@ -69,7 +69,7 @@
     ]
   },
   "Fountain of Cleansing": {
-    "NAME": "Fuente Purificativa",
+    "NAME": "Fuente Purificatoria",
     "DESCRIPTIONS": [
       "Te encuentras con #b~agua~ #b~resplandeciente~ fluyendo sin fin desde una fuente en una pared cercana.",
       "Mientras bebes del #b~agua,~  sientes una #pcarga #poscura desaparecer.",
@@ -698,13 +698,14 @@
     ]
   },
   "Vampires": {
-    "NAME": "Vampiros(¿?)",
+    "NAME": "Vampiros",
     "DESCRIPTIONS": [
       "Navegando una calle sin luz, te encuentras a muchas figuras encapuchadas en medio de un ritual oscuro. Al acercarte, se giran en un unísono espeluznante. El más alto entre ellos te enseña colmillos y extiende una larga y pálida mano hacia ti. NL ~\"Únete a nosotros~ ~hermano,~ ~y~ ~siente~ ~el~ ~calor~ ~de~ ~la~ ~Torre.\"~",
       "Navegando una calle sin luz, te encuentras a muchas figuras encapuchadas en medio de un ritual oscuro. Al acercarte, se giras en un unísono espeluznante. El más alto entre ellos te enseña colmillos y extiende una larga y pálida mano hacia ti. NL ~\"Únete a nosotros~ ~hermana,~ ~y~ ~siente~ ~el~ ~calor~ ~de~ ~la~ ~Torre.\"~",
       "La figura alta te toma de tu brazo, te atrae hacia adelante y hunde sus colmillos en tu cuello. Sientes una @fuerza@ @oscura@ entrar a tu cuello y @recorrer@ a través de tu cuerpo. NL ... NL Te despiertas algún tiempo después, a solas. Una intensa ~hambruna~ surge en tu estómago. Debes #ralimentarte...",
       "Das un paso atrás y levantas tu arma en oposición. La figura alta suspira. \"Muy bien.\" El grupo de figuras encapuchadas se transforma en una niebla negra y espesa que se dispersa lejos de ti. NL Estas a solas de nuevo.",
-      "La pálida figura jadea cuando sacas el #yFrasco #yDe #ySangre. NL ~\"La~ ~sangre~ ~del~ ~maestro...~ ~la~ ~sangre~ ~del~ ~¡maestro!~ @¡LA@ @SANGRE@ @DEL@ @MAESTRO!\"@ NL Todos cantan fervientemente al mismo momento que la figura alta se inclina ante ti. \" Bebe de Su sangre, y se uno con#yÉl.\" NL El cántico se hace más fuerte, y consumes el contenido del frasco. Tu visión inmediatamente se deforma y desaparece en la oscuridad. NL NL Te despiertas algún tiempo después, a solas. Una intensa ~hambruna~ surge en tu estómago. Debes #ralimentarte..."
+      "La pálida figura jadea cuando sacas el #yFrasco #yDe #ySangre. NL ~\"La~ ~sangre~ ~del~ ~maestro...~ ~la~ ~sangre~ ~del~ ~¡maestro!~ @¡LA@ @SANGRE@ @DEL@ @MAESTRO!\"@ NL Todos cantan fervientemente al mismo momento que la figura alta se inclina ante ti. \" Bebe de Su sangre, y se uno con#yÉl.\" NL El cántico se hace más fuerte, y consumes el contenido del frasco. Tu visión inmediatamente se deforma y desaparece en la oscuridad. NL NL Te despiertas algún tiempo después, a solas. Una intensa ~hambruna~ surge en tu estómago. Debes #ralimentarte...",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
       "[Aceptar] #gElimina #gtodos #glos #gGolpes. #gObten #g5 #gMordidas. #rPierde #r",
@@ -733,51 +734,51 @@
     ]
   },
   "SecretPortal": {
-    "NAME": "Secret Portal",
+    "NAME": "Portal Secreto",
     "DESCRIPTIONS": [
-      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
-      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
-      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
+      "Ante tí hay una vista que parece fuera de lugar en el paisaje alienígena a tu alrededor. Extrañamente colocada en una de las paredes vivientes del Más Allá hay una entrada de piedra tapiada llena con un #p~portal~ #p~mágico~ #p~ondulante.~ NL NL No sabes muy bien dónde lleva, pero quizás acelere tu viaje por la Torre.",
+      "Al saltar a través del portal, tus sentidos del tiempo y el espacio son destrozados por completo. NL NL Mientras te reorientas a tus nuevos alrededores, te percatas que ante tí se encuentra una temible batalla.",
+      "Ser precavido y cauteloso parece ser la mejor forma de llegar a la cima de la torre. Ignorando el portal, continúas tu trayecto."
     ],
     "OPTIONS": [
-      "[Enter the Portal] IMMEDIATELY travel to the boss.",
-      "[Leave]"
+      "[Atraviesa el Portal] Viaja INMEDIATAMENTE al jefe.",
+      "[Salir]"
     ]
   },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "Concilio Fantasmal",
     "DESCRIPTIONS": [
-      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKE@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
+      "Mientras continúas con tu ascenso,un #p~denso~ #p~humo~ #p~negro~ comiemza a fluir del suelo y paredes a tu alrededor, formando tres figuras enmascaradas que comienzan a hablar. NL NL ~\"Otra~ ~marioneta~ ~de~ #y~Neow,~ ~diría~ ~yo.\"~ NL #r@\"COINCIDO!@ #r@ELLA@ #r@SIEMPRE@ #r@HACE@ #r@LOS@ #r@JUGUETES@ #r@MÁS@ #r@RAROS!\"@ NL NL Notas una sonrisa desmesurada cuando el tercero se dirige a tí. NL \"Ignora a los otros... Te gustaría probar nuestro #y~poder?\"~ ",
       "",
-      "#y\"Excellent!\" NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. #p~Thick~ #p~black~ #p~smoke~ spews forth and envelops the room. You cannot see or breathe... NL NL Just before you lose consciousness, the sensation stops. NL NL Whatever those things were, they are gone now. You continue on, feeling rather #bhollow.",
-      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
+      "#y\"¡Excelente!\" NL Mientras la figura fantasmal habla, te fijas en que su gran boca se va abriendo más y más. El #p~denso~ #p~humo~ #p~negro~ se extiende y envuelve la habitación. No puedes ver ni respirar... NL NL Justo antes de perder la consciencia, la sensación se detiene. NL NL Sea lo que fueren esas cosas, se han ido. Continúas, sintiéndote algo #bhueco.",
+      "\"Qué decepcionante...\" NL ~\"Te~ ~unirás~ ~a~ ~nosotros~ ~tarde~ ~o~ ~temprano.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Las figuras se desvanecen, dejando sólo una risa enervante zumbando en tus oídos.",
       ""
     ],
     "OPTIONS": [
-      "[Accept] #gObtain #g5 #gApparition. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
+      "[Aceptar] #gObtén #g5 #gFantasmal. #rPierde #r",
+      "% #rPV #rMáx.",
+      "[Rechazar]",
       "",
       "",
-      "[Leave]"
+      "[Salir]"
     ]
   },
   "SensoryStone": {
-    "NAME": "Sensory Stone",
+    "NAME": "Piedra Sensorial",
     "DESCRIPTIONS": [
-      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
-      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
-      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
-      "#b~UNKNOWN.~ NL NL Not yet implemented."
+      "Avanzando por el Más Allá, descubres un #bteseracto #bbrillante @girando@ and ~cambiando~ suavemente en el aire.",
+      "Lo tocas. NL NL Un #r@dolor@ #r@agudo@ te atraviesa, seguido de vivaces destellos de un recuerdo lejano. NL ...¿De quién son estos recuerdos?",
+      "#r~MIEDO.~ NL NL Una criatura demoníaca se alza ante tí, con sus alas desplegadas, y carcajadas aullantes. Los cuerpos sin vida de una tribu te rodean mientrsa el pueblo es sumido en terribles #p~llamas~ #p~oscuras.~ NL NL El demonio te llama, provocándote. NL NL \" #r@AHORA@ r@SÍ@ #r@QUE@ #r@ERES@ #r@EL@ #r@MÁS@ #r@FUERTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Su risa resuena eternamente... ",
+      "#g~TRIUNFO.~ NL NL Los restos de una #p~criatura~ #p~fantasmal~ se hunden en el fango ante tí, apenas visibles a la luz de la luna. Has demostrado tu valía entre tus hermanas. NL NL Irguiéndote victorioso, esperas en silencio mientras las otras colocan ceremonialmente la #ycalavera de la #ycriatura en tu cabeza. El ritual ha acabado. NL NL Te diriges hacia la Torre...",
+      "#b~DESCONOCIDO.~ NL NL Aún sin implementar."
     ],
     "OPTIONS": [
-      "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
-      "[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      "[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
-      " #rHP.",
-      "[Leave]",
-      "[Interact]"
+      "[Recordar] #gAñade #g1 #gCartas #gincoloras #ga #gtu #gmazo.",
+      "[Recordar] #gAñade #g2 #gCartas #gincoloras #ga #gtu #gmazo. #rPierde #r",
+      "[Recordar] #gAñade #g3 #gCartas #gincoloras #ga #gtu #gmazo. #rPierde #r",
+      " #rPV.",
+      "[Salir]",
+      "[Interactuar]"
     ]
   }
 }

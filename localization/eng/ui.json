@@ -28,7 +28,7 @@
     "TEXT": [
       "The Ironclad",
       "The Silent",
-      "",
+      "The Defect",
       "Return",
       "No run histories found. NL Go Slay the Spire!",
       "Ascension Level: ",
@@ -108,7 +108,7 @@
     "TEXT": [
       "Ironclad",
       "The Silent",
-      "3rd Char. DO NOT TRANSLATE",
+      "Defect",
       "Average Floor Reached (Last 20 Attempts)",
       "Average Score (Last 20 Attempts)",
       "Best Win Streak",
@@ -155,6 +155,11 @@
       "Replace (Gambling Chip)"
     ]
   },
+  "ReprogramAction": {
+    "TEXT": [
+      "Discard"
+    ]
+  },
   "RetainCardsAction": {
     "TEXT": [
       "Retain"
@@ -198,6 +203,12 @@
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Choose an Attack to Add to Your Hand"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile.",
+      "Choose Cards to Put on Top of Your Draw Pile."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -313,7 +324,7 @@
       "Blocked",
       "the Ironclad",
       "the Silent",
-      "the Gunner"
+      "the Defect"
     ]
   },
   "AbstractCreature": {
@@ -388,7 +399,7 @@
       "Unknown",
       "View Upgrade",
       "Status",
-      "Ammo",
+      "",
       "I can only play cards on my turn.",
       "I'm #rEntangled! NL Can't play Attacks",
       "Not enough #rEnergy.",
@@ -460,11 +471,6 @@
     ]
   },
   "DualWieldAction": {
-    "TEXT": [
-      "Duplicate"
-    ]
-  },
-  "HiddenChamberAction": {
     "TEXT": [
       "Duplicate"
     ]
@@ -634,7 +640,7 @@
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Game Menu",
+      "Game Settings",
       "Graphics",
       "Resolution: NL Max Framerate:",
       "Fullscreen NL Borderless Fullscreen (recommended) NL Screenshake",
@@ -652,7 +658,8 @@
       "Save & Quit",
       "NL NL VSync",
       "Playtester Art Mode",
-      "Show Card Quick Select Keys"
+      "Show Card Quick Select Keys",
+      "Input Settings"
     ]
   },
   "DailyScreen": {
@@ -684,6 +691,44 @@
       "Return",
       "Progress is NOT saved for daily runs."
     ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Input Settings",
+      "Game Settings",
+      "Return",
+      "Commands",
+      "Keyboard",
+      "Controller (Not Yet Available)",
+      "Reset to Default",
+      "Confirm",
+      "Cancel / Exit",
+      "Map",
+      "Master Deck",
+      "Draw Pile",
+      "Discard Pile",
+      "Exhaust Pile",
+      "End Turn",
+      "Left",
+      "Right",
+      "Select Card #1",
+      "Select Card #2",
+      "Select Card #3",
+      "Select Card #4",
+      "Select Card #5",
+      "Select Card #6",
+      "Select Card #7",
+      "Select Card #8",
+      "Select Card #9",
+      "Select Card #10"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
   },
   "CardLibraryScreen": {
     "TEXT": [
@@ -778,7 +823,7 @@
       "Locked",
       "This character is unlocked by completing a single run.",
       "This character is still unavailable in Early Access.",
-      "This character is unlocked by reaching the top of the Spire.",
+      "This character is unlocked by completing a run with the Silent.",
       "HP: ",
       "Gold: ",
       " Unlocks Remaining",
@@ -793,7 +838,7 @@
       "Embark",
       "The Ironclad",
       "The Silent",
-      "Crowbot",
+      "The Defect",
       "Back",
       "Ascension",
       "Level ",
@@ -986,6 +1031,11 @@
       "Exhaust"
     ]
   },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
   "TheBeyond": {
     "TEXT": [
       "The Beyond"
@@ -1025,7 +1075,7 @@
       "Change your resolution and toggle various options on/off.",
       "Input Settings",
       "",
-      "This feature is not yet available.",
+      "Change your controls and shortcut keys.",
       "Credits",
       "",
       "See all of the people who contributed on Slay the Spire!",

@@ -212,6 +212,13 @@
       "Il Mercante non finirà più carte, reliquie o pozioni e ti garantirà uno sconto del #b20% su ogni articolo."
     ]
   },
+  "Cracked Core": {
+    "NAME": "Nucleo Incrinato",
+    "FLAVOR": "La misteriosa forza vitale che anima gli Automi dentro la Guglia. Sembra essere incrinato.",
+    "DESCRIPTIONS": [
+      "All'inizio di ogni combattimento, #yCanalizza #b1 #yFulmine."
+    ]
+  },
   "Cursed Key": {
     "NAME": "Chiave Maledetta",
     "FLAVOR": "Senti l'energia maledetta che emana dalla chiave. Dunque, il potere ha un prezzo.",
@@ -323,7 +330,7 @@
     "NAME": "Gettone da Gioco",
     "FLAVOR": "Riesci a leggere una piccola iscrizione su un lato. Recita: \"Gettone fortunato di Bear!\"",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento scarta un qualsiasi numero di carte e ne peschi altrettante."
+      "All'inizio di ogni combattimento scarta un qualsiasi numero di carte, poi pescane altrettante."
     ]
   },
   "Ginger": {
@@ -1081,6 +1088,63 @@
     "FLAVOR": "Una piccola statuetta bianca. Rappresenta una creatura che non hai mai visto prima.",
     "DESCRIPTIONS": [
       "Dopo ogni combattimento trovi una pozione."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Insertore",
+    "FLAVOR": "Descrizione mancante.",
+    "DESCRIPTIONS": [
+      "Ogni #b2 turni, ottieni #b1 spazio per Globi."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Virus Simbiotico",
+    "FLAVOR": "Giusto un pizzico di #rmale può fare molto #gbene...",
+    "DESCRIPTIONS": [
+      "All'inizio di ogni combattimento, #yCanalizza #b1 #yOsccurità."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Batteria Nucleare",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "All'inizio di ogni combattimento, #yCanalizza #b1 #yPlasma."
+    ]
+  },
+  "Cables": {
+    "NAME": "Cavi Placcati in Oro",
+    "FLAVOR": "\"Interessante! Anche gli automi subiscono l'effetto placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Il tuo Globo più a destra attiva la propria abilità passiva una volta in più."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Chip Emotivo",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "All'inizio di ogni turno, se hai subito danni il turno precedente, attiva l'abilità passiva di tutti i tuoi Globi."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Condensatore Runico",
+    "FLAVOR": "Meglio abbondare.",
+    "DESCRIPTIONS": [
+      "Inizi ogni combattimento con #b3 Spazi per Globi aggiuntivi."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Disco Rigido",
+    "FLAVOR": "Questo disco contiene dati preziosi su serpenti ed uccelli.",
+    "DESCRIPTIONS": [
+      "All'inizio di ogni combattimento, ottieni #b",
+      " #yFocus."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Rapa",
+    "FLAVOR": "Ottima con lo Zenzero.",
+    "DESCRIPTIONS": [
+      "Non puoi più essere reso #yFragile."
     ]
   }
 }

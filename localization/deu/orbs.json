@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "DESCRIPTION": [
+      "#yPassiv: Am Ende deines Zuges erhöhe den Schaden dieses Orbs um #b",
+      ". NL #yErwecken: Füge dem Gegner mit den wenigsten TP #b",
+      " Schaden zu."
+    ],
+    "NAME": "Dunkelheit"
+  },
+  "Empty": {
+    "DESCRIPTION": [
+      "Orbs können in diese Slots kanalisiert werden."
+    ],
+    "NAME": "Orb-Slot"
+  },
+  "Frost": {
+    "DESCRIPTION": [
+      "#yPassiv: Am Ende deines Zuges erhalte #b",
+      " #yBlock. NL #yErwecken: Erhalte #b",
+      " #yBlock."
+    ],
+    "NAME": "Frost"
+  },
+  "Lightning": {
+    "DESCRIPTION": [
+      "#yPassiv: Am Ende deines Zuges füge einem zufälligen Gegner #b",
+      " Schaden zu. NL #yErwachen: Füge einem zufälligen Gegner #b",
+      " Schaden zu."
+    ],
+    "NAME": "Blitz"
+  },
+  "Plasma": {
+    "DESCRIPTION": [
+      "#yPassiv: Zu Beginn deines Zuges erhalte [B] . NL #yErwachen: Erhalte #b",
+      " [B] . NL Plasma wird durch #yFokus nicht beeinflusst."
+    ],
+    "NAME": "Plasma"
+  }
+}

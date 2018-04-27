@@ -299,7 +299,7 @@
       "新しいシード値を入力",
       "決定",
       "キャンセル",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "*カスタムシードを使用した場合、実績とランキングには反映されない。"
     ]
   },
   "AbstractCard": {
@@ -652,7 +652,8 @@
       "保存して終了",
       "NL NL 垂直同期",
       "Playtester Art Mode",
-      "カード選択のショートカットキーを表示"
+      "カード選択のショートカットキーを表示",
+      "Input Settings"
     ]
   },
   "DailyScreen": {
@@ -672,7 +673,7 @@
       " NL #y特殊効果: ",
       "特殊効果: ",
       "ランキング",
-      "*Achievements are off for Daily Climb."
+      "*デイリーチャレンジで実績の解除はできない。"
     ]
   },
   "SettingsScreen": {
@@ -1032,6 +1033,55 @@
       "Unknown",
       "",
       "この機能は未実装。"
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Input Settings",
+      "Game Settings",
+      "Return",
+      "Commands",
+      "Keyboard",
+      "Controller (Not Yet Available)",
+      "Reset to Default",
+      "Confirm",
+      "Cancel / Exit",
+      "Map",
+      "Master Deck",
+      "Draw Pile",
+      "Discard Pile",
+      "Exhaust Pile",
+      "End Turn",
+      "Left",
+      "Right",
+      "Select Card #1",
+      "Select Card #2",
+      "Select Card #3",
+      "Select Card #4",
+      "Select Card #5",
+      "Select Card #6",
+      "Select Card #7",
+      "Select Card #8",
+      "Select Card #9",
+      "Select Card #10"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Discard"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile.",
+      "Choose Cards to Put on Top of Your Draw Pile."
     ]
   }
 }

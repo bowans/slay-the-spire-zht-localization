@@ -31,7 +31,7 @@
       "",
       "Nazad",
       "Nema pređašnjih pohoda. NL Kreni u Pohod na Toranj!",
-      "nivo Uspinjanja: ",
+      "nivo uspinjanja: ",
       "Ubijen na %1$d. spratu, od strane: %2$s",
       "Pohod napušten na %d. spratu",
       "Pobeda!",
@@ -59,7 +59,7 @@
       "Uspinjanje",
       "Dnevni izazovi",
       "Seme: %s",
-      "Odabrano seme: %s"
+      "Proizvoljno seme: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -80,7 +80,7 @@
       "Sprat %s",
       "#r%s štete",
       "#r%s krugova",
-      "#r%s #r/ #r%s #rZP",
+      "#r%s #r/ #r%s #rž. #rp.",
       "#y%s #yzlata",
       "Pokupio %s",
       "Preskočio:",
@@ -99,7 +99,7 @@
       "Ime",
       "Rezultat",
       "Preuzimam podatke...",
-      "Tabela (NAPOMENA: Briše se nedeljno)",
+      "Tabela (NAPOMENA: briše se nedeljno)",
       "Steam nije povezan",
       "Nema rezultata \n Kreni u Pohod na Toranj!"
     ]
@@ -109,8 +109,8 @@
       "Železni",
       "Nema",
       "",
-      "Prosečan poslednji sprat (Poslednjih 20 pokušaja)",
-      "Prosečan rezultat (Poslednjih 20 pokušaja)",
+      "Prosečan poslednji sprat (poslednjih 20 pokušaja)",
+      "Prosečan rezultat (poslednjih 20 pokušaja)",
       "Najviše uzastopnih pobeda",
       "Najbrža pobeda",
       "Najbolji rezultat",
@@ -138,11 +138,11 @@
       "Švedski",
       "Norveški",
       "Tajlandski",
-      "Srpski",
+      "Српски",
       "Ukrajinski",
       "Vijetnamski",
       "Mađarski",
-      "Serbian (Latin)"
+      "Srpski"
     ]
   },
   "Proceed Button": {
@@ -152,7 +152,7 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "zameniti (Kockarski čip)"
+      "zameniti (kockarski čip)"
     ]
   },
   "RetainCardsAction": {
@@ -192,12 +192,12 @@
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-      "Izaberi Umeće koje ćeš dodati u ruku"
+      "Izaberi umeće koje ćeš dodati u ruku"
     ]
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Izaberi Napad koji ćeš dodati u ruku"
+      "Izaberi napad koji ćeš dodati u ruku"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -218,7 +218,7 @@
       "U ovim vrlo traženim sobama se mogu naći #yrelikvije i #yzlato.",
       "Odmor",
       "Odmaralište",
-      "Navrati do ovih soba da #gzalečiš nešto ZPa ili #ypoboljšaš kartu.",
+      "Navrati do ovih soba da #gzalečiš nešto ž. p. ili #ypoboljšaš kartu.",
       "Neprijatelj",
       "Neprijatelji",
       "U ovim sobama prebivaju neprijatelji.",
@@ -242,15 +242,15 @@
   "Lift Option": {
     "TEXT": [
       "Vežbaj",
-      "Započni bitke sa povećanom Snagom za jedan. (Do najviše tri)"
+      "Povećaj svoju početnu Snagu za jedan. (Do najviše tri)"
     ]
   },
   "Rest Option": {
     "TEXT": [
       "Odmori",
-      "Zaleči se za 100% maks. ZP (",
-      " ZP od ",
-      "Zaleči se za 30% maks. ZP ("
+      "Zaleči se za 100% maks. ž. p. (",
+      " ž. p. daje ",
+      "Zaleči se za 30% maks. ž. p. ("
     ]
   },
   "Smith Option": {
@@ -296,10 +296,10 @@
   "SeedPanel": {
     "TEXT": [
       "0000000000",
-      "Ukucaj novo seme",
+      "Unesi proizvoljno seme",
       "Potvrdi",
       "Otkaži",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "*Tabela i dostignuća su onemogućeni dok je proizvoljno seme u upotrebi."
     ]
   },
   "AbstractCard": {
@@ -313,14 +313,14 @@
       "Šteta odbranjena",
       "Železni",
       "Nema",
-      "the Gunner"
+      ""
     ]
   },
   "AbstractCreature": {
     "TEXT": [
       "Mrtav",
       "Šteta odbranjena",
-      "Maks. ZP +",
+      "Maks. ž. p. +",
       "Ošamućen!",
       "Prekinut!"
     ]
@@ -328,8 +328,8 @@
   "TopPanel": {
     "TEXT": [
       ". sprat",
-      " - Uspinjanje ",
-      " (Maks. Nivo)"
+      " - uspinjanje ",
+      " (maks. nivo)"
     ]
   },
   "UnlockCharacterScreen": {
@@ -338,8 +338,8 @@
       "",
       "Relikvije otključane!",
       "Novi lik",
-      "Napomena: Otključane karte se pojavljuju u budućim pohodima.",
-      "Napomena: Otključane relikvije se pojavljuju u budućim pohodima."
+      "Napomena: otključane karte se pojavljuju u budućim pohodima.",
+      "Napomena: otključane relikvije se pojavljuju u budućim pohodima."
     ]
   },
   "UnlockScreen": {
@@ -347,8 +347,8 @@
       "Karte otključane!",
       "Relikvije otključane!",
       "Novi lik",
-      "Napomena: Otključane karte se pojavljuju u budućim pohodima.",
-      "Napomena: Otključane relikvije se pojavljuju u budućim pohodima."
+      "Napomena: otključane karte se pojavljuju u budućim pohodima.",
+      "Napomena: otključane relikvije se pojavljuju u budućim pohodima."
     ]
   },
   "StorePotion": {
@@ -388,7 +388,7 @@
       "Nepoznato",
       "Pogledaj poboljšanje",
       "Stanje",
-      "Ammo",
+      "",
       "Karte mogu da odigram samo tokom svog poteza.",
       "#rUpetljan sam! NL Ne mogu da odigram napade",
       "Nemam dovoljno #renergije.",
@@ -398,13 +398,13 @@
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "Bitke započinješ sa svim kartama koje se ovde nalaze.",
+      "Svaku bitku počinješ sa kartama koje se ovde nalaze.",
       "Nazad"
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "Ovde se nalaze karte koje su iscrpljene tokom ove bitke.",
+      "Ovde se nalaze karte koje su iscrpljene tokom trenutne bitke.",
       "Nazad"
     ]
   },
@@ -471,8 +471,8 @@
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Nivo Uspinjanja ",
-      " Otključano!"
+      "Otključan ",
+      ". nivo uspinjanja!"
     ]
   },
   "DeathScreen": {
@@ -504,7 +504,7 @@
       "Jel ovo moj pun potencijal?",
       "Baš moja sreća...",
       "Ne ovako...",
-      "Tik ispod vrha.",
+      "Tik pred vrhom.",
       "Toranj proždire još jednog...",
       "Tvoja svest iščežnjava...",
       "Poraz",
@@ -518,12 +518,12 @@
       "Pokušaj ponovo",
       "Nastavi",
       "Otključaj",
-      "Preostala otključavanja: ",
-      "Preostala otključavanja: ",
+      "Preostalo otključavanja: ",
+      "Preostalo otključavanja: ",
       "Ubijenih neprijatelja",
       "Ubijenih čelnika",
       "Nepotrošenog zlata",
-      "Preostali ZP"
+      "Preostali ž. p."
     ],
     "EXTRA_TEXT": [
       "Ubijenih čelnika – Vani",
@@ -580,7 +580,7 @@
     "TEXT": [
       "Preskoči",
       "Izaberi kartu",
-      "povećaj maks. ZP za dva",
+      "+2 maks. ž. p.",
       "GLASAJ: ",
       "s preostalo."
     ]
@@ -652,14 +652,15 @@
       "Sačuvaj & izađi",
       "NL NL Vertikalna sinh.",
       "Režim sa probnim grafičkim elementima",
-      "Prikaži na kartama tipke za brzi odabir"
+      "Prikaži na kartama tipke za brzi odabir",
+      "Input Settings"
     ]
   },
   "DailyScreen": {
     "TEXT": [
       "Dnevni izazov",
       "Uspostavljanje veze sa serverom za vreme...",
-      "#yNAPOMENA: Odradio si današnji izazov. NL Poeni se ignorišu za naredne pokušaje.",
+      "#yNAPOMENA: odradio si današnji izazov. NL Poeni se ignorišu za naredne pokušaje.",
       "Nazad",
       "Otisni se",
       "Današnji lik: ",
@@ -672,7 +673,7 @@
       " NL #yIzmene: ",
       "Izmene: ",
       "Tabele",
-      "*Achievements are off for Daily Climb."
+      "*Dostignuća su onemogućena za dnevni izazov."
     ]
   },
   "SettingsScreen": {
@@ -708,8 +709,8 @@
   },
   "EarlyAccessPopup": {
     "TEXT": [
-      "Šta je Rani Pristup?",
-      "Šta je Otvorena Beta?",
+      "Šta je rani pristup?",
+      "Šta je otvorena beta?",
       "Pohod na Toranj je i dalje u aktivnom razvoju! NL Mnoge karte, neprijatelji i drugi aspekti igre su u stalnoj promeni. NL NL Ako naletiš na probleme ili ako imaš neke primedbe ili ideje, slobodno nam ih stavi do znanja na #bStim #bstranici #bza #bdiskusiju. NL NL Dosta čitanja, toranj te čeka!",
       "Pohod na Toranj je i dalje u aktivnom razvoju! NL Povrh toga, trenutno igraš beta verziju igre. NL NL Slobodno nas izvesti o bilo kakvim problemima tokom igranja, mada nemoj biti iznenađen privremenim grafičkim elementima namenjenim za nadolazeći sadržaj. NL NL Dosta čitanja, toranj te čeka!",
       "Pritisni bilo gde da počneš"
@@ -751,7 +752,7 @@
     "TEXT": [
       "Nazad",
       "#yBeleške #yo #yzakrpama",
-      " NL (PRIVREMENO: Koristi strelice da ideš kroz starije zapise)"
+      " NL (PRIVREMENO: koristi strelice da bi češljao kroz starije zapise)"
     ]
   },
   "RelicViewScreen": {
@@ -777,9 +778,9 @@
     "TEXT": [
       "Zaključano",
       "Ovaj lik se otključava završavanjem jednog pohoda.",
-      "Ovaj lik i dalje nije dostupan u Ranom Pristupu.",
+      "Ovaj lik i dalje nije dostupan u ranom pristupu.",
       "Ovaj lik se otključava stizanjem do vrha Tornja.",
-      "ZP: ",
+      "ž. p.: ",
       "Zlato: ",
       " – broj preostalih otključavanja",
       "Nepoznato",
@@ -793,12 +794,12 @@
       "Otisni se",
       "Železni",
       "Nema",
-      "Crowbot",
+      "",
       "Nazad",
       "Uspinjanje",
       "Nivo ",
       "Uspinjanje",
-      "Pohodi postaju teži sa svakom pobedom... (Uzastopne pobede se ne diraju)",
+      "Pohodi postaju teži sa svakom pobedom... (uzastopne pobede se ne diraju)",
       "Seme ",
       "Nasumično seme",
       "Početno seme odlučuje šta će se nasumice pojavljivati u pohodu.",
@@ -820,7 +821,7 @@
       "Napici su manje delotvorni.",
       "Poboljšane karte se ređe pojavljuju.",
       "Siromašni voždovi.",
-      "Niži maks. ZP.",
+      "Niži maks. ž. p.",
       "(Maks. nivo) Nepovoljni događaji."
     ]
   },
@@ -898,7 +899,7 @@
   },
   "CampfireUI": {
     "TEXT": [
-      "Šta ću da uradim?",
+      "Šta ću da činim?",
       "Hmm...",
       "Šta mi je činiti?",
       "Vreme je za predah",
@@ -929,8 +930,8 @@
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Nivo Uspinjanja ",
-      " otključan!"
+      "Otključan ",
+      ". nivo uspinjanja!"
     ]
   },
   "AbstractPotion": {
@@ -955,7 +956,7 @@
   },
   "PowerExpireTextEffect": {
     "TEXT": [
-      " - status iščeznu"
+      "~ status je istekao ~"
     ]
   },
   "RestartForChangesEffect": {
@@ -1032,6 +1033,55 @@
       "Nepoznato",
       "",
       "Ovaj deo je nedostupan."
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Input Settings",
+      "Game Settings",
+      "Return",
+      "Commands",
+      "Keyboard",
+      "Controller (Not Yet Available)",
+      "Reset to Default",
+      "Confirm",
+      "Cancel / Exit",
+      "Map",
+      "Master Deck",
+      "Draw Pile",
+      "Discard Pile",
+      "Exhaust Pile",
+      "End Turn",
+      "Left",
+      "Right",
+      "Select Card #1",
+      "Select Card #2",
+      "Select Card #3",
+      "Select Card #4",
+      "Select Card #5",
+      "Select Card #6",
+      "Select Card #7",
+      "Select Card #8",
+      "Select Card #9",
+      "Select Card #10"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Discard"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile.",
+      "Choose Cards to Put on Top of Your Draw Pile."
     ]
   }
 }

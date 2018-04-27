@@ -178,6 +178,67 @@
         "晕眩"
       ],
       "DESCRIPTION": "晕眩是 不能被打出 的 虚无 状态牌。"
+    },
+    "VOID": {
+      "NAMES": [
+        "虚空",
+        "虚空"
+      ],
+      "DESCRIPTION": "虚空是 不能被打出 的 虚无 状态牌，在被抽到时会消耗能量。"
+    },
+    "FOCUS": {
+      "NAMES": [
+        "集中"
+      ],
+      "DESCRIPTION": "集中 会加强 充能球 的效果。"
+    },
+    "EVOKE": {
+      "NAMES": [
+        "激发",
+        "激发"
+      ],
+      "DESCRIPTION": "消耗掉你最右侧的充能球，使用其 激发 效果。"
+    },
+    "PLASMA": {
+      "NAMES": [
+        "等离子",
+        "等离子+"
+      ],
+      "DESCRIPTION": "充能球：获得 能量 。"
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "生成",
+        "生成的"
+      ],
+      "DESCRIPTION": "生成的充能球将出现在你最右侧起的第一个空栏位。当没有空栏位时，你的第一个充能球将自动被 激发 来空出位置。"
+    },
+    "DARK": {
+      "NAMES": [
+        "黑暗",
+        "黑暗+"
+      ],
+      "DESCRIPTION": "充能球：每回合增加伤害。 #y激发 时，对生命值最少的敌人造成伤害。"
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "闪电",
+        "闪电+"
+      ],
+      "DESCRIPTION": "充能球：对随机敌人造成伤害。"
+    },
+    "FROST": {
+      "NAMES": [
+        "冰霜",
+        "冰霜+"
+      ],
+      "DESCRIPTION": "充能球：获得 #y格挡。"
     }
   }
 }
