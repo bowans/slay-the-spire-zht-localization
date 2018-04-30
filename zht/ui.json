@@ -1037,51 +1037,51 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
+      "操作設置",
+      "遊戲設置",
+      "返回",
+      "指令",
+      "鍵盤",
+      "控制器（目前還沒有做好）",
+      "重置為默認",
+      "確認",
+      "取消/退出",
+      "地圖",
+      "牌組",
+      "抽牌堆",
+      "棄牌堆",
+      "消耗堆",
+      "結束回合",
+      "左",
+      "右",
+      "選擇牌 #1",
+      "選擇牌 #2",
+      "選擇牌 #3",
+      "選擇牌 #4",
+      "選擇牌 #5",
+      "選擇牌 #6",
+      "選擇牌 #7",
+      "選擇牌 #8",
+      "選擇牌 #9",
+      "選擇牌 #10"
     ]
   },
   "InputKeyNames": {
     "TEXT_DICT": {
       "Escape": "ESC",
       "Forward Delete": "Delete",
-      "Delete": "Backspace"
+      "Delete": "Backspace（倒退鍵）"
     }
   },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "丟棄"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "選擇一張牌放到你抽牌堆的頂端。",
+      "選擇將牌放到你抽牌堆的頂端。"
     ]
   }
 }
