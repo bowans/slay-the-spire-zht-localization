@@ -931,7 +931,7 @@
   "Amplify": {
     "NAME": "Усилить",
     "DESCRIPTION": "В этом ходу след. Талант разыгрывается дважды.",
-    "UPGRADE_DESCRIPTION": "В этом ходу !M! след. Таланта разыгрываются дважды.."
+    "UPGRADE_DESCRIPTION": "В этом ходу !M! след. Таланта разыгрываются дважды."
   },
   "Capacitor": {
     "NAME": "Конденсатор",
@@ -1078,7 +1078,8 @@
   },
   "Echo Form": {
     "NAME": "Облик эхо",
-    "DESCRIPTION": "Первая разыгранная в каждом ходу карта разыгрывается дважды."
+    "DESCRIPTION": "Первая разыгранная в каждом ходу карта разыгрывается дважды.",
+    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Heatsinks": {
     "NAME": "Радиаторы",
@@ -1237,5 +1238,9 @@
   "Loop": {
     "NAME": "Цикл",
     "DESCRIPTION": "Активирует пассивный эффект след. в очереди сферы в начале каждого хода."
+  },
+  "Scrape": {
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
   }
 }

@@ -28,7 +28,7 @@
     "TEXT": [
       "アイアンクラッド",
       "サイレント",
-      "",
+      "ディフェクト",
       "戻る",
       "プレイした記録がない。 NL Go Slay the Spire!",
       "アセンション レベル: ",
@@ -108,7 +108,7 @@
     "TEXT": [
       "アイアンクラッド",
       "サイレント",
-      "3rd Char. DO NOT TRANSLATE",
+      "ディフェクト",
       "Average Floor Reached (Last 20 Attempts)",
       "Average Score (Last 20 Attempts)",
       "最高連続クリア回数",
@@ -313,7 +313,7 @@
       "Blocked",
       "アイアンクラッド",
       "サイレント",
-      "the Gunner"
+      "ディフェクト"
     ]
   },
   "AbstractCreature": {
@@ -446,7 +446,7 @@
   },
   "CopyAction": {
     "TEXT": [
-      "Copy"
+      "複製"
     ]
   },
   "DiscardAction": {
@@ -634,7 +634,7 @@
   "OptionsPanel": {
     "TEXT": [
       "",
-      "ゲームメニュー",
+      "ゲーム設定",
       "グラフィック",
       "解像度： NL 最大フレームレート：",
       "全画面 NL ボーダレス全画面（推奨） NL 画面振動",
@@ -653,7 +653,7 @@
       "NL NL 垂直同期",
       "Playtester Art Mode",
       "カード選択のショートカットキーを表示",
-      "Input Settings"
+      "入力設定"
     ]
   },
   "DailyScreen": {
@@ -779,10 +779,10 @@
       "ロック中",
       "このキャラクターは一度プレイを完了することでアンロックされる。",
       "このキャラクターはアーリーアクセスでは使用できない。",
-      "このキャラクターは塔の頂上に到達するとアンロックされる。",
+      "このキャラクターは一度サイレントでプレイを完了することでアンロックされる。",
       "HP： ",
       "ゴールド： ",
-      " 次のアンロックまで：",
+      " 残りアンロック：",
       "未知",
       "???",
       " 次のアンロックまで"
@@ -794,7 +794,7 @@
       "攻略開始",
       "アイアンクラッド",
       "サイレント",
-      "クロウボット",
+      "ディフェクト",
       "戻る",
       "アセンション",
       "レベル ",
@@ -979,7 +979,7 @@
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "山札の1番上に置く。"
+      "山札の一番上に置く。"
     ]
   },
   "ImmolateAction": {
@@ -1026,7 +1026,7 @@
       "解像度の変更や、様々な機能のオン・オフなど。",
       "入力設定",
       "",
-      "この機能は未実装。",
+      "操作の設定やショートカットキーを変更する。",
       "クレジット",
       "",
       "Slay the Spireに貢献してくれた全ての人達です！",
@@ -1037,33 +1037,33 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
+      "入力設定",
+      "ゲーム設定",
+      "戻る",
+      "入力内容",
+      "キーボード",
+      "コントローラー (未実装)",
+      "デフォルトに戻す",
+      "決定",
+      "キャンセル / 退出",
+      "地図",
+      "デッキ",
+      "山札",
+      "捨て札",
+      "廃棄場所",
+      "ターン終了",
+      "左",
+      "右",
+      "カード選択 #1",
+      "カード選択 #2",
+      "カード選択 #3",
+      "カード選択 #4",
+      "カード選択 #5",
+      "カード選択 #6",
+      "カード選択 #7",
+      "カード選択 #8",
+      "カード選択 #9",
+      "カード選択 #10"
     ]
   },
   "InputKeyNames": {
@@ -1075,13 +1075,13 @@
   },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "捨てる"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "山札の一番上に置くカードを1枚選択。",
+      "山札の一番上に置くカードを選択。"
     ]
   }
 }

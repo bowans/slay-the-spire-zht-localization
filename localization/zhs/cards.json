@@ -707,7 +707,7 @@
   "Perfected Strike": {
     "NAME": "完美打击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一张名字中有 打击 的牌，伤害+2。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一张名字中有“打击”的牌，伤害+3。"
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一张名字中有 打击 的牌，伤害+3。"
   },
   "Carnage": {
     "NAME": "残杀",
@@ -961,8 +961,8 @@
   },
   "Darkness": {
     "NAME": "漆黑",
-    "DESCRIPTION": "给予 !M! 层 虚弱 。 NL 生成 !M! 个 黑暗 能量球。",
-    "UPGRADE_DESCRIPTION": "给予 !M! 层 虚弱 。 NL 给予 !M! 层 易伤 。 NL 生成 !M! 个 黑暗 能量球。"
+    "DESCRIPTION": "生成 !M! 个 黑暗 充能球。",
+    "UPGRADE_DESCRIPTION": "生成 !M! 个 黑暗 充能球。"
   },
   "Dualcast": {
     "NAME": "双重释放",
@@ -1048,7 +1048,7 @@
     "DESCRIPTION": "造成 !D! 点伤害。 NL 你在这个回合打出的下一张牌将会被放置到抽牌堆的顶部。"
   },
   "Capacitor": {
-    "NAME": "电容器",
+    "NAME": "扩容",
     "DESCRIPTION": "获得 !M! 个充能球栏位。",
     "UPGRADE_DESCRIPTION": "获得 !M! 个充能球栏位。"
   },
@@ -1058,8 +1058,8 @@
   },
   "Stack": {
     "NAME": "堆栈",
-    "DESCRIPTION": "获得与你当前弃牌堆中牌数相等的 格挡 值。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "获得与你当前弃牌堆中牌数相等的 格挡 值。",
+    "DESCRIPTION": "获得与你当前弃牌堆中牌数相等的 格挡 值。",
+    "UPGRADE_DESCRIPTION": "获得你当前弃牌堆中牌数+3的 格挡 值。",
     "EXTENDED_DESCRIPTION": [
       " NL （获得 !B! 点格挡。）"
     ]
@@ -1083,7 +1083,7 @@
   },
   "Thunder Strike": {
     "NAME": "雷霆打击",
-    "DESCRIPTION": "随机选中一名敌人，你在这场战斗中每 生成 过 一个 闪电 充能球，对其造成一次 !D! 点伤害。",
+    "DESCRIPTION": "你在这场战斗中每 生成 过 一个 闪电 充能球，对一名随机敌人造成一次 !D! 点伤害。",
     "EXTENDED_DESCRIPTION": [
       "（生成 过 !M! 个闪电 充能球。）"
     ]
@@ -1111,8 +1111,8 @@
     "DESCRIPTION": "Deprecated."
   },
   "Gash": {
-    "NAME": "痛割",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 在这场战斗中所有 痛割 牌的伤害增加 !M! 。"
+    "NAME": "爪击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 在这场战斗中所有 爪击 牌的伤害增加 !M! 。"
   },
   "Axe Kick": {
     "NAME": "下压踢",
@@ -1129,7 +1129,7 @@
   },
   "Blaster": {
     "NAME": "爆破射线",
-    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 每拥有一个 能量球，获得 [B] 。 NL 消耗 。"
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 每拥有一个 充能球，获得 [B] 。 NL 消耗 。"
   },
   "Biased Cognition": {
     "NAME": "偏差认知",
@@ -1189,7 +1189,7 @@
     "DESCRIPTION": "激发 你最右侧的充能球。 NL 然后 生成 一个刚才被 激发 的充能球。"
   },
   "White Noise": {
-    "NAME": "白噪音",
+    "NAME": "白噪声",
     "DESCRIPTION": "增加一张随机能力牌到你的手牌。 NL 这张牌在本回合耗能变为0。  NL 消耗 。"
   },
   "Nova": {
@@ -1202,7 +1202,7 @@
   },
   "Sunder": {
     "NAME": "分离",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死了敌人，则获得 [B] [B] [B]。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死了敌人，则获得 [B] [B] [B] 。"
   },
   "Chill": {
     "NAME": "冰寒",
@@ -1215,7 +1215,8 @@
   },
   "Echo Form": {
     "NAME": "回响形态",
-    "DESCRIPTION": "你每回合打出的第一张牌会打出两次。"
+    "DESCRIPTION": "你每回合打出的第一张牌会打出两次。 NL 虚无 。",
+    "UPGRADE_DESCRIPTION": "你每回合打出的第一张牌会打出两次。"
   },
   "Force Field": {
     "NAME": "力场",
@@ -1237,5 +1238,9 @@
   "Primitive Tech": {
     "NAME": "原始科技",
     "DESCRIPTION": "Deprecated."
+  },
+  "Scrape": {
+    "NAME": "刮削",
+    "DESCRIPTION": "造成 !D! 伤害。 NL 抽 !M! 张牌。 NL 丢弃抽到的牌中耗能不为0的牌。"
   }
 }

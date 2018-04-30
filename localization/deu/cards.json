@@ -42,8 +42,8 @@
   },
   "Cloak And Dagger": {
     "NAME": "Dolch und Mantel",
-    "DESCRIPTION": "Erhalte !B! Block. NL Füge deiner Hand !M! Klinge hinzu.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Füge deiner Hand !M! Klingen hinzu."
+    "DESCRIPTION": "Erhalte !B! Block. NL Füge deiner Hand !M! Messer hinzu.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Füge deiner Hand !M! Messer hinzu."
   },
   "Underhanded Strike": {
     "NAME": "Hinterlistiger Schlag",
@@ -58,11 +58,11 @@
   },
   "Storm of Steel": {
     "NAME": "Stahlsturm",
-    "DESCRIPTION": "Wirf deine Hand ab. NL Füge deiner Hand für jede abgeworfene Karte 1 Klinge hinzu.",
-    "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Füge deiner Hand für jede abgeworfene Karte 1 verbesserte Klinge hinzu."
+    "DESCRIPTION": "Wirf deine Hand ab. NL Füge deiner Hand für jede abgeworfene Karte 1 Messer hinzu.",
+    "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Füge deiner Hand für jede abgeworfene Karte 1 verbesserte Messer hinzu."
   },
   "Cleave": {
-    "NAME": "Zerspalten",
+    "NAME": "Spalten",
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu."
   },
   "Inflame": {
@@ -99,7 +99,7 @@
     "DESCRIPTION": "Wende !M! Gift an."
   },
   "Leg Sweep": {
-    "NAME": "Beinfeger",
+    "NAME": "Fußfeger",
     "DESCRIPTION": "Wende !M! Schwach an. NL Erhalte !B! Block."
   },
   "Flex": {
@@ -107,7 +107,7 @@
     "DESCRIPTION": "Erhalte !M! Stärke. NL Wenn dein Zug endet, verliere !M! Stärke."
   },
   "Dagger Spray": {
-    "NAME": "Dolchnebel",
+    "NAME": "Dolchwolke",
     "DESCRIPTION": "Füge ALLEN Gegnern zweimal !D! Schaden zu."
   },
   "Bullet Time": {
@@ -124,7 +124,7 @@
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Du wirst um den wirklich zugefügten Schaden geheilt. NL Erschöpft."
   },
   "Shiv": {
-    "NAME": "Klinge",
+    "NAME": "Messer",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Erschöpft."
   },
   "Tactician": {
@@ -149,12 +149,12 @@
     "UPGRADE_DESCRIPTION": "Angeboren. NL Immer wenn du eine Karte ausspielst, erhalte 1 Block."
   },
   "Unload": {
-    "NAME": "Entladen",
+    "NAME": "Entlasten",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Wirf ALLE Karten außer Angriffe ab."
   },
   "Blade Dance": {
-    "NAME": "Klingentanz",
-    "DESCRIPTION": "Füge deiner Hand !M! Klingen hinzu."
+    "NAME": "Messertanz",
+    "DESCRIPTION": "Füge deiner Hand !M! Messer hinzu."
   },
   "Deflect": {
     "NAME": "Abwehr",
@@ -162,8 +162,8 @@
   },
   "Trip": {
     "NAME": "Straucheln",
-    "DESCRIPTION": "Wende !M! Verletzlich an.",
-    "UPGRADE_DESCRIPTION": "Wende !M! Verletzlich auf ALLE Gegner an."
+    "DESCRIPTION": "Wende !M! Verwundbar an.",
+    "UPGRADE_DESCRIPTION": "Wende !M! Verwundbar auf ALLE Gegner an."
   },
   "Dagger Throw": {
     "NAME": "Dolchwurf",
@@ -223,16 +223,16 @@
     "DESCRIPTION": "Füge !D! Schaden zu und wende !M! Gift an."
   },
   "Blur": {
-    "NAME": "Schleier",
+    "NAME": "Verschwimmen",
     "DESCRIPTION": "Erhalte !B! Block. NL Dein Block wird zu Beginn deines nächsten Zuges nicht entfernt."
   },
   "Body Slam": {
     "NAME": "Bodyslam",
     "DESCRIPTION": "Füge Schaden in Höhe deines aktuellen Blockens zu.",
-    "UPGRADE_DESCRIPTION": " NL (Verursacht !D! Schaden zu.)"
+    "UPGRADE_DESCRIPTION": " NL (Fügt !D! Schaden zu.)"
   },
   "True Grit": {
-    "NAME": "Stehvermögen",
+    "NAME": "Standhaft",
     "DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine zufällige Karte auf deiner Hand.",
     "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine Karte auf deiner Hand."
   },
@@ -261,7 +261,7 @@
   },
   "Thunderclap": {
     "NAME": "Blitz und Donner",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu und wende ihnen 1 Verletzlich an."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu und wende ihnen 1 Verwundbar an."
   },
   "Flame Barrier": {
     "NAME": "Flammenwall",
@@ -277,18 +277,18 @@
   },
   "Pummel": {
     "NAME": "Knüppeln",
-    "DESCRIPTION": "Füge !M! Mal !D! Schaden zu. NL Erschöpft."
+    "DESCRIPTION": "Füge !M! mal !D! Schaden zu. NL Erschöpft."
   },
   "Riddle With Holes": {
     "NAME": "Durchsieben",
-    "DESCRIPTION": "Füge 5 Mal !D! Schaden zu."
+    "DESCRIPTION": "Füge 5 mal !D! Schaden zu."
   },
   "Burning Pact": {
     "NAME": "Brennender Pakt",
     "DESCRIPTION": "Erschöpfe 1 Karte. NL Ziehe !M! Karten."
   },
   "Metallicize": {
-    "NAME": "Metallisieren",
+    "NAME": "Metallschicht",
     "DESCRIPTION": "Wenn dein Zug endet, erhalte !M! Block."
   },
   "Pommel Strike": {
@@ -321,11 +321,11 @@
   },
   "Skewer": {
     "NAME": "Aufspießen",
-    "DESCRIPTION": "Füge X Mal !D! Schaden zu."
+    "DESCRIPTION": "Füge X mal !D! Schaden zu."
   },
   "Envenom": {
     "NAME": "Klinge vergiften",
-    "DESCRIPTION": "Immer wenn ein Angriff Schaden verursacht, wende 1 Gift an."
+    "DESCRIPTION": "Immer wenn ein Angriff ungeblockten Schaden zufügt, wende 1 Gift an."
   },
   "Adrenaline": {
     "NAME": "Adrenalin",
@@ -346,15 +346,15 @@
   },
   "Bash": {
     "NAME": "Schmettern",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Verletzlich an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Verwundbar an."
   },
   "Clothesline": {
-    "NAME": "Clothesline",
+    "NAME": "Kinnhaken",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Schwach an."
   },
   "Shockwave": {
     "NAME": "Schockwelle",
-    "DESCRIPTION": "Wende !M! Schwach und Verletzlich auf ALLE Gegner an. NL Erschöpft."
+    "DESCRIPTION": "Wende !M! Schwach und Verwundbar auf ALLE Gegner an. NL Erschöpft."
   },
   "Rampage": {
     "NAME": "Toben",
@@ -370,7 +370,7 @@
   },
   "Whirlwind": {
     "NAME": "Wirbelwind",
-    "DESCRIPTION": "Füge ALLEN Gegnern X Mal !D! Schaden zu."
+    "DESCRIPTION": "Füge ALLEN Gegnern X mal !D! Schaden zu."
   },
   "Warcry": {
     "NAME": "Schlachtruf",
@@ -446,7 +446,7 @@
     "DESCRIPTION": "Erhalte !B! Block."
   },
   "Seeing Red": {
-    "NAME": "Rotsehen",
+    "NAME": "Durchdrehen",
     "DESCRIPTION": "Erhalte [R] [R]. NL Erschöpft."
   },
   "Disarm": {
@@ -463,7 +463,7 @@
   },
   "Terror": {
     "NAME": "Terror",
-    "DESCRIPTION": "Wende 99 Verletzlich an. NL Erschöpft."
+    "DESCRIPTION": "Wende 99 Verwundbar an. NL Erschöpft."
   },
   "Dazed": {
     "NAME": "Benommen",
@@ -538,8 +538,8 @@
   },
   "Infinite Blades": {
     "NAME": "Zahllose Klingen",
-    "DESCRIPTION": "Wenn dein Zug beginnt, füge deiner Hand eine Klinge hinzu.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Wenn dein Zug beginnt, füge deiner Hand eine Klinge hinzu."
+    "DESCRIPTION": "Wenn dein Zug beginnt, füge deiner Hand ein Messer hinzu.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Wenn dein Zug beginnt, füge deiner Hand ein Messer hinzu."
   },
   "Phantasmal Killer": {
     "NAME": "Phantomkiller",
@@ -585,7 +585,7 @@
   },
   "Heavy Blade": {
     "NAME": "Schweres Schwert",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert !M! Mal."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert !M! mal."
   },
   "Clumsy": {
     "NAME": "Ungeschickt",
@@ -643,7 +643,7 @@
   },
   "Bouncing Flask": {
     "NAME": "Springende Flasche",
-    "DESCRIPTION": "Wende !M! Mal 3 Gift an einem zufälligen Gegner an."
+    "DESCRIPTION": "Wende !M! mal 3 Gift an einem zufälligen Gegner an."
   },
   "Bludgeon": {
     "NAME": "Hämmern",
@@ -690,8 +690,8 @@
   },
   "Perfected Strike": {
     "NAME": "Perfekter Schlag",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Verursacht für JEDE deiner \"Schlag\" beinhaltenden Karten +2 Schaden.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Verursacht für JEDE deiner \"Schlag\" beinhaltenden Karten +3 Schaden."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Fügt für JEDE deiner \"Schlag\" beinhaltenden Karten +2 Schaden zu.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Fügt für JEDE deiner \"Schlag\" beinhaltenden Karten +3 Schaden zu."
   },
   "Carnage": {
     "NAME": "Blutbad",
@@ -708,12 +708,12 @@
   },
   "Prepared": {
     "NAME": "Vorbereitet",
-    "DESCRIPTION": "Ziehe !M! Karte. NL Du wirfst !M! Karte ab.",
-    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Du wirfst !M! Karten ab."
+    "DESCRIPTION": "Ziehe !M! Karte. NL Wirf !M! Karte ab.",
+    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Wirf !M! Karten ab."
   },
   "Dropkick": {
-    "NAME": "Dropkick",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Ist der Gegner Verletzlich, NL erhalte [R] und NL ziehe 1 Karte."
+    "NAME": "Sprungtritt",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Ist der Gegner Verwundbar, NL erhalte [R] und NL ziehe 1 Karte."
   },
   "Swift Strike": {
     "NAME": "Schneller Schlag",
@@ -732,11 +732,11 @@
   },
   "Accuracy": {
     "NAME": "Genauigkeit",
-    "DESCRIPTION": "Klingen fügen !M! mehr Schaden zu."
+    "DESCRIPTION": "Messer fügen !M! mehr Schaden zu."
   },
   "Sword Boomerang": {
     "NAME": "Bumerangschwert",
-    "DESCRIPTION": "Füge einem zufälligen Gegner !M! Mal !D! Schaden zu."
+    "DESCRIPTION": "Füge einem zufälligen Gegner !M! mal !D! Schaden zu."
   },
   "Jack Of All Trades": {
     "NAME": "Alleskönner",
@@ -757,14 +757,14 @@
   },
   "Uppercut": {
     "NAME": "Kinnhaken",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Schwach an. NL Wende !M! Verletzlich an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Schwach an. NL Wende !M! Verwundbar an."
   },
   "Mind Blast": {
     "NAME": "Gedankenstrahl",
     "DESCRIPTION": "Füge Schaden entsprechend der Anzahl der Karten in deinem Nachziehstapel.",
     "UPGRADE_DESCRIPTION": "Angeboren. NL Füge Schaden entsprechend der Anzahl der Karten in deinem Nachziehstapel.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Verursacht !D! Schaden zu.)"
+      " NL (Fügt !D! Schaden zu.)"
     ]
   },
   "Neutralize": {
@@ -885,17 +885,17 @@
     "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere 1 Stärke. NL Verliere 1 Geschicklichkeit."
   },
   "Biased Cognition": {
-    "NAME": "Verzerrte Wahrnehmung",
+    "NAME": "Verzerrter Fokus",
     "DESCRIPTION": "Erhalte !M! Fokus. NL Wenn dein Zug beginnt, verliere 1 Fokus."
   },
   "Storm": {
     "NAME": "Sturm",
-    "DESCRIPTION": "Immer wenn du eine Macht spielst, Kanalisiere 1 Blitz.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Immer wenn du eine Macht spielst, Kanalisiere 1 Blitz."
+    "DESCRIPTION": "Immer wenn du eine Macht spielst, Erschaffe 1 Blitz.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Immer wenn du eine Macht spielst, Erschaffe 1 Blitz."
   },
   "Redo": {
     "NAME": "Erneuerung",
-    "DESCRIPTION": "Erwecke deinen nächsten Orb. NL Kanalisiere den Orb, der gerade erweckt wurde."
+    "DESCRIPTION": "Entlade deinen nächsten Orb. NL Erschaffe den Orb, der gerade Entladen wurde."
   },
   "Self Repair": {
     "NAME": "Selbstreperatur",
@@ -903,7 +903,7 @@
   },
   "Cold Snap": {
     "NAME": "Kaltes Schnappen",
-    "DESCRIPTION": "Füge !D! Schaden zu. Kanalisiere !M! Frost."
+    "DESCRIPTION": "Füge !D! Schaden zu. Erschaffe !M! Frost."
   },
   "Streamline": {
     "NAME": "Stromlinie",
@@ -923,8 +923,8 @@
   },
   "Multi-Cast": {
     "NAME": "Mehrfach-Wurf",
-    "DESCRIPTION": "Erwecke deinen nächsten Orb X Mal.",
-    "UPGRADE_DESCRIPTION": "Erwecke deinen nächsten Orb X+1 Mal."
+    "DESCRIPTION": "Entlade deinen nächsten Orb X mal.",
+    "UPGRADE_DESCRIPTION": "Entlade deinen nächsten Orb X+1 mal."
   },
   "Machine Learning": {
     "NAME": "Lernende Maschine",
@@ -937,27 +937,28 @@
   },
   "Prime": {
     "NAME": "Scharfmachen",
-    "DESCRIPTION": "Immer wenn du einen Orb Kanalisierst, ziehe !M! Karte."
+    "DESCRIPTION": "Immer wenn du einen Orb Erschaffst, ziehe !M! Karte."
   },
   "Zap": {
     "NAME": "Stromschlag",
-    "DESCRIPTION": "Kanalisiere !M! Blitz."
+    "DESCRIPTION": "Erschaffe !M! Blitz."
   },
   "Fission": {
     "NAME": "Spaltung",
-    "DESCRIPTION": "Erwecke alle deine Orbs. Erhalte einen Orb-Slot für jeden der Erweckten Orbs."
+    "DESCRIPTION": "Entlade alle deine Orbs. Erhalte einen Orb-Slot für jeden Entladenen Orb."
   },
   "Reinforced Body": {
-    "NAME": "Verstärkter Körper",
-    "DESCRIPTION": "Erhalte X Mal !B! Block."
+    "NAME": "Verstärkte Hülle",
+    "DESCRIPTION": "Erhalte X mal !B! Block."
   },
   "Echo Form": {
     "NAME": "Echoform",
-    "DESCRIPTION": "In jedem Zug wird die erste Karte, die du spielst, zweimal gespielt."
+    "DESCRIPTION": "In jedem Zug wird die erste Karte, die du spielst, zweimal gespielt.",
+    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Static Discharge": {
     "NAME": "Statische Entladung",
-    "DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, Kanalisiere !M! Blitz."
+    "DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, Erschaffe !M! Blitz."
   },
   "Capacitor": {
     "NAME": "Kapazität",
@@ -965,7 +966,7 @@
     "UPGRADE_DESCRIPTION": "Erhalte !M! Orb-Slots."
   },
   "Auto Shields": {
-    "NAME": "Automatische Schilde",
+    "NAME": "Schilde hoch!",
     "DESCRIPTION": "Wenn du 0 Block hast, erhalte !B! Block."
   },
   "Sweeping Beam": {
@@ -974,15 +975,15 @@
   },
   "Fusion": {
     "NAME": "Fusion",
-    "DESCRIPTION": "Kanalisiere !M! Plasma."
+    "DESCRIPTION": "Erschaffe !M! Plasma."
   },
   "Leap": {
     "NAME": "Sprung",
     "DESCRIPTION": "Erhalte !B! Block."
   },
   "Doom and Gloom": {
-    "NAME": "Düsteres Verhängnis",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Kanalisiere !M! Dunkelheit."
+    "NAME": "Dunkles Schicksal",
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erschaffe !M! Dunkelheit."
   },
   "Hologram": {
     "NAME": "Hologramm",
@@ -1012,18 +1013,18 @@
   },
   "Genetic Algorithm": {
     "NAME": "Gen-Algorithmus",
-    "DESCRIPTION": "Erhalte !B! Block. Wenn diese Karte gespielt wurde, erhöhe ihren Block permanent um !M!. NL Erschöpft."
+    "DESCRIPTION": "Erhalte !B! Block. Wenn diese Karte gespielt wurde, erhöhe ihren Block permanent um !M!. Erschöpft."
   },
   "Thunder Strike": {
     "NAME": "Donnerschlag",
-    "DESCRIPTION": "Füge einem zufälligen Gegner !D! SChaden für jeden Blitz der in diesem Kampf Kanalisiert wurde.",
+    "DESCRIPTION": "Füge für jeden in diesem Kampf Erschaffenen Blitz einem zufälligen Gegner !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
-      " (Channeled !M! Lightning.)"
+      " (!M! Blitze Erschaffen.)"
     ]
   },
   "Barrage": {
     "NAME": "Sperrfeuer",
-    "DESCRIPTION": "Füge für jeden Kanalisierten Orb !D! Schaden zu."
+    "DESCRIPTION": "Füge für jeden Erschaffenen Orb !D! Schaden zu."
   },
   "Hyperbeam": {
     "NAME": "Hyperstrahl",
@@ -1047,8 +1048,8 @@
   },
   "Chaos": {
     "NAME": "Chaos",
-    "DESCRIPTION": "Kanalisiere !M! zufälligen Orb.",
-    "UPGRADE_DESCRIPTION": "Kanalisiere !M! zufällige Orbs."
+    "DESCRIPTION": "Erschaffe !M! zufälligen Orb.",
+    "UPGRADE_DESCRIPTION": "Erschaffe !M! zufällige Orbs."
   },
   "Aggregate": {
     "NAME": "Ansammeln",
@@ -1061,7 +1062,7 @@
   },
   "Beam Cell": {
     "NAME": "Strahlenzelle",
-    "DESCRIPTION": "Füge !D! Schaden zu und verursache !M! Schwach."
+    "DESCRIPTION": "Füge !D! Schaden zu und wende !M! Verwundbar an."
   },
   "Recycle": {
     "NAME": "Recyclen",
@@ -1078,12 +1079,12 @@
   },
   "Darkness": {
     "NAME": "Dunkelheit",
-    "DESCRIPTION": "Füge !M! Schwach zu. NL Kanalisiere !M! Dunkelheit.",
-    "UPGRADE_DESCRIPTION": "Füge !M! Schwach zu. NL Füge !M! Verletzlich zu. NL Kanalisiere !M! Dunkelheit."
+    "DESCRIPTION": "Füge !M! Schwach zu. NL Erschaffe !M! Dunkelheit.",
+    "UPGRADE_DESCRIPTION": "Füge !M! Schwach zu. NL Füge !M! Verwundbar zu. NL Erschaffe !M! Dunkelheit."
   },
   "Axe Kick": {
     "NAME": "Axt-Kick",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Erwecke deinen nächsten Orb."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Entlade deinen nächsten Orb."
   },
   "Melter": {
     "NAME": "Schmelzen",
@@ -1091,7 +1092,7 @@
   },
   "Flux Capacitor": {
     "NAME": "Fluxkompensator",
-    "DESCRIPTION": "Ersetze alle Kanalisierten Orbs mit Plasma. NL Erschöpft."
+    "DESCRIPTION": "Ersetze alle Erschaffenen Orbs mit Plasma."
   },
   "Stack": {
     "NAME": "Stapeln",
@@ -1107,8 +1108,8 @@
   },
   "Glacier": {
     "NAME": "Gletscher",
-    "DESCRIPTION": "Erhalte !B! Block. NL Kanalisiere !M! Frost.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Kanalisiere !M! Frost."
+    "DESCRIPTION": "Erhalte !B! Block. NL Erschaffe !M! Frost.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erschaffe !M! Frost."
   },
   "Buffer": {
     "NAME": "Speicher",
@@ -1117,13 +1118,13 @@
   },
   "Coolheaded": {
     "NAME": "Kühler Kopf",
-    "DESCRIPTION": "Kanalisiere 1 Frost. NL Ziehe !M! Karte.",
-    "UPGRADE_DESCRIPTION": "Kanalisiere 1 Frost. NL Ziehe !M! Karten."
+    "DESCRIPTION": "Erschaffe 1 Frost. NL Ziehe !M! Karte.",
+    "UPGRADE_DESCRIPTION": "Erschaffe 1 Frost. NL Ziehe !M! Karten."
   },
   "Chill": {
     "NAME": "Kälte",
-    "DESCRIPTION": "Kanalisiere !M! Frost pro Gegner. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Kanalisiere !M! Frost pro Gegner. NL Erschöpft."
+    "DESCRIPTION": "Erschaffe !M! Frost pro Gegner. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Erschaffe !M! Frost pro Gegner. NL Erschöpft."
   },
   "Loop": {
     "NAME": "Schleife",
@@ -1131,8 +1132,8 @@
   },
   "Hello World": {
     "NAME": "Hallo Welt",
-    "DESCRIPTION": "Wenn dein Zug beginnt, erhalte eine zufällige Gewöhnliche Karte auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Wenn dein Zug beginnt, erhalte eine zufällige Gewöhnliche Karte auf die Hand."
+    "DESCRIPTION": "Wenn dein Zug beginnt, füge deiner Hand eine zufällige Gewöhnliche Karte zu.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Wenn dein Zug beginnt, füge deiner Hand eine zufällige Gewöhnliche Karte zu."
   },
   "Primitive Tech": {
     "NAME": "Primitive Technik",
@@ -1145,10 +1146,10 @@
   },
   "Ball Lightning": {
     "NAME": "Kugelblitz",
-    "DESCRIPTION": "Füge !D! Schaden zu. Kanalisiere !M! Blitz."
+    "DESCRIPTION": "Füge !D! Schaden zu. Erschaffe !M! Blitz."
   },
   "Channel": {
-    "NAME": "Kanalisieren",
+    "NAME": "Erschaffen",
     "DESCRIPTION": "Nicht mehr verwendet."
   },
   "Energy Pulse": {
@@ -1166,11 +1167,11 @@
   },
   "Dualcast": {
     "NAME": "Doppelwurf",
-    "DESCRIPTION": "Erwecke deinen nächsten Orb zweimal."
+    "DESCRIPTION": "Entlade deinen nächsten Orb zweimal."
   },
   "Rip and Tear": {
     "NAME": "Zerfetzen",
-    "DESCRIPTION": "Füge einem zufälligen Gegner !D! Schaden !M! mal zu."
+    "DESCRIPTION": "Füge !D! Schaden !M! zufälligen Zielen zu."
   },
   "Defragment": {
     "NAME": "Defragmentieren",
@@ -1190,39 +1191,39 @@
   },
   "Tempest": {
     "NAME": "Gewitter",
-    "DESCRIPTION": "Kanalisiere X Blitz. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Kanalisiere X+1 Blitz. NL Erschöpft."
+    "DESCRIPTION": "Erschaffe X Blitz. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erschaffe X+1 Blitz. NL Erschöpft."
   },
   "Blaster": {
     "NAME": "Blaster",
-    "DESCRIPTION": "Füge ALLEN Gegner !D! Schaden zu. NL Erhalte [B] für jeden Kanalisierten Orb. NL Erschöpft."
+    "DESCRIPTION": "Füge ALLEN Gegner !D! Schaden zu. NL Erhalte [B] für jeden Erschaffenen Orb. NL Erschöpft."
   },
   "Blizzard": {
     "NAME": "Schneesturm",
-    "DESCRIPTION": "Füge ALLEN Gegnern doppelt so viel Schaden zu, wie in diesem Kampf Frost Kanalisiert wurde.",
+    "DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jeden in diesem Kampf Erschaffenen Frost.",
     "EXTENDED_DESCRIPTION": [
-      " NL (!M! Frost wurden Kanalisiert)",
+      " NL (Fügt !D! Schaden zu)",
       ""
     ],
     "UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies."
   },
   "Rainbow": {
     "NAME": "Regenbogen",
-    "DESCRIPTION": "Kanalisiere 1 Blitz, 1 Frost, und 1 Dunkelheit. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Kanalisiere 1 Blitz, 1 Frost, und 1 Dunkelheit."
+    "DESCRIPTION": "Erschaffe 1 Blitz, 1 Frost, und 1 Dunkelheit. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erschaffe 1 Blitz, 1 Frost, und 1 Dunkelheit."
   },
   "Ice Wall": {
     "NAME": "Eiswall",
-    "DESCRIPTION": "Nicht mehr verwendet.",
-    "UPGRADE_DESCRIPTION": "Nicht mehr verwendet."
+    "DESCRIPTION": "Erhalte !B! Block. Erhalte +3 Block für jeden Erschaffenen Frost.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. Erhalte +5 Block for jeden Erschaffenen Frost."
   },
   "Meteor Strike": {
     "NAME": "Meteorschlag",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Kanalisiere !M! Plasma."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erschaffe !M! Plasma."
   },
   "FTL": {
-    "NAME": "Lichtgeschwindigkeit",
-    "DESCRIPTION": "Füge !D! Schaden zu. Wenn du diesen Zug weniger als !M! Karten ausgepielt hast, ziehe 1 Karte."
+    "NAME": "FTL",
+    "DESCRIPTION": "Füge !D! Schaden zu. Wenn du diesen Zug weniger als !M! Karten ausgepielt hast, NL ziehe 1 Karte."
   },
   "Skim": {
     "NAME": "Abschöpfen",
@@ -1230,12 +1231,16 @@
   },
   "Impulse": {
     "NAME": "Impuls",
-    "DESCRIPTION": "Verwende den passiven Effekt all deiner Kanalisierten Orbs. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Verwende den passiven Effekt all deiner Kanalisierten Orbs."
+    "DESCRIPTION": "Verwende den passiven Effekt all deiner Erschaffenen Orbs. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Verwende den passiven Effekt all deiner Erschaffenen Orbs."
   },
   "Double Energy": {
     "NAME": "Doppelte Energie",
     "DESCRIPTION": "Verdopple deine Energie. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Verdopple deine Energie."
+  },
+  "Scrape": {
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
   }
 }

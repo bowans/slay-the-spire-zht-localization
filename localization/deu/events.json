@@ -7,7 +7,7 @@
   "Accursed Blacksmith": {
     "NAME": "Unheilvolle Schmiede",
     "DESCRIPTIONS": [
-      "Du betrittst eine kleine Hütte. Drinnen findest du etwas, das eine Schmiede zu sein scheint. Die Schmiedewerkzeuge sind mit Staub beDeckt, doch im Ofen lodert ein Feuer. Du bist nervös...",
+      "Du betrittst eine kleine Hütte. Drinnen findest du etwas, das eine Schmiede zu sein scheint. Die Schmiedewerkzeuge sind mit Staub bedeckt, doch im Ofen lodert ein Feuer. Du bist nervös...",
       "Du entschließt dich, die Schmiede zu benutzen und... NL #y@KLONK @ #y@KLOOONK@ #y@KLONK!@ NL... verbesserst dein Arsenal!",
       "Du beschließt nachzusehen, ob du etwas nützliches finden kannst. Nachdem du unter Planen und in Kisten, Ecken und Rissen gesucht hast, findest du ein verstaubtes #y~Relikt!~",
       "Als du am letzten Schliff arbeitest, greifen die Flammen der Schmiede plötzlich nach dir und #r@verbrennen@ #r@und@ #r@vernarben@ deine Arme...",
@@ -350,7 +350,7 @@
     "NAME": "Flügelstatue",
     "DESCRIPTIONS": [
       "Zwischen den Steinen und Brocken fällt dir eine aufwendige, große, blaue Statue auf, die einem Flügel ähnelt. NL Du findest #yGold vor, dass aus den Rissen quillt. Vielleicht ist im Inneren noch mehr...",
-      "Jemand hat dir mal von einem Kult erzählt, der einen riesigen Vogel verehrt. Als du dich zum Gebet hinkniest, ~fühlst~ ~du~ ~dich~... ~benommen~ . NL NL Du wachst ein wenig später auf und fühlst dich überraschend leichtfüßig.",
+      "Jemand hat dir mal von einem Kult erzählt, der einen riesigen Vogel verehrt. Als du dich zum Gebet hinkniest, ~fühlst~ ~du~ ~dich...~ ~benommen~ . NL NL Du wachst ein wenig später auf und fühlst dich überraschend leichtfüßig.",
       "Mit all deiner Kraft schlägst du auf die Statue ein. NL Sie @zerbricht@ schnell und gibt einen #yHaufen #yGold preis. Du nimmst, soviel wie du kannst, und gehst weiter.",
       "Die Statue bereitet dir ~Unbehagen.~ Du gehst an ihr vorbei und setzt deine Reise fort."
     ],
@@ -495,7 +495,7 @@
   "Back to Basics": {
     "NAME": "Uralte Inschrift",
     "DESCRIPTIONS": [
-      "Als du die Stadt durchstreifst, fällt dir eine Wand auf, die mit Schriften der #y~Ahnen~ beDeckt ist. Als du zu begreifen versuchst, was die rätselhaften Symbole und Glyphen bedeuten könnten, beginnt die Inschrift zu #b~leuchten.~ NL Auf einmal wird dir die Bedeutung klar...",
+      "Als du die Stadt durchstreifst, fällt dir eine Wand auf, die mit Schriften der #y~Ahnen~ bedeckt ist. Als du zu begreifen versuchst, was die rätselhaften Symbole und Glyphen bedeuten könnten, beginnt die Inschrift zu #b~leuchten.~ NL Auf einmal wird dir die Bedeutung klar...",
       "Die Antwort war Eleganz. NL Natürlich.",
       "Die Wahrheit ist immer schlicht."
     ],
@@ -610,7 +610,7 @@
     "DESCRIPTIONS": [
       "Hehehe... Danke für das #yGold! NL Oh, ich liebe #yGold. Es ist so schön. NL #y~glänzende,~ #y~glitzernde~ Dinger sind sie!",
       "Hey, #bBär, hey! NL Dieser Typ hat uns sein ganzes #yGold gegeben! So ein Spinner, oder? NL Ich musste nur nett fragen. Wer hätte das gedacht?! NL Ich sicherlich nicht! Was für ein Trottel!",
-      "Leute, lasst uns zusammen über diesen wundersamen Anlass lachen! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
+      "Leute, lasst uns zusammen über diesen wundersamen Anlass lachen! NL NL @Hahaah@ NL NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
       "Oh? Du bist noch da? NL Hast du irgendwas mitgehört? Dachte ich mir. NL #r@*hust*@ ~…~ ~Versager~ ~…~ @Hahaha@ ~haaah~",
       "Du triffst auf eine Gruppe Banditen, die große #rrote #rMasken tragen. NL „Hallo! Bezahl, wenn du vorbei willst... der angebrachte Betrag von @ALL@ deinem #yGold wird genügen! Heh heh!“"
     ],
@@ -626,12 +626,12 @@
     "DESCRIPTIONS": [
       "@Ba-bumm@ ... @Ba-bumm@ ... @Ba-bumm@ ... NL Eine tief pulsierende Bedrohung ist im gesamten Raum zu spüren... NL Ist dies das #r~Herz~ des Spires? Die Quelle des Bösen?",
       "Du verursachst #b",
-      " Schaden! NL Das Herz #r@windet@ sich und #r~blutet~... doch es schlägt noch immer. NL Reichen deine mächtigsten Angriffe nicht aus?",
+      " Schaden! NL Das Herz #r@windet@ sich und #r~blutet...~ doch es schlägt noch immer. NL Reichen deine mächtigsten Angriffe nicht aus?",
       "Du fragst dich selbst: ~„Bin~ ~ich~ ~schon~ ~hier~ ~gewesen?“~ NL Du glaubst, dass du insgesamt #b",
       " Schaden am Herzen verursacht hast.",
       " NL Insgesamt wurde #b",
       " Schaden von all jenen verursacht, die es herausgefordert haben.",
-      " NL Das Herz pulsiert lauter und lauter, während dein #y~Bewusstsein~ #y~schwindet~ ~...~",
+      " NL Das Herz pulsiert lauter und lauter, während dein #y~Bewusstsein~ #y~schwindet~ ...~~",
       "NL Du ziehst deine Klinge...",
       "NL Du zückst deine Dolche...",
       "NL Du lädst deinen Kern bis zum Maximum auf..."
@@ -670,7 +670,7 @@
     "NAME": "Die Bibliothek",
     "DESCRIPTIONS": [
       "Du kommst an einem verzierten Gebäude vorbei, das verlassen zu sein scheint. NL Eine Tafel, die von der Wand gerissen wurde, liegt auf dem Boden. Darauf steht: #b„DIE #bBIBLIOTHEK“. NL Im Inneren findest du zahllose Schriftrollen, Manuskripte und Bücher. NL Du nimmst eines und machst es dir auf einem Stuhl gemütlich.",
-      "Lesen ist was für Trottel. NL Du schläfst stattdessen auf einem gemütlichen Stuhl ein. NL ~Zzz~ ~...~ ~zzz~ ~...~ ~..~ ~Zz~ ~....~ NL Du wachst auf und fühlst dich erholt.",
+      "Lesen ist was für Trottel. NL Du schläfst stattdessen auf einem gemütlichen Stuhl ein. NL ~Zzz~ ...~~ ~zzz~ ...~~ ~..~ ~Zz~ ...~.~ NL Du wachst auf und fühlst dich erholt.",
       "Die Geschichte handelt von einem Mädchen, das Insekten kontrollieren kann und danach strebt, ein Held zu werden. Das Buch beschreibt kreative Einsatzmöglichkeiten von Kräften, Strategien für den Kampf und verschiedenen Perspektiven. NL Zufriedenstellend.",
       "Die Geschichte handelt von einem Mann, der zu den Sternen reiste und sich gestrandet auf einem trostlosen Planeten wiederfand. Einfallsreichtum, Glück, Ausdauer und Humor, um seinen Verstand nicht zu verlieren, waren die Werkzeuge, mit denen er nach Hause zurückkehren konnte. NL Faszinierend.",
       "Die Geschichte spielt in einem abgeschiedenen, unterirdischen Gebäude, da die Zustände außerhalb unerträglich geworden sind. Dieser Roman ist durchzogen von Verschwörungen, Propaganda und Ungerechtigkeit. Du denkst darüber nach, ob sich eine ähnliche Dynamik im Spire abspielt. NL Beunruhigend."
@@ -748,7 +748,7 @@
   "Ghosts": {
     "NAME": "Geisterrat",
     "DESCRIPTIONS": [
-      "Während du deinen Aufstieg fortschreitest beginnt #p~dicker~ #p~schwarzer~ #pRauch aus dem Boden und Wänden um dich herum zu quellen, welcher sich in drei maskierte Gestalten formt.NL NL ~\"Noch~ ~eine~ ~von~ #y~Neows~ ~Puppen~, ~glaub~ ~ich~.\"~ NL #r@\"ZUGESTIMMT!@ #r@SIE@ #r@KREIERT@ #r@IMMER@ #r@DIE@ #r@LUSTIGSTEN@ #r@SPIELZEUGE!\"@ NL NL Dir fällt das überspitzte Lächeln der Drei auf. NL \"Ignoriere die anderen... Willst du eine Kostprobe unserer #y~Kraft?\"~ ",
+      "Während du deinen Aufstieg fortschreitest beginnt #p~dicker~ #p~schwarzer~ #pRauch aus dem Boden und Wänden um dich herum zu quellen, welcher sich in drei maskierte Gestalten formt.NL NL ~\"Noch~ ~eine~ ~von~ #y~Neows~ ~Puppen~, ~glaub~ ~ich.\"~ NL #r@\"ZUGESTIMMT!@ #r@SIE@ #r@KREIERT@ #r@IMMER@ #r@DIE@ #r@LUSTIGSTEN@ #r@SPIELZEUGE!\"@ NL NL Dir fällt das überspitzte Lächeln der Drei auf. NL \"Ignoriere die anderen... Willst du eine Kostprobe unserer #y~Kraft?\"~ ",
       "",
       "#y\"Exzellent!\" NL Als die Geisterfigur spricht, bemerkst du wie ihr riesiger Mund sich immer weiter öffnet. #p~Dicker~ #p~schwarzer~ #p~Rauch~ quellt hervor und überschwemmt den Raum. Du kannst weder sehen noch atmen... NL NL Das Gefühl schwindet, kurz bevor du ohnmächtig wirst . NL NL Was auch immer sie waren, jetzt sind sie fort. Du gehst weiter, fühlst dich jedoch #pleer ...",
       "\"Wie enttäuschend...\" NL ~\"Früher~ ~oder~ ~später~ ~wirst~ ~du~ ~uns~ ~beitreten.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Die Gestalten verschwinden und hinterlassen nur das nervtötende Lachen in deinen Ohren.",

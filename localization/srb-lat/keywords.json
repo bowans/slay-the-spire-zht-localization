@@ -127,7 +127,7 @@
         "ranjivosti",
         "ranjiv"
       ],
-      "DESCRIPTION": "Ranjiva stvorenja primaju #b50% više štete od Napada."
+      "DESCRIPTION": "Ranjiva stvorenja primaju #b50% više štete od napada."
     },
     "WEAK": {
       "NAMES": [
@@ -180,7 +180,8 @@
     "INTANGIBLE": {
       "NAMES": [
         "neopipljiv",
-        "neopipljivost"
+        "neopipljivost",
+        "neopipljivosti"
       ],
       "DESCRIPTION": "Smanjuje SVU primljenu štetu i gubitak ž. p. na #b1."
     },
@@ -204,18 +205,18 @@
       ],
       "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
     },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Gains #yBlock."
+    },
     "FOCUS": {
       "NAMES": [
         "focus"
       ],
       "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "evoke",
-        "evoked"
-      ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
     },
     "PLASMA": {
       "NAMES": [
@@ -224,25 +225,18 @@
       ],
       "DESCRIPTION": "Orb: Gains Energy."
     },
-    "CHANNEL": {
-      "NAMES": [
-        "channel",
-        "channeled"
-      ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
-    },
-    "DARK": {
-      "NAMES": [
-        "dark",
-        "dark+"
-      ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
-    },
     "OPENER": {
       "NAMES": [
         "opener"
       ],
       "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
     },
     "LIGHTNING": {
       "NAMES": [
@@ -251,12 +245,19 @@
       ],
       "DESCRIPTION": "Orb: Deals damage to random enemies."
     },
-    "FROST": {
+    "DARK": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "dark",
+        "dark+"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "channel",
+        "channeled"
+      ],
+      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
     }
   }
 }

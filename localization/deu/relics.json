@@ -26,11 +26,11 @@
     ]
   },
   "Bag of Marbles": {
-    "NAME": "Beutel Murmeln",
+    "NAME": "Murmelsack",
     "FLAVOR": "Ein einst beliebtes Spielzeug in der Stadt. Nützlich, um Gegner aus dem Gleichgewicht zu bringen.",
     "DESCRIPTIONS": [
       "Wende zu Beginn jedes Kampfes #b",
-      " #yVerletzlich bei ALLEN Gegnern an."
+      " #yVerwundbar bei ALLEN Gegnern an."
     ]
   },
   "Bag of Preparation": {
@@ -169,7 +169,7 @@
     "NAME": "Championgürtel",
     "FLAVOR": "Nur die Größten dürfen diesen Gürtel tragen.",
     "DESCRIPTIONS": [
-      "Immer wenn du #yVerletzlich anwendest, wendest du auch #b",
+      "Immer wenn du #yVerwundbar anwendest, wendest du auch #b",
       " #ySchwach an."
     ]
   },
@@ -306,7 +306,7 @@
     "NAME": "Ingwer",
     "FLAVOR": "Eine wirkungsvolle Zutat in vielen Stärkungsmitteln.",
     "DESCRIPTIONS": [
-      "Du kannst nicht mehr #yGeschwächt werden."
+      "Du kannst nicht mehr #ySchwach werden."
     ]
   },
   "Girya": {
@@ -334,8 +334,8 @@
     ]
   },
   "Happy Flower": {
-    "NAME": "Glückliche Blume",
-    "FLAVOR": "Diese immerfort fröhliche Pflanze ist seit Neuestem äußerst beliebt beim Adel.",
+    "NAME": "Fröhliche Blume",
+    "FLAVOR": "Diese immerfort lachende Pflanze ist seit Neuestem äußerst beliebt beim Adel.",
     "DESCRIPTIONS": [
       "Alle #b",
       " Züge erhältst du [R] .",
@@ -505,7 +505,7 @@
     "FLAVOR": "Enthält die Geheimnisse der Assassinen.",
     "DESCRIPTIONS": [
       "Du beginnst jeden Kampf mit #b",
-      " #yKlingen auf deiner Hand."
+      " #yMesser auf deiner Hand."
     ]
   },
   "Nloth's Gift": {
@@ -534,7 +534,7 @@
     "NAME": "Seltsamer Pilz",
     "FLAVOR": "„Nachdem ich den Trichella-Parasiten verzehrt hatte, fühlte ich mich größer und weniger … anfällig.“ – Ranwid ",
     "DESCRIPTIONS": [
-      "Bei #yVerletzlich erleidest du statt #b50% #b25% mehr Schaden."
+      "Bei #yVerwundbar erleidest du statt #b50% #b25% mehr Schaden."
     ]
   },
   "Old Coin": {
@@ -604,7 +604,7 @@
     "NAME": "Papierphrosch",
     "FLAVOR": "Das Papier faltet sich unentwegt in Form einer kleinen Kreatur und faltet sich dann wieder auseinander.",
     "DESCRIPTIONS": [
-      "Gegner mit #yVerletzlich erleiden statt #b50% #b75% mehr Schaden."
+      "Gegner mit #yVerwundbar erleiden statt #b50% #b75% mehr Schaden."
     ]
   },
   "Peace Pipe": {
@@ -1098,8 +1098,8 @@
     ]
   },
   "Inserter": {
-    "NAME": "Einfüger",
-    "FLAVOR": "Platzhalter.",
+    "NAME": "Greifarm",
+    "FLAVOR": "Fehlt.",
     "DESCRIPTIONS": [
       "Alle #b2 Züge, erhalte #b1 Orb-Slot."
     ]
@@ -1108,7 +1108,7 @@
     "NAME": "Nuklearbatterie",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, erhalte, #yKanalisiere #b1 #yPlasma."
+      "Wenn jeder Kampf beginnt, #yKanalisiere #b1 #yPlasma."
     ]
   },
   "Runic Capacitor": {

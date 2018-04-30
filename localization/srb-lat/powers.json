@@ -488,7 +488,7 @@
   "Regenerate": {
     "NAME": "Regeneracija",
     "DESCRIPTIONS": [
-      "Zaceljuje #b",
+      "Zalečuje #b",
       " #yz. #yp. na kraju svog poteza."
     ]
   },
@@ -741,93 +741,20 @@
       " )."
     ]
   },
-  "Heatsink": {
-    "NAME": "Heatsink",
-    "DESCRIPTIONS": [
-      "Whenever you play a Power, draw #b",
-      " card.",
-      " cards."
-    ]
-  },
-  "Repair": {
-    "NAME": "Repair",
-    "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
-    ]
-  },
-  "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
-    ]
-  },
-  "Focus": {
-    "NAME": "Focus",
-    "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
-      "."
-    ]
-  },
-  "Conserve": {
-    "NAME": "Conserve",
-    "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
-    ]
-  },
-  "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card to your hand.",
-      "At the start of your turn, add #b%s random colorless cards to your hand."
-    ]
-  },
-  "Bias": {
-    "NAME": "Bias",
-    "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
-    ]
-  },
-  "Creative AI": {
-    "NAME": "Creative AI",
+  "Hello": {
+    "NAME": "Hello",
     "DESCRIPTIONS": [
       "At the start of your turn, add #b",
-      " random Power card into your hand."
+      " random Common cards to your hand.",
+      " random Common card to your hand."
     ]
   },
-  "No Attack": {
-    "NAME": "No Attack",
+  "Loop": {
+    "NAME": "Loop",
     "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
-    ]
-  },
-  "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTIONS": [
-      "On this turn, play your next #yPower twice.",
-      "On this turn, play your next ",
-      " #yPowers twice."
-    ]
-  },
-  "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
-    ]
-  },
-  "Rebound": {
-    "NAME": "Rebound",
-    "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
+      "At the start of your turn, use the passive ability of your next Orb.",
+      "At the start of your turn, use the passive ability of your next #b",
+      " Orbs."
     ]
   },
   "StaticDischarge": {
@@ -845,14 +772,6 @@
       " additional cards at the start of each turn."
     ]
   },
-  "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
-    ]
-  },
   "Prime": {
     "NAME": "Prime",
     "DESCRIPTIONS": [
@@ -861,12 +780,62 @@
       " cards."
     ]
   },
-  "Loop": {
-    "NAME": "Loop",
+  "Heatsink": {
+    "NAME": "Heatsink",
     "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
+      "Whenever you play a Power, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "No Attack": {
+    "NAME": "No Attack",
+    "DESCRIPTIONS": [
+      "You cannot play #yAttacks this turn."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Echo Form",
+    "DESCRIPTIONS": [
+      "The first card you play each turn is played #b",
+      " extra time.",
+      " extra times."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Rebound",
+    "DESCRIPTIONS": [
+      "The next card you play this turn is placed on top of your draw pile.",
+      "The next #b",
+      " cards you play this turn are placed on top of your draw pile."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetism",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b%s random colorless card to your hand.",
+      "At the start of your turn, add #b%s random colorless cards to your hand."
+    ]
+  },
+  "Bias": {
+    "NAME": "Bias",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " #yFocus."
+    ]
+  },
+  "Storm": {
+    "NAME": "Storm",
+    "DESCRIPTIONS": [
+      "Whenever you play a #bPower, #yChannel #b ",
+      " Lightning."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Creative AI",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Power card into your hand."
     ]
   },
   "Primitive": {
@@ -877,12 +846,43 @@
       " cards."
     ]
   },
-  "Hello": {
-    "NAME": "Hello",
+  "Repair": {
+    "NAME": "Repair",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "At the end of combat, heal #b",
+      " HP."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Conserve",
+    "DESCRIPTIONS": [
+      "#yEnergy is conserved this turn.",
+      "#yEnergy is conserved for the next #b",
+      " turns."
+    ]
+  },
+  "Focus": {
+    "NAME": "Focus",
+    "DESCRIPTIONS": [
+      "Increases the effectiveness of Orbs by #b",
+      "Decreases the effectiveness of Orbs by #b",
+      "."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplify",
+    "DESCRIPTIONS": [
+      "On this turn, play your next #yPower twice.",
+      "On this turn, play your next ",
+      " #yPowers twice."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Buffer",
+    "DESCRIPTIONS": [
+      "Prevent the next time you would lose HP.",
+      "Prevent the next #b",
+      " times you would lose HP."
     ]
   }
 }

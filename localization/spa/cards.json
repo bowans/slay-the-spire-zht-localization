@@ -881,361 +881,366 @@
     "DESCRIPTION": "Gana !M! Intangible. NL Al final de tu turno, pierde 1 Destreza."
   },
   "Auto Shields": {
-    "NAME": "Auto-Shields",
-    "DESCRIPTION": "If you have 0 Block, gain !B! Block."
+    "NAME": "Auto-Escudos",
+    "DESCRIPTION": "Si tienes 0 Bloqueo, gana !B! Bloqueo."
   },
   "Rip and Tear": {
-    "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to !M! random targets."
+    "NAME": "Rajar y Desgarrar",
+    "DESCRIPTION": "Causa !D! de daño a !M! objetivos aleatorios."
   },
   "Zap": {
-    "NAME": "Zap",
-    "DESCRIPTION": "Channel !M! Lightning."
+    "NAME": "Calambre",
+    "DESCRIPTION": "Invoca !M! Relámpagos."
   },
   "Fission": {
-    "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Increase your max Orb count by the number of Orbs Evoked."
+    "NAME": "Fisión",
+    "DESCRIPTION": "Descarga todos tus Orbes. Aumenta tu número máximo de Orbes en el número de Orbes Descargados."
   },
   "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTION": "Whenever you play a Power, Channel 1 Lightning.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power, Channel 1 Lightning."
+    "NAME": "Tormenta",
+    "DESCRIPTION": "Cuando juegues un Poder, Invoca 1 Relámpago.",
+    "UPGRADE_DESCRIPTION": "Innato. NL Cuando juegues un Poder, Invoca 1 Relámpago."
   },
   "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTION": "Use the passive effect of all of your Channeled Orbs. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Use the passive effect of all of your Channeled Orbs."
+    "NAME": "Impulso",
+    "DESCRIPTION": "Usa el efecto pasivo de todos tus Orbes Invocados. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Usa el efecto pasivo de todos tus Orbes Invocados."
   },
   "Double Energy": {
-    "NAME": "Double Energy",
-    "DESCRIPTION": "Double your Energy. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Double your Energy."
+    "NAME": "Doblar energía.",
+    "DESCRIPTION": "Dobla tu Energía. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Dobla tu Energía."
   },
   "Go for the Eyes": {
-    "NAME": "Go for the Eyes",
-    "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
+    "NAME": "Ir a por los ojos",
+    "DESCRIPTION": "Causa !D! de daño. Si el enemigo pretende atacar, aplica !M! Débil."
   },
   "Flux Capacitor": {
-    "NAME": "Flux Capacitor",
-    "DESCRIPTION": "Replace all Channeled Orbs with Plasma."
+    "NAME": "Condensador de Fluzo",
+    "DESCRIPTION": "Sustituye tus Orbes Invocados por Plasma."
   },
   "Self Repair": {
-    "NAME": "Self Repair",
-    "DESCRIPTION": "At the end of combat, heal !M! HP."
+    "NAME": "Auto Reparación",
+    "DESCRIPTION": "Al final del combate, sana !M! PV."
   },
   "Chaos": {
-    "NAME": "Chaos",
-    "DESCRIPTION": "Channel !M! random Orb.",
-    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
+    "NAME": "Caos",
+    "DESCRIPTION": "Invoca !M! Orbe aleatorio.",
+    "UPGRADE_DESCRIPTION": "Invoca !M! Orbes aleatorios."
   },
   "Cold Snap": {
-    "NAME": "Cold Snap",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Frost."
+    "NAME": "Frío Repentino",
+    "DESCRIPTION": "Causa !D! de daño. Invoca !M! Escarcha."
   },
   "Overclock": {
     "NAME": "Overclock",
-    "DESCRIPTION": "Gain !B! Block. Upgrade a random Orb.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Upgrade all Orbs."
+    "DESCRIPTION": "Gana !B! Bloqueo. Mejora un Orbe aleatorio.",
+    "UPGRADE_DESCRIPTION": "Gana !B! Bloqueo. Mejora todos los Orbes."
   },
   "Hyperbeam": {
-    "NAME": "Hyperbeam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose !M! Focus."
+    "NAME": "Hiperrayo",
+    "DESCRIPTION": "Causa !D! de daño a TODOS los enemigos. NL Pierde !M! Concentración."
   },
   "Energy Pulse": {
-    "NAME": "Energy Pulse",
-    "DESCRIPTION": "Gain Block equal to your Energy.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to twice your Energy."
+    "NAME": "Pulso de Energía",
+    "DESCRIPTION": "Gana Bloqueo igual a tu Energía.",
+    "UPGRADE_DESCRIPTION": "Gana Bloqueo igual al doble de tu Energía."
   },
   "Reinforced Body": {
-    "NAME": "Reinforced Body",
-    "DESCRIPTION": "Gain !B! Block X times."
+    "NAME": "Cuerpo Reforzado",
+    "DESCRIPTION": "Gana !B! Bloqueo X veces."
   },
   "Skim": {
-    "NAME": "Skim",
-    "DESCRIPTION": "Draw !M! cards."
+    "NAME": "Colar",
+    "DESCRIPTION": "Roba !M! cartas."
   },
   "Heatsinks": {
-    "NAME": "Heatsinks",
-    "DESCRIPTION": "Whenever you play a Power card, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Whenever you play a Power card, draw !M! cards."
+    "NAME": "Sumideros",
+    "DESCRIPTION": "Cuando juegues una carta de Poder, roba !M! carta.",
+    "UPGRADE_DESCRIPTION": "Cuando juegues una carta de Poder, roba !M! cartas."
   },
   "Darkness": {
-    "NAME": "Darkness",
-    "DESCRIPTION": "Apply !M! Weak. NL Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
+    "NAME": "Oscuridad",
+    "DESCRIPTION": "Aplica !M! Débil. NL Invoca !M! Oscuro.",
+    "UPGRADE_DESCRIPTION": "Aplica !M! Débil. NL Aplica !M! Vulnerable. NL Invoca !M! Oscuro."
   },
   "Dualcast": {
-    "NAME": "Dualcast",
-    "DESCRIPTION": "Evoke your next Orb 2 times."
+    "NAME": "Jugada Gemela",
+    "DESCRIPTION": "Descarga tu siguiente Orbe 2 veces."
   },
   "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTION": "At the start of each turn, add a random colorless card to your hand."
+    "NAME": "Magnetismo",
+    "DESCRIPTION": "Al comienzo de cada turno, añade una carta incolora aleatoria a tu mano."
   },
   "Recycle": {
-    "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost."
+    "NAME": "Reciclar",
+    "DESCRIPTION": "Agota una carta. NL Gana [B] igual a su coste."
   },
   "Melter": {
-    "NAME": "Melter",
-    "DESCRIPTION": "Remove all Block from an enemy. NL Deal !D! damage."
+    "NAME": "Fundición",
+    "DESCRIPTION": "Remueve todo el Bloqueo de un enemigo. NL Causa !D! de daño."
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card."
+    "DESCRIPTION": "Causa !D! de daño. Si has jugado menos de !M! cartas este turno, roba 1 carta."
   },
   "Barrage": {
-    "NAME": "Barrage",
-    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
+    "NAME": "Bombardeo",
+    "DESCRIPTION": "Causa !D! de daño por cada Orbe Invocado."
   },
   "Allocate": {
-    "NAME": "Allocate",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
+    "NAME": "Ubicar",
+    "DESCRIPTION": "Gana !M! Concentración. NL Pierde 1 de Fuerza. NL Pierde 1 de Destreza."
   },
   "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTION": "At the start of each turn, add a random Power card to your hand."
+    "NAME": "IA Creativa",
+    "DESCRIPTION": "Al comienzo de cada turno, añade una carta de Poder aleatoria a tu mano."
   },
   "Ball Lightning": {
-    "NAME": "Ball Lightning",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
+    "NAME": "Bola de Relámpagos",
+    "DESCRIPTION": "Causa !D! de daño. Invoca !M! Relámpago."
   },
   "Coolheaded": {
-    "NAME": "Coolheaded",
-    "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
+    "NAME": "Con la cabeza fría",
+    "DESCRIPTION": "Invoca 1 Escarcha. NL Roba !M! carta.",
+    "UPGRADE_DESCRIPTION": "Invoca 1 Escarca. NL Roba !M! cartas."
   },
   "Genetic Algorithm": {
-    "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. Exhaust."
+    "NAME": "Algoritmo Genético",
+    "DESCRIPTION": "Gana !B! Bloqueo. Cuando lo juegues, aumenta el Bloqueo de esta carta en !M! permanentemente. Agota."
   },
   "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTION": "This turn, your next Power is played twice.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Powers are played twice."
+    "NAME": "Amplificar",
+    "DESCRIPTION": "Este turno, tu siguiente Poder se juega dos veces.",
+    "UPGRADE_DESCRIPTION": "Este turno, tus siguientes !M! Poderes se juegan dos veces."
   },
   "Conserve Battery": {
-    "NAME": "Conserve Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Energy is conserved for next turn."
+    "NAME": "Ahorrar Batería",
+    "DESCRIPTION": "Gana !B! Bloqueo. NL La Energía se conserva hasta el siguiente turno."
   },
   "Aggregate": {
-    "NAME": "Aggregate",
-    "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
+    "NAME": "Agregar",
+    "DESCRIPTION": "Gana [B] por cada !M! cartas en tu pila de robado."
   },
   "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTION": "Prevent the next time you would lose HP.",
-    "UPGRADE_DESCRIPTION": "Prevent the next !M! times you would lose HP."
+    "NAME": "Almacenar Datos",
+    "DESCRIPTION": "Prevén la siguiente vez que fueras a perder PV.",
+    "UPGRADE_DESCRIPTION": "Prevén las siguientes !M! veces que fueras a perder PV."
   },
   "Winter": {
-    "NAME": "Winter",
-    "DESCRIPTION": "At the start of your turn, if you have an Orb slot, Channel 1 Frost."
+    "NAME": "Invierno",
+    "DESCRIPTION": "Al comienzo de tu turno, si tienes un hueco para Orbes, Invoca 1 Escarcha."
   },
   "Steam Power": {
-    "NAME": "Steam Power",
-    "DESCRIPTION": "Draw !M! cards. NL Add a Burn into your discard pile."
+    "NAME": "Energía de Vapor",
+    "DESCRIPTION": "Roba !M! Cartas. NL Añade una Quemadura en tu pila de descartes."
   },
   "Reprogram": {
-    "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "NAME": "Reprogramar",
+    "DESCRIPTION": "Mira las primeras !M! cartas de tu pila de robado. Puedes descartar cualquiera de ellas."
   },
   "Cache": {
-    "NAME": "Cache",
-    "DESCRIPTION": "At the end of your turn, choose !M! card from your draw pile and place it on top."
+    "NAME": "Caché",
+    "DESCRIPTION": "Al final de tu turno, escoge !M! carta de tu pila de robado y ponla encima."
   },
   "Rebound": {
-    "NAME": "Rebound",
-    "DESCRIPTION": "Deal !D! damage. NL Place the next card you play this turn on top of your draw pile."
+    "NAME": "Rebote",
+    "DESCRIPTION": "Causa !D! de daño. NL Pon la siguiente carta que juegues este turno encima de tu pila de robado."
   },
   "Capacitor": {
-    "NAME": "Capacitor",
-    "DESCRIPTION": "Gain !M! Orb slot.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
+    "NAME": "Condensador",
+    "DESCRIPTION": "Gana !M! hueco de Orbe.",
+    "UPGRADE_DESCRIPTION": "Gana !M! huecos de Orbe."
   },
   "Meteor Strike": {
-    "NAME": "Meteor Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
+    "NAME": "Impacto Meteórico",
+    "DESCRIPTION": "Causa !D!  de daño. NL Invoca !M! Plasma."
   },
   "Stack": {
-    "NAME": "Stack",
-    "DESCRIPTION": "Gain Block equal to the number of cards in your discard pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to the number of cards in your discard pile.",
+    "NAME": "Apilar",
+    "DESCRIPTION": "Gana Bloqueo igual al número de cartas en tu pila de descarte. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Gana Bloqueo igual al número de cartas en tu pila de descarte.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gains !B! Block.)"
+      " NL (Gana !B! Bloqueo.)"
     ]
   },
   "Multi-Cast": {
-    "NAME": "Multi-Cast",
-    "DESCRIPTION": "Evoke your next Orb X times.",
-    "UPGRADE_DESCRIPTION": "Evoke your next Orb X+1 times."
+    "NAME": "Multi-Lanzamiento",
+    "DESCRIPTION": "Descarga tu siguiente Orbe X veces.",
+    "UPGRADE_DESCRIPTION": "Descarga tu siguiente Orbe X+1 veces."
   },
   "Sweeping Beam": {
-    "NAME": "Sweeping Beam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! card."
+    "NAME": "Barrido de Haz",
+    "DESCRIPTION": "Causa !D! de daño a TODOS los enemigos. NL Roba !M! carta."
   },
   "Undo": {
-    "NAME": "Undo",
-    "DESCRIPTION": "Set your HP to what it was last turn. NL Exhaust."
+    "NAME": "Deshacer",
+    "DESCRIPTION": "Fija tus PV en los que eran el turno anterior. NL Agota."
   },
   "Doom and Gloom": {
-    "NAME": "Doom and Gloom",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Channel !M! Dark."
+    "NAME": "Muerte y Desolación",
+    "DESCRIPTION": "Causa !D! de daño a TODOS los enemigos. NL Invoca !M! Oscuro."
   },
   "Thunder Strike": {
-    "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal damage equal to your Focus to a random enemy !M! times.",
+    "NAME": "Impacto de Trueno",
+    "DESCRIPTION": "Causa daño igual a tu Concentración a un enemigo aleatorio !M! veces.",
     "EXTENDED_DESCRIPTION": [
       " (Channeled !M! Lightning.)"
     ]
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
-    "DESCRIPTION": "Draw !M! additional card at the start of each turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! additional card at the start of each turn."
+    "DESCRIPTION": "Roba !M! cartas adicionales al comienzo de cada turno.",
+    "UPGRADE_DESCRIPTION": "Innato. NL Roba !M! cartas adicionales al comienzo de cada turno."
   },
   "Tempest": {
-    "NAME": "Tempest",
-    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
+    "NAME": "Tempestad",
+    "DESCRIPTION": "Invoca X Relámpago. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Invoca X+1 Relámpago. NL Agota."
   },
   "Streamline": {
-    "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat."
+    "NAME": "Optimizar",
+    "DESCRIPTION": "Causa !D! de daño. NL Cada vez que juegues Optimizar, reduce su coste en !M! para el resto del combate."
   },
   "All For One": {
-    "NAME": "All For One",
-    "DESCRIPTION": "Deal !D! damage. Put all Cost 0 cards from your discard pile into your hand."
+    "NAME": "Todos Para Uno",
+    "DESCRIPTION": "Causa !D! de daño. Pon todas las cartas de Coste 0 de tu pila de descarte en tu mano."
   },
   "Channel": {
-    "NAME": "Channel",
-    "DESCRIPTION": "Whenever you play a Power card this turn, gain !M! Block."
+    "NAME": "Canalizar",
+    "DESCRIPTION": "Cada vez que juegues una carta de Poder este turno, gana !M! Bloqueo."
   },
   "Gash": {
-    "NAME": "Gash",
-    "DESCRIPTION": "Deal !D! damage. NL All Gash cards deal !M! additional damage this combat."
+    "NAME": "Tajo",
+    "DESCRIPTION": "Causa !D! de daño. NL Todas las cartas de Tajo causan !M! de daño adicional durante este combate."
   },
   "Axe Kick": {
-    "NAME": "Axe Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
+    "NAME": "Patada Vertical",
+    "DESCRIPTION": "Causa !D! de daño. NL Descarta tu siguiente Orbe."
   },
   "Fusion": {
-    "NAME": "Fusion",
-    "DESCRIPTION": "Channel !M! Plasma."
+    "NAME": "Fusión",
+    "DESCRIPTION": "Invoca !M! Plasma."
   },
   "Hologram": {
-    "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a random card from your discard pile to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
+    "NAME": "Holograma",
+    "DESCRIPTION": "Gana !B! Bloqueo. NL Devuelve una carta aleatoria de tu pila de descarte a tu mano.",
+    "UPGRADE_DESCRIPTION": "Gana !B! Bloqueo. NL Devuelve una carta de tu pila de descarte a tu mano."
   },
   "Blaster": {
-    "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb."
+    "NAME": "Bláster",
+    "DESCRIPTION": "Causa !D! de caño a TODOS los enemigos. NL Gana [B] por cada Orbe Invocada."
   },
   "Biased Cognition": {
-    "NAME": "Biased Cognition",
-    "DESCRIPTION": "Gain !M! Focus. NL At the start of each turn, lose 1 Focus."
+    "NAME": "Conocimiento Prejuicioso",
+    "DESCRIPTION": "Gana !M! Concentración. NL Al comienzo de cada turno, pierde 1 Concentración."
   },
   "Beam Cell": {
-    "NAME": "Beam Cell",
-    "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
+    "NAME": "Carga de Haz",
+    "DESCRIPTION": "Causa !D! de daño y aplica !M! Vulnerable."
   },
   "Static Discharge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "NAME": "Descarga Estática",
+    "DESCRIPTION": "Cada vez que recibas daño de ataque, Invoca !M! Relámpago."
   },
   "Ice Wall": {
-    "NAME": "Ice Wall",
-    "DESCRIPTION": "Gain !B! Block. Gain +3 Block for each Channeled Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Gain +5 Block for each Channeled Frost."
+    "NAME": "Muro de Hielo",
+    "DESCRIPTION": "Gana !B! Bloqueo. Gana +3 Bloqueo por cada Escarcha Invocada.",
+    "UPGRADE_DESCRIPTION": "Gana !B! Bloqueo. Gana +5 Bloqueo por cada Escarcha Invocada."
   },
   "Reboot": {
-    "NAME": "Reboot",
-    "DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
+    "NAME": "Reiniciar",
+    "DESCRIPTION": "Baraja todas tus cartas en tu pila de robado, luego roba !M! cartas. NL Agota."
   },
   "Blizzard": {
-    "NAME": "Blizzard",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Frost Channeled this combat.",
+    "NAME": "Ventisca",
+    "DESCRIPTION": "Causa !D! de daño a un enemigo aleatorio por cada Escarcha Invocada durante este combate.",
     "EXTENDED_DESCRIPTION": [
-      " NL You have Channeled ",
-      " Frost."
+      " NL Has Invocado ",
+      " Escarcha."
     ],
     "UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies."
   },
   "Turbo": {
     "NAME": "TURBO",
-    "DESCRIPTION": "Gain [B] [B]. NL Add a Void into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain [B] [B] [B]. NL Add a Void into your discard pile."
+    "DESCRIPTION": "Gana [B] [B]. NL Añade un Vacío a tu pila de descarte.",
+    "UPGRADE_DESCRIPTION": "Gana [B] [B] [B]. NL Añade un Vacío a tu pila de descarte."
   },
   "Glacier": {
-    "NAME": "Glacier",
-    "DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost."
+    "NAME": "Glaciar",
+    "DESCRIPTION": "Gana !B! Bloqueo. NL Invoca !M! Escarcha.",
+    "UPGRADE_DESCRIPTION": "Gana !B! Bloqueo. NL Invoca !M! Escarcha."
   },
   "Rainbow": {
-    "NAME": "Rainbow",
-    "DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark."
+    "NAME": "Arcoiris",
+    "DESCRIPTION": "Invoca 1 Relámpago, 1 Escarcha y 1 Oscuro. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Invoca 1 RElámpago, 1 Escarcha y 1 Oscuro."
   },
   "Defragment": {
-    "NAME": "Defragment",
-    "DESCRIPTION": "Gain !M! Focus."
+    "NAME": "Defragmentar",
+    "DESCRIPTION": "Gana !M! Concentración."
   },
   "Leap": {
-    "NAME": "Leap",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "Saltar",
+    "DESCRIPTION": "Gana !B! Bloqueo."
   },
   "Redo": {
-    "NAME": "Redo",
-    "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
+    "NAME": "Rehacer",
+    "DESCRIPTION": "Descarga tu siguiente Orbe. NL Invoca el Orbe que acaba de ser Descargado."
   },
   "White Noise": {
-    "NAME": "White Noise",
-    "DESCRIPTION": "Add a random Power to your hand. NL It costs 0 this turn. NL Exhaust."
+    "NAME": "Ruido Blanco",
+    "DESCRIPTION": "Añade un Poder aleatorio a tu mano. NL Cuesta 0 este turno. NL Agota."
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Power played this combat.",
+    "DESCRIPTION": "Causa !M! de daño a TODOS los enemigos por cada Poder jugado en este combate.",
     "EXTENDED_DESCRIPTION": [
-      " NL Exhaust.",
-      " NL Deals !D! damage."
+      " NL Agota.",
+      " NL Causa !D! de daño."
     ]
   },
   "Sunder": {
-    "NAME": "Sunder",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills the enemy, gain [B] [B] [B]."
+    "NAME": "Asolar",
+    "DESCRIPTION": "Causa !D! de daño. NL Si esto mata al enemigo, gana [B] [B] [B]."
   },
   "Chill": {
-    "NAME": "Chill",
-    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
+    "NAME": "Enfriar",
+    "DESCRIPTION": "Invoca !M! Escarcha por cada enemigo en combate. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Innato. NL Invoca !M! Escarcha por cada enemigo. NL Agota."
   },
   "Seek": {
-    "NAME": "Seek",
-    "DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "NAME": "Buscar",
+    "DESCRIPTION": "Escoge !M! cartas de tu pila de robado y ponlas en tu mano. NL Agota."
   },
   "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice."
+    "NAME": "Forma de Eco",
+    "DESCRIPTION": "La primera carta jugada cada turno de juega dos veces.",
+    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Force Field": {
-    "NAME": "Force Field",
-    "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
+    "NAME": "Campo de Fuerza",
+    "DESCRIPTION": "Cuesta 1 [B] menos por cada Poder jugado este combate. NL Gana !B! Bloqueo."
   },
   "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTION": "Whenever you Channel an Orb, draw !M! card."
+    "NAME": "Preprar",
+    "DESCRIPTION": "Cada vez que Invoques un Orbe, roba !M! carta."
   },
   "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
+    "NAME": "Bucle",
+    "DESCRIPTION": "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe."
   },
   "Hello World": {
-    "NAME": "Hello World",
-    "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
+    "NAME": "Hola Mundo",
+    "DESCRIPTION": "AL comienzo de tu turno, añade una carta Común aleatoria a tu mano.",
+    "UPGRADE_DESCRIPTION": "Innato. NL Al comienzo de tu turno, añade una carta Común aleatoria a tu mano."
   },
   "Primitive Tech": {
-    "NAME": "Primitive Tech",
-    "DESCRIPTION": "Whenever you play a card of Common rarity, draw !M! card."
+    "NAME": "Tecnología Primitiva",
+    "DESCRIPTION": "Cada vez que juegues una carta Común, roba !M! carta."
+  },
+  "Scrape": {
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
   }
 }

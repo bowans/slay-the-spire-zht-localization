@@ -21,7 +21,7 @@
     "NAME": "Астролаб",
     "FLAVOR": "Алатка којом се од звезда дознаје непроцењиво знање.",
     "DESCRIPTIONS": [
-      "При узимању, изабери и #yпреобрази #bтри карте, а потом их #yпобољшај.",
+      "При узимању, изабери #bтри карте, потом их #yпреобрази и #yпобољшај.",
       "Изабери три карте за "
     ]
   },
@@ -92,7 +92,7 @@
     "NAME": "Пламен у тегли",
     "FLAVOR": "У тегли пребива пламен који занавек гори.",
     "DESCRIPTIONS": [
-      "При узимању, изабери напад. На почетку сваког потеза, та карта ће ти бити у руци.",
+      "При узимању, изабери напад. На почетку сваке борбе, та карта ће ти бити у руци.",
       "Изабери карту за ",
       "На почетку сваке борбе, додај ",
       " у руку."
@@ -102,7 +102,7 @@
     "NAME": "Муња у тегли",
     "FLAVOR": "Завиркивањем у ковитлајућу олују, примећујеш део себе како узвраћа поглед.",
     "DESCRIPTIONS": [
-      "При узимању, изабери умеће. На почетку сваког потеза, та карта ће ти бити у руци.",
+      "При узимању, изабери умеће. На почетку сваке борбе, та карта ће ти бити у руци.",
       "Изабери карту за ",
       "На почетку сваке борбе, додај ",
       " у руку."
@@ -112,7 +112,7 @@
     "NAME": "Торнадо у тегли",
     "FLAVOR": "Пробна реликвија.",
     "DESCRIPTIONS": [
-      "При узимању, изабери моћ. На почетку сваког потеза, та карта ће ти бити у руци.",
+      "При узимању, изабери моћ. На почетку сваке борбе, та карта ће ти бити у руци.",
       "Изабери карту за ",
       "На почетку сваке борбе, додај ",
       " у руку."
@@ -254,10 +254,10 @@
     ]
   },
   "Du-Vu Doll": {
-    "NAME": "Ду-Ву луткица",
+    "NAME": "Ду-ву луткица",
     "FLAVOR": "Луткица осмишљена тако да црпи снагу из злокобне енергије.",
     "DESCRIPTIONS": [
-      "За сваку #yКлетву у шпилу, започни борбу са #yснагом повећаном за #b",
+      "За сваку #yклетву у шпилу, започни борбу са #yснагом повећаном за #b",
       ".",
       " Немаш #yклетве.",
       " Имаш #yклетве (#b",
@@ -427,7 +427,7 @@
     "NAME": "Магични цвет",
     "FLAVOR": "Цвет за који се мислило да је одавно изумро. Овај некако савршено очуван.",
     "DESCRIPTIONS": [
-      "Зацељивање је #b50% делотворније током борбе."
+      "Залечење је #b50% делотворније током борбе."
     ]
   },
   "Mango": {
@@ -503,7 +503,7 @@
     "FLAVOR": "Само би будала покушала да искористи ову злу моћ. Ноћу си у сновима ухођен призорима у којима ти ова књига прождире ум.",
     "DESCRIPTIONS": [
       "Први одигран #yнапад у сваком потезу са ценом од #b",
-      " или више се одиграва двапут. При узимању ове реликвију, постајеш #rуклет.",
+      " или више се одиграва двапут. При узимању ове реликвије, постајеш #rуклет.",
       " или више се одиграва двапут."
     ]
   },
@@ -511,7 +511,7 @@
     "NAME": "Нилријев кодекс",
     "FLAVOR": "Сачинио га је озлоглашени господар игара лично. Сматра се да проширује ум.",
     "DESCRIPTIONS": [
-      "На крају сваког потеза, можеш да изабереш #bједну од #bтри насумичне карте да измешаш у гомилу за вучење."
+      "На крају сваког потеза, можеш да изабереш #bједну од #bтри насумичне карте да убациш у гомилу за вучење."
     ]
   },
   "Nine Lives": {
@@ -791,7 +791,7 @@
     "NAME": "Змијково око",
     "FLAVOR": "Око палог змијка. Веће него што си мислио.",
     "DESCRIPTIONS": [
-      "Вуци #bдве додатне карте сваки потеж. почињеш сваку борбу #yзбуњен."
+      "Вуци #bдве додатне карте сваки потез. Почињеш сваку борбу #yзбуњен."
     ]
   },
   "Snake Skull": {
@@ -1080,15 +1080,7 @@
     "NAME": "Статуа беле звери",
     "FLAVOR": "Бела статуица створења које никада раније ниси видео.",
     "DESCRIPTIONS": [
-      "Напици су сада увек појављују као део плена после борбе."
-    ]
-  },
-  "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
-    "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yFocus."
+      "Напици се сада увек појављују као део плена после борбе."
     ]
   },
   "Nuclear Battery": {
@@ -1096,20 +1088,6 @@
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
       "At the start of each combat, #yChannel #b1 #yPlasma."
-    ]
-  },
-  "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
-    ]
-  },
-  "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
-    "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
     ]
   },
   "Emotion Chip": {
@@ -1121,16 +1099,31 @@
   },
   "Inserter": {
     "NAME": "Inserter",
-    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "FLAVOR": "Missing.",
     "DESCRIPTIONS": [
       "Every #b2 turns, gain #b1 Orb slot."
     ]
   },
-  "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+  "Cracked Core": {
+    "NAME": "Cracked Core",
+    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
     "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
+      "At the start of each combat, #yChannel #b1 #yLightning."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Symbiotic Virus",
+    "FLAVOR": "A little bit of #rbad can do a lot of #ggood...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yDark."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Data Disk",
+    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b",
+      " #yFocus."
     ]
   },
   "Runic Capacitor": {
@@ -1140,11 +1133,18 @@
       "Start each combat with #b3 additional Orb slots."
     ]
   },
-  "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
+  "Cables": {
+    "NAME": "Gold-Plated Cables",
+    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "Your rightmost Orb triggers its passive an additional time."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Turnip",
+    "FLAVOR": "Best with Ginger.",
+    "DESCRIPTIONS": [
+      "You can no longer become #yFrail."
     ]
   }
 }

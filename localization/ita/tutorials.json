@@ -48,7 +48,8 @@
     "TEXT": [
       "Quando usi questa carta guadagni un Potere. NL I Poteri sono abilità passive che durano per l'intero combattimento.",
       "Hai bisogno di energia per giocare carte! NL Questa sfera in basso a sinistra indica quanta energia ti rimane in questo turno.",
-      "La mia #rMano #rè #rPiena!"
+      "La mia #rMano #rè #rPiena!",
+      "#rMaximum Orb capacity has been met."
     ],
     "LABEL": [
       "Carte Potere",
@@ -128,7 +129,7 @@
   },
   "Discard Tip": {
     "TEXT": [
-      "Gli Scarti vengono mescolati nella Pila quando questa si svuota. NL NL Clicca per visualizzare le carte nei tuoi Scarti."
+      "Gli Scarti vengono mescolati nella Pila quando questa si svuota. NL NL Clicca per visualizzare le carte negli Scarti."
     ],
     "LABEL": [
       "Scarti"

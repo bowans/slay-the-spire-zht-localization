@@ -1,38 +1,38 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, increase this Orb's damage by #b",
-      ". NL #yEvoke: Deal #b",
-      " damage to the enemy with lowest HP."
+      "#yPasiva: Al final del turno, aumenta el daño de este Orbe en #b",
+      ". NL #yDescargar: Causa #b",
+      " de daño al enemigo con menor PV."
     ],
-    "NAME": "Dark"
+    "NAME": "Oscuro"
   },
   "Empty": {
     "DESCRIPTION": [
-      "Orbs can be channeled into these slots."
+      "Los Orbes se pueden Invocar en estos huecos."
     ],
-    "NAME": "Orb Slot"
+    "NAME": "Hueco de Orbe"
   },
   "Frost": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, gain #b",
-      " #yBlock. NL #yEvoke: Gain #b",
-      " #yBlock."
+      "#yPasiva: Al final del turno, gana #b",
+      " #yBloqueo. NL #yDescargar: Gana #b",
+      " #yBloqueo."
     ],
-    "NAME": "Frost"
+    "NAME": "Escarcha"
   },
   "Lightning": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, deal #b",
-      " damage to a random enemy. NL #yEvoke: Deal #b",
-      " damage to a random enemy."
+      "#yPasiva: Al final del turno, causa #b",
+      " de daño a un enemigo aleatorio. NL #yDescargar: Causa #b",
+      " de daño a un enemigo aleatorio."
     ],
-    "NAME": "Lightning"
+    "NAME": "Relámpago"
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
-      " [B] . NL Plasma is unaffected by #yFocus."
+      "#yPasiva: Al principio del turno, gana [B] . NL #yDescargar: Gana #b",
+      " [B] . NL Plasma no se ve afectado por #yConcentración."
     ],
     "NAME": "Plasma"
   }

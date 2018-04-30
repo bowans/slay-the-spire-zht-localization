@@ -1215,7 +1215,8 @@
   },
   "Echo Form": {
     "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice."
+    "DESCRIPTION": "The first card you play each turn is played twice.",
+    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Force Field": {
     "NAME": "Force Field",
@@ -1237,5 +1238,9 @@
   "Primitive Tech": {
     "NAME": "Primitive Tech",
     "DESCRIPTION": "Whenever you play a card of Common rarity, draw !M! card."
+  },
+  "Scrape": {
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
   }
 }

@@ -241,7 +241,7 @@
     ]
   },
   "Explosive": {
-    "NAME": "Explosive",
+    "NAME": "爆発",
     "DESCRIPTIONS": [
       "#b",
       " ターン経過後、 爆発して #b",
@@ -742,147 +742,147 @@
     ]
   },
   "Heatsink": {
-    "NAME": "Heatsink",
+    "NAME": "ヒートシンク",
     "DESCRIPTIONS": [
-      "Whenever you play a Power, draw #b",
-      " card.",
-      " cards."
+      "#bパワー をプレイするたび、カードを #b",
+      " 枚引く。",
+      " 枚引く。"
     ]
   },
   "Repair": {
-    "NAME": "Repair",
+    "NAME": "修復",
     "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
+      "戦闘終了時、 HPを #b",
+      " 回復する。"
     ]
   },
   "Storm": {
-    "NAME": "Storm",
+    "NAME": "ストーム",
     "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
+      " #bパワー をプレイするたび、 ライトニング #b ",
+      " を #y生成 する。"
     ]
   },
   "Focus": {
-    "NAME": "Focus",
+    "NAME": "集中力",
     "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
+      "オーブの効果が #b+",
+      "オーブの効果が #b-",
       "."
     ]
   },
   "Conserve": {
-    "NAME": "Conserve",
+    "NAME": "節約",
     "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
+      "#yエナジー を次ターンに持ち越す。",
+      "#yエナジー を次の #b",
+      " ターンまで持ち越す。"
     ]
   },
   "Magnetism": {
-    "NAME": "Magnetism",
+    "NAME": "磁性",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card to your hand.",
-      "At the start of your turn, add #b%s random colorless cards to your hand."
+      "ターン開始時、 #b%s 枚のランダムな無色のカードを手札に加える。",
+      "ターン開始時、 #b%s 枚のランダムな無色のカードを手札に加える。"
     ]
   },
   "Bias": {
-    "NAME": "Bias",
+    "NAME": "偏向",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
+      "ターン開始時、 #y集中力 #b",
+      " を失う。"
     ]
   },
   "Creative AI": {
-    "NAME": "Creative AI",
+    "NAME": "クリエイティブAI",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Power card into your hand."
+      "ターン開始時、 ランダムな「パワー」を #b",
+      " 枚手札に加える。"
     ]
   },
   "No Attack": {
-    "NAME": "No Attack",
+    "NAME": "攻撃不可",
     "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
+      "このターン #y「アタック」 をプレイできない。"
     ]
   },
   "Amplify": {
-    "NAME": "Amplify",
+    "NAME": "増幅",
     "DESCRIPTIONS": [
-      "On this turn, play your next #yPower twice.",
-      "On this turn, play your next ",
-      " #yPowers twice."
+      "このターン、次の #y「パワー」 を 2 回プレイする。",
+      "このターン、次の",
+      " つの #y「パワー」 を 2 回プレイする。"
     ]
   },
   "Buffer": {
-    "NAME": "Buffer",
+    "NAME": "バッファー",
     "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
+      "次のHPの喪失を防ぐ。",
+      "次のHPの喪失を #b",
+      " 回防ぐ。"
     ]
   },
   "Rebound": {
-    "NAME": "Rebound",
+    "NAME": "リバウンド",
     "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
+      "次にプレイするカードを山札の一番上に置く。",
+      "次にプレイする #b",
+      " 枚のカードを山札の一番上に置く。"
     ]
   },
   "StaticDischarge": {
-    "NAME": "Static Discharge",
+    "NAME": "静電放電",
     "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
+      "攻撃を受けるたび、 #yライトニング #b",
+      " を #y生成 する。"
     ]
   },
   "Machine Learning": {
-    "NAME": "Machine Learning",
+    "NAME": "機械学習",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
+      "ターン開始時、追加で #b",
+      " 枚のカードを引く。",
+      " 枚のカードを引く。"
     ]
   },
   "Echo Form": {
-    "NAME": "Echo Form",
+    "NAME": "反響形態",
     "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
+      "ターンの最初にプレイするカードを追加で #b",
+      " 回プレイする。",
+      " 回プレイする。"
     ]
   },
   "Prime": {
-    "NAME": "Prime",
+    "NAME": "プライム",
     "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
+      "オーブを #y生成 するたび、カードを #b",
+      " 枚引く。",
+      " 枚引く。"
     ]
   },
   "Loop": {
-    "NAME": "Loop",
+    "NAME": "ループ",
     "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
+      "ターン開始時、 次のオーブの自動効果を使用する。",
+      "ターン開始時、 次の #b",
+      " つのオーブの自動効果を使用する。"
     ]
   },
   "Primitive": {
-    "NAME": "Primitive",
+    "NAME": "原始的",
     "DESCRIPTIONS": [
-      "Whenever you play a Common card, draw #b",
-      " card.",
-      " cards."
+      "コモンカードをプレイするたび、カードを #b",
+      " 枚引く。",
+      " 枚引く。"
     ]
   },
   "Hello": {
-    "NAME": "Hello",
+    "NAME": "ハロー",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "ターン開始時、 ランダムなコモンのカードを #b",
+      " 枚手札に加える。",
+      " r枚手札に加える。"
     ]
   }
 }

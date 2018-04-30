@@ -20,16 +20,6 @@
       "Fortfahren"
     ]
   },
-  "GamblingChipAction": {
-    "TEXT": [
-      "Ersetzen (Spielchip)"
-    ]
-  },
-  "RetainCardsAction": {
-    "TEXT": [
-      "Behältst"
-    ]
-  },
   "AbstractChest": {
     "TEXT": [
       "Fortfahren"
@@ -53,11 +43,6 @@
   "TreasureRoomBoss": {
     "TEXT": [
       "Truhe überspringen"
-    ]
-  },
-  "SetupAction": {
-    "TEXT": [
-      "auf deinen Nachziehstapel legst."
     ]
   },
   "SkillFromDeckToHandAction": {
@@ -115,7 +100,7 @@
   },
   "Smith Option": {
     "TEXT": [
-      "Schmied",
+      "Schmieden",
       "Verbessere eine Karte in deinem Deck.",
       "Keine verbesserbaren Karten."
     ]
@@ -266,21 +251,6 @@
       "Abwurfstapel"
     ]
   },
-  "DiscardAction": {
-    "TEXT": [
-      "Abwerfen"
-    ]
-  },
-  "ArmamentsAction": {
-    "TEXT": [
-      "Verbessern"
-    ]
-  },
-  "DualWieldAction": {
-    "TEXT": [
-      "Duplizieren"
-    ]
-  },
   "DeathScreen": {
     "TEXT": [
       "Fortsetzen",
@@ -367,7 +337,7 @@
       "Schatz!",
       "Was ist drin?",
       "Belohnungen!",
-      "Waren!",
+      "Raubgut!",
       "Beute!",
       "Tipp: "
     ]
@@ -414,6 +384,41 @@
       "Wähle eine Karte, die du "
     ]
   },
+  "DiscardAction": {
+    "TEXT": [
+      "abwirfst"
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "auf deinen Nachziehstapel legst."
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "verbesserst"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "duplizierst"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "abwirfst"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "ersetzt (Spielchip)"
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "behältst"
+    ]
+  },
   "AbandonRunButton": {
     "TEXT": [
       "Durchlauf abbrechen"
@@ -435,7 +440,7 @@
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Spielmenü",
+      "Spieleinstellungen",
       "Grafik",
       "Auflösung: NL Max. Framerate:",
       "Vollbild NL Vollbild-Fenster (empfohlen) NL Screenshake",
@@ -718,7 +723,7 @@
   },
   "AbstractPlayer": {
     "TEXT": [
-      "Blocked",
+      "Geblockt",
       "Der Eiserne",
       "Die Stille",
       "Das Defekte"
@@ -733,7 +738,7 @@
     "TEXT": [
       " Gold (zurückgestohlen)",
       " Gold",
-      "Füge eine Karte deinem Deck hinzu",
+      "Erhalte eine Karte",
       "",
       "Wähle eine Karte"
     ]
@@ -775,7 +780,7 @@
       "Kampfbeginn",
       "Spielerzug",
       "Gegnerzug",
-      " zug"
+      ". Zug"
     ]
   },
   "TipHelper": {
@@ -952,7 +957,7 @@
     "TEXT": [
       "Standard",
       "",
-      "Brich auf eine Quest auf, um den Spire zu erschlagen.",
+      "Brich auf eine Quest in den Spire auf und kämpfe dich an die Spitze dieses mysteriösen Turmes.",
       "Täglicher Aufstieg",
       "",
       "Jeden Tag ist eine neue Herausforderung verfügbar.\n\nTritt gegen andere Spieler an, um den Highscore zu bekommen!",
@@ -982,7 +987,7 @@
       "Ändere deine Auflösung und wähle weitere Optionen für das Spiel.",
       "Eingabeoptionen",
       "",
-      "Dieses Feature ist noch nicht verfügbar.",
+      "Ändere deine Steuerung und Tastenbelegungen.",
       "Credits",
       "",
       "Sieh dir all die Leute an, die zu Slay the Spire beigetragen haben!",
@@ -1038,7 +1043,7 @@
       "Befehle",
       "Tastatur",
       "Controller (noch nicht verfügbar)",
-      "Auf normal zurücksetzen",
+      "Auf Standard zurücksetzen",
       "Bestätigen",
       "Abbrechen / Schließen",
       "Karte",
@@ -1065,13 +1070,8 @@
     "TEXT_DICT": {
       "Escape": "ESC",
       "Forward Delete": "Entf",
-      "Delete": "Rücktaste"
+      "Delete": "Backspace"
     }
-  },
-  "ReprogramAction": {
-    "TEXT": [
-      "Wirf ab"
-    ]
   },
   "CacheAction": {
     "TEXT": [

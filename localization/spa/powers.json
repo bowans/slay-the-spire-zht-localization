@@ -742,147 +742,147 @@
     ]
   },
   "Heatsink": {
-    "NAME": "Heatsink",
+    "NAME": "Sumidero",
     "DESCRIPTIONS": [
-      "Whenever you play a Power, draw #b",
-      " card.",
-      " cards."
+      "Cada vez que juegues un Poder, roba #b",
+      " carta.",
+      " cartas."
     ]
   },
   "Repair": {
-    "NAME": "Repair",
+    "NAME": "Reparar",
     "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
+      "Al final del combate, sana #b",
+      " PV."
     ]
   },
   "Storm": {
-    "NAME": "Storm",
+    "NAME": "Tormenta",
     "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
+      "Cada vez que juegues un #bPoder, #yInvoca #b ",
+      " Relámpago."
     ]
   },
   "Focus": {
-    "NAME": "Focus",
+    "NAME": "Concentración",
     "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
+      "Aumenta la efectividad de los Orbes en #b",
+      "Reduce la efectividad de los Orbes en  #b",
       "."
     ]
   },
   "Conserve": {
-    "NAME": "Conserve",
+    "NAME": "Conservar",
     "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
+      "La #yEnergía se conserva este turno.",
+      "La #yEnergía se conserva los próximos #b",
+      " turnos."
     ]
   },
   "Magnetism": {
-    "NAME": "Magnetism",
+    "NAME": "Magnetismo",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card to your hand.",
-      "At the start of your turn, add #b%s random colorless cards to your hand."
+      "Al comienzo de tu turno, añade #b%s carta incolora aleatoria a tu mano.",
+      "Al comienzo de tu turno, añade #b%s cartas incoloras aleatorias a tu mano."
     ]
   },
   "Bias": {
-    "NAME": "Bias",
+    "NAME": "Prejuicio",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
+      "Al comienzo de tu turno, pierde #b",
+      " #yConcentración."
     ]
   },
   "Creative AI": {
-    "NAME": "Creative AI",
+    "NAME": "IA Creativa",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Power card into your hand."
+      "Al comienzo de tu turno, añade #b",
+      " cartas de Poder aleatorias a tu mano."
     ]
   },
   "No Attack": {
-    "NAME": "No Attack",
+    "NAME": "Sin atacar",
     "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
+      "No puedes jugar #yAtaques este turno."
     ]
   },
   "Amplify": {
-    "NAME": "Amplify",
+    "NAME": "Amplificar",
     "DESCRIPTIONS": [
-      "On this turn, play your next #yPower twice.",
-      "On this turn, play your next ",
-      " #yPowers twice."
+      "Durante este turno, juega tu siguiente #yPoder dos veces.",
+      "Durante este turno, juega tus siguientes",
+      " #yPoderes dos veces."
     ]
   },
   "Buffer": {
-    "NAME": "Buffer",
+    "NAME": "Almacenar Datos",
     "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
+      "Prevén la siguiente vez que fueras a perder PV.",
+      "Prevén las siguientes #b",
+      " veces que fueras a perder PV."
     ]
   },
   "Rebound": {
-    "NAME": "Rebound",
+    "NAME": "Rebote",
     "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
+      "La siguiente carta que juegues este turno se colocará encima de tu pila de robado.",
+      "Las siguientes #b",
+      " cartas que juegues este turno se colocarán encima de tu pila de robado."
     ]
   },
   "StaticDischarge": {
-    "NAME": "Static Discharge",
+    "NAME": "Descarga Estática",
     "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
+      "Cuando recibas daño de #yAtaque, #yInvoca #b",
+      " #yRelámpago."
     ]
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
+      "Roba #b",
+      " carta adicional al comienzo de cada turno.",
+      " cartas adicionales al comienzo de cada turno."
     ]
   },
   "Echo Form": {
-    "NAME": "Echo Form",
+    "NAME": "Forma de Eco",
     "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
+      "La primera carta jugada cada turno se jugará #b",
+      " vez extra.",
+      " veces extra."
     ]
   },
   "Prime": {
-    "NAME": "Prime",
+    "NAME": "Preparar",
     "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
+      "Cada vez que #yInvoques un Orbe, roba #b",
+      " carta.",
+      " cartas."
     ]
   },
   "Loop": {
-    "NAME": "Loop",
+    "NAME": "Bucle",
     "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
+      "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe.",
+      "Al comienzo de tu turno, usa la habilidad pasiva de tus siguientes #b",
+      " Orbes."
     ]
   },
   "Primitive": {
-    "NAME": "Primitive",
+    "NAME": "Primitivo",
     "DESCRIPTIONS": [
-      "Whenever you play a Common card, draw #b",
-      " card.",
-      " cards."
+      "Cada vez que juegues una carta Común, roba #b",
+      " carta.",
+      " cartas."
     ]
   },
   "Hello": {
-    "NAME": "Hello",
+    "NAME": "Hola",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "Al comeinzo de tu turno, añade #b",
+      " carta Común aleatoria a tu mano.",
+      " cartas Común aleatorias a tu mano."
     ]
   }
 }

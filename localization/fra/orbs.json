@@ -2,10 +2,10 @@
   "Dark": {
     "DESCRIPTION": [
       "#yPassif: À la fin du tour, augmente les dégâts de cet Orbe de #b",
-      ". NL #yInvocation: Inflige #b",
+      ". NL #yActivation: Inflige #b",
       " dégâts à l'ennemi qui a le moins de PV."
     ],
-    "NAME": "Obscur"
+    "NAME": "Orbe Obscur"
   },
   "Empty": {
     "DESCRIPTION": [
@@ -16,24 +16,24 @@
   "Frost": {
     "DESCRIPTION": [
       "#yPassif: À la fin du tour, gagnez #b",
-      " #yd'Armure. NL #yInvocation: Gagnez #b",
+      " #yd'Armure. NL #yActivation: Gagnez #b",
       " #yd'Armure."
     ],
-    "NAME": "Glaciaire"
+    "NAME": "Orbe Glaciaire"
   },
   "Lightning": {
     "DESCRIPTION": [
       "#yPassif: À la fin du tour, infligez #b",
-      " dégâts à un ennemi aléatoire. NL #Invocation: Infligez #b",
+      " dégâts à un ennemi aléatoire. NL #yActivation: Infligez #b",
       " dégâts à un ennemi aléatoire."
     ],
-    "NAME": "Kéraunique"
+    "NAME": "Orbe Kéraunique"
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yPassif: Au début du tour, gagnez [B] . NL #yInvocation: Gagnez #b",
-      " [B] . NL Les Orbes Plasmiques ne sont pas affectés par #yConcentration."
+      "#yPassif: Au début du tour, gagnez [B] . NL #yActivation: Gagnez #b",
+      " [B] . NL Les Orbes Plasmiques ne sont pas affectés par la #yConcentration."
     ],
-    "NAME": "Plasmique"
+    "NAME": "Orbe Plasmique"
   }
 }

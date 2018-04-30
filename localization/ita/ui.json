@@ -152,7 +152,7 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Rimpiazza (Gettone da Gioco)"
+      "Rimpiazzare (Gettone da Gioco)"
     ]
   },
   "ReprogramAction": {
@@ -478,7 +478,7 @@
   "DeathScreenUi": {
     "TEXT": [
       "Modalità Ascensione Livello ",
-      " Sbloccato!"
+      " Hai Sbloccato un Oggetto!"
     ]
   },
   "DeathScreen": {
@@ -524,8 +524,8 @@
       "Riprova",
       "Procedi",
       "Sblocca",
-      "Unlock Rimanenti: ",
-      "Unlock Rimanenti: ",
+      "Carte da sbloccare: ",
+      "Carte da sbloccare: ",
       "Nemici Uccisi",
       "Elite Uccisi",
       "Oro non Speso",
@@ -697,17 +697,17 @@
       "Opzioni Input",
       "Opzioni di Gioco",
       "Indietro",
-      "Comand",
-      "Keyboard",
+      "Comando Attivato",
+      "Tastiera",
       "Controller (Non ancora disponibile)",
       "Ripristina Predefiniti",
       "Conferma",
       "Cancella / Esci",
-      "Mappa",
-      "Mazzo",
-      "Pila della Pesca",
-      "Pila degli Scarti",
-      "Pila delle Esaurite",
+      "Visualizza la Mappa",
+      "Vedi il Mazzo",
+      "Vedi le carte nella Pila",
+      "Vedi le carte negli Scarti",
+      "Carte Esaurite",
       "Passa",
       "Sinistra",
       "Destra",
@@ -829,7 +829,7 @@
       "Carte ancora da Sbloccare",
       "Ignoto",
       "???",
-      " Al Prossimo Unlock"
+      " Per Sbloccare"
     ]
   },
   "CharacterSelectScreen": {
@@ -969,13 +969,13 @@
   },
   "UnlockTextEffect": {
     "TEXT": [
-      "Sbloccato!"
+      " Hai Sbloccato un Oggetto!"
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
       "Modalità Ascensione Livello ",
-      " Sbloccato!"
+      " Hai Sbloccato un Oggetto!"
     ]
   },
   "AbstractPotion": {

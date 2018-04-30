@@ -268,7 +268,7 @@
     "DESCRIPTION": "敵全体に !D! のダメージと　弱体 1 を与える。"
   },
   "Flame Barrier": {
-    "NAME": "炎の壁",
+    "NAME": "炎の障壁",
     "DESCRIPTION": "!B! ブロック を得る。 NL このターン攻撃を受けるたび、攻撃した敵に !M! ダメージを与える。 "
   },
   "Endless Agony": {
@@ -881,361 +881,366 @@
     "DESCRIPTION": "手札が !M! 枚になるまでカードを引く。"
   },
   "Auto Shields": {
-    "NAME": "Auto-Shields",
-    "DESCRIPTION": "If you have 0 Block, gain !B! Block."
+    "NAME": "自動防御盾",
+    "DESCRIPTION": "ブロック値が0の時、 !B! ブロック を得る。"
   },
   "Rip and Tear": {
-    "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to !M! random targets."
+    "NAME": "狂奔",
+    "DESCRIPTION": "ランダムな敵に !D! ダメージを !M! 回与える。"
   },
   "Zap": {
-    "NAME": "Zap",
-    "DESCRIPTION": "Channel !M! Lightning."
+    "NAME": "ザップ",
+    "DESCRIPTION": "ライトニング !M! を 生成 する。"
   },
   "Fission": {
-    "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Increase your max Orb count by the number of Orbs Evoked."
+    "NAME": "核分裂",
+    "DESCRIPTION": "すべてのオーブを 喚起 する。 喚起 したオーブ1つにつき、 オーブスロット を1つ得る。"
   },
   "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTION": "Whenever you play a Power, Channel 1 Lightning.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power, Channel 1 Lightning."
+    "NAME": "ストーム",
+    "DESCRIPTION": "「パワー」をプレイするたび、 ライトニング 1 を 生成 する。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL 「パワー」をプレイするたび、 ライトニング 1 を 生成 する。"
   },
   "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTION": "Use the passive effect of all of your Channeled Orbs. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Use the passive effect of all of your Channeled Orbs."
+    "NAME": "衝動",
+    "DESCRIPTION": "生成 しているすべてのオーブの自動効果を使用する。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "生成 しているすべてのオーブの自動効果を使用する。"
   },
   "Double Energy": {
-    "NAME": "Double Energy",
-    "DESCRIPTION": "Double your Energy. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Double your Energy."
+    "NAME": "ダブルエナジー",
+    "DESCRIPTION": "エナジーを2倍にする。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "エナジーを2倍にする。"
   },
   "Go for the Eyes": {
-    "NAME": "Go for the Eyes",
-    "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
+    "NAME": "目潰し",
+    "DESCRIPTION": "!D! ダメージを与える。 敵が攻撃を予定している場合、 脱力 !M! を与える。"
   },
   "Flux Capacitor": {
-    "NAME": "Flux Capacitor",
-    "DESCRIPTION": "Replace all Channeled Orbs with Plasma."
+    "NAME": "次元転移装置",
+    "DESCRIPTION": "生成 しているすべてのオーブを プラズマ に置き換える。 NL 廃棄 。"
   },
   "Self Repair": {
-    "NAME": "Self Repair",
-    "DESCRIPTION": "At the end of combat, heal !M! HP."
+    "NAME": "自己修復",
+    "DESCRIPTION": "戦闘終了時、HPを !M! 回復する。"
   },
   "Chaos": {
-    "NAME": "Chaos",
-    "DESCRIPTION": "Channel !M! random Orb.",
-    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
+    "NAME": "混沌",
+    "DESCRIPTION": "ランダムなオーブを !M! つ 生成 する。",
+    "UPGRADE_DESCRIPTION": "ランダムなオーブを !M! つ 生成 する。"
   },
   "Cold Snap": {
-    "NAME": "Cold Snap",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Frost."
+    "NAME": "寒波",
+    "DESCRIPTION": "!D! ダメージを与える。 フロスト !M! を 生成 する。"
   },
   "Overclock": {
     "NAME": "Overclock",
-    "DESCRIPTION": "Gain !B! Block. Upgrade a random Orb.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Upgrade all Orbs."
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Hyperbeam": {
-    "NAME": "Hyperbeam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose !M! Focus."
+    "NAME": "ハイパービーム",
+    "DESCRIPTION": "すべての敵に !D! ダメージを与える。 NL 集中力 !M! を失う。"
   },
   "Energy Pulse": {
-    "NAME": "Energy Pulse",
-    "DESCRIPTION": "Gain Block equal to your Energy.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to twice your Energy."
+    "NAME": "エナジーパルス",
+    "DESCRIPTION": "あなたのエナジーに等しい ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "あなたのエナジーの2倍に等しい ブロック を得る。"
   },
   "Reinforced Body": {
-    "NAME": "Reinforced Body",
-    "DESCRIPTION": "Gain !B! Block X times."
+    "NAME": "強化ボディ",
+    "DESCRIPTION": "!B! ブロックを X 回得る。"
   },
   "Skim": {
-    "NAME": "Skim",
-    "DESCRIPTION": "Draw !M! cards."
+    "NAME": "スキム",
+    "DESCRIPTION": "カードを !M! 枚引く。"
   },
   "Heatsinks": {
-    "NAME": "Heatsinks",
-    "DESCRIPTION": "Whenever you play a Power card, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Whenever you play a Power card, draw !M! cards."
+    "NAME": "ヒートシンク",
+    "DESCRIPTION": "「パワー」 をプレイするたび、カードを !M! 枚引く。",
+    "UPGRADE_DESCRIPTION": "「パワー」 をプレイするたび、カードを !M! 枚引く。"
   },
   "Darkness": {
-    "NAME": "Darkness",
-    "DESCRIPTION": "Apply !M! Weak. NL Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
+    "NAME": "暗黒",
+    "DESCRIPTION": "ダーク !M! を 生成 する。",
+    "UPGRADE_DESCRIPTION": "ダーク !M! を 生成 する。"
   },
   "Dualcast": {
-    "NAME": "Dualcast",
-    "DESCRIPTION": "Evoke your next Orb 2 times."
+    "NAME": "デュアルキャスト",
+    "DESCRIPTION": "次のオーブを2回 喚起 する。"
   },
   "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTION": "At the start of each turn, add a random colorless card to your hand."
+    "NAME": "磁性",
+    "DESCRIPTION": "ターン開始時に、ランダムな無色のカードを1枚手札に加える。"
   },
   "Recycle": {
-    "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost."
+    "NAME": "リサイクル",
+    "DESCRIPTION": "カードを1枚 廃棄 する。 NL そのコストに等しい [B] を得る。"
   },
   "Melter": {
-    "NAME": "Melter",
-    "DESCRIPTION": "Remove all Block from an enemy. NL Deal !D! damage."
+    "NAME": "溶解炉",
+    "DESCRIPTION": "敵の ブロック をすべて取り除く。 NL !D! ダメージを与える。"
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card."
+    "DESCRIPTION": "!D! ダメージを与える。 このターンにプレイしたカードが !M! 枚未満の場合、カードを1枚引く。"
   },
   "Barrage": {
-    "NAME": "Barrage",
-    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
+    "NAME": "集中砲火",
+    "DESCRIPTION": "生成 しているオーブ1つにつき、 !D! ダメージを与える。"
   },
   "Allocate": {
-    "NAME": "Allocate",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
+    "NAME": "アロケート",
+    "DESCRIPTION": "集中力 !M! を得る。 NL 筋力1を失う。 NL 敏捷性1を失う。"
   },
   "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTION": "At the start of each turn, add a random Power card to your hand."
+    "NAME": "クリエイティブAI",
+    "DESCRIPTION": "ターン開始時に、ランダムな「パワー」を手札に加える。"
   },
   "Ball Lightning": {
-    "NAME": "Ball Lightning",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
+    "NAME": "ボールライトニング",
+    "DESCRIPTION": "!D! ダメージを与える。 ライトニング !M! を 生成 する。"
   },
   "Coolheaded": {
-    "NAME": "Coolheaded",
-    "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
+    "NAME": "冷静沈着",
+    "DESCRIPTION": "フロスト 1 を 生成 する。 NL カードを !M! 枚引く。",
+    "UPGRADE_DESCRIPTION": "フロスト 1 を 生成 する。 NL カードを !M! 枚引く。"
   },
   "Genetic Algorithm": {
-    "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. Exhaust."
+    "NAME": "遺伝的アルゴリズム",
+    "DESCRIPTION": "!B! ブロック を得る。 プレイ時にこのカードの ブロック 値を永続的に !M! 増加する。 NL 廃棄 。"
   },
   "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTION": "This turn, your next Power is played twice.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Powers are played twice."
+    "NAME": "増幅",
+    "DESCRIPTION": "このターン、次の「パワー」を 2 回プレイする。",
+    "UPGRADE_DESCRIPTION": "このターン、次の !M! つの「パワー」を 2 回プレイする。"
   },
   "Conserve Battery": {
-    "NAME": "Conserve Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Energy is conserved for next turn."
+    "NAME": "節電",
+    "DESCRIPTION": "!B! ブロック を得る。 NL エナジーを次のターンに持ち越す。"
   },
   "Aggregate": {
-    "NAME": "Aggregate",
-    "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
+    "NAME": "集計",
+    "DESCRIPTION": "山札のカード !M! 枚につき、 [B] を得る。"
   },
   "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTION": "Prevent the next time you would lose HP.",
-    "UPGRADE_DESCRIPTION": "Prevent the next !M! times you would lose HP."
+    "NAME": "バッファー",
+    "DESCRIPTION": "次にHPを失うとき、それを無効化する。",
+    "UPGRADE_DESCRIPTION": "次にHPを失うとき、それを !M! 回無効化する。"
   },
   "Winter": {
     "NAME": "Winter",
-    "DESCRIPTION": "At the start of your turn, if you have an Orb slot, Channel 1 Frost."
+    "DESCRIPTION": "Deprecated."
   },
   "Steam Power": {
-    "NAME": "Steam Power",
-    "DESCRIPTION": "Draw !M! cards. NL Add a Burn into your discard pile."
+    "NAME": "蒸気機関",
+    "DESCRIPTION": "カードを !M! 枚引く。 NL 火傷 を1枚捨て札に加える。"
   },
   "Reprogram": {
-    "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "NAME": "再構成",
+    "DESCRIPTION": "山札の一番上から !M! 枚のカードを見る。 その中から好きな枚数捨てる。"
   },
   "Cache": {
-    "NAME": "Cache",
-    "DESCRIPTION": "At the end of your turn, choose !M! card from your draw pile and place it on top."
+    "NAME": "キャッシュ",
+    "DESCRIPTION": "ターン終了時に、 山札から !M! 枚のカードを選び、一番上に置く。"
   },
   "Rebound": {
-    "NAME": "Rebound",
-    "DESCRIPTION": "Deal !D! damage. NL Place the next card you play this turn on top of your draw pile."
+    "NAME": "リバウンド",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 次にプレイするカードを山札の一番上に置く。"
   },
   "Capacitor": {
-    "NAME": "Capacitor",
-    "DESCRIPTION": "Gain !M! Orb slot.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
+    "NAME": "コンデンサ",
+    "DESCRIPTION": "オーブスロット を !M! つ得る。",
+    "UPGRADE_DESCRIPTION": "オーブスロット を !M! つ得る。"
   },
   "Meteor Strike": {
-    "NAME": "Meteor Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
+    "NAME": "メテオストライク",
+    "DESCRIPTION": "!D! ダメージを与える。 NL プラズマ !M! を 生成 する。"
   },
   "Stack": {
-    "NAME": "Stack",
-    "DESCRIPTION": "Gain Block equal to the number of cards in your discard pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to the number of cards in your discard pile.",
+    "NAME": "スタック",
+    "DESCRIPTION": "捨て札の枚数に等しい ブロック を得る。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "捨て札の枚数に等しい ブロック を得る。",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gains !B! Block.)"
+      " NL (!B! ブロック を得る。)"
     ]
   },
   "Multi-Cast": {
-    "NAME": "Multi-Cast",
-    "DESCRIPTION": "Evoke your next Orb X times.",
-    "UPGRADE_DESCRIPTION": "Evoke your next Orb X+1 times."
+    "NAME": "マルチキャスト",
+    "DESCRIPTION": "次のオーブを X 回 喚起 する。",
+    "UPGRADE_DESCRIPTION": "次のオーブを X+1 回 喚起 する。"
   },
   "Sweeping Beam": {
-    "NAME": "Sweeping Beam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! card."
+    "NAME": "ビーム一掃",
+    "DESCRIPTION": "すべての敵に !D! ダメージを与える。 NL カードを !M! 枚引く。"
   },
   "Undo": {
-    "NAME": "Undo",
-    "DESCRIPTION": "Set your HP to what it was last turn. NL Exhaust."
+    "NAME": "元に戻す",
+    "DESCRIPTION": "HPを前のターン時の値に戻す。 NL 廃棄 。"
   },
   "Doom and Gloom": {
-    "NAME": "Doom and Gloom",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Channel !M! Dark."
+    "NAME": "自暴自棄",
+    "DESCRIPTION": "すべての敵に !D! ダメージを与える。 NL ダーク !M! を 生成 する。"
   },
   "Thunder Strike": {
-    "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal damage equal to your Focus to a random enemy !M! times.",
+    "NAME": "サンダーストライク",
+    "DESCRIPTION": "この戦闘で 生成 した ライトニング 1つにつき、 ランダムな敵に !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION": [
-      " (Channeled !M! Lightning.)"
+      " (ライトニング !M! を生成した。)"
     ]
   },
   "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTION": "Draw !M! additional card at the start of each turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! additional card at the start of each turn."
+    "NAME": "機械学習",
+    "DESCRIPTION": "ターン開始時に追加で !M! 枚のカードを引く。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時に追加で !M! 枚のカードを引く。"
   },
   "Tempest": {
-    "NAME": "Tempest",
-    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
+    "NAME": "テンペスト",
+    "DESCRIPTION": "ライトニング X を 生成 する。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "ライトニング X+1 を 生成 する。 NL 廃棄 。"
   },
   "Streamline": {
-    "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat."
+    "NAME": "効率化",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 効率化をプレイするたび、この戦闘中そのコストが !M! 減る。"
   },
   "All For One": {
-    "NAME": "All For One",
-    "DESCRIPTION": "Deal !D! damage. Put all Cost 0 cards from your discard pile into your hand."
+    "NAME": "オールフォーワン",
+    "DESCRIPTION": "!D! ダメージを与える。　捨て札にあるすべての0コストのカードを手札に加える。"
   },
   "Channel": {
     "NAME": "Channel",
-    "DESCRIPTION": "Whenever you play a Power card this turn, gain !M! Block."
+    "DESCRIPTION": "Deprecated."
   },
   "Gash": {
-    "NAME": "Gash",
-    "DESCRIPTION": "Deal !D! damage. NL All Gash cards deal !M! additional damage this combat."
+    "NAME": "爪",
+    "DESCRIPTION": "!D! ダメージを与える。 NL この戦闘中、すべての爪は追加で !M! ダメージを与える。"
   },
   "Axe Kick": {
-    "NAME": "Axe Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
+    "NAME": "かかと落とし",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 次のオーブを 喚起 する。"
   },
   "Fusion": {
-    "NAME": "Fusion",
-    "DESCRIPTION": "Channel !M! Plasma."
+    "NAME": "融合",
+    "DESCRIPTION": "プラズマ !M! を 生成 する。"
   },
   "Hologram": {
-    "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a random card from your discard pile to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
+    "NAME": "ホログラム",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 捨て札のランダムなカード1枚を手札に戻す。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 捨て札のカード1枚を手札に戻す。"
   },
   "Blaster": {
-    "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb."
+    "NAME": "ブラスター",
+    "DESCRIPTION": "すべての敵に !D! ダメージを与える。 NL 生成 しているオーブ1つにつき [B] を得る。 NL 廃棄 。"
   },
   "Biased Cognition": {
-    "NAME": "Biased Cognition",
-    "DESCRIPTION": "Gain !M! Focus. NL At the start of each turn, lose 1 Focus."
+    "NAME": "認知偏向",
+    "DESCRIPTION": "集中力 !M! を得る。 NL ターン開始時に、 集中力 １を失う。"
   },
   "Beam Cell": {
-    "NAME": "Beam Cell",
-    "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
+    "NAME": "ビームセル",
+    "DESCRIPTION": "!D! ダメージを与える。 弱体 !M! を与える。"
   },
   "Static Discharge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "NAME": "静電放電",
+    "DESCRIPTION": "攻撃によってダメージを受けるたび、 ライトニング !M! を 生成 する。"
   },
   "Ice Wall": {
     "NAME": "Ice Wall",
-    "DESCRIPTION": "Gain !B! Block. Gain +3 Block for each Channeled Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Gain +5 Block for each Channeled Frost."
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Reboot": {
-    "NAME": "Reboot",
-    "DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
+    "NAME": "再起動",
+    "DESCRIPTION": "手札のカード全てを山札に戻し、カードを !M! 枚引く。 NL 廃棄 。"
   },
   "Blizzard": {
-    "NAME": "Blizzard",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Frost Channeled this combat.",
+    "NAME": "ブリザード",
+    "DESCRIPTION": "すべての敵に、この戦闘で生成した フロスト の2倍に等しいダメージを与える。",
+    "UPGRADE_DESCRIPTION": "すべての敵に、この戦闘で生成した フロスト の !M! 倍に等しいダメージを与える。",
     "EXTENDED_DESCRIPTION": [
-      " NL You have Channeled ",
-      " Frost."
-    ],
-    "UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies."
+      " NL (!D! ダメージを与える。)",
+      ""
+    ]
   },
   "Turbo": {
-    "NAME": "TURBO",
-    "DESCRIPTION": "Gain [B] [B]. NL Add a Void into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain [B] [B] [B]. NL Add a Void into your discard pile."
+    "NAME": "加速",
+    "DESCRIPTION": "[B] [B] を得る。 NL 空虚 を1枚捨て札に加える。",
+    "UPGRADE_DESCRIPTION": "[B] [B] [B] を得る。 NL 空虚 を1枚捨て札に加える。"
   },
   "Glacier": {
-    "NAME": "Glacier",
-    "DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost."
+    "NAME": "氷河",
+    "DESCRIPTION": "!B! ブロック を得る。 NL フロスト !M! を 生成 する。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL フロスト !M! を 生成 する。"
   },
   "Rainbow": {
-    "NAME": "Rainbow",
-    "DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark."
+    "NAME": "レインボー",
+    "DESCRIPTION": "ライトニング 1 、 フロスト 1 、 ダーク 1 を 生成 する。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "ライトニング 1 、 フロスト 1 、 ダーク 1 を 生成 する。"
   },
   "Defragment": {
-    "NAME": "Defragment",
-    "DESCRIPTION": "Gain !M! Focus."
+    "NAME": "デフラグ",
+    "DESCRIPTION": "集中力 !M! を得る。"
   },
   "Leap": {
-    "NAME": "Leap",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "跳躍",
+    "DESCRIPTION": "!B! ブロック を得る。"
   },
   "Redo": {
-    "NAME": "Redo",
-    "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
+    "NAME": "やり直し",
+    "DESCRIPTION": "次のオーブを 喚起 する。 NL その 喚起 したオーブを 生成 する。"
   },
   "White Noise": {
-    "NAME": "White Noise",
-    "DESCRIPTION": "Add a random Power to your hand. NL It costs 0 this turn. NL Exhaust."
+    "NAME": "ホワイトノイズ",
+    "DESCRIPTION": "ランダムな「パワー」を 1 枚手札に加える。 NL このターンそのカードのコストは0。 NL 廃棄 。"
   },
   "Nova": {
-    "NAME": "Nova",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Power played this combat.",
+    "NAME": "ノヴァ",
+    "DESCRIPTION": "この戦闘でプレイした「パワー」1枚につき、 すべての敵に !M! ダメージを与える。",
     "EXTENDED_DESCRIPTION": [
-      " NL Exhaust.",
-      " NL Deals !D! damage."
+      " NL 廃棄 。",
+      " NL !D! ダメージを与える。"
     ]
   },
   "Sunder": {
-    "NAME": "Sunder",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills the enemy, gain [B] [B] [B]."
+    "NAME": "分離",
+    "DESCRIPTION": "!D! ダメージを与える。 NL このカードで敵を倒したとき、 [B] [B] [B] を得る。"
   },
   "Chill": {
-    "NAME": "Chill",
-    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
+    "NAME": "寒気",
+    "DESCRIPTION": "敵1体につき、 フロスト !M! を 生成 する。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL 敵1体につき、 フロスト !M! を 生成 する。 NL 廃棄 。"
   },
   "Seek": {
-    "NAME": "Seek",
-    "DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "NAME": "捜索",
+    "DESCRIPTION": "山札から !M! 枚のカードを選び、手札に加える。 NL 廃棄 。"
   },
   "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice."
+    "NAME": "反響形態",
+    "DESCRIPTION": "ターンの最初にプレイするカードを、2度プレイする。 NL エセリアル 。",
+    "UPGRADE_DESCRIPTION": "ターンの最初にプレイするカードを、2度プレイする。"
   },
   "Force Field": {
-    "NAME": "Force Field",
-    "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
+    "NAME": "フォースフィールド",
+    "DESCRIPTION": "この戦闘でプレイした「パワー」1枚につき、コストが1 [B] 減る。 NL !B! ブロック を得る。"
   },
   "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTION": "Whenever you Channel an Orb, draw !M! card."
+    "NAME": "プライム",
+    "DESCRIPTION": "オーブを 生成 するたび、 カードを !M! 枚引く。"
   },
   "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
+    "NAME": "ループ",
+    "DESCRIPTION": "ターン開始時に、 次のオーブの自動効果を使用する。"
   },
   "Hello World": {
-    "NAME": "Hello World",
-    "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
+    "NAME": "ハロー・ワールド",
+    "DESCRIPTION": "ターン開始時に、 ランダムなコモンのカードを1枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL ーン開始時に、 ランダムなコモンのカードを1枚手札に加える。"
   },
   "Primitive Tech": {
     "NAME": "Primitive Tech",
-    "DESCRIPTION": "Whenever you play a card of Common rarity, draw !M! card."
+    "DESCRIPTION": "Deprecated."
+  },
+  "Scrape": {
+    "NAME": "スクレイプ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL カードを !M! 枚引く。 NL この方法で引いた0コスト以外のカードを捨てる。"
   }
 }

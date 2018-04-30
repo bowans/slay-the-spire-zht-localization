@@ -141,7 +141,7 @@
       "NAMES": [
         "vulnerabile"
       ],
-      "DESCRIPTION": "Le creature Vulnerabili prendono il #b50% in più di danno dagli Attacchi."
+      "DESCRIPTION": "Le creature Vulnerabili prendono il #b50% di danno in più dagli Attacchi."
     },
     "WEAK": {
       "NAMES": [
@@ -150,7 +150,7 @@
         "weakened",
         "weakens"
       ],
-      "DESCRIPTION": "Le creature Deboli infliggono il #b25% in meno di danno con gli Attacchi."
+      "DESCRIPTION": "Il danno inflitto da attacchi di creature Deboli è ridotto del #b25%."
     },
     "WOUND": {
       "NAMES": [
@@ -215,7 +215,7 @@
         "oscurità",
         "oscurità+"
       ],
-      "DESCRIPTION": "Globo: Infligge danno aggiuntivo ogni turno. Quando viene #yEvocata, infligge danni al nemico con meno PV."
+      "DESCRIPTION": "Globo: Incrementa il proprio danno da evocazione ogni turno. Quando viene #yEvocata infligge  il proprio danno al nemico con meno PV."
     },
     "PLASMA": {
       "NAMES": [

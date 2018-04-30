@@ -944,11 +944,11 @@
     "UPGRADE_DESCRIPTION": "Ottieni Blocco pari al doppio della tua Energia."
   },
   "Auto Shields": {
-    "NAME": "Auto-Scudi",
+    "NAME": "Scudi Automatizzati",
     "DESCRIPTION": "Se hai 0 Blocco, ottieni !B! Blocco."
   },
   "Double Energy": {
-    "NAME": "Doppia Energia",
+    "NAME": "Energia Doppia",
     "DESCRIPTION": "Raddoppia la tua Energia. NL Esaurisci.",
     "UPGRADE_DESCRIPTION": "Raddoppia la tua Energia."
   },
@@ -970,8 +970,8 @@
   },
   "Turbo": {
     "NAME": "Turbo",
-    "DESCRIPTION": "Ottieni [B] [B]. Aggiungi un Vuoto ai tuoi Scarti.",
-    "UPGRADE_DESCRIPTION": "Ottieni [B] [B] [B]. Aggiungi un Vuoto ai tuoi Scarti."
+    "DESCRIPTION": "Ottieni [B] [B]. Aggiungi un Vuoto agli Scarti.",
+    "UPGRADE_DESCRIPTION": "Ottieni [B] [B] [B]. Aggiungi un Vuoto agli Scarti."
   },
   "Hologram": {
     "NAME": "Ologramma",
@@ -1034,7 +1034,7 @@
   },
   "Axe Kick": {
     "NAME": "Calcio Volante",
-    "DESCRIPTION": "Infliggi !D! danni. NL Evoca il tuo prossimo Globo."
+    "DESCRIPTION": "Infliggi !D! danni. NL Evoca il tuo primo Globo."
   },
   "Beam Cell": {
     "NAME": "Cartuccia Laser",
@@ -1077,8 +1077,9 @@
     "DESCRIPTION": "Infliggi !D! danni. Se hai giocato meno di !M! carte questo turno, peschi 1 carta."
   },
   "Echo Form": {
-    "NAME": "Form Iterativo",
-    "DESCRIPTION": "La prima carta che giochi ogni turno viene giocata due volte."
+    "NAME": "Modulo Iterativo",
+    "DESCRIPTION": "La prima carta che giochi ogni turno viene giocata due volte.",
+    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Heatsinks": {
     "NAME": "Dissipatore",
@@ -1087,7 +1088,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "Algoritmo Genetico",
-    "DESCRIPTION": "Ottieni !B! Blocco. Questo valore aumenta permanentemente di !M! quando giochi questa carta. NL Esaurisci."
+    "DESCRIPTION": "Ottieni !B! Blocco. Quando giochi questa carta il valore di blocco che conferisce aumenta permanentemente di !M!. NL Esaurisci"
   },
   "Melter": {
     "NAME": "Scioglimento",
@@ -1095,16 +1096,16 @@
   },
   "Dualcast": {
     "NAME": "Lancio Doppio",
-    "DESCRIPTION": "Evoca i prossimi due Globi 2 volte."
+    "DESCRIPTION": "Evoca il tuo primo Globo 2 volte."
   },
   "Redo": {
     "NAME": "Ripeti",
-    "DESCRIPTION": "Evoca il tuo prossimo Globo. NL Canalizza il Globo appena evocato."
+    "DESCRIPTION": "Evoca il tuo primo Globo. NL Canalizza il Globo appena evocato."
   },
   "Rainbow": {
     "NAME": "Arcobaleno",
-    "DESCRIPTION": "Canalizza 1 Fulmine, 1 Ghiacchio ed 1 Oscurità. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Canalizza 1 Fulmine, 1 Ghiacchio ed 1 Oscurità."
+    "DESCRIPTION": "Canalizza 1 Fulmine, 1 Ghiaccio ed 1 Oscurità. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Canalizza 1 Fulmine, 1 Ghiaccio ed 1 Oscurità."
   },
   "Storm": {
     "NAME": "Tempesta",
@@ -1113,7 +1114,7 @@
   },
   "All For One": {
     "NAME": "Tutti per Uno",
-    "DESCRIPTION": "Infliggi !D! danni. Aggiungi tutte le carte a costo 0 nei tuoi Scarti alla tua mano."
+    "DESCRIPTION": "Infliggi !D! danni. Aggiungi alla tua mano tutte le carte a costo 0 negli Scarti."
   },
   "Magnetism": {
     "NAME": "Magnetismo",
@@ -1200,7 +1201,7 @@
   },
   "Steam Power": {
     "NAME": "Motore a Vapore",
-    "DESCRIPTION": "Peschi !M! carte. NL Aggiungi un Ustione ai tuoi Scarti."
+    "DESCRIPTION": "Peschi !M! carte. NL Aggiungi un Ustione agli Scarti."
   },
   "Blizzard": {
     "NAME": "Tormenta",
@@ -1236,6 +1237,10 @@
   },
   "Loop": {
     "NAME": "Ciclo",
-    "DESCRIPTION": "Ad inizio turno, usa l'abilità passiva del tuo prossimo Globo."
+    "DESCRIPTION": "Ad inizio turno, usa l'abilità passiva del tuo primo Globo."
+  },
+  "Scrape": {
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
   }
 }

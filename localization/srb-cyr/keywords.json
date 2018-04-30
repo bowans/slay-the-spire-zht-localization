@@ -127,7 +127,7 @@
         "рањивости",
         "рањив"
       ],
-      "DESCRIPTION": "Рањива створења примају #b50% више штете од Напада."
+      "DESCRIPTION": "Рањива створења примају #b50% више штете од напада."
     },
     "WEAK": {
       "NAMES": [
@@ -180,7 +180,8 @@
     "INTANGIBLE": {
       "NAMES": [
         "неопипљив",
-        "неопипљивост"
+        "неопипљивост",
+        "неопипљивости"
       ],
       "DESCRIPTION": "Смањује СВУ примљену штету и губитак ж. п. на #b1."
     },
@@ -197,33 +198,6 @@
     "TEXT": [
       "Енергија се користи за одигравање карата из руке."
     ],
-    "VOID": {
-      "NAMES": [
-        "void",
-        "voids"
-      ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
-    },
-    "FOCUS": {
-      "NAMES": [
-        "focus"
-      ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "evoke",
-        "evoked"
-      ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
-    },
-    "PLASMA": {
-      "NAMES": [
-        "plasma",
-        "plasma+"
-      ],
-      "DESCRIPTION": "Orb: Gains Energy."
-    },
     "CHANNEL": {
       "NAMES": [
         "channel",
@@ -231,18 +205,18 @@
       ],
       "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
     },
-    "DARK": {
+    "FOCUS": {
       "NAMES": [
-        "dark",
-        "dark+"
+        "focus"
       ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
     },
-    "OPENER": {
+    "FROST": {
       "NAMES": [
-        "opener"
+        "frost",
+        "frost+"
       ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+      "DESCRIPTION": "Orb: Gains #yBlock."
     },
     "LIGHTNING": {
       "NAMES": [
@@ -251,12 +225,39 @@
       ],
       "DESCRIPTION": "Orb: Deals damage to random enemies."
     },
-    "FROST": {
+    "OPENER": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "opener"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+    },
+    "VOID": {
+      "NAMES": [
+        "void",
+        "voids"
+      ],
+      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Gains Energy."
+    },
+    "DARK": {
+      "NAMES": [
+        "dark",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
     }
   }
 }

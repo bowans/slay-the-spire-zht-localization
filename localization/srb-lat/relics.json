@@ -21,7 +21,7 @@
     "NAME": "Astrolab",
     "FLAVOR": "Alatka kojom se od zvezda doznaje neprocenjivo znanje.",
     "DESCRIPTIONS": [
-      "Pri uzimanju, izaberi i #ypreobrazi #btri karte, a potom ih #ypoboljšaj.",
+      "Pri uzimanju, izaberi #btri karte, potom ih #ypreobrazi i #ypoboljšaj.",
       "Izaberi tri karte za "
     ]
   },
@@ -92,7 +92,7 @@
     "NAME": "Plamen u tegli",
     "FLAVOR": "U tegli prebiva plamen koji zanavek gori.",
     "DESCRIPTIONS": [
-      "Pri uzimanju, izaberi napad. Na početku svakog poteza, ta karta će ti biti u ruci.",
+      "Pri uzimanju, izaberi napad. Na početku svake borbe, ta karta će ti biti u ruci.",
       "Izaberi kartu za ",
       "Na početku svake borbe, dodaj ",
       " u ruku."
@@ -102,7 +102,7 @@
     "NAME": "Munja u tegli",
     "FLAVOR": "Zavirkivanjem u kovitlajuću oluju, primećuješ deo sebe kako uzvraća pogled.",
     "DESCRIPTIONS": [
-      "Pri uzimanju, izaberi umeće. Na početku svakog poteza, ta karta će ti biti u ruci.",
+      "Pri uzimanju, izaberi umeće. Na početku svake borbe, ta karta će ti biti u ruci.",
       "Izaberi kartu za ",
       "Na početku svake borbe, dodaj ",
       " u ruku."
@@ -112,7 +112,7 @@
     "NAME": "Tornado u tegli",
     "FLAVOR": "Probna relikvija.",
     "DESCRIPTIONS": [
-      "Pri uzimanju, izaberi moć. Na početku svakog poteza, ta karta će ti biti u ruci.",
+      "Pri uzimanju, izaberi moć. Na početku svake borbe, ta karta će ti biti u ruci.",
       "Izaberi kartu za ",
       "Na početku svake borbe, dodaj ",
       " u ruku."
@@ -254,10 +254,10 @@
     ]
   },
   "Du-Vu Doll": {
-    "NAME": "Du-Vu lutkica",
+    "NAME": "Du-vu lutkica",
     "FLAVOR": "Lutkica osmišljena tako da crpi snagu iz zlokobne energije.",
     "DESCRIPTIONS": [
-      "Za svaku #yKletvu u špilu, započni borbu sa #ysnagom povećanom za #b",
+      "Za svaku #ykletvu u špilu, započni borbu sa #ysnagom povećanom za #b",
       ".",
       " Nemaš #ykletve.",
       " Imaš #ykletve (#b",
@@ -427,7 +427,7 @@
     "NAME": "Magični cvet",
     "FLAVOR": "Cvet za koji se mislilo da je odavno izumro. Ovaj nekako savršeno očuvan.",
     "DESCRIPTIONS": [
-      "Zaceljivanje je #b50% delotvornije tokom borbe."
+      "Zalečenje je #b50% delotvornije tokom borbe."
     ]
   },
   "Mango": {
@@ -503,7 +503,7 @@
     "FLAVOR": "Samo bi budala pokušala da iskoristi ovu zlu moć. Noću si u snovima uhođen prizorima u kojima ti ova knjiga proždire um.",
     "DESCRIPTIONS": [
       "Prvi odigran #ynapad u svakom potezu sa cenom od #b",
-      " ili više se odigrava dvaput. Pri uzimanju ove relikviju, postaješ #ruklet.",
+      " ili više se odigrava dvaput. Pri uzimanju ove relikvije, postaješ #ruklet.",
       " ili više se odigrava dvaput."
     ]
   },
@@ -511,7 +511,7 @@
     "NAME": "Nilrijev kodeks",
     "FLAVOR": "Sačinio ga je ozloglašeni gospodar igara lično. Smatra se da proširuje um.",
     "DESCRIPTIONS": [
-      "Na kraju svakog poteza, možeš da izabereš #bjednu od #btri nasumične karte da izmešaš u gomilu za vučenje."
+      "Na kraju svakog poteza, možeš da izabereš #bjednu od #btri nasumične karte da ubaciš u gomilu za vučenje."
     ]
   },
   "Nine Lives": {
@@ -791,7 +791,7 @@
     "NAME": "Zmijkovo oko",
     "FLAVOR": "Oko palog zmijka. Veće nego što si mislio.",
     "DESCRIPTIONS": [
-      "Vuci #bdve dodatne karte svaki potež. počinješ svaku borbu #yzbunjen."
+      "Vuci #bdve dodatne karte svaki potez. Počinješ svaku borbu #yzbunjen."
     ]
   },
   "Snake Skull": {
@@ -1080,7 +1080,14 @@
     "NAME": "Statua bele zveri",
     "FLAVOR": "Bela statuica stvorenja koje nikada ranije nisi video.",
     "DESCRIPTIONS": [
-      "Napici su sada uvek pojavljuju kao deo plena posle borbe."
+      "Napici se sada uvek pojavljuju kao deo plena posle borbe."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Symbiotic Virus",
+    "FLAVOR": "A little bit of #rbad can do a lot of #ggood...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yDark."
     ]
   },
   "DataDisk": {
@@ -1091,18 +1098,11 @@
       " #yFocus."
     ]
   },
-  "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
-    "FLAVOR": "Ooooh...",
+  "Emotion Chip": {
+    "NAME": "Emotion Chip",
+    "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
-    ]
-  },
-  "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
+      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
     ]
   },
   "Turnip": {
@@ -1112,18 +1112,25 @@
       "You can no longer become #yFrail."
     ]
   },
-  "Emotion Chip": {
-    "NAME": "Emotion Chip",
-    "FLAVOR": "...<3...?",
+  "Runic Capacitor": {
+    "NAME": "Runic Capacitor",
+    "FLAVOR": "More is better.",
     "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+      "Start each combat with #b3 additional Orb slots."
     ]
   },
   "Inserter": {
     "NAME": "Inserter",
-    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "FLAVOR": "Missing.",
     "DESCRIPTIONS": [
       "Every #b2 turns, gain #b1 Orb slot."
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Cracked Core",
+    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yLightning."
     ]
   },
   "Cables": {
@@ -1133,18 +1140,11 @@
       "Your rightmost Orb triggers its passive an additional time."
     ]
   },
-  "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
+  "Nuclear Battery": {
+    "NAME": "Nuclear Battery",
+    "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
-    ]
-  },
-  "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "At the start of each combat, #yChannel #b1 #yPlasma."
     ]
   }
 }

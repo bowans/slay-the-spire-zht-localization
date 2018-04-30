@@ -250,7 +250,7 @@
     ],
     "NAME": "Kolekcionar",
     "DIALOG": [
-      "@Sada@ @te@ @posedujem!@"
+      "@Posedujem@ @te!@"
     ]
   },
   "TorchHead": {
@@ -354,9 +354,9 @@
   "Looter": {
     "MOVES": [
       "Trzaj",
-      "Pljačka"
+      "Otimanje"
     ],
-    "NAME": "Looter",
+    "NAME": "Otimač",
     "DIALOG": [
       "Daj zlato!",
       "@NEEEeeee!@",

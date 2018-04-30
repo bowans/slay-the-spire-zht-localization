@@ -242,7 +242,7 @@
   "Lift Option": {
     "TEXT": [
       "Vežbaj",
-      "Povećaj svoju početnu Snagu za jedan. (Do najviše tri)"
+      "Povećaj svoju početnu snagu za jedan. (Do najviše tri)"
     ]
   },
   "Rest Option": {
@@ -446,27 +446,27 @@
   },
   "CopyAction": {
     "TEXT": [
-      "Kopiraj"
+      "kopirati"
     ]
   },
   "DiscardAction": {
     "TEXT": [
-      "Odbaci"
+      "odbaciti"
     ]
   },
   "ArmamentsAction": {
     "TEXT": [
-      "Pobošljaj"
+      "pobošljati"
     ]
   },
   "DualWieldAction": {
     "TEXT": [
-      "Dupliraj"
+      "duplirati"
     ]
   },
   "HiddenChamberAction": {
     "TEXT": [
-      "Dupliraj"
+      "duplirati"
     ]
   },
   "DeathScreenUi": {
@@ -608,7 +608,7 @@
       "Potvrdi koju ćeš kartu ",
       "Potvrdi koje ćeš karte ",
       "Izaberi ",
-      " Karte koje ćeš ",
+      " karte koje ćeš ",
       "Izaberi bilo koji broj karata koje ćeš ",
       "Izaberi kartu koju ćeš "
     ]
@@ -812,7 +812,7 @@
       "Normalni neprijatelji su smrtonosniji.",
       "Čelnici su smrtonosniji.",
       "Voždovi su smrtonosnije.",
-      "Manje se zaceljuješ posle bitaka sa voždovima.",
+      "Manje se zalečuješ posle bitaka sa voždovima.",
       "Počinješ svaki pohod već ozleđen.",
       "Normalni neprijatelji su izdržljiviji.",
       "Čelnici su izdržljiviji.",
@@ -972,9 +972,9 @@
   "ApplyPowerAction": {
     "TEXT": [
       "Negirano",
-      "Imuno",
+      "Imun",
       "Poništeno",
-      "\n - smanjeno"
+      "\n - smanjena"
     ]
   },
   "PutOnDeckAction": {
@@ -1035,6 +1035,13 @@
       "Ovaj deo je nedostupan."
     ]
   },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
   "InputSettingsScreen": {
     "TEXT": [
       "Input Settings",
@@ -1065,13 +1072,6 @@
       "Select Card #9",
       "Select Card #10"
     ]
-  },
-  "InputKeyNames": {
-    "TEXT_DICT": {
-      "Escape": "ESC",
-      "Forward Delete": "Delete",
-      "Delete": "Backspace"
-    }
   },
   "ReprogramAction": {
     "TEXT": [

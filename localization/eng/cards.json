@@ -133,8 +133,8 @@
   },
   "Tactician": {
     "NAME": "Tactician",
-    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
-    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G].",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
@@ -504,7 +504,7 @@
   },
   "Havoc": {
     "NAME": "Havoc",
-    "DESCRIPTION": "Play the top card of your draw pile and exhaust it."
+    "DESCRIPTION": "Play the top card of your draw pile and Exhaust it."
   },
   "Secret Weapon": {
     "NAME": "Secret Weapon",
@@ -1045,13 +1045,13 @@
     "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
   },
   "Gash": {
-    "NAME": "Gash",
-    "DESCRIPTION": "Deal !D! damage. NL All Gash cards deal !M! additional damage this combat."
+    "NAME": "Claw",
+    "DESCRIPTION": "Deal !D! damage. NL All Claw cards deal !M! additional damage this combat."
   },
   "Darkness": {
     "NAME": "Darkness",
-    "DESCRIPTION": "Apply !M! Weak. NL Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
+    "DESCRIPTION": "Channel !M! Dark.",
+    "UPGRADE_DESCRIPTION": "Channel !M! Dark."
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
@@ -1078,7 +1078,8 @@
   },
   "Echo Form": {
     "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice."
+    "DESCRIPTION": "The first card you play each turn is played twice. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Heatsinks": {
     "NAME": "Heatsinks",
@@ -1172,7 +1173,7 @@
   },
   "Streamline": {
     "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat."
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you play this card, reduce its cost by !M! for this combat."
   },
   "Channel": {
     "NAME": "Channel",
@@ -1237,5 +1238,9 @@
   "Loop": {
     "NAME": "Loop",
     "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
+  },
+  "Scrape": {
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
   }
 }

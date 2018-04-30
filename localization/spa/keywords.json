@@ -188,64 +188,64 @@
     },
     "VOID": {
       "NAMES": [
-        "void",
-        "voids"
+        "vacío",
+        "vacíos"
       ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+      "DESCRIPTION": "Los Vacíos son cartas injugables que consumen energía al ser robados."
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "Concentración"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+      "DESCRIPTION": "La Concentración aumenta la efectividad de los Orbes #yInvocados."
     },
     "EVOKE": {
       "NAMES": [
-        "evoke",
-        "evoked"
+        "descargar",
+        "descargado"
       ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "Consume tu Orbe de más a la derecha y usa su efecto de Descargar."
     },
     "PLASMA": {
       "NAMES": [
         "plasma",
         "plasma+"
       ],
-      "DESCRIPTION": "Orb: Gains Energy."
+      "DESCRIPTION": "Orbe: Gana Energía."
     },
     "CHANNEL": {
       "NAMES": [
-        "channel",
-        "channeled"
+        "invocar",
+        "invocado"
       ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+      "DESCRIPTION": "Invocar un Orbo lo pone en tu primer hueco vacío. Si no tienes huecos vacíos, tu primer Orbe será #yDescargado para hacer espacio."
     },
     "DARK": {
       "NAMES": [
-        "dark",
-        "dark+"
+        "oscuro",
+        "oscuro+"
       ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "Orbe: Aumenta el daño cada turno. Cuando sea #yDescargado, causa daño al enemigo con menos PV."
     },
     "OPENER": {
       "NAMES": [
-        "opener"
+        "abridor"
       ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+      "DESCRIPTION": "Las Cartas Abridoras sólo pueden jugarse como la primera carta de cada turno."
     },
     "LIGHTNING": {
       "NAMES": [
-        "lightning",
-        "lightning+"
+        "relámpago",
+        "relámpago+"
       ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
+      "DESCRIPTION": "Orbe: Causa daño a enemigos elatorios."
     },
     "FROST": {
       "NAMES": [
         "frost",
         "frost+"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "Orbe: Gana #yBloqueo."
     }
   }
 }

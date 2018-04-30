@@ -310,7 +310,7 @@
     "DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 카드를 1장 버립니다."
   },
   "Blind": {
-    "NAME": "눈 찌르기",
+    "NAME": "실명",
     "DESCRIPTION": "약화 를 2 부여합니다.",
     "UPGRADE_DESCRIPTION": "적 전체에게 약화 를 !M! 부여합니다."
   },
@@ -961,7 +961,7 @@
   },
   "Darkness": {
     "NAME": "어둠",
-    "DESCRIPTION": "취약 을 !M! 부여합니다. 암흑 을 !M! 번 영창 합니다.",
+    "DESCRIPTION": "약화 를 !M! 부여합니다. 암흑 을 !M! 번 영창 합니다.",
     "UPGRADE_DESCRIPTION": "약화 를 !M! 부여합니다. 취약 을 !M! 부여합니다. 암흑 을 !M! 번 영창 합니다."
   },
   "Dualcast": {
@@ -1215,7 +1215,8 @@
   },
   "Echo Form": {
     "NAME": "메아리",
-    "DESCRIPTION": "매 턴 처음 사용하는 카드가 두 번 사용됩니다."
+    "DESCRIPTION": "매 턴 처음 사용하는 카드가 두 번 사용됩니다.",
+    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Force Field": {
     "NAME": "전자기장",
@@ -1237,5 +1238,9 @@
   "Primitive Tech": {
     "NAME": "deprecated",
     "DESCRIPTION": "deprecated"
+  },
+  "Scrape": {
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
   }
 }

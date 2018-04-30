@@ -1084,67 +1084,67 @@
     ]
   },
   "DataDisk": {
-    "NAME": "Data Disk",
+    "NAME": "データディスク",
     "FLAVOR": "This disk contains precious data on birds and snakes.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yFocus."
+      "戦闘開始時、 #y集中力 #b",
+      " を得る。"
     ]
   },
   "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
+    "NAME": "原子力電池",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
+      "戦闘開始時、 #yプラズマ #y1 を #y生成 する。"
     ]
   },
   "Cracked Core": {
-    "NAME": "Cracked Core",
+    "NAME": "ひび割れたコア",
     "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
+      "戦闘開始時、 #yライトニング #y1 を #y生成 する。"
     ]
   },
   "Turnip": {
-    "NAME": "Turnip",
+    "NAME": "カブ",
     "FLAVOR": "Best with Ginger.",
     "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
+      "#y脆弱化 にならない。"
     ]
   },
   "Emotion Chip": {
-    "NAME": "Emotion Chip",
+    "NAME": "感情制御回路",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+      "ターン開始時、前のターンでダメージを受けていた場合、全てのオーブの自動効果を使用する。"
     ]
   },
   "Inserter": {
-    "NAME": "Inserter",
+    "NAME": "インサーター",
     "FLAVOR": "Further damage could be prevented by freezing one's core.",
     "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
+      "#b2 ターンごとに、オーブスロットを #b1 つ得る。"
     ]
   },
   "Cables": {
-    "NAME": "Gold-Plated Cables",
+    "NAME": "金メッキケーブル",
     "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
+      "一番右にあるオーブの自動効果を2度使用する。"
     ]
   },
   "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
+    "NAME": "ルーニックコンデンサ",
     "FLAVOR": "More is better.",
     "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
+      "戦闘開始時、 オーブスロットを #b3 つ得る。"
     ]
   },
   "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
+    "NAME": "共生ウイルス",
     "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "戦闘開始時、 #yダーク #y1 を #y生成 する。"
     ]
   }
 }

@@ -15,7 +15,7 @@
       "Čini se da nema ničega od koristi. Polaziš putem kojim si došao, dok oganj kovačnice baca #p~jezive~ #p~senke~ na zidove unutar straćare..."
     ],
     "OPTIONS": [
-      "[Iskuj] #gPoboljšaj #gkartu. #r25% #ršanse #rda #rpostaneš #rpovređen.",
+      "[Iskuj] #gPoboljšaj #gkartu. #r25% #ršanse #rda #rdobiješ #rpovredu.",
       "[Pretraži] #gNađi #grelikviju. #r75% #ršanse #rda #rpostaneš #robičan.",
       "[Pođi]",
       "Izaberi kartu koju hoćeš da poboljšaš",
@@ -28,11 +28,11 @@
       "Naišao si na grupu, čini se, #pljubičastih #pplamenih #pvilenjaka koji ~plešu~ oko velike lomače. NL ",
       "Vilenjaci bacaju male kosti i ostatke u vatru, koja svaki put ~sjajno~ ~bukne.~ NL Prilaziš im, a svi vilenjaci se okrenu ka tebi, očekujući...",
       "Baciš prinos na lomaču. NL NL ",
-      "Ipak, vilenjaci nisu zadovoljni što si prineo #pKletvu... Iz karte šišti slabašan crni dim. Zadobio si... #p~nešto~ zauzvrat.",
+      "Ipak, vilenjaci nisu zadovoljni što si prineo #pkletvu... Iz karte šišti slabašan crni dim. Zadobio si... #p~nešto~ zauzvrat.",
       "Ništa se ne desi... NL Čini se da te vilenjaci ignorišu. Razočaravajuće...",
       "Plamen posta za nijansu svetliji. NL Vilenjaci nastavljaju sa plesom. Osećaš se malo toplije od njihovog prisustva.. NL #gZaleči #bpet ž. p.",
-      "Plamen bukne, značajno rastući! NL Vilenjaci uzbuđeno plešu oko tebe, ispunjavajući te ~osećajem~ ~topline.~ NL U potpunosti si #gzaceljen.",
-      "Plamen @prasnu,@ skoro te obarajući s nogu, dok se vatra @udvostruči@. NL Vilenjaci uzbuđeno plešu oko tebe, ~stapajući~ ~s~ ~tvojim~ ~obličjem,~ ispunjavajući te toplinom i snagom. NL Tvoji maks. ž. p. su povećani za #b10 i u potpunosti si #gzaceljen."
+      "Plamen bukne, značajno rastući! NL Vilenjaci uzbuđeno plešu oko tebe, ispunjavajući te ~osećajem~ ~topline.~ NL U potpunosti si #gzalečen.",
+      "Plamen @prasnu,@ skoro te obarajući s nogu, dok se vatra @udvostruči@. NL Vilenjaci uzbuđeno plešu oko tebe, ~stapajući~ ~s~ ~tvojim~ ~obličjem,~ ispunjavajući te toplinom i snagom. NL Tvoji maks. ž. p. su povećani za #b10 i u potpunosti si #gzalečen."
     ],
     "OPTIONS": [
       "[Dalje]",
@@ -134,7 +134,7 @@
     "NAME": "Svetilište poboljšanja",
     "DESCRIPTIONS": [
       "Pred tobom stoji složeno svetilište posvećeno zaboravljenom duhu.",
-      "Energije svetilišta se uliva u tebe, čineći te jačim.",
+      "Energija svetilišta se uliva u tebe, čineći te jačim.",
       "Ignoriši svetilište."
     ],
     "OPTIONS": [
@@ -150,10 +150,10 @@
       "Pred tobom je živahni gremlin u kicoškom odelu. NL \"Vreme je da se točak zavrti! Da li si ~S~ ~P~ ~R~ ~E~ ~M~ ~A~ ~N~ ~?~ Naravno da jesi!\"",
       "\"Osvojio si #yZLATO! NL URA!!!!\"",
       "\"A, #gpoklon! NL Uživaj!\"",
-      "\"Oo, besplatno #gZaceljenje za tebe!\"",
-      "\"Izgleda da si osvojio #pKletvu! NL To ne valja. NL O pa dobro! Više sreće naredni put!\"",
+      "\"Oo, besplatno #gzalečenje za tebe!\"",
+      "\"Izgleda da si osvojio #pkletvu! NL To ne valja. NL O pa dobro! Više sreće naredni put!\"",
       "\"Ohh, moć #r~tame...~ NL Izaberi kartu koju ćeš ukloniti iz špila!\"",
-      "\"O-o! NL Izgubio si!\" NL Vidiš ga kako sprema nož...",
+      "\"O-o! NL Izgubio si!\" NL Vidiš ga kako vadi nož...",
       "Zamahneš ka ludom gremlinu ali je prosto prebrz! NL Uspe par puta da te zakači nekim grubim sečivom. NL \"Cena je plaćena!!\" NL i s tim, gremlin i njegov točak nestaše u dimu."
     ],
     "OPTIONS": [
@@ -172,11 +172,11 @@
   "Falling": {
     "NAME": "Padanje",
     "DESCRIPTIONS": [
-      "Uspinješ se, vešto skačući sa jednog lebdećeg oblika na drugi. Sklizneš. NL NL Počinješ da padaš.",
-      "U slobodnom padu razmatraš svoje opcije: NL Sigurno se prizemlji svojim najvećim tehnikama. NL Usresredi svoje energije kako bi preživeo pad. NL Udari u zid ne bi li se zakačio na njega.",
-      "Prizemljiš se neverovatnom gracioznošću. Nastavljaš dalje.",
+      "Uspinješ se, vešto skačući sa jedne lebdeće stene na drugu. Sklizneš. NL NL Počinješ da padaš.",
+      "U slobodnom padu razmatraš svoje opcije: NL Sigurno se prizemlji svojom najvećom tehnikom. NL Usresredi svoje energiju kako bi preživeo pad. NL Udari u zid ne bi li se zakačio na njega.",
+      "Prizemljiš se neverovatno graciozno. Nastavljaš dalje.",
       "Koncentrišući nešto svoje sirove moći, uspevaš da se prizemljiš bez povreda.",
-      "Zakašivši se na zid, uspevaš da napraviš kratki poskok na drugu stabilnu platformu."
+      "Zakačiš se na zid. Uspeš da napraviš kratki poskok na drugu stabilnu platformu."
     ],
     "OPTIONS": [
       "[Dalje]",
@@ -209,7 +209,7 @@
     "NAME": "Misteriozna sfera",
     "DESCRIPTIONS": [
       "Štrčeći iz haotičnog reljefa oko tebe, koščata sfera obuhvata misteriozni svetleći objekat iznutra. NL Iako si znatiželjan šta je unutra, primećuješ nekoliko čuvara koji je drže na oku.",
-      "Udaraš u sferu, a u istom trenu čuvari oko tebe ožive!",
+      "Udaraš u sferu, a u istom trenu čuvari oko tebe oživljavaju!",
       "Od pohlepe nema vajde."
     ],
     "OPTIONS": [
@@ -235,7 +235,7 @@
   "Tomb of Lord Red Mask": {
     "NAME": "Grobnica Lorda Crvena Maska",
     "DESCRIPTIONS": [
-      "S druge strane lebdeće staze se može videti vrlo okićena grobnica. Po stizanju do grobnice, primećuješ otvor za #yzlatnike sa natpisom iznad.",
+      "S druge strane lebdeće staze se može videti vrlo okićena grobnica. Stižeš do grobnice i primećuješ otvor za #yzlatnike sa natpisom iznad njega.",
       "Postavivši masku, grobnica počne da se ~razmiče...~ tajni prolaz! NL NL Kroz ceo prolaz su postavljena kradena dobra i gomilice #yzlata!",
       "Na grobnici se pojavi otvor iz kog potom iskliznu mala crvena maska sa prikačenom porukom. \"Otimaj od drugih kao što sam ja otimao od tebe!\""
     ],
@@ -250,10 +250,10 @@
   "Winding Halls": {
     "NAME": "Vijugave dvorane",
     "DESCRIPTIONS": [
-      "Sporo hodeći krivudavim stazama, stalno hvataš sebe kako gubiš put, dok se zidovi i patos neobjašnjivo premeštaju pred tvojim očima. Neprestani šaputavi glasovi koji dopiru negde iz podsvesti uopšte ne pomažu situaciji.",
-      "Prolaziš pored strukture za koju si siguran da si je ranije video. To postavlja pitanje da li si zaista počeo da ludiš, ili neshvatljiva geografija ovog mesta konačno počinje da uzima svoj danak. Nešto mora da se promeni, i to uskoro. Glasovi to svakako predlažu, a zašto bi oni lagali?",
-      "Nešto u tebi pukne. Samo istinski ludi mogu da razumeju mesto kao što je ovo, tako da odlučuješ da se prepustiš brbljajućim glasovima, nastavljajući dalje sa \"novom\" perspektivom. Stvari sada zaista imaju više smisla.",
-      "Zastaneš na tren kako bi oprezno osmotrio talasasti reljef oko sebe, sa naznakama šablona izranjajući iz nasumičnosti. Svaki put kada bi poremećeni zvuci pokušali da prekinu tvoje misli, progurao bi kroz mentalni bol, ignorišući ih. NL NL Eventualno uspešno mapiraš put napred, nastavljajući, sada otporan na zlokobnu prirodu ovog nastranog mesta."
+      "Već neko vreme ideš krivudavim stazama, i stalno hvataš sebe kako gubiš put. Patos i zidovi se neobjašnjivo izmiču pred tvojim očima, a neprestani šaputavi glasovi koji dopiru negde iza potiljka uopšte ne pomažu situaciji.",
+      "Prolaziš pored nekakve strukture. Siguran si da si već prošao pored nje. Postavlja se pitanje da li si zaista počeo da ludiš, ili neshvatljiva geografija ovog mesta konačno uzima svoj danak. Nešto mora da se promeni, i to uskoro. Glasovi to svakako predlažu, a zašto bi lagali?",
+      "Prs'o si. Samo istinski ludi mogu da razumeju mesto kao što je ovo. Odlučuješ da se prepustiš brbljajućim glasovima, nastavljajući dalje sa \"novom\" perspektivom. Stvari sada zaista imaju više smisla.",
+      "Zastaneš na tren kako bi oprezno osmotrio talasasti reljef oko sebe. Naznake uređenosti počinju da izranjaju iz nasumičnosti. Svaki put kada bi poremećeni glasovi pokušali da ti prekinu tok misli, uspeo bi da ih ignorišeš, uz golem mentalni napor. NL NL Eventualno, uspeš da mapiraš put napred. Nastavljaš, sada otporan na zlokobnu prirodu ovog nastranog mesta."
     ],
     "OPTIONS": [
       "...",
@@ -268,7 +268,7 @@
     "NAME": "Velika riba",
     "DESCRIPTIONS": [
       "Idući dugim hodnikom nailaziš na #ybananu, #ykrofnu, i #ykutiju koji ~lebde~ naokolo. Ne... bližim ispitivanjem shvataš da su zavezani strunama koje izlaze iz rupa na plafonu. Odozgore se čuje tiho @kikotanje@ dok prilaziš predmetima. NL Šta činiš?",
-      "Pojedeš #ybananu. Hranljiva je i pomalo #bzamađijana, zaceljujući te.",
+      "Pojedeš #ybananu. Hranljiva je i pomalo #bzamađijana, lečeći te.",
       "Pojedeš #ykrofnu. Uf, neverovatno je dobra! Tvoji maks. ž. p. su povećani.",
       "",
       "Uzimaš kutiju. Unutra nalaziš #yrelikviju!",
@@ -287,12 +287,12 @@
     "NAME": "Popa",
     "DESCRIPTIONS": [
       "Prilazi ti čudni plavi čovekoliki stvor sa zlatnim šlemom(?) i osmehom od uha do uha. NL @\"Zdravo@ @drugar!@ Ja sam #bPopa! Da li si zainteresovan za moje usluge?!\" stvorenje viče, veoma glasno.",
-      "Toplo zlatno svetlo ti obuhvati telo i potom nestane. NL Stvorenje se nakezi. \"Popa najdobriji iscelitelj. @Dobar@ @ti@ @dan!\"@",
-      "Hladan plavi plamen ti obuhvati telo i potom nestane. NL Stvorenje se nakezi. \"Popa talenat. @Dobar@ @ti@ @dan!\"@",
+      "Toplo zlatno svetlo ti prožme celo telo, a potom iščezne. NL Stvorenje se nakezi. \"Popa najdobriji iscelitelj. @Dobar@ @ti@ @dan!\"@",
+      "Hladan plavi plamen ti prožme celo telo, a potom iščezne. NL Stvorenje se nakezi. \"Popa talenat. @Dobar@ @ti@ @dan!\"@",
       "Ne veruješ ovom #b\"Popi\", tako da odlaziš."
     ],
     "OPTIONS": [
-      "[Zaceljenje] #y35 #yzlata: #gzaleči #g",
+      "[Zalečenje] #y35 #yzlata: #gzaleči #g",
       "[Zaključano] Zahteva: ",
       " zlata.",
       "[Pročišćenje] #y",
@@ -308,11 +308,11 @@
     "DESCRIPTIONS": [
       "Pretražujući pustolova, uhvaćen si nespreman!",
       "Pođeš bez i jednog šuma.",
-      "Naišao si na #rmrtvog #rpustolova na podu. NL Ukradene su mu #bpantalone! Takođe, ",
-      "čini se da su mu oklop i lice #r@sprženi@ #r@plamenovima.@",
-      "izgleda da ga je #r@nataknula@ #r@i@ #r@izgazila@ neka rogata zver. ",
-      "izgleda kao da je #r@iskasapljen@ #r@i@ #r@iseckan@ činovskim kandžama. ",
-      "NL Iako su njegove #ystvari #yi #ydalje #ynetaknute, nije ti do toga da saznaš šta se ovde desilo...",
+      "Naišao si na #rmrtvog #rpustolova na podu. NL Ukradene su mu #bpantalone! ",
+      "Čini se da su mu oklop i lice #r@sprženi@ #r@plamenovima.@",
+      "Izgleda da ga je #r@nataknula@ #r@i@ #r@izgazila@ neka rogata zver. ",
+      "Izgleda kao da je #r@iskasapljen@ #r@i@ #r@iseckan@ činovskim kandžama. ",
+      "NL Iako su njegove #ystvari #yi #ydalje #ynetaknute, nešto ti nije do toga da saznaš šta se ovde desilo...",
       "Nalaziš nešto #yzlata! NL Hoćeš da nastaviš sa pretresom?",
       "Hm, nisi našao ništa... NL Hoćeš da nastaviš sa pretresom?",
       "Našao si #yrelikviju! Hoćeš da nastaviš sa pretresom?",
@@ -339,7 +339,7 @@
     "OPTIONS": [
       "[Uzmi] #gZadobi #gzlatnog #gidola. #rAktiviraj #rzamku.",
       "[Pođi]",
-      "[Pobegni] #rZadobijaš #rpovredu.",
+      "[Pobegni] #rDobijaš #rpovredu.",
       "[Razbi ga] #rPrimi #r",
       " #rštete.",
       "[Sakrij se] #rIzgubi #r",
@@ -349,7 +349,7 @@
   "Golden Wing": {
     "NAME": "Statua krila",
     "DESCRIPTIONS": [
-      "Među kamenjem i stenjem, primetiš detaljnu veliku plavu statuu koja liči na krilo. NL Vidiš da #yzlato ispada iz njenih pukotina. Možda ga unutra ima još...",
+      "Među kamenjem i stenjem, primećuješ detaljnu veliku plavu statuu koja liči na krilo. NL Vidiš da #yzlato ispada iz njenih pukotina. Možda ga unutra ima još...",
       "Neko ti je nekad pričao o kultu koji obožava džinovsku pticu. Klečeći u molitvi, počinješ da ~osećaš~ ... ~vrtoglavicu~ . NL NL Budiš se kasnije, osećajući se čudnovato laganih koraka.",
       "Počneš svom svojom silinom da udaraš u statuu. NL Pod udarcima krene da se @urušava,@ otkrivajući #ygomilu #yzlata. Zgrabiš sve što možeš, nastavljajući dalje.",
       "Statua ti izaziva neku ~nelagodu.~ Nastavljaš dalje mimo nje."
@@ -420,7 +420,7 @@
     "NAME": "Pečurke",
     "DESCRIPTIONS": [
       "Popustiš neprirodnoj želji da pojedeš. Dok jedeš pečurku za pečurkom, osećaš kako upadaš u otupljenost, a ubrzo potom gubiš svest. Budiš se, i osećaš se vrlo čudno. NL #gZalečio si #b25% ž. p., ali si takođe #rinficiran.",
-      "#r@Zaseda!!@ NL Odjednom se niotkuda pojavljuju pacovi prožeti pečurkama!",
+      "#r@Zaseda!!@ NL Odjednom se niotkuda pojavljuju pacovi prožeti gljivama!",
       "Uđeš u hodnik pun #b~hipnotišuće~ #b~obojenih~ #b~pečurki.~ NL Zbog manjka specijalizacije u mikologiji nisi u mogućnosti da identifikuješ primerke. NL Želiš da pobegneš, ali se osećaš čudno prisiljenim da pojedeš koju #b~pečurku...~"
     ],
     "OPTIONS": [
@@ -434,13 +434,13 @@
   "N'loth": {
     "NAME": "Nlot",
     "DESCRIPTIONS": [
-      "Čudno stvorenje sa pogurenim leđima i nekoliko pipaka čeprka po gomili smeća i šuta pred tobom. Prilaziš mu. On se okrene, nepreteći se dovlačeći do tebe. NL \"Nlot gladan. Nahrani Nlot.\"",
-      "Držiš #yrelikviju pred njim. Nlot je zgrabi iz tvojih ruku pipcima, iščaši svoju vilicu, i usisa tvoju ponudu u jednom brzom gutanju. NL Osmehuje se svojim širokim, zubatim osmehom. Iz njegovog ogrtača se pojavljuje još pipaka, držeći nestvarno krasnu kutiju. Gura je prema tebi dok je ne uzmeš.",
+      "Čudno stvorenje sa pogurenim leđima i nekoliko pipaka čeprka po gomili smeća i šuta pred tobom. Prilaziš mu. On se okrene, i nepreteći se dovuče do tebe. NL \"Nlot gladan. Nahrani Nlot.\"",
+      "Držiš #yrelikviju pred njim. Nlot je pipcima zgrabi iz tvojih ruku, izmesti svoju vilicu, i usisa tvoju ponudu u jednom brzom zalogaju. NL Osmehne se svojim širokim, zubatim osmehom. Iz njegovog ogrtača se pojavljuje još pipaka, držeći nestvarno lepu kutiju. Gura je prema tebi dok je ne uzmeš.",
       "Odmahneš glavom. Nlot se još više pogrbi i uzdahne, potom kratkim koracima nekud odšeta."
     ],
     "OPTIONS": [
-      "[Ponudi: ",
-      "] #rIzgubi #rovu #rrelikviju. #gZadobi #gnovu #gspecijalnu #grelikviju.",
+      "[#rIzgubi: ",
+      "] #gZadobi #gnovu #gspecijalnu #grelikviju.",
       "[Pođi]"
     ]
   },
@@ -463,8 +463,8 @@
   "Shining Light": {
     "NAME": "Blistava svetlost",
     "DESCRIPTIONS": [
-      "Susrećeš se sa svetlucavom #ygomilom #ysvetlosti koja ispunjava centar sobe. NL NL Njen ~topli~ ~sjaj~ i ~očaravajuće~ ~pulsiranje~ te dozivaju.",
-      "Hodiš ka svetlu i primećuješ da te potpuno obuhvata. NL Njena #r@vrelina@ #rje #r@goruća@ ! Pa ipak, bol se brzo povlači. NL Osećaš se #bosveženo, kao da si primio dobro zasluženu šamarčinu.",
+      "Ulaziš u sobu čiji centar ispunjava svetlucava #ygomila #ysvetlosti. NL NL Njen ~topli~ ~sjaj~ i ~očaravajuće~ ~pulsiranje~ te dozivaju.",
+      "Ideš ka svetlu. Primećuješ da te potpuno obuhvata. NL Njena #r@vrelina@ #rje #r@goruća@ ! Pa ipak, bol se brzo povlači. NL Osećaš se #bosveženo, kao da si primio dobro zasluženu šamarčinu.",
       "Zaobilaziš je, pitajući se šta je to."
     ],
     "OPTIONS": [
@@ -495,7 +495,7 @@
   "Back to Basics": {
     "NAME": "Drevni zapis",
     "DESCRIPTIONS": [
-      "Penjući se kroz grad, primećuješ zid prekriven zapisima #y~Drevnih.~ Neko vreme razbijaš glavu oko značenja zagonetnih simbola i znakova. Zapisi počinju da #b~svetle.~ NL Najedared, poruka je sasvim jasna...",
+      "Penjući se kroz grad, primećuješ zid pokriven zapisima #y~Drevnih.~ Neko vreme razbijaš glavu oko značenja zagonetnih simbola i znakova. Zapisi počinju da #b~svetle.~ NL Najedared, poruka je sasvim jasna...",
       "Odgovor je elegancija. NL Razume se.",
       "Istina je uvek jednostavna."
     ],
@@ -527,7 +527,7 @@
   "Cursed Tome": {
     "NAME": "Ukleta knjiga",
     "DESCRIPTIONS": [
-      "U napuštenom hramu, nalaziš džinovsku knjigu, otvorenu, ispunjenu #p@kriptičnim@ #p@zapisima.@ NL NL Dok pokušavaš da protumačiš njeno kompleksno pismo, ono počinje da se #b~njiše~ i #b~pretvara~ tako da ti postaje razumljivo.",
+      "U napuštenom hramu, nalaziš džinovsku knjigu, otvorenu, ispunjenu #p@kriptičnim@ #p@zapisima.@ NL NL Dok pokušavaš da protumačiš njeno kompleksno pismo, ono počinje da se #b~njiše~ i #b~menja~ tako da ti postaje razumljivo.",
       "Čudno. Čini se da je knjiga o #yDrevnoj po imenu #yNjova. NL NL Ovo te interesuje, ali te spopada neodređeni osećaj #p~slabosti.~",
       "Drevna Vaskrsavanja, #yNjova, je bila proterana na dno Tornja. NL NL Želiš da saznaš još, ali počinje da te #r~boli~ telo.",
       "Tražeći osvetu, #yNjova je blagoslovila posetioce, koristeći ih za svoje ciljeve. NL NL Počinješ da se osećaš veoma #r~slabo~ #r~i~ #r~umorno...~",
@@ -591,7 +591,7 @@
       "\"PIJ!\" NL Zadobio si napitak.",
       "\"MOŽDA ĆE OVO POMOĆI?\" NL Zadobio si kartu.",
       "\"VI SMRTNICI SE NIKAD NE MENJATE. UČINJENO JE.\" NL #yZlato pljušti po tebi!",
-      "\"IZA TEBE, SMRTNIČE.\" NL Zaviriš iza lobanje. Zacelo, tu su vrata."
+      "\"IZA TEBE, SMRTNIČE.\" NL Zaviriš iza lobanje. Zaista, tu su vrata."
     ],
     "OPTIONS": [
       "[Nastavi]",
@@ -627,7 +627,7 @@
       "@du-dum@ ... @du-dum@ ... @du-dun@ ... NL Duboko pulsirajući užas se može osetiti u celoj prostoriji... NL Da li je ovo #r~srce~ Tornja? Izvor ovog zla?",
       "Nanosiš #b",
       " štete! NL Srce se #r@migolji@ i #r~krvari~ ...ali na kraju ipak i dalje kuca. NL Da li su tvoji najmoćniji napadi nedovoljni?",
-      "Zapitaš se, ~\"Da~ ~li~ ~sam~ ~već~ ~bio~ ~ovde~ ~ranije?\"~ NL Osećaš da si naneo ukupno #b",
+      "Zapitaš se, ~\"Da~ ~li~ ~sam~ ~već~ ~bio~ ~ovde?\"~ NL Osećaš da si naneo ukupno #b",
       " štete srcu.",
       " NL Ukupno #b",
       " štete su naneli svi koji su se suočili sa njim.",
@@ -703,7 +703,7 @@
       "Hodeći neosvetljenim ulicama, nabasaš na nekoliko pokrivenih figura u sred nekog mračnog obreda. Dok im prilaziš, oni se okrenu ka tebi u jezivom skladu. Najviši među njima otkrije svoje očnjake, pružajući dugu, bledu šaku prema tebi. NL ~\"Pridruži~ ~nam~ ~se~ ~brate,~ ~i~ ~oseti~ ~toplinu~ ~Tornja.\"~",
       "Hodeći neosvetljenim ulicama, nabasaš na nekoliko pokrivenih figura u sred nekog mračnog obreda. Dok im prilaziš, oni se okrenu ka tebi u jezivom skladu. Najviši među njima otkrije svoje očnjake, pružajući dugu, bledu šaku prema tebi. NL ~\"Pridruži~ ~nam~ ~se~ ~sestro,~ ~i~ ~oseti~ ~toplinu~ ~Tornja.\"~",
       "Visoka figura te zgrabi za ruku i povuče ka sebi, zarivajući u tebe svoje očnjake. Osećaš @mračnu@ @silu@ kako ti se sliva kroz vrat i @jurca@ kroz celo telo. NL ... NL Budiš se nešto kasnije, sam. Osećaš kako ti trbuh bridi od ~gladi.~ #rMoraš #rse #rhraniti...",
-      "Zakoračiš unazad i prkosno podigneš svoje oružje. Visoka figura uzdahne pa izgovori. \"U redu.\" Cela grupa pokrivenih figura se pretvori u gustu crnu maglu koja se vrlo brzo raziđe. NL Ponovo si sam.",
+      "Zakoračiš unazad i prkosno podigneš svoje oružje. Visoka figura uzdahne, pa izgovori. \"U redu.\" Cela grupa pokrivenih figura se pretvori u gustu crnu maglu koja se vrlo brzo rasprši. NL Ponovo si sam.",
       "Videvši #yBočicu #ykrvi, visoka figura osta bez daha, jedva izgovarajući: NL ~\"Gospodareva~ ~krv...~ ~gospodareva~ ~krv!~ @GOSPODAREVA@ @KRV!\"@ NL Svi srdačno usklikuju, a visoki ti se duboko pokloni. \" Pij od Njegove krvi, i postani jedan sa #y~Njim.\"~ NL Dok usklici postaju sve jači, ispijaš sadržinu bočice. Vid ti se momentalno ~iskrivi~, zamućujući se u crnilo. NL NL Budiš se nešto kasnije, sam. Osećaš kako ti trbuh bridi od ~gladi.~ #rMoraš #rse #rhraniti.",
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
@@ -719,14 +719,14 @@
   "Ghosts": {
     "NAME": "Veće duhova",
     "DESCRIPTIONS": [
-      "Tokom uspinjanja, u jednom trenutku zidovi i pod oko tebe krenu da izbljuvavaju #p~gust~ #p~crn~ #p~dim,~ koji se talasajući oblikuje u tri maskirana oblika, koji govore. NL NL ~\"Još~ ~jedna~ #y~Njovina~ ~marioneta,~ ~mislim.\"~ NL #r@\"SLAŽEM@ #r@SE!@ #r@ONA@ #r@UVEK@ #r@PRAVI@ #r@NAJZABAVNIJE@ #r@IGRAČKE!\"@ NL NL Primećuješ preuveličani kez dok ti se treća forma obraća. NL \"Ignoriši ostale... Da li bi hteo okusiti od naše #y~moći?\"~ ",
+      "Tokom uspinjanja, u jednom trenutku zidovi i pod oko tebe krenu da bljuju #p~gust~ #p~crn~ #p~dim,~ koji se talasajući oblikuje u tri maskirana oblika, koji govore. NL NL ~\"Još~ ~jedna~ #y~Njovina~ ~marioneta,~ ~mislim.\"~ NL #r@\"SLAŽEM@ #r@SE!@ #r@ONA@ #r@UVEK@ #r@PRAVI@ #r@NAJZABAVNIJE@ #r@IGRAČKE!\"@ NL NL Primećuješ preuveličani kez dok ti se treća forma obraća. NL \"Ignoriši ostale... Da li bi hteo okusiti od naše #y~moći?\"~ ",
       "",
       "#y\"Odlično!\" NL Dok sablasni oblik govori, primećuješ njegova velika usta kako se otvaraju sve šire i šire. #p~Gust~ #p~crn~ #p~dim~ biva izbljuvan prema tebi, ispunjavajući sobu. Ništa ne vidiš, niti možeš da dišeš... NL NL Baš pre nego što bi izgubio svest, osećaj prestaje. NL NL Šta god da su te stvari bile, sada ih nema. Nastavljaš dalje, osećajući se nadasve #bšuplje.",
       "\"Razočaravjuće...\" NL ~\"Pridružićeš~ ~nam~ ~se~ ~pre~ ~ili~ ~kasnije.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Oblici iščeznu, ostavljajući samo poremećeni smeh koji ti odzvanja u glavi.",
       ""
     ],
     "OPTIONS": [
-      "[Prihvati] #gZadobi #gpet #gduh #gkarata. #rIzgubi #r",
+      "[Prihvati] #gZadobi #gpet #gduhova. #rIzgubi #r",
       "% #rmaks. #rž. #rp.",
       "[Odbi]",
       "",

@@ -1084,67 +1084,67 @@
     ]
   },
   "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "NAME": "Disco de Datos",
+    "FLAVOR": "Este disco contiene datos preciados de pájaros y serpientes.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yFocus."
+      "Al comienzo de cada combate, gana #b",
+      " #yConcentración."
     ]
   },
   "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
+    "NAME": "Batería Nuclear",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
+      "Al comienzo de cada combate, #yInvoca #b1 #yPlasma."
     ]
   },
   "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "NAME": "Núcleo Roto",
+    "FLAVOR": "La misteriosa fuerza vital que da vida a los Autómatas en la Torre. Parece estar roto.",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
+      "Al comienzo de cada combate, #yInvoca #b1 #yRelámpago."
     ]
   },
   "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
+    "NAME": "Nabo",
+    "FLAVOR": "Está mejor con Gengibre.",
     "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
+      "No puedes volverte #yFrágil."
     ]
   },
   "Emotion Chip": {
-    "NAME": "Emotion Chip",
+    "NAME": "Chip de Emoción",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+      "Al comienzo de cada turno, si recibiste daño el turno anterior, dispara la habilidad pasiva de todos tus Orbes."
     ]
   },
   "Inserter": {
-    "NAME": "Inserter",
-    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "NAME": "Insertador",
+    "FLAVOR": "El daño por venir podría prevenirse congelando su núcleo.",
     "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
+      "Cada #b2 turnos, gana #b1 hueco de Orbe."
     ]
   },
   "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "NAME": "Cables Recubiertos de Oro",
+    "FLAVOR": "\"¡Interesante! Hasa los autómatas se ven afectados por los placebos.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
+      "Tu Orbe de más a la derecha dispara su pasiva una vez adicional."
     ]
   },
   "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
+    "NAME": "Condensador Rúnico",
+    "FLAVOR": "Cuanto más, mejor.",
     "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
+      "Comienza cada combate con #b3 huecos de Orbe adicionales."
     ]
   },
   "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
+    "NAME": "Virus Simbiótico",
+    "FLAVOR": "Un poco de #rmal puede hacer mucho #gbien...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "Al comienzo de cada combate, #yInvoca #b1 #yOscuro."
     ]
   }
 }

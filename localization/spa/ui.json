@@ -644,7 +644,7 @@
       "NL NL VSync",
       "Modo de Arte de Pruebas",
       "Mostrar Selección Rápida de Cartas",
-      "Input Settings"
+      "Configuración de Controles"
     ]
   },
   "DailyScreen": {
@@ -1037,51 +1037,51 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
+      "Configuración de Controles",
+      "Configuración de Juego",
+      "Atrás",
+      "Comandos",
+      "Teclado",
+      "Mando (Aún no Disponible)",
+      "Valores Por Defecto",
+      "Confirmar",
+      "Cancelar / Salir",
+      "Mapa",
+      "Mazo Maestro",
+      "Pila de Robado",
+      "Pila de Descarte",
+      "Pila de Agotados",
+      "Finalizar Turno",
+      "Izquierda",
+      "Derecha",
+      "Escoge Carta #1",
+      "Escoge Carta #2",
+      "Escoge Carta #3",
+      "Escoge Carta #4",
+      "Escoge Carta #5",
+      "Escoge Carta #6",
+      "Escoge Carta #7",
+      "Escoge Carta #8",
+      "Escoge Carta #9",
+      "Escoge Carta #10"
     ]
   },
   "InputKeyNames": {
     "TEXT_DICT": {
       "Escape": "ESC",
-      "Forward Delete": "Delete",
-      "Delete": "Backspace"
+      "Forward Delete": "Suprimir",
+      "Delete": "Retroceso"
     }
   },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "Descartar"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "Escoge una Carta para poner encima de tu Pila de Robado.",
+      "Escoge Cartas para poner encima de tu Pila de Robado."
     ]
   }
 }

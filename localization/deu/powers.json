@@ -2,7 +2,7 @@
   "Accuracy": {
     "NAME": "Präzision",
     "DESCRIPTIONS": [
-      "#yKlingen verursachen #b",
+      "#yMesser verursachen #b",
       " zusätzlichen Schaden."
     ]
   },
@@ -155,7 +155,7 @@
   "Dexterity": {
     "NAME": "Geschicklichkeit",
     "DESCRIPTIONS": [
-      "Erhöht von Karten erhaltenes #yBlock um #b",
+      "Erhöht von Karten erhaltenen #yBlock um #b",
       "Verringert von Karten erhaltenes #yBlock um #b",
       "."
     ]
@@ -325,8 +325,8 @@
     "NAME": "Zahllose Klingen",
     "DESCRIPTIONS": [
       "Wenn dein Zug beginnt, erhältst du #b",
-      " #yKlingen.",
-      " #yKlinge."
+      " #yMesser.",
+      " #yMesser."
     ]
   },
   "Bullet Time": {
@@ -593,7 +593,7 @@
     "NAME": "Sporenwolke",
     "DESCRIPTIONS": [
       "Wendet beim Tod #b",
-      " Züge lang #yVerletzlich auf dich an."
+      " Züge lang #yVerwundbar auf dich an."
     ]
   },
   "Stasis": {
@@ -685,7 +685,7 @@
     ]
   },
   "Vulnerable": {
-    "NAME": "Verletzlich",
+    "NAME": "Verwundbar",
     "DESCRIPTIONS": [
       "Erleide #b",
       "% mehr Schaden von #yAngriffen – für #b",
@@ -694,7 +694,7 @@
     ]
   },
   "Weakened": {
-    "NAME": "Geschwächt",
+    "NAME": "Schwach",
     "DESCRIPTIONS": [
       "#yAngriffe verursachen #b",
       "% weniger Schaden für #b",
@@ -744,7 +744,7 @@
   "Storm": {
     "NAME": "Sturm",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #bMacht spielst, #yKanalisiere #b ",
+      "Immer wenn du eine #bMacht spielst, #ykanalisiere #b ",
       " Blitz."
     ]
   },
@@ -773,7 +773,7 @@
   "Prime": {
     "NAME": "Scharf machen",
     "DESCRIPTIONS": [
-      "Immer wenn du einen Orb #yKanalisierst, ziehe #b",
+      "Immer wenn du einen Orb #ykanalisierst, ziehe #b",
       " Karte.",
       " Karten."
     ]
@@ -781,7 +781,7 @@
   "StaticDischarge": {
     "NAME": "Statische Entladung",
     "DESCRIPTIONS": [
-      "Wenn du #yAngriffsschaden erhältst, #yKanalisiere #b",
+      "Wenn du #yAngriffsschaden erleidest, #ykanalisiere #b",
       " #yBlitz."
     ]
   },

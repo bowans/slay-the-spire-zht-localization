@@ -140,7 +140,7 @@
         "火傷",
         "burns"
       ],
-      "DESCRIPTION": "火傷はプレイできず、あたなにダメージを与える状態異常カード。"
+      "DESCRIPTION": "火傷はプレイできない状態異常カード。あなたにダメージを与える。"
     },
     "FRAIL": {
       "NAMES": [
@@ -181,44 +181,44 @@
     ],
     "VOID": {
       "NAMES": [
-        "void",
+        "空虚",
         "voids"
       ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+      "DESCRIPTION": "空虚はプレイできない状態異常カード。引いたときにエナジーを消費する。"
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "集中力"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+      "DESCRIPTION": "集中力 は オーブ の効果を高める。."
     },
     "EVOKE": {
       "NAMES": [
-        "evoke",
+        "喚起",
         "evoked"
       ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "一番右にあるオーブを消費して、その 喚起 効果を使用する。"
     },
     "PLASMA": {
       "NAMES": [
-        "plasma",
+        "プラズマ",
         "plasma+"
       ],
-      "DESCRIPTION": "Orb: Gains Energy."
+      "DESCRIPTION": "オーブ: エナジーを得る。"
     },
     "CHANNEL": {
       "NAMES": [
-        "channel",
+        "生成",
         "channeled"
       ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+      "DESCRIPTION": "1番目の空きスロットにオーブを生成する。 空きスロットが無い場合は、1番目のオーブを自動的に #y喚起 して空きを作る。"
     },
     "DARK": {
       "NAMES": [
-        "dark",
+        "ダーク",
         "dark+"
       ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "オーブ: 毎ターンダメージが増加する。 #y喚起 した時、 最もHPが少ない敵にダメージを与える。."
     },
     "OPENER": {
       "NAMES": [
@@ -228,17 +228,17 @@
     },
     "LIGHTNING": {
       "NAMES": [
-        "lightning",
+        "ライトニング",
         "lightning+"
       ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
+      "DESCRIPTION": "オーブ: ランダムな敵にダメージを与える。"
     },
     "FROST": {
       "NAMES": [
-        "frost",
+        "フロスト",
         "frost+"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "オーブ: #yブロック を得る。"
     }
   }
 }

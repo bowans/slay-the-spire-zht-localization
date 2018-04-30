@@ -8,9 +8,9 @@
     },
     "VULNERABLE": {
       "NAMES": [
-        "verletzlich"
+        "verwundbar"
       ],
-      "DESCRIPTION": "Verletzliche Kreaturen erleiden #b50% mehr Schaden durch Angriffe."
+      "DESCRIPTION": "Verwundbare Kreaturen erleiden #b50% mehr Schaden durch Angriffe."
     },
     "STRENGTH": {
       "NAMES": [
@@ -20,10 +20,10 @@
     },
     "SHIV": {
       "NAMES": [
-        "klinge",
-        "klingen"
+        "messer",
+        "messer"
       ],
-      "DESCRIPTION": "Klingen sind #bkostenlose Angriffskarten, die bei Benutzung erschöpfen."
+      "DESCRIPTION": "Messer sind #bkostenlose Angriffskarten, die bei Benutzung erschöpfen."
     },
     "ETHEREAL": {
       "NAMES": [
@@ -150,16 +150,16 @@
       "NAMES": [
         "schwach",
         "schwächen",
-        "geschwächt",
+        "schwach",
         "schwächt"
       ],
-      "DESCRIPTION": "Geschwächte Kreaturen verursachen #b25% weniger Schaden mit Angriffen."
+      "DESCRIPTION": "Schwache Kreaturen verursachen #b25% weniger Schaden mit Angriffen."
     },
     "FRAIL": {
       "NAMES": [
         "gebrechlich"
       ],
-      "DESCRIPTION": "Bist du Gebrechlich, erhältst du #b25% weniger #yBlocken von Karten."
+      "DESCRIPTION": "Bist du Gebrechlich, erhältst du #b25% weniger #yBlock von Karten."
     },
     "ARTIFACT": {
       "NAMES": [
@@ -203,14 +203,13 @@
     },
     "CHANNEL": {
       "NAMES": [
-        "kanalisiere",
-        "kanalisieren",
-        "kanalisiert",
-        "kanalisierst",
-        "kanalisierte",
-        "kanalisierten"
+        "erschaffen",
+        "erschaffe",
+        "erschaffst",
+        "erschaffene",
+        "erschaffenen"
       ],
-      "DESCRIPTION": "Wenn du einen Orb kanalisierst, kommt er in deinen ersten freien Slot. Wenn du keine freien Slots hast, wird dein erster Orb automatisch #yErweckt, um Platz zu machen."
+      "DESCRIPTION": "Wenn du einen Orb erschaffst, kommt er in deinen ersten freien Slot. Wenn du keine freien Slots hast, wird dein erster Orb automatisch #yentladen, um Platz zu machen."
     },
     "VOID": {
       "NAMES": [
@@ -250,7 +249,7 @@
       "NAMES": [
         "focus"
       ],
-      "DESCRIPTION": "Fokus erhöht die Effektivität von #ykanalisierten Orbs."
+      "DESCRIPTION": "Fokus erhöht die Effektivität von #yerschaffenen Orbs."
     }
   }
 }
