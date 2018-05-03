@@ -848,9 +848,9 @@
   "Echo Form": {
     "NAME": "迴響形態",
     "DESCRIPTIONS": [
-      "你在每回合打出的第一張牌將被額外打出 #b",
-      " 次。",
-      " 次。"
+      "你在每回合打出的第一張牌將被打出兩次。",
+      "你在每回合打出的前 #b",
+      " 張牌將被打出兩次。"
     ]
   },
   "Prime": {
@@ -886,11 +886,11 @@
     ]
   },
   "Lockon": {
-    "NAME": "Lock-On",
+    "NAME": "跟蹤鎖定",
     "DESCRIPTIONS": [
-      "#yLightning and #yDark Orbs target this enemy.",
-      " turns.",
-      "#yLightning and #yDark Orbs target this enemy this turn."
+      "#y閃電 和 #y黑暗 充能球在接下來的 #b",
+      " 回合中將以這名敵人為目標。",
+      "#y閃電 和 #y黑暗 充能球在這個回合將以這名敵人為目標。"
     ]
   }
 }
