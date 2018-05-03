@@ -1083,5 +1083,26 @@
       "選擇一張牌放到你抽牌堆的頂端。",
       "選擇將牌放到你抽牌堆的頂端。"
     ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a Card to Add to Your Hand",
+      "Choose Cards to Add to Your Hand"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
+    ]
   }
 }

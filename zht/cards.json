@@ -1141,7 +1141,8 @@
   },
   "Static Discharge": {
     "NAME": "靜電釋放",
-    "DESCRIPTION": "每當你受到攻擊傷害時， 生成 !M! 個 閃電 充能球。"
+    "DESCRIPTION": "每當你受到攻擊傷害時， 生成 !M! 個 閃電 充能球。",
+    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Ice Wall": {
     "NAME": "冰牆",
@@ -1198,7 +1199,8 @@
     "EXTENDED_DESCRIPTION": [
       " NL 消耗 。",
       " NL 造成 !D! 點傷害。"
-    ]
+    ],
+    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
   },
   "Sunder": {
     "NAME": "分離",
@@ -1242,5 +1244,21 @@
   "Scrape": {
     "NAME": "刮削",
     "DESCRIPTION": "造成 !D! 傷害。 NL 抽 !M! 張牌。 NL 丟棄抽到的牌中耗能不為0的牌。"
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
+  },
+  "Reprieve": {
+    "NAME": "Reprieve",
+    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
+  },
+  "Consume": {
+    "NAME": "Consume",
+    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }
