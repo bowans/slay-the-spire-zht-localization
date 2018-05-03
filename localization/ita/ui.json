@@ -20,7 +20,7 @@
   },
   "End Turn Button": {
     "TEXT": [
-      "Passa",
+      "Fine Turno",
       "Turno Nemico"
     ]
   },
@@ -109,9 +109,9 @@
       "Ironclad",
       "La Silent",
       "Defect",
-      "Piano Medio Raggiunto (Ultimi 20 Tentativi)",
+      "Piano Raggiunto in Media (Ultimi 20 Tentativi)",
       "Punteggio Medio (Ultimi 20 Tentativi)",
-      "Migliore Serie di Vittorie",
+      "Serie di Vittorie più Lunga",
       "Vittoria più Veloce",
       "Punteggio più Alto",
       "Option 6. DO NOT TRANSLATE",
@@ -197,18 +197,24 @@
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-      "Scegli un'Abilità da Mettere in Mano"
+      "Scegli un'Abilità da Aggiungere alla Mano"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Scegli una Carta da Aggiungere alla Mano",
+      "Scegli le Carte da Aggiungere alla Mano"
     ]
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Scegli un'Attacco da Mettere in Mano"
+      "Scegli un'Attacco da Aggiungere alla Mano"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Scegli una Carta da Mettere in Cima alla Tua Pila.",
-      "Scegli le Carte da Mettere in Cima alla Tua Pila."
+      "Scegli una Carta da Mettere in Cima alla Pila.",
+      "Scegli le Carte da Mettere in Cima alla Pila."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -235,7 +241,7 @@
       "Nemici ostili occupano queste stanze.",
       "Elite",
       "Elite",
-      "Queste stanze sono occupate da potenti avversari. NL NL Sconfiggeli ti ricompenserà con una Reliquia.",
+      "Queste stanze sono occupate da potenti avversari. NL NL Sconfiggerli ti ricompenserà con una Reliquia.",
       "Legenda"
     ]
   },
@@ -284,7 +290,7 @@
   },
   "DrawPilePanel": {
     "TEXT": [
-      "La mia Pila è #rvuota."
+      "La Pila è #rvuota."
     ]
   },
   "PotionPopUp": {
@@ -385,8 +391,8 @@
       "Bloccata",
       "Sconosciuta",
       " Reliquia",
-      "Questa reliquia deve ancora essere sbloccata.",
-      "Questa reliquia non è ancora stata trovata."
+      "Non hai ancora sbloccato questa reliquia.",
+      "Non hai ancora trovato questa reliquia."
     ]
   },
   "SingleCardViewPopup": {
@@ -400,8 +406,8 @@
       "Visualizza Potenziamento",
       "Stato",
       "Ammo",
-      "Possono solo giocare carte durante il mio turno.",
-      "Sono #rIntrappolato! NL Non posso giocare Attacchi",
+      "Posso giocare carte solo durante il mio turno.",
+      "Sono stato #rIntrappolato! NL Non posso giocare Attacchi",
       "Ho bisogno di più #rEnergia.",
       "Not enough #rCharge.",
       "Non posso giocare NL questa carta"
@@ -409,20 +415,20 @@
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "Inizi ogni combattimento con tutte le carte che sono qui.",
+      "Inizi ogni combattimento con queste carte.",
       "Indietro"
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "Queste carte sono state Esaurite durante questo combattimento.",
+      "Hai Esaurito queste carte nel corso del combattimento.",
       "Continua"
     ]
   },
   "DungeonTransitionScreen": {
     "TEXT": [
       "Tutorial",
-      "Desideri vedere suggerimenti mentre giochi?",
+      "Desideri vedere i suggerimenti mentre giochi?",
       "Atto 1",
       "Esordio",
       "Atto 2",
@@ -431,18 +437,18 @@
       "L'Aldilà",
       "Atto ?",
       "???",
-      "Clicca da Qualsiasi Parte per Continuare"
+      "Fai Click per Continuare"
     ]
   },
   "DungeonMapScreen": {
     "TEXT": [
-      "Seleziona una Stanza Iniziale",
+      "Scegli la Stanza Iniziale",
       "Indietro"
     ]
   },
   "DrawPileViewScreen": {
     "TEXT": [
-      "Le carte vengono pescate da qui all'inizio di ogni turno.",
+      "Ad inizio turno pescherai carte da qui.",
       "(Le carte mostrate sono in ordine di rarità)",
       "Indietro",
       "Pila"
@@ -450,7 +456,7 @@
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "Le carte in questa zona vengono rimescolate nella tua Pila quando la finisci.",
+      "Le carte in questa zona vengono rimescolate nella Pila quando la finisci.",
       "Indietro",
       "Scarti"
     ]
@@ -470,6 +476,11 @@
       "Potenziare"
     ]
   },
+  "RecycleAction": {
+    "TEXT": [
+      "Esaurisci"
+    ]
+  },
   "DualWieldAction": {
     "TEXT": [
       "Duplicare"
@@ -478,7 +489,7 @@
   "DeathScreenUi": {
     "TEXT": [
       "Modalità Ascensione Livello ",
-      " Hai Sbloccato un Oggetto!"
+      " Sbloccata!"
     ]
   },
   "DeathScreen": {
@@ -532,9 +543,9 @@
       "Bonus PV"
     ],
     "EXTRA_TEXT": [
-      "Elite Esordio Uccisi",
-      "Elite Città Uccisi",
-      "Elite Aldilà Uccisi",
+      "Elite Uccisi nell'Esordio",
+      "Elite Uccisi nella Città",
+      "Elite Uccisi nell'Aldilà",
       "Velocissimo",
       "Velocità della luce",
       "Highlander",
@@ -558,11 +569,11 @@
   "CombatRewardScreen": {
     "TEXT": [
       "Procedi",
-      "Salta Carta",
-      "Salta Oro",
-      "Salta Pozione",
-      "Salta Reliquia",
-      "Salta Ricompense",
+      "Ignora Carte",
+      "Ignora Oro",
+      "Ignora Pozioni",
+      "Ignora Reliquia",
+      "Ignora Ricompense",
       "Chiudi",
       "Tesoro!",
       "Cosa c'è dentro?",
@@ -574,7 +585,7 @@
   },
   "ChooseOneScreen": {
     "TEXT": [
-      "Scegli Uno"
+      "Scegline Uno"
     ]
   },
   "TwitchVoter": {
@@ -648,7 +659,7 @@
       "Volume Principale NL Volume Musica NL Volume Effetti",
       "Rumore ambientale NL Silenzia il gioco se in secondo piano",
       "Preferenze",
-      "Mostra la somma dei danni in oro NL Mostra i danni bloccati in blu NL Non chiedere conferma quando scegli 1 carta",
+      "Mostra la somma dei danni in oro NL Mostra la somma dei danni bloccati in blu NL Non chiedere conferma quando scegli 1 carta",
       "Modalità Rapida",
       "",
       "Misc.",
@@ -658,7 +669,7 @@
       "Salva ed Esci",
       "NL NL VSync",
       "Arte del Playtest",
-      "Mostra Tasti Selezione Rapida Carte",
+      "Mostra Tasti di Scelta Rapida Carte",
       "Opzioni Input"
     ]
   },
@@ -694,7 +705,7 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Opzioni Input",
+      "Opzioni di Input",
       "Opzioni di Gioco",
       "Indietro",
       "Comando Attivato",
@@ -826,10 +837,10 @@
       "Sbloccherai questo personaggio completando una partita con la Silent.",
       "PV: ",
       "Oro: ",
-      "Carte ancora da Sbloccare",
+      " Carte ancora da Sbloccare",
       "Ignoto",
       "???",
-      " Per Sbloccare"
+      " Per Sbloccare il Prossimo Oggetto"
     ]
   },
   "CharacterSelectScreen": {
@@ -878,9 +889,9 @@
       "Questo nemico ha intenzione di #yAttaccare per #b",
       " di danno.",
       "Aggressivo",
-      "Questo nemico ha intenzione di utilizzare un #yBuff e #yAttaccare per #b",
+      "Questo nemico ha intenzione di usare un #yBuff e #yAttaccare per #b",
       " volte.",
-      "Questo nemico ha intenzione di utilizzare un #yBuff e #yAttaccare per #b",
+      "Questo nemico ha intenzione di usare un #yBuff e #yAttaccare per #b",
       "Strategico",
       "Questo nemico ha intenzione di applicare un #yDebuff e #yAttaccare per #b",
       "Questo nemico ha intenzione di #yBloccare e #yAttaccare per #b",
@@ -890,14 +901,14 @@
       "Addormentato",
       "Stordito",
       "Sconosciuto",
-      "Questo nemico ha intenzione di utilizzare un #yBuff.",
+      "Questo nemico ha intenzione di usare un #yBuff.",
       "Questo nemico ha intenzione di applicare un #yDebuff.",
       "Questo nemico ha intenzione di applicare un potente #yDebuff.",
       "Questo nemico ha intenzione di #yBloccare durante il suo turno.",
       "Questo nemico ha intenzione di #yBloccare ed applicarti un #yDebuff.",
-      "Questo nemico ha intenzione di #yBloccare e utilizzare un #yBuff.",
+      "Questo nemico ha intenzione di #yBloccare e usare un #yBuff.",
       "Questo nemico ha intenzione di #yScappare.",
-      "Questo nemico ha intenzione di utilizzare #Magia misteriosa durante il suo turno.",
+      "Questo nemico ha intenzione di usare una #Magia misteriosa durante il suo turno.",
       "Questo nemico sta dormendo.",
       "Questo nemico è #yStordito durante il suo turno.",
       "Le intenzioni di questo nemico sono #yIgnote (non sta attaccando).",
@@ -954,7 +965,7 @@
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Seleziona una Carta da Potenziare"
+      "Scegli una Carta da Potenziare"
     ]
   },
   "CampfireSleepEffect": {
@@ -964,23 +975,23 @@
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Seleziona una Carta da Rimuovere."
+      "Scegli una Carta da Rimuovere."
     ]
   },
   "UnlockTextEffect": {
     "TEXT": [
-      " Hai Sbloccato un Oggetto!"
+      " Hai Sbloccato Qualcosa!"
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
       "Modalità Ascensione Livello ",
-      " Hai Sbloccato un Oggetto!"
+      ". Hai Sbloccato Qualcosa!"
     ]
   },
   "AbstractPotion": {
     "TEXT": [
-      "Non posso trasportare NL alcuna Pozione in più."
+      "Non posso trasportare NL altre Pozioni."
     ]
   },
   "TipHelper": {
@@ -995,7 +1006,7 @@
   },
   "ExhumeAction": {
     "TEXT": [
-      "Seleziona una Carta da Ritornare alla tua Mano"
+      "Scegli una Carta da Aggiungere alla tua Mano"
     ]
   },
   "PowerExpireTextEffect": {
@@ -1013,6 +1024,11 @@
       "Quel nemico non ha intenzione di attaccare!"
     ]
   },
+  "ReprieveAction": {
+    "TEXT": [
+      "Quel nemico ha intenzione di attaccare!"
+    ]
+  },
   "ApplyPowerAction": {
     "TEXT": [
       "Negato",
@@ -1023,7 +1039,7 @@
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "mettere in cima alla tua Pila"
+      "mettere in cima alla Pila"
     ]
   },
   "ImmolateAction": {
@@ -1082,6 +1098,11 @@
       "Unknown",
       "",
       "Questa opzione non è ancora disponibile."
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
     ]
   }
 }

@@ -16,16 +16,16 @@
   "Anger": {
     "NAME": "Разбеснелост",
     "DESCRIPTIONS": [
-      "Сваки пут кад одиграш #yумеће, повећава му се #yснага за #b.",
-      ""
+      "Сваки пут кад одиграш #yумеће, #yснага му се повећава за #b ",
+      "."
     ]
   },
   "Angry": {
     "NAME": "Љут",
     "DESCRIPTIONS": [
       "Сваки пут када ",
-      " прими штету од #yнапада, #yснага му се повећава за #b.",
-      ""
+      " прими штету од #yнапада, #yснага му се повећава за #b",
+      "."
     ]
   },
   "Artifact": {
@@ -74,13 +74,13 @@
   "Burst": {
     "NAME": "Навала",
     "DESCRIPTIONS": [
-      "Овај потез, следеће #yУмеће одиграј двапут.",
-      "Овај потез, следеће #yУмеће ",
+      "Овај потез, следеће #yумеће одиграј двапут.",
+      "Овај потез, следеће #yумеће ",
       " одиграј двапут."
     ]
   },
   "Choked": {
-    "NAME": "Дављење",
+    "NAME": "Дављен",
     "DESCRIPTIONS": [
       "Губи #b",
       " ж. п. сваки пут када овај потез одиграш карту."
@@ -95,16 +95,16 @@
     ]
   },
   "Confusion": {
-    "NAME": "Збуњеност",
+    "NAME": "Збуњен",
     "DESCRIPTIONS": [
       "Свака вучена карта кошта насумичну количину енергије."
     ]
   },
   "Constricted": {
-    "NAME": "Constricted",
+    "NAME": "Стегнут",
     "DESCRIPTIONS": [
-      "",
-      ""
+      "Прими #b",
+      " штете на крају свог потеза."
     ]
   },
   "Corruption": {
@@ -117,8 +117,8 @@
   "Curiosity": {
     "NAME": "Знатижеља",
     "DESCRIPTIONS": [
-      "Сваки пут када одиграш #yмоћ, додаје му се #b",
-      " на #yснагу."
+      "Сваки пут када одиграш #yмоћ, #yснага му се повећава за #b",
+      "."
     ]
   },
   "Curl Up": {
@@ -146,7 +146,7 @@
     ]
   },
   "Demon Form": {
-    "NAME": "Ђавоиманост",
+    "NAME": "Ђавоиман",
     "DESCRIPTIONS": [
       "На почетку сваког потеза, повећај своју #yснагу за #b",
       "."
@@ -171,13 +171,13 @@
   "Double Tap": {
     "NAME": "Је'н-два",
     "DESCRIPTIONS": [
-      "У овом потезу, одиграј свој следећи #yнапад двапут.",
-      "У овом потезу, одиграј своја следећa ",
-      " #yнапада двапут."
+      "Одиграј свој следећи #yнапад двапут у овом потезу.",
+      "Одиграј својих неколико ( ",
+      " ) #yнапада у овом потезу."
     ]
   },
   "Draw Card": {
-    "NAME": "Вучење карата",
+    "NAME": "Вуци карте",
     "DESCRIPTIONS": [
       "Вуци #b",
       " карте следећи потез.",
@@ -185,7 +185,7 @@
     ]
   },
   "Draw": {
-    "NAME": "Вучење",
+    "NAME": "Вуци више",
     "DESCRIPTIONS": [
       "Вуци #b",
       " додатну карту на почетку сваког потеза.",
@@ -195,7 +195,7 @@
     ]
   },
   "Draw Down": {
-    "NAME": "Слабије вучење",
+    "NAME": "Вуци мање",
     "DESCRIPTIONS": [
       "Вуци #b",
       " мање карту следећи потез.",
@@ -211,7 +211,7 @@
     ]
   },
   "Energized": {
-    "NAME": "Енергизација",
+    "NAME": "Енергизован",
     "DESCRIPTIONS": [
       "Задоби #b",
       " додатну [G] следећи потез.",
@@ -220,7 +220,7 @@
     ]
   },
   "Entangled": {
-    "NAME": "Упетљаност",
+    "NAME": "Упетљан",
     "DESCRIPTIONS": [
       "Не можеш одиграти #yнападе један потез."
     ]
@@ -241,7 +241,7 @@
     ]
   },
   "Explosive": {
-    "NAME": "Експлозивност",
+    "NAME": "Експлозиван",
     "DESCRIPTIONS": [
       "За #b",
       " круга, експлодира задајући #b",
@@ -250,7 +250,7 @@
     ]
   },
   "Feel No Pain": {
-    "NAME": "Безстрадалност",
+    "NAME": "Безстрадалан",
     "DESCRIPTIONS": [
       "Сваки пут када #yисцрпиш карту, задоби #b",
       " #yодбране."
@@ -283,7 +283,7 @@
     ]
   },
   "Frail": {
-    "NAME": "Оронулост",
+    "NAME": "Оронуо",
     "DESCRIPTIONS": [
       "Задобијаш #b25% мање #yодбране од карата, #b",
       " следећи потез.",
@@ -307,10 +307,10 @@
     ]
   },
   "Hex": {
-    "NAME": "Омађијаност",
+    "NAME": "Омађијан",
     "DESCRIPTIONS": [
       "Сваки пут када одиграш не-напад, додај #b",
-      " #yошамућеност карту у гомилу за вучење."
+      " #yошамућеност у гомилу за вучење."
     ]
   },
   "Hide": {
@@ -336,13 +336,13 @@
     ]
   },
   "Intangible": {
-    "NAME": "Неопипљивост",
+    "NAME": "Неопипљив",
     "DESCRIPTIONS": [
       "Смањује СВУ примљену штету и изгубљене ж. п. на #један овај круг. Постаје неопипљив сваки други круг."
     ]
   },
   "IntangiblePlayer": {
-    "NAME": "Неопипљивост",
+    "NAME": "Неопипљив",
     "DESCRIPTIONS": [
       "Смањи СВУ примљену штету и губитак ж. п. на #bједан."
     ]
@@ -360,22 +360,15 @@
       " штете насумичном непријатељу."
     ]
   },
-  "Knowledge": {
-    "NAME": "Knowledge",
-    "DESCRIPTIONS": [
-      "",
-      ""
-    ]
-  },
   "Flex": {
-    "NAME": "Напрегнуће",
+    "NAME": "Напрегнут",
     "DESCRIPTIONS": [
       "На крају потеза, смањи своју #yснагу за #b",
       "."
     ]
   },
   "Malleable": {
-    "NAME": "Прилагодљивост",
+    "NAME": "Прилагодљив",
     "DESCRIPTIONS": [
       "По примању штете од #yнапада, задобија #b",
       " #yодбране. Количина задобијене #yодбране се повећава сваки пут када се ",
@@ -384,7 +377,7 @@
     ]
   },
   "Metallicize": {
-    "NAME": "Очеличење",
+    "NAME": "Очеличен",
     "DESCRIPTIONS": [
       "На крају потеза, задоби #b",
       " #yодбране.",
@@ -486,14 +479,14 @@
     ]
   },
   "Regenerate": {
-    "NAME": "Регенерација",
+    "NAME": "Залечење",
     "DESCRIPTIONS": [
       "Залечује #b",
       " #yз. #yп. на крају свог потеза."
     ]
   },
   "Regeneration": {
-    "NAME": "Регенерација",
+    "NAME": "Залечење",
     "DESCRIPTIONS": [
       "Залечи #b",
       " #yз. #yп. на крају свог потеза следећа #b",
@@ -565,7 +558,7 @@
     ]
   },
   "Sadistic": {
-    "NAME": "Садизам",
+    "NAME": "Садиста",
     "DESCRIPTIONS": [
       "Сваки пут када нанесеш негативни статус непријатељу, такође задај #b",
       " штете."
@@ -673,7 +666,7 @@
     ]
   },
   "Berserk": {
-    "NAME": "Разјареност",
+    "NAME": "Разјарен",
     "DESCRIPTIONS": [
       "Ако су ти ж. п. на или испод #b50%, задоби ",
       " на почетку свог потеза."
@@ -717,7 +710,7 @@
     ]
   },
   "Vulnerable": {
-    "NAME": "Рањивост",
+    "NAME": "Рањив",
     "DESCRIPTIONS": [
       "Прима #b",
       "% више штете од #yнапада. Траје #b",
@@ -726,7 +719,7 @@
     ]
   },
   "Weakened": {
-    "NAME": "Ослабљеност",
+    "NAME": "Ослабљен",
     "DESCRIPTIONS": [
       "#yНапади наносе #b",
       "% мање штете. Траје #b",
@@ -734,41 +727,12 @@
       " потеза."
     ]
   },
-  "Wraith Form v2": {
-    "NAME": "Утвара",
+  "Conserve": {
+    "NAME": "Уштеда",
     "DESCRIPTIONS": [
-      "На крају свог потеза, изгуби #yокретност ( #b",
-      " )."
-    ]
-  },
-  "Heatsink": {
-    "NAME": "Heatsink",
-    "DESCRIPTIONS": [
-      "Whenever you play a Power, draw #b",
-      " card.",
-      " cards."
-    ]
-  },
-  "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Power card into your hand."
-    ]
-  },
-  "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
-    ]
-  },
-  "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card to your hand.",
-      "At the start of your turn, add #b%s random colorless cards to your hand."
+      "#yЕнергија се преноси овај круг.",
+      "#yЕнергија се преноси следећих неколико кругова: #b",
+      "."
     ]
   },
   "Amplify": {
@@ -779,110 +743,154 @@
       " #yPowers twice."
     ]
   },
-  "StaticDischarge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
-    ]
-  },
-  "Rebound": {
-    "NAME": "Rebound",
-    "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
-    ]
-  },
-  "No Attack": {
-    "NAME": "No Attack",
-    "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
-    ]
-  },
-  "Conserve": {
-    "NAME": "Conserve",
-    "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
-    ]
-  },
-  "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
-    ]
-  },
   "Focus": {
-    "NAME": "Focus",
+    "NAME": "Потентност",
     "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
+      "Повећава ефективност сфера за #b",
+      "Смањује ефективност сфера за #b",
+      "."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Knowledge",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Статичко пражњење",
+    "DESCRIPTIONS": [
+      "Сваки пут када примиш штету од #yнапада, #yпризови #yмуње: #b",
       "."
     ]
   },
   "Repair": {
-    "NAME": "Repair",
+    "NAME": "Оправка",
     "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
+      "На крају борбе, залечи #b",
+      " ж. п."
     ]
   },
   "Buffer": {
-    "NAME": "Buffer",
+    "NAME": "Превентивне мере",
     "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
-    ]
-  },
-  "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
+      "Спречи следеће губљење ж. п.",
+      "Спречи губљење ж. п. следећих неколико пута: #b",
+      "."
     ]
   },
   "Echo Form": {
-    "NAME": "Echo Form",
+    "NAME": "Ехо форма",
     "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
+      "Прва карта одиграна сваки потез је одиграна двапут.",
+      "Првих неколико ( #b",
+      " ) карата одиграних сваки потез је одиграно двапут."
     ]
   },
-  "Hello": {
-    "NAME": "Hello",
+  "Heatsink": {
+    "NAME": "Хладњаци",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "Сваки пут када одиграш моћ, вуци број карата: #b",
+      ".",
+      "."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Без напада",
+    "DESCRIPTIONS": [
+      "Не можеш да одиграш #yнападе овај потез."
     ]
   },
   "Storm": {
-    "NAME": "Storm",
+    "NAME": "Олуја",
     "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
+      "Сваки пут када одиграш #bмоћ, #yпризови број муња: #b",
+      "."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Магнетизам",
+    "DESCRIPTIONS": [
+      "На почетку сваког потеза, додај насумичну безбојну карту у руку.",
+      "На почетку сваког потеза, додај неколико ( #b%s ) насумичних безбојних карата у руку."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Вештачка интелигенција",
+    "DESCRIPTIONS": [
+      "На почетку свог потеза, додај број насумичних моћи у руку: #b",
+      "."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Машинско учење",
+    "DESCRIPTIONS": [
+      "Вуци број карата ( #b",
+      " ) на почетку сваког потеза.",
+      " ) на почетку сваког потеза."
     ]
   },
   "Bias": {
-    "NAME": "Bias",
+    "NAME": "Искривљена перцепција",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
+      "На почетку свог потеза, изгуби број #yпотентности: #b",
+      "."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Утвара",
+    "DESCRIPTIONS": [
+      "На крају свог потеза, изгуби #yокретност ( #b",
+      " )."
+    ]
+  },
+  "Prime": {
+    "NAME": "Подешавања",
+    "DESCRIPTIONS": [
+      "Сваки пут када #yпризовеш сферу, вуци број карата: #b",
+      ".",
+      "."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Поврат",
+    "DESCRIPTIONS": [
+      "Следећа карта коју одиграш овај потез ће бити стављена на врх гомиле за вучење.",
+      "Следећих неколико карата ( #b",
+      " ) које одиграш овај потез ће бити стављене на врх гомиле за вучење."
     ]
   },
   "Primitive": {
     "NAME": "Primitive",
     "DESCRIPTIONS": [
-      "Whenever you play a Common card, draw #b",
-      " card.",
-      " cards."
+      "",
+      "",
+      ""
+    ]
+  },
+  "Hello": {
+    "NAME": "Основни програм",
+    "DESCRIPTIONS": [
+      "На почетку свог потеза, додај број насумичних обичних карата ( #b",
+      " ) у руку.",
+      " ) у руку."
+    ]
+  },
+  "Loop": {
+    "NAME": "Петља",
+    "DESCRIPTIONS": [
+      "На почетку свог потеза, искористи пасивну способност своје главне сфере.",
+      "На почетку свог потеза, искористи пасивну способност својих неколико ( #b",
+      " ) сфера, почевши од главне."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Нанишањен",
+    "DESCRIPTIONS": [
+      "Сфере #yмуње и #yтаме циљају овог непријатеља следећих неколико потеза: #b",
+      ".",
+      "Сфере #yмуње и #yтаме циљају овог непријатеља током овог потеза."
     ]
   }
 }

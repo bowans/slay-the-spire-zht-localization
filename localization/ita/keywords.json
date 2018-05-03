@@ -37,7 +37,7 @@
       "NAMES": [
         "eterea"
       ],
-      "DESCRIPTION": "Se questa carta è nella tua mano alla fine del turno, viene esaurita. Le carte esaurite vengono rimosse dal mazzo per il combattimento."
+      "DESCRIPTION": "Se questa carta è nella tua mano a fine turno, viene esaurita. Le carte esaurite vengono rimosse dal mazzo per il combattimento."
     },
     "EXHAUST": {
       "NAMES": [
@@ -47,7 +47,7 @@
         "esaurire",
         "esauriscono"
       ],
-      "DESCRIPTION": "Rimossa fino alla fine del combattimento."
+      "DESCRIPTION": "Rimossa dal mazzo per questo combattimento."
     },
     "INNATE": {
       "NAMES": [
@@ -78,13 +78,13 @@
         "veleno",
         "avvelenato"
       ],
-      "DESCRIPTION": "Le creature Avvelenate perdono PV all'inizio del loro turno. Ogni turno, il Veleno viene ridotto di #b1."
+      "DESCRIPTION": "Prima di agire le creature Avvelenate perdono PV. Ogni turno, il Veleno viene ridotto di #b1."
     },
     "RETAIN": {
       "NAMES": [
         "conserva"
       ],
-      "DESCRIPTION": "Le carte Conservate non vengono scartate alla fine del turno."
+      "DESCRIPTION": "Le carte che Conservi non vengono scartate a fine turno."
     },
     "SHIV": {
       "NAMES": [
@@ -97,13 +97,13 @@
       "NAMES": [
         "stato"
       ],
-      "DESCRIPTION": "Le carte Stato vengono rimosse alla fine del combattimento."
+      "DESCRIPTION": "Le carte Stato vengono rimosse a fine combattimento."
     },
     "STRENGTH": {
       "NAMES": [
         "forza"
       ],
-      "DESCRIPTION": "La Forza aggiunge danno addizionale agli attacchi."
+      "DESCRIPTION": "La Forza aggiunge danno agli attacchi."
     },
     "TRANSFORM": {
       "NAMES": [

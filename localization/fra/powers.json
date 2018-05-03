@@ -310,7 +310,7 @@
     "NAME": "Maléfice",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une carte autre qu'Attaque, insère #b",
-      " carte #yHébètement dans votre deck."
+      " carte #yHébétement dans votre deck."
     ]
   },
   "Hide": {
@@ -826,7 +826,7 @@
   "Storm": {
     "NAME": "Orage",
     "DESCRIPTIONS": [
-      "Quand vous jouez un #bPouvoir, #yCanalisez #b ",
+      "Quand vous jouez un #bPouvoir, #yCanalisez #b",
       " Orbe(s) #yKéraunique(s)."
     ]
   },
@@ -880,9 +880,17 @@
   "Echo Form": {
     "NAME": "Écho",
     "DESCRIPTIONS": [
-      "La promière carte que vous jouez chaque tour est jouée #b",
-      " fois supplémentaire.",
-      " fois supplémentaires."
+      "La première carte que vous jouez chaque tour est jouée deux fois.",
+      "Les #b",
+      " premières cartes que vous jouez chaque tour sont jouées deux fois."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Verrouiller",
+    "DESCRIPTIONS": [
+      "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yPassiv: Am Ende deines Zuges erhöhe den Schaden dieses Orbs um #b",
+      "#yPassiv: Erhöhe zu Beginn deines Zuges den Schaden dieses Orbs um #b",
       ". NL #yEntladen: Füge dem Gegner mit den wenigsten TP #b",
       " Schaden zu."
     ],
@@ -9,13 +9,13 @@
   },
   "Empty": {
     "DESCRIPTION": [
-      "Orbs können in diese Slots kanalisiert werden."
+      "Orbs können in diese Slots erschaffen werden."
     ],
     "NAME": "Orb-Slot"
   },
   "Frost": {
     "DESCRIPTION": [
-      "#yPassiv: Am Ende deines Zuges erhalte #b",
+      "#yPassiv: Erhalte zu Beginn deines Zuges #b",
       " #yBlock. NL #yEntladen: Erhalte #b",
       " #yBlock."
     ],
@@ -23,7 +23,7 @@
   },
   "Lightning": {
     "DESCRIPTION": [
-      "#yPassiv: Am Ende deines Zuges füge einem zufälligen Gegner #b",
+      "#yPassiv: Füge am Ende deines Zuges einem zufälligen Gegner #b",
       " Schaden zu. NL #yEntladen: Füge einem zufälligen Gegner #b",
       " Schaden zu."
     ],
@@ -31,7 +31,7 @@
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yPassiv: Zu Beginn deines Zuges erhalte [B] . NL #yEntladen: Erhalte #b",
+      "#yPassiv: Erhalte zu Beginn deines Zuges [B] . NL #yEntladen: Erhalte #b",
       " [B] . NL Plasma wird durch #yFokus nicht beeinflusst."
     ],
     "NAME": "Plasma"

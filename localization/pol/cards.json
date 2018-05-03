@@ -87,7 +87,7 @@
   },
   "Exhume": {
     "NAME": "Ekshumacja",
-    "DESCRIPTION": "Wybierz wykluczoną kartę i umieść ją w ręce. NL Wykluczenie."
+    "DESCRIPTION": "Wybierz Wykluczoną kartę i umieść ją w ręce. NL Wykluczenie."
   },
   "Power Through": {
     "NAME": "Taran",
@@ -125,7 +125,7 @@
   },
   "Reaper": {
     "NAME": "Żniwiarz",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywróć PŻ równe niezablok. obrażeniom. NL Wykluczenie."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywróć PŻ równe niezablokowanym obrażeniom. NL Wykluczenie."
   },
   "Shiv": {
     "NAME": "Nóż",
@@ -133,8 +133,8 @@
   },
   "Tactician": {
     "NAME": "Taktyk",
-    "DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę, zyskaj [G].",
-    "UPGRADE_DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę, zyskaj [G] [G].",
+    "DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę, NL zyskaj [G].",
+    "UPGRADE_DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę, NL zyskaj [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Nie mogę zagrać tej karty."
     ]
@@ -246,7 +246,7 @@
   },
   "Blood for Blood": {
     "NAME": "Krew za krew",
-    "DESCRIPTION": "Kosztuje o 1 [R] mniej NL za każdym razem, kiedy stracisz PŻ w walce. NL Zadaj !D! pkt. obrażeń."
+    "DESCRIPTION": "Kosztuje o 1 [R] mniej NL kiedykolwiek stracisz PŻ w walce. NL Zadaj !D! pkt. obrażeń."
   },
   "Impervious": {
     "NAME": "Iniemamoc",
@@ -434,7 +434,7 @@
   },
   "Dark Embrace": {
     "NAME": "Objęcia mroku",
-    "DESCRIPTION": "Kiedykolwiek karta zostanie wykluczona, NL dobierz 1 kartę."
+    "DESCRIPTION": "Kiedykolwiek karta zostanie Wykluczona, NL dobierz 1 kartę."
   },
   "Die Die Die": {
     "NAME": "Giń Giń Giń",
@@ -471,7 +471,7 @@
   },
   "Fiend Fire": {
     "NAME": "Demoniczny ogień",
-    "DESCRIPTION": "Wyklucz swoją rękę. NL Zadaj !D! pkt. obrażeń za każdą wykluczoną kartę. NL Wykluczenie."
+    "DESCRIPTION": "Wyklucz swoją rękę. NL Zadaj !D! pkt. obrażeń za każdą Wykluczoną kartę. NL Wykluczenie."
   },
   "Terror": {
     "NAME": "Terror",
@@ -504,7 +504,7 @@
   },
   "Havoc": {
     "NAME": "Spustoszenie",
-    "DESCRIPTION": "Zagraj kartę z góry stosu rozgrywającego, a następnie ją wyklucz."
+    "DESCRIPTION": "Zagraj kartę z góry stosu rozgrywającego, a następnie ją Wyklucz."
   },
   "Secret Weapon": {
     "NAME": "Sekretna broń",
@@ -520,7 +520,7 @@
   },
   "Feel No Pain": {
     "NAME": "Niewrażliwość",
-    "DESCRIPTION": "Za każdym razem, kiedy karta zostanie wykluczona, NL zyskaj !M! pkt. Bloku."
+    "DESCRIPTION": "Za każdym razem, kiedy karta zostanie Wykluczona, NL zyskaj !M! pkt. Bloku."
   },
   "Hide": {
     "NAME": "Ukrycie",
@@ -528,7 +528,7 @@
   },
   "Corruption": {
     "NAME": "Zepsucie",
-    "DESCRIPTION": "Umiejętności kosztują 0. NL Kiedykolwiek zagrasz kartę Umiejętności, zostanie ona wykluczona."
+    "DESCRIPTION": "Umiejętności kosztują 0. NL Kiedykolwiek zagrasz kartę Umiejętności, zostanie ona Wykluczona."
   },
   "Heel Hook": {
     "NAME": "Powalenie",
@@ -584,8 +584,8 @@
   },
   "Sentinel": {
     "NAME": "Strażnik",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Jeśli karta zostanie wykluczona, NL zyskaj [R] [R].",
-    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Jeśli karta zostanie wykluczona, NL zyskaj [R] [R] [R]."
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Jeśli karta zostanie Wykluczona, NL zyskaj [R] [R].",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Jeśli karta zostanie Wykluczona, NL zyskaj [R] [R] [R]."
   },
   "Survivor": {
     "NAME": "Ocalały",
@@ -634,11 +634,11 @@
   "Enlightenment": {
     "NAME": "Oświecenie",
     "DESCRIPTION": "Na czas tej tury koszt wszystkich kart w ręce zostaje zredukowany NL do 1.",
-    "UPGRADE_DESCRIPTION": "Na czas tej potyczki koszt wszystkich kart w ręce zostaje zredukowany NL do 1"
+    "UPGRADE_DESCRIPTION": "Na czas tej walki koszt wszystkich kart w ręce zostaje zredukowany NL do 1"
   },
   "Purity": {
     "NAME": "Oczyszczenie",
-    "DESCRIPTION": "Wybierz i wyklucz maksymalnie !M! karty z ręki. NL Wykluczenie."
+    "DESCRIPTION": "Wybierz i Wyklucz maksymalnie !M! karty z ręki. NL Wykluczenie."
   },
   "Panacea": {
     "NAME": "Panaceum",
@@ -880,367 +880,385 @@
     "NAME": "Ekspertyza",
     "DESCRIPTION": "Dobieraj karty, dopóki nie będziesz mieć !M! w ręce."
   },
-  "Auto Shields": {
-    "NAME": "Auto-Shields",
-    "DESCRIPTION": "If you have 0 Block, gain !B! Block."
-  },
   "Rip and Tear": {
-    "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to !M! random targets."
+    "NAME": "Rozrywaj i rozdzieraj",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń losowemu przeciwnikowi !M! razy."
   },
-  "Zap": {
-    "NAME": "Zap",
-    "DESCRIPTION": "Channel !M! Lightning."
+  "Multi-Cast": {
+    "NAME": "Powtórzenie",
+    "DESCRIPTION": "Wyładuj następną Sferę X razy.",
+    "UPGRADE_DESCRIPTION": "Wyładuj następną Sferę X+1 razy."
   },
   "Fission": {
-    "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Increase your max Orb count by the number of Orbs Evoked."
+    "NAME": "Podział",
+    "DESCRIPTION": "Wyładuj wszystkie Sfery. Zyskaj nowe miejsce na Sferę za każdą Wyładowaną Sferę."
   },
-  "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTION": "Whenever you play a Power, Channel 1 Lightning.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power, Channel 1 Lightning."
+  "White Noise": {
+    "NAME": "Szum biały",
+    "DESCRIPTION": "Dodaj losową kartę Mocy do ręki. NL W tej turze kosztuje ona 0. NL Wykluczenie."
   },
-  "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTION": "Use the passive effect of all of your Channeled Orbs. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Use the passive effect of all of your Channeled Orbs."
+  "Tempest": {
+    "NAME": "Nawałnica",
+    "DESCRIPTION": "Przywołaj Gromów: X. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Przywołaj Gromów: X+1. NL Wykluczenie."
   },
-  "Double Energy": {
-    "NAME": "Double Energy",
-    "DESCRIPTION": "Double your Energy. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Double your Energy."
+  "Glacier": {
+    "NAME": "Lodowiec",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Mrozy.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Mrozy."
   },
-  "Go for the Eyes": {
-    "NAME": "Go for the Eyes",
-    "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
+  "Fusion": {
+    "NAME": "Fuzja",
+    "DESCRIPTION": "Przywołaj !M! Plazmę."
   },
-  "Flux Capacitor": {
-    "NAME": "Flux Capacitor",
-    "DESCRIPTION": "Replace all Channeled Orbs with Plasma."
-  },
-  "Self Repair": {
-    "NAME": "Self Repair",
-    "DESCRIPTION": "At the end of combat, heal !M! HP."
+  "Zap": {
+    "NAME": "Porażenie",
+    "DESCRIPTION": "Przywołaj !M! Grom."
   },
   "Chaos": {
     "NAME": "Chaos",
-    "DESCRIPTION": "Channel !M! random Orb.",
-    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
-  },
-  "Cold Snap": {
-    "NAME": "Cold Snap",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Frost."
-  },
-  "Overclock": {
-    "NAME": "Overclock",
-    "DESCRIPTION": "Gain !B! Block. Upgrade a random Orb.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Upgrade all Orbs."
-  },
-  "Hyperbeam": {
-    "NAME": "Hyperbeam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose !M! Focus."
-  },
-  "Energy Pulse": {
-    "NAME": "Energy Pulse",
-    "DESCRIPTION": "Gain Block equal to your Energy.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to twice your Energy."
+    "DESCRIPTION": "Przywołaj !M! losową Sferę.",
+    "UPGRADE_DESCRIPTION": "Przywołaj losowe sfery: !M!."
   },
   "Reinforced Body": {
-    "NAME": "Reinforced Body",
-    "DESCRIPTION": "Gain !B! Block X times."
-  },
-  "Skim": {
-    "NAME": "Skim",
-    "DESCRIPTION": "Draw !M! cards."
-  },
-  "Heatsinks": {
-    "NAME": "Heatsinks",
-    "DESCRIPTION": "Whenever you play a Power card, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Whenever you play a Power card, draw !M! cards."
-  },
-  "Darkness": {
-    "NAME": "Darkness",
-    "DESCRIPTION": "Apply !M! Weak. NL Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
-  },
-  "Dualcast": {
-    "NAME": "Dualcast",
-    "DESCRIPTION": "Evoke your next Orb 2 times."
-  },
-  "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTION": "At the start of each turn, add a random colorless card to your hand."
-  },
-  "Recycle": {
-    "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost."
-  },
-  "Melter": {
-    "NAME": "Melter",
-    "DESCRIPTION": "Remove all Block from an enemy. NL Deal !D! damage."
-  },
-  "FTL": {
-    "NAME": "FTL",
-    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card."
-  },
-  "Barrage": {
-    "NAME": "Barrage",
-    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
-  },
-  "Allocate": {
-    "NAME": "Allocate",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
-  },
-  "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTION": "At the start of each turn, add a random Power card to your hand."
-  },
-  "Ball Lightning": {
-    "NAME": "Ball Lightning",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
-  },
-  "Coolheaded": {
-    "NAME": "Coolheaded",
-    "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
-  },
-  "Genetic Algorithm": {
-    "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. Exhaust."
-  },
-  "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTION": "This turn, your next Power is played twice.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Powers are played twice."
-  },
-  "Conserve Battery": {
-    "NAME": "Conserve Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Energy is conserved for next turn."
-  },
-  "Aggregate": {
-    "NAME": "Aggregate",
-    "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
-  },
-  "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTION": "Prevent the next time you would lose HP.",
-    "UPGRADE_DESCRIPTION": "Prevent the next !M! times you would lose HP."
-  },
-  "Winter": {
-    "NAME": "Winter",
-    "DESCRIPTION": "At the start of your turn, if you have an Orb slot, Channel 1 Frost."
-  },
-  "Steam Power": {
-    "NAME": "Steam Power",
-    "DESCRIPTION": "Draw !M! cards. NL Add a Burn into your discard pile."
+    "NAME": "Wzmocnione ciało",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku X razy."
   },
   "Reprogram": {
-    "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
-  },
-  "Cache": {
-    "NAME": "Cache",
-    "DESCRIPTION": "At the end of your turn, choose !M! card from your draw pile and place it on top."
-  },
-  "Rebound": {
-    "NAME": "Rebound",
-    "DESCRIPTION": "Deal !D! damage. NL Place the next card you play this turn on top of your draw pile."
-  },
-  "Capacitor": {
-    "NAME": "Capacitor",
-    "DESCRIPTION": "Gain !M! Orb slot.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
-  },
-  "Meteor Strike": {
-    "NAME": "Meteor Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
-  },
-  "Stack": {
-    "NAME": "Stack",
-    "DESCRIPTION": "Gain Block equal to the number of cards in your discard pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to the number of cards in your discard pile.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (Gains !B! Block.)"
-    ]
-  },
-  "Multi-Cast": {
-    "NAME": "Multi-Cast",
-    "DESCRIPTION": "Evoke your next Orb X times.",
-    "UPGRADE_DESCRIPTION": "Evoke your next Orb X+1 times."
-  },
-  "Sweeping Beam": {
-    "NAME": "Sweeping Beam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! card."
+    "NAME": "Przeprogramowanie",
+    "DESCRIPTION": "Podejrzyj !M! górne karty ze stosu rozgrywającego. Możesz Wykluczyć jedną z nich."
   },
   "Undo": {
-    "NAME": "Undo",
-    "DESCRIPTION": "Set your HP to what it was last turn. NL Exhaust."
+    "NAME": "Cofnięcie",
+    "DESCRIPTION": "Przywróć PŻ do stanu z poprzedniej tury. NL Wykluczenie."
   },
-  "Doom and Gloom": {
-    "NAME": "Doom and Gloom",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Channel !M! Dark."
+  "Amplify": {
+    "NAME": "Wzmocnienie",
+    "DESCRIPTION": "W tej turze, następna karta Mocy jest zagrywana dwukrotnie.",
+    "UPGRADE_DESCRIPTION": "W tej turze, następne !M! karty Mocy są zagrywane dwukrotnie."
   },
-  "Thunder Strike": {
-    "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal damage equal to your Focus to a random enemy !M! times.",
-    "EXTENDED_DESCRIPTION": [
-      " (Channeled !M! Lightning.)"
-    ]
+  "Capacitor": {
+    "NAME": "Kondensator",
+    "DESCRIPTION": "Zyskaj !M! miejsce na Sferę.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !M! miejsca na Sferę."
   },
-  "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTION": "Draw !M! additional card at the start of each turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! additional card at the start of each turn."
+  "Energy Pulse": {
+    "NAME": "Puls energii",
+    "DESCRIPTION": "Zyskaj pkt. Bloku równe twojej Energii.",
+    "UPGRADE_DESCRIPTION": "Zyskaj pkt. Bloku równe podwójnej ilości twojej Energii."
   },
-  "Tempest": {
-    "NAME": "Tempest",
-    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
+  "Auto Shields": {
+    "NAME": "Automatyczna tarcza",
+    "DESCRIPTION": "Jeżeli posiadasz 0 pkt. Bloku, zyskaj !B! pkt. Bloku."
   },
-  "Streamline": {
-    "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat."
+  "Double Energy": {
+    "NAME": "Podwójna energia",
+    "DESCRIPTION": "Podwaja twoją Energię. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Podwaja twoją Energię."
   },
-  "All For One": {
-    "NAME": "All For One",
-    "DESCRIPTION": "Deal !D! damage. Put all Cost 0 cards from your discard pile into your hand."
+  "Conserve Battery": {
+    "NAME": "Oszczędzanie baterii",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Energia jest zachowywana na następną turę."
   },
-  "Channel": {
-    "NAME": "Channel",
-    "DESCRIPTION": "Whenever you play a Power card this turn, gain !M! Block."
+  "Hyperbeam": {
+    "NAME": "Hiper promień",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Utrać !M! Skupienia."
   },
-  "Gash": {
-    "NAME": "Gash",
-    "DESCRIPTION": "Deal !D! damage. NL All Gash cards deal !M! additional damage this combat."
-  },
-  "Axe Kick": {
-    "NAME": "Axe Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
-  },
-  "Fusion": {
-    "NAME": "Fusion",
-    "DESCRIPTION": "Channel !M! Plasma."
-  },
-  "Hologram": {
-    "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a random card from your discard pile to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
-  },
-  "Blaster": {
-    "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb."
-  },
-  "Biased Cognition": {
-    "NAME": "Biased Cognition",
-    "DESCRIPTION": "Gain !M! Focus. NL At the start of each turn, lose 1 Focus."
-  },
-  "Beam Cell": {
-    "NAME": "Beam Cell",
-    "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
-  },
-  "Static Discharge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
-  },
-  "Ice Wall": {
-    "NAME": "Ice Wall",
-    "DESCRIPTION": "Gain !B! Block. Gain +3 Block for each Channeled Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Gain +5 Block for each Channeled Frost."
-  },
-  "Reboot": {
-    "NAME": "Reboot",
-    "DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
-  },
-  "Blizzard": {
-    "NAME": "Blizzard",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Frost Channeled this combat.",
-    "EXTENDED_DESCRIPTION": [
-      " NL You have Channeled ",
-      " Frost."
-    ],
-    "UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies."
+  "Sunder": {
+    "NAME": "Rozszczepienie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeżeli pokonasz tym atakiem przeciwnika, zyskaj [B] [B] [B]."
   },
   "Turbo": {
     "NAME": "TURBO",
-    "DESCRIPTION": "Gain [B] [B]. NL Add a Void into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain [B] [B] [B]. NL Add a Void into your discard pile."
+    "DESCRIPTION": "Zyskaj [B] [B]. NL Dodaj Pustkę do stosu kart odrzuconych.",
+    "UPGRADE_DESCRIPTION": "Zyskaj [B] [B] [B]. NL Dodaj Pustkę do stosu kart odrzuconych."
   },
-  "Glacier": {
-    "NAME": "Glacier",
-    "DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost."
+  "Hologram": {
+    "NAME": "Hologram",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywróć losową kartę ze stosu kart odrzuconych do ręki.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywróć kartę ze stosu kart odrzuconych do ręki."
   },
-  "Rainbow": {
-    "NAME": "Rainbow",
-    "DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark."
+  "Aggregate": {
+    "NAME": "Agregat",
+    "DESCRIPTION": "Zyskaj [B] za każde !M! kart w stosie rozgrywającym."
   },
-  "Defragment": {
-    "NAME": "Defragment",
-    "DESCRIPTION": "Gain !M! Focus."
-  },
-  "Leap": {
-    "NAME": "Leap",
-    "DESCRIPTION": "Gain !B! Block."
-  },
-  "Redo": {
-    "NAME": "Redo",
-    "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
-  },
-  "White Noise": {
-    "NAME": "White Noise",
-    "DESCRIPTION": "Add a random Power to your hand. NL It costs 0 this turn. NL Exhaust."
+  "Recycle": {
+    "NAME": "Recykling",
+    "DESCRIPTION": "Wyklucz kartę. NL Zyskaj [B] równą jej kosztowi."
   },
   "Nova": {
-    "NAME": "Nova",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Power played this combat.",
+    "NAME": "Supernowa",
+    "DESCRIPTION": "Zadaj !M! obrażeń WSZYSTKIM przeciwnikom za każdą kartę Mocy zagraną podczas tej walki.",
     "EXTENDED_DESCRIPTION": [
-      " NL Exhaust.",
-      " NL Deals !D! damage."
-    ]
+      " NL Wykluczenie.",
+      " NL (Zadaje !D! pkt. obrażeń)."
+    ],
+    "UPGRADE_DESCRIPTION": ""
   },
-  "Sunder": {
-    "NAME": "Sunder",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills the enemy, gain [B] [B] [B]."
+  "Static Discharge": {
+    "NAME": "Wyładowanie elektrostatyczne",
+    "DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Grom.",
+    "UPGRADE_DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Gromy."
   },
-  "Chill": {
-    "NAME": "Chill",
-    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
+  "Overclock": {
+    "NAME": "Podkręcanie",
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
-  "Seek": {
-    "NAME": "Seek",
-    "DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+  "Barrage": {
+    "NAME": "Ogień zaporowy",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń za każdą przywołaną Sferę."
+  },
+  "Ice Wall": {
+    "NAME": "Ściana lodu",
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
+  },
+  "Cold Snap": {
+    "NAME": "Odłamek lodu",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Mróz."
+  },
+  "Ball Lightning": {
+    "NAME": "Piorun kulisty",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Grom."
+  },
+  "Winter": {
+    "NAME": "Zima",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Meteor Strike": {
+    "NAME": "Meteor",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przywołaj !M! Plazmy."
+  },
+  "Self Repair": {
+    "NAME": "Samonaprawa",
+    "DESCRIPTION": "Na końcu walki, przywróć !M! PŻ."
+  },
+  "Axe Kick": {
+    "NAME": "Kopnięcie opadające",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wyładuj nastepną Sferę."
+  },
+  "Beam Cell": {
+    "NAME": "Ogniwo",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń i nałóż !M! pkt. Wrażliwości."
+  },
+  "Go for the Eyes": {
+    "NAME": "Celuj w oczy",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Jeżeli przeciwnik zamierza atakować, nałóż !M! pkt. Słabości."
+  },
+  "Gash": {
+    "NAME": "Głębokie cięcia",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wszystkie karty Głębokiego cięcia podczas tej walki zadają !M! dodatkowych obrażeń."
+  },
+  "Darkness": {
+    "NAME": "Mrok",
+    "DESCRIPTION": "Przywołaj !M! Ciemność.",
+    "UPGRADE_DESCRIPTION": "Przywołaj !M! Ciemności."
+  },
+  "Machine Learning": {
+    "NAME": "Uczenie maszynowe",
+    "DESCRIPTION": "Dobierz !M! dodatkową kartę na początku każdej tury.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Dobierz !M! dodatkową kartę na początku każdej tury."
+  },
+  "Impulse": {
+    "NAME": "Impuls",
+    "DESCRIPTION": "Użyj pasywnego efektu wszystkich Przywołanych Sfer. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Użyj pasywnego efektu wszystkich Przywołanych Sfer."
+  },
+  "Skim": {
+    "NAME": "Schemat",
+    "DESCRIPTION": "Dobierz !M! karty."
+  },
+  "Buffer": {
+    "NAME": "Bufor",
+    "DESCRIPTION": "Powstrzymuję następną utratę PŻ.",
+    "UPGRADE_DESCRIPTION": "Powstrzymuję następną utratę PŻ !M! razy."
+  },
+  "FTL": {
+    "NAME": "FTL",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Jeżeli w tej turze zagrałeś mniej niż !M! karty, dobierz 1 kartę."
   },
   "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice.",
-    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
+    "NAME": "Powtarzająca forma",
+    "DESCRIPTION": "Pierwsza zagrana karta w kazdej turze jest zagrywana dwukrotnie. NL Eteryczna.",
+    "UPGRADE_DESCRIPTION": "Pierwsza zagrana karta w kazdej turze jest zagrywana dwukrotnie."
+  },
+  "Heatsinks": {
+    "NAME": "Radiator",
+    "DESCRIPTION": "Kiedykolwiek zagrasz kartę Mocy, dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Kiedykolwiek zagrasz kartę Mocy, dobierz !M! karty."
+  },
+  "Genetic Algorithm": {
+    "NAME": "Algorytm genetyczny",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. Kiedy zagrana, na stałe zwiększa zyskiwane przez tą kartę pkt. Bloku o !M!. NL Wykluczenie."
+  },
+  "Melter": {
+    "NAME": "Roztapiacz",
+    "DESCRIPTION": "Pozbaw przeciwnika wszystkich pkt. Bloku. NL Zadaj !D! pkt. obrażeń."
+  },
+  "Dualcast": {
+    "NAME": "Powielenie",
+    "DESCRIPTION": "Wyładuj następną Sferę 2 razy."
+  },
+  "Redo": {
+    "NAME": "Rekurencja",
+    "DESCRIPTION": "Wyładuj następną Sferę. NL Przywołaj Sferę która została Wyładowana."
+  },
+  "Rainbow": {
+    "NAME": "Tęcza",
+    "DESCRIPTION": "Przywołaj 1 Grom, 1 Mróz, i 1 Ciemność. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Przywołaj 1 Grom, 1 Mróz, i 1 Ciemność."
+  },
+  "Storm": {
+    "NAME": "Burza",
+    "DESCRIPTION": "Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Grom.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Grom."
+  },
+  "All For One": {
+    "NAME": "Wszyscy za jednego",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przełóż wszystkie kosztujące 0 karty ze stosu kart odrzuconych do ręki."
+  },
+  "Magnetism": {
+    "NAME": "Magnetyzm",
+    "DESCRIPTION": "Na początku każdej tury, dodaj losową bezbarwną kartę do ręki."
+  },
+  "Creative AI": {
+    "NAME": "Kreatywne AI",
+    "DESCRIPTION": "Na początku każdej tury, dodaj losową kartę Mocy do ręki."
+  },
+  "Defragment": {
+    "NAME": "Defragmentacja",
+    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia."
+  },
+  "Doom and Gloom": {
+    "NAME": "Zagłada i zniszczenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywołaj !M! Ciemność."
+  },
+  "Biased Cognition": {
+    "NAME": "Błąd poznawczy",
+    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Na początku każdej tury, utrać 1 pkt. Skupienia."
+  },
+  "Stack": {
+    "NAME": "Stos",
+    "DESCRIPTION": "Zyskaj pkt. Bloku równe ilości kart w stosie kart odrzuconych.",
+    "UPGRADE_DESCRIPTION": "Zyskaj pkt. Bloku równe ilości kart w stosie kart odrzuconych +3.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Zyskaj !B! pkt. Bloku.)"
+    ]
+  },
+  "Thunder Strike": {
+    "NAME": "Błyskawica",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń losowemu przeciwnikowi za każdy Grom Przywołany w tej walce.",
+    "EXTENDED_DESCRIPTION": [
+      " (Przywołano Gromów: !M!.)"
+    ]
   },
   "Force Field": {
-    "NAME": "Force Field",
-    "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
+    "NAME": "Pole siłowe",
+    "DESCRIPTION": "Kosztuje 1 mniej [B] za każdą kartę Mocy zagraną w tej walce. NL Zyskaj !B! pkt. Bloku."
   },
   "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTION": "Whenever you Channel an Orb, draw !M! card."
+    "NAME": "Pełnia",
+    "DESCRIPTION": "Kiedykolwiek Przywołasz Sferę, dobierz !M! kartę."
   },
-  "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
+  "Cache": {
+    "NAME": "Pamięć podręczna",
+    "DESCRIPTION": "Deprecated."
   },
-  "Hello World": {
-    "NAME": "Hello World",
-    "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
+  "Rebound": {
+    "NAME": "Rykoszet",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przełóż następną zagraną kartę na szczyt stosu rozgrywającego."
+  },
+  "Allocate": {
+    "NAME": "Rozdzielenie",
+    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Utrać 1 pkt. Siły. NL Utrać 1 pkt. Zwinności."
+  },
+  "Streamline": {
+    "NAME": "Strumień",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Kiedykolwiek zagrasz tą kartę, zmniejsz jej koszt o !M! do końca tej walki."
+  },
+  "Channel": {
+    "NAME": "Przywołanie",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Sweeping Beam": {
+    "NAME": "Rozległy promień",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Dobierz !M! kartę."
+  },
+  "Leap": {
+    "NAME": "Uskok",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
+  },
+  "Seek": {
+    "NAME": "Wyszukanie",
+    "DESCRIPTION": "Wybierz !M! karty ze stosu rozgrywającego i przełóż je do ręki. NL Wykluczenie."
+  },
+  "Blaster": {
+    "NAME": "Blaster",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Zyskaj [B] za każdą Przywołaną Sferę. NL Wykluczenie."
+  },
+  "Reboot": {
+    "NAME": "Restart",
+    "DESCRIPTION": "Przetasuj wszystkie karty do stosu rozgrywającego, następnie dobierz !M! kart. NL Wykluczenie."
+  },
+  "Steam Power": {
+    "NAME": "Silnik parowy",
+    "DESCRIPTION": "Dobierz !M! karty. NL Dodaj Poparzenie do stosu kart odrzuconych."
+  },
+  "Blizzard": {
+    "NAME": "Gradobicie",
+    "DESCRIPTION": "Zadaj obrażenia równe podwójnym Przywołanym Mrozom w tej walce WSZYSTKIM przeciwnikom.",
+    "UPGRADE_DESCRIPTION": "Zadaj obrażenia równe !M!-krotności Przywołanych Mrozów w tej walce WSZYSTKIM przeciwnikom.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Zadaj !D! pkt. obrażeń.)",
+      ""
+    ]
+  },
+  "Chill": {
+    "NAME": "Chłód",
+    "DESCRIPTION": "Przywołaj !M! Mróz za każdego przeciwnika. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Przywołaj !M! Mróz za każdego przeciwnika. NL Wykluczenie."
+  },
+  "Coolheaded": {
+    "NAME": "Trzeźwość umysłu",
+    "DESCRIPTION": "Przywołaj 1 Mróz. NL Dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Przywołaj 1 Mróz. NL Dobierz !M! karty."
+  },
+  "Flux Capacitor": {
+    "NAME": "Kondensator strumienia",
+    "DESCRIPTION": "Zamień wszystkie Przywołane Sfery na Plazmę. NL Wykluczenie."
   },
   "Primitive Tech": {
-    "NAME": "Primitive Tech",
-    "DESCRIPTION": "Whenever you play a card of Common rarity, draw !M! card."
+    "NAME": "Prymitywna technologia",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Hello World": {
+    "NAME": "Hejka świecie",
+    "DESCRIPTION": "Na początku tury, dodaj losową Pospolitą kartę do ręki.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Na początku tury, dodaj losową Pospolitą kartę do ręki."
+  },
+  "Loop": {
+    "NAME": "Pętla",
+    "DESCRIPTION": "Na początku tury, użyj pasywnej umiejętności następnej Sfery."
   },
   "Scrape": {
-    "NAME": "Scrape",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
+    "NAME": "Ekstrakcja",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz !M! karty. NL Odrzuć każdą nie kosztującą 0 dobraną w ten sposób kartę."
+  },
+  "Reprieve": {
+    "NAME": "Chwila wytchnienia",
+    "DESCRIPTION": "Jeżeli przeciwnik nie zamierza atakować, zyskaj !M! pkt. Skupienia."
+  },
+  "Lockon": {
+    "NAME": "Namierzenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Podczas tej tury, zaatakowany przeciwnik będzie celem dla Sfer Gromu i Ciemności."
+  },
+  "Consume": {
+    "NAME": "Absorpcja",
+    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Utrać 1 miejsce na Sferę."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

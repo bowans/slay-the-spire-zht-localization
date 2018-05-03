@@ -54,14 +54,14 @@
   "Health Potion": {
     "NAME": "Pozione Curativa",
     "DESCRIPTIONS": [
-      "Cura #b",
+      "Ti curi di #b",
       " PV."
     ]
   },
   "Poison Potion": {
     "NAME": "Pozione Velenosa",
     "DESCRIPTIONS": [
-      "Applica #b",
+      "Applichi #b",
       " #yVeleno."
     ]
   },
@@ -75,8 +75,8 @@
   "Regen Potion": {
     "NAME": "Pozione Rigenerante",
     "DESCRIPTIONS": [
-      "Cura #b",
-      " #yPV alla fine di ogni turno per #b",
+      "Ti curi di #b",
+      " #yPV a fine turno, per #b",
       " turni."
     ]
   },
@@ -98,7 +98,7 @@
   "Weak Potion": {
     "NAME": "Pozione Debilitante",
     "DESCRIPTIONS": [
-      "Applica #b",
+      "Applichi #b",
       " #yDebole."
     ]
   }

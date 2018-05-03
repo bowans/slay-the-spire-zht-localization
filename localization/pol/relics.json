@@ -212,6 +212,13 @@
       "Handlarzowi już nigdy nie zabraknie kart, artefaktów oraz mikstur. Dodatkowo wszystko jest przecenione o #b20%."
     ]
   },
+  "Cracked Core": {
+    "NAME": "Pęknięty rdzeń",
+    "FLAVOR": "Mistyczne źródło życia, które zasila Automatony w Iglicy. Wygląda na pęknięte.",
+    "DESCRIPTIONS": [
+      "Na początku każdej walki, #yPrzywołaj #b1 #yGrom."
+    ]
+  },
   "Cursed Key": {
     "NAME": "Przeklęty klucz",
     "FLAVOR": "Czujesz złowrogą energię emanującą z klucza. Moc ma swoją cenę.",
@@ -550,7 +557,7 @@
     "NAME": "Szokująco gładki kamień",
     "FLAVOR": "Pierwszy raz widzisz coś tak gładkiego, a jednocześnie surowego. To musi być robota Starożytnych.",
     "DESCRIPTIONS": [
-      "Na początku każdej walki zyskaj #b",
+      "Rozpocznij każdą walkę z #b",
       " pkt. #yZręczności."
     ]
   },
@@ -1028,7 +1035,7 @@
     "NAME": "Dordże",
     "FLAVOR": "Ozdobny artefakt, nadawany zasłużonym w bitwach wojownikom.",
     "DESCRIPTIONS": [
-      "Na początku każdej walki, zyskaj #b",
+      "Rozpocznij każda walkę z #b",
       " pkt. #ySiły."
     ]
   },
@@ -1083,68 +1090,61 @@
       "Po walce zawsze wypada mikstura."
     ]
   },
-  "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
-    "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yFocus."
-    ]
-  },
-  "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
-    "FLAVOR": "Ooooh...",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
-    ]
-  },
-  "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
-    ]
-  },
-  "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
-    "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
-    ]
-  },
-  "Emotion Chip": {
-    "NAME": "Emotion Chip",
-    "FLAVOR": "...<3...?",
-    "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
-    ]
-  },
   "Inserter": {
-    "NAME": "Inserter",
-    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "NAME": "Podajnik",
+    "FLAVOR": "Włóż. Wyjmij. Ułóż. Powtórz.",
     "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
-    ]
-  },
-  "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
-    ]
-  },
-  "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
-    "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
+      "Co #b2 tury, zyskaj #b1 miejsce na Sferę."
     ]
   },
   "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
+    "NAME": "Symbiotyczny wirus",
+    "FLAVOR": "Trochę złego może zdziałać wiele dobrego...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "Na początku każdej walki, #yPrzywołaj #b1 #yCiemność."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Bateria jądrowa",
+    "FLAVOR": "Ooooch...",
+    "DESCRIPTIONS": [
+      "Na początku każdej walki, #yPrzywołaj #b1 #yPlazmę."
+    ]
+  },
+  "Cables": {
+    "NAME": "Pozłacane kable",
+    "FLAVOR": "\"Interesujące! Nawet automatony są podatne na placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Umiejętność pasywna, pierwszej od prawej Sfery, uruchamia się dwa razy."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Czip emocji",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "Jeżeli w poprzedniej turze otrzymałeś obrażenia, na początku tury uruchamiają się umiejętności pasywne wszystkich Sfer."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runiczny kondensator",
+    "FLAVOR": "Więcej znaczy lepiej.",
+    "DESCRIPTIONS": [
+      "Rozpoczynasz walkę z #b3 dodatkowymi miejscami na Sfery."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Nośnik danych",
+    "FLAVOR": "Ten niepozorny dysk zawiera bezcenne dane o ptakach i wężach.",
+    "DESCRIPTIONS": [
+      "Rozpocznij każdą walkę z #b",
+      " pkt. #ySkupienia."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Rzepa",
+    "FLAVOR": "Krzepka ta rzepka.",
+    "DESCRIPTIONS": [
+      "Nie można nałożyć na ciebie efektu #yKruchości."
     ]
   }
 }

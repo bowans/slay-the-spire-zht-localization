@@ -557,7 +557,7 @@
     "NAME": "Oddly Smooth Stone",
     "FLAVOR": "You have never seen something so smooth and pristine. This must be the work of the Ancients.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
+      "Start each combat with #b",
       " #yDexterity."
     ]
   },
@@ -1035,7 +1035,7 @@
     "NAME": "Vajra",
     "FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
+      "Start each combat with #b",
       " #yStrength."
     ]
   },
@@ -1092,14 +1092,14 @@
   },
   "Inserter": {
     "NAME": "Inserter",
-    "FLAVOR": "Missing.",
+    "FLAVOR": "Push. Pull. Stack. Repeat.",
     "DESCRIPTIONS": [
       "Every #b2 turns, gain #b1 Orb slot."
     ]
   },
   "Symbiotic Virus": {
     "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit of #rbad can do a lot of #ggood...",
+    "FLAVOR": "A little bit of bad can do a lot of good...",
     "DESCRIPTIONS": [
       "At the start of each combat, #yChannel #b1 #yDark."
     ]
@@ -1136,7 +1136,7 @@
     "NAME": "Data Disk",
     "FLAVOR": "This disk contains precious data on birds and snakes.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
+      "Start each combat with #b",
       " #yFocus."
     ]
   },

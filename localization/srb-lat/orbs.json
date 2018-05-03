@@ -1,39 +1,39 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, increase this Orb's damage by #b",
-      ". NL #yEvoke: Deal #b",
-      " damage to the enemy with lowest HP."
+      "#yPasiv: povećaj štetu ove sfere na početku poteza za #b",
+      ". NL #yAktivacija: nanesi štetu ( #b",
+      " ) neprijatelju sa najmanje ž. p."
     ],
-    "NAME": "Dark"
+    "NAME": "Tama"
   },
   "Empty": {
     "DESCRIPTION": [
-      "Orbs can be channeled into these slots."
+      "Prizvane sfere se pojavljuju u ovim poljima."
     ],
-    "NAME": "Orb Slot"
+    "NAME": "Sferno polje"
   },
   "Frost": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, gain #b",
-      " #yBlock. NL #yEvoke: Gain #b",
-      " #yBlock."
+      "#yPasiv: zadobi #b",
+      " #yodbrane na kraju svog poteza. NL #yAktivacija: zadobi #b",
+      " #yodbrane."
     ],
-    "NAME": "Frost"
+    "NAME": "Mraz"
   },
   "Lightning": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, deal #b",
-      " damage to a random enemy. NL #yEvoke: Deal #b",
-      " damage to a random enemy."
+      "#yPasiv: na kraju svog poteza, nanesi #b",
+      " štete nasumičnom neprijatelju. NL #yAktivacija: nanesi #b",
+      " štete nasumičnom neprijatelju."
     ],
-    "NAME": "Lightning"
+    "NAME": "Munja"
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
-      " [B] . NL Plasma is unaffected by #yFocus."
+      "#yPasiv: na kraju svog poteza, zadobi [B] . NL #yAktivacija: zadobi #b",
+      " [B] . NL #yPotentnost ne utiče na plazmu."
     ],
-    "NAME": "Plasma"
+    "NAME": "Plazma"
   }
 }

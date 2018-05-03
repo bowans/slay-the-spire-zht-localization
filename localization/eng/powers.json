@@ -783,9 +783,9 @@
   "Echo Form": {
     "NAME": "Echo Form",
     "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
+      "The first card you play each turn is played twice.",
+      "The first #b",
+      " cards you play each turn are played twice."
     ]
   },
   "Heatsink": {
@@ -883,6 +883,14 @@
       "At the start of your turn, use the passive ability of your next Orb.",
       "At the start of your turn, use the passive ability of your next #b",
       " Orbs."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTIONS": [
+      "#yLightning and #yDark Orbs target this enemy for the next #b",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }

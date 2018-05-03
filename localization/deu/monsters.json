@@ -30,7 +30,7 @@
     ],
     "NAME": "Auserwählte",
     "DIALOG": [
-      "~Leide~ ~…~"
+      "~Leide~ ~...~"
     ]
   },
   "Byrd": {
@@ -40,7 +40,7 @@
     "NAME": "Fogl",
     "DIALOG": [
       "@KRÄCHZ!@ NL @KRÄÄÄCHZ@",
-      "Betäubt …"
+      "Betäubt ..."
     ]
   },
   "Snecko": {
@@ -64,8 +64,8 @@
       "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@ ",
       "Wird geladen!",
       "~Jetzt~ ~geht’s~ ~los!!~",
-      "@Ich …@ @bekomme …@ NL @Hilfe …!@",
-      "~Zu~ ~…~ NL ~gefährlich~ ~…~ NL ~Tschüss~ ~…~"
+      "@Ich ...@ @bekomme ...@ NL @Hilfe ...!@",
+      "~Zu~ ~...~ NL ~gefährlich~ ~...~ NL ~Tschüss~ ~...~"
     ]
   },
   "BanditChild": {
@@ -98,8 +98,8 @@
     ],
     "NAME": "Der Wächter",
     "DIALOG": [
-      "#b~…~ #b~AB…~ NL #b~…KÜHLEN~ #b~…~",
-      "Verteidigen …",
+      "#b~...~ #b~AB...~ NL #b~...KÜHLEN~ #b~...~",
+      "Verteidigen ...",
       "#r@ZERSTÖREN@ NL #r@ZERSTÖREN@ NL #r@ZERSTÖREN@",
       "#r@GEFAHR@ NL #r@GEFAHR@ NL #r@GEFAHR@"
     ]
@@ -117,7 +117,7 @@
     "DIALOG": [
       "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@ ",
       "@Ich@ @hole@ NL @Hilfe!@",
-      "Ich bin weg!"
+      "Ich muss weg!"
     ]
   },
   "GremlinThief": {
@@ -128,7 +128,7 @@
     "DIALOG": [
       "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@ ",
       "@Ich@ @werde@ NL @Hilfe@ @holen@ @gehen!@ ",
-      "@Was@ @zum …?!@"
+      "@Was@ @zum ...?!@"
     ]
   },
   "Cultist": {
@@ -141,7 +141,7 @@
     "DIALOG": [
       "@MEINE@ @MACHT@ @IST@ NL @OHNEGLEICHEN!@",
       "@DU@ @GEHÖRST@ @NICHT@ NL @HIERHER!@",
-      "~Meine~ ~Macht~ NL ~war~ ~doch~ ~nicht~ ~ohnegleichen~ ~…~"
+      "~Meine~ ~Macht~ NL ~war~ ~doch~ ~nicht~ ~ohnegleichen~ ~...~"
     ]
   },
   "FlameBruiser": {
@@ -231,7 +231,7 @@
     "NAME": "Straßenräuber",
     "DIALOG": [
       "Her damit!",
-      "Ich bin weg!"
+      "Ich muss weg!"
     ]
   },
   "TimeEater": {
@@ -240,8 +240,8 @@
     ],
     "NAME": "Zeitfresser",
     "DIALOG": [
-      "~Ah~ ~…~ NL ~…~ ~Gesellschaft~ ~…~",
-      "~Töricht~ ~…~ NL @TÖRICHT!@"
+      "~Ah~ ~...~ NL ~...~ ~Gesellschaft~ ~...~",
+      "~Töricht~ ~...~ NL @TÖRICHT!@"
     ]
   },
   "TheCollector": {
@@ -264,7 +264,7 @@
   },
   "AcidSlime_M": {
     "MOVES": [
-      "Ätzende Spucke",
+      "Klebrige Spucke",
       "Lecken"
     ],
     "NAME": "Säureschleim (M)",
@@ -300,8 +300,8 @@
       "Greif schon an!",
       "Gib alles! NL @HAHAHA!@",
       "Komm schon, schlag zu! NL Nutzloser Schwächling!",
-      "~Jetzt~ ~hast~ ~du~ ~es~ ~geschafft~ ~…~",
-      "@EINE NIEDERLAGE??@ NL @UNMÖGLICH!!@",
+      "~Jetzt~ ~hast~ ~du~ ~es~ ~geschafft~ ~...~",
+      "@EINE@ @NIEDERLAGE??@ NL @UNMÖGLICH!!@",
       "~STIRB~ ~.~ ~.~ ~.~",
       "Spüre meinen Zorn!"
     ]
@@ -360,7 +360,7 @@
     "DIALOG": [
       "Gib mir dein Gold!",
       "@NEIIiiiin!@",
-      "Wo ist meine Rauchbombe … Lass mal hier sehen …",
+      "Wo ist meine Rauchbombe ... Lass mal hier sehen ...",
       "Danke für das Geld, hehe"
     ]
   },
@@ -465,13 +465,13 @@
     ],
     "NAME": "Schleimboss",
     "DIALOG": [
-      "~Schleim~ ~…~ NL #r~ZERSCHMETTERN!!!~",
+      "~Schleim~ ~...~ NL #r~ZERSCHMETTERN!!!~",
       "Unterbrochen!"
     ]
   },
   "AcidSlime_L": {
     "MOVES": [
-      "Ätzende Spucke",
+      "Klebrige Spucke",
       "Spalten",
       "Lecken"
     ],
@@ -488,8 +488,8 @@
     "NAME": "Schildgremlin",
     "DIALOG": [
       "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@ ",
-      "~Auf~ ~Wiedersehen~ ~…~",
-      "Das nützt nichts …"
+      "~Auf~ ~Wiedersehen~ ~...~",
+      "Das nützt nichts ..."
     ]
   },
   "Lagavulin": {
@@ -499,8 +499,8 @@
     "NAME": "Lagavulin",
     "DIALOG": [
       "Betäubt!",
-      "… NL ……",
-      "…? NL ……?!",
+      "... NL ......",
+      "...? NL ......?!",
       "@!!!@ NL @?!!!@"
     ]
   },
@@ -626,7 +626,7 @@
     ],
     "NAME": "Dunkeling",
     "DIALOG": [
-      "Nachwachsen …"
+      "Nachwachsen ..."
     ]
   },
   "Maw": {

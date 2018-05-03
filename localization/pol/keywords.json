@@ -15,6 +15,15 @@
       ],
       "DESCRIPTION": "Pochłania otrzymywane obrażenia."
     },
+    "EVOKE": {
+      "NAMES": [
+        "wyładowanie",
+        "wyładuj",
+        "wyładowaną",
+        "wyładowana"
+      ],
+      "DESCRIPTION": "Zużyj Sferę pierwszą od prawej, aby ją Wyładować."
+    },
     "CURSE": {
       "NAMES": [
         "klątwa",
@@ -44,7 +53,8 @@
         "wykluczona",
         "wykluczone",
         "wykluczysz",
-        "wyklucza"
+        "wyklucza",
+        "wykluczoną"
       ],
       "DESCRIPTION": "Karta zostanie usunięta z talii do końca walki."
     },
@@ -54,11 +64,24 @@
       ],
       "DESCRIPTION": "Zaczniesz walkę z tą kartą NL w ręce."
     },
+    "FOCUS": {
+      "NAMES": [
+        "skupienie",
+        "skupienia"
+      ],
+      "DESCRIPTION": "Zwiększa efektywność #yPrzywołanych Sfer."
+    },
     "LOCKED": {
       "NAMES": [
         "zablokowana"
       ],
       "DESCRIPTION": "Karta musi zostać wcześniej odblokowana."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
     },
     "POISON": {
       "NAMES": [
@@ -123,6 +146,13 @@
         "ulepszy"
       ],
       "DESCRIPTION": "Sprawia, że karty stają się potężniejsze. Karty można ulepszyć tylko raz."
+    },
+    "VOID": {
+      "NAMES": [
+        "pustka",
+        "pustkę"
+      ],
+      "DESCRIPTION": "Niezagrywalna karta stanu, która przy dobraniu zużywa energię."
     },
     "VULNERABLE": {
       "NAMES": [
@@ -190,6 +220,53 @@
       ],
       "DESCRIPTION": "Zmniejsza WSZYSTKIE otrzymywane obrażenia do #b1 pkt.."
     },
+    "LIGHTNING": {
+      "NAMES": [
+        "grom",
+        "grom+",
+        "gromu"
+      ],
+      "DESCRIPTION": "Sfera: Zadaje obrażenia losowym przeciwnikom."
+    },
+    "FROST": {
+      "NAMES": [
+        "mróz",
+        "mróz+",
+        "mrozu"
+      ],
+      "DESCRIPTION": "Sfera: Zyskujesz #yBlok."
+    },
+    "DARK": {
+      "NAMES": [
+        "ciemność",
+        "ciemność+",
+        "ciemności"
+      ],
+      "DESCRIPTION": "Sfera: Zwiększa obrażenia w każdej turze. #yWyładowanie zadaje obrażenia przeciwnikowi z najmniejszą liczbą PŻ."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plazma",
+        "plazma+",
+        "plazmy",
+        "plazmę"
+      ],
+      "DESCRIPTION": "Sfera: Zyskujesz energię."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "przywołanie",
+        "przywołaj",
+        "przywołanych",
+        "przywołasz",
+        "przywołany",
+        "przywołano",
+        "przywołaną",
+        "przywołane",
+        "przywołać"
+      ],
+      "DESCRIPTION": "Umieszcza Sferę w pierwszym pustym miejscu. Jeżeli nie masz już miejsca, twoja pierwsza Sfera zostaje #yWyładowana."
+    },
     "TODO": {
       "NAMES": [
         "todo",
@@ -202,67 +279,6 @@
     },
     "TEXT": [
       "Energia jest używana do zagrywania kart z ręki."
-    ],
-    "VOID": {
-      "NAMES": [
-        "void",
-        "voids"
-      ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
-    },
-    "FOCUS": {
-      "NAMES": [
-        "focus"
-      ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "evoke",
-        "evoked"
-      ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
-    },
-    "PLASMA": {
-      "NAMES": [
-        "plasma",
-        "plasma+"
-      ],
-      "DESCRIPTION": "Orb: Gains Energy."
-    },
-    "CHANNEL": {
-      "NAMES": [
-        "channel",
-        "channeled"
-      ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
-    },
-    "DARK": {
-      "NAMES": [
-        "dark",
-        "dark+"
-      ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
-    },
-    "OPENER": {
-      "NAMES": [
-        "opener"
-      ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "lightning",
-        "lightning+"
-      ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
-    },
-    "FROST": {
-      "NAMES": [
-        "frost",
-        "frost+"
-      ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
-    }
+    ]
   }
 }

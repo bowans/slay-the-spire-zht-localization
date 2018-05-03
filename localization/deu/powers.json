@@ -148,7 +148,7 @@
   "Demon Form": {
     "NAME": "Dämonengestalt",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, erhältst du #b",
+      "Zu Beginn deines Zuges erhältst du #b",
       " #yStärke."
     ]
   },
@@ -187,7 +187,7 @@
   "Draw": {
     "NAME": "Ziehen",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, ziehe #b",
+      "Ziehe zu Beginn deines Zuges #b",
       " zusätzliche Karte.",
       " Karte weniger.",
       " zusätzliche Karten.",
@@ -324,7 +324,7 @@
   "Infinite Blades": {
     "NAME": "Zahllose Klingen",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, erhältst du #b",
+      "Zu Beginn deines Zuges erhältst du #b",
       " #yMesser.",
       " #yMesser."
     ]
@@ -396,7 +396,7 @@
   "Next Turn Block": {
     "NAME": "Blocken im nächsten Zug",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, erhältst du #b",
+      "Zu Beginn deines Zuges erhältst du #b",
       " #yBlock."
     ]
   },
@@ -407,9 +407,9 @@
     ]
   },
   "Noxious Fumes": {
-    "NAME": "Ätzende Dämpfe",
+    "NAME": "Giftige Dämpfe",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, wendest du #b",
+      "Wende zu Beginn deines Zuges #b",
       " #yGift auf ALLE Gegner an."
     ]
   },
@@ -448,7 +448,7 @@
   "Poison": {
     "NAME": "Gift",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, verlierst du #b",
+      "Zu Beginn deines Zuges verlierst du #b",
       " TP, dann reduziert sich #yGift um #b1.",
       "Verliert zu Beginn des eigenen Zuges #b"
     ]
@@ -644,7 +644,7 @@
     "NAME": "Berserker",
     "DESCRIPTIONS": [
       "Wenn deine TP unter oder genau #b50% sind, erhältst du ",
-      " wenn dein Zug beginnt."
+      " zu Beginn deines Zuges."
     ]
   },
   "Time Warp": {
@@ -658,7 +658,7 @@
   "Tools Of The Trade": {
     "NAME": "Handwerkszeug",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, ziehe #b",
+      "Ziehe zu Beginn deines Zuges #b",
       " Karte und wirf #b",
       " Karte ab.",
       " Karten und wirf #b",
@@ -751,14 +751,14 @@
   "Bias": {
     "NAME": "Verzerrt",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, verlierst du #b",
+      "Zu Beginn deines Zuges verlierst du #b",
       " #yFokus."
     ]
   },
   "Creative AI": {
     "NAME": "Kreative KI",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, erhältst du #b",
+      "Zu Beginn deines Zuges erhältst du #b",
       " zufällige Macht auf die Hand."
     ]
   },
@@ -766,8 +766,8 @@
     "NAME": "Maschinelles Lernen",
     "DESCRIPTIONS": [
       "Ziehe #b",
-      " zusätzliche Karte, wenn dein Zug beginnt.",
-      " zusätzliche Karten, wenn dein Zug beginnt."
+      " zusätzliche Karte zu Beginn deines Zuges.",
+      " zusätzliche Karten zu Beginn deines Zuges."
     ]
   },
   "Prime": {
@@ -793,18 +793,18 @@
     ]
   },
   "Echo Form": {
-    "NAME": "Echogestalt",
+    "NAME": "Echoform",
     "DESCRIPTIONS": [
-      "Die erste in deinem Zug gespielte Karte wiederholt sich #b",
-      " mal.",
-      " mal."
+      "Die erste in deinem Zug gespielte Karte wird #b",
+      " mal wiederholt.",
+      " mal wiederholt."
     ]
   },
   "Magnetism": {
     "NAME": "Magnetismus",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, erhältst du #b%s zufällige farblose Karten auf die Hand.",
-      "Wenn dein Zug beginnt, erhältst du #b%s zufällige farblose Karten auf die Hand."
+      "Zu Beginn deines Zuges erhältst du #b%s zufällige farblose Karten auf die Hand.",
+      "Zu Beginn deines Zuges erhältst du #b%s zufällige farblose Karten auf die Hand."
     ]
   },
   "Rebound": {
@@ -816,7 +816,7 @@
     ]
   },
   "Conserve": {
-    "NAME": "Bewahren",
+    "NAME": "Speichern",
     "DESCRIPTIONS": [
       "#yEnergie wird in diesem Zug behalten.",
       "#yEnergie wird für die nächsten #b",
@@ -824,7 +824,7 @@
     ]
   },
   "Amplify": {
-    "NAME": "Verstärker",
+    "NAME": "Verstärken",
     "DESCRIPTIONS": [
       "In diesem Zug spielst du die nächste #yMacht doppelt.",
       "In diesem Zug spielst du die nächsten ",
@@ -854,18 +854,18 @@
     ]
   },
   "Buffer": {
-    "NAME": "Speicher",
+    "NAME": "Puffer",
     "DESCRIPTIONS": [
-      "Verhindere den nächsten Verlust von TP.",
+      "Verhindere den nächsten TP-Verlust.",
       "Verhindere die nächsten #b",
-      " Verluste von TP."
+      " TP-Verluste."
     ]
   },
   "Loop": {
     "NAME": "Schleife",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, nutze die passive Fähigkeit deines vordersten Orbs.",
-      "Wenn dein Zug beginnt, nutze die passive Fähigkeit deiner #b",
+      "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs.",
+      "Nutze zu Beginn deines Zuges die passive Fähigkeit deiner #b",
       " vordersten Orbs."
     ]
   },
@@ -878,11 +878,19 @@
     ]
   },
   "Hello": {
-    "NAME": "Hallo",
+    "NAME": "Hallo Welt",
     "DESCRIPTIONS": [
-      "Wenn dein Zug beginnt, erhalte #b",
+      "Erhalte zu Beginn deines Zuges #b",
       " zufällige Gewöhnliche Karte auf die Hand.",
       " zufällige Gewöhnliche Karten auf die Hand."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Fest im Griff",
+    "DESCRIPTIONS": [
+      "Die Orbs #yBlitz und #yDunkelheit treffen diesen Gegner.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }

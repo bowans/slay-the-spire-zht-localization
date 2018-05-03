@@ -21,7 +21,7 @@
     "NAME": "Astrolab",
     "FLAVOR": "Alatka kojom se od zvezda doznaje neprocenjivo znanje.",
     "DESCRIPTIONS": [
-      "Pri uzimanju, izaberi #btri karte, potom ih #ypreobrazi i #ypoboljšaj.",
+      "Pri uzimanju izaberi #btri karte, potom ih #ypreobrazi i #ypoboljšaj.",
       "Izaberi tri karte za "
     ]
   },
@@ -212,6 +212,13 @@
       "Trgovac više ne ostaje bez karata, relikvija, ili napitaka, i njegove cene su umanjene za #b20%."
     ]
   },
+  "Cracked Core": {
+    "NAME": "Napuknuto jezgro",
+    "FLAVOR": "Misteriozna životna sila koja napaja Automatone unutar Tornja. Čini se da je napuknuto.",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, #yprizovi #bjednu #ymunju."
+    ]
+  },
   "Cursed Key": {
     "NAME": "Ukleti ključ",
     "FLAVOR": "Osećaš kako iz ključa zrači zlokobna energija. Moć uvek ima neku cenu.",
@@ -292,7 +299,7 @@
     "NAME": "Otrovno jaje",
     "FLAVOR": "\"Kakvo veličanstveno otkriće! Ovo nalikuje na inertno jaje nekog magičnog stvorenja. Ko ili šta ga je stvorilo?\" - Ranuid",
     "DESCRIPTIONS": [
-      "Svaki put kada dodaš #yveštinu u špil, #ypoboljšaj je."
+      "Svaki put kada dodaš #yumeće u špil, #ypoboljšaj je."
     ]
   },
   "Enchiridion": {
@@ -405,7 +412,7 @@
     "NAME": "Otvarač za pisma",
     "FLAVOR": "Neprirodno oštar.",
     "DESCRIPTIONS": [
-      "Svaki put kada odigraš #btri Veštine u jednom potezu, zadaj #b",
+      "Svaki put kada odigraš #btri umeća u jednom potezu, zadaj #b",
       " štete SVIM neprijateljima."
     ]
   },
@@ -418,9 +425,9 @@
   },
   "Lizard Tail": {
     "NAME": "Gušterov rep",
-    "FLAVOR": "Lažni rep za zamajavanje neprijatelja tokom borbe.",
+    "FLAVOR": "Lažni rep za zamajavanje neprijatelja u borbi.",
     "DESCRIPTIONS": [
-      "Umesto da umreš, zaleči se do #b50% svojih maks. ž. p. (samo jedanput)."
+      "Sledeći put kada bi trebalo da umreš, zaleči se do #b50% svojih maks. ž. p. (radi samo jedanput)."
     ]
   },
   "Magic Flower": {
@@ -465,7 +472,7 @@
     "NAME": "Komplet za prvu pomoć",
     "FLAVOR": "\"Sadrži sve što vam je potrebno! Sprejevi protiv svraba, opekotina, otrova, i još!\"",
     "DESCRIPTIONS": [
-      "#yStanja se sada mogu odigrati. Odigravanje #ystanja ih #yiscrpljuje."
+      "#yStanja se sada mogu odigrati. Odigrana #ystanja se #yiscrpljuju."
     ]
   },
   "Membership Card": {
@@ -550,8 +557,8 @@
     "NAME": "Čudnovato gladak kamen",
     "FLAVOR": "Nikad nisi video nešto tako glatko i besprekorno. Ovo mora da je delo Drevnih.",
     "DESCRIPTIONS": [
-      "Na početku svake borbe, zadobi #b",
-      " #yokretnost."
+      "Započni svaku borbu sa #b",
+      " #yokretnošću."
     ]
   },
   "Odd Mushroom": {
@@ -673,7 +680,7 @@
     "NAME": "Upitna karta",
     "FLAVOR": "\"Oni sa više izbora umanjuju nedostatke haosa.\" - Kublaj Veliki",
     "DESCRIPTIONS": [
-      "Pri budućim odabirima nagradne karte, u izboru imaš još #yjednu #ydodatnu #ykartu."
+      "Pri odabiru nagradne karte u izboru imaš još #yjednu #ydodatnu #ykartu. Ne važi za sobu u kojoj je relikvija pokupljena."
     ]
   },
   "Red Circlet": {
@@ -791,7 +798,7 @@
     "NAME": "Zmijkovo oko",
     "FLAVOR": "Oko palog zmijka. Veće nego što si mislio.",
     "DESCRIPTIONS": [
-      "Vuci #bdve dodatne karte svaki potez. Počinješ svaku borbu #yzbunjen."
+      "Vuci #bdve dodatne karte svaki potez. Svaku borbu počinješ #yzbunjen."
     ]
   },
   "Snake Skull": {
@@ -857,7 +864,7 @@
     "FLAVOR": "U prošlosti, Železni bi se duhovno štitili koristeći magijsku ratnu boju pre juriša u bitku.",
     "DESCRIPTIONS": [
       "Po uzimanju, #ypobošljaj #b",
-      " nasumične #yveštine."
+      " nasumična #yumeća."
     ]
   },
   "Darkstone Periapt": {
@@ -1028,20 +1035,20 @@
     "NAME": "Vajra",
     "FLAVOR": "Ukrasna relikvija darovana ratnicima koji su se proslavili u bici.",
     "DESCRIPTIONS": [
-      "Na početku svake borbe, dodaj #b",
-      " na #ysnagu."
+      "Započni svaku borbu sa #b",
+      " #ysnagom."
     ]
   },
   "Velvet Choker": {
     "NAME": "Somotni okovratnik",
     "FLAVOR": "\"Neverovatna moć, ali previše ograničena.\" - Kublaj Veliki",
     "DESCRIPTIONS": [
-      "Ne može da odigraš više od #b",
+      "Ne možeš da odigraš više od #b",
       " karata po potezu.",
       "Zadobi [R] na početku svakog poteza. ",
       "Zadobi [G] na početku svakog poteza. ",
       "Zadobi [B] na početku svakog poteza. ",
-      "Mogu da odigram samo još NL #r"
+      "Mogu da odigram samo NL #r"
     ]
   },
   "Lee's Waffle": {
@@ -1083,19 +1090,32 @@
       "Napici se sada uvek pojavljuju kao deo plena posle borbe."
     ]
   },
+  "Inserter": {
+    "NAME": "Manipulator",
+    "FLAVOR": "Guraj. Vuci. Niži. Ponavljaj.",
+    "DESCRIPTIONS": [
+      "Svaka #bdva kruga, zadobi #bjedno sferno polje."
+    ]
+  },
   "Symbiotic Virus": {
     "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit of #rbad can do a lot of #ggood...",
+    "FLAVOR": "A little bit of bad can do a lot of good...",
     "DESCRIPTIONS": [
       "At the start of each combat, #yChannel #b1 #yDark."
     ]
   },
-  "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
+  "Nuclear Battery": {
+    "NAME": "Nuclear Battery",
+    "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yFocus."
+      "At the start of each combat, #yChannel #b1 #yPlasma."
+    ]
+  },
+  "Cables": {
+    "NAME": "Zlatni kablovi",
+    "FLAVOR": "\"Interesantno! Čak su i automatoni podložni placebu.\" - Ranuid",
+    "DESCRIPTIONS": [
+      "Tvoja glavna sfera izvršava svoju pasivnu sposobnost još jedan dodatni put."
     ]
   },
   "Emotion Chip": {
@@ -1105,46 +1125,26 @@
       "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
     ]
   },
-  "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
-    "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
-    ]
-  },
   "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
+    "NAME": "Runski kondenzator",
+    "FLAVOR": "Više je bolje.",
     "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
+      "Započni svaku borbu sa #btri dodatna sferna polja."
     ]
   },
-  "Inserter": {
-    "NAME": "Inserter",
-    "FLAVOR": "Missing.",
+  "DataDisk": {
+    "NAME": "Data Disk",
+    "FLAVOR": "This disk contains precious data on birds and snakes.",
     "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
+      "Start each combat with #b",
+      " #yFocus."
     ]
   },
-  "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+  "Turnip": {
+    "NAME": "Repa",
+    "FLAVOR": "Najbolje sa đumbirom.",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
-    ]
-  },
-  "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
-    ]
-  },
-  "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
-    "FLAVOR": "Ooooh...",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
+      "Više ne možeš biti #yoronuo."
     ]
   }
 }

@@ -988,15 +988,17 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Power played this combat.",
+    "DESCRIPTION": "Deal damage to ALL enemies equal to !M! times the number of Powers played this combat.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL Exhaust.",
-      " NL Deals !D! damage."
+      " NL (Deals !D! damage)."
     ]
   },
   "Static Discharge": {
     "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning.",
+    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Overclock": {
     "NAME": "Overclock",
@@ -1099,7 +1101,7 @@
     "DESCRIPTION": "Evoke your next Orb 2 times."
   },
   "Redo": {
-    "NAME": "Redo",
+    "NAME": "Recursion",
     "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
   },
   "Rainbow": {
@@ -1205,8 +1207,8 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Deal damage equal to twice the Frost Channeled this combat to ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies.",
+    "DESCRIPTION": "Deal damage equal to !M! times the Frost Channeled this combat to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Deals !D! damage.)",
       ""
@@ -1241,6 +1243,22 @@
   },
   "Scrape": {
     "NAME": "Scrape",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard all cards drawn this way that do not cost 0."
+  },
+  "Reprieve": {
+    "NAME": "Reprieve",
+    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTION": "Deal !D! damage. NL For the next !M! turns, Lightning and Dark Orbs target this enemy."
+  },
+  "Consume": {
+    "NAME": "Consume",
+    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

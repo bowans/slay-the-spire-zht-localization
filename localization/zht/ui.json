@@ -190,7 +190,7 @@
       "格擋",
       "鐵衛士",
       "寂靜獵手",
-      "烏鴉機器人"
+      "故障機器人"
     ]
   },
   "AbstractCreature": {
@@ -205,7 +205,7 @@
   "TopPanel": {
     "TEXT": [
       "層",
-      " - 攫升模式 ",
+      " - 進階模式 ",
       " （最大等級）"
     ]
   },
@@ -513,7 +513,7 @@
       "NL NL 垂直同步",
       "測試玩家繪製畫風模式",
       "顯示快速選牌按鍵",
-      "Input Settings"
+      "操作設定"
     ]
   },
   "SettingsScreen": {
@@ -629,11 +629,11 @@
       "啟程",
       "鐵衛士",
       "寂靜獵手",
-      "烏鴉機器人",
+      "故障機器人",
       "返回",
-      "攫升",
+      "進階",
       "等級 ",
-      "攫升模式",
+      "進階模式",
       "隨著勝利次數增多，難度也會進一步提升……（不會影響連勝）",
       "種子碼",
       "隨機種子碼",
@@ -823,7 +823,7 @@
     "TEXT": [
       "鐵衛士",
       "寂靜獵手",
-      "3rd Char. DO NOT TRANSLATE",
+      "故障機器人",
       "過去20局遊戲的平均層數",
       "過去20局遊戲的平均分數",
       "最多連勝",
@@ -875,13 +875,13 @@
   },
   "DeathScreenUi": {
     "TEXT": [
-      "攫升模式等級 ",
+      "進階模式等級 ",
       " 解鎖！"
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "攫升模式等級 ",
+      "進階模式等級 ",
       " 解鎖！"
     ]
   },
@@ -889,10 +889,10 @@
     "TEXT": [
       "鐵衛士",
       "寂靜獵手",
-      "",
+      "故障機器人",
       "返回",
       "沒有找到歷史記錄。 NL 還不去爬個塔先！",
-      "攫升等級： ",
+      "進階等級： ",
       "在 %1$d 層 死於 %2$s",
       "在 %d 層 放棄",
       "勝利！",
@@ -915,9 +915,9 @@
       "勝利",
       "失敗",
       "每日挑戰",
-      "任意遊戲模式",
+      "任意模式",
       "僅普通模式",
-      "僅攫升模式",
+      "僅進階模式",
       "僅每日挑戰模式",
       "種子碼： %s",
       "自訂種子碼： %s"
@@ -961,7 +961,7 @@
       "每日挑戰",
       "",
       "每天會有一次全新的挑戰。\n\n和其他玩家一起比拼最高分吧！",
-      "攫升模式",
+      "進階模式",
       "",
       "每一次勝利都會讓高塔變得更加強大。\n\n真金不怕火煉，在這裡測試你的極限。",
       "卡牌總覽",
@@ -982,12 +982,12 @@
       "歷史記錄",
       "",
       "查看你此前各局遊戲的概要。",
-      "遊戲設定",
+      "遊戲選項",
       "",
       "改變遊戲的解析度和其他各種設定。",
       "操作設定",
       "",
-      "這個功能還沒做好。",
+      "更改操作方式和快速鍵。",
       "製作名單",
       "",
       "來看一看所有為遊戲作出貢獻的人們！",
@@ -1037,51 +1037,72 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
+      "操作設定",
+      "遊戲選項",
+      "返回",
+      "指令",
+      "鍵盤",
+      "控制器（目前還沒有做好）",
+      "重置為預設值",
+      "確認",
+      "取消/退出",
+      "地圖",
+      "牌組",
+      "抽牌堆",
+      "棄牌堆",
+      "消耗堆",
+      "結束回合",
+      "左",
+      "右",
+      "選擇牌 #1",
+      "選擇牌 #2",
+      "選擇牌 #3",
+      "選擇牌 #4",
+      "選擇牌 #5",
+      "選擇牌 #6",
+      "選擇牌 #7",
+      "選擇牌 #8",
+      "選擇牌 #9",
+      "選擇牌 #10"
     ]
   },
   "InputKeyNames": {
     "TEXT_DICT": {
       "Escape": "ESC",
       "Forward Delete": "Delete",
-      "Delete": "Backspace"
+      "Delete": "Backspace（倒退鍵）"
     }
   },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "丟棄"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "選擇一張牌放到你抽牌堆的頂端。",
+      "選擇將牌放到你抽牌堆的頂端。"
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a Card to Add to Your Hand",
+      "Choose Cards to Add to Your Hand"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
     ]
   }
 }

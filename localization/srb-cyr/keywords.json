@@ -16,6 +16,16 @@
       ],
       "DESCRIPTION": "Спречава штету до следећег потеза."
     },
+    "EVOKE": {
+      "NAMES": [
+        "активација",
+        "активирај",
+        "активирао",
+        "активирану",
+        "активиране"
+      ],
+      "DESCRIPTION": "Потроши своју прву сферу с десна како би искористио њен активациони ефекат."
+    },
     "CURSE": {
       "NAMES": [
         "клетва",
@@ -52,11 +62,24 @@
       ],
       "DESCRIPTION": "Прва рука гарантовано садржи ову карту."
     },
+    "FOCUS": {
+      "NAMES": [
+        "потентност",
+        "потентности"
+      ],
+      "DESCRIPTION": "Потентност повећава ефективност #yпризваних сфера."
+    },
     "LOCKED": {
       "NAMES": [
         "недоступна"
       ],
       "DESCRIPTION": "Ова карта тек треба да се откључа."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
     },
     "POISON": {
       "NAMES": [
@@ -120,6 +143,13 @@
         "побољшаних"
       ],
       "DESCRIPTION": "Побољшавање карата их чини моћнијим. Карте се могу побољшати само једанпут."
+    },
+    "VOID": {
+      "NAMES": [
+        "ништавило",
+        "ништавила"
+      ],
+      "DESCRIPTION": "Ништавила су неодигрива стања која одузимају енергију при вучењу."
     },
     "VULNERABLE": {
       "NAMES": [
@@ -185,6 +215,62 @@
       ],
       "DESCRIPTION": "Смањује СВУ примљену штету и губитак ж. п. на #b1."
     },
+    "LIGHTNING": {
+      "NAMES": [
+        "муња",
+        "муња+",
+        "муњу",
+        "муњу+",
+        "муње",
+        "муње+"
+      ],
+      "DESCRIPTION": "Сфера која наноси штету насумичним непријатељима."
+    },
+    "FROST": {
+      "NAMES": [
+        "мраз",
+        "мраз+",
+        "мраза",
+        "мраза+",
+        "мразова",
+        "мразова+"
+      ],
+      "DESCRIPTION": "Сфера која даје #yодбрану."
+    },
+    "DARK": {
+      "NAMES": [
+        "тама",
+        "тама+",
+        "таму",
+        "таму+",
+        "таме",
+        "таме+"
+      ],
+      "DESCRIPTION": "Сфера која повећава своју штетност сваки круг. При #yактивацији, наноси штету непријатељу који има најмање ж. п."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "плазма",
+        "плазма+",
+        "плазму",
+        "плазму+",
+        "плазме",
+        "плазме+",
+        "плазмом"
+      ],
+      "DESCRIPTION": "Сфера која даје енергију."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "призивање",
+        "призови",
+        "призване",
+        "призвану",
+        "призваних",
+        "призовеш"
+      ],
+      "DESCRIPTION": "Призивањем сфере је ствараш у првом празном пољу. Ако немаш празних поља, твоја главна сфера се аутоматски #yактивира како би направила места."
+    },
     "TODO": {
       "NAMES": [
         "todo",
@@ -197,67 +283,6 @@
     },
     "TEXT": [
       "Енергија се користи за одигравање карата из руке."
-    ],
-    "CHANNEL": {
-      "NAMES": [
-        "channel",
-        "channeled"
-      ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
-    },
-    "FOCUS": {
-      "NAMES": [
-        "focus"
-      ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
-    },
-    "FROST": {
-      "NAMES": [
-        "frost",
-        "frost+"
-      ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "lightning",
-        "lightning+"
-      ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
-    },
-    "OPENER": {
-      "NAMES": [
-        "opener"
-      ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "evoke",
-        "evoked"
-      ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
-    },
-    "VOID": {
-      "NAMES": [
-        "void",
-        "voids"
-      ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
-    },
-    "PLASMA": {
-      "NAMES": [
-        "plasma",
-        "plasma+"
-      ],
-      "DESCRIPTION": "Orb: Gains Energy."
-    },
-    "DARK": {
-      "NAMES": [
-        "dark",
-        "dark+"
-      ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
-    }
+    ]
   }
 }

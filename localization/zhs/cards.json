@@ -886,7 +886,7 @@
   },
   "Rip and Tear": {
     "NAME": "狂乱撕扯",
-    "DESCRIPTION": "对一名随机敌人造成 !D! 点伤害 !M! 次。"
+    "DESCRIPTION": "随机对敌人造成 !D! 点伤害 !M! 次。"
   },
   "Zap": {
     "NAME": "电击",
@@ -908,7 +908,7 @@
   },
   "Double Energy": {
     "NAME": "双倍能量",
-    "DESCRIPTION": "将你的 能量 翻倍。 NL 消耗。",
+    "DESCRIPTION": "将你的 能量 翻倍。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "将你的 能量 翻倍。"
   },
   "Go for the Eyes": {
@@ -1045,7 +1045,7 @@
   },
   "Rebound": {
     "NAME": "弹回",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 你在这个回合打出的下一张牌将会被放置到抽牌堆的顶部。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你在这个回合打出的下一张牌将会被放置到抽牌堆的顶部。 （只限会移入弃牌堆的牌）"
   },
   "Capacitor": {
     "NAME": "扩容",
@@ -1100,7 +1100,7 @@
   },
   "Streamline": {
     "NAME": "精简改良",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 你每打出一次 精简改良 ，它在这场战斗中的耗能就减少 !M! 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 这张牌每被打出一次，它在这场战斗中的耗能就减少 !M! 。"
   },
   "All For One": {
     "NAME": "万物一心",
@@ -1141,7 +1141,8 @@
   },
   "Static Discharge": {
     "NAME": "静电释放",
-    "DESCRIPTION": "每当你受到攻击伤害时， 生成 !M! 个 闪电 充能球。"
+    "DESCRIPTION": "每当你受到攻击伤害时， 生成 !M! 个 闪电 充能球。",
+    "UPGRADE_DESCRIPTION": "每当你受到攻击伤害时， 生成 !M! 个 闪电 充能球。"
   },
   "Ice Wall": {
     "NAME": "冰墙",
@@ -1154,8 +1155,8 @@
   },
   "Blizzard": {
     "NAME": "暴雪",
-    "DESCRIPTION": "对所有敌人造成你在这场战斗中 生成 过的 冰霜 充能球总数两倍的伤害。",
-    "UPGRADE_DESCRIPTION": "对所有敌人造成你在这场战斗中 生成 过的 冰霜 充能球总数 !M! 倍的伤害。",
+    "DESCRIPTION": "对所有敌人造成你在这场战斗中 生成 过的 冰霜 充能球总数 !M! 倍的伤害。",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL （造成 !D! 点伤害。）",
       ""
@@ -1185,7 +1186,7 @@
     "DESCRIPTION": "获得 !B! 点 格挡 。"
   },
   "Redo": {
-    "NAME": "重复",
+    "NAME": "递归",
     "DESCRIPTION": "激发 你最右侧的充能球。 NL 然后 生成 一个刚才被 激发 的充能球。"
   },
   "White Noise": {
@@ -1197,8 +1198,9 @@
     "DESCRIPTION": "对所有敌人造成你在这场战斗中打出过的能力牌总数乘以 !M! 的伤害。",
     "EXTENDED_DESCRIPTION": [
       " NL 消耗 。",
-      " NL 造成 !D! 点伤害。"
-    ]
+      " NL （造成 !D! 点伤害。）"
+    ],
+    "UPGRADE_DESCRIPTION": ""
   },
   "Sunder": {
     "NAME": "分离",
@@ -1242,5 +1244,21 @@
   "Scrape": {
     "NAME": "刮削",
     "DESCRIPTION": "造成 !D! 伤害。 NL 抽 !M! 张牌。 NL 丢弃抽到的牌中耗能不为0的牌。"
+  },
+  "Reprieve": {
+    "NAME": "延缓",
+    "DESCRIPTION": "如果一名敌人的意图不是攻击，获得 !M! 点 集中 。"
+  },
+  "Lockon": {
+    "NAME": "跟踪锁定",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 在接下来的 !M! 回合中，所有 闪电 和 黑暗 充能球将以这名敌人为目标。"
+  },
+  "Consume": {
+    "NAME": "耗尽",
+    "DESCRIPTION": "获得 !M! 点 集中 。 NL 失去 1 个充能球栏位。"
+  },
+  "BootSequence": {
+    "NAME": "启动流程",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 固有 。 NL 消耗 。"
   }
 }

@@ -406,7 +406,7 @@
   },
   "ReprogramAction": {
     "TEXT": [
-      "abwirfst"
+      "Wähle Karten, die du abwirfst"
     ]
   },
   "GamblingChipAction": {
@@ -417,6 +417,22 @@
   "RetainCardsAction": {
     "TEXT": [
       "behältst"
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "erschöpfst"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du auf die Hand nimmst",
+      "Wähle Karten, die du auf die Hand nimmst"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Dieser Gegner beabsichtigt anzugreifen!"
     ]
   },
   "AbandonRunButton": {
@@ -591,8 +607,8 @@
     "TEXT": [
       "Aggressiv",
       "Dieser Gegner beabsichtigt, NL für #b",
-      " Schaden #yanzugreifen (#b",
-      " Mal).",
+      " Schaden #yanzugreifen ( #b",
+      " mal).",
       "Dieser Gegner beabsichtigt, NL für #b",
       " Schaden #yanzugreifen.",
       "Aggressiv",
@@ -601,7 +617,7 @@
       "Dieser Gegner beabsichtigt, einen #yBuff einzusetzen und für #b",
       "Strategisch",
       "Dieser Gegner beabsichtigt, einen #ynegativen #yEffekt auf dich zu wirken und für #b",
-      "Dieser Gegner beabsichtigt, zu #yBlocken und für #b",
+      "Dieser Gegner beabsichtigt, zu #yblocken und für #b",
       "Defensiv",
       "Feige",
       "Magisch",
@@ -611,14 +627,14 @@
       "Dieser Gegner beabsichtigt, einen #yBuff einzusetzen.",
       "Dieser Gegner beabsichtigt, einen #ynegativen #yEffekt auf dich zu wirken.",
       "Dieser Gegner beabsichtigt, einen mächtigen #ynegativen #yEffekt auf dich zu wirken.",
-      "Dieser Gegner beabsichtigt, in seinem Zug zu #yBlocken.",
-      "Dieser Gegner beabsichtigt, zu #yBlocken und einen #ynegativen #yEffekt auf dich zu wirken.",
-      "Dieser Gegner beabsichtigt, zu #yBlocken und einen #yBuff einzusetzen.",
+      "Dieser Gegner beabsichtigt, in seinem Zug zu #yblocken.",
+      "Dieser Gegner beabsichtigt, zu #yblocken und einen #ynegativen #yEffekt auf dich zu wirken.",
+      "Dieser Gegner beabsichtigt, zu #yblocken und einen #yBuff einzusetzen.",
       "Dieser Gegner beabsichtigt, zu #yfliehen.",
       "Dieser Gegner beabsichtigt, in seinem Zug mysteriöse #yMagie einzusetzen.",
       "Dieser Gegner schläft.",
       "Dieser Gegner ist in seinem Zug #ybetäubt.",
-      "Die Absichten dieses Gegners sind #yUnbekannt (wird nicht angreifen).",
+      "Die Absichten dieses Gegners sind #yunbekannt (wird nicht angreifen).",
       "Geblockt"
     ]
   },
@@ -1082,6 +1098,11 @@
   "HiddenChamberAction": {
     "TEXT": [
       ""
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du zurück auf deine Hand nimmst."
     ]
   }
 }

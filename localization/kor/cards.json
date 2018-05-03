@@ -912,7 +912,7 @@
     "UPGRADE_DESCRIPTION": "에너지 를 두배로 만듭니다."
   },
   "Go for the Eyes": {
-    "NAME": "눈 찌르기",
+    "NAME": "눈 할퀴기",
     "DESCRIPTION": "피해를 !D! 줍니다. 적이 공격할 의도가 있다면 약화 를 !M! 부여합니다."
   },
   "Flux Capacitor": {
@@ -955,14 +955,14 @@
     "DESCRIPTION": "카드를 !M! 장 뽑습니다."
   },
   "Heatsinks": {
-    "NAME": "히트싱크",
+    "NAME": "방열",
     "DESCRIPTION": "파워 카드를 낼 때마다 카드를 !M! 장 뽑습니다.",
     "UPGRADE_DESCRIPTION": "파워 카드를 낼 때마다 카드를 !M! 장 뽑습니다."
   },
   "Darkness": {
     "NAME": "어둠",
-    "DESCRIPTION": "약화 를 !M! 부여합니다. 암흑 을 !M! 번 영창 합니다.",
-    "UPGRADE_DESCRIPTION": "약화 를 !M! 부여합니다. 취약 을 !M! 부여합니다. 암흑 을 !M! 번 영창 합니다."
+    "DESCRIPTION": "암흑 을 !M! 번 영창 합니다.",
+    "UPGRADE_DESCRIPTION": "암흑 을 !M! 번 영창 합니다."
   },
   "Dualcast": {
     "NAME": "이중 시전",
@@ -1048,7 +1048,7 @@
     "DESCRIPTION": "피해를 !D! 줍니다. 이번 턴에 사용하는 다음 카드를 뽑을 카드 더미의 맨 위에 놓습니다."
   },
   "Capacitor": {
-    "NAME": "커패시터",
+    "NAME": "축전기",
     "DESCRIPTION": "구체 슬롯 !M! 개를 얻습니다.",
     "UPGRADE_DESCRIPTION": "구체 슬롯 !M! 개를 얻습니다."
   },
@@ -1058,8 +1058,8 @@
   },
   "Stack": {
     "NAME": "스택",
-    "DESCRIPTION": "버린 카드 더미에 있는 카드의 수만큼 방어도를 얻습니다. NL 소멸",
-    "UPGRADE_DESCRIPTION": "버린 카드 더미에 있는 카드의 수만큼 방어도를 얻습니다.",
+    "DESCRIPTION": "버린 카드 더미에 있는 카드의 수만큼 방어도를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "버린 카드 더미에 있는 카드의 수에 3을 더한 만큼 방어도를 얻습니다.",
     "EXTENDED_DESCRIPTION": [
       " NL ( 방어도 를 !B! 얻습니다.)"
     ]
@@ -1082,7 +1082,7 @@
     "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 암흑 을 !M! 번 영창 합니다."
   },
   "Thunder Strike": {
-    "NAME": "전격",
+    "NAME": "전류 타격",
     "DESCRIPTION": "이번 전투에서 영창된 전기 하나당 무작위 적에게 피해를 !D! 줍니다.",
     "EXTENDED_DESCRIPTION": [
       " (전기 를 !M! 번 영창 했습니다.)"
@@ -1099,8 +1099,8 @@
     "UPGRADE_DESCRIPTION": "전기 를 X+1 번 영창 합니다. NL 소멸"
   },
   "Streamline": {
-    "NAME": "간소화",
-    "DESCRIPTION": "피해를 !D! 줍니다. NL 간소화 카드를 사용할 때마다 이번 전투 동안 이 카드의 비용이 !M! 감소합니다."
+    "NAME": "최적화",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이 카드를 사용할 때마다 이번 전투 동안 이 카드의 비용이 !M! 감소합니다."
   },
   "All For One": {
     "NAME": "하나를 위한 모두",
@@ -1111,8 +1111,8 @@
     "DESCRIPTION": "deprecated"
   },
   "Gash": {
-    "NAME": "깊은 자상",
-    "DESCRIPTION": "피해를 !D! 줍니다. NL 이번 전투에서 모든 깊은 자상 카드의 피해량이 !M! 증가합니다."
+    "NAME": "후벼 파기",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이번 전투 동안 모든 후벼 파기 카드의 피해량이 !M! 증가합니다."
   },
   "Axe Kick": {
     "NAME": "엑스 킥",
@@ -1132,7 +1132,7 @@
     "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 영창된 구체 하나당 [B] 를 얻습니다. NL 소멸"
   },
   "Biased Cognition": {
-    "NAME": "편견",
+    "NAME": "인지적 편향",
     "DESCRIPTION": "밀집 을 !M! 얻습니다. NL 내 턴 시작 시 밀집 을 1 잃습니다."
   },
   "Beam Cell": {
@@ -1141,7 +1141,8 @@
   },
   "Static Discharge": {
     "NAME": "정전기 방전",
-    "DESCRIPTION": "공격 피해를 받을 때마다 전기 를 !M! 번 영창 합니다."
+    "DESCRIPTION": "공격 피해를 받을 때마다 전기 를 !M! 번 영창 합니다.",
+    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Ice Wall": {
     "NAME": "deprecated",
@@ -1185,7 +1186,7 @@
     "DESCRIPTION": "방어도 를 !B! 얻습니다."
   },
   "Redo": {
-    "NAME": "다시하기",
+    "NAME": "재귀",
     "DESCRIPTION": "가장 오른쪽의 구체를 발현 합니다. NL 발현 된 구체를 영창 합니다."
   },
   "White Noise": {
@@ -1197,8 +1198,9 @@
     "DESCRIPTION": "이번 전투에서 사용된 파워 카드 한장당 적 전체에게 피해를 !M! 줍니다.",
     "EXTENDED_DESCRIPTION": [
       " NL 소멸",
-      " NL 피해를 !D! 줍니다."
-    ]
+      " NL (피해를 !D! 줍니다.)"
+    ],
+    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
   },
   "Sunder": {
     "NAME": "찢기",
@@ -1215,8 +1217,8 @@
   },
   "Echo Form": {
     "NAME": "메아리",
-    "DESCRIPTION": "매 턴 처음 사용하는 카드가 두 번 사용됩니다.",
-    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
+    "DESCRIPTION": "매 턴 처음 사용하는 카드가 두 번 사용됩니다. NL 휘발성",
+    "UPGRADE_DESCRIPTION": "매 턴 처음 사용하는 카드가 두 번 사용됩니다."
   },
   "Force Field": {
     "NAME": "전자기장",
@@ -1240,7 +1242,23 @@
     "DESCRIPTION": "deprecated"
   },
   "Scrape": {
-    "NAME": "Scrape",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
+    "NAME": "긁어내기",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 카드를 !M! 장 뽑습니다. NL 그렇게 뽑은 카드 중 비용이 0이 아닌 카드를 모두 버립니다."
+  },
+  "Reprieve": {
+    "NAME": "집행 유예",
+    "DESCRIPTION": "적이 공격할 의도가 없다면 밀집 을 !M! 얻습니다."
+  },
+  "Lockon": {
+    "NAME": "목표 고정",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이번 턴 동안 전기 와 암흑 구체가 이 적을 우선으로 공격합니다."
+  },
+  "Consume": {
+    "NAME": "소비",
+    "DESCRIPTION": "밀집 을 !M! 얻습니다. NL 구체 슬롯을 1 개 잃습니다."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

@@ -34,7 +34,7 @@
   },
   "Dark Shackles": {
     "NAME": "Мрачни окови",
-    "DESCRIPTION": "Смањи снагу непријатеља за !M! до краја тренутног круга. NL Исцрпи."
+    "DESCRIPTION": "Смањи снагу непријатеља за !M! до краја овог круга. NL Исцрпи."
   },
   "Glass Knife": {
     "NAME": "Стаклени нож",
@@ -47,9 +47,9 @@
   },
   "Underhanded Strike": {
     "NAME": "Препредени ударац",
-    "DESCRIPTION": "Нанеси !D! штете. Ако си одбацио карту у тренутном потезу, NL задоби [G] [G].",
+    "DESCRIPTION": "Задај !D! штете. Ако си одбацио карту у овом потезу, NL задоби [G] [G].",
     "EXTENDED_DESCRIPTION": [
-      "I can't play this card."
+      "Не могу да одиграм ову карту."
     ]
   },
   "Anger": {
@@ -87,7 +87,7 @@
   },
   "Exhume": {
     "NAME": "Поврати",
-    "DESCRIPTION": "Пребаци карту NL из гомиле за исцрпљене NL у руку. NL Исцрпи."
+    "DESCRIPTION": "Помери карту NL из гомиле за исцрпљене NL у руку. NL Исцрпи."
   },
   "Power Through": {
     "NAME": "Истрај",
@@ -108,7 +108,7 @@
   },
   "Flex": {
     "NAME": "Напрегнуће",
-    "DESCRIPTION": "Повећај своју снагу за !M!. NL Смањи је за !M! на крају потеза."
+    "DESCRIPTION": "Повећај своју NL снагу за !M!. NL Смањи је за !M! на крају потеза."
   },
   "Dagger Spray": {
     "NAME": "Киша бодежа",
@@ -116,7 +116,7 @@
   },
   "Bullet Time": {
     "NAME": "Замрзни време",
-    "DESCRIPTION": "Све карте у руци су бесплатне током тренутног потеза, али не можеш да вучеш карте."
+    "DESCRIPTION": "Све карте у руци су бесплатне током овог потеза, али не можеш да вучеш карте."
   },
   "Catalyst": {
     "NAME": "Катализатор",
@@ -134,7 +134,7 @@
   "Tactician": {
     "NAME": "Тактика",
     "DESCRIPTION": "Неодигрива. NL Ако је ова карта одбачена из руке, задоби [G].",
-    "UPGRADE_DESCRIPTION": "Неодигрива. NL Ако је ова карта одбачена из руке, задоби [G] [G].",
+    "UPGRADE_DESCRIPTION": "Неодигрива. NL Ако је ова карта одбачена из руке, NL задоби [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Не могу да одиграм ову карту."
     ]
@@ -184,7 +184,7 @@
   },
   "Reckless Charge": {
     "NAME": "Несмотрени јуриш",
-    "DESCRIPTION": "Нанеси !D! штете. NL Убаци ошамућеност у гомилу за вучење."
+    "DESCRIPTION": "Задај !D! штете. NL Убаци ошамућеност у гомилу за вучење."
   },
   "Decay": {
     "NAME": "Распадање",
@@ -233,7 +233,7 @@
   "Body Slam": {
     "NAME": "Налет",
     "DESCRIPTION": "Задај штету једнаку твојој тренутној одбрани.",
-    "UPGRADE_DESCRIPTION": " NL (задај !D! штете.)"
+    "UPGRADE_DESCRIPTION": " NL (Ефективна штета: !D!.)"
   },
   "True Grit": {
     "NAME": "Одлучност",
@@ -241,12 +241,12 @@
     "UPGRADE_DESCRIPTION": "Задоби !B! одбране. NL Исцрпи карту из руке."
   },
   "Setup": {
-    "NAME": "Припрема",
-    "DESCRIPTION": "Стави карту из руке NL на врх гомиле за вучење. NL Биће бесплатна све док се не одигра."
+    "NAME": "Намести",
+    "DESCRIPTION": "Стави карту из руке NL на врх гомиле за вучење. NL Бесплатна је све док се не одигра."
   },
   "Blood for Blood": {
     "NAME": "Крв за крв",
-    "DESCRIPTION": "Сваки пут када изгубиш ж. п. од напада, трошак ове карте се смањује за [R]. Задај !D! штете."
+    "DESCRIPTION": "Трошак ове карте се смањује за [R] сваки пут када изгубиш ж. п. од напада. Задај !D! штете."
   },
   "Impervious": {
     "NAME": "Непробојив",
@@ -269,7 +269,7 @@
   },
   "Flame Barrier": {
     "NAME": "Пламена баријера",
-    "DESCRIPTION": "Задоби !B! одбране. NL Сваки пут кад те неко у тренутном кругу нападне, задај му !M! штете."
+    "DESCRIPTION": "Задоби !B! одбране. NL Сваки пут кад те неко нападне у овом кругу, задај му !M! штете."
   },
   "Endless Agony": {
     "NAME": "Бескрајна агонија",
@@ -362,7 +362,7 @@
   },
   "Rampage": {
     "NAME": "Помахниталост",
-    "DESCRIPTION": "Задај !D! штете, и још !M! за свако претходно одигравање ове карте у тренутној борби."
+    "DESCRIPTION": "Задај !D! штете, и још !M! за свако претх. одигравање ове карте у трен. борби."
   },
   "Bandage Up": {
     "NAME": "Завој",
@@ -425,9 +425,9 @@
   },
   "Finisher": {
     "NAME": "Докрајчи",
-    "DESCRIPTION": "Задај !D! штете за сваки одиграни напад у тренутном потезу.",
+    "DESCRIPTION": "Задај !D! штете за сваки одиграни напад у овом потезу.",
     "EXTENDED_DESCRIPTION": [
-      " NL (одиграо си ",
+      " NL (Одиграо си ",
       " напад.)",
       " напада.)"
     ]
@@ -454,8 +454,8 @@
     "DESCRIPTION": "Задоби !B! одбране."
   },
   "Defend_B": {
-    "NAME": "",
-    "DESCRIPTION": ""
+    "NAME": "Одбрана",
+    "DESCRIPTION": "Задоби !B! одбране."
   },
   "Seeing Red": {
     "NAME": "Инат",
@@ -528,11 +528,11 @@
   },
   "Corruption": {
     "NAME": "Подлост",
-    "DESCRIPTION": "Умећа су бесплатна. NL Сваки пут када одиграш умеће, Исцрпи га."
+    "DESCRIPTION": "Умећа су бесплатна. NL Сваки пут када одиграш умеће, исцрпи га."
   },
   "Heel Hook": {
     "NAME": "Захват",
-    "DESCRIPTION": "Нанеси !D! штете. NL Ако је непријатељ ослабљен, задоби [G] и вуци једну карту."
+    "DESCRIPTION": "Задај !D! штете. NL Ако је непријатељ ослабљен, задоби [G] и вуци једну карту."
   },
   "Injury": {
     "NAME": "Повреда",
@@ -540,11 +540,11 @@
   },
   "Rage": {
     "NAME": "Бес",
-    "DESCRIPTION": "Сваки пут када у тренутном потезу одиграш напад, задоби !M! одбране."
+    "DESCRIPTION": "Сваки пут када у овом потезу одиграш напад, задоби !M! одбране."
   },
   "Headbutt": {
     "NAME": "Набоди",
-    "DESCRIPTION": "Нанеси !D! штете. NL Стави карту из гомиле за одбацивање на гомилу за вучење."
+    "DESCRIPTION": "Задај !D! штете. NL Стави карту из гомиле за одбацивање на гомилу за вучење."
   },
   "Limit Break": {
     "NAME": "Безграничан",
@@ -597,7 +597,7 @@
   },
   "Eviscerate": {
     "NAME": "Пробурази",
-    "DESCRIPTION": "Кошта једну мање [G] за сваку одбачену карту овај потез. Задај !D! штете трипут."
+    "DESCRIPTION": "Кошта [G] мање за сваку одбачену карту у овом потезу. Задај !D! штете три пута."
   },
   "Flash of Steel": {
     "NAME": "Одблесак оштрице",
@@ -642,11 +642,11 @@
   },
   "Panacea": {
     "NAME": "Панацеа",
-    "DESCRIPTION": "Задоби заштиту: !M!. NL Исцрпи."
+    "DESCRIPTION": "Задоби NL заштиту: !M!. NL Исцрпи."
   },
   "Dash": {
     "NAME": "Потрк",
-    "DESCRIPTION": "Задоби !B! одбране. NL Нанеси !D! штете."
+    "DESCRIPTION": "Задоби !B! одбране. NL Задај !D! штете."
   },
   "Transmutation": {
     "NAME": "Преображење",
@@ -708,7 +708,7 @@
     "UPGRADE_DESCRIPTION": "Задоби [R] [R]. NL Изгуби три ж. п."
   },
   "Concentrate": {
-    "NAME": "Усресреди се",
+    "NAME": "Усредсреди се",
     "DESCRIPTION": "Одбаци !M! карте. NL Задоби [G] [G]."
   },
   "Master of Strategy": {
@@ -756,8 +756,8 @@
     "DESCRIPTION": "Задај !D! штете."
   },
   "Normality": {
-    "NAME": "Обичност",
-    "DESCRIPTION": "Неодигрива. NL Не можеш одиграти више од три карте у тренутном потезу.",
+    "NAME": "Онеспособљен",
+    "DESCRIPTION": "Неодигрива. NL Не можеш одиграти више од три карте у једном потезу.",
     "EXTENDED_DESCRIPTION": [
       "Могу да одиграм само до NL #rтри карте овај потез.",
       "Неодигрива. NL Не можеш одиграти више од ",
@@ -800,7 +800,7 @@
     "DESCRIPTION": "Задај штету једнаку броју карату у гомили за вучење.",
     "UPGRADE_DESCRIPTION": "Урођена. NL Задај штету једнаку броју карату у гомили за вучење.",
     "EXTENDED_DESCRIPTION": [
-      " NL (задај штете: !D! )"
+      " NL (Ефективна штета: !D! )"
     ]
   },
   "Ghostly": {
@@ -809,7 +809,7 @@
     "UPGRADE_DESCRIPTION": "Задоби једну неопипљивост. NL Исцрпи."
   },
   "Neutralize": {
-    "NAME": "Онеспособи",
+    "NAME": "Неутралиши",
     "DESCRIPTION": "Задај !D! штете. NL Нанеси !M! слабости."
   },
   "Strike_R": {
@@ -821,8 +821,8 @@
     "DESCRIPTION": "Задај !D! штете."
   },
   "Strike_B": {
-    "NAME": "",
-    "DESCRIPTION": ""
+    "NAME": "Ударац",
+    "DESCRIPTION": "Задај !D! штете."
   },
   "Evolve": {
     "NAME": "Еволуција",
@@ -840,8 +840,8 @@
   },
   "Double Tap": {
     "NAME": "Је'н-два",
-    "DESCRIPTION": "У тренутном потезу, одиграј свој следећи напад двапут.",
-    "UPGRADE_DESCRIPTION": "У тренутном потезу, одиграј своја следећа !M! напада двапут."
+    "DESCRIPTION": "Одиграј свој следећи напад двапут у овом потезу.",
+    "UPGRADE_DESCRIPTION": "Одиграј своја следећа !M! напада двапут у овом потезу."
   },
   "Footwork": {
     "NAME": "Рад ногу",
@@ -854,7 +854,7 @@
   },
   "Distraction": {
     "NAME": "Диверзија",
-    "DESCRIPTION": "Додај насумично умеће у руку. NL Овај потез је бесплатно. NL Исцрпи."
+    "DESCRIPTION": "Додај насумично умеће у руку. NL Бесплатно је овај потез. NL Исцрпи."
   },
   "Dodge and Roll": {
     "NAME": "Колут у страну",
@@ -874,373 +874,391 @@
   },
   "Madness": {
     "NAME": "Лудило",
-    "DESCRIPTION": "Насумична карта из руке је бесплатна до краја ове борбе. NL Исцрпи."
+    "DESCRIPTION": "Насумична карта из руке је бесплатна до краја борбе. NL Исцрпи."
+  },
+  "Rip and Tear": {
+    "NAME": "Изрендај",
+    "DESCRIPTION": "Задај !D! штете насумичном непријатељу !M! пута."
+  },
+  "Multi-Cast": {
+    "NAME": "Вишеструка активација",
+    "DESCRIPTION": "Активирај своју главну сферу X пута.",
+    "UPGRADE_DESCRIPTION": "Активирај своју главну сферу X+1 пута."
+  },
+  "Fission": {
+    "NAME": "Фисија",
+    "DESCRIPTION": "Активирај све своје сфере. Створи једно сферно поље за сваку активирану сферу."
+  },
+  "White Noise": {
+    "NAME": "Бели шум",
+    "DESCRIPTION": "Додај насумичну моћ у руку. NL Овај потез је бесплатна. NL Исцрпи."
+  },
+  "Tempest": {
+    "NAME": "Ураган",
+    "DESCRIPTION": "Призови X муња. NL Исцрпи.",
+    "UPGRADE_DESCRIPTION": "Призови X+1 муња. NL Исцрпи."
+  },
+  "Glacier": {
+    "NAME": "Глечер",
+    "DESCRIPTION": "Задоби !B! одбране. NL Призови !M! мраза.",
+    "UPGRADE_DESCRIPTION": "Задоби !B! одбране. NL Призови !M! мраза."
+  },
+  "Fusion": {
+    "NAME": "Фузија",
+    "DESCRIPTION": "Призови !M! плазму."
+  },
+  "Zap": {
+    "NAME": "Шок",
+    "DESCRIPTION": "Призови !M! муњу."
+  },
+  "Chaos": {
+    "NAME": "Хаос",
+    "DESCRIPTION": "Призови !M! насумичну сферу.",
+    "UPGRADE_DESCRIPTION": "Призови !M! насумичне сфере."
+  },
+  "Reinforced Body": {
+    "NAME": "Ојачана шасија",
+    "DESCRIPTION": "Задоби !B! одбране X пута."
+  },
+  "Reprogram": {
+    "NAME": "Репрограмирај",
+    "DESCRIPTION": "Погледај карте ( !M! ) са врха гомиле за вучење. Одбаци било који број њих."
+  },
+  "Undo": {
+    "NAME": "Исправка",
+    "DESCRIPTION": "Подеси своје ж. п. на вредност из прошлог круга. NL Исцрпи."
+  },
+  "Amplify": {
+    "NAME": "Појачај",
+    "DESCRIPTION": "Твоја следећа моћ се одиграва двапут у овом потезу.",
+    "UPGRADE_DESCRIPTION": "Твоје следеће !M! моћи се одигравају двапут у овом потезу."
+  },
+  "Capacitor": {
+    "NAME": "Кондензатор",
+    "DESCRIPTION": "Створи !M! сферно поље.",
+    "UPGRADE_DESCRIPTION": "Створи !M! сферна поља."
+  },
+  "Energy Pulse": {
+    "NAME": "Енергијски пулс",
+    "DESCRIPTION": "Задоби одбрану једнаку твојој енергији.",
+    "UPGRADE_DESCRIPTION": "Задоби одбрану једнаку двоструко твојој енергији."
+  },
+  "Auto Shields": {
+    "NAME": "Аутоматски штитови",
+    "DESCRIPTION": "Ако немаш одбрану, задоби !B! одбране."
+  },
+  "Double Energy": {
+    "NAME": "Двострука енергија",
+    "DESCRIPTION": "Дуплирај своју енергију. NL Исцрпи.",
+    "UPGRADE_DESCRIPTION": "Дуплирај своју енергију."
+  },
+  "Conserve Battery": {
+    "NAME": "Уштеда батерије",
+    "DESCRIPTION": "Задоби !B! одбране. NL Енергија се преноси у следећи круг."
   },
   "Expertise": {
     "NAME": "Стручност",
     "DESCRIPTION": "Вуци карте све NL док их у руци не будеш имао !M!."
   },
-  "Axe Kick": {
-    "NAME": "Axe Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
+  "Hyperbeam": {
+    "NAME": "Хиперзрак",
+    "DESCRIPTION": "Задај !D! штете СВИМ непријатељима. NL Изгуби !M! потентности."
   },
-  "Conserve Battery": {
-    "NAME": "Conserve Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Energy is conserved for next turn."
+  "Sunder": {
+    "NAME": "Растави",
+    "DESCRIPTION": "Задај !D! штете. NL Ако тиме убијеш непријатеља, задоби [B] [B] [B]."
+  },
+  "Turbo": {
+    "NAME": "ТУРБО",
+    "DESCRIPTION": "Задоби [B] [B]. NL Додај ништавило у гомилу за одбацивање.",
+    "UPGRADE_DESCRIPTION": "Задоби [B] [B] [B]. NL Додај ништавило у гомилу за одбацивање."
+  },
+  "Hologram": {
+    "NAME": "Холограм",
+    "DESCRIPTION": "Задоби !B! одбране. NL Врати насумичну карту из гомиле за одбацивање у руку.",
+    "UPGRADE_DESCRIPTION": "Задоби !B! одбране. NL Врати карту из гомиле за одбацивање у руку."
+  },
+  "Aggregate": {
+    "NAME": "Агрегат",
+    "DESCRIPTION": "Задоби [B] за сваких !M! карата у гомили за вучење."
   },
   "Recycle": {
-    "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost."
+    "NAME": "Рециклирај",
+    "DESCRIPTION": "Исцрпи карту. NL Задоби [B] једнаку њеној цени."
+  },
+  "Nova": {
+    "NAME": "Нова",
+    "DESCRIPTION": "Задај штету СВИМ непријатељима једнаку !M! пута број одиграних моћи у борби.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL Исцрпи.",
+      " NL (Ефективна штета: !D!.)"
+    ]
+  },
+  "Static Discharge": {
+    "NAME": "Статично пражњење",
+    "DESCRIPTION": "Сваки пут када примиш штету од напада, призови !M! муњу.",
+    "UPGRADE_DESCRIPTION": "Сваки пут када примиш штету од напада, призови !M! муње."
+  },
+  "Overclock": {
+    "NAME": "",
+    "DESCRIPTION": "",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Barrage": {
+    "NAME": "Паљба",
+    "DESCRIPTION": "Задај !D! штете за сваку призвану сферу."
+  },
+  "Ice Wall": {
+    "NAME": "",
+    "DESCRIPTION": "",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Cold Snap": {
+    "NAME": "Леденица",
+    "DESCRIPTION": "Задај !D! штете. Призови !M! мраз."
+  },
+  "Ball Lightning": {
+    "NAME": "Лоптаста муња",
+    "DESCRIPTION": "Задај !D! штете. Призови !M! муњу."
+  },
+  "Winter": {
+    "NAME": "",
+    "DESCRIPTION": ""
+  },
+  "Meteor Strike": {
+    "NAME": "Метеор",
+    "DESCRIPTION": "Задај !D! штете. NL Призови !M! плазме."
   },
   "Self Repair": {
-    "NAME": "Self Repair",
-    "DESCRIPTION": "At the end of combat, heal !M! HP."
+    "NAME": "Самооправка",
+    "DESCRIPTION": "На крају борбе, залечи !M! ж. п."
   },
-  "Multi-Cast": {
-    "NAME": "Multi-Cast",
-    "DESCRIPTION": "Evoke your next Orb X times.",
-    "UPGRADE_DESCRIPTION": "Evoke your next Orb X+1 times."
+  "Axe Kick": {
+    "NAME": "Насилна активација",
+    "DESCRIPTION": "Задај !D! штете. NL Активирај своју главну сферу."
   },
-  "Leap": {
-    "NAME": "Leap",
-    "DESCRIPTION": "Gain !B! Block."
+  "Beam Cell": {
+    "NAME": "Зрак",
+    "DESCRIPTION": "Задај !D! штете. Нанеси !M! рањивост."
   },
-  "Rip and Tear": {
-    "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+  "Go for the Eyes": {
+    "NAME": "По очима",
+    "DESCRIPTION": "Задај !D! штете. Ако непријатељ намерава да нападне, нанеси слабост: !M!."
+  },
+  "Gash": {
+    "NAME": "Огреби",
+    "DESCRIPTION": "Задај !D! штете. NL Свака карта са овим именом наноси додатну штету ( !M! ) у борби."
+  },
+  "Darkness": {
+    "NAME": "Тама",
+    "DESCRIPTION": "Призови !M! таму.",
+    "UPGRADE_DESCRIPTION": "Призови !M! таме."
+  },
+  "Machine Learning": {
+    "NAME": "Машинско учење",
+    "DESCRIPTION": "Вуци !M! додатну карту на почетку сваког потеза.",
+    "UPGRADE_DESCRIPTION": "Урођена. NL Вуци !M! додатну карту на почетку сваког потеза."
+  },
+  "Impulse": {
+    "NAME": "Импулс",
+    "DESCRIPTION": "Искористи пасивне ефекте свих својих призваних сфера. NL Исцрпи.",
+    "UPGRADE_DESCRIPTION": "Искористи пасивне ефекте свих својих призваних сфера."
+  },
+  "Skim": {
+    "NAME": "Скенирање",
+    "DESCRIPTION": "Вуци !M! карте."
+  },
+  "Buffer": {
+    "NAME": "Превентивне мере",
+    "DESCRIPTION": "Спречи следеће губљење ж. п.",
+    "UPGRADE_DESCRIPTION": "Спречи следећа !M! губљења ж. п."
+  },
+  "FTL": {
+    "NAME": "Надсветлосном брзином",
+    "DESCRIPTION": "Задај !D! штете. Ако си одиграо мање од !M! карата овај потез, вуци једну карту."
+  },
+  "Echo Form": {
+    "NAME": "Ехо форма",
+    "DESCRIPTION": "Прва карта одиграна сваки потез је одиграна двапут. NL Пролазна.",
+    "UPGRADE_DESCRIPTION": "Прва карта одиграна сваки потез је одиграна двапут."
+  },
+  "Heatsinks": {
+    "NAME": "Хладњаци",
+    "DESCRIPTION": "Сваки пут када одиграш моћ, вуци !M! карту.",
+    "UPGRADE_DESCRIPTION": "Сваки пут када одиграш моћ, вуци !M! карте."
+  },
+  "Genetic Algorithm": {
+    "NAME": "Генетски алгоритам",
+    "DESCRIPTION": "Задоби одбрану: !B!. При одигравању повећај одбрану ове карте за !M! до краја похода. Исцрпи."
   },
   "Melter": {
-    "NAME": "Melter",
-    "DESCRIPTION": "Remove all Block from an enemy. NL Deal !D! damage."
+    "NAME": "Растопи",
+    "DESCRIPTION": "Отклони сву одбрану са непријатеља. NL Задај !D! штете."
   },
-  "Tempest": {
-    "NAME": "Tempest",
-    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
+  "Dualcast": {
+    "NAME": "Двострука активација",
+    "DESCRIPTION": "Активирај своју главну сферу два пута."
+  },
+  "Redo": {
+    "NAME": "Рекурзија",
+    "DESCRIPTION": "Активирај своју главну сферу. NL Призови сферу истог типа."
+  },
+  "Rainbow": {
+    "NAME": "Дуга",
+    "DESCRIPTION": "Призови муњу, мраз и таму. NL Исцрпи.",
+    "UPGRADE_DESCRIPTION": "Призови муњу, мраз и таму."
+  },
+  "Storm": {
+    "NAME": "Олуја",
+    "DESCRIPTION": "Сваки пут када одиграш моћ, призови једну муњу.",
+    "UPGRADE_DESCRIPTION": "Урођена. NL Сваки пут када одиграш моћ, призови једну муњу."
+  },
+  "All For One": {
+    "NAME": "Сви за једног",
+    "DESCRIPTION": "Задај !D! штете. Пребаци све бесплатне карте из гомиле за одбацивање у руку."
+  },
+  "Magnetism": {
+    "NAME": "Магнетизам",
+    "DESCRIPTION": "На почетку сваког потеза, додај насумичну безбојну карту у руку."
+  },
+  "Creative AI": {
+    "NAME": "Вештачка интелигенција",
+    "DESCRIPTION": "На почетку сваког потеза, додај насумичну моћ у руку."
+  },
+  "Defragment": {
+    "NAME": "Оптимизација",
+    "DESCRIPTION": "Задоби NL потентност: !M!."
+  },
+  "Doom and Gloom": {
+    "NAME": "Чемер и пропаст",
+    "DESCRIPTION": "Задај !D! штете СВИМ непријатељима. NL Призови !M! таму."
+  },
+  "Biased Cognition": {
+    "NAME": "Искривљена перцепција",
+    "DESCRIPTION": "Задоби !M! потентности. NL На почетку сваког потеза, изгуби једну потентност."
+  },
+  "Stack": {
+    "NAME": "Гомилање",
+    "DESCRIPTION": "Задоби одбрану једнаку броју карата у гомили за одбацивање.",
+    "UPGRADE_DESCRIPTION": "Задоби одбрану једнаку броју карата у гомили за одбацивање плус три.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Ефективна одбрана: !B!.)"
+    ]
+  },
+  "Thunder Strike": {
+    "NAME": "Громови",
+    "DESCRIPTION": "Задај !D! штете насумичном непријатељу за сваку призвану муњу у борби.",
+    "EXTENDED_DESCRIPTION": [
+      " (Призваних муња: !M!.)"
+    ]
   },
   "Force Field": {
-    "NAME": "Force Field",
-    "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
+    "NAME": "Енергетско поље",
+    "DESCRIPTION": "Кошта једну мање [B] за сваку моћ одиграну у борби. NL Задоби !B! одбране."
   },
-  "Fission": {
-    "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Gain an Orb slot for each Orb Evoked."
+  "Prime": {
+    "NAME": "Подешавања",
+    "DESCRIPTION": "Сваки пут када призовеш сферу, вуци !M! карту."
   },
-  "Chaos": {
-    "NAME": "Chaos",
-    "DESCRIPTION": "Channel !M! random Orb.",
-    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
+  "Cache": {
+    "NAME": "",
+    "DESCRIPTION": ""
+  },
+  "Rebound": {
+    "NAME": "Повратни удар",
+    "DESCRIPTION": "Задај !D! штете. Постави следећу одиграну карту на врх гомиле за вучење."
   },
   "Allocate": {
     "NAME": "Allocate",
     "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
   },
-  "Heatsinks": {
-    "NAME": "Heatsinks",
-    "DESCRIPTION": "Whenever you play a Power card, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Whenever you play a Power card, draw !M! cards."
-  },
-  "Blaster": {
-    "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb. NL Exhaust."
-  },
-  "Hologram": {
-    "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a random card from your discard pile to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
-  },
-  "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTION": "At the start of each turn, add a random Power card to your hand."
-  },
-  "Chill": {
-    "NAME": "Chill",
-    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
-  },
-  "Reprogram": {
-    "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
-  },
-  "Dualcast": {
-    "NAME": "Dualcast",
-    "DESCRIPTION": "Evoke your next Orb 2 times."
-  },
-  "Overclock": {
-    "NAME": "Overclock",
-    "DESCRIPTION": "Deprecated.",
-    "UPGRADE_DESCRIPTION": "Deprecated."
-  },
-  "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTION": "Use the passive effect of all of your Channeled Orbs. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Use the passive effect of all of your Channeled Orbs."
-  },
-  "Reboot": {
-    "NAME": "Reboot",
-    "DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
-  },
   "Streamline": {
-    "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat."
-  },
-  "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTION": "Whenever you Channel an Orb, draw !M! card."
-  },
-  "Static Discharge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
-  },
-  "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTION": "At the start of each turn, add a random colorless card to your hand."
-  },
-  "Double Energy": {
-    "NAME": "Double Energy",
-    "DESCRIPTION": "Double your Energy. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Double your Energy."
-  },
-  "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTION": "This turn, your next Power is played twice.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Powers are played twice."
-  },
-  "Doom and Gloom": {
-    "NAME": "Doom and Gloom",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Channel !M! Dark."
-  },
-  "Coolheaded": {
-    "NAME": "Coolheaded",
-    "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
-  },
-  "Rebound": {
-    "NAME": "Rebound",
-    "DESCRIPTION": "Deal !D! damage. NL Place the next card you play this turn on top of your draw pile."
-  },
-  "Winter": {
-    "NAME": "Winter",
-    "DESCRIPTION": "Deprecated."
-  },
-  "Steam Power": {
-    "NAME": "Steam Power",
-    "DESCRIPTION": "Draw !M! cards. NL Add a Burn into your discard pile."
-  },
-  "Glacier": {
-    "NAME": "Glacier",
-    "DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost."
-  },
-  "Sunder": {
-    "NAME": "Sunder",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills the enemy, gain [B] [B] [B]."
-  },
-  "Reinforced Body": {
-    "NAME": "Reinforced Body",
-    "DESCRIPTION": "Gain !B! Block X times."
-  },
-  "White Noise": {
-    "NAME": "White Noise",
-    "DESCRIPTION": "Add a random Power to your hand. NL It costs 0 this turn. NL Exhaust."
-  },
-  "Turbo": {
-    "NAME": "TURBO",
-    "DESCRIPTION": "Gain [B] [B]. NL Add a Void into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain [B] [B] [B]. NL Add a Void into your discard pile."
-  },
-  "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
-  },
-  "Blizzard": {
-    "NAME": "Blizzard",
-    "DESCRIPTION": "Deal damage equal to twice the Frost Channeled this combat to ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)",
-      ""
-    ]
-  },
-  "Cold Snap": {
-    "NAME": "Cold Snap",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Frost."
-  },
-  "Darkness": {
-    "NAME": "Darkness",
-    "DESCRIPTION": "Apply !M! Weak. NL Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
-  },
-  "Biased Cognition": {
-    "NAME": "Biased Cognition",
-    "DESCRIPTION": "Gain !M! Focus. NL At the start of each turn, lose 1 Focus."
-  },
-  "Beam Cell": {
-    "NAME": "Beam Cell",
-    "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
-  },
-  "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTION": "Prevent the next time you would lose HP.",
-    "UPGRADE_DESCRIPTION": "Prevent the next !M! times you would lose HP."
-  },
-  "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTION": "Draw !M! additional card at the start of each turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! additional card at the start of each turn."
-  },
-  "Aggregate": {
-    "NAME": "Aggregate",
-    "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
-  },
-  "Gash": {
-    "NAME": "Gash",
-    "DESCRIPTION": "Deal !D! damage. NL All Gash cards deal !M! additional damage this combat."
-  },
-  "Seek": {
-    "NAME": "Seek",
-    "DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "NAME": "Шаблон",
+    "DESCRIPTION": "Задај !D! штете. NL Сваки пут када одиграш ову карту, смањи јој цену за !M! до краја борбе."
   },
   "Channel": {
     "NAME": "Channel",
     "DESCRIPTION": "Deprecated."
   },
-  "Nova": {
-    "NAME": "Nova",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Power played this combat.",
-    "EXTENDED_DESCRIPTION": [
-      " NL Exhaust.",
-      " NL Deals !D! damage."
-    ]
-  },
-  "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice.",
-    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
-  },
-  "Stack": {
-    "NAME": "Stack",
-    "DESCRIPTION": "Gain Block equal to the number of cards in your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to the number of cards in your discard pile +3.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (Gains !B! Block.)"
-    ]
-  },
-  "Primitive Tech": {
-    "NAME": "Primitive Tech",
-    "DESCRIPTION": "Deprecated."
-  },
-  "Auto Shields": {
-    "NAME": "Auto-Shields",
-    "DESCRIPTION": "If you have 0 Block, gain !B! Block."
-  },
-  "Hyperbeam": {
-    "NAME": "Hyperbeam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose !M! Focus."
-  },
-  "Ball Lightning": {
-    "NAME": "Ball Lightning",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
-  },
-  "Fusion": {
-    "NAME": "Fusion",
-    "DESCRIPTION": "Channel !M! Plasma."
-  },
-  "Cache": {
-    "NAME": "Cache",
-    "DESCRIPTION": "Deprecated."
-  },
-  "Redo": {
-    "NAME": "Redo",
-    "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
-  },
-  "Genetic Algorithm": {
-    "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. NL Exhaust."
-  },
-  "Energy Pulse": {
-    "NAME": "Energy Pulse",
-    "DESCRIPTION": "Gain Block equal to your Energy.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to twice your Energy."
-  },
-  "Ice Wall": {
-    "NAME": "Ice Wall",
-    "DESCRIPTION": "Deprecated.",
-    "UPGRADE_DESCRIPTION": "Deprecated."
-  },
   "Sweeping Beam": {
-    "NAME": "Sweeping Beam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! card."
+    "NAME": "Кружни зрак",
+    "DESCRIPTION": "Задај !D! штете СВИМ непријатељима. NL Вуци !M! карту."
   },
-  "Defragment": {
-    "NAME": "Defragment",
-    "DESCRIPTION": "Gain !M! Focus."
+  "Leap": {
+    "NAME": "Скок",
+    "DESCRIPTION": "Задоби !B! одбране."
   },
-  "FTL": {
-    "NAME": "FTL",
-    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card."
+  "Seek": {
+    "NAME": "Лоцирај",
+    "DESCRIPTION": "Изабери !M! карте из гомиле за вучење и стави их у руку. NL Исцрпи."
   },
-  "Meteor Strike": {
-    "NAME": "Meteor Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
+  "Blaster": {
+    "NAME": "Растурач",
+    "DESCRIPTION": "Задај !D! штете СВИМ непријатељима. NL Задоби [B] за сваку призвану сферу. NL Исцрпи."
   },
-  "Thunder Strike": {
-    "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Lightning Channeled this combat.",
+  "Reboot": {
+    "NAME": "Ресетуј се",
+    "DESCRIPTION": "Измешај све своје карте у гомилу за вучење, па потом вуци !M! карата. NL Исцрпи."
+  },
+  "Steam Power": {
+    "NAME": "Парни погон",
+    "DESCRIPTION": "Вуци !M! карте. NL Додај опекотину у гомилу за одбацивање."
+  },
+  "Blizzard": {
+    "NAME": "Мећава",
+    "DESCRIPTION": "Задај СВИМ непријатељима штету једнаку броју призваних мразова у борби пута !M!.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      " (Channeled !M! Lightning.)"
+      " NL (Ефективна штета: !D!.)",
+      ""
     ]
   },
-  "Barrage": {
-    "NAME": "Barrage",
-    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
+  "Chill": {
+    "NAME": "Смрзавање",
+    "DESCRIPTION": "Призови !M! мраз за сваког непријатеља у борби. NL Исцрпи.",
+    "UPGRADE_DESCRIPTION": "Урођена. NL Призови !M! мраз за сваког непријатеља у борби. NL Исцрпи."
   },
-  "Skim": {
-    "NAME": "Skim",
-    "DESCRIPTION": "Draw !M! cards."
-  },
-  "Hello World": {
-    "NAME": "Hello World",
-    "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
-  },
-  "Capacitor": {
-    "NAME": "Capacitor",
-    "DESCRIPTION": "Gain !M! Orb slot.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
-  },
-  "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTION": "Whenever you play a Power, Channel 1 Lightning.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power, Channel 1 Lightning."
-  },
-  "All For One": {
-    "NAME": "All For One",
-    "DESCRIPTION": "Deal !D! damage. Put all Cost 0 cards from your discard pile into your hand."
+  "Coolheaded": {
+    "NAME": "Хладне главе",
+    "DESCRIPTION": "Призови један мраз. NL Вуци !M! карту.",
+    "UPGRADE_DESCRIPTION": "Призови један мраз. NL Вуци !M! карте."
   },
   "Flux Capacitor": {
-    "NAME": "Flux Capacitor",
-    "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Exhaust."
+    "NAME": "Флуксни кондензатор",
+    "DESCRIPTION": "Замени све призване сфере плазмом. NL Исцрпи."
   },
-  "Rainbow": {
-    "NAME": "Rainbow",
-    "DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark."
+  "Primitive Tech": {
+    "NAME": "",
+    "DESCRIPTION": ""
   },
-  "Zap": {
-    "NAME": "Zap",
-    "DESCRIPTION": "Channel !M! Lightning."
+  "Hello World": {
+    "NAME": "Основни програм",
+    "DESCRIPTION": "На почетку свог потеза, додај насумичну обичну карту у руку.",
+    "UPGRADE_DESCRIPTION": "Урођена. NL На почетку свог потеза, додај насумичну обичну карту у руку."
   },
-  "Undo": {
-    "NAME": "Undo",
-    "DESCRIPTION": "Set your HP to what it was last turn. NL Exhaust."
-  },
-  "Go for the Eyes": {
-    "NAME": "Go for the Eyes",
-    "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
+  "Loop": {
+    "NAME": "Петља",
+    "DESCRIPTION": "На почетку свог потеза, искористи пасивну способност своје главне сфере."
   },
   "Scrape": {
-    "NAME": "Scrape",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
+    "NAME": "Састружи",
+    "DESCRIPTION": "Задај !D! штете. NL Вуци !M! карте. NL Одбаци све вучене карте које нису бесплатне."
+  },
+  "Reprieve": {
+    "NAME": "Одложи",
+    "DESCRIPTION": "Ако непријатељ не намерава да нападне, задоби потентност: !M!."
+  },
+  "Lockon": {
+    "NAME": "Нишан",
+    "DESCRIPTION": "Задај !D! штете. NL Следећа !M! круга, сфере муње и таме циљају нападнутог непријатеља."
+  },
+  "Consume": {
+    "NAME": "Преради",
+    "DESCRIPTION": "Задоби NL !M! потентности. NL Изгуби једно NL сферно поље."
+  },
+  "BootSequence": {
+    "NAME": "Подизање",
+    "DESCRIPTION": "Задоби !B! одбране. NL Урођена. NL Исцрпи."
   }
 }

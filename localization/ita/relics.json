@@ -11,7 +11,7 @@
     "NAME": "L'Arte della Guerra",
     "FLAVOR": "Questo antico manoscritto contiene la saggezza di un'altra epoca.",
     "DESCRIPTIONS": [
-      "Se non giochi #yAttacchi nel tuo turno, ottieni un ",
+      "Se non giochi #yAttacchi nel tuo turno ottieni un ",
       "[R] extra il prossimo turno.",
       "[G] extra il prossimo turno.",
       "[B] extra il prossimo turno."
@@ -19,9 +19,9 @@
   },
   "Astrolabe": {
     "NAME": "Astrolabio",
-    "FLAVOR": "Uno strumento che rivela conoscenze inestimabili grazie alle stelle.",
+    "FLAVOR": "Uno strumento che rivela conoscenze inestimabili, sfruttando la posizione delle stelle.",
     "DESCRIPTIONS": [
-      "Appena raccolta, scegli e #yTrasforma #b3 carte, poi #yPotenziale.",
+      "Appena raccolta scegli e #yTrasforma #b3 carte, poi #yPotenziale.",
       "Scegli 3 carte per "
     ]
   },
@@ -29,23 +29,23 @@
     "NAME": "Sacchetto di Biglie",
     "FLAVOR": "Un gioco molto popolare nella Città dell'antichità. Utile per far scivolare i nemici.",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, applica #b",
+      "Ad inizio combattimento applichi #b",
       " #yVulnerabile a TUTTI i nemici."
     ]
   },
   "Bag of Preparation": {
     "NAME": "Sacca da Viaggio",
-    "FLAVOR": "Gigantesca sacca per avventurieri. Ha tante tasche e cinghie.",
+    "FLAVOR": "Gigantesca sacca per avventurieri. Ha tante cinghie e tasche.",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, pesca #b",
-      " carte addizionali."
+      "Ad inizio combattimento peschi #b",
+      " carte in più."
     ]
   },
   "Bird Faced Urn": {
     "NAME": "Urna del Dio-Corvo",
     "FLAVOR": "Quest'urna rappresenta il dio-corvo Mazaleth in atteggiamento malizioso.",
     "DESCRIPTIONS": [
-      "Quando giochi un #yPotere, cura #b",
+      "Quando giochi un #yPotere ti curi di #b",
       " PV."
     ]
   },
@@ -53,13 +53,13 @@
     "NAME": "Sangue Nero",
     "FLAVOR": "Quando la furia è nera.",
     "DESCRIPTIONS": [
-      "Sostituisce #rSangue #rArdente. A fine combattimento, cura #b",
+      "Sostituisce #rSangue #rArdente. A fine combattimento ti curi di #b",
       " PV."
     ]
   },
   "Black Star": {
     "NAME": "Stella Nera",
-    "FLAVOR": "Scoperta nella città del serpente, la prima era accanto ad una candela solitaria.",
+    "FLAVOR": "Scoperta nella città del serpente, il primo esemplare era accanto ad una candela solitaria.",
     "DESCRIPTIONS": [
       "Ottieni #b2 #yReliquie dopo aver sconfitto un #yElite."
     ]
@@ -68,7 +68,7 @@
     "NAME": "Fiala di Sangue",
     "FLAVOR": "Una fiala contenente puro sangue di un antico vampiro.",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, cura #b",
+      "Ad inizio combattimento ti curi di #b",
       " PV."
     ]
   },
@@ -76,7 +76,7 @@
     "NAME": "Idolo Insanguinato",
     "FLAVOR": "L'idolo riversa incessanti lacrime di sangue.",
     "DESCRIPTIONS": [
-      "Ogni volta che guadagni #yOro, cura #b",
+      "Ogni volta che guadagni #yOro ti curi di #b",
       " PV."
     ]
   },
@@ -94,17 +94,17 @@
     "DESCRIPTIONS": [
       "Quando la raccogli scegli un Attacco. Inizierai ogni combattimento pescando quella carta.",
       "Scegli una carta per ",
-      "Ad inizio combattimento, peschi ",
+      "Ad inizio combattimento peschi ",
       " ."
     ]
   },
   "Bottled Lightning": {
     "NAME": "Fulmine in Bottiglia",
-    "FLAVOR": "Dall'altro lato del vetro, al centro della tempesta, c'è una parte di te che ritorna il tuo sguardo.",
+    "FLAVOR": "Dall'altro lato del vetro, in mezzo della tempesta, c'è una parte di te che risponde al tuo sguardo.",
     "DESCRIPTIONS": [
       "Quando la raccogli scegli un'Abilità. Inizierai ogni combattimento pescando quella carta.",
       "Scegli una carta per ",
-      "Ad inizio combattimento, peschi ",
+      "Ad inizio combattimento peschi ",
       " ."
     ]
   },
@@ -114,7 +114,7 @@
     "DESCRIPTIONS": [
       "Quando la raccogli scegli un Potere. Inizierai ogni combattimento pescando quella carta.",
       "Scegli una carta per ",
-      "Ad inizio combattimento, peschi ",
+      "Ad inizio combattimento peschi ",
       " ."
     ]
   },
@@ -122,7 +122,7 @@
     "NAME": "Squame di Bronzo",
     "FLAVOR": "Le taglienti squame del Guardiano. Si ridispongono per proteggere chi le usa. ",
     "DESCRIPTIONS": [
-      "Quando vieni colpito, infliggi #b",
+      "Quando vieni colpito infliggi #b",
       " danni all'attaccante."
     ]
   },
@@ -130,7 +130,7 @@
     "NAME": "Sangue Ardente",
     "FLAVOR": "Una rabbia immortale accende il tuo sangue.",
     "DESCRIPTIONS": [
-      "A fine combattimento, cura #b",
+      "A fine combattimento ti curi di #b",
       " PV."
     ]
   },
@@ -214,9 +214,9 @@
   },
   "Cracked Core": {
     "NAME": "Nucleo Incrinato",
-    "FLAVOR": "La misteriosa forza vitale che anima gli Automi dentro la Guglia. Sembra essere incrinato.",
+    "FLAVOR": "La misteriosa forza vitale che anima gli Automi dentro la Guglia. Sembra danneggiato.",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, #yCanalizza #b1 #yFulmine."
+      "Ad inizio combattimento #yCanalizzi #b1 #yFulmine."
     ]
   },
   "Cursed Key": {
@@ -224,9 +224,9 @@
     "FLAVOR": "Senti l'energia maledetta che emana dalla chiave. Dunque, il potere ha un prezzo.",
     "DESCRIPTIONS": [
       " Ogni volta che apri uno scrigno, vieni #rMaledetto.",
-      "Ottieni [R] all'inizio di ogni turno.",
-      "Ottieni [G] all'inizio di ogni turno.",
-      "Ottieni [B] all'inizio di ogni turno."
+      "Ottieni [R] ad inizio turno.",
+      "Ottieni [G] ad inizio turno.",
+      "Ottieni [B] ad inizio turno."
     ]
   },
   "Dead Branch": {
@@ -248,9 +248,9 @@
     "FLAVOR": "Le antiche rune sono indecifrabili.",
     "DESCRIPTIONS": [
       "Se i tuoi PV sono al massimo, ottieni ",
-      "[R] all'inizio di ogni turno.",
-      "[G] all'inizio di ogni turno.",
-      "[B] all'inizio di ogni turno."
+      "[R] ad inizio turno.",
+      "[G] ad inizio turno.",
+      "[B] ad inizio turno."
     ]
   },
   "Dream Catcher": {
@@ -265,7 +265,7 @@
     "FLAVOR": "Una bambola creata per incanalare le energie negative, donando potere a chi la usa.",
     "DESCRIPTIONS": [
       "Per ogni #yMaledizione nel tuo mazzo, inizi ogni combattimento con #b",
-      " #yForza aggiuntiva.",
+      " #yForza in più.",
       " Non hai  #yMaledizioni.",
       " Tu hai #b",
       " #yMaledizioni."
@@ -276,9 +276,9 @@
     "FLAVOR": "Una massa di melma ed energia: pulsa e ribolle come se fosse viva.",
     "DESCRIPTIONS": [
       " Non puoi più ottenere #yOro.",
-      "Ottieni [R] all'inizio di ogni turno.",
-      "Ottieni [G] all'inizio di ogni turno.",
-      "Ottieni [B] all'inizio di ogni turno."
+      "Ottieni [R] ad inizio turno.",
+      "Ottieni [G] ad inizio turno.",
+      "Ottieni [B] ad inizio turno."
     ]
   },
   "Frozen Egg 2": {
@@ -314,7 +314,7 @@
     "FLAVOR": "Questa piuma sembra essere completamente indistruttibile. Che genere di uccello potrebbe averla persa?",
     "DESCRIPTIONS": [
       "Per ogni #b",
-      " carte nel tuo mazzo, cura #b",
+      " carte nel tuo mazzo ti curi di #b",
       " PV ogni volta che raggiungi un falò."
     ]
   },
@@ -330,7 +330,7 @@
     "NAME": "Gettone da Gioco",
     "FLAVOR": "Riesci a leggere una piccola iscrizione su un lato. Recita: \"Gettone fortunato di Bear!\"",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento scarta un qualsiasi numero di carte, poi pescane altrettante."
+      "Ad inizio combattimento scarta un qualsiasi numero di carte poi ne peschi altrettante."
     ]
   },
   "Ginger": {
@@ -448,7 +448,7 @@
     "NAME": "Marchio del Dolore",
     "FLAVOR": "Nelle tribù del nord questo marchio era imposto ai guerrieri capaci di vincere il dolore in battaglia.",
     "DESCRIPTIONS": [
-      "Ottieni [R] all'inizio di ogni turno. Inizia il combattimento con #b2 #rFerite nella tua Pila."
+      "Ottieni [R] ad inizio turno. Inizia il combattimento con #b2 #rFerite nella Pila."
     ]
   },
   "Matryoshka": {
@@ -464,7 +464,7 @@
     "NAME": "Ossobuco",
     "FLAVOR": "La carne attorno all'osso non finisce mai.",
     "DESCRIPTIONS": [
-      "Se i tuoi PV sono al #b50% o meno alla fine del combattimento, cura #b",
+      "Se i tuoi PV sono al #b50% o meno a fine combattimento ti curi di #b",
       " PV."
     ]
   },
@@ -486,7 +486,7 @@
     "NAME": "Clessidra al Mercurio",
     "FLAVOR": "Una clessidra incantata, nella quale il liquido gocciola continuamente.",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, infliggi #b",
+      "Ad inizio turno infliggi #b",
       " danni a TUTTI i nemici."
     ]
   },
@@ -518,7 +518,7 @@
     "NAME": "Codice di Nilry",
     "FLAVOR": "Creato dal famigerato game master stesso. Si dice che possa espandere la mente.",
     "DESCRIPTIONS": [
-      "Alla fine di ogni turno, puoi scegliere #b1 di #b3 carte casuali da aggiungere alla tua Pila."
+      "A fine turno, puoi scegliere #b1 fra #b3 carte casuali e aggiungerla alla Pila."
     ]
   },
   "Nine Lives": {
@@ -557,7 +557,7 @@
     "NAME": "Pietra Levigata",
     "FLAVOR": "Non hai mai visto un oggetto dalla superficie così liscia e priva di imperfezioni. Deve essere opera degli Antichi.",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, ottieni #b",
+      "Ad inizio combattimento, ottieni #b",
       " #yDestrezza."
     ]
   },
@@ -620,7 +620,7 @@
     "NAME": "Pantografo",
     "FLAVOR": "\"Se un edificio ha solide fondamenta non è un caso. Solo gli strumenti adatti permettono una pianificazione perfetta.\"-L'Architetto",
     "DESCRIPTIONS": [
-      "All'inizio dei combattimenti con i boss, ti curi di #b",
+      "Ad inizio combattimento contro un boss ti curi di #b",
       " PV."
     ]
   },
@@ -664,9 +664,9 @@
     "FLAVOR": "La pietra emana una energia grezza, che conferisce potere a chiunque si trovi nelle sue vicinanze",
     "DESCRIPTIONS": [
       " TUTTI i nemici iniziano con #b2 #yForza.",
-      "Ottieni [R] all'inizio di ogni turno.",
-      "Ottieni [G] all'inizio di ogni turno.",
-      "Ottieni [B] all'inizio di ogni turno."
+      "Ottieni [R] ad inizio turno.",
+      "Ottieni [G] ad inizio turno.",
+      "Ottieni [B] ad inizio turno."
     ]
   },
   "Prayer Wheel": {
@@ -694,7 +694,7 @@
     "NAME": "Maschera Rossa",
     "FLAVOR": "Questa elegante maschera appartiene al comandante dei Banditi della Maschera Rossa. Quindi tecnicamente tu saresti il loro comandante adesso?",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, applica #b",
+      "Ad inizio combattimento applichi #b",
       " #yDebole a TUTTI i nemici."
     ]
   },
@@ -703,15 +703,15 @@
     "FLAVOR": "Un piccolo teschio coperto di vernice ornamentale.",
     "DESCRIPTIONS": [
       "Quando i tuoi PV sono al #b50% o sotto, ottieni #b",
-      " #yForza aggiuntiva."
+      " #yForza in più."
     ]
   },
   "Regal Pillow": {
     "NAME": "Cuscino Regale",
     "FLAVOR": "Ora puoi finalmente riposare comodo la notte.",
     "DESCRIPTIONS": [
-      "Cura #b",
-      " PV aggiuntivi quando #yRiposi."
+      "Ti curi di #b",
+      " PV in più quando #yRiposi."
     ]
   },
   "Ring of the Serpent": {
@@ -725,7 +725,7 @@
     "FLAVOR": "Le antiche rune sono indecifrabili.",
     "DESCRIPTIONS": [
       "Ogni volta che perdi PV, pesca #b",
-      " carte.",
+      " carta.",
       ""
     ]
   },
@@ -733,7 +733,7 @@
     "NAME": "Cupola Runica",
     "FLAVOR": "Le antiche rune sono indecifrabili.",
     "DESCRIPTIONS": [
-      "all'inizio di ogni turno. Non puoi più vedere gli #bIntenti dei nemici.",
+      "ad inizio turno. Non puoi più vedere gli #bIntenti dei nemici.",
       "Ottieni [R] ",
       "Ottieni [G] ",
       "Ottieni [B] "
@@ -743,7 +743,7 @@
     "NAME": "Piramide Runica",
     "FLAVOR": "Le antiche rune sono indecifrabili.",
     "DESCRIPTIONS": [
-      "A fine turno, non scarti più la tua mano. NL Pesca #b",
+      "A fine turno non scarti più la tua mano. NL Pesca #b",
       " carta in meno ogni turno."
     ]
   },
@@ -773,7 +773,7 @@
   },
   "Singing Bowl": {
     "NAME": "Campana Tibetana",
-    "FLAVOR": "Se utilizzato correttamente questo artefatto risuona, emettendo una melodia belissima.",
+    "FLAVOR": "Se usato correttamente questo artefatto risuona, emettendo una melodia belissima.",
     "DESCRIPTIONS": [
       "Invece di scegliere una carta come ricompensa puoi convertirla in #b+2 PV Massimi."
     ]
@@ -790,23 +790,23 @@
     "NAME": "Anello della Serpe",
     "FLAVOR": "Creato da un fossile di serpente. È l'emblema di un'abile cacciatrice.",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, pesca #b",
-      " carte aggiuntive."
+      "Ad inizio combattimento peschi #b",
+      " carte in più."
     ]
   },
   "Snecko Eye": {
     "NAME": "Occhio di Snecko",
     "FLAVOR": "L'occhio di uno snecko morto. Molto più grande di quanto si potrebbe immaginare.",
     "DESCRIPTIONS": [
-      "Pesca #b2 carte aggiuntive ogni turno. Inizia ogni combattimento #yConfuso."
+      "Pesca #b2 carte in più ogni turno. Inizia ogni combattimento #yConfuso."
     ]
   },
   "Snake Skull": {
     "NAME": "Teschio di Snecko",
     "FLAVOR": "Il teschio di uno snecko in perfette condizioni. La sua superficie è liscia al tatto e respinge inspiegabilmente ogni tipo di detrito o sporcizia.",
     "DESCRIPTIONS": [
-      "Ogni volta che applichi #yVeleno, applica un #b",
-      " #yVeleno aggiuntivo."
+      "Ogni volta che applichi #yVeleno applichi un #b",
+      " #yVeleno in più."
     ]
   },
   "Sozu": {
@@ -814,9 +814,9 @@
     "FLAVOR": "Noti che questa reliquia rende inerti i liquidi magici nelle vicinanze.",
     "DESCRIPTIONS": [
       " Non puoi più ottenere pozioni. ",
-      "Ottieni [R] all'inizio di ogni turno.",
-      "Ottieni [G] all'inizio di ogni turno.",
-      "Ottieni [B] all'inizio di ogni turno."
+      "Ottieni [R] ad inizio turno.",
+      "Ottieni [G] ad inizio turno.",
+      "Ottieni [B] ad inizio turno."
     ]
   },
   "Spirit Poop": {
@@ -861,7 +861,7 @@
   },
   "War Paint": {
     "NAME": "Pittura di Guerra",
-    "FLAVOR": "In passato gli Ironclad la utilizzavano per incantare i loro amuleti protettivi, che indossavano prima di lanciarsi in battaglia.",
+    "FLAVOR": "In passato gli Ironclad la usavano per incantare i loro amuleti protettivi, che indossavano prima di lanciarsi in battaglia.",
     "DESCRIPTIONS": [
       "Appena raccolta, #yPotenzia #b",
       " #yAbilità casuali."
@@ -954,7 +954,7 @@
     "NAME": "Ago e Filo",
     "FLAVOR": "Quando avvolgi il filo magico attorno al tuo corpo ti sembra che la tua pelle si indurisca.",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, ottieni #b",
+      "Ad inizio combattimento ottieni #b",
       " #yArmatura #ya #yPiastre."
     ]
   },
@@ -989,7 +989,7 @@
     "NAME": "Cassetta degli Attrezzi",
     "FLAVOR": "Il giusto attrezzo per ogni lavoro.",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, aggiungi una carta incolore casuale alla tua mano."
+      "Ad inizio combattimento aggiungi una carta incolore casuale alla tua mano."
     ]
   },
   "Torii": {
@@ -1020,7 +1020,7 @@
     "NAME": "Ornitottero Giocattolo",
     "FLAVOR": "\"Questo piccolo giocattolo è il perfetto compagno per un avventuriero solitario!\"",
     "DESCRIPTIONS": [
-      "Ogni volta che usi una pozione, cura #b",
+      "Ogni volta che usi una pozione ti curi di #b",
       " PV."
     ]
   },
@@ -1035,7 +1035,7 @@
     "NAME": "Vajra",
     "FLAVOR": "Un ornamento conferito ai guerrieri che avevano ottenuto la gloria in una battaglia.",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, ottieni #b",
+      "Ad inizio combattimento ottieni #b",
       " #yForza."
     ]
   },
@@ -1045,9 +1045,9 @@
     "DESCRIPTIONS": [
       "Non puoi giocare più di #b",
       " carte per turno.",
-      "Ottieni [R] all'inizio di ogni turno. ",
-      "Ottieni [G] all'inizio di ogni turno. ",
-      "Ottieni [B] all'inizio di ogni turno. ",
+      "Ottieni [R] ad inizio turno. ",
+      "Ottieni [G] ad inizio turno. ",
+      "Ottieni [B] ad inizio turno. ",
       "Posso giocare solo fino a NL #r"
     ]
   },
@@ -1056,7 +1056,7 @@
     "FLAVOR": "\"Il dolce più goloso che potrai mai trovare in tutta la Guglia! Appena sfornato, proprio per te!\"",
     "DESCRIPTIONS": [
       "Aumenta i tuoi PV massimi di #b",
-      " e cura tutti i tuoi PV."
+      " e ti curi del tutto."
     ]
   },
   "Whetstone": {
@@ -1092,23 +1092,23 @@
   },
   "Inserter": {
     "NAME": "Insertore",
-    "FLAVOR": "Descrizione mancante.",
+    "FLAVOR": "Spingi. Tira. Impila. Ripeti.",
     "DESCRIPTIONS": [
       "Ogni #b2 turni, ottieni #b1 spazio per Globi."
     ]
   },
   "Symbiotic Virus": {
     "NAME": "Virus Simbiotico",
-    "FLAVOR": "Giusto un pizzico di #rmale può fare molto #gbene...",
+    "FLAVOR": "Giusto un pizzico di male può fare molto bene...",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, #yCanalizza #b1 #yOsccurità."
+      "Ad inizio combattimento #yCanalizzi #b1 #yOscurità."
     ]
   },
   "Nuclear Battery": {
     "NAME": "Batteria Nucleare",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, #yCanalizza #b1 #yPlasma."
+      "Ad inizio combattimento #yCanalizzi #b1 #yPlasma."
     ]
   },
   "Cables": {
@@ -1122,21 +1122,21 @@
     "NAME": "Chip Emotivo",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "All'inizio di ogni turno, se hai subito danni il turno precedente, attiva l'abilità passiva di tutti i tuoi Globi."
+      "Ad inizio turno attivi l'abilità passiva di tutti i tuoi Globi se hai subito danni il turno precedente."
     ]
   },
   "Runic Capacitor": {
     "NAME": "Condensatore Runico",
     "FLAVOR": "Meglio abbondare.",
     "DESCRIPTIONS": [
-      "Inizi ogni combattimento con #b3 Spazi per Globi aggiuntivi."
+      "Inizi ogni combattimento con #b3 Spazi per Globi in più."
     ]
   },
   "DataDisk": {
     "NAME": "Disco Rigido",
     "FLAVOR": "Questo disco contiene dati preziosi su serpenti ed uccelli.",
     "DESCRIPTIONS": [
-      "All'inizio di ogni combattimento, ottieni #b",
+      "Ad inizio combattimento, ottieni #b",
       " #yFocus."
     ]
   },

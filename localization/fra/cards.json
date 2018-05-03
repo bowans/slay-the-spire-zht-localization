@@ -180,7 +180,7 @@
   },
   "Reckless Charge": {
     "NAME": "Charge imprudente",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez un Hébètement à votre pioche."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez un Hébétement à votre pioche."
   },
   "Decay": {
     "NAME": "Déclin",
@@ -228,7 +228,7 @@
   },
   "Body Slam": {
     "NAME": "Plaquage",
-    "DESCRIPTION": "Infligez un total de dégâts égal à votre Armure actuel.",
+    "DESCRIPTION": "Infligez un total de dégâts égal à votre Armure actuelle.",
     "UPGRADE_DESCRIPTION": " NL (Infligez !D! dégât(s).)"
   },
   "True Grit": {
@@ -293,8 +293,8 @@
   },
   "Pommel Strike": {
     "NAME": "Frappe du pommeau",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! carte(s).",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! carte(s)."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes."
   },
   "Pain": {
     "NAME": "Douleur",
@@ -370,7 +370,7 @@
   },
   "Sever Soul": {
     "NAME": "Scission d'âme",
-    "DESCRIPTION": "Épuisez toutes les cartes de votre main (sauf Attaque). NL Infligez !D! dégât(s)."
+    "DESCRIPTION": "Épuisez toutes les cartes de votre main (sauf Attaques). NL Infligez !D! dégât(s)."
   },
   "Whirlwind": {
     "NAME": "Tourbillon",
@@ -378,7 +378,7 @@
   },
   "Warcry": {
     "NAME": "Cri de guerre",
-    "DESCRIPTION": "Piochez !M! cartes. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement.",
+    "DESCRIPTION": "Piochez !M! carte. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement."
   },
   "PiercingWail": {
@@ -474,7 +474,7 @@
     "DESCRIPTION": "Appliquez 99 de Vulnérabilité. NL Épuisement."
   },
   "Dazed": {
-    "NAME": "Hébètement",
+    "NAME": "Hébétement",
     "DESCRIPTION": "Injouable. NL Éthérée."
   },
   "Barricade": {
@@ -886,8 +886,8 @@
   },
   "Darkness": {
     "NAME": "Ténèbres",
-    "DESCRIPTION": "Appliquez !M! de Faiblesse. NL Canalisez !M! Orbe Obscur.",
-    "UPGRADE_DESCRIPTION": "Appliquez !M! de Faiblesse et !M! de Vulnérabilité. NL Canalisez !M! Orbe Obscur."
+    "DESCRIPTION": "Canalisez !M! Orbe Obscur.",
+    "UPGRADE_DESCRIPTION": "Canalisez !M! Orbes Obscurs."
   },
   "Recycle": {
     "NAME": "Recyclage",
@@ -895,7 +895,8 @@
   },
   "Static Discharge": {
     "NAME": "Décharge statique",
-    "DESCRIPTION": "Quand vous subissez des dégâts d'attaque, Canalisez !M! Orbe(s) Kéraunique(s)."
+    "DESCRIPTION": "Quand vous subissez des dégâts d'attaque, Canalisez !M! Orbe Kéraunique.",
+    "UPGRADE_DESCRIPTION": "Quand vous subissez des dégâts d'attaque, Canalisez !M! Orbes Kérauniques."
   },
   "Biased Cognition": {
     "NAME": "Biais cognitif",
@@ -920,7 +921,7 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Infligez !D! dégât(s). Si vous avez joué moins que !M! cartes ce tour, piochez 1 carte."
+    "DESCRIPTION": "Infligez !D! dégât(s). Si vous avez joué moins de !M! cartes ce tour, piochez 1 carte."
   },
   "Seek": {
     "NAME": "Recherche",
@@ -1031,8 +1032,9 @@
     "DESCRIPTION": "Infligez !M! dégât(s) à TOUS les ennemis pour chaque Pouvoir joué ce combat.",
     "EXTENDED_DESCRIPTION": [
       " NL Épuisement.",
-      " NL Infligez !D! dégât(s)."
-    ]
+      " NL (Infligez !D! dégât(s).)"
+    ],
+    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
   },
   "Turbo": {
     "NAME": "TURBO",
@@ -1072,12 +1074,12 @@
     "DESCRIPTION": "Infligez !D! dégât(s). NL Canalisez !M! Orbes Plasmiques."
   },
   "Auto Shields": {
-    "NAME": "Bouclier automatique",
+    "NAME": "Boucliers automatiques",
     "DESCRIPTION": "Si vous n'avez pas d'Armure, gagnez !B! d'Armure."
   },
   "Gash": {
-    "NAME": "Entaille",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Toutes les cartes Entaille font !M! dégâts supplémentaires ce combat."
+    "NAME": "Griffe",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Toutes les cartes Griffe font !M! dégâts supplémentaires ce combat."
   },
   "Melter": {
     "NAME": "Fondeur",
@@ -1108,7 +1110,7 @@
   },
   "Streamline": {
     "NAME": "Fuselage",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Quand vous jouez Fuselage, son coût est réduit de !M! pour le combat."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Quand vous jouez cette carte, son coût est réduit de !M! pour le combat."
   },
   "Primitive Tech": {
     "NAME": "Deprecated.",
@@ -1152,9 +1154,9 @@
   "Blizzard": {
     "NAME": "Blizzard",
     "DESCRIPTION": "Infligez autant de dégâts que 2 fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": "Infligez des dégâts équivalents à !M! fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
-      " ( !M! Orbes Glaciaires.)",
+      " ( !M! Orbes Canalisés.)",
       "."
     ]
   },
@@ -1232,15 +1234,31 @@
   },
   "Echo Form": {
     "NAME": "Écho",
-    "DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois.",
-    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
+    "DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois. Éthérée",
+    "UPGRADE_DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois."
   },
   "Axe Kick": {
     "NAME": "Coup de pied en marteau",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Activez votre prochain Orbe."
   },
   "Scrape": {
-    "NAME": "Scrape",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
+    "NAME": "Éraflure",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes. NL Défaussez directement celles qui ne coûtent pas 0."
+  },
+  "Consume": {
+    "NAME": "Consommer",
+    "DESCRIPTION": "Gagnez !M! de Concentration. NL Perdez 1 emplacement d'Orbe."
+  },
+  "Lockon": {
+    "NAME": "Verrouiller",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Pendant le tour, les Orbes Kérauniques et Obscurs ciblent cet ennemi."
+  },
+  "Reprieve": {
+    "NAME": "Répit",
+    "DESCRIPTION": "Si un ennemi ne compte pas attaquer, gagnez !M! de Concentration."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

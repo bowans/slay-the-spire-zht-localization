@@ -1141,7 +1141,8 @@
   },
   "Static Discharge": {
     "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning.",
+    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Ice Wall": {
     "NAME": "Ice Wall",
@@ -1198,7 +1199,8 @@
     "EXTENDED_DESCRIPTION": [
       " NL Exhaust.",
       " NL Deals !D! damage."
-    ]
+    ],
+    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
   },
   "Sunder": {
     "NAME": "Sunder",
@@ -1242,5 +1244,21 @@
   "Scrape": {
     "NAME": "Scrape",
     "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
+  },
+  "Reprieve": {
+    "NAME": "Reprieve",
+    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
+  },
+  "Consume": {
+    "NAME": "Consume",
+    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

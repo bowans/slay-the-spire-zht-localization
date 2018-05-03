@@ -205,7 +205,7 @@
     "NAMES": []
   },
   "LOC_PTB": {
-    "HEADER": "Localização - Português do Brasil",
+    "HEADER": "本地化：巴西葡萄牙语",
     "NAMES": [
       "Guilherme \"GPerego\" Perego",
       "Gustavo \"KomKlave\" Duarte",
@@ -216,9 +216,15 @@
     ]
   },
   "LOC_NOR": {
-    "HEADER": "Norsk Oversettelse",
+    "HEADER": "本地化：挪威语",
     "NAMES": [
       "Eystein Jarp"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "本地化：塞尔维亚语",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
     ]
   }
 }

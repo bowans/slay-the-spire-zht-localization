@@ -1,39 +1,39 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, increase this Orb's damage by #b",
-      ". NL #yEvoke: Deal #b",
-      " damage to the enemy with lowest HP."
+      "#yUmiejętność #yPasywna: Na końcu tury, zwiększ obrażenia Sfery o #b",
+      ". NL #yWyładowanie: Zadaj #b",
+      " przeciwnikowi z najmniejszą ilością PŻ."
     ],
-    "NAME": "Dark"
+    "NAME": "Ciemność"
   },
   "Empty": {
     "DESCRIPTION": [
-      "Orbs can be channeled into these slots."
+      "W to miejsce możesz Przywołać Sferę."
     ],
-    "NAME": "Orb Slot"
+    "NAME": "Miejsce na Sferę"
   },
   "Frost": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, gain #b",
-      " #yBlock. NL #yEvoke: Gain #b",
-      " #yBlock."
+      "#yUmiejętność #yPasywna: Na końcu tury, zyskaj #b",
+      " pkt. #yBloku. NL #yWyładowanie: Zyskaj #b",
+      " pkt. #yBloku."
     ],
-    "NAME": "Frost"
+    "NAME": "Mróz"
   },
   "Lightning": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, deal #b",
-      " damage to a random enemy. NL #yEvoke: Deal #b",
-      " damage to a random enemy."
+      "#yUmiejętność #yPasywna: Na końcu tury, zadaj #b",
+      " obrażeń losowemu przeciwnikowi. NL #yWyładowanie: Zadaj #b",
+      " obrażeń losowemu przeciwnikowi."
     ],
-    "NAME": "Lightning"
+    "NAME": "Grom"
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
-      " [B] . NL Plasma is unaffected by #yFocus."
+      "#yUmiejętność #yPasywna: Na początku tury, zyskaj [B] . NL #yWyładowanie: Zyskaj #b",
+      " [B] . NL #ySkupienie nie wpływa na Plazmę."
     ],
-    "NAME": "Plasma"
+    "NAME": "Plazma"
   }
 }

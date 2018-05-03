@@ -360,13 +360,6 @@
       " pkt. obrażeń losowemu przeciwnikowi."
     ]
   },
-  "Knowledge": {
-    "NAME": "Wiedza",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek zagrasz kartę #yMocy, dobierz #b",
-      " kart(y)."
-    ]
-  },
   "Flex": {
     "NAME": "Naprężanie muskułów",
     "DESCRIPTIONS": [
@@ -698,7 +691,7 @@
     ]
   },
   "Unawakened": {
-    "NAME": "Śpi",
+    "NAME": "Sen",
     "DESCRIPTIONS": [
       "Przeciwnik jeszcze się nie obudził..."
     ]
@@ -734,6 +727,117 @@
       "."
     ]
   },
+  "Conserve": {
+    "NAME": "Konserwacja",
+    "DESCRIPTIONS": [
+      "#yEnergia jest zachowywana w tej turze.",
+      "#yEnergia jest zachowywana przez następnych tur: #b",
+      "."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Wzmocnienie",
+    "DESCRIPTIONS": [
+      "W tej turze, zagraj następną kartę #yMocy dwa razy.",
+      "W tej turze, zagraj następnych kart: ",
+      " #yMocy dwa razy."
+    ]
+  },
+  "Focus": {
+    "NAME": "Skupienie",
+    "DESCRIPTIONS": [
+      "Zwiększa efektywność Sfer o #b",
+      "Zmniejsza efektywność Sfer o #b",
+      "."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Wiedza",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartę #yMocy, dobierz kart: #b",
+      "."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Elektrostatyczne wyładowanie",
+    "DESCRIPTIONS": [
+      "Kiedy otrzymasz obrażenia od #yAtaku, #yPrzywołaj #b",
+      " #yGrom."
+    ]
+  },
+  "Repair": {
+    "NAME": "Naprawa",
+    "DESCRIPTIONS": [
+      "Na końcu potyczki, przywróć #b",
+      " PŻ."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Bufor",
+    "DESCRIPTIONS": [
+      "Powstrzymuję następną utratę PŻ.",
+      "Powstrzymuje następne utraty PŻ #b",
+      " razy."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Powtarzająca forma",
+    "DESCRIPTIONS": [
+      "Pierwsza zagrana karta w każdej turze jest zagrywana podwójnie",
+      "Pierwsze zagrane karty w każdej turze: #b",
+      " są zagrywane podwójnie."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Radiator",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartę #bMocy, dobierz karty: #b",
+      ".",
+      "."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Bezsilność",
+    "DESCRIPTIONS": [
+      "Podczas tej tury nie możesz zagrać kart #yAtaku."
+    ]
+  },
+  "Storm": {
+    "NAME": "Burza",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartę #bMocy, #yPrzywołaj #b ",
+      " #yGrom."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetyzm",
+    "DESCRIPTIONS": [
+      "Na początku tury, dodaj #b%s losową bezbarwną kartę do ręki.",
+      "Na początku tury, dodaj losowe bezbarwne karty do ręki: #b%s ."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Twórcze AI",
+    "DESCRIPTIONS": [
+      "Na początku tury, dodaj #b",
+      " losową kartę #bMocy do ręki."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Uczenie maszynowe",
+    "DESCRIPTIONS": [
+      "Dobierz dodatkowe karty na początku tury: #b",
+      ".",
+      "."
+    ]
+  },
+  "Bias": {
+    "NAME": "Błąd",
+    "DESCRIPTIONS": [
+      "Na początku tury, utrać #b",
+      " pkt. #ySkupienia."
+    ]
+  },
   "Wraith Form v2": {
     "NAME": "Widmowa forma",
     "DESCRIPTIONS": [
@@ -741,148 +845,52 @@
       " pkt. #yZwinności."
     ]
   },
-  "Heatsink": {
-    "NAME": "Heatsink",
+  "Prime": {
+    "NAME": "Pełnia",
     "DESCRIPTIONS": [
-      "Whenever you play a Power, draw #b",
-      " card.",
-      " cards."
-    ]
-  },
-  "Repair": {
-    "NAME": "Repair",
-    "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
-    ]
-  },
-  "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
-    ]
-  },
-  "Focus": {
-    "NAME": "Focus",
-    "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
+      "Kiedykolwiek #yPrzywołasz Sferę, dobierz kart: #b",
+      ".",
       "."
     ]
   },
-  "Conserve": {
-    "NAME": "Conserve",
-    "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
-    ]
-  },
-  "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card to your hand.",
-      "At the start of your turn, add #b%s random colorless cards to your hand."
-    ]
-  },
-  "Bias": {
-    "NAME": "Bias",
-    "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
-    ]
-  },
-  "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Power card into your hand."
-    ]
-  },
-  "No Attack": {
-    "NAME": "No Attack",
-    "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
-    ]
-  },
-  "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTIONS": [
-      "On this turn, play your next #yPower twice.",
-      "On this turn, play your next ",
-      " #yPowers twice."
-    ]
-  },
-  "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
-    ]
-  },
   "Rebound": {
-    "NAME": "Rebound",
+    "NAME": "Rykoszet",
     "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
-    ]
-  },
-  "StaticDischarge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
-    ]
-  },
-  "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
-    ]
-  },
-  "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
-    ]
-  },
-  "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
-    ]
-  },
-  "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
+      "Następna karta, którą zagrasz w tej turze, zostaje położona na szczycie stosu rozgrywającego.",
+      "Następne karty, które zagrasz w tej turze, zostaną położone na szczycie stosu rozgrywającego: #b",
+      "."
     ]
   },
   "Primitive": {
-    "NAME": "Primitive",
+    "NAME": "Prymityw",
     "DESCRIPTIONS": [
-      "Whenever you play a Common card, draw #b",
-      " card.",
-      " cards."
+      "Kiedykolwiek zagrasz zwykłą kartę, dobierz kart: #b",
+      ".",
+      "."
     ]
   },
   "Hello": {
-    "NAME": "Hello",
+    "NAME": "Hejka",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "Na początku tury, dodaj losowe zwykłe karty do ręki: #b",
+      ".",
+      "."
+    ]
+  },
+  "Loop": {
+    "NAME": "Pętla",
+    "DESCRIPTIONS": [
+      "Na początku tury, użyj pasywnej umiejętności następnej Sfery.",
+      "Na początku tury, użyj pasywnych umiejętności następnych #b",
+      " Sfer."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Namierzenie",
+    "DESCRIPTIONS": [
+      "Cel dla Sfer #yGromu i #yCiemności.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }

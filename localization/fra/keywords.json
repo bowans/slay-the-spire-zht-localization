@@ -17,7 +17,8 @@
     },
     "CURSE": {
       "NAMES": [
-        "malédiction"
+        "malédiction",
+        "malédictions"
       ],
       "DESCRIPTION": "Les cartes malédiction sont des cartes négatives qui restent dans votre deck."
     },
@@ -38,7 +39,9 @@
         "épuisement",
         "épuisé",
         "épuisée",
-        "épuisez"
+        "épuisez",
+        "s'épuise",
+        "s'épuisent"
       ],
       "DESCRIPTION": "Écarté jusqu'à la fin du combat."
     },
@@ -89,6 +92,7 @@
     },
     "TRANSFORM": {
       "NAMES": [
+        "transformer",
         "transforme",
         "transformez"
       ],
@@ -181,9 +185,9 @@
     },
     "DAZED": {
       "NAMES": [
-        "hébètement"
+        "hébétement"
       ],
-      "DESCRIPTION": "Les hébètements sont des cartes Statut non jouables."
+      "DESCRIPTION": "Les hébétements sont des cartes Statut non jouables."
     },
     "BURN": {
       "NAMES": [
@@ -201,10 +205,10 @@
     },
     "EVOKE": {
       "NAMES": [
-        "activez",
+        "activation",
         "activé",
         "activés",
-        "activation"
+        "activez"
       ],
       "DESCRIPTION": "Utilisez la capacité d'Activation de votre Orbe le plus à droite puis détruisez-le."
     },
@@ -237,7 +241,7 @@
         "néant",
         "néants"
       ],
-      "DESCRIPTION": "Les cartes Néant sont des Statut injouable qui consomme de l'énergie quand elles sont piochées."
+      "DESCRIPTION": "Les Néant sont des cartes Statut injouable qui consomme de l'énergie quand elles sont piochées."
     },
     "OPENER": {
       "NAMES": [

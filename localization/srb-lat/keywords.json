@@ -16,6 +16,16 @@
       ],
       "DESCRIPTION": "Sprečava štetu do sledećeg poteza."
     },
+    "EVOKE": {
+      "NAMES": [
+        "aktivacija",
+        "aktiviraj",
+        "aktivirao",
+        "aktiviranu",
+        "aktivirane"
+      ],
+      "DESCRIPTION": "Potroši svoju prvu sferu s desna kako bi iskoristio njen aktivacioni efekat."
+    },
     "CURSE": {
       "NAMES": [
         "kletva",
@@ -52,11 +62,24 @@
       ],
       "DESCRIPTION": "Prva ruka garantovano sadrži ovu kartu."
     },
+    "FOCUS": {
+      "NAMES": [
+        "potentnost",
+        "potentnosti"
+      ],
+      "DESCRIPTION": "Potentnost povećava efektivnost #yprizvanih sfera."
+    },
     "LOCKED": {
       "NAMES": [
         "nedostupna"
       ],
       "DESCRIPTION": "Ova karta tek treba da se otključa."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
     },
     "POISON": {
       "NAMES": [
@@ -120,6 +143,13 @@
         "poboljšanih"
       ],
       "DESCRIPTION": "Poboljšavanje karata ih čini moćnijim. Karte se mogu poboljšati samo jedanput."
+    },
+    "VOID": {
+      "NAMES": [
+        "ništavilo",
+        "ništavila"
+      ],
+      "DESCRIPTION": "Ništavila su neodigriva stanja koja oduzimaju energiju pri vučenju."
     },
     "VULNERABLE": {
       "NAMES": [
@@ -185,6 +215,62 @@
       ],
       "DESCRIPTION": "Smanjuje SVU primljenu štetu i gubitak ž. p. na #b1."
     },
+    "LIGHTNING": {
+      "NAMES": [
+        "munja",
+        "munja+",
+        "munju",
+        "munju+",
+        "munje",
+        "munje+"
+      ],
+      "DESCRIPTION": "Sfera koja nanosi štetu nasumičnim neprijateljima."
+    },
+    "FROST": {
+      "NAMES": [
+        "mraz",
+        "mraz+",
+        "mraza",
+        "mraza+",
+        "mrazova",
+        "mrazova+"
+      ],
+      "DESCRIPTION": "Sfera koja daje #yodbranu."
+    },
+    "DARK": {
+      "NAMES": [
+        "tama",
+        "tama+",
+        "tamu",
+        "tamu+",
+        "tame",
+        "tame+"
+      ],
+      "DESCRIPTION": "Sfera koja povećava svoju štetnost svaki krug. Pri #yaktivaciji, nanosi štetu neprijatelju koji ima najmanje ž. p."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plazma",
+        "plazma+",
+        "plazmu",
+        "plazmu+",
+        "plazme",
+        "plazme+",
+        "plazmom"
+      ],
+      "DESCRIPTION": "Sfera koja daje energiju."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "prizivanje",
+        "prizovi",
+        "prizvane",
+        "prizvanu",
+        "prizvanih",
+        "prizoveš"
+      ],
+      "DESCRIPTION": "Prizivanjem sfere je stvaraš u prvom praznom polju. Ako nemaš praznih polja, tvoja glavna sfera se automatski #yaktivira kako bi napravila mesta."
+    },
     "TODO": {
       "NAMES": [
         "todo",
@@ -197,67 +283,6 @@
     },
     "TEXT": [
       "Energija se koristi za odigravanje karata iz ruke."
-    ],
-    "VOID": {
-      "NAMES": [
-        "void",
-        "voids"
-      ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
-    },
-    "FROST": {
-      "NAMES": [
-        "frost",
-        "frost+"
-      ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
-    },
-    "FOCUS": {
-      "NAMES": [
-        "focus"
-      ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
-    },
-    "PLASMA": {
-      "NAMES": [
-        "plasma",
-        "plasma+"
-      ],
-      "DESCRIPTION": "Orb: Gains Energy."
-    },
-    "OPENER": {
-      "NAMES": [
-        "opener"
-      ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "evoke",
-        "evoked"
-      ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "lightning",
-        "lightning+"
-      ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
-    },
-    "DARK": {
-      "NAMES": [
-        "dark",
-        "dark+"
-      ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
-    },
-    "CHANNEL": {
-      "NAMES": [
-        "channel",
-        "channeled"
-      ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
-    }
+    ]
   }
 }

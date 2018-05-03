@@ -28,7 +28,7 @@
     "TEXT": [
       "Pancernik",
       "Cień",
-      "",
+      "Defekt",
       "Wróć",
       "Nie znaleziono poprzednich rozgrywek. NL No dalej, zdobądź Iglicę!",
       "Poziom Wyniesienia: ",
@@ -108,7 +108,7 @@
     "TEXT": [
       "Pancernik",
       "Cień",
-      "3rd Char. DO NOT TRANSLATE",
+      "Defekt",
       "Średnio osiągane piętro (20 ostatnich prób)",
       "Średni wynik (20 ostatnich prób)",
       "Najdłuższa seria wygranych",
@@ -138,7 +138,7 @@
       "Swedish",
       "Norwegian",
       "Thai",
-      "Serbian",
+      "Serbian (Cyrillic)",
       "Ukrainian",
       "Vietnamese",
       "Hungarian",
@@ -153,6 +153,16 @@
   "GamblingChipAction": {
     "TEXT": [
       "podmiany (żeton pokerowy)"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Wybierz kartę, która powróci do twojej ręki."
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "odrzucenia"
     ]
   },
   "RetainCardsAction": {
@@ -195,14 +205,26 @@
       "Wybierz kartę umiejętności jaką chcesz dodać do ręki"
     ]
   },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Wybierz kartę do dobrania",
+      "Wybierz karty do dobrania"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Wybierz kartę ataku jaką chcesz dodać do ręki"
     ]
   },
+  "CacheAction": {
+    "TEXT": [
+      "Wybierz kartę jaką chcesz położyć na górze stosu rozgrywającego.",
+      "Wybierz karty jakie chcesz położyć na górze stosu rozgrywającego."
+    ]
+  },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Wybierz kartę jaką chcesz położyć na górze stosu."
+      "Wybierz kartę jaką chcesz położyć na górze stosu rozgrywającego."
     ]
   },
   "Legend": {
@@ -313,7 +335,7 @@
       "Zablokowany",
       "Pancernik",
       "Cień",
-      "Strzelec"
+      "Defekt"
     ]
   },
   "AbstractCreature": {
@@ -388,7 +410,7 @@
       "Nieznane",
       "Pokaż ulepszenie",
       "Stan",
-      "Amunicja",
+      "",
       "Mogę tylko rzucać karty.",
       "Moje kończyny są #rzwiązane! NL Nie mogę rzucać kart #rAtaku.",
       "Brak wystarczającej #rEnergii.",
@@ -459,12 +481,12 @@
       "ulepszenia"
     ]
   },
-  "DualWieldAction": {
+  "RecycleAction": {
     "TEXT": [
-      "duplikacji"
+      "wykluczenia"
     ]
   },
-  "HiddenChamberAction": {
+  "DualWieldAction": {
     "TEXT": [
       "duplikacji"
     ]
@@ -634,7 +656,7 @@
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Menu gry",
+      "Ustawienia gry",
       "Grafika",
       "Rozdzielczość: NL Limit klatek na sekundę:",
       "Pełny ekran NL Okno bez ramek (zalecane) NL Wstrząsy ekranu",
@@ -653,7 +675,7 @@
       "NL NL Synchronizacja pionowa",
       "Playtester Art Mode",
       "Wyświetlaj przy kartach klawisze szybkiego wyboru",
-      "Input Settings"
+      "Ustawienia sterowania"
     ]
   },
   "DailyScreen": {
@@ -685,6 +707,44 @@
       "Wróć",
       "Postęp dla Wyzwań Dnia nie jest zapisywany."
     ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Ustawienia sterowania",
+      "Ustawienia gry",
+      "Powrót",
+      "Komendy",
+      "Klawiatura",
+      "Kontroler (Jeszcze nie wspierany)",
+      "Zresetuj do ustwawień domyślnych",
+      "Potwierdź",
+      "Anuluj / Wyjdź",
+      "Mapa",
+      "Talia",
+      "Stos rozgrywający",
+      "Stos kart odrzuconych",
+      "Stos kart wykluczonych",
+      "Zakończ turę",
+      "Lewo",
+      "Prawo",
+      "Wybierz kartę #1",
+      "Wybierz kartę #2",
+      "Wybierz kartę #3",
+      "Wybierz kartę #4",
+      "Wybierz kartę #5",
+      "Wybierz kartę #6",
+      "Wybierz kartę #7",
+      "Wybierz kartę #8",
+      "Wybierz kartę #9",
+      "Wybierz kartę #10"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
   },
   "CardLibraryScreen": {
     "TEXT": [
@@ -779,7 +839,7 @@
       "Zablokowane",
       "Ta postać będzie dostępna po ukończeniu pierwszej wyprawy.",
       "Ta postać jest niedostępna we Wczesnym Dostępie.",
-      "Ta postać będzie dostępna po dotarciu na szczyt Iglicy.",
+      "Ta postać będzie dostępna po ukończeniu wyprawy Cieniem.",
       "PŻ: ",
       "Złoto: ",
       " – pozostałe ulepszenia",
@@ -794,7 +854,7 @@
       "W drogę",
       "Pancernik",
       "Cień",
-      "Crowbot",
+      "Defekt",
       "Wróć",
       "Tryb Wyniesienia – poziom: ",
       "",
@@ -969,6 +1029,11 @@
       "Ten przeciwnik nie zamierza atakować!"
     ]
   },
+  "ReprieveAction": {
+    "TEXT": [
+      "Ten przeciwnik zamierza atakować!"
+    ]
+  },
   "ApplyPowerAction": {
     "TEXT": [
       "Kontra",
@@ -985,6 +1050,11 @@
   "ImmolateAction": {
     "TEXT": [
       "wykluczenia"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
     ]
   },
   "TheBeyond": {
@@ -1024,64 +1094,15 @@
       "Ustawienia gry",
       "",
       "Zmień rozdzielczość ekranu oraz inne opcje.",
-      "Sterowanie",
+      "Ustawienia sterowania",
       "",
-      "Ta funkcja nie jest jeszcze dostępna.",
+      "Zmień sterowanie i skróty klawiszowe.",
       "Autorzy",
       "",
       "Wyświetl listę osób, które przyczyniły się do powstania Slay the Spire!",
       "Unknown",
       "",
       "Ta funkcja nie jest jeszcze dostępna."
-    ]
-  },
-  "InputSettingsScreen": {
-    "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
-    ]
-  },
-  "InputKeyNames": {
-    "TEXT_DICT": {
-      "Escape": "ESC",
-      "Forward Delete": "Delete",
-      "Delete": "Backspace"
-    }
-  },
-  "ReprogramAction": {
-    "TEXT": [
-      "Discard"
-    ]
-  },
-  "CacheAction": {
-    "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
     ]
   }
 }

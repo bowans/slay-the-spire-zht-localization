@@ -1083,5 +1083,26 @@
       "Escoge una Carta para poner encima de tu Pila de Robado.",
       "Escoge Cartas para poner encima de tu Pila de Robado."
     ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a card to Add to Your Hand",
+      "Choose cards to Add to Your Hand"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
+    ]
   }
 }

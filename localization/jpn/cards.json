@@ -1058,8 +1058,8 @@
   },
   "Stack": {
     "NAME": "スタック",
-    "DESCRIPTION": "捨て札の枚数に等しい ブロック を得る。 NL 廃棄 。",
-    "UPGRADE_DESCRIPTION": "捨て札の枚数に等しい ブロック を得る。",
+    "DESCRIPTION": "捨て札の枚数に等しい ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "捨て札の枚数+3に等しい ブロック を得る。",
     "EXTENDED_DESCRIPTION": [
       " NL (!B! ブロック を得る。)"
     ]
@@ -1100,7 +1100,7 @@
   },
   "Streamline": {
     "NAME": "効率化",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 効率化をプレイするたび、この戦闘中そのコストが !M! 減る。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL このカードをプレイするたび、この戦闘中そのコストが !M! 減る。"
   },
   "All For One": {
     "NAME": "オールフォーワン",
@@ -1141,7 +1141,8 @@
   },
   "Static Discharge": {
     "NAME": "静電放電",
-    "DESCRIPTION": "攻撃によってダメージを受けるたび、 ライトニング !M! を 生成 する。"
+    "DESCRIPTION": "攻撃によってダメージを受けるたび、 ライトニング !M! を 生成 する。",
+    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Ice Wall": {
     "NAME": "Ice Wall",
@@ -1185,7 +1186,7 @@
     "DESCRIPTION": "!B! ブロック を得る。"
   },
   "Redo": {
-    "NAME": "やり直し",
+    "NAME": "反復",
     "DESCRIPTION": "次のオーブを 喚起 する。 NL その 喚起 したオーブを 生成 する。"
   },
   "White Noise": {
@@ -1197,11 +1198,12 @@
     "DESCRIPTION": "この戦闘でプレイした「パワー」1枚につき、 すべての敵に !M! ダメージを与える。",
     "EXTENDED_DESCRIPTION": [
       " NL 廃棄 。",
-      " NL !D! ダメージを与える。"
-    ]
+      " NL (!D! ダメージを与える。)"
+    ],
+    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
   },
   "Sunder": {
-    "NAME": "分離",
+    "NAME": "切断",
     "DESCRIPTION": "!D! ダメージを与える。 NL このカードで敵を倒したとき、 [B] [B] [B] を得る。"
   },
   "Chill": {
@@ -1210,11 +1212,11 @@
     "UPGRADE_DESCRIPTION": "天賦 。 NL 敵1体につき、 フロスト !M! を 生成 する。 NL 廃棄 。"
   },
   "Seek": {
-    "NAME": "捜索",
+    "NAME": "検索",
     "DESCRIPTION": "山札から !M! 枚のカードを選び、手札に加える。 NL 廃棄 。"
   },
   "Echo Form": {
-    "NAME": "反響形態",
+    "NAME": "反響化",
     "DESCRIPTION": "ターンの最初にプレイするカードを、2度プレイする。 NL エセリアル 。",
     "UPGRADE_DESCRIPTION": "ターンの最初にプレイするカードを、2度プレイする。"
   },
@@ -1233,7 +1235,7 @@
   "Hello World": {
     "NAME": "ハロー・ワールド",
     "DESCRIPTION": "ターン開始時に、 ランダムなコモンのカードを1枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "天賦 。 NL ーン開始時に、 ランダムなコモンのカードを1枚手札に加える。"
+    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時に、 ランダムなコモンのカードを1枚手札に加える。"
   },
   "Primitive Tech": {
     "NAME": "Primitive Tech",
@@ -1242,5 +1244,21 @@
   "Scrape": {
     "NAME": "スクレイプ",
     "DESCRIPTION": "!D! ダメージを与える。 NL カードを !M! 枚引く。 NL この方法で引いた0コスト以外のカードを捨てる。"
+  },
+  "Reprieve": {
+    "NAME": "猶予",
+    "DESCRIPTION": "敵が攻撃を予定していない場合、 集中力 !M! を得る。"
+  },
+  "Lockon": {
+    "NAME": "ロックオン",
+    "DESCRIPTION": "!D! ダメージを与える。 NL このターン、ライトニング と ダーク オーブはこの敵を狙う。"
+  },
+  "Consume": {
+    "NAME": "消尽",
+    "DESCRIPTION": "集中力 !M! を得る。 NL オーブスロットを1つ失う。"
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

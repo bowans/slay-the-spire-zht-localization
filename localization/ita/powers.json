@@ -3,7 +3,7 @@
     "NAME": "Precisione",
     "DESCRIPTIONS": [
       "I #yPugnali infliggono #b",
-      " danni addizionali."
+      " danni in più."
     ]
   },
   "After Image": {
@@ -48,8 +48,8 @@
   "Barricade": {
     "NAME": "Barricata",
     "DESCRIPTIONS": [
-      "Il #yBlocco non è rimosso all'inizio del tuo turno.",
-      "Il #yBlocco non è rimosso all'inizio del turno."
+      "Il #yBlocco non viene rimosso ad inizio turno.",
+      "Il #yBlocco non viene rimosso ad inizio turno."
     ]
   },
   "Blur": {
@@ -63,10 +63,10 @@
   "Brutality": {
     "NAME": "Brutale",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, perdi #b",
+      "Ad inizio turno perdi #b",
       " PV e peschi #b",
       " carta.",
-      "All'inizio del tuo turno, perdi #b",
+      "Ad inizio turno perdi #b",
       " PV e peschi #b",
       " carte."
     ]
@@ -89,7 +89,7 @@
   "Combust": {
     "NAME": "Combustione",
     "DESCRIPTIONS": [
-      "Alla fine del tuo turno, perdi #b",
+      "A fine del tuo turno perdi #b",
       " PV ed infliggi #b",
       " danni a TUTTI i nemici."
     ]
@@ -103,7 +103,7 @@
   "Constricted": {
     "NAME": "Costretto",
     "DESCRIPTIONS": [
-      "Alla fine del tuo turno ricevi #b",
+      "A fine turno ricevi #b",
       " danni."
     ]
   },
@@ -148,7 +148,7 @@
   "Demon Form": {
     "NAME": "Forma Demoniaca",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, ottieni #b",
+      "Ad inizio turno ottieni #b",
       " #yForza."
     ]
   },
@@ -188,10 +188,10 @@
     "NAME": "Peschi",
     "DESCRIPTIONS": [
       "Peschi #b",
-      " carta addizionale all'inizio di ogni turno.",
-      " carta in meno all'inizio di ogni turno.",
-      " carte addizionali all'inizio di ogni turno.",
-      " carte in meno all'inizio di ogni turno."
+      " carta in più ad inizio turno.",
+      " carta in meno ad inizio turno.",
+      " carte in più ad inizio turno.",
+      " carte in meno ad inizio turno."
     ]
   },
   "Draw Down": {
@@ -214,8 +214,8 @@
     "NAME": "Supercarica",
     "DESCRIPTIONS": [
       "Ottieni #b",
-      " [G] addizionale il prossimo turno.",
-      " [G] addizionali il prossimo turno.",
+      " [G] in più il prossimo turno.",
+      " [G] in più il prossimo turno.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
@@ -228,7 +228,7 @@
   "Envenom": {
     "NAME": "Velenoso",
     "DESCRIPTIONS": [
-      "Quando infliggi danno da #yAttacco non bloccato, applica #b",
+      "Quando infliggi danno da #yAttacco non bloccato applichi #b",
       " #yVeleno."
     ]
   },
@@ -259,7 +259,7 @@
   "Fire Breathing": {
     "NAME": "Sputafuoco",
     "DESCRIPTIONS": [
-      "A fine del tuo turno, infliggi infliggi #b",
+      "A fine turno, infliggi #b",
       " danni a TUTTI i nemici per ogni attacco giocato nel turno."
     ]
   },
@@ -294,7 +294,7 @@
     "NAME": "Incatenato",
     "DESCRIPTIONS": [
       "Riacquista #b",
-      " #yForza alla fine del suo turno."
+      " #yForza dopo aver agito."
     ]
   },
   "Gambit": {
@@ -310,13 +310,13 @@
     "NAME": "Maleficio",
     "DESCRIPTIONS": [
       "Quando giochi una carta non-Attacco, mescola #b",
-      " #yDisorientato nella tua Pila."
+      " #yDisorientato nella Pila."
     ]
   },
   "Hide": {
     "NAME": "Nascosto",
     "DESCRIPTIONS": [
-      "Non puoi ricevere danno fino all'inizio del tuo prossimo turno.",
+      "Non puoi ricevere danno fino al tuo prossimo turno.",
       "Non puoi ricevere danno per #b",
       " turni."
     ]
@@ -324,9 +324,9 @@
   "Infinite Blades": {
     "NAME": "Lame Infinite",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, peschi #b",
-      " #yPugnali.",
-      " #yPugnale."
+      "Ad inizio turno aggiungi #b",
+      " #yPugnali alla tua mano.",
+      " #yPugnale alla tua mano."
     ]
   },
   "Bullet Time": {
@@ -363,7 +363,7 @@
   "Flex": {
     "NAME": "Flessione",
     "DESCRIPTIONS": [
-      "Alla fine del tuo turno, perdi #b",
+      "A fine turno, perdi #b",
       " #yForza."
     ]
   },
@@ -373,16 +373,16 @@
       "Quando riceve danno da #yAttacchi, ottiene #b",
       " #yBlocco. Ogni volta che ",
       " si attiva, ottiene più blocco. Questo valore torna #b",
-      " all'inizio del tuo turno."
+      " ad inizio turno."
     ]
   },
   "Metallicize": {
     "NAME": "Metallizzato",
     "DESCRIPTIONS": [
-      "Ottieni #b",
-      " #yBlocco alla fine del tuo turno.",
-      "Ottiene #b",
-      " #yBlocco alla fine del suo turno."
+      "A fine turno questo buff conferisce #b",
+      " #yBlocco.",
+      "A fine turno questo buff conferisce #b",
+      " #yBlocco."
     ]
   },
   "Minion": {
@@ -401,27 +401,27 @@
   "Next Turn Block": {
     "NAME": "Blocco Futuro",
     "DESCRIPTIONS": [
-      "All'inizio del tuo prossimo turno, ottieni #b",
-      " #yBlocco."
+      "Ottieni #b",
+      " #yBlocco all'inizio del tuo prossimo turno."
     ]
   },
   "Night Terror": {
     "NAME": "Incubo",
     "DESCRIPTIONS": [
-      "All'inizio del tuo prossimo turno, aggiungi #b",
+      "Ad inizio turno aggiungi #b",
       " alla tua mano."
     ]
   },
   "No Draw": {
     "NAME": "Non Peschi",
     "DESCRIPTIONS": [
-      "Non puoi pescare carte fino alla fine del turno."
+      "Non puoi pescare fino al prossimo turno."
     ]
   },
   "Noxious Fumes": {
     "NAME": "Miasma",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, applica #b",
+      "Ad inizio turno applichi #b",
       " #yVeleno a TUTTI i nemici."
     ]
   },
@@ -452,17 +452,17 @@
     "NAME": "Armatura a Piastre",
     "DESCRIPTIONS": [
       "Ottieni #b",
-      " #yBlocco alla fine del tuo turno. Perdere PV da un attacco riduce #yArmatura a Piastre di #b1.",
+      " #yBlocco a fine turno. Perdere PV da un attacco riduce #yArmatura a Piastre di #b1.",
       "Ottiene #b",
-      " #yBlocco alla fine del suo turno. Perdere PV da un attacco riduce #yArmatura a Piastre di #b1."
+      " #yBlocco a fine turno. Perdere PV da un attacco riduce #yArmatura a Piastre di #b1."
     ]
   },
   "Poison": {
     "NAME": "Veleno",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, perdi #b",
+      "Ad inizio turno perdi #b",
       " PV, ed il #yVeleno viene ridotto di #b1.",
-      "All'inizio del suo turno, perde #b"
+      "Prima di agire perde #b"
     ]
   },
   "Rage": {
@@ -482,14 +482,14 @@
     "NAME": "Rigenera",
     "DESCRIPTIONS": [
       "Si cura di #b",
-      " #yPV alla fine del suo turno."
+      " #yPV dopo aver agito."
     ]
   },
   "Regeneration": {
     "NAME": "Rigenerazione",
     "DESCRIPTIONS": [
       "Curati di #b",
-      " #yPV alla fine del tuo turno per #b",
+      " #yPV a fine turno per #b",
       " turni."
     ]
   },
@@ -509,7 +509,7 @@
   "Retain Cards": {
     "NAME": "Conserva Carte",
     "DESCRIPTIONS": [
-      "Alla fine di ogni turno, puoi conservare #b",
+      "A fine turno puoi conservare #b",
       " carta.",
       " carte."
     ]
@@ -517,36 +517,36 @@
   "Retain Hand": {
     "NAME": "Conserva Mano",
     "DESCRIPTIONS": [
-      "Alla fine del tuo turno, non scarterai la tua mano per #b",
+      "A fine turno non scarterai la tua mano per #b",
       " turni.",
-      "Alla fine del tuo turno, non scartare la tua mano."
+      "A fine turno non scartare la tua mano."
     ]
   },
   "Riposte": {
     "NAME": "Risposta",
     "DESCRIPTIONS": [
-      "Una volta per turno, ti infligge #b",
+      "Una volta per turno ti infligge #b",
       " danni quando giochi un #yAttacco."
     ]
   },
   "Ritual": {
     "NAME": "Rituale",
     "DESCRIPTIONS": [
-      "Alla fine del suo turno, ottiene #b",
+      "Dopo aver agito ottiene #b",
       " #yForza."
     ]
   },
   "GrowthPower": {
     "NAME": "Crescita",
     "DESCRIPTIONS": [
-      "A fine turno, guadagna #b",
+      "Dopo aver agito guadagna #b",
       " #yForza."
     ]
   },
   "Generic Strength Up Power": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "Alla fine del suo turno, ottiene #b",
+      "A fine turno ottiene #b",
       " #yForza."
     ]
   },
@@ -586,7 +586,7 @@
   "Painful Stabs": {
     "NAME": "Coltellate Dolorose",
     "DESCRIPTIONS": [
-      "Ogni volta che ricevi danno da questo nemico, aggiungi una #yFerita nella tua Pila degli Scarti."
+      "Ogni volta che ricevi danno da questo nemico, aggiungi una #yFerita nella Pila degli Scarti."
     ]
   },
   "Skill Burn": {
@@ -617,7 +617,7 @@
   "Spore Cloud": {
     "NAME": "Nube di Spore",
     "DESCRIPTIONS": [
-      "Quando muore, ti applica #yVulnerabile per #b",
+      "Quando muore ti applica #yVulnerabile per #b",
       " turni."
     ]
   },
@@ -668,8 +668,8 @@
   "Berserk": {
     "NAME": "Berserk",
     "DESCRIPTIONS": [
-      "Se i tuoi PV sono a #b50% o meno, ottieni ",
-      " all'inizio del tuo turno."
+      "Ad inizio turno, se i tuoi PV sono al #b50% o meno, ottieni ",
+      "."
     ]
   },
   "Time Warp": {
@@ -683,7 +683,7 @@
   "Tools Of The Trade": {
     "NAME": "Ferri del Mestiere",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, peschi #b",
+      "Ad inizio turno, peschi #b",
       " carta e scarta #b",
       " carta.",
       " carte e scarta #b",
@@ -728,9 +728,9 @@
     ]
   },
   "Conserve": {
-    "NAME": "Conserva",
+    "NAME": "Riserva",
     "DESCRIPTIONS": [
-      "#yL'Energia viene conservata per questo turno.",
+      "#yL'Energia viene conservata per il prossimo turno.",
       "#yL'Energia viene conservata per i prossimi #b",
       " turni."
     ]
@@ -759,16 +759,16 @@
     ]
   },
   "StaticDischarge": {
-    "NAME": "Scarica Elettrostatica",
+    "NAME": "Elettrostatica",
     "DESCRIPTIONS": [
-      "Quando ricevi danno da un #yAttacco, #yCanalizza #b",
+      "Quando ricevi danno da un #yAttacco, #yCanalizzi #b",
       " #yFulmine."
     ]
   },
   "Repair": {
     "NAME": "Ripara",
     "DESCRIPTIONS": [
-      "Alla fine del combattimento, cura #b",
+      "Alla fine del combattimento ti curi di #b",
       " PV."
     ]
   },
@@ -783,9 +783,9 @@
   "Echo Form": {
     "NAME": "Modulo Iterativo",
     "DESCRIPTIONS": [
-      "La prima carta che giochi ogni turno è giocata #b",
-      " una volta in più.",
-      " volte in più."
+      "La prima carta che giochi ogni turno viene giocata due volte.",
+      "Le prime #b ",
+      " carte che giochi ogni turno vengono giocate due volte."
     ]
   },
   "Heatsink": {
@@ -805,21 +805,21 @@
   "Storm": {
     "NAME": "Tempesta",
     "DESCRIPTIONS": [
-      "Ogni volta che giochi un #bPotere, #yCanalizza #b ",
+      "Ogni volta che giochi un #bPotere, #yCanalizzi #b ",
       " Fulmine."
     ]
   },
   "Magnetism": {
     "NAME": "Magnetismo",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, aggiungi #b%s carta incolore casuale alla tua mano.",
-      "All'inizio del tuo turno, aggiungi #b%s carte incolori casuali alla tua mano."
+      "Ad inizio turno aggiungi #b%s carta incolore casuale alla tua mano.",
+      "Ad inizio turno aggiungi #b%s carte incolori casuali alla tua mano."
     ]
   },
   "Creative AI": {
     "NAME": "IA Creativa",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, aggiungi #b",
+      "Ad inizio turno aggiungi #b",
       " carta Potere casuale alla tua mano."
     ]
   },
@@ -827,14 +827,14 @@
     "NAME": "Auto-Apprendimento",
     "DESCRIPTIONS": [
       "Pesca #b",
-      " carta in più all'inizio di ogni turno.",
-      " carte in più all'inizio di ogni turno."
+      " carta in più ad inizio turno.",
+      " carte in più ad inizio turno."
     ]
   },
   "Bias": {
     "NAME": "Bias",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, perdi #b",
+      "Ad inizio turno perdi #b",
       " #yFocus."
     ]
   },
@@ -856,9 +856,9 @@
   "Rebound": {
     "NAME": "Recupero",
     "DESCRIPTIONS": [
-      "La prossima carta che giochi questo turno viene messa in cima alla tua Pila.",
+      "La prossima carta che giochi questo turno viene messa in cima alla Pila.",
       "Le prossime #b",
-      " carte che giochi questo turno vengono messe in cima alla tua Pila."
+      " carte che giochi questo turno vengono messe in cima alla Pila."
     ]
   },
   "Primitive": {
@@ -872,7 +872,7 @@
   "Hello": {
     "NAME": "Buongiorno!",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, aggiungi #b",
+      "Ad inizio turno aggiungi #b",
       " carte Comuni casuali alla tua mano.",
       " carta Comune casuale alla tua mano."
     ]
@@ -880,9 +880,17 @@
   "Loop": {
     "NAME": "Ciclo",
     "DESCRIPTIONS": [
-      "All'inizio del tuo turno, usa l'abilità passiva del tuo prossimo Globo.",
-      "All'inizio del tuo turno, usa l'abilità passiva dei tui prossimi #b",
+      "Ad inizio turno usi l'abilità passiva del tuo primo Globo.",
+      "Ad inizio turno usi l'abilità passiva dei tui primi #b",
       " Globi."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTIONS": [
+      "#yLightning and #yDark Orbs target this enemy.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }

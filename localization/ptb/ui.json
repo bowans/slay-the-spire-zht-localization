@@ -1083,5 +1083,26 @@
       "Choose a Card to Put on Top of Your Draw Pile.",
       "Choose Cards to Put on Top of Your Draw Pile."
     ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a card to Add to Your Hand",
+      "Choose cards to Add to Your Hand"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
+    ]
   }
 }

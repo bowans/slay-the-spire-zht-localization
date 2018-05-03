@@ -94,18 +94,18 @@
     "DESCRIPTIONS": [
       "Wähle beim Aufheben eine Angriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
-      "Du fügst zu Beginn jedes Kampfes ",
-      " deiner Hand hinzu."
+      "Beginne jeden Kampf mit ",
+      " auf deiner Hand."
     ]
   },
   "Bottled Lightning": {
     "NAME": "Flaschenblitz",
-    "FLAVOR": "Im wirbelnden Sog siehst du, wie ein Teil deiner selbst zurückstarrt.",
+    "FLAVOR": "Im wirbelnden Mahlstrom siehst du einen Teil deiner selbst zurückstarren.",
     "DESCRIPTIONS": [
       "Wähle beim Aufheben eine Fertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
-      "Du fügst zu Beginn jedes Kampfes ",
-      " deiner Hand hinzu."
+      "Beginne jeden Kampf mit ",
+      " auf deiner Hand."
     ]
   },
   "Bronze Scales": {
@@ -526,7 +526,7 @@
     "NAME": "Seltsam glatter Stein",
     "FLAVOR": "So etwas Glattes und Makelloses hast du noch nie gesehen. Das muss von den Ahnen sein.",
     "DESCRIPTIONS": [
-      "Du erhältst zu Beginn jedes Kampfes #b",
+      "Beginne jeden Kampf mit #b",
       " #yGeschicklichkeit."
     ]
   },
@@ -901,7 +901,7 @@
     "NAME": "Nadel und Faden",
     "FLAVOR": "Der magische Faden umhüllt deinen Körper und verleiht dir eine harte Schale.",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, erhalte #b",
+      "Zu Beginn jedes Kampfes erhalte #b",
       " #yPanzerrüstung."
     ]
   },
@@ -936,7 +936,7 @@
     "NAME": "Werkzeugkiste",
     "FLAVOR": "Ein Werkzeug für jedes Problem.",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, erhalte eine zufällige farblose Karte auf deine Hand."
+      "Zu Beginn jedes Kampfes erhalte eine zufällige farblose Karte auf deine Hand."
     ]
   },
   "Torii": {
@@ -982,7 +982,7 @@
     "NAME": "Vajra",
     "FLAVOR": "Ein dekoratives Relikt für Krieger, die sich im Kampf als ruhmreich erweisen.",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, erhalte #b",
+      "Beginne jeden Kampf mit #b",
       " #yStärke."
     ]
   },
@@ -1038,13 +1038,13 @@
     ]
   },
   "Bottled Tornado": {
-    "NAME": "Flaschentornado (BETA)",
+    "NAME": "Flaschentornado",
     "FLAVOR": "Testrelikt.",
     "DESCRIPTIONS": [
-      "Wähle bei Aufnahme eine Machtkarte. Bei Beginn jedes Kampfes wird diese sich in deiner Hand befinden.",
+      "Wähle bei Aufnahme eine Machtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
-      "Wenn jeder Kampf beginnt, erhalte ",
-      " auf deine Hand."
+      "Beginne jeden Kampf mit ",
+      " auf deiner Hand."
     ]
   },
   "War Paint": {
@@ -1063,21 +1063,21 @@
     ]
   },
   "Molten Egg 2": {
-    "NAME": "Geschmolzenes Ei (BETA)",
-    "FLAVOR": "Das Ei eines Phoenix. Es leuchtet rot mit schimmernder Lava.",
+    "NAME": "Geschmolzenes Ei",
+    "FLAVOR": "Das Ei eines Phoenix. Es leuchtet rot, heiß mit siedender Lava.",
     "DESCRIPTIONS": [
       "Jedes mal, wenn du eine #yAngriffskarte erhältst, ist sie #yverbessert."
     ]
   },
   "Frozen Egg 2": {
-    "NAME": "Gefrorenes Ei (BETA)",
+    "NAME": "Gefrorenes Ei",
     "FLAVOR": "Ein regloses und gefrorenes Ei, das niemals schlüpfen wird.",
     "DESCRIPTIONS": [
       "Jedes mal, wenn du eine #yMachtkarte erhältst, ist sie #yverbessert."
     ]
   },
   "Toxic Egg 2": {
-    "NAME": "Toxisches Ei (BETA)",
+    "NAME": "Toxisches Ei",
     "FLAVOR": "\"Was eine fabelhafte Entdeckung! Es scheint ein inaktives Ei einer magischen Kreatur zu sein. Wer oder was hat es erschaffen?\" - Ranwid",
     "DESCRIPTIONS": [
       "Jedes mal, wenn du eine #yFertigkeitskarte erhältst, ist sie #yverbessert."
@@ -1094,12 +1094,12 @@
     "NAME": "Rübe",
     "FLAVOR": "Am Besten mit Ingwer.",
     "DESCRIPTIONS": [
-      "Du kannst nicht mehr #yGebrechlich werden."
+      "Du kannst nicht mehr #ygebrechlich werden."
     ]
   },
   "Inserter": {
     "NAME": "Greifarm",
-    "FLAVOR": "Fehlt.",
+    "FLAVOR": "Greifen. Ziehen. Stapeln. Wiederholen.",
     "DESCRIPTIONS": [
       "Alle #b2 Züge, erhalte #b1 Orb-Slot."
     ]
@@ -1108,7 +1108,7 @@
     "NAME": "Nuklearbatterie",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, #yKanalisiere #b1 #yPlasma."
+      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yPlasma."
     ]
   },
   "Runic Capacitor": {
@@ -1129,7 +1129,7 @@
     "NAME": "Festplatte",
     "FLAVOR": "Diese Festplatte beinhaltet wertvolle Daten über Vögel und Schlangen.",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, erhalte #b",
+      "Beginne jeden Kampf mit #b",
       " #yFokus."
     ]
   },
@@ -1137,14 +1137,14 @@
     "NAME": "Gesprungener Kern",
     "FLAVOR": "Die mysteriöse Lebenskraft die die Automatone des Spire antreibt. Er scheint kaputt zu sein.",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, #yKanalisiere #b1 #yBlitz."
+      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yBlitz."
     ]
   },
   "Symbiotic Virus": {
     "NAME": "Symbiotischer Virus",
-    "FLAVOR": "Ein bisschen #rSchlecht kann viel #gGutes tun...",
+    "FLAVOR": "Ein bisschen Schlechtes kann viel Gutes bringen...",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, #yKanalisiere #b1 #yDunkelheit."
+      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yDunkelheit."
     ]
   }
 }

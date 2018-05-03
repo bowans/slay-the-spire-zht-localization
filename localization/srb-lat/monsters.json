@@ -94,7 +94,7 @@
       "Dvostruki tresak",
       "Kovitlac",
       "Zagrevanje",
-      "Otpuštanje pare"
+      "Ispuštanje pare"
     ],
     "NAME": "Čuvar",
     "DIALOG": [
@@ -298,8 +298,8 @@
     "DIALOG": [
       "To zoveš oružjem?",
       "'Ajde!",
-      "Pokaži mi najbolje što imaš! NL @HAHAHA!@",
-      "Dajem ti pokušaj za džabe! NL Beskorisni slabiću!",
+      "Pokaži šta znaš! NL @HAHAHA!@",
+      "Evo ti slobodan udarac! NL Beskorisni slabiću!",
       "~Sad~ ~si~ ~nagrabusio...~",
       "@PORAZ??@ NL @NEMOGUĆE!!@",
       "~UMRI~ ~.~ ~.~ ~.~",
@@ -439,7 +439,7 @@
   },
   "SlaverRed": {
     "MOVES": [
-      "Grebanje",
+      "Satiranje",
       "Upetljavanje"
     ],
     "NAME": "Tlačitelj",
@@ -615,9 +615,9 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Sferni stražar",
+    "NAME": "Sferični stražar",
     "DIALOG": [
-      "~Tuđinac~ NL ~Otkriven~"
+      "~Neznanac~ NL ~Detektovan~"
     ]
   },
   "Darkling": {

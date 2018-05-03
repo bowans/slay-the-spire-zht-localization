@@ -547,7 +547,7 @@
     "NAME": "Pierre étrangement lisse",
     "FLAVOR": "Vous n'avez jamais rien vu d'aussi lisse et immaculé. Ce doit être l'œuvre des Anciens.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, gagnez #b",
+      "Commencez chaque combat avec #b",
       " de #yDextérité."
     ]
   },
@@ -646,7 +646,7 @@
     "NAME": "Pointe de stylo",
     "FLAVOR": "À travers la pointe, vous apercevez toutes les personnes tuées par son ancien propriétaire. Quelle violence...",
     "DESCRIPTIONS": [
-      "Toutes les #b10es #yAttaques que vous jouez infligent le double de dégâts."
+      "Chaque #b10ème #yAttaque inflige le double de dégâts."
     ]
   },
   "Philosopher's Stone": {
@@ -939,8 +939,8 @@
     "FLAVOR": "\"Un beau prototype.\" - L'architecte",
     "DESCRIPTIONS": [
       "Gagnez #b",
-      " #yd'or. Vous avez #b10 % de chance supplémentaires de trouver un trésor dans les salles ?.",
-      "Vous avez #b10 % de chance supplémentaires de trouver un trésor dans les salles ?."
+      " #yd'or. Vous avez #b10 % de chance supplémentaires de trouver un trésor dans les salles #y?.",
+      "Vous avez #b10 % de chance supplémentaires de trouver un trésor dans les salles #y?."
     ]
   },
   "Tiny House": {
@@ -1003,7 +1003,7 @@
     "NAME": "Vajra",
     "FLAVOR": "Une relique décorative offerte aux guerriers qui se couvrent de gloire au combat.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, gagnez #b",
+      "Commencez chaque combat avec #b",
       " de #yForce."
     ]
   },
@@ -1085,14 +1085,14 @@
   },
   "Cracked Core": {
     "NAME": "Cœur fissuré",
-    "FLAVOR": "La mystérieuse forme vitale qui alimente le robot de combat dans la Tour. Il parrait fissurée.",
+    "FLAVOR": "La mystérieuse forme vitale qui alimente le robot de combat dans la Tour. Il paraît fissuré.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yKéraunique."
     ]
   },
   "Inserter": {
     "NAME": "Bras robotisé",
-    "FLAVOR": "Manquant.",
+    "FLAVOR": "Avancer. Prendre. Empiler. Répéter.",
     "DESCRIPTIONS": [
       "Tous les #b2 tours, gagnez #b1 emplacement d'Orbe."
     ]
@@ -1143,8 +1143,8 @@
     "NAME": "Disque dur",
     "FLAVOR": "Ce disque dur contient de précieuses informations sur les oiseaux et les serpents.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, gagnez #b",
-      " #yConcentration."
+      "Commencez chaque combat avec #b",
+      " de #yConcentration."
     ]
   }
 }

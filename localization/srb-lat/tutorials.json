@@ -49,7 +49,8 @@
       "Ova karta ti daje moć kada se odigra. NL Moći su sposobnosti koje su aktivne tokom cele borbe.",
       "Karte zahtevaju energiju za odigravanje! NL Ova sfera dole levo pokazuje koliko ti je preostalo energije u ovom potezu.",
       "Ruka mi je #rpuna!",
-      "#rMaximum Orb capacity has been met."
+      "#rKapacitet sfernih polja je popunjen.",
+      "Nemam sfernih polja."
     ],
     "LABEL": [
       "moći",
@@ -89,7 +90,7 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Pritisni da pregledaš karte iscrpljene tokom ove borbe."
+      "Pritisni da vidiš karte iscrpljene tokom ove borbe."
     ],
     "LABEL": [
       "Gomila za iscrpljene"
@@ -146,12 +147,12 @@
   "Potion Panel Tip": {
     "TEXT": [
       "Baci ovaj napitak na neprijatelja.",
-      "Ispij ovaj napitak.",
-      "Odbaci ovaj napitak NL #r(ne #rmože #rda #rse #rpovrati)"
+      "Ispi ovaj napitak.",
+      "Odbaci ovaj napitak NL #r(ne #rmožeš #rda #rga #rpovratiš)."
     ],
     "LABEL": [
       "Baci",
-      "Ispij",
+      "Ispi",
       "Odbaci"
     ]
   },
@@ -181,7 +182,7 @@
       "pre vožda je uvek odmaralište.",
       "potroši zlato na tržnici! (Ovaj savet vam donosi trgovac)",
       "uzmi pauzu s vremena na vreme.",
-      "nijedan neprijatelj neće iskoristi isti potez tri puta zaredom.",
+      "desnim klikom na nagradnu kartu pri odabiru možeš da vidiš dodatne informacije.",
       "procenutalna računanja se na kraju uvek zaokružuju na dole.",
       "tokom borbe, možeš da pregledaš sadržinu svojih gomila za vučenje i odbacivanje.",
       "mogu se otkriti korisne informacije prelaženjem preko većine predmeta.",

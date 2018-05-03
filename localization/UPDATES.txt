@@ -1,4 +1,74 @@
 Updates for Translators!
+
+05/02/2018:
+cards.json
+	"Lockon"
+		"DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy." -> "DESCRIPTION": "Deal !D! damage. NL For the next !M! turns, Lightning and Dark Orbs target this enemy."
+	"BootSequence" (New card)
+	"Nova"
+		"DESCRIPTION": "Deal damage to ALL enemies equal to three times the number of Powers played this combat.", -> "DESCRIPTION": "Deal damage to ALL enemies equal to !M! times the number of Powers played this combat.",
+		"UPGRADE_DESCRIPTION" is not used now.
+	"Blizzard"
+		"DESCRIPTION": "Deal damage equal to two times the Frost Channeled this combat to ALL enemies.", -> "DESCRIPTION": "Deal damage equal to !M! times the Frost Channeled this combat to ALL enemies.",
+		"UPGRADE_DESCRIPTION" is not used now.
+
+powers.json
+	"Lockon"
+		"#yLightning and #yDark Orbs target this enemy for the next #b",
+		" turns.",
+		"#yLightning and #yDark Orbs target this enemy this turn."
+
+----------------------------------
+
+05/01/2018v2:
+ui.json
+	"DiscardPileToHandAction"
+
+----------------------------------	
+
+05/01/2018:
+cards.json
+	"Redo"
+		NAME: "Redo" -> "Recursion"
+
+----------------------------------	
+
+04/30/2018:
+tutorials.json
+	"Player Tips"
+		"I have no Orb slots."
+cards.json
+	"Consume"
+	"Lockon"
+	"Reprieve"
+	"Streamline"
+		"Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat." ->
+		"Deal !D! damage. NL Whenever you play this card, reduce its cost by !M! for this combat."
+	"Scrape"
+		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way." ->
+		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard all cards drawn this way that do not cost 0."
+	"Nova"
+		" NL Deals !D! damage." ->
+		" NL (Deals !D! damage)."
+credits.json
+	"LOC_SRB"
+powers.json
+	"Echo Form"
+ui.json
+	"ReprieveAction"
+	"RecycleAction"
+	"AnyCardFromDeckToHandAction"
+relics.json
+	"Inserter"
+		FLAVOR: "Push. Pull. Stack. Repeat."
+	"Symbiotic Virus"
+		FLAVOR typo fixes and removal of coloring.
+	"OddlySmoothStone" & "Data Disk" & "Vajra"
+		"At the start of each combat, gain #b", ->
+		"Start each combat with #b",
+
+----------------------------------
+
 04/27/2018:
 cards.json
 	"Echo Form"

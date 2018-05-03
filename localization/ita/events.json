@@ -25,12 +25,12 @@
   "Bonfire Elementals": {
     "NAME": "Spiriti del Falò",
     "DESCRIPTIONS": [
-      "Vedi un gruppo di #pspiritelli #pdel #pfuoco #pviola ~danzare~, intorno a un grande falò. NL ",
+      "Vedi un gruppo di #pspiritelli #pdel #pfuoco #pviola ~danzare~ intorno a un grande falò. NL ",
       "Gli spiriti lanciano oggettini e piccole ossa nel fuoco, che ~scoppietta~ ~brillando~ ogni volta. NL Quando ti avvicini, gli spiriti ti osservano, come in attesa...",
       "Lanci un'offerta nel fuoco. NL NL ",
       "La tua scelta di immolare una #pMaledizione sembra contrariare gli spiriti... La carta brucia levando un leggero fumo nero. Ricevi... #p~qualcosa~ in cambio.",
       "Non succede nulla... NL Gli spiriti non sembrano più interessati a te. Che delusione...",
-      "Le fiamme si fanno di poco più intense. NL Gli spiriti continuano a danzare. Ti senti riscaldare dalla loro presenza... NL #gCura #b5 PV.",
+      "Le fiamme si fanno di poco più intense. NL Gli spiriti continuano a danzare. Ti senti riscaldare dalla loro presenza... NL Ti #gCuri di #b5 PV.",
       "Le fiamme eruttano, facendosi imponenti! NL Gli spiriti ti danzano intorno, eccitati, riempiendoti con un ~senso~ ~di~ ~calore.~ NL Vieni #gcurato completamente",
       "Le fiamme @esplodono,@ mandandoti quasi a gambe all'aria, mentre il fuoco @raddoppia@ in forza. NL Gli spiriti ti danzano intorno agitati, prima di ~unirsi~ ~in~ ~te,~ riempiendoti di calore e forza. NL Guadagni #b10 PV massimi e vieni #gcurato completamente."
     ],
@@ -160,7 +160,7 @@
       "[Gioca]",
       "[Premio!] YAY!!!!",
       "[Premio!] #gOttieni #guna #gReliquia.",
-      "[Premio!] #gCura #gtutta #gla #gvita.",
+      "[Premio!] #gTi #gCuri #gdel #gTutto.",
       "[Premio?] #rMaledizione #r- #rRovina.",
       "[Premio!] #gRimuovi #guna #gcarta #gdal #gtuo #gmazzo.",
       "[Premio?] #rPerdi #r",
@@ -172,7 +172,7 @@
   "Falling": {
     "NAME": "Caduta",
     "DESCRIPTIONS": [
-      "Saltellando fra un oggetto sospeso e l'altro, scivoli. NL NL Cadi.",
+      "Saltellando fra un masso sospeso e l'altro, scivoli. NL NL Cadi.",
       "Mentre cadi, consideri le tue opzioni: NL Atterrare sano e salvo affidandoti alle migliori tecniche che conosci. NL Incanalare un Potere per sopravvivere. NL Aggrapparti al muro colpendolo.",
       "Atterri con estrema grazia prima di proseguire.",
       "Raccogliendo la tua energia interiore, riesci ad atterrare senza un graffio.",
@@ -259,7 +259,7 @@
       "...",
       "[Accogli la Follia] #gRicevi #g2 #gFollia. #rPerdi #r",
       " #rPV.",
-      "[Concentrati] #rVieni #rMaledetto #r- #rConvulsioni. #gCura #g",
+      "[Concentrati] #rVieni #rMaledetto #r- #rConvulsioni. #gTi #gCuri #gdi #g",
       "[Esci]",
       " #gPV."
     ]
@@ -275,7 +275,7 @@
       " NL Nessuna ciambella per te... NL La ~tristezza~ ti coglie, ma provi soprattutto #rrimorso."
     ],
     "OPTIONS": [
-      "[Banana] #gCura #g",
+      "[Banana] #gti #gCuri #gdi #g",
       " #gPV.",
       "[Ciambella] #gPV #gmassimi #g+",
       ".",
@@ -292,7 +292,7 @@
       "Questo #b\"Chierico\" non ti sembra molto affidabile, perciò decidi di andartene."
     ],
     "OPTIONS": [
-      "[Cura] #y35 #yOro: #gCurati #gdi #g",
+      "[Cura] #y35 #yOro: #gti #gCuri #gdi #g",
       "[Bloccata] Richiede: ",
       " Oro.",
       "[Purifica] #y",
@@ -386,8 +386,8 @@
   "Liars Game": {
     "NAME": "Il Ssssserpente",
     "DESCRIPTIONS": [
-      "Ti ritrovi in una stanza con un enorme buco nel pavimento. Mentre ti avvicini, un serpente di gigantesco sbuca dall'apertura. NL NL ~\"Ho~ ~hooo!~ ~Salve,~ ~salve!~ ~E~ ~cosa~ ~abbiamo~ ~mai~ ~qui?~ Salve avventuriero, ti farò ora una semplice domanda. NL Non c'è di meglio nella vita che poter #y~comprare~ #y~tutto~ #y~ciò~ #y~che~ #y~vuoi!~ NL Vero?\"",
-      "~\"Sssssssssiiiii!~ NL ~Pressssto~ ~~ ~ne~ ~ssssarà~ ~valsssa~ ~la~ ~pena.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+      "Ti ritrovi in una stanza con un enorme buco nel pavimento. Mentre ti avvicini, un serpente gigantesco sbuca dall'apertura. NL NL ~\"Ho~ ~hooo!~ ~Salve,~ ~salve!~ ~E~ ~cosa~ ~abbiamo~ ~mai~ ~qui?~ Salve avventuriero, ti farò ora una semplice domanda. NL Non c'è di meglio nella vita che poter #y~comprare~ #y~tutto~ #y~ciò~ #y~che~ #y~vuoi!~ NL Vero?\"",
+      "~\"Sssssssssììììì!~ NL ~Pressssto~ ~ne~ ~ssssarà~ ~valsssa~ ~la~ ~pena.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
       "Il serpente ti fissa, con lo sguardo colmo di delusione.",
       "Il serpente solleva la testa al soffitto e rigetta una pioggia #yd'oro! NL È un spettacolo magnifico e terrificante. NL Raccogli tutto #yl'oro, ringrazi il serpente, e ti rimetti in cammino."
     ],
@@ -425,7 +425,7 @@
     ],
     "OPTIONS": [
       "[Calpesta] #rIrrita #ri #rFunghi.",
-      "[Mangia] #gCura #g",
+      "[Mangia] #gti #gCuri #gdi #g",
       " #gPV. #rVieni #rMaledetto #r- #rParassita.",
       "[Combatti]",
       "[Esci]"
@@ -627,7 +627,7 @@
       "@tu-tum@ ... @tum-tum@ ... @tu-tum@ ... NL Una pulsante sensazione di profondo terrore riempe questa stanza... NL Quindi è questo il #r~cuore~ della Guglia? La fonte di questa malvagità?",
       "Riesci a infliggere #b",
       " danni! NL Il cuore si #r@contorce@ e #r~sanguina~ ...ma continua comunque a battere. NL Neanche I tuoi attacchi più potenti sono abbastanza?",
-      "Ti domandi: ~\"~Sono~ ~forse~ ~già~ ~stato~ ~qui?\"~ NL Pensi di aver raggiunto un totale di #b",
+      "Ti domandi: ~\"Sono~ ~forse~ ~già~ ~stato~ ~qui?\"~ NL Pensi di aver raggiunto un totale di #b",
       " danni inflitti al cuore.",
       " NL Un totale di #b",
       " danni sono stati inflitti da tutti coloro che lo hanno sfidato.",
@@ -677,7 +677,7 @@
     ],
     "OPTIONS": [
       "[Leggi] #gScegli #g1 #gdi #g20 #gcarte #gda #gaggiungere #gal #gtuo #gmazzo.",
-      "[Dormi] #gCura #g",
+      "[Dormi] #gTi #gCuri #gdi #g",
       " #gPV.",
       "[Esci]",
       "Scegli una carta da aggiungere al tuo mazzo."

@@ -158,7 +158,7 @@
     ]
   },
   "TEST": {
-    "HEADER": "Playtesters",
+    "HEADER": "Testspieler",
     "NAMES": [
       "Agari",
       "Daria Anderson",
@@ -190,7 +190,7 @@
     ]
   },
   "SPECIAL": {
-    "HEADER": "Operations & Metrics",
+    "HEADER": "Besonderen Dank an:",
     "NAMES": [
       "Harry Rabinowitz",
       "Kevin \"Billy\" Matheson",
@@ -204,7 +204,7 @@
     ]
   },
   "THANKS_MSG": {
-    "HEADER": "...and thank YOU for playing!",
+    "HEADER": "...und danke DIR fürs Spielen!",
     "NAMES": []
   },
   "LOC_PTB": {
@@ -222,6 +222,12 @@
     "HEADER": "Norsk Oversettelse",
     "NAMES": [
       "Eystein Jarp"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "Serbian Localization",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
     ]
   }
 }

@@ -742,7 +742,7 @@
     ]
   },
   "Heatsink": {
-    "NAME": "히트싱크",
+    "NAME": "방열",
     "DESCRIPTIONS": [
       "파워 카드를 사용할 때마다 카드를 #b",
       " 장 뽑습니다.",
@@ -787,7 +787,7 @@
     ]
   },
   "Bias": {
-    "NAME": "편견",
+    "NAME": "편향",
     "DESCRIPTIONS": [
       "턴 시작 시 #y밀집 을 #b",
       " #y잃습니다."
@@ -807,11 +807,11 @@
     ]
   },
   "Amplify": {
-    "NAME": "Amplify",
+    "NAME": "증폭",
     "DESCRIPTIONS": [
-      "On this turn, play your next #yPower twice.",
-      "On this turn, play your next ",
-      " #yPowers twice."
+      "이번 턴에 사용하는 다음 #y파워 카드를 두 번 사용합니다.",
+      "이번 턴에 사용하는 다음 #b",
+      " 장의 #y파워 카드를 두 번 사용합니다."
     ]
   },
   "Buffer": {
@@ -848,9 +848,9 @@
   "Echo Form": {
     "NAME": "메아리",
     "DESCRIPTIONS": [
-      "매 턴 처음 사용하는 카드가 #b",
-      " 번 추가로 사용됩니다.",
-      " 번 추가로 사용됩니다."
+      "매 턴 처음 사용하는 카드가 두 번 사용됩니다.",
+      "매 턴 처음 사용하는 #b",
+      " 장의 카드가 두 번 사용됩니다."
     ]
   },
   "Prime": {
@@ -883,6 +883,14 @@
       "턴 시작 시 무작위 일반 카드를 #b",
       " 장 얻습니다.",
       " 장 얻습니다."
+    ]
+  },
+  "Lockon": {
+    "NAME": "목표 지정됨",
+    "DESCRIPTIONS": [
+      "#y전기 와 #y어둠 구체가 이 적을 우선 공격합니다.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }
