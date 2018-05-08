@@ -38,7 +38,7 @@
   },
   "Glass Knife": {
     "NAME": "Stakleni nož",
-    "DESCRIPTION": "Zadaj !D! štete dvaput. Ubojitost ove karte se smanjuje za dva tokom ove borbe."
+    "DESCRIPTION": "Zadaj !D! štete dvaput. Ubojitost ove karte se smanjuje za dva tokom trenutne borbe."
   },
   "Cloak And Dagger": {
     "NAME": "Plašt i bodež",
@@ -87,7 +87,7 @@
   },
   "Exhume": {
     "NAME": "Povrati",
-    "DESCRIPTION": "Pomeri kartu NL iz gomile za iscrpljene NL u ruku. NL Iscrpi."
+    "DESCRIPTION": "Prebaci kartu NL iz gomile za iscrpljene NL u ruku. NL Iscrpi."
   },
   "Power Through": {
     "NAME": "Istraj",
@@ -212,7 +212,7 @@
   },
   "Choke": {
     "NAME": "Davljenje",
-    "DESCRIPTION": "Zadaj !D! štete. Svaki put kada odigraš kartu, ciljani neprijatelj gubi !M! ž. p."
+    "DESCRIPTION": "Zadaj !D! štete. NL Svaki put kada odigraš kartu, ciljani neprijatelj gubi !M! ž. p."
   },
   "Juggernaut": {
     "NAME": "Sivonja",
@@ -233,7 +233,7 @@
   "Body Slam": {
     "NAME": "Nalet",
     "DESCRIPTION": "Zadaj štetu jednaku tvojoj trenutnoj odbrani.",
-    "UPGRADE_DESCRIPTION": " NL (Efektivna šteta: !D!.)"
+    "UPGRADE_DESCRIPTION": " NL ( Efektivna šteta: !D! )"
   },
   "True Grit": {
     "NAME": "Odlučnost",
@@ -567,7 +567,7 @@
   },
   "Phantasmal Killer": {
     "NAME": "Fantom",
-    "DESCRIPTION": "Sledeći potez, ubojitost tvojih napada je udvostručena."
+    "DESCRIPTION": "Sledeći potez, tvoji napadi su dvostruko ubojiti."
   },
   "Malaise": {
     "NAME": "Raslabi",
@@ -719,7 +719,7 @@
     "NAME": "Strelice",
     "DESCRIPTION": "Zadaj !D! štete za svako umeće u ruci.",
     "EXTENDED_DESCRIPTION": [
-      " NL (imaš ",
+      " NL (Imaš ",
       " umeće).",
       " umeća)."
     ]
@@ -800,7 +800,7 @@
     "DESCRIPTION": "Zadaj štetu jednaku broju karatu u gomili za vučenje.",
     "UPGRADE_DESCRIPTION": "Urođena. NL Zadaj štetu jednaku broju karatu u gomili za vučenje.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Efektivna šteta: !D! )"
+      " NL ( Efektivna šteta: !D! )"
     ]
   },
   "Ghostly": {
@@ -861,7 +861,7 @@
     "DESCRIPTION": "Zadobi !B! odbrane. NL Sledeći potez zadobi !B! odbrane."
   },
   "All Out Attack": {
-    "NAME": "Nebouzdan napad",
+    "NAME": "Neobuzdan napad",
     "DESCRIPTION": "Zadaj !D! štete SVIM neprijateljima. NL Odbaci jednu nasumičnu kartu."
   },
   "Flying Knee": {
@@ -992,7 +992,7 @@
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL Iscrpi.",
-      " NL (Efektivna šteta: !D!.)"
+      " NL ( Efektivna šteta: !D! )"
     ]
   },
   "Static Discharge": {
@@ -1143,7 +1143,7 @@
     "DESCRIPTION": "Zadobi odbranu jednaku broju karata u gomili za odbacivanje.",
     "UPGRADE_DESCRIPTION": "Zadobi odbranu jednaku broju karata u gomili za odbacivanje plus tri.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Efektivna odbrana: !B!.)"
+      " NL ( Efektivna odbrana: !B! )"
     ]
   },
   "Thunder Strike": {
@@ -1210,7 +1210,7 @@
     "DESCRIPTION": "Zadaj SVIM neprijateljima štetu jednaku broju prizvanih mrazova u borbi puta !M!.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      " NL (Efektivna šteta: !D!.)",
+      " NL ( Efektivna šteta: !D! )",
       ""
     ]
   },

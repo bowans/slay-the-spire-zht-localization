@@ -870,7 +870,7 @@
     ]
   },
   "Primitive": {
-    "NAME": "Primitive",
+    "NAME": "depre.",
     "DESCRIPTIONS": [
       "Whenever you play a Common card, draw #b",
       " card.",
@@ -888,9 +888,16 @@
   "Lockon": {
     "NAME": "목표 지정됨",
     "DESCRIPTIONS": [
-      "#y전기 와 #y어둠 구체가 이 적을 우선 공격합니다.",
-      " turns.",
-      "#yLightning and #yDark Orbs target this enemy this turn."
+      "#y전기 와 #y어둠 구체가 다음 #b",
+      " 턴 동안 이 적을 우선 공격합니다.",
+      "#y전기 와 #y어둠 구체가 이번 턴 동안 이 적을 우선 공격합니다."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
     ]
   }
 }

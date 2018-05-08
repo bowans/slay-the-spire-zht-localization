@@ -239,6 +239,12 @@
         "냉기+"
       ],
       "DESCRIPTION": "구체: (지속/발현) #y방어도 를 얻습니다."
+    },
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
     }
   }
 }

@@ -955,7 +955,7 @@
     "DESCRIPTION": "카드를 !M! 장 뽑습니다."
   },
   "Heatsinks": {
-    "NAME": "방열",
+    "NAME": "방열판",
     "DESCRIPTION": "파워 카드를 낼 때마다 카드를 !M! 장 뽑습니다.",
     "UPGRADE_DESCRIPTION": "파워 카드를 낼 때마다 카드를 !M! 장 뽑습니다."
   },
@@ -1155,7 +1155,7 @@
   },
   "Blizzard": {
     "NAME": "눈보라",
-    "DESCRIPTION": "이번 전투에서 영창된 냉기 의 2 배만큼 적 전체에게 피해를 줍니다.",
+    "DESCRIPTION": "이번 전투에서 영창된 냉기 의 !M! 배만큼 적 전체에게 피해를 줍니다.",
     "EXTENDED_DESCRIPTION": [
       " NL (피해를 !D! 줍니다.)",
       ""
@@ -1221,7 +1221,7 @@
     "UPGRADE_DESCRIPTION": "매 턴 처음 사용하는 카드가 두 번 사용됩니다."
   },
   "Force Field": {
-    "NAME": "전자기장",
+    "NAME": "역장",
     "DESCRIPTION": "이번 전투에 사용된 파워 카드 한장당 [B] 소모가 1 감소합니다. NL 방어도 를 !B! 얻습니다."
   },
   "Prime": {
@@ -1251,14 +1251,14 @@
   },
   "Lockon": {
     "NAME": "목표 고정",
-    "DESCRIPTION": "피해를 !D! 줍니다. NL 이번 턴 동안 전기 와 암흑 구체가 이 적을 우선으로 공격합니다."
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 다음 !M! 턴 동안 전기 와 암흑 구체가 이 적을 우선으로 공격합니다."
   },
   "Consume": {
     "NAME": "소비",
     "DESCRIPTION": "밀집 을 !M! 얻습니다. NL 구체 슬롯을 1 개 잃습니다."
   },
   "BootSequence": {
-    "NAME": "Boot Sequence",
-    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
+    "NAME": "부팅 단계",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 선천성 NL 소멸"
   }
 }

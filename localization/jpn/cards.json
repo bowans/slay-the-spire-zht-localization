@@ -1142,7 +1142,7 @@
   "Static Discharge": {
     "NAME": "静電放電",
     "DESCRIPTION": "攻撃によってダメージを受けるたび、 ライトニング !M! を 生成 する。",
-    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "UPGRADE_DESCRIPTION": "攻撃によってダメージを受けるたび、 ライトニング !M! を 生成 する。"
   },
   "Ice Wall": {
     "NAME": "Ice Wall",
@@ -1155,8 +1155,8 @@
   },
   "Blizzard": {
     "NAME": "ブリザード",
-    "DESCRIPTION": "すべての敵に、この戦闘で生成した フロスト の2倍に等しいダメージを与える。",
-    "UPGRADE_DESCRIPTION": "すべての敵に、この戦闘で生成した フロスト の !M! 倍に等しいダメージを与える。",
+    "DESCRIPTION": "すべての敵に、この戦闘で生成した フロスト の !M! 倍に等しいダメージを与える。",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (!D! ダメージを与える。)",
       ""
@@ -1195,12 +1195,12 @@
   },
   "Nova": {
     "NAME": "ノヴァ",
-    "DESCRIPTION": "この戦闘でプレイした「パワー」1枚につき、 すべての敵に !M! ダメージを与える。",
+    "DESCRIPTION": "すべての敵に、この戦闘でプレイした「パワー」の枚数の !M! 倍に等しいダメージを与える。",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL 廃棄 。",
       " NL (!D! ダメージを与える。)"
-    ],
-    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
+    ]
   },
   "Sunder": {
     "NAME": "切断",
@@ -1251,14 +1251,14 @@
   },
   "Lockon": {
     "NAME": "ロックオン",
-    "DESCRIPTION": "!D! ダメージを与える。 NL このターン、ライトニング と ダーク オーブはこの敵を狙う。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL 次の !M! ターンの間、 ライトニング と ダーク オーブはこの敵を狙う。"
   },
   "Consume": {
     "NAME": "消尽",
     "DESCRIPTION": "集中力 !M! を得る。 NL オーブスロットを1つ失う。"
   },
   "BootSequence": {
-    "NAME": "Boot Sequence",
-    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
+    "NAME": "起動シーケンス",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 天賦 。 NL 廃棄 。"
   }
 }

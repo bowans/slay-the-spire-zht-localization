@@ -279,6 +279,12 @@
     },
     "TEXT": [
       "Energia jest używana do zagrywania kart z ręki."
-    ]
+    ],
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+    }
   }
 }

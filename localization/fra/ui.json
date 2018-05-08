@@ -22,7 +22,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Remplacer (jeton)"
+      "Remplacer (jeton)",
+      "Replace"
     ]
   },
   "RetainCardsAction": {
@@ -186,7 +187,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Pillé..."
+      "Pillé...",
+      "Fled..."
     ]
   },
   "SingleViewRelicPopup": {
@@ -1102,7 +1104,7 @@
   },
   "DiscardPileToHandAction": {
     "TEXT": [
-      "Select a card to return to your hand."
+      "Choisissez une carte à renvoyer dans votre main."
     ]
   }
 }

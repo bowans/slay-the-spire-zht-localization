@@ -888,9 +888,16 @@
   "Lockon": {
     "NAME": "ロックオン",
     "DESCRIPTIONS": [
-      "#yライトニング と #yダーク オーブはこの敵を狙う。",
-      " turns.",
-      "#yLightning and #yDark Orbs target this enemy this turn."
+      " #b",
+      " ターンの間、 #yライトニング と #yダーク オーブはこの敵を狙う。",
+      "このターン、 #yライトニング と #yダーク オーブはこの敵を狙う。"
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
     ]
   }
 }

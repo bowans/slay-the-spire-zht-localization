@@ -361,10 +361,17 @@
     ]
   },
   "Flex": {
-    "NAME": "Flex",
+    "NAME": "Strength Down",
     "DESCRIPTIONS": [
       "At the end of your turn, lose #b",
       " #yStrength."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
     ]
   },
   "Malleable": {

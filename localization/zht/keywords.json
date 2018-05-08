@@ -239,6 +239,12 @@
         "冰霜+"
       ],
       "DESCRIPTION": "充能球：獲得 #y格擋。"
+    },
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
     }
   }
 }

@@ -213,7 +213,7 @@
         "неопипљивост",
         "неопипљивости"
       ],
-      "DESCRIPTION": "Смањује СВУ примљену штету и губитак ж. п. на #b1."
+      "DESCRIPTION": "Смањује СВАКУ примљену штету и губитак ж. п. на #bједан."
     },
     "LIGHTNING": {
       "NAMES": [
@@ -283,6 +283,12 @@
     },
     "TEXT": [
       "Енергија се користи за одигравање карата из руке."
-    ]
+    ],
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+    }
   }
 }

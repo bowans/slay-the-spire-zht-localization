@@ -936,7 +936,7 @@
     "NAME": "Coup de tonnerre",
     "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour chaque Orbe Kéraunique Canalisé ce combat.",
     "EXTENDED_DESCRIPTION": [
-      " (!M! Orbes Kérauniques Canalisés.)"
+      " ( !M! Orbes Kérauniques Canalisés.)"
     ]
   },
   "Undo": {
@@ -944,7 +944,7 @@
     "DESCRIPTION": "Rétablissez vos PV à ce qu'ils étaient au tour précédent. NL Épuisement."
   },
   "Beam Cell": {
-    "NAME": "Faisceau Cellulaire",
+    "NAME": "Pile à rayon",
     "DESCRIPTION": "Infligez !D! dégât(s) et appliquez !M! de Vulnérabilité."
   },
   "Impulse": {
@@ -979,8 +979,8 @@
   },
   "Stack": {
     "NAME": "Pile",
-    "DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes de votre défausse.",
-    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure qu'il y de cartes de votre défausse + 3.",
+    "DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes dans votre défausse.",
+    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure qu'il y de cartes dans votre défausse + 3.",
     "EXTENDED_DESCRIPTION": [
       " NL (Gagnez !B! d'Armure.)"
     ]
@@ -995,7 +995,7 @@
     "DESCRIPTION": "Mélangez toutes vos cartes dans votre pioche, puis piochez !M! cartes. NL Épuisement."
   },
   "Redo": {
-    "NAME": "Rétablir",
+    "NAME": "Récursivité",
     "DESCRIPTION": "Activez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Activer."
   },
   "Prime": {
@@ -1029,12 +1029,12 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Infligez !M! dégât(s) à TOUS les ennemis pour chaque Pouvoir joué ce combat.",
+    "DESCRIPTION": "Infligez autant de dégâts que !M! fois le nombre de Pouvoirs joués ce combat à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
       " NL Épuisement.",
       " NL (Infligez !D! dégât(s).)"
     ],
-    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Turbo": {
     "NAME": "TURBO",
@@ -1153,8 +1153,8 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Infligez autant de dégâts que 2 fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " ( !M! Orbes Canalisés.)",
       "."
@@ -1251,14 +1251,14 @@
   },
   "Lockon": {
     "NAME": "Verrouiller",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Pendant le tour, les Orbes Kérauniques et Obscurs ciblent cet ennemi."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Pendant les !M! prochains tours, les Orbes Kérauniques et Obscurs ciblent cet ennemi."
   },
   "Reprieve": {
     "NAME": "Répit",
     "DESCRIPTION": "Si un ennemi ne compte pas attaquer, gagnez !M! de Concentration."
   },
   "BootSequence": {
-    "NAME": "Boot Sequence",
-    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
+    "NAME": "Démarrage",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Inné. NL Épuisement."
   }
 }

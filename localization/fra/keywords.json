@@ -261,6 +261,12 @@
         "concentration"
       ],
       "DESCRIPTION": "La Concentration augmente l'efficacité de l'actif des Orbes #yCanalisés."
+    },
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
     }
   }
 }

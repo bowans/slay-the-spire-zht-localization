@@ -320,6 +320,12 @@
         "frost+"
       ],
       "DESCRIPTION": "Orb: Gains #yBlock."
+    },
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
     }
   }
 }

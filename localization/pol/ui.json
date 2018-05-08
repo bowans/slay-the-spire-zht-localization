@@ -152,7 +152,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "podmiany (żeton pokerowy)"
+      "podmiany (żeton pokerowy)",
+      "Replace"
     ]
   },
   "DiscardPileToHandAction": {
@@ -380,7 +381,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Okradziono..."
+      "Okradziono...",
+      "Fled..."
     ]
   },
   "SingleViewRelicPopup": {

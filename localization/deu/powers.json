@@ -795,9 +795,9 @@
   "Echo Form": {
     "NAME": "Echoform",
     "DESCRIPTIONS": [
-      "Die erste in deinem Zug gespielte Karte wird #b",
-      " mal wiederholt.",
-      " mal wiederholt."
+      "Die erste in deinem Zug gespielte Karte wird zweimal gespielt.",
+      "Die ersten #b",
+      " in deinem Zug gespielten Karten werden zweimal gespielt."
     ]
   },
   "Magnetism": {
@@ -888,9 +888,16 @@
   "Lockon": {
     "NAME": "Fest im Griff",
     "DESCRIPTIONS": [
-      "Die Orbs #yBlitz und #yDunkelheit treffen diesen Gegner.",
-      " turns.",
-      "#yLightning and #yDark Orbs target this enemy this turn."
+      "Die Orbs #yBlitz and #yDunkelheit treffen diesen Gegner für die nächsten #b",
+      " Züge.",
+      "Die Orbs #yBlitz und #yDunkelheit treffen diesen Gegner in diesem Zug."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
     ]
   }
 }

@@ -135,7 +135,7 @@
         "vuoto",
         "vuoti"
       ],
-      "DESCRIPTION": "I vuoti sono carte di stato ingiocabili che consumano energiano quando vengono pescate."
+      "DESCRIPTION": "Vuoto è una carta stato ingiocabile che consuma energia quando viene pescata."
     },
     "VULNERABLE": {
       "NAMES": [
@@ -199,7 +199,8 @@
     "LIGHTNING": {
       "NAMES": [
         "fulmine",
-        "fulmine+"
+        "fulmine+",
+        "fulmini"
       ],
       "DESCRIPTION": "Globo: infligge danni a un nemico casuale."
     },
@@ -231,7 +232,7 @@
         "canalizzi",
         "canalizzati"
       ],
-      "DESCRIPTION": "Canalizzare crea un Globo che si sposta nel tuo primo spazio vuoto. Se non ci sono spazi vuoti, il tuo primo Globo (a destra) sarà immediatamente #yEvocato per fare spazio."
+      "DESCRIPTION": "Canalizzare crea un Globo nel tuo primo spazio vuoto. Se non ci sono spazi vuoti il tuo primo Globo (a destra) viene #yEvocato per fare spazioW."
     },
     "TODO": {
       "NAMES": [
@@ -245,6 +246,12 @@
     },
     "TEXT": [
       "L'Energia viene usata per giocare carte dalla tua mano."
-    ]
+    ],
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+    }
   }
 }

@@ -785,7 +785,7 @@
     "DESCRIPTIONS": [
       "La prima carta che giochi ogni turno viene giocata due volte.",
       "Le prime #b ",
-      " carte che giochi ogni turno vengono giocate due volte."
+      "carte che giochi ogni turno vengono giocate due volte."
     ]
   },
   "Heatsink": {
@@ -886,11 +886,18 @@
     ]
   },
   "Lockon": {
-    "NAME": "Lock-On",
+    "NAME": "Centro Perfetto",
     "DESCRIPTIONS": [
-      "#yLightning and #yDark Orbs target this enemy.",
-      " turns.",
-      "#yLightning and #yDark Orbs target this enemy this turn."
+      "I #yFulmini e le #yOscurità colpiranno questo nemico per i prossimi #b",
+      " turni.",
+      "I #yFulmini e le #yOscurità colpiranno questo nemico in questo turno."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
     ]
   }
 }

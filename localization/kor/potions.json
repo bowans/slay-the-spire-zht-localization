@@ -101,5 +101,119 @@
       " #b",
       " 의 #y인공물 을 얻습니다."
     ]
+  },
+  "Fruit Juice": {
+    "NAME": "Fruit Juice",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Max HP."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Fear Potion",
+    "DESCRIPTIONS": [
+      "Apply #b",
+      " #yVulnerable."
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Skill Potion",
+    "DESCRIPTIONS": [
+      "Add a random Skill card to your hand, it costs #b0."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Attack Potion",
+    "DESCRIPTIONS": [
+      "Add a random Attack card to your hand, it costs #b0."
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Potion Potion",
+    "DESCRIPTIONS": [
+      "Add a random Power card to your hand, it costs #b0."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Steroid  Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Strength. At the end of your turn, lose #b",
+      " Strength."
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Speed  Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Dexterity. At the end of your turn, lose #b",
+      " Dexterity."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Ghost In A Jar",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yIntangible"
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Focus Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yFocus"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Snecko Oil",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      "cards. Become #yConfused."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Liquid Bronze",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yThorns."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Gambler's Brew",
+    "DESCRIPTIONS": [
+      "Discard any number of cards then draw that many."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Essence Of Steel",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yPlated #yArmor."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Blood Potion",
+    "DESCRIPTIONS": [
+      "Heal for #b",
+      "% of your Max HP."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Fairy Potion",
+    "DESCRIPTIONS": [
+      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Smoke Bomb",
+    "DESCRIPTIONS": [
+      "Escape from a non-boss combat. Receive no rewards."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Entropic Brew",
+    "DESCRIPTIONS": [
+      "Fill all your empty potion slots with random potions."
+    ]
   }
 }

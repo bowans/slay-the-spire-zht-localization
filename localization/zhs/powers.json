@@ -892,5 +892,12 @@
       " 回合中将以这名敌人为目标。",
       "#y闪电 和 #y黑暗 充能球在这个回合将以这名敌人为目标。"
     ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
+    ]
   }
 }

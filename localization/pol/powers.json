@@ -762,7 +762,7 @@
     "NAME": "Elektrostatyczne wyładowanie",
     "DESCRIPTIONS": [
       "Kiedy otrzymasz obrażenia od #yAtaku, #yPrzywołaj #b",
-      " #yGrom."
+      " Sferę #yGromu."
     ]
   },
   "Repair": {
@@ -806,7 +806,7 @@
     "NAME": "Burza",
     "DESCRIPTIONS": [
       "Kiedykolwiek zagrasz kartę #bMocy, #yPrzywołaj #b ",
-      " #yGrom."
+      " Sferę #yGromu."
     ]
   },
   "Magnetism": {
@@ -888,9 +888,16 @@
   "Lockon": {
     "NAME": "Namierzenie",
     "DESCRIPTIONS": [
-      "Cel dla Sfer #yGromu i #yCiemności.",
-      " turns.",
-      "#yLightning and #yDark Orbs target this enemy this turn."
+      "Cel dla Sfer #yGromu i #yCiemności przez następne #b",
+      " tury.",
+      "Cel dla Sfer #yGromu i #yCiemności."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
     ]
   }
 }

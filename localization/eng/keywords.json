@@ -227,6 +227,12 @@
       ],
       "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
     },
+	"THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+    },
     "TODO": {
       "NAMES": [
         "todo",

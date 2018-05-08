@@ -899,21 +899,21 @@
   },
   "Tempest": {
     "NAME": "Nawałnica",
-    "DESCRIPTION": "Przywołaj Gromów: X. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Przywołaj Gromów: X+1. NL Wykluczenie."
+    "DESCRIPTION": "Przywołaj Sfery Gromów: X. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Przywołaj Sfery Gromów: X+1. NL Wykluczenie."
   },
   "Glacier": {
     "NAME": "Lodowiec",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Mrozy.",
-    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Mrozy."
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Sfery Mrozu.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Sfery Mrozu."
   },
   "Fusion": {
     "NAME": "Fuzja",
-    "DESCRIPTION": "Przywołaj !M! Plazmę."
+    "DESCRIPTION": "Przywołaj !M! Sferę Plazmy."
   },
   "Zap": {
     "NAME": "Porażenie",
-    "DESCRIPTION": "Przywołaj !M! Grom."
+    "DESCRIPTION": "Przywołaj !M! Sferę Gromu."
   },
   "Chaos": {
     "NAME": "Chaos",
@@ -997,8 +997,8 @@
   },
   "Static Discharge": {
     "NAME": "Wyładowanie elektrostatyczne",
-    "DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Grom.",
-    "UPGRADE_DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Gromy."
+    "DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Sferę Gromu.",
+    "UPGRADE_DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Sfery Gromu."
   },
   "Overclock": {
     "NAME": "Podkręcanie",
@@ -1016,11 +1016,11 @@
   },
   "Cold Snap": {
     "NAME": "Odłamek lodu",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Mróz."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Sferę Mrozu."
   },
   "Ball Lightning": {
     "NAME": "Piorun kulisty",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Grom."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Sferę Gromu."
   },
   "Winter": {
     "NAME": "Zima",
@@ -1028,7 +1028,7 @@
   },
   "Meteor Strike": {
     "NAME": "Meteor",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przywołaj !M! Plazmy."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przywołaj !M! Sfery Plazmy."
   },
   "Self Repair": {
     "NAME": "Samonaprawa",
@@ -1052,8 +1052,8 @@
   },
   "Darkness": {
     "NAME": "Mrok",
-    "DESCRIPTION": "Przywołaj !M! Ciemność.",
-    "UPGRADE_DESCRIPTION": "Przywołaj !M! Ciemności."
+    "DESCRIPTION": "Przywołaj !M! Sferę Ciemności.",
+    "UPGRADE_DESCRIPTION": "Przywołaj !M! Sfery Ciemności."
   },
   "Machine Learning": {
     "NAME": "Uczenie maszynowe",
@@ -1106,13 +1106,13 @@
   },
   "Rainbow": {
     "NAME": "Tęcza",
-    "DESCRIPTION": "Przywołaj 1 Grom, 1 Mróz, i 1 Ciemność. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Przywołaj 1 Grom, 1 Mróz, i 1 Ciemność."
+    "DESCRIPTION": "Przywołaj 1 Sferę Gromu, 1 Mrozu, i 1 Ciemności. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Przywołaj 1 Sferę Gromu, 1 Mrozu, i 1 Ciemności."
   },
   "Storm": {
     "NAME": "Burza",
-    "DESCRIPTION": "Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Grom.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Grom."
+    "DESCRIPTION": "Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Sferę Gromu.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Sferę Gromu."
   },
   "All For One": {
     "NAME": "Wszyscy za jednego",
@@ -1132,7 +1132,7 @@
   },
   "Doom and Gloom": {
     "NAME": "Zagłada i zniszczenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywołaj !M! Ciemność."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywołaj !M! Sferę Ciemności."
   },
   "Biased Cognition": {
     "NAME": "Błąd poznawczy",
@@ -1148,9 +1148,9 @@
   },
   "Thunder Strike": {
     "NAME": "Błyskawica",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń losowemu przeciwnikowi za każdy Grom Przywołany w tej walce.",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń losowemu przeciwnikowi za każdą Sferę Gromu Przywołaną w tej walce.",
     "EXTENDED_DESCRIPTION": [
-      " (Przywołano Gromów: !M!.)"
+      " (Przywołano Sfer Gromu: !M!.)"
     ]
   },
   "Force Field": {
@@ -1207,8 +1207,8 @@
   },
   "Blizzard": {
     "NAME": "Gradobicie",
-    "DESCRIPTION": "Zadaj obrażenia równe podwójnym Przywołanym Mrozom w tej walce WSZYSTKIM przeciwnikom.",
-    "UPGRADE_DESCRIPTION": "Zadaj obrażenia równe !M!-krotności Przywołanych Mrozów w tej walce WSZYSTKIM przeciwnikom.",
+    "DESCRIPTION": "Zadaj !M! obrażeń WSZYSTKIM przeciwnikom za każdą Przywołaną Sferę Mrozu podczas tej walki.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Zadaj !D! pkt. obrażeń.)",
       ""
@@ -1216,17 +1216,17 @@
   },
   "Chill": {
     "NAME": "Chłód",
-    "DESCRIPTION": "Przywołaj !M! Mróz za każdego przeciwnika. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Przywołaj !M! Mróz za każdego przeciwnika. NL Wykluczenie."
+    "DESCRIPTION": "Przywołaj !M! Sferę Mrozu za każdego przeciwnika. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Przywołaj !M! Sferę Mrozu za każdego przeciwnika. NL Wykluczenie."
   },
   "Coolheaded": {
     "NAME": "Trzeźwość umysłu",
-    "DESCRIPTION": "Przywołaj 1 Mróz. NL Dobierz !M! kartę.",
-    "UPGRADE_DESCRIPTION": "Przywołaj 1 Mróz. NL Dobierz !M! karty."
+    "DESCRIPTION": "Przywołaj 1 Sferę Mrozu. NL Dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Przywołaj 1 Sferę Mrozu. NL Dobierz !M! karty."
   },
   "Flux Capacitor": {
     "NAME": "Kondensator strumienia",
-    "DESCRIPTION": "Zamień wszystkie Przywołane Sfery na Plazmę. NL Wykluczenie."
+    "DESCRIPTION": "Zamień wszystkie Przywołane Sfery na Sfery Plazmy. NL Wykluczenie."
   },
   "Primitive Tech": {
     "NAME": "Prymitywna technologia",
@@ -1251,14 +1251,14 @@
   },
   "Lockon": {
     "NAME": "Namierzenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Podczas tej tury, zaatakowany przeciwnik będzie celem dla Sfer Gromu i Ciemności."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przez następne !M! tury, wybrany przeciwnik będzie celem dla Sfer Gromu i Ciemności."
   },
   "Consume": {
     "NAME": "Absorpcja",
     "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Utrać 1 miejsce na Sferę."
   },
   "BootSequence": {
-    "NAME": "Boot Sequence",
-    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
+    "NAME": "Sekwencja rozruchowa",
+    "DESCRIPTION": "Zyskaj !B! pkt Bloku. NL Startowa. NL Wykluczenie."
   }
 }

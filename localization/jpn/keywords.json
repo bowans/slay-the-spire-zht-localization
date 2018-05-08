@@ -239,6 +239,12 @@
         "frost+"
       ],
       "DESCRIPTION": "オーブ: #yブロック を得る。"
+    },
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
     }
   }
 }

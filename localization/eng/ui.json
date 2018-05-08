@@ -152,7 +152,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Replace (Gambling Chip)"
+      "Replace (Gambling Chip)",
+	  "Replace"
     ]
   },
   "DiscardPileToHandAction": {
@@ -380,7 +381,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Mugged..."
+      "Mugged...",
+	  "Fled..."
     ]
   },
   "SingleViewRelicPopup": {

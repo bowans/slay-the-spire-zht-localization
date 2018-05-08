@@ -59,7 +59,7 @@
     "NAME": "Duplikator",
     "DESCRIPTIONS": [
       "Pred tobom stoji okićeni oltar posvećen nekom drevnom entitetu.",
-      "Klekneš s poštovanjem. U tom se zastrašujući odraz pojavljuje iz svetilišta, sudarajući se s tobom.",
+      "Klekneš s poštovanjem. Zastrašujući odraz se pojavi iz svetilišta, stapajući se s tobom.",
       "Ignorišeš svetilište, pouzdan u svoj izbor."
     ],
     "OPTIONS": [
@@ -85,7 +85,7 @@
     "DESCRIPTIONS": [
       "Pred tobom stoji složeno svetilište posvećeno nekom drevnom duhu. ",
       "Šakom dodirneš svetilište, a u tom krene da kulja #yzlato iz plafona, ~zasipajući~ ~te~ ~bogatstvom.~ ",
-      "Svakim udarcem u svetilište, #yzlato se iznova i iznova izliva! NL NL Trpajući bogatstvo u džepove, osećaš #rkako #rte #rpritiska #rvelika #rtežina.",
+      "Sa svakim udarcem u svetilište, #yzlato se iznova i iznova izliva! NL NL Trpajući čitavo bogatstvo u džepove, osećaš #rkako #rte #rpritiska #rvelika #rtežina.",
       "Ignorišeš svetilište."
     ],
     "OPTIONS": [
@@ -306,24 +306,24 @@
   "Dead Adventurer": {
     "NAME": "Mrtvi pustolov",
     "DESCRIPTIONS": [
-      "Pretražujući pustolova, uhvaćen si nespreman!",
+      "Uhvaćen si nespreman dok pretražuješ pustolova!",
       "Pođeš bez i jednog šuma.",
-      "Naišao si na #rmrtvog #rpustolova na podu. NL Ukradene su mu #bpantalone! ",
-      "Čini se da su mu oklop i lice #r@sprženi@ #r@plamenovima.@",
+      "Naišao si na #rmrtvog #rpustolova na zemlji. NL Ukradene su mu #bpantalone! ",
+      "Čini se da su mu oklop i lice #r@sprženi@ #r@plamenovima@.",
       "Izgleda da ga je #r@nataknula@ #r@i@ #r@izgazila@ neka rogata zver. ",
       "Izgleda kao da je #r@iskasapljen@ #r@i@ #r@iseckan@ činovskim kandžama. ",
-      "NL Iako su njegove #ystvari #yi #ydalje #ynetaknute, nešto ti nije do toga da saznaš šta se ovde desilo...",
-      "Nalaziš nešto #yzlata! NL Hoćeš da nastaviš sa pretresom?",
-      "Hm, nisi našao ništa... NL Hoćeš da nastaviš sa pretresom?",
-      "Našao si #yrelikviju! Hoćeš da nastaviš sa pretresom?",
-      "Čini se da se ga pretražio bez pomuke!"
+      "NL Iako su njegove #ystvari #yi #ydalje #ynetaknute, nešto ti i nije do toga da saznaš šta se ovde desilo...",
+      "Nalaziš nešto #yzlata! NL Hoćeš li da nastaviš sa pretresom?",
+      "Hm, nisi našao ništa... NL Hoćeš li da nastaviš sa pretresom?",
+      "Našao si #yrelikviju! Hoćeš li da nastaviš sa pretresom?",
+      "Čini se da si uspeo da ga pretražiš bez pomuke!"
     ],
     "OPTIONS": [
-      "[Pretraži] #gNađi #gdrangulije. #r",
+      "[Pretraži] #gPronađi #gnešto #gvredno. #r",
       "[Pođi]",
       "[Bori se]",
-      "[Nastavi] #gNađi #gdrangulije. #r",
-      "% #rda #rće #rse #rčudovište #rvratiti."
+      "[Nastavi] #gPronađi #gnešto #gvredno. #r",
+      "% #rda #rće #rčudovište #rda #rse #rvrati."
     ]
   },
   "Golden Idol": {
@@ -331,15 +331,15 @@
     "DESCRIPTIONS": [
       "Naišao si na neupadljivo postolje sa #ysijajućim #yzlatnim #yidolom koji na njemu mirno stoji. Izgleda neverovatno vredno. NL NL Prilično si siguran da u okolini ne vidiš nikakve zamke.",
       "Uzimaš i mećeš idola, a u tom džinovska kamenčuga razbija plafon i pada na zemlju pored tebe. NL Shvataš da je pod zapravo nizbrdica, a kamen se uveliko kotrlja ka tebi.",
-      "@BEEEGAAAAAAAAJ!@ NL Jedva uskočiš u prolaz sa strane dok kamen proleće pored tebe. Nažalost izgleda da si nešto uganuo.",
+      "@BEEEGAAAAAAAAJ!@ NL Jedva uskočiš u prolaz sa strane dok kamen proleće pored tebe. Nažalost, izgleda da si uganuo nešto.",
       "Baciš se na kamen svime što imaš. Čekaš da se prašina slegne, a potom sigurno nastaviš dalje.",
       "@SPLJOŠT!@ NL Kamen te malo prignječi u prolazu. Moćeš da pođeš odavde.",
       "Ako je ikad postojala očigledna zamka, ovo je to. NL Odlučuješ da se ne petljaš sa predmetima postavljenim na pedestale."
     ],
     "OPTIONS": [
-      "[Uzmi] #gZadobi #gzlatnog #gidola. #rAktiviraj #rzamku.",
+      "[Uzmi] #gUkradi #gzlatnog #gidola. #rAktiviraj #rzamku.",
       "[Pođi]",
-      "[Pobegni] #rPrimaš #rpovredu.",
+      "[Pobegni] #rBivaš #rpovređen.",
       "[Razbi ga] #rPrimi #r",
       " #rštete.",
       "[Sakrij se] #rIzgubi #r",
@@ -455,7 +455,7 @@
     "OPTIONS": [
       "[Pročeprkaj] #rIzgubi #r",
       " #rž. #rp. #g",
-      "%: #gNađi #grelikviju.",
+      "%: #gnađi #grelikviju.",
       "[Pođi]",
       "[Nastavi] #rIzgubi #r"
     ]
@@ -751,7 +751,7 @@
     "DESCRIPTIONS": [
       "Tumarajući kroz Vani, otkrivaš #bsvetleći @rotirajući@ #bteserakt koji se nežno ~njiše~ u vazduhu.",
       "Dodirneš ga. NL NL U trenu te saseče #r@probadajući@ #r@bol,@ praćen živopisnim prikazima udaljenih sećanja. NL ...čija su ovo sećanja?",
-      "#r~STRAH.~ NL NL Demonsko stvorenje se nadvija nad tobom, krilima široko raširenim, zavijajući od smeha. Oko tebe su mrtva tela plemena, a selo je progutano užasnom #p~crnom~ #p~vatrom.~ NL NL Demon te doziva, rugajući te se. NL NL \" #r@SADA@ #r@STVARNO@ #r@JESI@ #r@NAJJAČI!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Taj smeh odzvanja zauvek... ",
+      "#r~STRAH.~ NL NL Demonsko stvorenje se nadvija nad tobom, krilima široko raširenim, zavijajući od smeha. Oko tebe su mrtva tela tvog plemena, a selo je progutano užasnom #p~crnom~ #p~vatrom.~ NL NL Demon te doziva, rugajući te se. NL NL \" #r@SADA@ #r@STVARNO@ #r@JESI@ #r@NAJJAČI!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Taj smeh odzvanja zauvek... ",
       "#g~TRIJUMF.~ NL NL Ostaci #p~avetinjskog~ #p~stvorenja~ lagano tonu u blato ispred tebe, jedva vidljivi pod mesečinom. Dokazao si se među svojim sestrama. NL NL Stojeći pobednički, čekaš u tišini dok ti one ceremonijalno postavljaju #ylobanju #yonog #ystvorenja na glavu. Obred je završen. NL NL Upućuješ se ka Tornju...",
       ""
     ],

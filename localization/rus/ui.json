@@ -152,7 +152,13 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "заменить (Игровая фишка)."
+      "заменить (Игровая фишка).",
+      "Replace"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Выберите карту, чтобы вернуть в свою руку."
     ]
   },
   "ReprogramAction": {
@@ -202,8 +208,8 @@
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Выберите карту, чтобы добавить в руку",
-      "Выберите карты, чтобы добавить в руку"
+      "Выберите карту, чтобы добавить в руку.",
+      "Выберите карты, чтобы добавить в руку."
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -375,7 +381,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Вас ограбили..."
+      "Вас ограбили...",
+      "Fled..."
     ]
   },
   "SingleViewRelicPopup": {
@@ -478,7 +485,7 @@
   },
   "RecycleAction": {
     "TEXT": [
-      "Сжигается"
+      "сжечь."
     ]
   },
   "DualWieldAction": {
@@ -1098,11 +1105,6 @@
       "Неизвестно",
       "",
       "Эта опция ещё не доступна."
-    ]
-  },
-  "DiscardPileToHandAction": {
-    "TEXT": [
-      "Select a card to return to your hand."
     ]
   }
 }

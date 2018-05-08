@@ -30,7 +30,7 @@
   },
   "Writhe": {
     "NAME": "Convulsioni",
-    "DESCRIPTION": "Ingiocabile. NL Innata."
+    "DESCRIPTION": "Innata. NL Ingiocabile."
   },
   "Dark Shackles": {
     "NAME": "Catene Oscure",
@@ -655,7 +655,7 @@
   },
   "Backstab": {
     "NAME": "Pugnalata alle Spalle",
-    "DESCRIPTION": "Infliggi !D! danni. NL Innata. NL Esaurisci."
+    "DESCRIPTION": "Innata. NL Infliggi !D! danni. NL Esaurisci."
   },
   "Feed": {
     "NAME": "Banchetto",
@@ -988,12 +988,12 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Infliggi !M! danni a TUTTI i nemici per ogni potere che hai giocato in questo combattimento.",
+    "DESCRIPTION": "Infliggi a TUTTI i nemici danno pari a !M! per il numero di Poteri giocati in questo combattimento.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL Esaurisci.",
       " NL (Infligge !D! danni)."
-    ],
-    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
+    ]
   },
   "Static Discharge": {
     "NAME": "Elettrostatica",
@@ -1085,7 +1085,7 @@
   },
   "Heatsinks": {
     "NAME": "Dissipatore",
-    "DESCRIPTION": "Dopo aver giocato un Potere, peschi !M! Carte.",
+    "DESCRIPTION": "Dopo aver giocato un Potere, peschi !M! Carta.",
     "UPGRADE_DESCRIPTION": "Dopo aver giocato un Potere, peschi !M! Carte."
   },
   "Genetic Algorithm": {
@@ -1207,8 +1207,8 @@
   },
   "Blizzard": {
     "NAME": "Tormenta",
-    "DESCRIPTION": "Infliggi danno pari al doppio del numero di Ghiaccio Canalizzato in questo combattimento a TUTTI i nemici.",
-    "UPGRADE_DESCRIPTION": "Infliggi danno pari a !M! volte il numero di Ghiaccio Canalizzato in questo combattimento a TUTTI i nemici.",
+    "DESCRIPTION": "Infliggi a TUTTI i nemici danno pari a !M! volte il numero di Ghiaccio Canalizzato in questo combattimento.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Infligge !D! danni.)",
       ""
@@ -1251,14 +1251,14 @@
   },
   "Lockon": {
     "NAME": "Centro Perfetto",
-    "DESCRIPTION": "Infliggi !D! danni. NL In questo turno il danno di Fulmini ed Oscurità colpirà questo nemico."
+    "DESCRIPTION": "Infliggi !D! danni. NL Per i prossimi !M! turni i danni di Fulmini ed Oscurità colpiranno questo nemico."
   },
   "Consume": {
     "NAME": "Assimilazione",
     "DESCRIPTION": "Ottieni !M! Focus. NL Perdi 1 spazio per Globi."
   },
   "BootSequence": {
-    "NAME": "Boot Sequence",
-    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
+    "NAME": "Sequenza D'Avvio",
+    "DESCRIPTION": "Innata. NL Ottieni !B! Blocco. NL  NL Esaurisci."
   }
 }

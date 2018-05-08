@@ -152,7 +152,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "zameniti (kockarski čip)"
+      "zameniti (kockarski čip)",
+      "Replace"
     ]
   },
   "DiscardPileToHandAction": {
@@ -374,7 +375,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Opljačkan..."
+      "Opljačkan...",
+      "Fled..."
     ]
   },
   "SingleViewRelicPopup": {

@@ -199,7 +199,7 @@
     "BURN": {
       "NAMES": [
         "ожог",
-        "burns"
+        "ожоги"
       ],
       "DESCRIPTION": "Ожоги — это Статусные карты, которые наносят вам урон и которые нельзя разыграть."
     },
@@ -291,6 +291,12 @@
     },
     "TEXT": [
       "Энергия используется для разыгрывания карт в руке."
-    ]
+    ],
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+    }
   }
 }
