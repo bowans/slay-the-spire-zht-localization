@@ -153,7 +153,7 @@
   "GamblingChipAction": {
     "TEXT": [
       "zameniti (kockarski čip)",
-      "Replace"
+      "zameniti"
     ]
   },
   "DiscardPileToHandAction": {
@@ -376,7 +376,7 @@
   "AbstractRoom": {
     "TEXT": [
       "Opljačkan...",
-      "Fled..."
+      "Pobegao..."
     ]
   },
   "SingleViewRelicPopup": {
@@ -667,7 +667,7 @@
       "Jezik:",
       "Šalji podatke o pohodima #b(?)",
       "Izađi iz igre",
-      "Sačuvaj & izađi",
+      "Zapamti & izađi",
       "NL NL Vertikalna sinh.",
       "Režim sa probnim grafičkim elementima",
       "Prikaži na kartama tipke za brzi odabir",
@@ -697,9 +697,9 @@
   "SettingsScreen": {
     "TEXT": [
       "Sigurno?",
-      "Tvoj napredak je automatski sačuvan.",
-      "Napuštanjem pohoda će biti zabeležen gubitak.",
-      "UPOZORENJE:\nNapredak NIJE sačuvan.\n\nStigni do sledećeg sprata da sačuvaš ovaj pohod.",
+      "Napredak u pohodu je automatski zapamćen.",
+      "Biće zabeležen gubitak ako napustiš pohod.",
+      "UPOZORENJE:\nNapredak NIJE zapamćen.\n\nStigni do sledećeg sprata da zapamtiš ovaj pohod.",
       "Nazad",
       "Napredak se NE ČUVA za dnevne pohode."
     ]
@@ -867,12 +867,12 @@
       "Čelnici se češće pojavljuju.",
       "Normalni neprijatelji su smrtonosniji.",
       "Čelnici su smrtonosniji.",
-      "Voždovi su smrtonosnije.",
+      "Voždovi su smrtonosniji.",
       "Manje se zalečuješ posle bitaka sa voždovima.",
       "Počinješ svaki pohod već ozleđen.",
       "Normalni neprijatelji su izdržljiviji.",
       "Čelnici su izdržljiviji.",
-      "Voždovi su izdržljivije.",
+      "Voždovi su izdržljiviji.",
       "Svaki pohod počinješ uklet.",
       "Napici su manje delotvorni.",
       "Poboljšane karte se ređe pojavljuju.",
@@ -933,7 +933,7 @@
   },
   "GameSavedEffect": {
     "TEXT": [
-      "#y~Pohod~ #y~sačuvan~"
+      "#y~Pohod~ #y~zapamćen~"
     ]
   },
   "BattleStartEffect": {

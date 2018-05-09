@@ -99,121 +99,121 @@
     "NAME": "Uralter Trank",
     "DESCRIPTIONS": [
       "Erhalte #b",
-      " #yArtifakt."
+      " #yArtefakt."
     ]
   },
   "Fruit Juice": {
-    "NAME": "Fruit Juice",
+    "NAME": "Fruchtsaft",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
+      "Erhalte #b",
+      " max. TP."
     ]
   },
   "FearPotion": {
-    "NAME": "Fear Potion",
+    "NAME": "Angsttrank",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
+      "Wende #b",
+      " #yVerwundbar an."
     ]
   },
   "SkillPotion": {
-    "NAME": "Skill Potion",
+    "NAME": "Fertigkeitstrank",
     "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0."
+      "Füge eine zufällige Fertigkeitskarte deiner Hand hinzu. Sie kostet #b0."
     ]
   },
   "AttackPotion": {
-    "NAME": "Attack Potion",
+    "NAME": "Angriffstrank",
     "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0."
+      "Füge eine zufällige Angriffskarte deiner Hand hinzu. Sie kostet #b0."
     ]
   },
   "PowerPotion": {
-    "NAME": "Potion Potion",
+    "NAME": "Machttrank",
     "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0."
+      "Füge eine zufällige Machtkarte deiner Hand hinzu. Sie kostet #b0."
     ]
   },
   "SteroidPotion": {
-    "NAME": "Steroid  Potion",
+    "NAME": "Steroidetrank",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Strength. At the end of your turn, lose #b",
-      " Strength."
+      "Erhalte #b",
+      " Stärke. Verliere am Ende deines Zuges #b",
+      " Stärke."
     ]
   },
   "SpeedPotion": {
-    "NAME": "Speed  Potion",
+    "NAME": "Flinkheitstrank",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Dexterity. At the end of your turn, lose #b",
-      " Dexterity."
+      "Erhalte #b",
+      " Geschicklichkeit. Verliere am Ende deines Zuges #b",
+      " Geschicklichkeit."
     ]
   },
   "GhostInAJar": {
-    "NAME": "Ghost In A Jar",
+    "NAME": "Flaschengeist",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yIntangible"
+      "Erhalte #b",
+      " #yImmateriell"
     ]
   },
   "FocusPotion": {
-    "NAME": "Focus Potion",
+    "NAME": "Fokustrank",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yFocus"
+      "Erhalte #b",
+      " #yFokus"
     ]
   },
   "SneckoOil": {
-    "NAME": "Snecko Oil",
+    "NAME": "Snecko-Öl",
     "DESCRIPTIONS": [
-      "Draw #b",
-      "cards. Become #yConfused."
+      "Ziehe #b",
+      "Karten. Du wirst #yVerwirrt."
     ]
   },
   "LiquidBronze": {
-    "NAME": "Liquid Bronze",
+    "NAME": "Flüssige Bronze",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yThorns."
+      "Erhalte #b",
+      " #yStacheln."
     ]
   },
   "GamblersBrew": {
-    "NAME": "Gambler's Brew",
+    "NAME": "Zocker-Gebräu",
     "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
+      "Wirf beliebig viele Karten ab, dann ziehe genauso viele."
     ]
   },
   "EssenceOfSteel": {
-    "NAME": "Essence Of Steel",
+    "NAME": "Stahlessenz",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yPlated #yArmor."
+      "Erhalte #b",
+      " #yPanzerrüstung."
     ]
   },
   "BloodPotion": {
-    "NAME": "Blood Potion",
+    "NAME": "Bluttrank",
     "DESCRIPTIONS": [
-      "Heal for #b",
-      "% of your Max HP."
+      "Heile #b",
+      "% deiner max. TP."
     ]
   },
   "FairyPotion": {
-    "NAME": "Fairy Potion",
+    "NAME": "Feentrank",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+      "Anstatt zu sterben, werden #b10% deiner max. TP geheilt und dieser Trank verschwindet."
     ]
   },
   "SmokeBomb": {
-    "NAME": "Smoke Bomb",
+    "NAME": "Rauchbombe",
     "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
+      "Fliehe aus einem Kampf (Bosskämpfe ausgenommen). Erhalte keine Belohnungen."
     ]
   },
   "EntropicBrew": {
-    "NAME": "Entropic Brew",
+    "NAME": "Chaos-Gebräu",
     "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
+      "Fülle deine leeren Trankslots mit zufälligen Tränken auf."
     ]
   }
 }

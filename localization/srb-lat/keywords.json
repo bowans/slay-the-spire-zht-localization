@@ -271,6 +271,12 @@
       ],
       "DESCRIPTION": "Prizivanjem sfere je stvaraš u prvom praznom polju. Ako nemaš praznih polja, tvoja glavna sfera se automatski #yaktivira kako bi napravila mesta."
     },
+    "THORNS": {
+      "NAMES": [
+        "Bodljikavost"
+      ],
+      "DESCRIPTION": "Po primanju štete od #ynapada, uzvrati sa nešto štete."
+    },
     "TODO": {
       "NAMES": [
         "todo",
@@ -283,12 +289,6 @@
     },
     "TEXT": [
       "Energija se koristi za odigravanje karata iz ruke."
-    ],
-    "THORNS": {
-      "NAMES": [
-        "thorns"
-      ],
-      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
-    }
+    ]
   }
 }

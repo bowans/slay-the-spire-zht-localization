@@ -103,117 +103,117 @@
     ]
   },
   "Fruit Juice": {
-    "NAME": "Fruit Juice",
+    "NAME": "果汁",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
+      "获得 #b",
+      " 点最大生命。"
     ]
   },
   "FearPotion": {
-    "NAME": "Fear Potion",
+    "NAME": "恐惧药水",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
+      "给予 #b",
+      " 层 #y易伤 。"
     ]
   },
   "SkillPotion": {
-    "NAME": "Skill Potion",
+    "NAME": "技能药水",
     "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0."
+      "增加一张随机技能牌到你的手牌。这张牌在本回合耗能变为 #b0 。"
     ]
   },
   "AttackPotion": {
-    "NAME": "Attack Potion",
+    "NAME": "攻击药水",
     "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0."
+      "增加一张随机攻击牌到你的手牌。这张牌在本回合耗能变为 #b0 。"
     ]
   },
   "PowerPotion": {
-    "NAME": "Potion Potion",
+    "NAME": "能力药水",
     "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0."
+      "增加一张随机能力牌到你的手牌。这张牌在本回合耗能变为 #b0 。"
     ]
   },
   "SteroidPotion": {
-    "NAME": "Steroid  Potion",
+    "NAME": "类固醇药水",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Strength. At the end of your turn, lose #b",
-      " Strength."
+      "获得 #b",
+      " 点 力量 。在你的回合结束时，失去 #b",
+      " 点 力量 。"
     ]
   },
   "SpeedPotion": {
-    "NAME": "Speed  Potion",
+    "NAME": "速度药水",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Dexterity. At the end of your turn, lose #b",
-      " Dexterity."
+      "获得 #b",
+      " 点 敏捷 。在你的回合结束时，失去 #b",
+      " 点 敏捷 。"
     ]
   },
   "GhostInAJar": {
-    "NAME": "Ghost In A Jar",
+    "NAME": "罐装幽灵",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yIntangible"
+      "获得 #b",
+      " 层 #y无实体 。"
     ]
   },
   "FocusPotion": {
-    "NAME": "Focus Potion",
+    "NAME": "集中药水",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yFocus"
+      "获得 #b",
+      " 点 #y集中 。"
     ]
   },
   "SneckoOil": {
-    "NAME": "Snecko Oil",
+    "NAME": "异蛇之油",
     "DESCRIPTIONS": [
-      "Draw #b",
-      "cards. Become #yConfused."
+      "抽 #b",
+      " 张牌。 获得 #y混乱 。"
     ]
   },
   "LiquidBronze": {
-    "NAME": "Liquid Bronze",
+    "NAME": "流动铜液",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yThorns."
+      "获得 #b",
+      " 点 #y荆棘 。"
     ]
   },
   "GamblersBrew": {
-    "NAME": "Gambler's Brew",
+    "NAME": "赌徒特酿",
     "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
+      "丢弃任意张牌，然后抽相同数量的牌。"
     ]
   },
   "EssenceOfSteel": {
-    "NAME": "Essence Of Steel",
+    "NAME": "钢之精华",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yPlated #yArmor."
+      "获得 #b",
+      " 层 #y多层护甲 。"
     ]
   },
   "BloodPotion": {
-    "NAME": "Blood Potion",
+    "NAME": "鲜血药水",
     "DESCRIPTIONS": [
-      "Heal for #b",
-      "% of your Max HP."
+      "回复最大生命值的 #b",
+      "% 。"
     ]
   },
   "FairyPotion": {
-    "NAME": "Fairy Potion",
+    "NAME": "妖精药水",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+      "不可使用。当你要被杀死时，免死并回复到最大生命值的 #b10% ，丢弃这瓶药水。"
     ]
   },
   "SmokeBomb": {
-    "NAME": "Smoke Bomb",
+    "NAME": "烟雾弹",
     "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
+      "从一场非Boss战斗中逃离，不获得任何奖励。"
     ]
   },
   "EntropicBrew": {
-    "NAME": "Entropic Brew",
+    "NAME": "混沌药水",
     "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
+      "在所有空药水栏位中获得随机药水。"
     ]
   }
 }

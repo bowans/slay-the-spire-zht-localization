@@ -12,7 +12,6 @@ if sys.version_info.major < (3):
 else:
     from json.decoder import JSONDecodeError
 
-
 class LintError(Exception):
     def __str__(self):  # Override to include exception name in exception string
         return "{}: {}".format(self.__class__.__name__, self.args[0])
@@ -24,6 +23,9 @@ class UnsharedDictKeys(LintError):
     pass
 
 class ArraySizeMismatch(LintError):
+    pass
+
+class DuplicateKeyError(LintError):
     pass
 
 
@@ -72,13 +74,28 @@ def compare_lang_pack(eng_files, other_files):
     return reduce(chain, map(lambda c,x:c(*x), cmp_funcs, zip(eng_jsons, other_jsons)))
 
 
+def dict_raise_on_duplicates(ordered_pairs):
+    """Reject duplicate keys."""
+    d = {}
+    for k, v in ordered_pairs:
+        if k in d:
+           raise DuplicateKeyError("%r" % (k,))
+        else:
+           d[k] = v
+    return d
+
+
 def read_json(json_file):
     with open(json_file, encoding=('UTF-8-sig')) as f:
         try:
-            return json.load(f)
+            return json.load(f, object_pairs_hook=dict_raise_on_duplicates)
         except JSONDecodeError as e:
             print("WARNING! Invalid Json detected. Problem in file: `{}` at line `{}`, column `{}`"
                   .format(json_file, e.lineno, e.colno))
+            print(e)
+            sys.exit(1)
+        except DuplicateKeyError as e:
+            print("In file: " + json_file)
             print(e)
             sys.exit(1)
 

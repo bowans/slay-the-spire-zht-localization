@@ -48,8 +48,8 @@
   "Barricade": {
     "NAME": "Barrikade",
     "DESCRIPTIONS": [
-      "#yBlocken wird zu Beginn deines Zuges nicht entfernt.",
-      "#yBlocken wird zu Beginn des Zuges nicht entfernt."
+      "#yBlock wird zu Beginn deines Zuges nicht entfernt.",
+      "#yBlock wird zu Beginn des Zuges nicht entfernt."
     ]
   },
   "Blur": {
@@ -61,12 +61,12 @@
     ]
   },
   "Brutality": {
-    "NAME": "Brutal",
+    "NAME": "Brutalität",
     "DESCRIPTIONS": [
-      "Zu Beginn deines Zuges verlierst du #b",
+      "Verliere zu Beginn deines Zuges #b",
       " TP und ziehe #b",
       " Karte.",
-      "Zu Beginn deines Zuges verlierst du #b",
+      "Verliere zu Beginn deines Zuges #b",
       " TP und ziehe #b",
       " Karten."
     ]
@@ -82,14 +82,14 @@
   "Choked": {
     "NAME": "Gewürgt",
     "DESCRIPTIONS": [
-      "Du verlierst #b",
+      "Dieser Gegner verliert #b",
       " TP, immer wenn du in diesem Zug eine Karte ausspielst."
     ]
   },
   "Combust": {
     "NAME": "Brennen",
     "DESCRIPTIONS": [
-      "Am Ende deines Zuges verlierst du #b",
+      "Verliere am Ende deines Zuges #b",
       " TP und verursache #b",
       " Schaden an ALLEN Gegnern."
     ]
@@ -169,7 +169,7 @@
     ]
   },
   "Double Tap": {
-    "NAME": "Doppelschlag",
+    "NAME": "Doppeltreffer",
     "DESCRIPTIONS": [
       "In diesem Zug spielst du deinen nächsten #yAngriff zweimal aus.",
       "In diesem Zug spielst du deine nächsten ",
@@ -235,18 +235,18 @@
   "Evolve": {
     "NAME": "Entwickeln",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #yWunde ziehst, ziehe eine Karte.",
-      "Immer wenn du eine #yWunde ziehst, ziehe #b",
+      "Immer wenn du einen #yStatus ziehst, ziehe eine Karte.",
+      "Immer wenn du einen #yStatus ziehst, ziehe #b",
       " Karten."
     ]
   },
   "Explosive": {
     "NAME": "Explosiv",
     "DESCRIPTIONS": [
-      "Verursacht in #b",
+      "Explodiert in #b",
       " Zügen und verursacht #b",
       " Schaden.",
-      "Explodiert im eigenen Zug und verursacht #b Schaden."
+      "Explodiert im eigenen Zug und verursacht #b"
     ]
   },
   "Feel No Pain": {
@@ -273,7 +273,7 @@
   "Flight": {
     "NAME": "Flug",
     "DESCRIPTIONS": [
-      "Verringert #yAngriffsschaden um #b50%. Wird aufgehoben, wenn in einem Zug #b3 Mal #yAngriffsschaden verursacht wird."
+      "Verringert erhaltenen #yAngriffsschaden um #b50%. Wird aufgehoben, wenn in einem Zug #b3 Mal #yAngriffsschaden verursacht wird."
     ]
   },
   "Nullify Attack": {
@@ -336,9 +336,15 @@
     ]
   },
   "Intangible": {
-    "NAME": "Unfassbar",
+    "NAME": "Immateriell",
     "DESCRIPTIONS": [
-      "Verringert in diesem Zug JEGLICHEN erlittenen Schaden und TP-Verlust auf #b1. Ungreifbar wird jeden zweiten Zug neu angewendet."
+      "Verringert in diesem Zug JEGLICHEN erlittenen Schaden und TP-Verlust auf #b1. Immateriell wird jeden zweiten Zug neu angewendet."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Immateriell",
+    "DESCRIPTIONS": [
+      "Verringert ALLEN genommenen Schaden und TP-Verlust auf #b1."
     ]
   },
   "Inverted": {
@@ -362,10 +368,17 @@
     ]
   },
   "Flex": {
-    "NAME": "Muskeln",
+    "NAME": "Muskelschwund",
     "DESCRIPTIONS": [
       "Am Ende deines Zuges verlierst du #b",
       " #yStärke."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Ungeschickt",
+    "DESCRIPTIONS": [
+      "Verliere am Ende deines Zuges #b",
+      " #yGeschicklichkeit."
     ]
   },
   "Malleable": {
@@ -394,9 +407,9 @@
     ]
   },
   "Next Turn Block": {
-    "NAME": "Blocken im nächsten Zug",
+    "NAME": "Verspäteter Block",
     "DESCRIPTIONS": [
-      "Zu Beginn deines Zuges erhältst du #b",
+      "Zu Beginn deines nächsten Zuges erhältst du #b",
       " #yBlock."
     ]
   },
@@ -416,10 +429,10 @@
   "Panache": {
     "NAME": "Elan",
     "DESCRIPTIONS": [
-      "Wenn du in diesem Zug #b",
-      " Karte mehr ausspielst, verursachst du #b",
+      "Wenn du in diesem Zug noch #b",
+      " Karte ausspielst, verursachst du #b",
       " Schaden an ALLEN Gegnern.",
-      " Karten mehr ausspielst, verursachst du #b"
+      " Karten ausspielst, verursachst du #b"
     ]
   },
   "Pen Nib": {
@@ -437,7 +450,7 @@
     ]
   },
   "Plated Armor": {
-    "NAME": "Panzerplatten",
+    "NAME": "Panzerrüstung",
     "DESCRIPTIONS": [
       "Du erhältst #b",
       " #yBlock am Ende deines Zuges. Der Verlust von TP durch einen Angriff reduziert #yPanzerrüstung um #b1.",
@@ -469,7 +482,7 @@
   "Regenerate": {
     "NAME": "Regenerieren",
     "DESCRIPTIONS": [
-      "Heile #b",
+      "Heilt #b",
       " #yTP am Ende des eigenen Zuges."
     ]
   },
@@ -552,7 +565,7 @@
     ]
   },
   "Sharp Hide": {
-    "NAME": "Scharfe Haut",
+    "NAME": "Stachelhaut",
     "DESCRIPTIONS": [
       "Immer wenn du einen #yAngriff ausspielst, erleidest du #b",
       " Schaden."
@@ -592,12 +605,12 @@
   "Spore Cloud": {
     "NAME": "Sporenwolke",
     "DESCRIPTIONS": [
-      "Wendet beim Tod #b",
-      " Züge lang #yVerwundbar auf dich an."
+      "Wendet beim Tod #yVerwundbar für #b",
+      " Züge auf dich an."
     ]
   },
   "Stasis": {
-    "NAME": "Stasis",
+    "NAME": "Stillstand",
     "DESCRIPTIONS": [
       "Beim Tod wird ",
       " auf deine Hand zurückgegeben."
@@ -703,7 +716,7 @@
     ]
   },
   "Night Terror": {
-    "NAME": "Nachtschreck",
+    "NAME": "Albtraum",
     "DESCRIPTIONS": [
       "Am Anfang deines nächsten Zuges füge #b",
       " Karten deiner Hand hinzu."
@@ -728,23 +741,17 @@
       " #yStärke."
     ]
   },
-  "IntangiblePlayer": {
-    "NAME": "Unfassbar",
-    "DESCRIPTIONS": [
-      "Verringert ALLEN genommenen Schaden und TP-Verlust auf #b1."
-    ]
-  },
   "Wraith Form v2": {
     "NAME": "Geisterform",
     "DESCRIPTIONS": [
-      "Verliere am Ende des Zuges #b ",
+      "Verliere am Ende deines Zuges #b",
       " Geschicklichkeit."
     ]
   },
   "Storm": {
     "NAME": "Sturm",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #bMacht spielst, #ykanalisiere #b ",
+      "Immer wenn du eine #bMacht spielst, #yerschaffe #b ",
       " Blitz."
     ]
   },
@@ -773,7 +780,7 @@
   "Prime": {
     "NAME": "Scharf machen",
     "DESCRIPTIONS": [
-      "Immer wenn du einen Orb #ykanalisierst, ziehe #b",
+      "Immer wenn du einen Orb #yerschaffst, ziehe #b",
       " Karte.",
       " Karten."
     ]
@@ -781,7 +788,7 @@
   "StaticDischarge": {
     "NAME": "Statische Entladung",
     "DESCRIPTIONS": [
-      "Wenn du #yAngriffsschaden erleidest, #ykanalisiere #b",
+      "Wenn du #yAngriffsschaden erleidest, #yerschaffe #b",
       " #yBlitz."
     ]
   },
@@ -803,7 +810,7 @@
   "Magnetism": {
     "NAME": "Magnetismus",
     "DESCRIPTIONS": [
-      "Zu Beginn deines Zuges erhältst du #b%s zufällige farblose Karten auf die Hand.",
+      "Zu Beginn deines Zuges erhältst du #b%s zufällige farblose Karte auf die Hand.",
       "Zu Beginn deines Zuges erhältst du #b%s zufällige farblose Karten auf die Hand."
     ]
   },
@@ -818,9 +825,9 @@
   "Conserve": {
     "NAME": "Speichern",
     "DESCRIPTIONS": [
-      "#yEnergie wird in diesem Zug behalten.",
+      "#yEnergie wird in diesem Zug bewahrt.",
       "#yEnergie wird für die nächsten #b",
-      " Züge behalten."
+      " Züge bewahrt."
     ]
   },
   "Amplify": {
@@ -846,7 +853,7 @@
     ]
   },
   "Heatsink": {
-    "NAME": "Wärmetauscher",
+    "NAME": "Kühlkörper",
     "DESCRIPTIONS": [
       "Immer wenn du eine Macht spielst, ziehe #b",
       " Karte.",
@@ -891,13 +898,6 @@
       "Die Orbs #yBlitz and #yDunkelheit treffen diesen Gegner für die nächsten #b",
       " Züge.",
       "Die Orbs #yBlitz und #yDunkelheit treffen diesen Gegner in diesem Zug."
-    ]
-  },
-  "DexLoss": {
-    "NAME": "Dexterity Down",
-    "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
     ]
   }
 }

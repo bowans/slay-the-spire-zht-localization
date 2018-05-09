@@ -362,7 +362,7 @@
   },
   "Rampage": {
     "NAME": "Pomahnitalost",
-    "DESCRIPTION": "Zadaj !D! štete, i još !M! za svako preth. odigravanje ove karte u tren. borbi."
+    "DESCRIPTION": "Zadaj !D! štete, i još !M! za svako prethodno odigravanje ove karte u ovoj borbi."
   },
   "Bandage Up": {
     "NAME": "Zavoj",
@@ -382,8 +382,8 @@
   },
   "Warcry": {
     "NAME": "Poklič",
-    "DESCRIPTION": "Vuci !M! kartu. NL Stavi kartu iz ruke na vrh gomile za vučenje. NL Iscrpi.",
-    "UPGRADE_DESCRIPTION": "Vuci !M! karte. NL Stavi kartu iz ruke na vrh gomile za vučenje. NL Iscrpi."
+    "DESCRIPTION": "Vuci !M! kartu. NL Stavi jednu kartu iz ruke na vrh gomile za vučenje. NL Iscrpi.",
+    "UPGRADE_DESCRIPTION": "Vuci !M! karte. NL Stavi jednu kartu iz ruke na vrh gomile za vučenje. NL Iscrpi."
   },
   "PiercingWail": {
     "NAME": "Krik",
@@ -762,7 +762,7 @@
       "Mogu da odigram samo do NL #rtri karte ovaj potez.",
       "Neodigriva. NL Ne možeš odigrati više od ",
       " karte po potezu.",
-      " karte po potezu. NL Odigrao si ",
+      " karte ovaj potez. NL Odigrao si ",
       " kartu ovaj potez."
     ]
   },
@@ -1260,5 +1260,9 @@
   "BootSequence": {
     "NAME": "Podizanje",
     "DESCRIPTION": "Zadobi !B! odbrane. NL Urođena. NL Iscrpi."
+  },
+  "Steam": {
+    "NAME": "Steam",
+    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
   }
 }

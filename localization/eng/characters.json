@@ -1,12 +1,4 @@
 {
-  "Ironclad": {
-    "NAMES": [
-      "The Ironclad"
-    ],
-    "TEXT": [
-      "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies."
-    ]
-  },
   "Crowbot": {
     "NAMES": [
       "Crowbot"
@@ -15,20 +7,44 @@
       "BEEP BOOP"
     ]
   },
-  "Silent": {
-    "NAMES": [
-      "The Silent"
-    ],
-    "TEXT": [
-      "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
-    ]
-  },
   "Defect": {
     "NAMES": [
       "The Defect"
     ],
     "TEXT": [
       "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "The Ironclad"
+    ],
+    "TEXT": [
+      "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Proceed",
+      "~Welcome!~"
+    ],
+    "TEXT": [
+      "Hi! NL Buy something! NL Buy buy buy!",
+      "I like your haircut",
+      "Do you have the time?",
+      "Are you a dog person or a cat person?",
+      "You look ~dangerous,~ NL hehe...",
+      "Take your time... NL ..... NL ... or not",
+      "Do you like this rug? NL It's not for sale",
+      "Support small business!",
+      "Masks are cool, I would know!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Stay awhile and listen!",
+      "It's dangerous to go alone! Give me all your gold!",
+      "Buy somethin'",
+      "~*YAWN*~",
+      "I like gold.",
+      "My favorite color is blue. NL How bout you?"
     ]
   },
   "Neow Event": {
@@ -93,30 +109,6 @@
       "[ #rLose #ryour #rstarting #rRelic #gObtain #ga #grandom #gboss #gRelic ]"
     ]
   },
-  "Merchant": {
-    "NAMES": [
-      "Proceed",
-      "~Welcome!~"
-    ],
-    "TEXT": [
-      "Hi! NL Buy something! NL Buy buy buy!",
-      "I like your haircut",
-      "Do you have the time?",
-      "Are you a dog person or a cat person?",
-      "You look ~dangerous,~ NL hehe...",
-      "Take your time... NL ..... NL ... or not",
-      "Do you like this rug? NL It's not for sale",
-      "Support small business!",
-      "Masks are cool, I would know!",
-      "Hmm... NL ...hmm... NL Oh!",
-      "Stay awhile and listen!",
-      "It's dangerous to go alone! Give me all your gold!",
-      "Buy somethin'",
-      "~*YAWN*~",
-      "I like gold.",
-      "My favorite color is blue. NL How bout you?"
-    ]
-  },
   "Shop Screen": {
     "NAMES": [
       "~Welcome~ NL ~welcome!~",
@@ -151,6 +143,14 @@
       "~*YAWN*~",
       "I like gold.",
       "My favorite color is blue. NL How bout you?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "The Silent"
+    ],
+    "TEXT": [
+      "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
     ]
   }
 }

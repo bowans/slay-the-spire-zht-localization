@@ -1048,7 +1048,7 @@
   },
   "Gash": {
     "NAME": "Исполосовать",
-    "DESCRIPTION": "Наносит !D! урона. NL Повышает урон всех карт Когти на !M! в этом бою."
+    "DESCRIPTION": "Наносит !D! урона. NL Повышает урон всех карт Исполосовать на !M! в этом бою."
   },
   "Darkness": {
     "NAME": "Мгла",
@@ -1260,5 +1260,9 @@
   "BootSequence": {
     "NAME": "Вход в систему",
     "DESCRIPTION": "Даёт !B! Защиты. NL Начальная. NL Сжигается."
+  },
+  "Steam": {
+    "NAME": "Steam",
+    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
   }
 }

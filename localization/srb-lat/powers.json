@@ -361,9 +361,16 @@
     ]
   },
   "Flex": {
-    "NAME": "Napregnut",
+    "NAME": "Smanjenje snage",
     "DESCRIPTIONS": [
       "Na kraju poteza, smanji svoju #ysnagu za #b",
+      "."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Smanjenje okretnosti",
+    "DESCRIPTIONS": [
+      "Na kraju poteza, smanji svoju #yokretnost za #b",
       "."
     ]
   },
@@ -834,7 +841,7 @@
   "Bias": {
     "NAME": "Iskrivljena percepcija",
     "DESCRIPTIONS": [
-      "Na početku svog poteza, izgubi broj #ypotentnosti: #b",
+      "Na početku svog poteza, izgubi količinu #ypotentnosti: #b",
       "."
     ]
   },
@@ -891,13 +898,6 @@
       "Sfere #ymunje i #ytame ciljaju ovog neprijatelja sledećih nekoliko poteza: #b",
       ".",
       "Sfere #ymunje i #ytame ciljaju ovog neprijatelja tokom ovog poteza."
-    ]
-  },
-  "DexLoss": {
-    "NAME": "Dexterity Down",
-    "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
     ]
   }
 }

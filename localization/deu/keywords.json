@@ -36,6 +36,7 @@
         "verbessern",
         "verbessere",
         "verbesserte",
+        "verbessertes",
         "verbessert"
       ],
       "DESCRIPTION": "Verbessern macht Karten mächtiger. Karten können nur ein mal verbessert werden."
@@ -170,7 +171,7 @@
     },
     "INTANGIBLE": {
       "NAMES": [
-        "unangreifbar"
+        "immateriell"
       ],
       "DESCRIPTION": "Reduziere jeglichen genommenen Schaden auf #b1."
     },
@@ -254,9 +255,10 @@
     },
     "THORNS": {
       "NAMES": [
-        "thorns"
+        "stachel",
+        "stacheln"
       ],
-      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+      "DESCRIPTION": "Gibt beim Erleiden von #yAngriffsschaden Schaden zurück."
     }
   }
 }

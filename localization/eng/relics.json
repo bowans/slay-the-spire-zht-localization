@@ -7,6 +7,15 @@
       " #yBlock."
     ]
   },
+  "Ancient Tea Set": {
+    "NAME": "Ancient Tea Set",
+    "FLAVOR": "The key to a refreshing night's rest.",
+    "DESCRIPTIONS": [
+      "Whenever you enter a Rest Site, start the next combat with [R] [R] .",
+      "Whenever you enter a Rest Site, start the next combat with [G] [G] .",
+      "Whenever you enter a Rest Site, start the next combat with [B] [B] ."
+    ]
+  },
   "Art of War": {
     "NAME": "Art of War",
     "FLAVOR": "This ancient manuscript contains wisdom from a past age.",
@@ -134,6 +143,13 @@
       " HP."
     ]
   },
+  "Cables": {
+    "NAME": "Gold-Plated Cables",
+    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Your rightmost Orb triggers its passive an additional time."
+    ]
+  },
   "Calipers": {
     "NAME": "Calipers",
     "FLAVOR": "\"Mechanical precision leads to greatness\" - The Architect",
@@ -205,13 +221,6 @@
       "Looks pretty."
     ]
   },
-  "The Courier": {
-    "NAME": "The Courier",
-    "FLAVOR": "The merchant's personal pet!",
-    "DESCRIPTIONS": [
-      "The merchant no longer runs out of cards, relics, or potions and his prices are reduced by #b20%."
-    ]
-  },
   "Cracked Core": {
     "NAME": "Cracked Core",
     "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
@@ -229,11 +238,34 @@
       "Gain [B] at the start of each turn."
     ]
   },
+  "Darkstone Periapt": {
+    "NAME": "Darkstone Periapt",
+    "FLAVOR": "The stone draws power from dark energy, converting it into vitality for the wearer.",
+    "DESCRIPTIONS": [
+      "Whenever you obtain a #yCurse, increase your Max HP by #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Data Disk",
+    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yFocus."
+    ]
+  },
   "Dead Branch": {
     "NAME": "Dead Branch",
     "FLAVOR": "The branch of a tree from a forgotten era.",
     "DESCRIPTIONS": [
       "Whenever you #yExhaust a card, add a random card to your hand."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Derp Rock",
+    "FLAVOR": "Placeholder",
+    "DESCRIPTIONS": [
+      "At the start of each turn, gain #b",
+      " Charge. NL (Cannot be removed or transformed.)"
     ]
   },
   "Discerning Monocle": {
@@ -281,25 +313,11 @@
       "Gain [B] at the start of each turn."
     ]
   },
-  "Frozen Egg 2": {
-    "NAME": "Frozen Egg",
-    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
+  "Emotion Chip": {
+    "NAME": "Emotion Chip",
+    "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Whenever you add a #yPower card to your deck, it is #yUpgraded."
-    ]
-  },
-  "Molten Egg 2": {
-    "NAME": "Molten Egg",
-    "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
-    "DESCRIPTIONS": [
-      "Whenever you add an #yAttack card to your deck, it is #yUpgraded."
-    ]
-  },
-  "Toxic Egg 2": {
-    "NAME": "Toxic Egg",
-    "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Whenever you add a #ySkill card to your deck, it is #yUpgraded."
+      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
     ]
   },
   "Enchiridion": {
@@ -324,6 +342,20 @@
     "DESCRIPTIONS": [
       "Upon pick up, choose and #yUpgrade a #yPower.",
       "Choose a card for "
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Frozen Egg",
+    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "DESCRIPTIONS": [
+      "Whenever you add a #yPower card to your deck, it is #yUpgraded."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Frozen Eye",
+    "FLAVOR": "No description.",
+    "DESCRIPTIONS": [
+      "When viewing your #yDraw #yPile, the cards are now shown in order."
     ]
   },
   "Gambling Chip": {
@@ -381,6 +413,13 @@
       "Energy is now conserved between turns."
     ]
   },
+  "Inserter": {
+    "NAME": "Inserter",
+    "FLAVOR": "Push. Pull. Stack. Repeat.",
+    "DESCRIPTIONS": [
+      "Every #b2 turns, gain #b1 Orb slot."
+    ]
+  },
   "Juzu Bracelet": {
     "NAME": "Juzu Bracelet",
     "FLAVOR": "A ward against the unknown.",
@@ -406,6 +445,14 @@
       "[G] ",
       "[B] ",
       "on the first turn of each combat."
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Lee's Waffle",
+    "FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b",
+      " and heal all of your HP."
     ]
   },
   "Letter Opener": {
@@ -498,6 +545,13 @@
       "Choose a card for "
     ]
   },
+  "Molten Egg 2": {
+    "NAME": "Molten Egg",
+    "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "DESCRIPTIONS": [
+      "Whenever you add an #yAttack card to your deck, it is #yUpgraded."
+    ]
+  },
   "Mummified Hand": {
     "NAME": "Mummified Hand",
     "FLAVOR": "Frequently twitches, especially when your pulse is high.",
@@ -512,6 +566,14 @@
       "The first #yAttack played each turn that costs #b",
       " or more is played twice. When you take this relic, become #rCursed.",
       " or more is played twice."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Neow's Lament",
+    "FLAVOR": "The blessing of lamentation bestowed by Neow.",
+    "DESCRIPTIONS": [
+      "Enemies in your first #b3 combats will have 1 HP.",
+      "The blessing is used up."
     ]
   },
   "Nilry's Codex": {
@@ -546,11 +608,25 @@
       "#bTriples the chance of receiving rare cards as monster rewards."
     ]
   },
+  "Nuclear Battery": {
+    "NAME": "Nuclear Battery",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yPlasma."
+    ]
+  },
   "Nullstone Periapt": {
     "NAME": "Nullstone Periapt",
     "FLAVOR": "DEPRECATED.",
     "DESCRIPTIONS": [
       "Negate the next #yDebuff you receive from an enemy. NL Recharges in #b10 turns."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Odd Mushroom",
+    "FLAVOR": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "When #yVulnerable, take #b25% more damage rather than #b50%."
     ]
   },
   "Oddly Smooth Stone": {
@@ -559,13 +635,6 @@
     "DESCRIPTIONS": [
       "Start each combat with #b",
       " #yDexterity."
-    ]
-  },
-  "Odd Mushroom": {
-    "NAME": "Odd Mushroom",
-    "FLAVOR": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid ",
-    "DESCRIPTIONS": [
-      "When #yVulnerable, take #b25% more damage rather than #b50%."
     ]
   },
   "Old Coin": {
@@ -720,6 +789,21 @@
       "Replaces #gSnake #gRing. If you defeat an #yElite enemy, raise your Max HP by #b"
     ]
   },
+  "Ring of the Snake": {
+    "NAME": "Ring of the Snake",
+    "FLAVOR": "Made from a fossilized snake. Represents great skill as a huntress.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, draw #b",
+      " additional cards."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runic Capacitor",
+    "FLAVOR": "More is better.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b3 additional Orb slots."
+    ]
+  },
   "Runic Cube": {
     "NAME": "Runic Cube",
     "FLAVOR": "The runes are indecipherable.",
@@ -786,12 +870,12 @@
       " #yGold."
     ]
   },
-  "Ring of the Snake": {
-    "NAME": "Ring of the Snake",
-    "FLAVOR": "Made from a fossilized snake. Represents great skill as a huntress.",
+  "Snake Skull": {
+    "NAME": "Snecko Skull",
+    "FLAVOR": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
     "DESCRIPTIONS": [
-      "At the start of each combat, draw #b",
-      " additional cards."
+      "Whenever you apply #yPoison, apply an additional #b",
+      " #yPoison."
     ]
   },
   "Snecko Eye": {
@@ -799,14 +883,6 @@
     "FLAVOR": "An eye of a fallen snecko. Much larger than you imagined.",
     "DESCRIPTIONS": [
       "Draw #b2 additional cards each turn. Start each combat #yConfused."
-    ]
-  },
-  "Snake Skull": {
-    "NAME": "Snecko Skull",
-    "FLAVOR": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
-    "DESCRIPTIONS": [
-      "Whenever you apply #yPoison, apply an additional #b",
-      " #yPoison."
     ]
   },
   "Sozu": {
@@ -850,28 +926,11 @@
       " times you shuffle your deck, gain [B] [B] ."
     ]
   },
-  "Ancient Tea Set": {
-    "NAME": "Ancient Tea Set",
-    "FLAVOR": "The key to a refreshing night's rest.",
+  "Symbiotic Virus": {
+    "NAME": "Symbiotic Virus",
+    "FLAVOR": "A little bit of bad can do a lot of good...",
     "DESCRIPTIONS": [
-      "Whenever you enter a Rest Site, start the next combat with [R] [R] .",
-      "Whenever you enter a Rest Site, start the next combat with [G] [G] .",
-      "Whenever you enter a Rest Site, start the next combat with [B] [B] ."
-    ]
-  },
-  "War Paint": {
-    "NAME": "War Paint",
-    "FLAVOR": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
-    "DESCRIPTIONS": [
-      "Upon pick up, #yUpgrade #b",
-      " random #ySkills."
-    ]
-  },
-  "Darkstone Periapt": {
-    "NAME": "Darkstone Periapt",
-    "FLAVOR": "The stone draws power from dark energy, converting it into vitality for the wearer.",
-    "DESCRIPTIONS": [
-      "Whenever you obtain a #yCurse, increase your Max HP by #b"
+      "At the start of each combat, #yChannel #b1 #yDark."
     ]
   },
   "Test 1": {
@@ -882,13 +941,6 @@
       " [R] .",
       " [G] .",
       " [B] ."
-    ]
-  },
-  "Frozen Eye": {
-    "NAME": "Frozen Eye",
-    "FLAVOR": "No description.",
-    "DESCRIPTIONS": [
-      "When viewing your #yDraw #yPile, the cards are now shown in order."
     ]
   },
   "Test 2": {
@@ -941,6 +993,13 @@
     "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
     "DESCRIPTIONS": [
       "Draw #b2 additional cards each turn. Start each combat #yConfused."
+    ]
+  },
+  "The Courier": {
+    "NAME": "The Courier",
+    "FLAVOR": "The merchant's personal pet!",
+    "DESCRIPTIONS": [
+      "The merchant no longer runs out of cards, relics, or potions and his prices are reduced by #b20%."
     ]
   },
   "The Specimen": {
@@ -1016,12 +1075,26 @@
       "Choose a card for "
     ]
   },
+  "Toxic Egg 2": {
+    "NAME": "Toxic Egg",
+    "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Whenever you add a #ySkill card to your deck, it is #yUpgraded."
+    ]
+  },
   "Toy Ornithopter": {
     "NAME": "Toy Ornithopter",
     "FLAVOR": "\"This little toy is the perfect companion for the lone adventurer!\"",
     "DESCRIPTIONS": [
       "Whenever you use a potion, heal #b",
       " HP."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Turnip",
+    "FLAVOR": "Best with Ginger.",
+    "DESCRIPTIONS": [
+      "You can no longer become #yFrail."
     ]
   },
   "Unceasing Top": {
@@ -1051,12 +1124,12 @@
       "I can only play up to NL #r"
     ]
   },
-  "Lee's Waffle": {
-    "NAME": "Lee's Waffle",
-    "FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
+  "War Paint": {
+    "NAME": "War Paint",
+    "FLAVOR": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b",
-      " and heal all of your HP."
+      "Upon pick up, #yUpgrade #b",
+      " random #ySkills."
     ]
   },
   "Whetstone": {
@@ -1067,84 +1140,11 @@
       " random #yAttacks."
     ]
   },
-  "Derp Rock": {
-    "NAME": "Derp Rock",
-    "FLAVOR": "Placeholder",
-    "DESCRIPTIONS": [
-      "At the start of each turn, gain #b",
-      " Charge. NL (Cannot be removed or transformed.)"
-    ]
-  },
-  "NeowsBlessing": {
-    "NAME": "Neow's Lament",
-    "FLAVOR": "The blessing of lamentation bestowed by Neow.",
-    "DESCRIPTIONS": [
-      "Enemies in your first #b3 combats will have 1 HP.",
-      "The blessing is used up."
-    ]
-  },
   "White Beast Statue": {
     "NAME": "White Beast Statue",
     "FLAVOR": "A small white statue of a creature you have never seen before.",
     "DESCRIPTIONS": [
       "Potions always drop after combat."
-    ]
-  },
-  "Inserter": {
-    "NAME": "Inserter",
-    "FLAVOR": "Push. Pull. Stack. Repeat.",
-    "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
-    ]
-  },
-  "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit of bad can do a lot of good...",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
-    ]
-  },
-  "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
-    "FLAVOR": "Ooooh...",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
-    ]
-  },
-  "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
-    ]
-  },
-  "Emotion Chip": {
-    "NAME": "Emotion Chip",
-    "FLAVOR": "...<3...?",
-    "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
-    ]
-  },
-  "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
-    "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
-    ]
-  },
-  "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
-    "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yFocus."
-    ]
-  },
-  "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
-    "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
     ]
   }
 }

@@ -1,42 +1,16 @@
 {
-  "DEV": {
-    "HEADER": "Development & Design",
-    "NAMES": [
-      "Anthony Giovannetti",
-      "Casey Yano"
-    ]
-  },
-  "OPS": {
-    "HEADER": "Operations & Metrics",
-    "NAMES": [
-      "Danielle Jenkins",
-      "Jake Rabinowitz"
-    ]
-  },
-  "SOUND": {
-    "HEADER": "Music & Sounds",
-    "NAMES": [
-      "Clark Aboud"
-    ]
-  },
-  "VOICE": {
-    "HEADER": "Voice Talent",
-    "NAMES": [
-      "Tamara Ryan",
-      "Michael Schwalbe"
-    ]
-  },
-  "PORTRAITS": {
-    "HEADER": "Card Portraits & Event Art",
-    "NAMES": [
-      "Anailis Dorta"
-    ]
-  },
   "ANIMATION": {
     "HEADER": "Character Animation",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Development & Design",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
     ]
   },
   "ILLUSTRATION": {
@@ -45,15 +19,17 @@
       "Bruce Brenneise"
     ]
   },
-  "LOC_ZHS": {
-    "HEADER": "Chinese (Simplified) Localization",
+  "LOC_ADDITIONAL": {
+    "HEADER": "Additional Translations",
     "NAMES": [
-      "Sound of Mystery"
+      "MoGi Group"
     ]
   },
-  "LOC_ZHT": {
-    "HEADER": "Chinese (Traditional) Localization",
-    "NAMES": []
+  "LOC_DEU": {
+    "HEADER": "German Localization",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand "
+    ]
   },
   "LOC_FRA": {
     "HEADER": "French Localization",
@@ -69,12 +45,6 @@
       "Hugo \"Tagadda\" Vurpillot",
       "Corentin \"Tchus\" Monfort",
       "Zachary \"WyvernZed\" Janisse"
-    ]
-  },
-  "LOC_DEU": {
-    "HEADER": "German Localization",
-    "NAMES": [
-      "Joshua \"Joshipon\" Wiegand "
     ]
   },
   "LOC_ITA": {
@@ -171,10 +141,47 @@
       "Erdem Gürbüz"
     ]
   },
-  "LOC_ADDITIONAL": {
-    "HEADER": "Additional Translations",
+  "LOC_ZHS": {
+    "HEADER": "Chinese (Simplified) Localization",
     "NAMES": [
-      "MoGi Group"
+      "Sound of Mystery"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Chinese (Traditional) Localization",
+    "NAMES": []
+  },
+  "OPS": {
+    "HEADER": "Operations & Metrics",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Card Portraits & Event Art",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Music & Sounds",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Special Thanks",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper"
     ]
   },
   "TEST": {
@@ -209,22 +216,15 @@
       "Conor Watson"
     ]
   },
-  "SPECIAL": {
-    "HEADER": "Special Thanks",
-    "NAMES": [
-      "Harry Rabinowitz",
-      "Kevin \"Billy\" Matheson",
-      "Anthony Roybal",
-      "Lee Beckman",
-      "Sam Welch",
-      "feedbackbot",
-      "Evan Howell",
-      "Justin Myhres",
-      "robojumper"
-    ]
-  },
   "THANKS_MSG": {
     "HEADER": "...and thank YOU for playing!",
     "NAMES": []
+  },
+  "VOICE": {
+    "HEADER": "Voice Talent",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
   }
 }

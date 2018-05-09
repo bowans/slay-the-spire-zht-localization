@@ -103,117 +103,117 @@
     ]
   },
   "Fruit Juice": {
-    "NAME": "Fruit Juice",
+    "NAME": "Succo di Frutta",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
+      "Guadagni #b",
+      " PV massimi."
     ]
   },
   "FearPotion": {
-    "NAME": "Fear Potion",
+    "NAME": "Paura Liquida",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
+      "Applichi #b",
+      " #yVulnerabile."
     ]
   },
   "SkillPotion": {
-    "NAME": "Skill Potion",
+    "NAME": "Pozione Abile",
     "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0."
+      "Aggiungi un'Abilità casuale alla tua mano, costa #b0."
     ]
   },
   "AttackPotion": {
-    "NAME": "Attack Potion",
+    "NAME": "Pozione d'Attacco",
     "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0."
+      "Aggiungi un'Attacco casuale alla tua mano, costa #b0."
     ]
   },
   "PowerPotion": {
-    "NAME": "Potion Potion",
+    "NAME": "Pozione Potente",
     "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0."
+      "Aggiungi un Potere casuale alla tua mano, costa #b0."
     ]
   },
   "SteroidPotion": {
-    "NAME": "Steroid  Potion",
+    "NAME": "Steroidi Magici",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Strength. At the end of your turn, lose #b",
-      " Strength."
+      "Ottieni #b",
+      " #yForza. A fine turno perdi #b",
+      " #yForza."
     ]
   },
   "SpeedPotion": {
-    "NAME": "Speed  Potion",
+    "NAME": "Pozione Veloce",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Dexterity. At the end of your turn, lose #b",
-      " Dexterity."
+      "Ottieni #b",
+      " #yDestrezza. A fine turno perdi #b",
+      " #yDestrezza."
     ]
   },
   "GhostInAJar": {
-    "NAME": "Ghost In A Jar",
+    "NAME": "Spettro in Barattolo",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yIntangible"
+      "Ottieni #b",
+      " #yIntangibile."
     ]
   },
   "FocusPotion": {
-    "NAME": "Focus Potion",
+    "NAME": "Concentrato di Focus",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yFocus"
+      "Ottieni #b",
+      " #yFocus."
     ]
   },
   "SneckoOil": {
-    "NAME": "Snecko Oil",
+    "NAME": "Olio di Snecko",
     "DESCRIPTIONS": [
-      "Draw #b",
-      "cards. Become #yConfused."
+      "Peschi #b",
+      " carte. Diventi #yConfuso."
     ]
   },
   "LiquidBronze": {
-    "NAME": "Liquid Bronze",
+    "NAME": "Bronzo Liquido",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yThorns."
+      "Guadagni #b",
+      " #ySpine."
     ]
   },
   "GamblersBrew": {
-    "NAME": "Gambler's Brew",
+    "NAME": "Pozione d'Azzardo",
     "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
+      "Scarti un numero qualsiasi di carte poi ne peschi altrettante."
     ]
   },
   "EssenceOfSteel": {
-    "NAME": "Essence Of Steel",
+    "NAME": "Essenza d'Acciaio",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yPlated #yArmor."
+      "Guadagni #b",
+      " #yArmatura #ya #yPiastre."
     ]
   },
   "BloodPotion": {
-    "NAME": "Blood Potion",
+    "NAME": "Estratto di Sangue",
     "DESCRIPTIONS": [
-      "Heal for #b",
-      "% of your Max HP."
+      "Ti curi di #b",
+      "% dei tuoi PV massimi."
     ]
   },
   "FairyPotion": {
-    "NAME": "Fairy Potion",
+    "NAME": "Pozione Fatata",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+      "Se moriresti, ti curi del #b10% dei tuoi PV massimi e scarti questa pozione."
     ]
   },
   "SmokeBomb": {
-    "NAME": "Smoke Bomb",
+    "NAME": "Fumogeno",
     "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
+      "Fuggi da un combattimento senza ricompense. Attenzione: non permette di scappare dai boss."
     ]
   },
   "EntropicBrew": {
-    "NAME": "Entropic Brew",
+    "NAME": "Bevanda Entropica",
     "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
+      "Riempi tutti i tuoi spazi per Pozioni con Pozioni casuali."
     ]
   }
 }

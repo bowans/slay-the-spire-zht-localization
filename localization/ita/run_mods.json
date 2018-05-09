@@ -9,7 +9,7 @@
   },
   "Heirloom": {
     "NAME": "Eredità",
-    "DESCRIPTION": "Cominci con una reliquia Rara."
+    "DESCRIPTION": "Cominci la partita con una reliquia Rara."
   },
   "Lethality": {
     "NAME": "Nemici Mortali",
@@ -21,7 +21,7 @@
   },
   "Insanity": {
     "NAME": "Pazzia",
-    "DESCRIPTION": "Cominci con un mazzo di 50 carte casuali."
+    "DESCRIPTION": "Cominci la partita con un mazzo di 50 carte casuali."
   },
   "Shiny": {
     "NAME": "Luccichio",
@@ -29,7 +29,7 @@
   },
   "Allstar": {
     "NAME": "I Migliori",
-    "DESCRIPTION": "Cominci con 5 carte incolore casuali."
+    "DESCRIPTION": "Cominci la partita con 5 carte incolore casuali."
   },
   "Diverse": {
     "NAME": "Differente",
@@ -67,12 +67,12 @@
     "NAME": "Draft",
     "DESCRIPTION": "Ad inizio partita scegli 15 carte per costruire il tuo mazzo iniziale."
   },
-  "Brewmaster": {
-    "NAME": "Brewmaster",
-    "DESCRIPTION": "Start with 5 copies of Alchemize, Toy Ornithopter and White Beast Statue."
-  },
   "Specialized": {
-    "NAME": "Specialized",
-    "DESCRIPTION": "Start with 5 copies of a single rare card."
+    "NAME": "Specialista",
+    "DESCRIPTION": "Cominci la partita con 5 copie di una carta rara."
+  },
+  "Brewmaster": {
+    "NAME": "Alchimista",
+    "DESCRIPTION": "Cominci la partita con 5 copie di Alchimia, l'Ornitottero Giocattolo e la Statua della Bestia Bianca."
   }
 }

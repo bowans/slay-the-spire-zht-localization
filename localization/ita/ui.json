@@ -153,7 +153,7 @@
   "GamblingChipAction": {
     "TEXT": [
       "Rimpiazzare (Gettone da Gioco)",
-      "Replace"
+      "Rimpiazzare"
     ]
   },
   "DiscardPileToHandAction": {
@@ -237,7 +237,7 @@
       "Negozi",
       "Una stanza nella quale l'enigmatico mercante vende la sua merce. NL NL Spendi qui il tuo meritato #yOro!",
       "Tesoro",
-      "Stanza Tesoro",
+      "Tesoro",
       "In queste stanze puoi trovare #yOro e #yReliquie.",
       "Riposo",
       "Falò",
@@ -382,7 +382,7 @@
   "AbstractRoom": {
     "TEXT": [
       "Rapinato...",
-      "Fled..."
+      "Sei fuggito..."
     ]
   },
   "SingleViewRelicPopup": {
@@ -890,32 +890,32 @@
   "AbstractMonster": {
     "TEXT": [
       "Aggressivo",
-      "Questo nemico ha intenzione di #yAttaccare per #b",
+      "Questo nemico intende #yAttaccare per #b",
       " di danno #b",
       " volte.",
-      "Questo nemico ha intenzione di #yAttaccare per #b",
+      "Questo nemico intende #yAttaccare per #b",
       " di danno.",
       "Aggressivo",
-      "Questo nemico ha intenzione di usare un #yBuff e #yAttaccare per #b",
+      "Questo nemico intende usare un #yBuff e #yAttaccare per #b",
       " volte.",
-      "Questo nemico ha intenzione di usare un #yBuff e #yAttaccare per #b",
+      "Questo nemico intende usare un #yBuff e #yAttaccare per #b",
       "Strategico",
-      "Questo nemico ha intenzione di applicare un #yDebuff e #yAttaccare per #b",
-      "Questo nemico ha intenzione di #yBloccare e #yAttaccare per #b",
+      "Questo nemico intende applicare un #yDebuff e #yAttaccare per #b",
+      "Questo nemico intende #yBloccare e #yAttaccare per #b",
       "Difensivo",
       "Codardo",
       "Magico",
       "Addormentato",
       "Stordito",
       "Sconosciuto",
-      "Questo nemico ha intenzione di usare un #yBuff.",
-      "Questo nemico ha intenzione di applicare un #yDebuff.",
-      "Questo nemico ha intenzione di applicare un potente #yDebuff.",
-      "Questo nemico ha intenzione di #yBloccare durante il suo turno.",
-      "Questo nemico ha intenzione di #yBloccare ed applicarti un #yDebuff.",
-      "Questo nemico ha intenzione di #yBloccare e usare un #yBuff.",
-      "Questo nemico ha intenzione di #yScappare.",
-      "Questo nemico ha intenzione di usare una #Magia misteriosa durante il suo turno.",
+      "Questo nemico intende usare un #yBuff.",
+      "Questo nemico intende applicare un #yDebuff.",
+      "Questo nemico intende applicare un potente #yDebuff.",
+      "Questo nemico intende #yBloccare durante il suo turno.",
+      "Questo nemico intende #yBloccare ed applicarti un #yDebuff.",
+      "Questo nemico intende #yBloccare e usare un #yBuff.",
+      "Questo nemico intende #yScappare.",
+      "Questo nemico intende usare una #Magia misteriosa durante il suo turno.",
       "Questo nemico sta dormendo.",
       "Questo nemico è #yStordito durante il suo turno.",
       "Le intenzioni di questo nemico sono #yIgnote (non sta attaccando).",
@@ -1028,12 +1028,12 @@
   },
   "OpeningAction": {
     "TEXT": [
-      "Quel nemico non ha intenzione di attaccare!"
+      "Quel nemico non intende attaccare!"
     ]
   },
   "ReprieveAction": {
     "TEXT": [
-      "Quel nemico ha intenzione di attaccare!"
+      "Quel nemico intende attaccare!"
     ]
   },
   "ApplyPowerAction": {

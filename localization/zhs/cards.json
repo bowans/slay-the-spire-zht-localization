@@ -1178,7 +1178,7 @@
     "UPGRADE_DESCRIPTION": "生成 闪电 、 冰霜 、 黑暗 充能球各一个。"
   },
   "Defragment": {
-    "NAME": "碎片清理",
+    "NAME": "碎片整理",
     "DESCRIPTION": "获得 !M! 点 集中 。"
   },
   "Leap": {
@@ -1260,5 +1260,9 @@
   "BootSequence": {
     "NAME": "启动流程",
     "DESCRIPTION": "获得 !B! 点 格挡 。 NL 固有 。 NL 消耗 。"
+  },
+  "Steam": {
+    "NAME": "Steam",
+    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
   }
 }

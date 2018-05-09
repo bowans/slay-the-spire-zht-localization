@@ -1,5 +1,52 @@
 Updates for Translators!
 
+05/08/2018:
+run_mods.json
+"Brewmaster"
+    "DESCRIPTION": "Start with 5 copies of Alchemize, Toy Ornithopter and White Beast Statue."
+    "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
+potions.json
+	"Fairy Potion" -> "Fairy in a Bottle"
+	"AttackPotion"
+		"Add a random Attack card to your hand, it costs #b0."
+		"Add a random Attack card to your hand, it costs #b0 this turn."
+	"SkillPotion"
+		"Add a random Skill card to your hand, it costs #b0."
+		"Add a random Skill card to your hand, it costs #b0 this turn."
+	"PowerPotion"
+		"Add a random Power card to your hand, it costs #b0."
+		"Add a random Power card to your hand, it costs #b0 this turn."
+	"SneckoOil"
+		BEFORE:
+		"Draw #b",
+		" cards. Become #yConfused."
+		AFTER:
+		" Become #yConfused. Draw #b",
+		" cards."
+cards.json
+	"Chill"
+		"UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
+		"UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost for each enemy in combat. NL Exhaust."
+	"Wraith Form v2"
+		"DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity." ->
+		"DESCRIPTION": "Gain !M! Intangible. NL At the end of each turn, lose 1 Dexterity."
+	"Steam"
+	"Steam Power"
+		"Steam Power" ->
+		"Quick Search"
+
+----------------------------------
+
+05/07/2018v2:
+potions.json
+	"EntropicBrew"
+	"SneckoOil"
+		(fixed typo in description)
+		"cards. Become #yConfused." ->
+		" cards. Become #yConfused."
+
+----------------------------------
+
 05/07/2018:
 run_mods.json
 	"Brewmaster"

@@ -13,18 +13,44 @@
       ],
       "DESCRIPTION": "Until next turn, prevents damage."
     },
-    "EVOKE": {
+    "BURN": {
       "NAMES": [
-        "evoke",
-        "evoked"
+        "burn",
+        "burns"
       ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "channel",
+        "channeled"
+      ],
+      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "confused"
+      ],
+      "DESCRIPTION": "Whenever you draw a card, randomize its cost."
     },
     "CURSE": {
       "NAMES": [
         "curse"
       ],
       "DESCRIPTION": "Curse cards are negative cards that stay in your deck."
+    },
+    "DARK": {
+      "NAMES": [
+        "dark",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+    },
+    "DAZED": {
+      "NAMES": [
+        "dazed"
+      ],
+      "DESCRIPTION": "Dazed are unplayable status cards."
     },
     "DEXTERITY": {
       "NAMES": [
@@ -38,6 +64,13 @@
       ],
       "DESCRIPTION": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat."
     },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+    },
     "EXHAUST": {
       "NAMES": [
         "exhaust",
@@ -45,17 +78,43 @@
       ],
       "DESCRIPTION": "Removed until end of combat."
     },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "frail"
+      ],
+      "DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Gains #yBlock."
+    },
     "INNATE": {
       "NAMES": [
         "innate"
       ],
       "DESCRIPTION": "Start each combat with this card in your hand."
     },
-    "FOCUS": {
+    "INTANGIBLE": {
       "NAMES": [
-        "focus"
+        "intangible"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "lightning",
+        "lightning+"
+      ],
+      "DESCRIPTION": "Orb: Deals damage to random enemies."
     },
     "LOCKED": {
       "NAMES": [
@@ -68,6 +127,13 @@
         "opener"
       ],
       "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Gains Energy."
     },
     "POISON": {
       "NAMES": [
@@ -100,6 +166,31 @@
         "strength"
       ],
       "DESCRIPTION": "Strength adds additional damage to attacks."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "strike"
+      ],
+      "DESCRIPTION": "Any card with the word \"Strike\" in its name."
+    },
+    "TEXT": [
+      "Energy is used to play cards from your hand."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
     },
     "TRANSFORM": {
       "NAMES": [
@@ -154,97 +245,6 @@
         "wounds"
       ],
       "DESCRIPTION": "Wounds are unplayable status cards."
-    },
-    "DAZED": {
-      "NAMES": [
-        "dazed"
-      ],
-      "DESCRIPTION": "Dazed are unplayable status cards."
-    },
-    "BURN": {
-      "NAMES": [
-        "burn",
-        "burns"
-      ],
-      "DESCRIPTION": "Burns are unplayable status cards that damage you."
-    },
-    "FRAIL": {
-      "NAMES": [
-        "frail"
-      ],
-      "DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards."
-    },
-    "STRIKE": {
-      "NAMES": [
-        "strike"
-      ],
-      "DESCRIPTION": "Any card with the word \"Strike\" in its name."
-    },
-    "CONFUSED": {
-      "NAMES": [
-        "confused"
-      ],
-      "DESCRIPTION": "Whenever you draw a card, randomize its cost."
-    },
-    "INTANGIBLE": {
-      "NAMES": [
-        "intangible"
-      ],
-      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "lightning",
-        "lightning+"
-      ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
-    },
-    "FROST": {
-      "NAMES": [
-        "frost",
-        "frost+"
-      ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
-    },
-    "DARK": {
-      "NAMES": [
-        "dark",
-        "dark+"
-      ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
-    },
-    "PLASMA": {
-      "NAMES": [
-        "plasma",
-        "plasma+"
-      ],
-      "DESCRIPTION": "Orb: Gains Energy."
-    },
-    "CHANNEL": {
-      "NAMES": [
-        "channel",
-        "channeled"
-      ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
-    },
-	"THORNS": {
-      "NAMES": [
-        "thorns"
-      ],
-      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
-    },
-    "TODO": {
-      "NAMES": [
-        "todo",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE"
-      ],
-      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
-    },
-    "TEXT": [
-      "Energy is used to play cards from your hand."
-    ]
+    }
   }
 }

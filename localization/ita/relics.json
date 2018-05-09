@@ -193,7 +193,7 @@
   },
   "Chemical X": {
     "NAME": "Chemical X",
-    "FLAVOR": "ATTENZIONE: Non aggiungere zucchero, cannella, ed ogni cosa bella.",
+    "FLAVOR": "ATTENZIONE: Non aggiungere zucchero, cannella ed ogni cosa bella.",
     "DESCRIPTIONS": [
       "Ogni volta che giochi una carta che costa #bX, i suoi effeti sono aumentati di #b"
     ]
@@ -216,7 +216,7 @@
     "NAME": "Nucleo Incrinato",
     "FLAVOR": "La misteriosa forza vitale che anima gli Automi dentro la Guglia. Sembra danneggiato.",
     "DESCRIPTIONS": [
-      "Ad inizio combattimento #yCanalizzi #b1 #yFulmine."
+      "Ad inizio combattimento #yCrei #b1 #yFulmine."
     ]
   },
   "Cursed Key": {
@@ -1101,14 +1101,14 @@
     "NAME": "Virus Simbiotico",
     "FLAVOR": "Giusto un pizzico di male può fare molto bene...",
     "DESCRIPTIONS": [
-      "Ad inizio combattimento #yCanalizzi #b1 #yOscurità."
+      "Ad inizio combattimento #yCrei #b1 #yOscurità."
     ]
   },
   "Nuclear Battery": {
     "NAME": "Batteria Nucleare",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "Ad inizio combattimento #yCanalizzi #b1 #yPlasma."
+      "Ad inizio combattimento #yCrei #b1 #yPlasma."
     ]
   },
   "Cables": {

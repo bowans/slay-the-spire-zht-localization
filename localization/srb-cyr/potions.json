@@ -68,7 +68,7 @@
   "Potion Slot": {
     "NAME": "Појас за напитке",
     "DESCRIPTIONS": [
-      "Напицима се током борбе #gпобољшај или #rомети непријатеље.",
+      "Током борбе се напицима #gпобољшај или #rомети непријатеље.",
       "Појас за напитке"
     ]
   },
@@ -88,7 +88,7 @@
     ]
   },
   "Swift Potion": {
-    "NAME": "Напитак брзине",
+    "NAME": "Напитак хитрости",
     "DESCRIPTIONS": [
       "",
       "Вуци #b",
@@ -103,117 +103,117 @@
     ]
   },
   "Fruit Juice": {
-    "NAME": "Fruit Juice",
+    "NAME": "Ђус",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
+      "Задоби #b",
+      " макс. з.п."
     ]
   },
   "FearPotion": {
-    "NAME": "Fear Potion",
+    "NAME": "Напитак страха",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
+      "Нанеси #b",
+      " #yрањивости."
     ]
   },
   "SkillPotion": {
-    "NAME": "Skill Potion",
+    "NAME": "Напитак умећа",
     "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0."
+      "Додај насумично умеће у руку. #bБесплатно је."
     ]
   },
   "AttackPotion": {
-    "NAME": "Attack Potion",
+    "NAME": "Напитак напада",
     "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0."
+      "Додај насумичан напад у руку. #bБесплатан је."
     ]
   },
   "PowerPotion": {
-    "NAME": "Potion Potion",
+    "NAME": "Напитак моћи",
     "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0."
+      "Додај насумичну моћ у руку. #bБесплатна је."
     ]
   },
   "SteroidPotion": {
-    "NAME": "Steroid  Potion",
+    "NAME": "Стероидска мућка",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Strength. At the end of your turn, lose #b",
-      " Strength."
+      "Повећај своју #yснагу за #b",
+      ". Смањи је за #b",
+      " на крају потеза."
     ]
   },
   "SpeedPotion": {
-    "NAME": "Speed  Potion",
+    "NAME": "Напитак брзине",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Dexterity. At the end of your turn, lose #b",
-      " Dexterity."
+      "Повећај своју #yокретност за #b",
+      ". Смањи је за #b",
+      " на крају потеза."
     ]
   },
   "GhostInAJar": {
-    "NAME": "Ghost In A Jar",
+    "NAME": "Дух у тегли",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yIntangible"
+      "Задоби #b",
+      " #yнеопипљивост."
     ]
   },
   "FocusPotion": {
-    "NAME": "Focus Potion",
+    "NAME": "Напитак потентности",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yFocus"
+      "Задоби #b",
+      " #yпотентности."
     ]
   },
   "SneckoOil": {
-    "NAME": "Snecko Oil",
+    "NAME": "Змијково уље",
     "DESCRIPTIONS": [
-      "Draw #b",
-      "cards. Become #yConfused."
+      "Вуци #b",
+      " карте. Постани #yзбуњен."
     ]
   },
   "LiquidBronze": {
-    "NAME": "Liquid Bronze",
+    "NAME": "Течна бронза",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yThorns."
+      "Задоби #b",
+      " #yбодљикавости."
     ]
   },
   "GamblersBrew": {
-    "NAME": "Gambler's Brew",
+    "NAME": "Карташки коктел",
     "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
+      "Одбаци било који број карата, потом вуци исто толико."
     ]
   },
   "EssenceOfSteel": {
-    "NAME": "Essence Of Steel",
+    "NAME": "Есенције челика",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yPlated #yArmor."
+      "Задоби #b",
+      " #yопточеног #yоклопа."
     ]
   },
   "BloodPotion": {
-    "NAME": "Blood Potion",
+    "NAME": "Напитак крви",
     "DESCRIPTIONS": [
-      "Heal for #b",
-      "% of your Max HP."
+      "Залечи #b",
+      "% својих макс. з. п."
     ]
   },
   "FairyPotion": {
-    "NAME": "Fairy Potion",
+    "NAME": "Вилењачки напитак",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+      "Уместо да умреш, залечи #b10% својих макс. з. п. и одбаци овај напитак."
     ]
   },
   "SmokeBomb": {
-    "NAME": "Smoke Bomb",
+    "NAME": "Димна бомба",
     "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
+      "Побегни из не-вождовске борбе. Не добијаш никакве награде."
     ]
   },
   "EntropicBrew": {
-    "NAME": "Entropic Brew",
+    "NAME": "Ентропијска смеша",
     "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
+      "Испуни појас за напитке насумичним напицима."
     ]
   }
 }

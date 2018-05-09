@@ -6,11 +6,24 @@
       " #yArtifact."
     ]
   },
+  "AttackPotion": {
+    "NAME": "Attack Potion",
+    "DESCRIPTIONS": [
+      "Add a random Attack card to your hand, it costs #b0 this turn."
+    ]
+  },
   "Block Potion": {
     "NAME": "Block Potion",
     "DESCRIPTIONS": [
       "Gain #b",
       " #yBlock."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Blood Potion",
+    "DESCRIPTIONS": [
+      "Heal for #b",
+      "% of your Max HP."
     ]
   },
   "Dexterity Potion": {
@@ -37,11 +50,37 @@
       " Energy."
     ]
   },
+  "EntropicBrew": {
+    "NAME": "Entropic Brew",
+    "DESCRIPTIONS": [
+      "Fill all your empty potion slots with random potions."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Essence of Steel",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yPlated #yArmor."
+    ]
+  },
   "Explosive Potion": {
     "NAME": "Explosive Potion",
     "DESCRIPTIONS": [
       "Deal #b",
       " damage to ALL enemies."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Fairy in a Bottle",
+    "DESCRIPTIONS": [
+      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Fear Potion",
+    "DESCRIPTIONS": [
+      "Apply #b",
+      " #yVulnerable."
     ]
   },
   "Fire Potion": {
@@ -51,11 +90,45 @@
       " damage."
     ]
   },
+  "FocusPotion": {
+    "NAME": "Focus Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yFocus."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Fruit Juice",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Max HP."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Gambler's Brew",
+    "DESCRIPTIONS": [
+      "Discard any number of cards then draw that many."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Ghost in a Jar",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yIntangible."
+    ]
+  },
   "Health Potion": {
     "NAME": "Health Potion",
     "DESCRIPTIONS": [
       "Heal #b",
       " HP."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Liquid Bronze",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yThorns."
     ]
   },
   "Poison Potion": {
@@ -72,12 +145,53 @@
       "Potion Slot"
     ]
   },
+  "PowerPotion": {
+    "NAME": "Power Potion",
+    "DESCRIPTIONS": [
+      "Add a random Power card to your hand, it costs #b0 this turn."
+    ]
+  },
   "Regen Potion": {
     "NAME": "Regen Potion",
     "DESCRIPTIONS": [
       "Heal #b",
       " #yHP at the end of each turn for #b",
       " turns."
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Skill Potion",
+    "DESCRIPTIONS": [
+      "Add a random Skill card to your hand, it costs #b0 this turn."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Smoke Bomb",
+    "DESCRIPTIONS": [
+      "Escape from a non-boss combat. Receive no rewards."
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Snecko Oil",
+    "DESCRIPTIONS": [
+      " Become #yConfused. Draw #b",
+      " cards."
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Speed Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yDexterity. At the end of your turn, lose #b",
+      " #yDexterity."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Steroid Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yStrength. At the end of your turn, lose #b",
+      " #yStrength."
     ]
   },
   "Strength Potion": {
@@ -100,120 +214,6 @@
     "DESCRIPTIONS": [
       "Apply #b",
       " #yWeak."
-    ]
-  },
-  "Fruit Juice": {
-    "NAME": "Fruit Juice",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
-    ]
-  },
-  "FearPotion": {
-    "NAME": "Fear Potion",
-    "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
-    ]
-  },
-  "SkillPotion": {
-    "NAME": "Skill Potion",
-    "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0."
-    ]
-  },
-  "AttackPotion": {
-    "NAME": "Attack Potion",
-    "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0."
-    ]
-  },
-  "PowerPotion": {
-    "NAME": "Power Potion",
-    "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0."
-    ]
-  },
-  "SteroidPotion": {
-    "NAME": "Steroid Potion",
-    "DESCRIPTIONS": [
-      "Gain #b",
-	  " #yStrength. At the end of your turn, lose #b",
-	  " #yStrength."
-    ]
-  },
-  "SpeedPotion": {
-    "NAME": "Speed Potion",
-    "DESCRIPTIONS": [
-      "Gain #b",
-	  " #yDexterity. At the end of your turn, lose #b",
-	  " #yDexterity."
-    ]
-  },
-  "GhostInAJar": {
-    "NAME": "Ghost In A Jar",
-    "DESCRIPTIONS": [
-      "Gain #b",
-	  " #yIntangible."
-    ]
-  },
-  "FocusPotion": {
-    "NAME": "Focus Potion",
-    "DESCRIPTIONS": [
-      "Gain #b",
-	  " #yFocus."
-    ]
-  },
-  "SneckoOil": {
-    "NAME": "Snecko Oil",
-    "DESCRIPTIONS": [
-      "Draw #b",
-	  "cards. Become #yConfused."
-    ]
-  },
-  "LiquidBronze": {
-    "NAME": "Liquid Bronze",
-    "DESCRIPTIONS": [
-      "Gain #b",
-	  " #yThorns."
-    ]
-  },
-  "GamblersBrew": {
-    "NAME": "Gambler's Brew",
-    "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
-    ]
-  },
-  "EssenceOfSteel": {
-    "NAME": "Essence Of Steel",
-    "DESCRIPTIONS": [
-      "Gain #b",
-	  " #yPlated #yArmor."
-    ]
-  },
-  "BloodPotion": {
-    "NAME": "Blood Potion",
-    "DESCRIPTIONS": [
-      "Heal for #b",
-	  "% of your Max HP."
-    ]
-  },
-  "FairyPotion": {
-    "NAME": "Fairy Potion",
-    "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
-    ]
-  },
-  "SmokeBomb": {
-    "NAME": "Smoke Bomb",
-    "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
-    ]
-  },
-  "EntropicBrew": {
-    "NAME": "Entropic Brew",
-    "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
     ]
   }
 }

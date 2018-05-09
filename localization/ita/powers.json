@@ -363,8 +363,15 @@
   "Flex": {
     "NAME": "Flessione",
     "DESCRIPTIONS": [
-      "A fine turno, perdi #b",
+      "A fine turno perdi #b",
       " #yForza."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Destrezza in Calo",
+    "DESCRIPTIONS": [
+      "A fine turno perdi #b",
+      " #yDestrezza."
     ]
   },
   "Malleable": {
@@ -761,7 +768,7 @@
   "StaticDischarge": {
     "NAME": "Elettrostatica",
     "DESCRIPTIONS": [
-      "Quando ricevi danno da un #yAttacco, #yCanalizzi #b",
+      "Quando ricevi danno da un #yAttacco, #yCrei #b",
       " #yFulmine."
     ]
   },
@@ -781,11 +788,11 @@
     ]
   },
   "Echo Form": {
-    "NAME": "Modulo Iterativo",
+    "NAME": "Forma Ricorsiva",
     "DESCRIPTIONS": [
       "La prima carta che giochi ogni turno viene giocata due volte.",
-      "Le prime #b ",
-      "carte che giochi ogni turno vengono giocate due volte."
+      "Le prime #b",
+      " carte che giochi ogni turno vengono giocate due volte."
     ]
   },
   "Heatsink": {
@@ -805,7 +812,7 @@
   "Storm": {
     "NAME": "Tempesta",
     "DESCRIPTIONS": [
-      "Ogni volta che giochi un #bPotere, #yCanalizzi #b ",
+      "Ogni volta che giochi un #bPotere, #yCrei #b ",
       " Fulmine."
     ]
   },
@@ -848,7 +855,7 @@
   "Prime": {
     "NAME": "Innesca",
     "DESCRIPTIONS": [
-      "Ogni volta che #yCanalizzi un Globo, peschi #b",
+      "Ogni volta che #yCrei un Globo, peschi #b",
       " carta.",
       " carte."
     ]
@@ -891,13 +898,6 @@
       "I #yFulmini e le #yOscurità colpiranno questo nemico per i prossimi #b",
       " turni.",
       "I #yFulmini e le #yOscurità colpiranno questo nemico in questo turno."
-    ]
-  },
-  "DexLoss": {
-    "NAME": "Dexterity Down",
-    "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
     ]
   }
 }

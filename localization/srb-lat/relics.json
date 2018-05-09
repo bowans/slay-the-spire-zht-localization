@@ -122,7 +122,7 @@
     "NAME": "Bronzana krljušt",
     "FLAVOR": "Oštra Čuvareva krljušt. Samooblikuje se ne bi li zaštitila svog korisnika.",
     "DESCRIPTIONS": [
-      "Svaki put kada primiš štetu, uzvrati #b",
+      "Svaki put kada primiš štetu, uzvrati sa #b",
       " štete."
     ]
   },
@@ -299,7 +299,7 @@
     "NAME": "Otrovno jaje",
     "FLAVOR": "\"Kakvo veličanstveno otkriće! Ovo nalikuje na inertno jaje nekog magičnog stvorenja. Ko ili šta ga je stvorilo?\" - Ranuid",
     "DESCRIPTIONS": [
-      "Svaki put kada dodaš #yumeće u špil, #ypoboljšaj je."
+      "Svaki put kada dodaš #yumeće u špil, #ypoboljšaj ga."
     ]
   },
   "Enchiridion": {
@@ -557,8 +557,8 @@
     "NAME": "Čudnovato gladak kamen",
     "FLAVOR": "Nikad nisi video nešto tako glatko i besprekorno. Ovo mora da je delo Drevnih.",
     "DESCRIPTIONS": [
-      "Započni svaku borbu sa #b",
-      " #yokretnošću."
+      "Započni svaku borbu sa #yokretnošću povećanom za #b",
+      "."
     ]
   },
   "Odd Mushroom": {
@@ -612,7 +612,7 @@
     "NAME": "Pandorina kutija",
     "FLAVOR": "Imaš loš predosećaj oko otvaranja ovoga.",
     "DESCRIPTIONS": [
-      "#bPreobrazi sve napade i odbrane.",
+      "#bPreobrazi sve udarce i odbrane.",
       "Pandorina kutija je otvorena..."
     ]
   },
@@ -1035,8 +1035,8 @@
     "NAME": "Vajra",
     "FLAVOR": "Ukrasna relikvija darovana ratnicima koji su se proslavili u bici.",
     "DESCRIPTIONS": [
-      "Započni svaku borbu sa #b",
-      " #ysnagom."
+      "Započni svaku borbu sa #ysnagom povećanom za #b",
+      "."
     ]
   },
   "Velvet Choker": {
@@ -1098,17 +1098,17 @@
     ]
   },
   "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit of bad can do a lot of good...",
+    "NAME": "Simbiotički virus",
+    "FLAVOR": "Malo lošeg može da učini mnogo dobra...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "Na početku svake borbe, #yprizovi #bjednu #ytamu."
     ]
   },
   "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
-    "FLAVOR": "Ooooh...",
+    "NAME": "Nuklearna baterija",
+    "FLAVOR": "Ooooo...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
+      "Na početku svake borbe, #yprizovi #bjednu #yplazmu."
     ]
   },
   "Cables": {
@@ -1119,10 +1119,10 @@
     ]
   },
   "Emotion Chip": {
-    "NAME": "Emotion Chip",
+    "NAME": "Čip za emocije",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+      "Na početku svakog poteza, ako si primio štetu prethodni krug, aktiviraj pasivne sposobnosti svih svojih sfera."
     ]
   },
   "Runic Capacitor": {
@@ -1133,16 +1133,16 @@
     ]
   },
   "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "NAME": "Disk za podatke",
+    "FLAVOR": "Ovaj disk sadrži dragocene podatke o pticama i zmijama.",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yFocus."
+      "Započni svaku borbu sa #ypotentnošću povećanom za #b",
+      "."
     ]
   },
   "Turnip": {
     "NAME": "Repa",
-    "FLAVOR": "Najbolje sa đumbirom.",
+    "FLAVOR": "Najbolja je sa đumbirom.",
     "DESCRIPTIONS": [
       "Više ne možeš biti #yoronuo."
     ]

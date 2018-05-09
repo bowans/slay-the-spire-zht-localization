@@ -624,17 +624,17 @@
   "Spire Heart": {
     "NAME": "Il cuore della Guglia",
     "DESCRIPTIONS": [
-      "@tu-tum@ ... @tum-tum@ ... @tu-tum@ ... NL Una pulsante sensazione di profondo terrore riempe questa stanza... NL Quindi è questo il #r~cuore~ della Guglia? La fonte di questa malvagità?",
+      "@tu-tum@ ... @tum-tum@ ... @tu-tum@ ... NL Una pulsante sensazione di profondo terrore riempe la stanza... NL Quindi è questo il #r~cuore~ della Guglia? La fonte di questa malvagità?",
       "Riesci a infliggere #b",
       " danni! NL Il cuore si #r@contorce@ e #r~sanguina~ ...ma continua comunque a battere. NL Neanche I tuoi attacchi più potenti sono abbastanza?",
       "Ti domandi: ~\"Sono~ ~forse~ ~già~ ~stato~ ~qui?\"~ NL Pensi di aver raggiunto un totale di #b",
       " danni inflitti al cuore.",
       " NL Un totale di #b",
       " danni sono stati inflitti da tutti coloro che lo hanno sfidato.",
-      " NL Il cuore inzia a pulsare sempre più forte mentre la tua #y~coscienza~ #y~scompare...~",
+      " NL Il palpito del cuore si fa sempre più forte, mentre la tua #y~mente~ #y~si #y~annebbia...~",
       "NL Prepari la tua lama...",
       "NL Prepari i tuoi pugnali...",
-      "NL Carichi la tua energia al massimo..."
+      "NL Carichi al massimo la tua energia..."
     ],
     "OPTIONS": [
       "[Continua]",
@@ -645,12 +645,12 @@
   "The Joust": {
     "NAME": "La Giostra",
     "DESCRIPTIONS": [
-      "Mentre avanzi fra immensi palazzi incontri due cavalieri che si fronteggiano, sui lati di uno stretto ponte. Ti avvicini... NL @\"Alt!\"@ NL NL Uno dei cavalieri ti intima di fermarti puntandoti contro la sua lancia oblunga.",
-      "\"Oggi è il giorno in cui regolarò i conti con #rl'assassino del mio amato animaletto, #yNoodles. Fino ad allora non potrai passare. NL NL Signor testimone, perchè non #bscommetti su chi pensi sarà il vincitore?\"",
-      "\"Non posso credere che tu voglia scommentere contro #yNoodles!\" NL NL Furibondo, abbassa la visiera dell'elmo e si scaglia contro la sua nemesi.",
+      "Mentre procedi fra gli immensi palazzi il tuo cammino viene bloccato da due cavalieri che si fronteggiano, ai lati opposti di uno stretto ponte. Ti avvicini... NL @\"Alt!\"@ NL NL Uno dei cavalieri ti intima di fermarti, puntandoti contro la sua lancia oblunga.",
+      "\"Oggi è il giorno in cui regolarò i conti con #rl'assassino del mio amato animaletto #yNoodles. Fino ad allora, non potrà passare. NL NL Signore e testimone, perchè non #bscommette su chi pensa sarà vincitore?\"",
+      "\"Non posso credere che voglia scommentere contro #yNoodles!\" NL NL Furibondo, abbassa la visiera dell'elmo e si scaglia contro la sua nemesi.",
       "\"Dammi la forza, #yNoodles!\" NL NL Abbassata la visiera dell'elmo, il cavaliere inizia a caricare.",
       "NL #y@*CRASH!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POW!*@",
-      "La nemesi è stata uccisa. NL NL ",
+      "Noodles è stato vendicato. NL NL ",
       "Il padrone è morto. NL NL ",
       "Hai #gvinto la scomessa. Non sapendo che pensare, prendi #yl'oro e te ne vai.",
       "Hai #rperso la scomessa, ma perlomeno non sei stato impalato da una lancia."
@@ -669,27 +669,27 @@
   "The Library": {
     "NAME": "La Biblioteca",
     "DESCRIPTIONS": [
-      "Ti trovi davanti ad un edificio che sembra essere abbandonato. NL Noti per terra una placca che è stata rimossa dal muro. C'è scritto, #b\"LA #bBIBLIOTECA\". NL All'interno trovi una quantità infinita di pergamene, manoscritti e libri. NL Ne prendi in mano uno e ti metti seduto su una poltrona per rilassarti.",
-      "La lettura è per idioti. NL Decidi di riposare un po' sulla poltrona. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Ti risvegli sentendoti rinfrescato.",
-      "La storia parla di una ragazzina che riesce a controllare gli insetti ed aspira a diventare un'eroina. Il libro è pieno di spunti creativi sull'uso di poteri, strategie di combattimento e nuove prospettive. NL Soddisfacente.",
-      "La storia riguarda un uomo che, viaggiando tra le stelle, si è ritrovato bloccato su un pianeta desolato. Ingegno, fortuna, perseveranza e l'umorismo necessario a rimanere sano di mente sono gli strumenti che gli permettono di tornare a casa. NL Affascinante.",
-      "La storia è ambientata in un gigantesco edificio sotterraneo, completamente isolato dal mondo post-apocalittico all'esterno. La novella è piena di complotti, propaganda ed ingiustizie. Ti trovi a domandarti se dimaniche simili abbiano luogo nella Guglia. NL Inquietante."
+      "Ti trovi davanti a quello che sembra un edificio abbandonato. NL Noti che per terra c'è una placca, rimossa da un muro. C'è scritto, #b\"LA #bBIBLIOTECA\". NL All'interno dell'edificio trovi una quantità infinita di pergamene, libri e manoscritti. NL Prendi in mano un volume e ti siedi su una poltrona, concedendoti una pausa.",
+      "Leggere è da idioti. NL Decidi di riposare un po' sulla poltrona. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Quando ti risvegli, sei pieno d'energia.",
+      "La storia parla di una ragazzina che riesce a controllare gli insetti ed aspira a diventare un'eroina. Il libro è pieno di spunti creativi sull'uso di poteri, di strategia e di nuove prospettive. NL Una lettura soddisfacente.",
+      "La storia racconta di un uomo in viaggio tra le stelle, che si è ritrovato bloccato su un pianeta desolato. Grazie ad ingegno, fortuna, perseveranza e all'umorismo necessario per rimanere sano di mente riesce infinine a tornare a casa. NL Affascinante.",
+      "La storia è ambientata in un gigantesco edificio sotterraneo, completamente isolato dal mondo post-apocalittico all'esterno. La trama è ricca di complotti, propaganda ed ingiustizie. Ti trovi a domandarti se dinamiche simili animino la Guglia. NL Inquietante."
     ],
     "OPTIONS": [
-      "[Leggi] #gScegli #g1 #gdi #g20 #gcarte #gda #gaggiungere #gal #gtuo #gmazzo.",
+      "[Leggi] #gScegli #g1 #gcarta #gfra #g20 #gda #gaggiungere #gal #gmazzo.",
       "[Dormi] #gTi #gCuri #gdi #g",
       " #gPV.",
       "[Esci]",
-      "Scegli una carta da aggiungere al tuo mazzo."
+      "Scegli una carta da aggiungere al mazzo."
     ]
   },
   "The Mausoleum": {
     "NAME": "Il Mausoleo",
     "DESCRIPTIONS": [
-      "Mentre ti avventuri tra una serie di tombe, ti trovi davanti un grande sarcofago ~tempestato~ ~di~ ~gemme,~ situato al centro di una stanza circolare. NL Non riesci a decifrare le incisioni che lo ricoprono, ma noti una #p~coltre~ #p~di~ #p~fumo~ #p~nero~ che trapela da sotto al coperchio.",
-      "Apri la bara. Mentre la apri, il #p~fumo~ #p~nero~ fuoriesce, riempendo l'intera stanza! All'interno non ci sono cadeveri, solo una #y~reliquia.~ La prendi ed ti rimetti in cammino, #r@tossendo@ #r@violentemente.@",
-      "Apri la bara. La nebbia si dissipa senza causare problemi. All'interno trovi i resti di un soldato in alta uniforme che tiene tra le mani un'antica #yreliquia. La raccogli e ti rimetti in cammino.",
-      "Decidi di continuare per la tua strada, lasciando i morti ormai dimenticati indisturbati."
+      "Mentre ti avventuri fra numerose file di tombe, ti trovi davanti un grande sarcofago, ~tempestato~ ~di~ ~gemme,~ posto al centro di una stanza rotonda. NL Non riesci a decifrare le incisioni che lo ricoprono, ma noti che una #p~coltre~ #p~di~ #p~fumo~ #p~nero~ trapela da sotto al coperchio.",
+      "Apri la bara. Mentre sollevi il coperchio, il #p~fumo~ #p~nero~ ne fuoriesce, saturando l'aria dell'intera stanza! All'interno non ci sono cadeveri, solo una #y~reliquia.~ La prendi ed ti rimetti in cammino, #r@tossendo@ #r@violentemente.@",
+      "Apri la bara. La nebbia si dissipa senza causare problemi. All'interno del sarcofago trovi i resti di un soldato in alta uniforme che tiene tra le mani un'antica #yreliquia. La raccogli e ti rimetti in cammino.",
+      "Decidi di continuare per la tua strada, lasciando che i morti di ere passate riposino indisturbati."
     ],
     "OPTIONS": [
       "[Scoperchia] #gTrova #guna #gReliquia. #r",
@@ -739,7 +739,7 @@
     "DESCRIPTIONS": [
       "Hai davanti qualcosa che sembra fuori posto nel paesaggio alieno che ti circonda. Stranamente, fra le pareti viventi dell'Aldilà è incastonato un portale di pietra, la cui soglia è ostruita da un #p~turbine~ #p~magico.~ Non vedi dove questo portale conduca, ma credi possa velocizzare la tua scalata attraverso la Guglia.",
       "Mentre attraversi il portale, tempo e spazio perdono significato. NL NL Mentre cerchi di capire dove sei, comprendi di avere di fronte una terribile battaglia.",
-      "Ti sembra meglio esercitare pazienza ed attenzione nello scalarela Guglia. Ignori il portale e prosegui."
+      "Riflettendoci, pensi sia meglio affrontare i pericoli della Guglia con pazienza e prepararti. Ignori il portale e prosegui."
     ],
     "OPTIONS": [
       "[Attraversa il portale] Raggiungi IMMEDIATAMENTE il boss.",
