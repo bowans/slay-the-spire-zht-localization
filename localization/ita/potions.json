@@ -119,19 +119,19 @@
   "SkillPotion": {
     "NAME": "Pozione Abile",
     "DESCRIPTIONS": [
-      "Aggiungi un'Abilità casuale alla tua mano, costa #b0."
+      "Aggiungi un'Abilità casuale alla tua mano, costa #b0 per questo turno."
     ]
   },
   "AttackPotion": {
     "NAME": "Pozione d'Attacco",
     "DESCRIPTIONS": [
-      "Aggiungi un'Attacco casuale alla tua mano, costa #b0."
+      "Aggiungi un'Attacco casuale alla tua mano, costa #b0 per questo turno"
     ]
   },
   "PowerPotion": {
     "NAME": "Pozione Potente",
     "DESCRIPTIONS": [
-      "Aggiungi un Potere casuale alla tua mano, costa #b0."
+      "Aggiungi un Potere casuale alla tua mano, costa #b0 per questo turno"
     ]
   },
   "SteroidPotion": {
@@ -167,8 +167,8 @@
   "SneckoOil": {
     "NAME": "Olio di Snecko",
     "DESCRIPTIONS": [
-      "Peschi #b",
-      " carte. Diventi #yConfuso."
+      "Diventi #yConfuso. Peschi #b",
+      " carte."
     ]
   },
   "LiquidBronze": {
@@ -199,7 +199,7 @@
     ]
   },
   "FairyPotion": {
-    "NAME": "Pozione Fatata",
+    "NAME": "Fata Imbottigliata",
     "DESCRIPTIONS": [
       "Se moriresti, ti curi del #b10% dei tuoi PV massimi e scarti questa pozione."
     ]

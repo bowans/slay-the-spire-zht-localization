@@ -982,7 +982,12 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "!D! ダメージを与える。 このターンにプレイしたカードが !M! 枚未満の場合、カードを1枚引く。"
+    "DESCRIPTION": "!D! ダメージを与える。 このターンにプレイしたカードが !M! 枚未満の場合、カードを1枚引く。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " card played.)",
+      " cards played.)"
+    ]
   },
   "Barrage": {
     "NAME": "集中砲火",
@@ -1032,7 +1037,7 @@
     "DESCRIPTION": "Deprecated."
   },
   "Steam Power": {
-    "NAME": "蒸気機関",
+    "NAME": "クイックサーチ",
     "DESCRIPTION": "カードを !M! 枚引く。 NL 火傷 を1枚捨て札に加える。"
   },
   "Reprogram": {
@@ -1213,7 +1218,8 @@
   },
   "Seek": {
     "NAME": "検索",
-    "DESCRIPTION": "山札から !M! 枚のカードを選び、手札に加える。 NL 廃棄 。"
+    "DESCRIPTION": "山札から !M! 枚のカードを選び、手札に加える。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
   },
   "Echo Form": {
     "NAME": "反響化",
@@ -1262,7 +1268,7 @@
     "DESCRIPTION": "!B! ブロック を得る。 NL 天賦 。 NL 廃棄 。"
   },
   "Steam": {
-    "NAME": "Steam",
-    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
+    "NAME": "スチーム",
+    "DESCRIPTION": "!B! ブロックを得る。 この戦闘中スチームの ブロック 値が2低下する。"
   }
 }

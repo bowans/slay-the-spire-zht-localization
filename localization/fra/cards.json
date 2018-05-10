@@ -921,11 +921,17 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Infligez !D! dégât(s). Si vous avez joué moins de !M! cartes ce tour, piochez 1 carte."
+    "DESCRIPTION": "Infligez !D! dégât(s). Si vous avez joué moins de !M! cartes ce tour, piochez 1 carte.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " card played.)",
+      " cards played.)"
+    ]
   },
   "Seek": {
     "NAME": "Recherche",
-    "DESCRIPTION": "Choisissez !M! cartes de votre pioche et ajoutez-les à votre main. NL Épuisement."
+    "DESCRIPTION": "Choisissez !M! cartes de votre pioche et ajoutez-les à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
   },
   "Chaos": {
     "NAME": "Chaos",

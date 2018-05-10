@@ -878,7 +878,7 @@
   },
   "Wraith Form v2": {
     "NAME": "유령화",
-    "DESCRIPTION": "불가침 을 !M! 얻습니다. NL  턴 종료 시 민첩 을 1 잃습니다."
+    "DESCRIPTION": "불가침 을 !M! 얻습니다. NL 매 턴 종료 시 민첩 을 1 잃습니다."
   },
   "Auto Shields": {
     "NAME": "자동 방패",
@@ -982,7 +982,12 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "피해를 !D! 줍니다. 만약 이번 턴에 카드를 !M! 장 미만으로 사용했다면 카드를 1 장 뽑습니다."
+    "DESCRIPTION": "피해를 !D! 줍니다. 만약 이번 턴에 카드를 !M! 장 미만으로 사용했다면 카드를 1 장 뽑습니다.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " card played.)",
+      " cards played.)"
+    ]
   },
   "Barrage": {
     "NAME": "일제 사격",
@@ -1032,7 +1037,7 @@
     "DESCRIPTION": "deprecated"
   },
   "Steam Power": {
-    "NAME": "증기 발전",
+    "NAME": "빠른 검색",
     "DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 화상 카드를 버린 카드 더미에 넣습니다."
   },
   "Reprogram": {
@@ -1142,7 +1147,7 @@
   "Static Discharge": {
     "NAME": "정전기 방전",
     "DESCRIPTION": "공격 피해를 받을 때마다 전기 를 !M! 번 영창 합니다.",
-    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "UPGRADE_DESCRIPTION": "공격 피해를 받을 때마다 전기 를 !M! 번 영창 합니다."
   },
   "Ice Wall": {
     "NAME": "deprecated",
@@ -1160,7 +1165,7 @@
       " NL (피해를 !D! 줍니다.)",
       ""
     ],
-    "UPGRADE_DESCRIPTION": "이번 전투에서 영창된 냉기 의 3 배만큼 적 전체에게 피해를 줍니다."
+    "UPGRADE_DESCRIPTION": "deprecated"
   },
   "Turbo": {
     "NAME": "터보",
@@ -1200,7 +1205,7 @@
       " NL 소멸",
       " NL (피해를 !D! 줍니다.)"
     ],
-    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
+    "UPGRADE_DESCRIPTION": "deprecated"
   },
   "Sunder": {
     "NAME": "찢기",
@@ -1213,7 +1218,8 @@
   },
   "Seek": {
     "NAME": "탐색",
-    "DESCRIPTION": "뽑을 카드 더미에서 카드 !M! 장을 골라 손으로 가져옵니다. NL 소멸"
+    "DESCRIPTION": "뽑을 카드 더미에서 카드 !M! 장을 골라 손으로 가져옵니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
   },
   "Echo Form": {
     "NAME": "메아리",
@@ -1258,11 +1264,11 @@
     "DESCRIPTION": "밀집 을 !M! 얻습니다. NL 구체 슬롯을 1 개 잃습니다."
   },
   "BootSequence": {
-    "NAME": "부팅 단계",
+    "NAME": "부팅 과정",
     "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 선천성 NL 소멸"
   },
   "Steam": {
-    "NAME": "Steam",
-    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
+    "NAME": "증기",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. 이번 전투동안 증기 카드로 얻는 방어도가 2 감소합니다."
   }
 }

@@ -1,12 +1,4 @@
 {
-  "Ironclad": {
-    "NAMES": [
-      "Der Eiserne"
-    ],
-    "TEXT": [
-      "Der verbliebene Soldat der Eisernen. NL Verkaufte seine Seele, um dämonische Energien nutzen zu können."
-    ]
-  },
   "Crowbot": {
     "NAMES": [
       "Krähbot"
@@ -15,12 +7,44 @@
       "BIEP BUUP"
     ]
   },
-  "Silent": {
+  "Defect": {
     "NAMES": [
-      "Die Stille"
+      "Das Defekte"
     ],
     "TEXT": [
-      "Eine tödliche Jägerin aus den Nebelländern. NL Beseitigt Gegner mit Dolchen und Giften."
+      "Ein Kampf-Automaton, das Selbstbewusstsein erlangte. NL Manipuliert Orbs mithilfe vorzeitlicher Technologie."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "Der Eiserne"
+    ],
+    "TEXT": [
+      "Der verbliebene Soldat der Eisernen. NL Verkaufte seine Seele, um dämonische Energien nutzen zu können."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Fortfahren",
+      "~Willkommen!~"
+    ],
+    "TEXT": [
+      "Hi! NL Kauf etwas! NL Kauf, kauf, kauf!",
+      "Ich mag deine Frisur.",
+      "Hast du so viel Zeit?",
+      "Bist du ein Hunde- oder ein Katzenmensch?",
+      "Du siehst ~gefährlich~ aus, NL hehe ...",
+      "Lass dir Zeit ... NL ...... NL ... oder auch nicht.",
+      "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf.",
+      "Unterstütze Kleinunternehmen!",
+      "Masken sind cool, ich muss es ja wissen!",
+      "Hmm ... NL ... hmm ... NL Oh!",
+      "Bleib eine Weile und hör zu!",
+      "Allein ist es gefährlich hier! Gib mir all dein Gold!",
+      "Kauf was!",
+      "~*GÄHN*~",
+      "Ich mag Gold.",
+      "Meine Lieblingsfarbe ist Blau. NL Und deine?"
     ]
   },
   "Neow Event": {
@@ -85,30 +109,6 @@
       "[ #rVerliere #rdein #rStartrelikt und #gerhalte #gein #gzufälliges #gBossrelikt ]"
     ]
   },
-  "Merchant": {
-    "NAMES": [
-      "Fortfahren",
-      "~Willkommen!~"
-    ],
-    "TEXT": [
-      "Hi! NL Kauf etwas! NL Kauf, kauf, kauf!",
-      "Ich mag deine Frisur.",
-      "Hast du so viel Zeit?",
-      "Bist du ein Hunde- oder ein Katzenmensch?",
-      "Du siehst ~gefährlich~ aus, NL hehe ...",
-      "Lass dir Zeit ... NL ...... NL ... oder auch nicht.",
-      "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf.",
-      "Unterstütze Kleinunternehmen!",
-      "Masken sind cool, ich muss es ja wissen!",
-      "Hmm ... NL ... hmm ... NL Oh!",
-      "Bleib eine Weile und hör zu!",
-      "Allein ist es gefährlich hier! Gib mir all dein Gold!",
-      "Kauf was!",
-      "~*GÄHN*~",
-      "Ich mag Gold.",
-      "Meine Lieblingsfarbe ist Blau. NL Und deine?"
-    ]
-  },
   "Shop Screen": {
     "NAMES": [
       "~Willkommen,~ NL ~willkommen!~",
@@ -145,12 +145,12 @@
       "Meine Lieblingsfarbe ist Blau. NL Und deine?"
     ]
   },
-  "Defect": {
+  "Silent": {
     "NAMES": [
-      "Das Defekte"
+      "Die Stille"
     ],
     "TEXT": [
-      "Ein Kampf-Automaton, das Selbstbewusstsein erlangte. NL Manipuliert Orbs mithilfe vorzeitlicher Technologie."
+      "Eine tödliche Jägerin aus den Nebelländern. NL Beseitigt Gegner mit Dolchen und Giften."
     ]
   }
 }

@@ -38,7 +38,7 @@
   },
   "Glass Knife": {
     "NAME": "玻璃刀刃",
-    "DESCRIPTION": "造成 !D! 点伤害两次。 玻璃刀刃 在这场战斗中造成的伤害减少2。"
+    "DESCRIPTION": "造成 !D! 点伤害两次。 这张牌每被打出一次，在本场战斗中其基础伤害减少2。"
   },
   "Cloak And Dagger": {
     "NAME": "斗篷与匕首",
@@ -358,7 +358,7 @@
   },
   "Rampage": {
     "NAME": "暴走",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 这张牌每被打出一次，在这场战斗中其伤害增加 !M! 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 这张牌每被打出一次，在本场战斗中其伤害增加 !M! 。"
   },
   "Bandage Up": {
     "NAME": "包扎",
@@ -878,7 +878,7 @@
   },
   "Wraith Form v2": {
     "NAME": "幽魂形态",
-    "DESCRIPTION": "获得 !M! 层 无实体 。 NL 在你的回合结束时，失去1点 敏捷 。"
+    "DESCRIPTION": "获得 !M! 层 无实体 。 NL 在每回合结束时失去1点 敏捷 。"
   },
   "Auto Shields": {
     "NAME": "自动护盾",
@@ -933,7 +933,7 @@
     "DESCRIPTION": "造成 !D! 点伤害。 生成 !M! 个 冰霜 充能球。"
   },
   "Overclock": {
-    "NAME": "超频",
+    "NAME": "超频（弃用）",
     "DESCRIPTION": "Deprecated.",
     "UPGRADE_DESCRIPTION": "Deprecated."
   },
@@ -982,7 +982,12 @@
   },
   "FTL": {
     "NAME": "超越光速",
-    "DESCRIPTION": "造成 !D! 点伤害。 如果你在这回合打出的牌数少于 !M! 张，抽一张牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 如果你在这回合打出的牌数少于 !M! 张，抽一张牌。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （已打出",
+      " 张牌。）",
+      " 张牌。）"
+    ]
   },
   "Barrage": {
     "NAME": "弹幕齐射",
@@ -1032,7 +1037,7 @@
     "DESCRIPTION": "Deprecated."
   },
   "Steam Power": {
-    "NAME": "蒸汽动力",
+    "NAME": "超频",
     "DESCRIPTION": "抽 !M! 张牌。 NL  将一张 灼伤 放入你的弃牌堆中。"
   },
   "Reprogram": {
@@ -1083,7 +1088,7 @@
   },
   "Thunder Strike": {
     "NAME": "雷霆打击",
-    "DESCRIPTION": "你在这场战斗中每 生成 过 一个 闪电 充能球，对一名随机敌人造成一次 !D! 点伤害。",
+    "DESCRIPTION": "你在本场战斗中每 生成 过 一个 闪电 充能球，对一名随机敌人造成一次 !D! 点伤害。",
     "EXTENDED_DESCRIPTION": [
       "（生成 过 !M! 个闪电 充能球。）"
     ]
@@ -1100,7 +1105,7 @@
   },
   "Streamline": {
     "NAME": "精简改良",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 这张牌每被打出一次，它在这场战斗中的耗能就减少 !M! 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 这张牌每被打出一次，它在本场战斗中的耗能减少 !M! 。"
   },
   "All For One": {
     "NAME": "万物一心",
@@ -1112,7 +1117,7 @@
   },
   "Gash": {
     "NAME": "爪击",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 在这场战斗中所有 爪击 牌的伤害增加 !M! 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 在本场战斗中所有 爪击 牌的伤害增加 !M! 。"
   },
   "Axe Kick": {
     "NAME": "下压踢",
@@ -1155,7 +1160,7 @@
   },
   "Blizzard": {
     "NAME": "暴雪",
-    "DESCRIPTION": "对所有敌人造成你在这场战斗中 生成 过的 冰霜 充能球总数 !M! 倍的伤害。",
+    "DESCRIPTION": "对所有敌人造成你在本场战斗中 生成 过的 冰霜 充能球总数 !M! 倍的伤害。",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL （造成 !D! 点伤害。）",
@@ -1195,7 +1200,7 @@
   },
   "Nova": {
     "NAME": "新星",
-    "DESCRIPTION": "对所有敌人造成你在这场战斗中打出过的能力牌总数乘以 !M! 的伤害。",
+    "DESCRIPTION": "对所有敌人造成你在本场战斗中打出过的能力牌总数乘以 !M! 的伤害。",
     "EXTENDED_DESCRIPTION": [
       " NL 消耗 。",
       " NL （造成 !D! 点伤害。）"
@@ -1213,7 +1218,8 @@
   },
   "Seek": {
     "NAME": "搜寻",
-    "DESCRIPTION": "从抽牌堆中选择 !M! 张牌放入你的手牌。 NL 消耗 。"
+    "DESCRIPTION": "从抽牌堆中选择 !M! 张牌放入你的手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "从抽牌堆中选择 !M! 张牌放入你的手牌。 NL 消耗 。"
   },
   "Echo Form": {
     "NAME": "回响形态",
@@ -1222,7 +1228,7 @@
   },
   "Force Field": {
     "NAME": "力场",
-    "DESCRIPTION": "你在这场战斗中每打出一张能力牌，耗能就减少1 [B] 。 NL 获得 !B! 点 格挡 。"
+    "DESCRIPTION": "你在本场战斗中每打出一张能力牌，耗能就减少1 [B] 。 NL 获得 !B! 点 格挡 。"
   },
   "Prime": {
     "NAME": "预备",
@@ -1262,7 +1268,7 @@
     "DESCRIPTION": "获得 !B! 点 格挡 。 NL 固有 。 NL 消耗 。"
   },
   "Steam": {
-    "NAME": "Steam",
-    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
+    "NAME": "蒸汽护壁",
+    "DESCRIPTION": "获得 !B! 点 格挡 。这张牌每被打出一次，它在本场战斗中的基础 格挡 下降2。"
   }
 }

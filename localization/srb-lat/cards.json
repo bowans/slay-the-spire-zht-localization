@@ -1076,7 +1076,12 @@
   },
   "FTL": {
     "NAME": "Nadsvetlosnom brzinom",
-    "DESCRIPTION": "Zadaj !D! štete. Ako si odigrao manje od !M! karata ovaj potez, vuci jednu kartu."
+    "DESCRIPTION": "Zadaj !D! štete. Ako si odigrao manje od !M! karata ovaj potez, vuci jednu kartu.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " card played.)",
+      " cards played.)"
+    ]
   },
   "Echo Form": {
     "NAME": "Eho forma",
@@ -1191,7 +1196,8 @@
   },
   "Seek": {
     "NAME": "Lociraj",
-    "DESCRIPTION": "Izaberi !M! karte iz gomile za vučenje i stavi ih u ruku. NL Iscrpi."
+    "DESCRIPTION": "Izaberi !M! karte iz gomile za vučenje i stavi ih u ruku. NL Iscrpi.",
+    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
   },
   "Blaster": {
     "NAME": "Rasturač",

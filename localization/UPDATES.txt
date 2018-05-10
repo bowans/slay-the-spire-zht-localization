@@ -1,5 +1,25 @@
 Updates for Translators!
 
+05/09/2018:
+cards.json
+	"Glass Knife"
+		"DESCRIPTION": "Deal !D! damage twice. Glass Knife's damage is lowered by 2 this combat." ->
+		"DESCRIPTION": "Deal !D! damage twice. This card's damage is lowered by 2 this combat."
+	"Steam"
+		"DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat." ->
+		"DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 2 this combat."
+	"Steam Power"
+		"Quick Search" -> "Overclock"
+	"Seek" (Now has plurality!)
+		"DESCRIPTION": "Choose !M! card from your draw pile and place it into your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+	"FTL" (Updated to help with context)
+		"EXTENDED_DESCRIPTION"
+	"Finisher" (Updated to reduce wordiness)
+		"EXTENDED_DESCRIPTION"
+
+----------------------------------
+
 05/08/2018:
 run_mods.json
 "Brewmaster"

@@ -1076,7 +1076,12 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Infliggi !D! danni. Se hai giocato meno di !M! carte questo turno, peschi 1 carta."
+    "DESCRIPTION": "Infliggi !D! danni. Se hai giocato meno di !M! carte questo turno, peschi 1 carta.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " card played.)",
+      " cards played.)"
+    ]
   },
   "Echo Form": {
     "NAME": "Forma Ricorsiva",
@@ -1191,7 +1196,8 @@
   },
   "Seek": {
     "NAME": "Ricerca",
-    "DESCRIPTION": "Scegli !M! carte dalla Pila e aggiungile alla tua mano. NL Esaurisci."
+    "DESCRIPTION": "Scegli !M! carte dalla Pila e aggiungile alla tua mano. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
   },
   "Blaster": {
     "NAME": "Pistola Laser",
@@ -1201,8 +1207,12 @@
     "NAME": "Riavvio",
     "DESCRIPTION": "Mischia tutte le tue carte nella Pila, poi peschi !M! carte. NL Esaurisci."
   },
+  "Steam": {
+    "NAME": "Vapore",
+    "DESCRIPTION": "Ottieni !B! Blocco. Questo valore si abbassa di 2 per il combattimento."
+  },
   "Steam Power": {
-    "NAME": "Motore a Vapore",
+    "NAME": "Ricerca Rapida",
     "DESCRIPTION": "Peschi !M! carte. NL Aggiungi una Ustione agli Scarti."
   },
   "Blizzard": {
@@ -1216,8 +1226,8 @@
   },
   "Chill": {
     "NAME": "Brivido",
-    "DESCRIPTION": "Crei !M! Ghiaccio per ogni nemico. NL Esaurisci",
-    "UPGRADE_DESCRIPTION": "Innata. Crei !M! Ghiaccio per ogni nemico. NL Esaurisci"
+    "DESCRIPTION": "Crei !M! Ghiaccio per nemico. NL Esaurisci",
+    "UPGRADE_DESCRIPTION": "Innata. Crei !M! Ghiaccio per nemico. NL Esaurisci"
   },
   "Coolheaded": {
     "NAME": "Mente Fredda",
@@ -1259,10 +1269,6 @@
   },
   "BootSequence": {
     "NAME": "Sequenza D'Avvio",
-    "DESCRIPTION": "Innata. NL Ottieni !B! Blocco.NL NL Esaurisci."
-  },
-  "Steam": {
-    "NAME": "Steam",
-    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
+    "DESCRIPTION": "Innata. NL Ottieni !B! Blocco. NL Esaurisci."
   }
 }

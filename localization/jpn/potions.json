@@ -103,117 +103,117 @@
     ]
   },
   "Fruit Juice": {
-    "NAME": "Fruit Juice",
+    "NAME": "フルーツジュース",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
+      "最大HP+ #b",
+      " 。"
     ]
   },
   "FearPotion": {
-    "NAME": "Fear Potion",
+    "NAME": "恐怖ポーション",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
+      "#y弱体 #b",
+      " を与える。"
     ]
   },
   "SkillPotion": {
-    "NAME": "Skill Potion",
+    "NAME": "スキルポーション",
     "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0."
+      "ランダムな「スキル」を手札に加える。このターンそのコストは #b0 。"
     ]
   },
   "AttackPotion": {
-    "NAME": "Attack Potion",
+    "NAME": "アタックポーション",
     "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0."
+      "ランダムな「アタック」を手札に加える。このターンそのコストは #b0 。"
     ]
   },
   "PowerPotion": {
-    "NAME": "Potion Potion",
+    "NAME": "パワーポーション",
     "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0."
+      "ランダムな「パワー」を手札に加える。このターンそのコストは #b0 。"
     ]
   },
   "SteroidPotion": {
-    "NAME": "Steroid  Potion",
+    "NAME": "ステロイドポーション",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Strength. At the end of your turn, lose #b",
-      " Strength."
+      "#y筋力 #b",
+      " を得る。ターン終了時に #y筋力 #b",
+      " を失う。"
     ]
   },
   "SpeedPotion": {
-    "NAME": "Speed  Potion",
+    "NAME": "スピードポーション",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Dexterity. At the end of your turn, lose #b",
-      " Dexterity."
+      "#y敏捷性 #b",
+      " を得る。ターン終了時に #y敏捷性 #b",
+      " を失う。"
     ]
   },
   "GhostInAJar": {
-    "NAME": "Ghost In A Jar",
+    "NAME": "幽霊瓶",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yIntangible"
+      "#y無形 #b",
+      " を得る。"
     ]
   },
   "FocusPotion": {
-    "NAME": "Focus Potion",
+    "NAME": "集中ポーション",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yFocus"
+      "#y集中力 #b",
+      " を得る。"
     ]
   },
   "SneckoOil": {
-    "NAME": "Snecko Oil",
+    "NAME": "スネッコオイル",
     "DESCRIPTIONS": [
-      "Draw #b",
-      "cards. Become #yConfused."
+      "#y混乱 する。 カードを #b",
+      " 枚引く。"
     ]
   },
   "LiquidBronze": {
-    "NAME": "Liquid Bronze",
+    "NAME": "液体ブロンズ",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yThorns."
+      "#yトゲ #b",
+      " を得る。"
     ]
   },
   "GamblersBrew": {
-    "NAME": "Gambler's Brew",
+    "NAME": "賭博師の醸造酒",
     "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
+      "好きな枚数のカードを捨て、同じ枚数のカードを引く。"
     ]
   },
   "EssenceOfSteel": {
-    "NAME": "Essence Of Steel",
+    "NAME": "鉄のエッセンス",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yPlated #yArmor."
+      "#yプレートアーマー #b",
+      " を得る。"
     ]
   },
   "BloodPotion": {
-    "NAME": "Blood Potion",
+    "NAME": "ブラッドポーション",
     "DESCRIPTIONS": [
-      "Heal for #b",
-      "% of your Max HP."
+      "最大HPの #b",
+      "% を回復する。"
     ]
   },
   "FairyPotion": {
-    "NAME": "Fairy Potion",
+    "NAME": "瓶詰の妖精",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+      "戦闘不能時、 最大HPの #b10% で復活し、このポーションを失う。"
     ]
   },
   "SmokeBomb": {
-    "NAME": "Smoke Bomb",
+    "NAME": "煙玉",
     "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
+      "ボス以外の戦闘から逃走する。報酬は得られない。"
     ]
   },
   "EntropicBrew": {
-    "NAME": "Entropic Brew",
+    "NAME": "エントロピー醸造",
     "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
+      "すべての空きポーションスロットをランダムなポーションで満たす"
     ]
   }
 }

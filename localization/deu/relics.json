@@ -7,6 +7,15 @@
       " #yBlock."
     ]
   },
+  "Ancient Tea Set": {
+    "NAME": "Uraltes Teeservice",
+    "FLAVOR": "Unerlässlich für entspannten Schlaf.",
+    "DESCRIPTIONS": [
+      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [R] [R] .",
+      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [G] [G] .",
+      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [B] [B] ."
+    ]
+  },
   "Art of War": {
     "NAME": "Kriegskunst",
     "FLAVOR": "Dieses uralte Manuskript enthält Weisheiten aus einer vergangenen Zeit.",
@@ -134,6 +143,13 @@
       " TP."
     ]
   },
+  "Cables": {
+    "NAME": "Gold-Beschichtete Kabel",
+    "FLAVOR": "\"Interessant! Sogar Automatone sind vom Placebo-Effekt betroffen.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Dein ganz rechter Orb aktiviert seinen passiven Effekt ein weiteres Mal."
+    ]
+  },
   "Calipers": {
     "NAME": "Messschieber",
     "FLAVOR": "„Mechanische Präzision führt zu wahrer Größe.“ – Der Architekt",
@@ -205,13 +221,6 @@
       "Sehr hübsch."
     ]
   },
-  "The Courier": {
-    "NAME": "Die Kurierin",
-    "FLAVOR": "Die persönliche Gehilfin des Händlers!",
-    "DESCRIPTIONS": [
-      "Dem Händler gehen nie mehr Karten, Relikte oder Tränke aus und seine Preise sind um #b20% gesenkt."
-    ]
-  },
   "Cracked Core": {
     "NAME": "Gesprungener Kern",
     "FLAVOR": "Die mysteriöse Lebenskraft, welche die Automatone im Spire antreibt. Scheint kaputt zu sein.",
@@ -229,11 +238,34 @@
       "Erhalte zu Beginn jedes Zuges [B] ."
     ]
   },
+  "Darkstone Periapt": {
+    "NAME": "Dunkelstein-Amulett",
+    "FLAVOR": "Der Stein wandelt dunkle Energie in Lebenskraft um.",
+    "DESCRIPTIONS": [
+      "Wenn du einen #yFluch erhältst, erhöhe deine Max-TP um #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Festplatte",
+    "FLAVOR": "Diese Festplatte beinhaltet wertvolle Daten über Vögel und Schlangen.",
+    "DESCRIPTIONS": [
+      "Beginne jeden Kampf mit #b",
+      " #yFokus."
+    ]
+  },
   "Dead Branch": {
     "NAME": "Toter Ast",
     "FLAVOR": "Der Ast eines Baumes aus einer längst vergessenen Zeit.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine Karte #yerschöpfst, füge deiner Hand eine zufällige Karte hinzu."
+      "Immer wenn du eine Karte #yerschöpfst, erhalte eine zufällige Karte auf die Hand."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Derp-Stein",
+    "FLAVOR": "Platzhalter",
+    "DESCRIPTIONS": [
+      "Wenn jeder Zug beginnt, erhalte #b",
+      " Ladung. NL (Kann nicht entfernt oder transformiert werden.)"
     ]
   },
   "Discerning Monocle": {
@@ -281,32 +313,18 @@
       "Erhalte zu Beginn jedes Zuges [B] ."
     ]
   },
-  "Frozen Egg 2": {
-    "NAME": "Gefrorenes Ei",
-    "FLAVOR": "Ein regloses und gefrorenes Ei, das niemals schlüpfen wird.",
+  "Emotion Chip": {
+    "NAME": "Gefühlschip",
+    "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #yMachtkarte erhältst, ist sie #yverbessert."
-    ]
-  },
-  "Molten Egg 2": {
-    "NAME": "Geschmolzenes Ei",
-    "FLAVOR": "Das Ei eines Phoenix. Es leuchtet rot, heiß mit siedender Lava.",
-    "DESCRIPTIONS": [
-      "Immer wenn du eine #yAngriffskarte erhältst, ist sie #yverbessert."
-    ]
-  },
-  "Toxic Egg 2": {
-    "NAME": "Toxisches Ei",
-    "FLAVOR": "\"Was eine fabelhafte Entdeckung! Es scheint ein inaktives Ei einer magischen Kreatur zu sein. Wer oder was hat es erschaffen?\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Immer wenn du eine #yFertigkeitskarte erhältst, ist sie #yverbessert."
+      "Wenn ein Zug beginnt und du im letzten Zug Schaden genommen hast, löse den passiven Effekt all deiner Orbs aus."
     ]
   },
   "Enchiridion": {
     "NAME": "Enchiridion",
     "FLAVOR": "Das legendäre Tagebuch eines uralten Lichs.",
     "DESCRIPTIONS": [
-      "Füge deiner Hand zu Beginn jedes Kampfes eine zufällige #yMachtkarte hinzu. Sie kostet #b0 bis zum Ende des Zuges."
+      "Erhalte zu Beginn jedes Kampfes eine zufällige #yMachtkarte auf die Hand. Sie kostet #b0 bis zum Ende des Zuges."
     ]
   },
   "Eternal Feather": {
@@ -324,6 +342,20 @@
     "DESCRIPTIONS": [
       "Wähle beim Aufheben eine #yMacht und #yverbessere sie.",
       "Wähle eine Karte für "
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Gefrorenes Ei",
+    "FLAVOR": "Ein regloses und gefrorenes Ei, das niemals schlüpfen wird.",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine #yMachtkarte erhältst, ist sie #yverbessert."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Gefrorenes Auge",
+    "FLAVOR": "Keine Beschreibung.",
+    "DESCRIPTIONS": [
+      "Dein Nachziehstapel wird in richtiger Reihenfolge angezeigt, wenn du ihn ansiehst."
     ]
   },
   "Gambling Chip": {
@@ -381,6 +413,13 @@
       "Energie wird jetzt zwischen Zügen aufbewahrt."
     ]
   },
+  "Inserter": {
+    "NAME": "Greifarm",
+    "FLAVOR": "Greifen. Ziehen. Stapeln. Wiederholen.",
+    "DESCRIPTIONS": [
+      "Erhalte alle #b2 Züge #b1 Orb-Slot."
+    ]
+  },
   "Juzu Bracelet": {
     "NAME": "Juzu-Armband",
     "FLAVOR": "Bietet Schutz gegen das Unbekannte.",
@@ -406,6 +445,14 @@
       "[G] ",
       "[B] ",
       "im ersten Zug jedes Kampfes."
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Lees Waffel",
+    "FLAVOR": "„Der köstlichste Leckerbissen im ganzen Spire! Heute speziell für dich gemacht.“",
+    "DESCRIPTIONS": [
+      "Erhöhe deine Max-TP um #b",
+      " und heile all deine TP."
     ]
   },
   "Letter Opener": {
@@ -498,6 +545,13 @@
       "Wähle eine Karte für "
     ]
   },
+  "Molten Egg 2": {
+    "NAME": "Geschmolzenes Ei",
+    "FLAVOR": "Das Ei eines Phoenix. Es leuchtet rot, heiß mit siedender Lava.",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine #yAngriffskarte erhältst, ist sie #yverbessert."
+    ]
+  },
   "Mummified Hand": {
     "NAME": "Mumifizierte Hand",
     "FLAVOR": "Zuckt oft, vor allem, wenn du einen hohen Puls hast.",
@@ -512,6 +566,14 @@
       "Der erste #yAngriff, der jeden Zug ausgespielt wird und Kosten von #b",
       " oder mehr hat, wird zweimal ausgespielt. Nimmst du dieses Relikt, wirst du #rverflucht.",
       " oder mehr hat, wird zweimal ausgespielt."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Niaus Klage",
+    "FLAVOR": "Der von Niau verliehene Segen ihres Klageliedes.",
+    "DESCRIPTIONS": [
+      "Die Gegner in deinen ersten #b3 Kämpfen haben nur #b1 TP.",
+      "Der Segen ist aufgebraucht."
     ]
   },
   "Nilry's Codex": {
@@ -546,11 +608,25 @@
       "#bVerdreifacht die Chance auf seltene Karten als Monsterbelohnungen."
     ]
   },
+  "Nuclear Battery": {
+    "NAME": "Nuklearbatterie",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "#yErschaffe zu Beginn jedes Kampfes #b1 #yPlasma."
+    ]
+  },
   "Nullstone Periapt": {
     "NAME": "Nullstein-Amulett",
     "FLAVOR": "VERALTET.",
     "DESCRIPTIONS": [
       "Wehre den nächsten #yDebuff ab, den du vom Gegner erhältst. NL Wird in #b10 Zügen wiederaufgeladen."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Seltsamer Pilz",
+    "FLAVOR": "„Nachdem ich den Trichella-Parasiten verzehrt hatte, fühlte ich mich größer und weniger … anfällig.“ – Ranwid ",
+    "DESCRIPTIONS": [
+      "Bist du #yVerwundbar, erleide #b25% mehr Schaden statt #b50%."
     ]
   },
   "Oddly Smooth Stone": {
@@ -559,13 +635,6 @@
     "DESCRIPTIONS": [
       "Beginne jeden Kampf mit #b",
       " #yGeschicklichkeit."
-    ]
-  },
-  "Odd Mushroom": {
-    "NAME": "Seltsamer Pilz",
-    "FLAVOR": "„Nachdem ich den Trichella-Parasiten verzehrt hatte, fühlte ich mich größer und weniger … anfällig.“ – Ranwid ",
-    "DESCRIPTIONS": [
-      "Bist du #yVerwundbar, erleide #b25% mehr Schaden statt #b50%."
     ]
   },
   "Old Coin": {
@@ -720,6 +789,21 @@
       "Ersetzt #gSchlangenring. Besiegst du einen #yElitegegner, erhöhen sich deine Max-TP um #b"
     ]
   },
+  "Ring of the Snake": {
+    "NAME": "Schlangenring",
+    "FLAVOR": "Gefertigt aus einer versteinerten Schlange. Dies zeugt von großem Jägertalent.",
+    "DESCRIPTIONS": [
+      "Ziehe zu Beginn jedes Kampfes #b",
+      " zusätzliche Karten."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runischer Kondensator",
+    "FLAVOR": "Mehr hilft mehr.",
+    "DESCRIPTIONS": [
+      "Beginne jeden Kampf mit #b3 zusätzlichen Orb-Slots."
+    ]
+  },
   "Runic Cube": {
     "NAME": "Runischer Würfel",
     "FLAVOR": "Die Runen sind unentzifferbar.",
@@ -786,12 +870,12 @@
       " #yGold."
     ]
   },
-  "Ring of the Snake": {
-    "NAME": "Schlangenring",
-    "FLAVOR": "Gefertigt aus einer versteinerten Schlange. Dies zeugt von großem Jägertalent.",
+  "Snake Skull": {
+    "NAME": "Snecko-Schädel",
+    "FLAVOR": "Ein Snecko-Schädel in tadellosem Zustand. Überraschend sauber und glatt, Dreck fällt einfach davon ab.",
     "DESCRIPTIONS": [
-      "Ziehe zu Beginn jedes Kampfes #b",
-      " zusätzliche Karten."
+      "Immer wenn du #yGift anwendest, wendest du zusätzlich #b",
+      " #yGift an."
     ]
   },
   "Snecko Eye": {
@@ -799,14 +883,6 @@
     "FLAVOR": "Das Auge eines gefallenen Sneckos. Viel größer, als du dir gedacht hättest.",
     "DESCRIPTIONS": [
       "Ziehe in jedem Zug #b2 zusätzliche Karten. Beginne jeden Kampf #yVerwirrt."
-    ]
-  },
-  "Snake Skull": {
-    "NAME": "Snecko-Schädel",
-    "FLAVOR": "Ein Snecko-Schädel in tadellosem Zustand. Überraschend sauber und glatt, Dreck fällt einfach davon ab.",
-    "DESCRIPTIONS": [
-      "Immer wenn du #yGift anwendest, wendest du zusätzlich #b",
-      " #yGift an."
     ]
   },
   "Sozu": {
@@ -850,28 +926,11 @@
       ". Mal, wenn du dein Deck mischst, erhalte [B] [B] ."
     ]
   },
-  "Ancient Tea Set": {
-    "NAME": "Uraltes Teeservice",
-    "FLAVOR": "Unerlässlich für entspannten Schlaf.",
+  "Symbiotic Virus": {
+    "NAME": "Symbiotischer Virus",
+    "FLAVOR": "Ein bisschen Schlechtes kann viel Gutes bringen...",
     "DESCRIPTIONS": [
-      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [R] [R] .",
-      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [G] [G] .",
-      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [B] [B] ."
-    ]
-  },
-  "War Paint": {
-    "NAME": "Kriegsbemalung",
-    "FLAVOR": "Eiserne nutzen diese Bemalung, um sich vor der Schlacht magische Kreise erstellen.",
-    "DESCRIPTIONS": [
-      "Bei Aufnahme: #yVerbessere #b",
-      " zufällige #yFertigkeiten."
-    ]
-  },
-  "Darkstone Periapt": {
-    "NAME": "Dunkelstein-Amulett",
-    "FLAVOR": "Der Stein wandelt dunkle Energie in Lebenskraft um.",
-    "DESCRIPTIONS": [
-      "Wenn du einen #yFluch erhältst, erhöhe deine Max-TP um #b"
+      "Zu Beginn jedes Kampfes #yerschaffe #b1 #ySchatten."
     ]
   },
   "Test 1": {
@@ -882,13 +941,6 @@
       " [R] .",
       " [G] .",
       " [B] ."
-    ]
-  },
-  "Frozen Eye": {
-    "NAME": "Gefrorenes Auge",
-    "FLAVOR": "Keine Beschreibung.",
-    "DESCRIPTIONS": [
-      "Dein Nachziehstapel wird in richtiger Reihenfolge angezeigt, wenn du ihn ansiehst."
     ]
   },
   "Test 2": {
@@ -943,6 +995,13 @@
       "Ziehe bei jedem Zug #b2 zusätzliche Karten. Beginne jeden Kampf mit #yVerwirrt."
     ]
   },
+  "The Courier": {
+    "NAME": "Die Kurierin",
+    "FLAVOR": "Die persönliche Gehilfin des Händlers!",
+    "DESCRIPTIONS": [
+      "Dem Händler gehen nie mehr Karten, Relikte oder Tränke aus und seine Preise sind um #b20% gesenkt."
+    ]
+  },
   "The Specimen": {
     "NAME": "Das Exemplar",
     "FLAVOR": "„Faszinierend! Ich fand eine mutierte Kreatur mit erstaunlichen Gifteffekten. Ich nehme eine Probe mit.“ – Ranwid",
@@ -989,7 +1048,7 @@
     "NAME": "Werkzeugkiste",
     "FLAVOR": "Ein Werkzeug für jedes Problem.",
     "DESCRIPTIONS": [
-      "Füge deiner Hand zu Beginn jedes Kampfes eine zufällige farblose Karte hinzu."
+      "Erhalte zu Beginn jedes Kampfes eine zufällige farblose Karte auf die Hand."
     ]
   },
   "Torii": {
@@ -1016,12 +1075,26 @@
       "Wähle eine Karte für "
     ]
   },
+  "Toxic Egg 2": {
+    "NAME": "Toxisches Ei",
+    "FLAVOR": "\"Was eine fabelhafte Entdeckung! Es scheint ein inaktives Ei einer magischen Kreatur zu sein. Wer oder was hat es erschaffen?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine #yFertigkeitskarte erhältst, ist sie #yverbessert."
+    ]
+  },
   "Toy Ornithopter": {
     "NAME": "Spielzeug-Ornithopter",
     "FLAVOR": "„Dieses kleine Spielzeug ist der ideale Gefährte für einsame Abenteurer!“",
     "DESCRIPTIONS": [
       "Immer wenn du einen Trank nutzt, heile #b",
       " TP."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Rübe",
+    "FLAVOR": "Am Besten mit Ingwer.",
+    "DESCRIPTIONS": [
+      "Du kannst nicht mehr #yGebrechlich werden."
     ]
   },
   "Unceasing Top": {
@@ -1051,12 +1124,12 @@
       "Ich kann nur bis zu NL #r"
     ]
   },
-  "Lee's Waffle": {
-    "NAME": "Lees Waffel",
-    "FLAVOR": "„Der köstlichste Leckerbissen im ganzen Spire! Heute speziell für dich gemacht.“",
+  "War Paint": {
+    "NAME": "Kriegsbemalung",
+    "FLAVOR": "Eiserne nutzen diese Bemalung, um sich vor der Schlacht magische Kreise erstellen.",
     "DESCRIPTIONS": [
-      "Erhöhe deine Max-TP um #b",
-      " und heile all deine TP."
+      "Bei Aufnahme: #yVerbessere #b",
+      " zufällige #yFertigkeiten."
     ]
   },
   "Whetstone": {
@@ -1067,84 +1140,11 @@
       " zufällige #yAngriffe."
     ]
   },
-  "Derp Rock": {
-    "NAME": "Derp-Stein",
-    "FLAVOR": "Platzhalter",
-    "DESCRIPTIONS": [
-      "Wenn jeder Zug beginnt, erhalte #b",
-      " Ladung. NL (Kann nicht entfernt oder transformiert werden.)"
-    ]
-  },
-  "NeowsBlessing": {
-    "NAME": "Niaus Klage",
-    "FLAVOR": "Der von Niau verliehene Segen ihres Klageliedes.",
-    "DESCRIPTIONS": [
-      "Die Gegner in deinen ersten #b3 Kämpfen haben nur #b1 TP.",
-      "Der Segen ist aufgebraucht."
-    ]
-  },
   "White Beast Statue": {
     "NAME": "Weiße Bestienstatue",
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
       "Tränke werden immer nach dem Kampf fallen gelassen."
-    ]
-  },
-  "Inserter": {
-    "NAME": "Greifarm",
-    "FLAVOR": "Greifen. Ziehen. Stapeln. Wiederholen.",
-    "DESCRIPTIONS": [
-      "Erhalte alle #b2 Züge #b1 Orb-Slot."
-    ]
-  },
-  "Symbiotic Virus": {
-    "NAME": "Symbiotischer Virus",
-    "FLAVOR": "Ein bisschen Schlechtes kann viel Gutes bringen...",
-    "DESCRIPTIONS": [
-      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yDunkelheit."
-    ]
-  },
-  "Nuclear Battery": {
-    "NAME": "Nuklearbatterie",
-    "FLAVOR": "Ooooh...",
-    "DESCRIPTIONS": [
-      "#yErschaffe zu Beginn jedes Kampfes #b1 #yPlasma."
-    ]
-  },
-  "Cables": {
-    "NAME": "Gold-Beschichtete Kabel",
-    "FLAVOR": "\"Interessant! Sogar Automatone sind vom Placebo-Effekt betroffen.\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Dein ganz rechter Orb aktiviert seinen passiven Effekt ein weiteres Mal."
-    ]
-  },
-  "Emotion Chip": {
-    "NAME": "Gefühlschip",
-    "FLAVOR": "...<3...?",
-    "DESCRIPTIONS": [
-      "Wenn ein Zug beginnt und du im letzten Zug Schaden genommen hast, löse den passiven Effekt all deiner Orbs aus."
-    ]
-  },
-  "Runic Capacitor": {
-    "NAME": "Runischer Kondensator",
-    "FLAVOR": "Mehr hilft mehr.",
-    "DESCRIPTIONS": [
-      "Beginne jeden Kampf mit #b3 zusätzlichen Orb-Slots."
-    ]
-  },
-  "DataDisk": {
-    "NAME": "Festplatte",
-    "FLAVOR": "Diese Festplatte beinhaltet wertvolle Daten über Vögel und Schlangen.",
-    "DESCRIPTIONS": [
-      "Beginne jeden Kampf mit #b",
-      " #yFokus."
-    ]
-  },
-  "Turnip": {
-    "NAME": "Rübe",
-    "FLAVOR": "Am Besten mit Ingwer.",
-    "DESCRIPTIONS": [
-      "Du kannst nicht mehr #yGebrechlich werden."
     ]
   }
 }

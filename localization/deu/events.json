@@ -1,9 +1,4 @@
 {
-  "Proceed Screen": {
-    "DESCRIPTIONS": [
-      "[Verlassen]"
-    ]
-  },
   "Accursed Blacksmith": {
     "NAME": "Unheilvolle Schmiede",
     "DESCRIPTIONS": [
@@ -19,458 +14,6 @@
       "[Durchstöbern] #gErhalte #gein #gRelikt. #r75%: #rWerde #rverflucht #r– #rNormalität.",
       "[Verlassen]",
       "Wähle eine Karte zum Verbessern",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
-    ]
-  },
-  "Bonfire Elementals": {
-    "NAME": "Geister des Lagerfeuers",
-    "DESCRIPTIONS": [
-      "Du triffst auf etwas, das aussieht wie eine Gruppe #pvioletter #pFeuergeister, die um ein großes Lagerfeuer ~tanzen.~ NL ",
-      "Die Geister werfen kleine Knochen und Knochenfragmente ins Feuer, das mit jedem Mal ~hell~ ~auflodert.~ NL Als du dich näherst, wenden sich die Geister dir erwartungsvoll zu...",
-      "Du wirfst eine Opfergabe in das Lagerfeuer. NL NL ",
-      "Die Geister sind allerdings nicht froh darüber, dass du einen #pFluch geopfert hast... Die Karte zischt und gibt dünnen schwarzen Rauch von sich. Im Gegenzug... erhältst du #p~etwas.~",
-      "Nichts passiert... NL Die Geister scheinen dich jetzt zu ignorieren. Enttäuschend...",
-      "Die Flammen werden etwas greller. NL Die Geister tanzen weiter. Du fühlst dich in ihrer Gegenwart ein wenig wärmer... NL Du #gheilst #b5 TP.",
-      "Die Flammen lodern auf und brennen deutlich stärker! NL Die Geister tanzen aufgeregt um dich herum und erfüllen dich mit einem ~Gefühl~ ~der~ ~Wärme.~ NL Deine TP sind komplett #ggeheilt.",
-      "Die Flammen @stoßen@ empor und reißen dich fast von den Füßen, als sich die Stärke des Feuers @verdoppelt.@ NL Die Geister tanzen aufgeregt um dich herum, bevor sie ~deine~ ~Gestalt~ ~annehmen~ und dich mit einem Gefühl der Wärme und Stärke erfüllen. NL Deine max. TP erhöhen sich um #b10 und deine #gTP werden komplett geheilt."
-    ],
-    "OPTIONS": [
-      "[Fortsetzen]",
-      "[Verlassen]",
-      "[Opfern] Erhalte eine Belohnung, die deiner Opfergabe entspricht.",
-      "Wähle eine Karte zum Opfern."
-    ]
-  },
-  "Match and Keep!": {
-    "NAME": "Paare finden und behalten!",
-    "DESCRIPTIONS": [
-      "„Hier sind #bzwölf Karten! Ordne sie zu, um sie zu behalten! NL #bFünf Versuche, keine Wiederholungen. NL Bist du bereit? Fangen wir an!“",
-      "Du beendest das Spiel des Gremlins und siehst auf. NL Er ist... verschwunden?",
-      "Ein Gremlin mischt wild auf einem Tisch Karten. Dieses Monster scheint harmlos zu sein. Aus Neugier näherst du dich ihm."
-    ],
-    "OPTIONS": [
-      "[Fortsetzen]",
-      "[Verlassen]",
-      "[Spielen]",
-      "Verbleibende Versuche: #y"
-    ]
-  },
-  "Duplicator": {
-    "NAME": "Duplikator",
-    "DESCRIPTIONS": [
-      "Vor dir befindet sich ein dekorierter Altar, der einem uralten Wesen gewidmet ist.",
-      "Du kniest respektvoll nieder. Ein grausiges Spiegelbild fährt aus dem Schrein und stößt mit dir zusammen.",
-      "Du bist dir deiner Sache sicher und ignorierst den Schrein."
-    ],
-    "OPTIONS": [
-      "[Beten] #gDupliziere #geine #gKarte #gin #gdeinem #gDeck.",
-      "[Verlassen]",
-      "Wähle eine Karte zum Duplizieren."
-    ]
-  },
-  "Fountain of Cleansing": {
-    "NAME": "Der Göttliche Brunnen",
-    "DESCRIPTIONS": [
-      "Du kommst an #b~glitzerndem~ #b~Wasser~ vorbei, das endlos aus einem Brunnen auf einer nahen Mauer sprudelt.",
-      "Als du das #b~Wasser~ trinkst, spürst du, wie sich ein #pdunkler #pGriff löst.",
-      "Da du den Eigenarten dieses Wassers nicht traust, setzt du deinen Weg mit großem Durst fort."
-    ],
-    "OPTIONS": [
-      "[Trinken] #gEntferne #galle #gFlüche #gaus #gdeinem #gDeck.",
-      "[Verlassen]"
-    ]
-  },
-  "Golden Shrine": {
-    "NAME": "Goldener Schrein",
-    "DESCRIPTIONS": [
-      "Vor dir befindet sich ein kunstvoller Schrein, der einem uralten Geist gewidmet ist. ",
-      "Als deine Hand den Schrein berührt, regnet es #yGold von der Decke und ~du~ ~badest~ ~in~ ~Reichtümern.~ ",
-      "Mit jedem Schlag auf den Schrein ergießt sich mehr und mehr #yGold hernieder! NL NL Während du deine Taschen mit Reichtümern füllst, #rlastet #retwas #rschwer #rauf #rdir.",
-      "Du ignorierst den Schrein."
-    ],
-    "OPTIONS": [
-      "[Beten] #gErhalte #g",
-      " #gGold.",
-      "[Entweihen] #gErhalte #g250 #gGold. #rWerde #rverflucht #r– #rReue.",
-      "[Verlassen]"
-    ]
-  },
-  "Lab": {
-    "NAME": "Labor",
-    "DESCRIPTIONS": [
-      "Du findest dich in einem Raum wieder, der mit Gestellen voller Teströhren, Messbechern, Kolben, Pinzetten, Klampen, Rührstäben, Brillen, Trichtern, Zylindern, Kondensatoren und sogar einer seltenen gewundenen Glasröhre gefüllt ist. NL NL Woher kennst du die Namen all dieser Werkzeuge? Nicht wichtig. Du siehst dich um."
-    ],
-    "OPTIONS": [
-      "[Durchsuchen] #gFinde #geinige #gTränke!"
-    ]
-  },
-  "Purifier": {
-    "NAME": "Schrein der Reinigung",
-    "DESCRIPTIONS": [
-      "Vor dir befindet sich ein kunstvoller Schrein, der einem vergessenen Geist gewidmet ist.",
-      "Als du ehrfürchtig auf die Knie sinkst, spürst du, wie dir eine Last von den Schultern genommen wird.",
-      "Du ignorierst den Schrein."
-    ],
-    "OPTIONS": [
-      "[Beten] #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
-      "[Verlassen]",
-      "Wähle eine Karte zum Entfernen."
-    ]
-  },
-  "Transmorgrifier": {
-    "NAME": "Schrein der Verwandlung",
-    "DESCRIPTIONS": [
-      "Vor dir befindet sich ein kunstvoller Schrein, der einem vergessenen Geist gewidmet ist.",
-      "Als dich die Macht des Schreins durchdringt, fühlt sich dein Verstand verändert an.",
-      "Du ignorierst den Schrein."
-    ],
-    "OPTIONS": [
-      "[Beten] #gTransformiere #geine #gKarte.",
-      "[Verlassen]",
-      "Wähle eine Karte zum Transformieren."
-    ]
-  },
-  "Upgrade Shrine": {
-    "NAME": "Schrein der Verbesserung",
-    "DESCRIPTIONS": [
-      "Vor dir befindet sich ein kunstvoller Schrein, der einem vergessenen Geist gewidmet ist.",
-      "Die Energie des Schreins durchdringt dich und macht dich stärker.",
-      "Du ignorierst den Schrein."
-    ],
-    "OPTIONS": [
-      "[Beten] #gVerbessere #geine #gKarte.",
-      "[Verlassen]",
-      "Wähle eine Karte zum Verbessern.",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
-    ]
-  },
-  "Wheel of Change": {
-    "NAME": "Rad der Veränderung",
-    "DESCRIPTIONS": [
-      "Du triffst auf einen adrett aussehenden, fröhlichen Gremlin. NL „Es ist an der Zeit, das Rad zu drehen! Bist du ~B~ ~E~ ~R~ ~E~ ~I~ ~T~~?~ Natürlich bist du das!“",
-      "„Du gewinnst etwas #yGold! NL YAY!!!!“",
-      "„Ah, ein #gGeschenk! NL Viel Spaß damit!“",
-      "„Oooh, eine kostenlose #gHeilung für dich!“",
-      "„Sieht aus, als hättest du einen #pFluch gewonnen! NL Das ist nicht gut. NL Naja! Nächstes Mal hast du mehr Glück!“",
-      "„Ooh, die Macht der #r~Dunkelheit~ ~...~“ NL Wähle eine Karte, die aus deinem Deck entfernt wird!",
-      "„Oh-oh! NL Du verlierst!“ NL Du bemerkst, wie er eine Klinge zieht...",
-      "Du schlägst nach dem verrückten Gremlin, aber er ist einfach zu schnell! NL Er trifft dich ein paar Mal mit einer groben Klinge. NL „Der Preis wurde bezahlt!!“ NL Damit verschwinden der Gremlin und das Rad in einer Rauchwolke."
-    ],
-    "OPTIONS": [
-      "[Spielen]",
-      "[Preis!] YAY!!!!",
-      "[Preis!] #gErhalte #gein #gRelikt.",
-      "[Preis!] #gKomplett #gheilen.",
-      "[Preis?] #rFluch #r– #rVerfall.",
-      "[Preis!] #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
-      "[Preis?] #rVerliere #r",
-      " #rTP.",
-      "[Verlassen]",
-      "Wähle eine Karte zum Entfernen."
-    ]
-  },
-  "Falling": {
-    "NAME": "Fallen",
-    "DESCRIPTIONS": [
-      "Als du auf dem Weg nach oben von einer schwebenden Form zur nächsten hüpfst, rutscht du aus. NL NL Du beginnst zu fallen.",
-      "Im freien Fall wägst du deine Optionen ab: NL Dank deiner besten Technik sicher landen. NL Eine Macht kanalisieren, um den Sturz zu überleben. NL In die Wand schlagen, um daran hängenzubleiben.",
-      "Du landest unglaublich graziös, bevor du deine Reise fortsetzt.",
-      "Unter Einsatz deiner rohen Macht schaffst du es, unverletzt zu landen.",
-      "Es gelingt dir, dich an der Wand festzuhalten und auf eine andere sichere Plattform zu springen."
-    ],
-    "OPTIONS": [
-      "[Fortsetzen]",
-      "[Landen] #rVerliere ",
-      "[Gesperrt] Erfordert: Fertigkeitskarte",
-      "[Kanalisieren] #rVerliere ",
-      "[Gesperrt] Erfordert: Machtkarte",
-      "[Schlagen] #rVerliere ",
-      "[Gesperrt] Erfordert: Angriffskarte",
-      "[Verlassen]"
-    ]
-  },
-  "The Moai Head": {
-    "NAME": "Der Moai-Kopf",
-    "DESCRIPTIONS": [
-      "Du stolperst über etwas, das *sehr* deplatziert wirkt. Vor dir erhebt sich ein enormer Steinkopf aus einem großen Mauerabschnitt, der sich nicht bewegt und verändert, wie alles andere hier. NL Der Mund des Kopfes ist weit geöffnet und zeigt große, einschüchternde Zähne, die von Blut rot befleckt sind. Die Oberfläche der Statue ist überzogen mit Piktogrammen, welche anscheinend Leute darstellen, die sich in den Mund dieses Kopfes werfen und verschlungen werden. Warum sollte jemand das tun?",
-      "Als du in den Mund der Statue trittst, geschieht zunächst nichts. Als du dir mehr als nur ein wenig dumm vorkommst, rasen plötzlich die riesigen Backenzähne herunter und zerschmettern dich. NL @Dunkelheit.@ NL Einige Zeit später siehst du einen Lichtschein in der Dunkelheit und hörst etwas, das du schließlich als das Geräusch steinerner Zähne erkennst, die sich langsam erheben. NL NL NL Du ziehst verwirrt von dannen.",
-      "Du machst einen kleinen Satz zurück, als die gigantischen Backenzähne auf den Götzen hinabsausen und ihn in den Staub pressen. Als sich die Zähne wieder heben, strömt #yGold aus der Öffnung und übergießt dich mit Reichtümern.",
-      "Du ziehst ab und fragst dich, was hätte geschehen können."
-    ],
-    "OPTIONS": [
-      "[Hineinspringen] #gHeile #gTP #gkomplett. #rVerliere #r",
-      " #rmax #rTP.",
-      "[Opfern: Goldener Götze] #gErhalte #g333 #gGold. #rVerliere #rGoldenen #rGötzen.",
-      "[Gesperrt] Erfordert: Goldener Götze.",
-      "[Verlassen]"
-    ]
-  },
-  "Mysterious Sphere": {
-    "NAME": "Mysteriöse Sphäre",
-    "DESCRIPTIONS": [
-      "Aus dem chaotischen Terrain der Umgebung ragt eine knochige Sphäre hervor, die ein mysteriöses leuchtendes Objekt umgibt. NL Neugierig, was sich im Inneren befindet, bemerkst du, dass ein paar Wächter darauf aufpassen.",
-      "Als du auf die Sphäre schlägst, erwachen um dich herum die Wächter zum Leben!",
-      "Kein Grund, gierig zu sein."
-    ],
-    "OPTIONS": [
-      "[Sphäre öffnen] #rKampf. #gBelohnung: #gRelikt.",
-      "[Verlassen]",
-      "[Kämpfen]"
-    ]
-  },
-  "Thinking with Puddles": {
-    "NAME": "Mit Pfützen denken",
-    "DESCRIPTIONS": [
-      "Du gehst durch eine schimmernde Pfütze... und stürzt plötzlich aus der Decke genau darüber! NL Im freien Fall wägst du deine Optionen ab.",
-      "Du schlägst in Panik wild um dich und entfesselst all deine geheimen Tricks, um dich nicht zu verletzen. Stattdessen fällst du in die Pfütze... wieder... und wieder. Es vergehen Tage, bevor dir klar wird, wie du entkommen kannst. Wirklich elend.",
-      "Du bereitest dich auf die Landung vor, aber man kann einfach nicht gut landen, wenn man aus einer so bizarren Falle geschleudert wird. @BUMMS@ NL NL ...du bleibst eine Weile liegen und verfluchst die Existenz von Pfützen – ob flüssig oder magisch."
-    ],
-    "OPTIONS": [
-      "[Genarrt] #Verliere #reine #rzufällige #rseltene #rKarte.",
-      "[Auf dem Gesicht landen] #rErleide #r",
-      " #rSchaden. #rWerde #rverflucht #r– #rVerletzung.",
-      "[Verlassen]"
-    ]
-  },
-  "Tomb of Lord Red Mask": {
-    "NAME": "Grab des Herren der Roten Maske",
-    "DESCRIPTIONS": [
-      "Auf der anderen Seite eines schwebenden Pfades ist ein reichlich verziertes Grab zu sehen. Als du das Grab erreichst, bemerkst du einen Schlitz für #yGoldmünzen, über dem eine Inschrift eingeritzt wurde.",
-      "Du setzt die Maske auf und das Grab beginnt zu ~zerbröckeln~ ~...~ ein geheimer Durchgang! NL NL Der Gang ist gefüllt mit zahllosen gestohlenen Dingen und Haufen von #yGold!",
-      "Eine Öffnung entsteht und es rutscht eine kleine rote Maske mit einer Notiz heraus. „Nimm von anderen, so wie ich von dir genommen habe!“"
-    ],
-    "OPTIONS": [
-      "[Die Rote Maske aufsetzen] #gErhalte #g222 #gGold.",
-      "[Gesperrt] Erfordert: Rote Maske.",
-      "[Opfern: ",
-      " Gold] #rVerliere #rgesamtes #rGold. #gErhalte #gein #gRelikt.",
-      "[Verlassen]"
-    ]
-  },
-  "Winding Halls": {
-    "NAME": "Gewundene Hallen",
-    "DESCRIPTIONS": [
-      "Während du deinen Weg über die grkrümmten Pfade fortsetzt, verläufst du dich immer wieder, da die Wände und der Boden sich unerklärlicherweise vor deinen Augen zu verschieben scheinen. Die ständig in deinem Hinterkopf flüsternden Stimmen helfen auch nicht gerade weiter.",
-      "An einem Gebilde, von dem du sicher bist, dass du es schon vorher gesehen hast, fängst du an, dich zu fragen, ob du den Verstand verlierst oder ob die unmögliche Geographie dieses Ortes dich langsam in die Irre führt. Du musst etwas ändern, und zwar schnell. Jedenfalls sagen das die Stimmen, und warum sollten sie lügen?",
-      "Etwas in dir zerbricht. Nur ein wahrhaft Verrückter kann einen Ort wie diesen verstehen, also gibst du den plappernden Stimmen nach und setzt deine Reise mit einem „neuen“ Blickwinkel fort. Alles scheint jetzt soviel mehr Sinn zu ergeben.",
-      "Als du einen Moment anhältst, um die hügelige Landschaft zu betrachten, meinst du plötzlich eine Art Muster in der Willkürlichkeit der Umgebung zu erkennen. Immer, wenn die verrückten Geräusche deine Gedanken zu stören beginnen, erträgst du den geistigen Schmerz und ignorierst sie. NL NL Nach eine Weile gelingt es dir, einen Weg nach vorn festzulegen, und du gehst weiter – fortan immun gegen die schändliche Natur dieses fremdartigen Ortes."
-    ],
-    "OPTIONS": [
-      "...",
-      "[Dem Wahnsinn hingeben] #gErhalte #g2 #gWahnsinn. #rVerliere #r",
-      " #rTP.",
-      "[Konzentrieren] #rWerde #rverflucht #r– #rLeid. #gHeile #g",
-      "[Verlassen]",
-      " #gTP."
-    ]
-  },
-  "Big Fish": {
-    "NAME": "Großer Fisch",
-    "DESCRIPTIONS": [
-      "Als du einen langen Korridor hinuntergehst, siehst du eine #yBanane, einen #yDonut und eine #yKiste ~herumschweben.~ Nein... bei genauerer Betrachtung wird deutlich, dass sie an Schnüre gebunden sind, die aus Löchern in der Decke kommen. Du hörst ein leises @Gackern@ von oben, als du dich den Objekten näherst. NL Was tust du?",
-      "Du isst die #yBanane. Sie ist nahrhaft und ein wenig #bmagisch, sodass sie dich heilt.",
-      "Du isst den #yDonut. Er ist genau, was du jetzt brauchst! Deine max. TP erhöhen sich.",
-      "",
-      "Du greifst nach der Kiste. Darin findest du ein #yRelikt!",
-      " NL Allerdings wolltest du so gerne diesen Donut... NL Du bist voller ~Trauer,~ und vor allem #rReue."
-    ],
-    "OPTIONS": [
-      "[Banane] #gHeile #g",
-      " #gTP.",
-      "[Donut] #gMax. #gTP #g+",
-      ".",
-      "[Kiste] #gErhalte #gein #gRelikt. #rWerde #rverflucht #r– #rReue.",
-      "[Verlassen]"
-    ]
-  },
-  "The Cleric": {
-    "NAME": "Der Priester",
-    "DESCRIPTIONS": [
-      "Ein seltsamer blauer Humanoider mit einem goldenen Helm (?) nähert sich dir mit einem breiten Lächeln. NL @\"Hallo,@ @mein@ @Freund!@ Ich bin #bPriester! Bist du an meinen Diensten interessiert?!\", schreit die Kreatur laut.",
-      "Ein warmes goldenes Licht umhüllt deinen Körper und zerstreut sich. NL Die Kreatur grinst. \"Priester ist bester Heiler. @Einen@ @schönen@ @Tag@ @noch!\"@",
-      "Eine kalte blaue Flamme umhüllt deinen Körper und zerstreut sich. NL Die Kreatur grinst. \"Priester ist talentiert. @Einen@ @schönen@ @Tag@ @noch!\"@",
-      "Du traust diesem #b\"Priester\" nicht, also gehst du."
-    ],
-    "OPTIONS": [
-      "[Heilen] #y35 #yGold: #gHeile #g",
-      "[Gesperrt] Erfordert: ",
-      " Gold.",
-      "[Reinigen] #y",
-      " #yGold: #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
-      "[Gesperrt] Erfordert: 50 Gold.",
-      "[Verlassen]",
-      "Wähle eine Karte zum Entfernen.",
-      " #gTP."
-    ]
-  },
-  "Dead Adventurer": {
-    "NAME": "Toter Abenteurer",
-    "DESCRIPTIONS": [
-      "Während du den Abenteurer durchsuchst, wirst du überrascht!",
-      "Du verschwindest geräuschlos.",
-      "Du findest einen #rtoten #rAbenteurer auf dem Boden. NL Seine #bHose wurde gestohlen! Außerdem ",
-      "scheinen seine Rüstung und sein Gesicht #r@von@ #r@Flammen@ #r@versengt@ zu sein. ",
-      "sieht es aus, als wäre er von einer gehörnten Bestie #r@aufgespießt@ #r@und@ #r@zertrampelt@ worden. ",
-      "sieht er aus, als wäre er von riesigen Klauen #r@ausgeweidet@ #r@und@ #r@zerstückelt@ worden. ",
-      "NL Obwohl seine #yBesitztümer #ynoch #yintakt #ysind, kannst du nicht nachvollziehen, was hier passiert ist...",
-      "Du hast ein wenig #yGold gefunden! NL Weitersuchen?",
-      "Hmmm, nichts gefunden... NL Weitersuchen?",
-      "Du hast ein #yRelikt gefunden! Weitersuchen?",
-      "Sieht aus, als hättest all seine Besitztümer durchsucht!"
-    ],
-    "OPTIONS": [
-      "[Durchsuchen] #gFinde #gBeute. #r",
-      "[Verlassen]",
-      "[Kämpfen]",
-      "[Fortsetzen] #gFinde #gBeute. #r",
-      "%: #rMonster #rkehrt #rzurück."
-    ]
-  },
-  "Golden Idol": {
-    "NAME": "Goldener Götze",
-    "DESCRIPTIONS": [
-      "Du findest ein unscheinbares Podest, auf dem friedlich ein #yglänzender #ygoldener #yGötze ruht. Er sieht unglaublich wertvoll aus. NL NL Du bist sicher, keine Fallen in der Nähe zu erkennen.",
-      "Als du den Götzen greifst und ihn verstaust, bricht ein riesiger Felsbrocken durch die Decke und schlägt neben dir auf den Boden. NL Du bemerkst, dass der Boden abschüssig ist, als der Felsbrocken beginnt, dir entgegenzurollen.",
-      "@LAUUUUUUUUF!@ NL Du schaffst es gerade noch, in einen Seitenweg zu springen, als der Felsbrocken vorbeirauscht. Leider fühlt es sich so an, als ob du dir dabei etwas verstaucht hättest.",
-      "Du wirfst dich dem Felsbrocken mit all deiner Kraft entgegen. Als der Staub sich legt, kannst du sicher entkommen.",
-      "@WUSCH!@ NL Der Felsbrocken zerdrückt dich ein wenig, als er vorbeirollt, aber immerhin kannst du von hier verschwinden.",
-      "Wenn es je eine offensichtliche Falle gibt, dann diese. NL Du entscheidest dich, Objekte auf Podesten ungestört zu lassen."
-    ],
-    "OPTIONS": [
-      "[Nehmen] #gErhalte #gden #ggoldenen #gGötzen. #rLöse #reine #rFalle #raus.",
-      "[Verlassen]",
-      "[Wegrennen] #rWerde #rverflucht #r– #rVerletzung.",
-      "[Zerschmettern] #rErleide #r",
-      " #rSchaden.",
-      "[Verstecken] #rVerliere #r",
-      " #rmax. #rTP."
-    ]
-  },
-  "Golden Wing": {
-    "NAME": "Flügelstatue",
-    "DESCRIPTIONS": [
-      "Zwischen den Steinen und Brocken fällt dir eine aufwendige, große, blaue Statue auf, die einem Flügel ähnelt. NL Du findest #yGold vor, das aus den Rissen quillt. Vielleicht ist im Inneren noch mehr...",
-      "Jemand hat dir mal von einem Kult erzählt, der einen riesigen Vogel verehrt. Als du dich zum Gebet hinkniest, beginnst du dich ~benommen~ ... ~zu~ ~fühlen~ . NL NL Du wachst irgendwann später auf und fühlst dich überraschend leichtfüßig.",
-      "Mit all deiner Kraft schlägst du auf die Statue ein. NL Sie @zerbricht@ schnell und gibt einen #yHaufen #yGold preis. Du nimmst, soviel wie du kannst, und gehst weiter.",
-      "Die Statue bereitet dir ~Unbehagen.~ Du gehst an ihr vorbei und setzt deine Reise fort."
-    ],
-    "OPTIONS": [
-      "[Beten] #gEntferne #geine #gKarte #gaus #gdeinem #gDeck. #rVerliere #r",
-      " #rTP.",
-      "[Zerstören] #gErhalte #g",
-      " #g- #g",
-      " #gGold.",
-      "[Gesperrt] Erfordert: Karte mit ",
-      " oder mehr Schaden.",
-      "[Verlassen]",
-      "[Fortsetzen]",
-      "Wähle eine Karte zum Entfernen."
-    ]
-  },
-  "World of Goop": {
-    "NAME": "Welt aus Schleim",
-    "DESCRIPTIONS": [
-      "Du fällst in eine Pfütze. NL @SIE@ @IST@ @AUS@ #g@KLEBRIGEM@ #g@SCHLEIM!!@ NL Verzweifelt kämpfst du dich mehrere Minuten lang frei, bis du spürst, dass der Schleim ein brennendes Gefühl verursacht. NL Du spürst Schleim in deinen Ohren, Schleim in deiner Nase, Schleim überall. NL NL Beim Herausklettern merkst du, dass etwas von deinem #yGold fehlt. Als du zurück in die Pfütze blickst, siehst du deine fehlenden Münzen zusammen mit dem #yGold anderer glückloser Abenteurer.",
-      "Du spürst das Brennen des Schleims, der nun langsam beginnt, deine Haut aufzulösen. Doch es gelingt dir, das #yGold herauszufischen.",
-      "Du entscheidest, dass die Sauerei es nicht wert ist."
-    ],
-    "OPTIONS": [
-      "[Gold sammeln] #gErhalte #g",
-      " #gGold. #rVerliere #r",
-      " #rTP.",
-      "[Zurücklassen] #rVerliere #r",
-      " #rGold.",
-      "[Verlassen]"
-    ]
-  },
-  "Liars Game": {
-    "NAME": "Die Ssssschlange",
-    "DESCRIPTIONS": [
-      "Du betrittst einen Raum und findest ein großes Loch im Boden. Als du dich dem Loch näherst, erscheint daraus eine enorme Schlangenkreatur. NL NL ~„Ho~ ~hooo!~ ~Hallo,~ ~hallo!~ ~Was~ ~haben~ ~wir~ ~denn~ ~hier?~ Hallo Abenteurer, ich stelle dir eine einfache Frage. NL Das erfüllteste aller Leben ist das, in dem du #y~alles~ #y~kaufen~ #y~kannst!~ NL Stimmst du zu?“",
-      "~„Geeeewisssssssss!~ NL ~Dassss~ ~wird~ ~esss~ ~wert~ ~ssssein.~ NL ~..ssSSs...~ ~...~ ~ss...~ ~sssss~ ~......!“~",
-      "Die Schlange glotzt dich mit dem Anblick extremer Enttäuschung an.",
-      "Die Schlange legt ihren Kopf zurück und speit einen Strahl aus #yGold in die Höhe! NL Es ist erstaunlich und furchterregend zugleich. NL Du sammelst das #yGold ein, dankst der Schlange und machst dich auf den Weg."
-    ],
-    "OPTIONS": [
-      "[Zustimmen] #gErhalte #g",
-      " #gGold. #rWerde #rverflucht #r– #rZweifel.",
-      "[Widersprechen]",
-      "[Fortsetzen]",
-      "[Verlassen]"
-    ]
-  },
-  "Living Wall": {
-    "NAME": "Lebendige Wand",
-    "DESCRIPTIONS": [
-      "Als du eine Sackgasse erreichst und dich umdrehst, @krachen@ Wände von der Decke @herunter@ und du bist gefangen! NL NL Drei Gesichter materialisieren sich aus der Wand und sprechen: NL #b„Vergiss, #bwas #bdu #bweißt, #bund #bich #blasse #bdich #bgehen.“ NL #p„Ich #pbrauche #pVeränderung, #pum #pneuen #pRaum #pzu #psehen.“ NL #y„Wenn #ydu #ypassieren #ywillst, #ymusst #ydu #ywachsen.“",
-      "Zufrieden verschwinden die Wände vor dir zurück in die Decke und geben deinen Weg frei."
-    ],
-    "OPTIONS": [
-      "[Vergessen] #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
-      "[Verändern] #gTransformiere #geine #gKarte #gaus #gdeinem #gDeck.",
-      "[Wachsen] #gVerbessere #geine #gKarte #gaus #gdeinem #gDeck.",
-      "Wähle eine Karte zum Entfernen.",
-      "Wähle eine Karte zum Transformieren.",
-      "Wähle eine Karte zum Verbessern.",
-      "[Verlassen]",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
-    ]
-  },
-  "Mushrooms": {
-    "NAME": "Pilze",
-    "DESCRIPTIONS": [
-      "Du fügst dich einem unnatürlichen Verlangen nach Essen. Als du Pilz um Pilz verzehrst, spürst du aufkeimende Benommenheit und verlierst das Bewusstsein. Als du erwachst, fühlst du dich sehr seltsam. NL Du #gheilst #b25% deiner TP, wirst aber #rinfiziert.",
-      "#r@Hinterhalt!!@ NL Von den Pilzen infizierte Nager erscheinen aus dem Nichts!",
-      "Du betrittst einen Korridor, der mit #b~Pilzen~ in #b~hypnotisierenden~ #b~Farben~ gefüllt ist. NL Deine mangelnden Kenntnisse in Pilzkunde erlauben es dir nicht, diese Exemplare zu identifizieren. NL Du willst fliehen, fühlst dich aber auf seltsame Art dazu gezwungen, einen #b~Pilz~ zu essen..."
-    ],
-    "OPTIONS": [
-      "[Zertrampeln] #rErzürne #rdie #rPilze.",
-      "[Essen] #gHeile #g",
-      " #gTP. #rWerde #rverflucht #r– #rParasit.",
-      "[Kämpfen]",
-      "[Verlassen]"
-    ]
-  },
-  "N'loth": {
-    "NAME": "N’loth",
-    "DESCRIPTIONS": [
-      "Eine seltsame Kreatur mit einem gekrümmten Rücken, aus dem mehrere Tentakel sprießen, wühlt sich vor dir durch einen Haufen Müll und Trümmer. Als du dich näherst, schlurft er auf eine nicht bedrohlich wirkende Weise auf dich zu. NL „N’loth hungrig. Füttere N’loth.“",
-      "Als du ihm das #yRelikt hinhältst, schnappt es N’loth mit seinen Tentakeln aus deiner Hand, renkt seinen Kiefer aus und verschlingt deine Opfergabe mit einem schnellen Schluck. NL Er lächelt dich mit gefletschten Zähnen an, während mehr Tentakel aus seinem Mantel erscheinen. Diese halten eine unglaublich schicke Kiste. Er schiebt sie dir zu, bis du sie nimmst.",
-      "Du schüttelst den Kopf. N’loth krümmt sich noch mehr und seufzt, dann krabbelt er davon."
-    ],
-    "OPTIONS": [
-      "[Opfern: ",
-      "] #rVerliere #rdieses #rRelikt. #gErhalte #gein #gneues #gbesonderes #gRelikt.",
-      "[Verlassen]"
-    ]
-  },
-  "Scrap Ooze": {
-    "NAME": "Schrottschlamm",
-    "DESCRIPTIONS": [
-      "Als du den Raum betrittst, hörst du ein ~Gurgeln~ und das Geräusch von @reibendem@ Metall. Vor dir befindet sich eine schleimartige Kreatur, die mehr Schrott gegessen hat, als gut für sie ist. Aus dem Inneren der Kreatur siehst du Licht schimmern - vielleicht etwas magisches? Es scheint, als könntest du ein paar #ySchätze bekommen, wenn du einfach in die... Öffnung greifst. Die Säure und scharfen Dinge könnten allerdings #rschmerzhaft sein.",
-      "#r@Autsch!@ NL Alles, was du findest, ist verrostetes Metall und ein bisschen #r@brennender@ #r@Schmerz.@ NL Du bist dennoch überzeugt, dass dort ein #yRelikt ist...",
-      "#gGeschafft! NL Nachdem du dich durch das Metall und die Säure gewühlt hast, bekommst du das #yRelikt zu fassen und kannst es herausziehen. NL Du ziehst dich aus dem Schlamm heraus, #rlädiert, aber auch belohnt.",
-      "Du entschließt dich, das Gebiet zu verlassen. NL Der Schleim ist unaufmerksam, da er mit seiner Mahlzeit zufrieden ist."
-    ],
-    "OPTIONS": [
-      "[Hineingreifen] #rVerliere #r",
-      " #rTP. #g",
-      "%: #gFinde #gein #gRelikt.",
-      "[Verlassen]",
-      "[Tiefer] #rVerliere #r"
-    ]
-  },
-  "Shining Light": {
-    "NAME": "Leuchtender Schein",
-    "DESCRIPTIONS": [
-      "Du findest eine schimmernde #yBündelung #yvon #yLicht im Zentrum des Raumes. NL NL Sein ~warmes~ ~Leuchten~ und die ~verzaubernden~ ~Muster~ laden dich zu ihm ein.",
-      "Als du durch das Licht schreitest, bemerkst du, dass das Licht von dir absorbiert wird. NL Es ist #r@brennend@ #r@heiß@ ! Der Schmerz verschwindet jedoch schnell. NL Du fühlst dich #bbelebt, als hättest du einen wohlverdienten Klaps erhalten.",
-      "Du machst einen Bogen darum und fragst dich, was hätte geschehen können."
-    ],
-    "OPTIONS": [
-      "[Hindurchgehen] #gVerbessere #g2 #gzufällige #gKarten. #rVerliere #r",
-      " #rTP.",
-      "[Verlassen]",
       "[Gesperrt] Benötigt: Verbesserbare Karten"
     ]
   },
@@ -524,6 +67,44 @@
       "Wähle eine Karte zum Entfernen."
     ]
   },
+  "Big Fish": {
+    "NAME": "Großer Fisch",
+    "DESCRIPTIONS": [
+      "Als du einen langen Korridor hinuntergehst, siehst du eine #yBanane, einen #yDonut und eine #yKiste ~herumschweben.~ Nein... bei genauerer Betrachtung wird deutlich, dass sie an Schnüre gebunden sind, die aus Löchern in der Decke kommen. Du hörst ein leises @Gackern@ von oben, als du dich den Objekten näherst. NL Was tust du?",
+      "Du isst die #yBanane. Sie ist nahrhaft und ein wenig #bmagisch, sodass sie dich heilt.",
+      "Du isst den #yDonut. Er ist genau, was du jetzt brauchst! Deine max. TP erhöhen sich.",
+      "",
+      "Du greifst nach der Kiste. Darin findest du ein #yRelikt!",
+      " NL Allerdings wolltest du so gerne diesen Donut... NL Du bist voller ~Trauer,~ und vor allem #rReue."
+    ],
+    "OPTIONS": [
+      "[Banane] #gHeile #g",
+      " #gTP.",
+      "[Donut] #gMax. #gTP #g+",
+      ".",
+      "[Kiste] #gErhalte #gein #gRelikt. #rWerde #rverflucht #r– #rReue.",
+      "[Verlassen]"
+    ]
+  },
+  "Bonfire Elementals": {
+    "NAME": "Geister des Lagerfeuers",
+    "DESCRIPTIONS": [
+      "Du triffst auf etwas, das aussieht wie eine Gruppe #pvioletter #pFeuergeister, die um ein großes Lagerfeuer ~tanzen.~ NL ",
+      "Die Geister werfen kleine Knochen und Knochenfragmente ins Feuer, das mit jedem Mal ~hell~ ~auflodert.~ NL Als du dich näherst, wenden sich die Geister dir erwartungsvoll zu...",
+      "Du wirfst eine Opfergabe in das Lagerfeuer. NL NL ",
+      "Die Geister sind allerdings nicht froh darüber, dass du einen #pFluch geopfert hast... Die Karte zischt und gibt dünnen schwarzen Rauch von sich. Im Gegenzug... erhältst du #p~etwas.~",
+      "Nichts passiert... NL Die Geister scheinen dich jetzt zu ignorieren. Enttäuschend...",
+      "Die Flammen werden etwas greller. NL Die Geister tanzen weiter. Du fühlst dich in ihrer Gegenwart ein wenig wärmer... NL Du #gheilst #b5 TP.",
+      "Die Flammen lodern auf und brennen deutlich stärker! NL Die Geister tanzen aufgeregt um dich herum und erfüllen dich mit einem ~Gefühl~ ~der~ ~Wärme.~ NL Deine TP sind komplett #ggeheilt.",
+      "Die Flammen @stoßen@ empor und reißen dich fast von den Füßen, als sich die Stärke des Feuers @verdoppelt.@ NL Die Geister tanzen aufgeregt um dich herum, bevor sie ~deine~ ~Gestalt~ ~annehmen~ und dich mit einem Gefühl der Wärme und Stärke erfüllen. NL Deine max. TP erhöhen sich um #b10 und deine #gTP werden komplett geheilt."
+    ],
+    "OPTIONS": [
+      "[Fortsetzen]",
+      "[Verlassen]",
+      "[Opfern] Erhalte eine Belohnung, die deiner Opfergabe entspricht.",
+      "Wähle eine Karte zum Opfern."
+    ]
+  },
   "Cursed Tome": {
     "NAME": "Verfluchter Foliant",
     "DESCRIPTIONS": [
@@ -547,6 +128,29 @@
       "[Verlassen]"
     ]
   },
+  "Dead Adventurer": {
+    "NAME": "Toter Abenteurer",
+    "DESCRIPTIONS": [
+      "Während du den Abenteurer durchsuchst, wirst du überrascht!",
+      "Du verschwindest geräuschlos.",
+      "Du findest einen #rtoten #rAbenteurer auf dem Boden. NL Seine #bHose wurde gestohlen! Außerdem ",
+      "scheinen seine Rüstung und sein Gesicht #r@von@ #r@Flammen@ #r@versengt@ zu sein. ",
+      "sieht es aus, als wäre er von einer gehörnten Bestie #r@aufgespießt@ #r@und@ #r@zertrampelt@ worden. ",
+      "sieht er aus, als wäre er von riesigen Klauen #r@ausgeweidet@ #r@und@ #r@zerstückelt@ worden. ",
+      "NL Obwohl seine #yBesitztümer #ynoch #yintakt #ysind, kannst du nicht nachvollziehen, was hier passiert ist...",
+      "Du hast ein wenig #yGold gefunden! NL Weitersuchen?",
+      "Hmmm, nichts gefunden... NL Weitersuchen?",
+      "Du hast ein #yRelikt gefunden! Weitersuchen?",
+      "Sieht aus, als hättest all seine Besitztümer durchsucht!"
+    ],
+    "OPTIONS": [
+      "[Durchsuchen] #gFinde #gBeute. #r",
+      "[Verlassen]",
+      "[Kämpfen]",
+      "[Fortsetzen] #gFinde #gBeute. #r",
+      "%: #rMonster #rkehrt #rzurück."
+    ]
+  },
   "Drug Dealer": {
     "NAME": "J.A.X.-Dealer",
     "DESCRIPTIONS": [
@@ -561,6 +165,39 @@
       " Gold.",
       "[Verlassen]",
       "[Ablehnen]"
+    ]
+  },
+  "Duplicator": {
+    "NAME": "Duplikator",
+    "DESCRIPTIONS": [
+      "Vor dir befindet sich ein dekorierter Altar, der einem uralten Wesen gewidmet ist.",
+      "Du kniest respektvoll nieder. Ein grausiges Spiegelbild fährt aus dem Schrein und stößt mit dir zusammen.",
+      "Du bist dir deiner Sache sicher und ignorierst den Schrein."
+    ],
+    "OPTIONS": [
+      "[Beten] #gDupliziere #geine #gKarte #gin #gdeinem #gDeck.",
+      "[Verlassen]",
+      "Wähle eine Karte zum Duplizieren."
+    ]
+  },
+  "Falling": {
+    "NAME": "Fallen",
+    "DESCRIPTIONS": [
+      "Als du auf dem Weg nach oben von einer schwebenden Form zur nächsten hüpfst, rutscht du aus. NL NL Du beginnst zu fallen.",
+      "Im freien Fall wägst du deine Optionen ab: NL Dank deiner besten Technik sicher landen. NL Eine Macht kanalisieren, um den Sturz zu überleben. NL In die Wand schlagen, um daran hängenzubleiben.",
+      "Du landest unglaublich graziös, bevor du deine Reise fortsetzt.",
+      "Unter Einsatz deiner rohen Macht schaffst du es, unverletzt zu landen.",
+      "Es gelingt dir, dich an der Wand festzuhalten und auf eine andere sichere Plattform zu springen."
+    ],
+    "OPTIONS": [
+      "[Fortsetzen]",
+      "[Landen] #rVerliere ",
+      "[Gesperrt] Erfordert: Fertigkeitskarte",
+      "[Kanalisieren] #rVerliere ",
+      "[Gesperrt] Erfordert: Machtkarte",
+      "[Schlagen] #rVerliere ",
+      "[Gesperrt] Erfordert: Angriffskarte",
+      "[Verlassen]"
     ]
   },
   "Forgotten Altar": {
@@ -579,6 +216,92 @@
       " #rTP.",
       "[Gesperrt] Erfordert: Menschlichkeit.",
       "[Entweihen] #rWerde #rverflucht #r– #rVerfall."
+    ]
+  },
+  "Fountain of Cleansing": {
+    "NAME": "Der Göttliche Brunnen",
+    "DESCRIPTIONS": [
+      "Du kommst an #b~glitzerndem~ #b~Wasser~ vorbei, das endlos aus einem Brunnen auf einer nahen Mauer sprudelt.",
+      "Als du das #b~Wasser~ trinkst, spürst du, wie sich ein #pdunkler #pGriff löst.",
+      "Da du den Eigenarten dieses Wassers nicht traust, setzt du deinen Weg mit großem Durst fort."
+    ],
+    "OPTIONS": [
+      "[Trinken] #gEntferne #galle #gFlüche #gaus #gdeinem #gDeck.",
+      "[Verlassen]"
+    ]
+  },
+  "Ghosts": {
+    "NAME": "Rat der Geister",
+    "DESCRIPTIONS": [
+      "Beim weiteren Aufstieg beginnt #p~dicker~ #p~schwarzer~ #pRauch aus dem Boden und Wänden um dich herum zu quillen, welcher sich in drei maskierte Gestalten formt. NL NL ~\"Noch~ ~eine~ ~von~ #y~Niaus~ ~Puppen,~ ~glaube~ ~ich~.\"~ NL #r@\"JAWOHL!@ #r@SIE@ #r@KREIERT@ #r@IMMER@ #r@DIE@ #r@LUSTIGSTEN@ #r@SPIELZEUGE!\"@ NL NL Dir fällt ein riesiges Grinsen auf, als die dritte Gestalt dich anspricht. NL \"Ignoriere die anderen... Hättest du gern eine Kostprobe unserer #y~Kraft?\"~ ",
+      "",
+      "#y\"Exzellent!\" NL Als die Geisterfigur spricht, bemerkst du, wie ihr riesiger Mund sich weiter und weiter öffnet. #p~Dicker~ #p~schwarzer~ #p~Rauch~ quillt hervor und verhüllt den Raum. Du kannst weder sehen noch atmen... NL NL Gerade kurz bevor du ohnmächtig wirst, hört das Spektakel auf. NL NL Was auch immer diese Gestalten waren, jetzt sind sie fort. Du gehst weiter und fühlst dich eher #pleer...",
+      "\"Wie enttäuschend...\" NL ~\"Früher~ ~oder~ ~später~ ~wirst~ ~du~ ~uns~ ~beitreten.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Die Formen verblassen und hinterlassen nur das nervtötende Lachen in deinen Ohren.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Akzeptieren] #gErhalte #g5 #gApparieren. #rVerliere #r",
+      "% #rMax #rTP.",
+      "[Ablehnen]",
+      "",
+      "",
+      "[Verlassen]"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Goldener Götze",
+    "DESCRIPTIONS": [
+      "Du findest ein unscheinbares Podest, auf dem friedlich ein #yglänzender #ygoldener #yGötze ruht. Er sieht unglaublich wertvoll aus. NL NL Du bist sicher, keine Fallen in der Nähe zu erkennen.",
+      "Als du den Götzen greifst und ihn verstaust, bricht ein riesiger Felsbrocken durch die Decke und schlägt neben dir auf den Boden. NL Du bemerkst, dass der Boden abschüssig ist, als der Felsbrocken beginnt, dir entgegenzurollen.",
+      "@LAUUUUUUUUF!@ NL Du schaffst es gerade noch, in einen Seitenweg zu springen, als der Felsbrocken vorbeirauscht. Leider fühlt es sich so an, als ob du dir dabei etwas verstaucht hättest.",
+      "Du wirfst dich dem Felsbrocken mit all deiner Kraft entgegen. Als der Staub sich legt, kannst du sicher entkommen.",
+      "@WUSCH!@ NL Der Felsbrocken zerdrückt dich ein wenig, als er vorbeirollt, aber immerhin kannst du von hier verschwinden.",
+      "Wenn es je eine offensichtliche Falle gibt, dann diese. NL Du entscheidest dich, Objekte auf Podesten ungestört zu lassen."
+    ],
+    "OPTIONS": [
+      "[Nehmen] #gErhalte #gden #ggoldenen #gGötzen. #rLöse #reine #rFalle #raus.",
+      "[Verlassen]",
+      "[Wegrennen] #rWerde #rverflucht #r– #rVerletzung.",
+      "[Zerschmettern] #rErleide #r",
+      " #rSchaden.",
+      "[Verstecken] #rVerliere #r",
+      " #rmax. #rTP."
+    ]
+  },
+  "Golden Shrine": {
+    "NAME": "Goldener Schrein",
+    "DESCRIPTIONS": [
+      "Vor dir befindet sich ein kunstvoller Schrein, der einem uralten Geist gewidmet ist. ",
+      "Als deine Hand den Schrein berührt, regnet es #yGold von der Decke und ~du~ ~badest~ ~in~ ~Reichtümern.~ ",
+      "Mit jedem Schlag auf den Schrein ergießt sich mehr und mehr #yGold hernieder! NL NL Während du deine Taschen mit Reichtümern füllst, #rlastet #retwas #rschwer #rauf #rdir.",
+      "Du ignorierst den Schrein."
+    ],
+    "OPTIONS": [
+      "[Beten] #gErhalte #g",
+      " #gGold.",
+      "[Entweihen] #gErhalte #g250 #gGold. #rWerde #rverflucht #r– #rReue.",
+      "[Verlassen]"
+    ]
+  },
+  "Golden Wing": {
+    "NAME": "Flügelstatue",
+    "DESCRIPTIONS": [
+      "Zwischen den Steinen und Brocken fällt dir eine aufwendige, große, blaue Statue auf, die einem Flügel ähnelt. NL Du findest #yGold vor, das aus den Rissen quillt. Vielleicht ist im Inneren noch mehr...",
+      "Jemand hat dir mal von einem Kult erzählt, der einen riesigen Vogel verehrt. Als du dich zum Gebet hinkniest, beginnst du dich ~benommen~ ... ~zu~ ~fühlen~ . NL NL Du wachst irgendwann später auf und fühlst dich überraschend leichtfüßig.",
+      "Mit all deiner Kraft schlägst du auf die Statue ein. NL Sie @zerbricht@ schnell und gibt einen #yHaufen #yGold preis. Du nimmst, soviel wie du kannst, und gehst weiter.",
+      "Die Statue bereitet dir ~Unbehagen.~ Du gehst an ihr vorbei und setzt deine Reise fort."
+    ],
+    "OPTIONS": [
+      "[Beten] #gEntferne #geine #gKarte #gaus #gdeinem #gDeck. #rVerliere #r",
+      " #rTP.",
+      "[Zerstören] #gErhalte #g",
+      " #g- #g",
+      " #gGold.",
+      "[Gesperrt] Erfordert: Karte mit ",
+      " oder mehr Schaden.",
+      "[Verlassen]",
+      "[Fortsetzen]",
+      "Wähle eine Karte zum Entfernen."
     ]
   },
   "Knowing Skull": {
@@ -605,6 +328,48 @@
       "[Verlassen]"
     ]
   },
+  "Lab": {
+    "NAME": "Labor",
+    "DESCRIPTIONS": [
+      "Du findest dich in einem Raum wieder, der mit Gestellen voller Teströhren, Messbechern, Kolben, Pinzetten, Klampen, Rührstäben, Brillen, Trichtern, Zylindern, Kondensatoren und sogar einer seltenen gewundenen Glasröhre gefüllt ist. NL NL Woher kennst du die Namen all dieser Werkzeuge? Nicht wichtig. Du siehst dich um."
+    ],
+    "OPTIONS": [
+      "[Durchsuchen] #gFinde #geinige #gTränke!"
+    ]
+  },
+  "Liars Game": {
+    "NAME": "Die Ssssschlange",
+    "DESCRIPTIONS": [
+      "Du betrittst einen Raum und findest ein großes Loch im Boden. Als du dich dem Loch näherst, erscheint daraus eine enorme Schlangenkreatur. NL NL ~„Ho~ ~hooo!~ ~Hallo,~ ~hallo!~ ~Was~ ~haben~ ~wir~ ~denn~ ~hier?~ Hallo Abenteurer, ich stelle dir eine einfache Frage. NL Das erfüllteste aller Leben ist das, in dem du #y~alles~ #y~kaufen~ #y~kannst!~ NL Stimmst du zu?“",
+      "~„Geeeewisssssssss!~ NL ~Dassss~ ~wird~ ~esss~ ~wert~ ~ssssein.~ NL ~..ssSSs...~ ~...~ ~ss...~ ~sssss~ ~......!“~",
+      "Die Schlange glotzt dich mit dem Anblick extremer Enttäuschung an.",
+      "Die Schlange legt ihren Kopf zurück und speit einen Strahl aus #yGold in die Höhe! NL Es ist erstaunlich und furchterregend zugleich. NL Du sammelst das #yGold ein, dankst der Schlange und machst dich auf den Weg."
+    ],
+    "OPTIONS": [
+      "[Zustimmen] #gErhalte #g",
+      " #gGold. #rWerde #rverflucht #r– #rZweifel.",
+      "[Widersprechen]",
+      "[Fortsetzen]",
+      "[Verlassen]"
+    ]
+  },
+  "Living Wall": {
+    "NAME": "Lebendige Wand",
+    "DESCRIPTIONS": [
+      "Als du eine Sackgasse erreichst und dich umdrehst, @krachen@ Wände von der Decke @herunter@ und du bist gefangen! NL NL Drei Gesichter materialisieren sich aus der Wand und sprechen: NL #b„Vergiss, #bwas #bdu #bweißt, #bund #bich #blasse #bdich #bgehen.“ NL #p„Ich #pbrauche #pVeränderung, #pum #pneuen #pRaum #pzu #psehen.“ NL #y„Wenn #ydu #ypassieren #ywillst, #ymusst #ydu #ywachsen.“",
+      "Zufrieden verschwinden die Wände vor dir zurück in die Decke und geben deinen Weg frei."
+    ],
+    "OPTIONS": [
+      "[Vergessen] #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
+      "[Verändern] #gTransformiere #geine #gKarte #gaus #gdeinem #gDeck.",
+      "[Wachsen] #gVerbessere #geine #gKarte #gaus #gdeinem #gDeck.",
+      "Wähle eine Karte zum Entfernen.",
+      "Wähle eine Karte zum Transformieren.",
+      "Wähle eine Karte zum Verbessern.",
+      "[Verlassen]",
+      "[Gesperrt] Benötigt: Verbesserbare Karten"
+    ]
+  },
   "Masked Bandits": {
     "NAME": "Maskierte Banditen",
     "DESCRIPTIONS": [
@@ -619,6 +384,139 @@
       "[Kämpfen!]",
       "[Fortsetzen]",
       "[Verlassen]"
+    ]
+  },
+  "Match and Keep!": {
+    "NAME": "Finde die Paare!",
+    "DESCRIPTIONS": [
+      "„Hier sind #bzwölf Karten! Ordne sie zu, um sie zu behalten! NL #bFünf Versuche, keine Wiederholungen. NL Bist du bereit? Fangen wir an!“",
+      "Du beendest das Spiel des Gremlins und siehst auf. NL Er ist... verschwunden?",
+      "Ein Gremlin mischt wild auf einem Tisch Karten. Dieses Monster scheint harmlos zu sein. Aus Neugier näherst du dich ihm."
+    ],
+    "OPTIONS": [
+      "[Fortsetzen]",
+      "[Verlassen]",
+      "[Spielen]",
+      "Verbleibende Versuche: #y"
+    ]
+  },
+  "Mushrooms": {
+    "NAME": "Pilze",
+    "DESCRIPTIONS": [
+      "Du fügst dich einem unnatürlichen Verlangen nach Essen. Als du Pilz um Pilz verzehrst, spürst du aufkeimende Benommenheit und verlierst das Bewusstsein. Als du erwachst, fühlst du dich sehr seltsam. NL Du #gheilst #b25% deiner TP, wirst aber #rinfiziert.",
+      "#r@Hinterhalt!!@ NL Von den Pilzen infizierte Nager erscheinen aus dem Nichts!",
+      "Du betrittst einen Korridor, der mit #b~Pilzen~ in #b~hypnotisierenden~ #b~Farben~ gefüllt ist. NL Deine mangelnden Kenntnisse in Pilzkunde erlauben es dir nicht, diese Exemplare zu identifizieren. NL Du willst fliehen, fühlst dich aber auf seltsame Art dazu gezwungen, einen #b~Pilz~ zu essen..."
+    ],
+    "OPTIONS": [
+      "[Zertrampeln] #rErzürne #rdie #rPilze.",
+      "[Essen] #gHeile #g",
+      " #gTP. #rWerde #rverflucht #r– #rParasit.",
+      "[Kämpfen]",
+      "[Verlassen]"
+    ]
+  },
+  "Mysterious Sphere": {
+    "NAME": "Mysteriöse Sphäre",
+    "DESCRIPTIONS": [
+      "Aus dem chaotischen Terrain der Umgebung ragt eine knochige Sphäre hervor, die ein mysteriöses leuchtendes Objekt umgibt. NL Neugierig, was sich im Inneren befindet, bemerkst du, dass ein paar Wächter darauf aufpassen.",
+      "Als du auf die Sphäre schlägst, erwachen um dich herum die Wächter zum Leben!",
+      "Kein Grund, gierig zu sein."
+    ],
+    "OPTIONS": [
+      "[Sphäre öffnen] #rKampf. #gBelohnung: #gRelikt.",
+      "[Verlassen]",
+      "[Kämpfen]"
+    ]
+  },
+  "N'loth": {
+    "NAME": "N’loth",
+    "DESCRIPTIONS": [
+      "Eine seltsame Kreatur mit einem gekrümmten Rücken, aus dem mehrere Tentakel sprießen, wühlt sich vor dir durch einen Haufen Müll und Trümmer. Als du dich näherst, schlurft er auf eine nicht bedrohlich wirkende Weise auf dich zu. NL „N’loth hungrig. Füttere N’loth.“",
+      "Als du ihm das #yRelikt hinhältst, schnappt es N’loth mit seinen Tentakeln aus deiner Hand, renkt seinen Kiefer aus und verschlingt deine Opfergabe mit einem schnellen Schluck. NL Er lächelt dich mit gefletschten Zähnen an, während mehr Tentakel aus seinem Mantel erscheinen. Diese halten eine unglaublich schicke Kiste. Er schiebt sie dir zu, bis du sie nimmst.",
+      "Du schüttelst den Kopf. N’loth krümmt sich noch mehr und seufzt, dann krabbelt er davon."
+    ],
+    "OPTIONS": [
+      "[Opfern: ",
+      "] #rVerliere #rdieses #rRelikt. #gErhalte #gein #gneues #gbesonderes #gRelikt.",
+      "[Verlassen]"
+    ]
+  },
+  "Proceed Screen": {
+    "DESCRIPTIONS": [
+      "[Verlassen]"
+    ]
+  },
+  "Purifier": {
+    "NAME": "Schrein der Reinigung",
+    "DESCRIPTIONS": [
+      "Vor dir befindet sich ein kunstvoller Schrein, der einem vergessenen Geist gewidmet ist.",
+      "Als du ehrfürchtig auf die Knie sinkst, spürst du, wie dir eine Last von den Schultern genommen wird.",
+      "Du ignorierst den Schrein."
+    ],
+    "OPTIONS": [
+      "[Beten] #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
+      "[Verlassen]",
+      "Wähle eine Karte zum Entfernen."
+    ]
+  },
+  "Scrap Ooze": {
+    "NAME": "Schrottschlamm",
+    "DESCRIPTIONS": [
+      "Als du den Raum betrittst, hörst du ein ~Gurgeln~ und das Geräusch von @reibendem@ Metall. Vor dir befindet sich eine schleimartige Kreatur, die mehr Schrott gegessen hat, als gut für sie ist. Aus dem Inneren der Kreatur siehst du Licht schimmern - vielleicht etwas magisches? Es scheint, als könntest du ein paar #ySchätze bekommen, wenn du einfach in die... Öffnung greifst. Die Säure und scharfen Dinge könnten allerdings #rschmerzhaft sein.",
+      "#r@Autsch!@ NL Alles, was du findest, ist verrostetes Metall und ein bisschen #r@brennender@ #r@Schmerz.@ NL Du bist dennoch überzeugt, dass dort ein #yRelikt ist...",
+      "#gGeschafft! NL Nachdem du dich durch das Metall und die Säure gewühlt hast, bekommst du das #yRelikt zu fassen und kannst es herausziehen. NL Du ziehst dich aus dem Schlamm heraus, #rlädiert, aber auch belohnt.",
+      "Du entschließt dich, das Gebiet zu verlassen. NL Der Schleim ist unaufmerksam, da er mit seiner Mahlzeit zufrieden ist."
+    ],
+    "OPTIONS": [
+      "[Hineingreifen] #rVerliere #r",
+      " #rTP. #g",
+      "%: #gFinde #gein #gRelikt.",
+      "[Verlassen]",
+      "[Tiefer] #rVerliere #r"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Geheimes Portal",
+    "DESCRIPTIONS": [
+      "Vor dir erblickst du etwas, das fehl am Platze wirkt in der fremden Landschaft um dich herum. Seltsam in den lebenden Wänden des Jenseits platziert ist ein umschlossener Steineingang, ausgefüllt von einem #p~schwindelerregenden~ #p~magischen~ #p~Portal.~ NL NL Du bist dir nicht sicher, wo es hinführt, aber es könnte deine Reise durch den Spire beschleunigen.",
+      "Deine Wahrnemung von Raum und Zeit zerreißt komplett, als du durch das Portal springst. NL NL Als du dich in der neuen Umgebung zurechtfinden willst, wird dir klar, dass direkt vor dir ein fürchterlicher Kampf liegt.",
+      "Wachsamkeit und Vorsicht scheinen ein besserer Ansatz zu sein, um die Spitze des Spire zu erreichen. Du lässt das Portal links liegen und gehst weiter."
+    ],
+    "OPTIONS": [
+      "[Betrete das Portal] Bewege dich DIREKT zum Boss.",
+      "[Verlassen]"
+    ]
+  },
+  "SensoryStone": {
+    "NAME": "Sinnesstein",
+    "DESCRIPTIONS": [
+      "Als du durch das Jenseits wanderst, entdeckst du einen #bleuchtenden #bTesserakt, der sich sanft in der Luft @dreht@ und ~verändert.~ ",
+      "Du berührst ihn. NL NL Ein #r@scharfer@ #r@Schmerz@ durchfließt dich, gefolgt von lebhaften Blitzen einer fernen Erinnerung. NL ...wessen Erinnerungen sind das?",
+      "#r~ANGST.~ NL NL Eine dämonische Kreatur befindet sich über dir, ihre Flügel sind weit gespreizt, während sie in Gelächter aufheult. Tote Körper eines Stammes umgeben dich, als das Dorf von schrecklichen, #p~dunklen~ #p~Flammen~ verschlugen wird. NL NL Der Dämon ruft und verspottet dich. NL NL #r@\"DU@ #r@BIST@ #r@JETZT@ #r@WIRKLICH@ #r@DER@ #r@STÄRKSTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAA!!\"@  NL NL Dieses Gelächter hallt ewig wider... ",
+      "#g~TRIUMPH.~ NL NL Die Überreste einer #p~geisterhaften~ #p~Kreatur~ fällt langsam in den Schlamm vor dir, sie ist im Mondlicht kaum sichtbar. Du hast dich vor deinen Schwestern bewiesen. NL NL In der Siegespose wartest du still, während die Anderen dir zeremoniell den #ySchädel der #yKreatur auf deinen Kopf setzen. Das Ritual ist abgeschlossen. NL NL Du gehst in Richtung des Spire...",
+      "#b~UNBEKANNT.~ NL NL Noch nicht eingefügt."
+    ],
+    "OPTIONS": [
+      "[Erinnern] #gFüge #gdeinem #gDeck #g1 #gfarblose #gKarten #gzu.",
+      "[Erinnern] #gFüge #gdeinem #gDeck #g2 #gfarblose #gKarten #gzu. #rVerliere #r",
+      "[Erinnern] #gFüge #gdeinem #gDeck #g3 #gfarblose #gKarten #gzu. #rVerliere #r",
+      " #rTP.",
+      "[Verlassen]",
+      "[Interagieren]"
+    ]
+  },
+  "Shining Light": {
+    "NAME": "Leuchtender Schein",
+    "DESCRIPTIONS": [
+      "Du findest eine schimmernde #yBündelung #yvon #yLicht im Zentrum des Raumes. NL NL Sein ~warmes~ ~Leuchten~ und die ~verzaubernden~ ~Muster~ laden dich zu ihm ein.",
+      "Als du durch das Licht schreitest, bemerkst du, dass das Licht von dir absorbiert wird. NL Es ist #r@brennend@ #r@heiß@ ! Der Schmerz verschwindet jedoch schnell. NL Du fühlst dich #bbelebt, als hättest du einen wohlverdienten Klaps erhalten.",
+      "Du machst einen Bogen darum und fragst dich, was hätte geschehen können."
+    ],
+    "OPTIONS": [
+      "[Hindurchgehen] #gVerbessere #g2 #gzufällige #gKarten. #rVerliere #r",
+      " #rTP.",
+      "[Verlassen]",
+      "[Gesperrt] Benötigt: Verbesserbare Karten"
     ]
   },
   "Spire Heart": {
@@ -642,6 +540,26 @@
       "[Schlafen]"
     ]
   },
+  "The Cleric": {
+    "NAME": "Der Priester",
+    "DESCRIPTIONS": [
+      "Ein seltsamer blauer Humanoider mit einem goldenen Helm (?) nähert sich dir mit einem breiten Lächeln. NL @\"Hallo,@ @mein@ @Freund!@ Ich bin #bPriester! Bist du an meinen Diensten interessiert?!\", schreit die Kreatur laut.",
+      "Ein warmes goldenes Licht umhüllt deinen Körper und zerstreut sich. NL Die Kreatur grinst. \"Priester ist bester Heiler. @Einen@ @schönen@ @Tag@ @noch!\"@",
+      "Eine kalte blaue Flamme umhüllt deinen Körper und zerstreut sich. NL Die Kreatur grinst. \"Priester ist talentiert. @Einen@ @schönen@ @Tag@ @noch!\"@",
+      "Du traust diesem #b\"Priester\" nicht, also gehst du."
+    ],
+    "OPTIONS": [
+      "[Heilen] #y35 #yGold: #gHeile #g",
+      "[Gesperrt] Erfordert: ",
+      " Gold.",
+      "[Reinigen] #y",
+      " #yGold: #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
+      "[Gesperrt] Erfordert: 50 Gold.",
+      "[Verlassen]",
+      "Wähle eine Karte zum Entfernen.",
+      " #gTP."
+    ]
+  },
   "The Joust": {
     "NAME": "Der Tjost",
     "DESCRIPTIONS": [
@@ -660,7 +578,7 @@
       "[Mörder] #ySetze #y",
       " #yGold – #g70%: #gGewinne #g",
       " #gGold.",
-      "[Besitzer] #Setze #y",
+      "[Besitzer] #ySetze #y",
       " #yGold – #g30%: #gGewinne #g",
       "[Zusehen]",
       "[Verlassen]"
@@ -697,22 +615,19 @@
       "[Verlassen]"
     ]
   },
-  "Vampires": {
-    "NAME": "Vampire (?)",
+  "The Moai Head": {
+    "NAME": "Der Moai-Kopf",
     "DESCRIPTIONS": [
-      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Bruder,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~",
-      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Schwester,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~",
-      "Die große Gestalt ergreift deinen Arm, zieht dich heran und versenkt ihre Fangzähne in deinem Nacken. Du spürst, wie eine @dunkle@ @Kraft@ von deinem Nacken aus durch deinen Körper @strömt.@ NL ... NL Du erwachst einige Zeit später – allein. Ein starker ~Hunger~ wütet in deinem Bauch. Du #rbrauchst #rNahrung...",
-      "Du trittst zurück und hebst trotzig deine Waffe. Die große Gestalt seufzt. „Nun gut.“ Die gesamte Gruppe aus vermummten Gestalten verwandelt sich in einen dicken, schwarzen Nebel, der sich von dir entfernt. NL Du bist wieder allein.",
-      "Den blassen Gestalten stockt der Atem, als du die #yBlutphiole hervorholst. NL ~„Das~ ~Blut~ ~des~ ~Meisters~ ~...~ ~das~ ~Blut~ ~des~ ~Meisters!~ @DAS@ @BLUT@ @DES@ @MEISTERS!“@ NL Sie sprechen inbrünstig im Chor, während der Große sich vor dir verbeugt. „Trinke Sein Blut und werde eins mit #y~Ihm.“~ NL Sie rufen lauter, während du den Inhalt der Phiole trinkst. Deine Wahrnehmung ~verzerrt~ sich und du versinkst in die Dunkelheit. NL NL Du erwachst einige Zeit später – allein. Ein starker ~Hunger~ wütet in deinem Bauch. Du #rbrauchst #rNahrung.",
-      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Gebrochener,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~"
+      "Du stolperst über etwas, das *sehr* deplatziert wirkt. Vor dir erhebt sich ein enormer Steinkopf aus einem großen Mauerabschnitt, der sich nicht bewegt und verändert, wie alles andere hier. NL Der Mund des Kopfes ist weit geöffnet und zeigt große, einschüchternde Zähne, die von Blut rot befleckt sind. Die Oberfläche der Statue ist überzogen mit Piktogrammen, welche anscheinend Leute darstellen, die sich in den Mund dieses Kopfes werfen und verschlungen werden. Warum sollte jemand das tun?",
+      "Als du in den Mund der Statue trittst, geschieht zunächst nichts. Als du dir mehr als nur ein wenig dumm vorkommst, rasen plötzlich die riesigen Backenzähne herunter und zerschmettern dich. NL @Dunkelheit.@ NL Einige Zeit später siehst du einen Lichtschein in der Dunkelheit und hörst etwas, das du schließlich als das Geräusch steinerner Zähne erkennst, die sich langsam erheben. NL NL NL Du ziehst verwirrt von dannen.",
+      "Du machst einen kleinen Satz zurück, als die gigantischen Backenzähne auf den Götzen hinabsausen und ihn in den Staub pressen. Als sich die Zähne wieder heben, strömt #yGold aus der Öffnung und übergießt dich mit Reichtümern.",
+      "Du ziehst ab und fragst dich, was hätte geschehen können."
     ],
     "OPTIONS": [
-      "[Annehmen] #gEntferne #galle #gSchläge. #gErhalte #g5 #gBisskarten. #rVerliere #r",
-      "% #rder #rmax. #rTP.",
-      "[Ablehnen]",
-      "[Verliere ",
-      "] #gEntferne #galle #gSchläge. #gErhalte #g5 #gBisskarten.",
+      "[Hineinspringen] #gHeile #gTP #gkomplett. #rVerliere #r",
+      " #rmax #rTP.",
+      "[Opfern: Goldener Götze] #gErhalte #g333 #gGold. #rVerliere #rGoldenen #rGötzen.",
+      "[Gesperrt] Erfordert: Goldener Götze.",
       "[Verlassen]"
     ]
   },
@@ -733,52 +648,137 @@
       " #rSchaden."
     ]
   },
-  "SecretPortal": {
-    "NAME": "Geheimes Portal",
+  "Thinking with Puddles": {
+    "NAME": "Mit Pfützen denken",
     "DESCRIPTIONS": [
-      "Vor dir erblickst du etwas, das fehl am Platze wirkt in der fremden Landschaft um dich herum. Seltsam in den lebenden Wänden des Jenseits platziert ist ein umschlossener Steineingang, ausgefüllt von einem #p~schwindelerregenden~ #p~magischen~ #p~Portal.~ NL NL Du bist dir nicht sicher, wo es hinführt, aber es könnte deine Reise durch den Spire beschleunigen.",
-      "Deine Wahrnemung von Raum und Zeit zerreißt komplett, als du durch das Portal springst. NL NL Als du dich in der neuen Umgebung zurechtfinden willst, wird dir klar, dass direkt vor dir ein fürchterlicher Kampf liegt.",
-      "Wachsamkeit und Vorsicht scheinen ein besserer Ansatz zu sein, um die Spitze des Spire zu erreichen. Du lässt das Portal links liegen und gehst weiter."
+      "Du gehst durch eine schimmernde Pfütze... und stürzt plötzlich aus der Decke genau darüber! NL Im freien Fall wägst du deine Optionen ab.",
+      "Du schlägst in Panik wild um dich und entfesselst all deine geheimen Tricks, um dich nicht zu verletzen. Stattdessen fällst du in die Pfütze... wieder... und wieder. Es vergehen Tage, bevor dir klar wird, wie du entkommen kannst. Wirklich elend.",
+      "Du bereitest dich auf die Landung vor, aber man kann einfach nicht gut landen, wenn man aus einer so bizarren Falle geschleudert wird. @BUMMS@ NL NL ...du bleibst eine Weile liegen und verfluchst die Existenz von Pfützen – ob flüssig oder magisch."
     ],
     "OPTIONS": [
-      "[Betrete das Portal] Bewege dich DIREKT zum Boss.",
+      "[Genarrt] #Verliere #reine #rzufällige #rseltene #rKarte.",
+      "[Auf dem Gesicht landen] #rErleide #r",
+      " #rSchaden. #rWerde #rverflucht #r– #rVerletzung.",
       "[Verlassen]"
     ]
   },
-  "Ghosts": {
-    "NAME": "Rat der Geister",
+  "Tomb of Lord Red Mask": {
+    "NAME": "Grab des Herren der Roten Maske",
     "DESCRIPTIONS": [
-      "Beim weiteren Aufstieg beginnt #p~dicker~ #p~schwarzer~ #pRauch aus dem Boden und Wänden um dich herum zu quillen, welcher sich in drei maskierte Gestalten formt. NL NL ~\"Noch~ ~eine~ ~von~ #y~Niaus~ ~Puppen,~ ~glaube~ ~ich~.\"~ NL #r@\"JAWOHL!@ #r@SIE@ #r@KREIERT@ #r@IMMER@ #r@DIE@ #r@LUSTIGSTEN@ #r@SPIELZEUGE!\"@ NL NL Dir fällt ein riesiges Grinsen auf, als die dritte Gestalt dich anspricht. NL \"Ignoriere die anderen... Hättest du gern eine Kostprobe unserer #y~Kraft?\"~ ",
-      "",
-      "#y\"Exzellent!\" NL Als die Geisterfigur spricht, bemerkst du, wie ihr riesiger Mund sich weiter und weiter öffnet. #p~Dicker~ #p~schwarzer~ #p~Rauch~ quillt hervor und verhüllt den Raum. Du kannst weder sehen noch atmen... NL NL Gerade kurz bevor du ohnmächtig wirst, hört das Spektakel auf. NL NL Was auch immer diese Gestalten waren, jetzt sind sie fort. Du gehst weiter und fühlst dich eher #pleer...",
-      "\"Wie enttäuschend...\" NL ~\"Früher~ ~oder~ ~später~ ~wirst~ ~du~ ~uns~ ~beitreten.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Die Formen verblassen und hinterlassen nur das nervtötende Lachen in deinen Ohren.",
-      ""
+      "Auf der anderen Seite eines schwebenden Pfades ist ein reichlich verziertes Grab zu sehen. Als du das Grab erreichst, bemerkst du einen Schlitz für #yGoldmünzen, über dem eine Inschrift eingeritzt wurde.",
+      "Du setzt die Maske auf und das Grab beginnt zu ~zerbröckeln~ ~...~ ein geheimer Durchgang! NL NL Der Gang ist gefüllt mit zahllosen gestohlenen Dingen und Haufen von #yGold!",
+      "Eine Öffnung entsteht und es rutscht eine kleine rote Maske mit einer Notiz heraus. „Nimm von anderen, so wie ich von dir genommen habe!“"
     ],
     "OPTIONS": [
-      "[Akzeptieren] #gErhalte #g5 #gApparieren. #rVerliere #r",
-      "% #rMax #rTP.",
+      "[Die Rote Maske aufsetzen] #gErhalte #g222 #gGold.",
+      "[Gesperrt] Erfordert: Rote Maske.",
+      "[Opfern: ",
+      " Gold] #rVerliere #rgesamtes #rGold. #gErhalte #gein #gRelikt.",
+      "[Verlassen]"
+    ]
+  },
+  "Transmorgrifier": {
+    "NAME": "Schrein der Verwandlung",
+    "DESCRIPTIONS": [
+      "Vor dir befindet sich ein kunstvoller Schrein, der einem vergessenen Geist gewidmet ist.",
+      "Als dich die Macht des Schreins durchdringt, fühlt sich dein Verstand verändert an.",
+      "Du ignorierst den Schrein."
+    ],
+    "OPTIONS": [
+      "[Beten] #gTransformiere #geine #gKarte.",
+      "[Verlassen]",
+      "Wähle eine Karte zum Transformieren."
+    ]
+  },
+  "Upgrade Shrine": {
+    "NAME": "Schrein der Verbesserung",
+    "DESCRIPTIONS": [
+      "Vor dir befindet sich ein kunstvoller Schrein, der einem vergessenen Geist gewidmet ist.",
+      "Die Energie des Schreins durchdringt dich und macht dich stärker.",
+      "Du ignorierst den Schrein."
+    ],
+    "OPTIONS": [
+      "[Beten] #gVerbessere #geine #gKarte.",
+      "[Verlassen]",
+      "Wähle eine Karte zum Verbessern.",
+      "[Gesperrt] Benötigt: Verbesserbare Karten"
+    ]
+  },
+  "Vampires": {
+    "NAME": "Vampire (?)",
+    "DESCRIPTIONS": [
+      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Bruder,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~",
+      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Schwester,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~",
+      "Die große Gestalt ergreift deinen Arm, zieht dich heran und versenkt ihre Fangzähne in deinem Nacken. Du spürst, wie eine @dunkle@ @Kraft@ von deinem Nacken aus durch deinen Körper @strömt.@ NL ... NL Du erwachst einige Zeit später – allein. Ein starker ~Hunger~ wütet in deinem Bauch. Du #rbrauchst #rNahrung...",
+      "Du trittst zurück und hebst trotzig deine Waffe. Die große Gestalt seufzt. „Nun gut.“ Die gesamte Gruppe aus vermummten Gestalten verwandelt sich in einen dicken, schwarzen Nebel, der sich von dir entfernt. NL Du bist wieder allein.",
+      "Den blassen Gestalten stockt der Atem, als du die #yBlutphiole hervorholst. NL ~„Das~ ~Blut~ ~des~ ~Meisters~ ~...~ ~das~ ~Blut~ ~des~ ~Meisters!~ @DAS@ @BLUT@ @DES@ @MEISTERS!“@ NL Sie sprechen inbrünstig im Chor, während der Große sich vor dir verbeugt. „Trinke Sein Blut und werde eins mit #y~Ihm.“~ NL Sie rufen lauter, während du den Inhalt der Phiole trinkst. Deine Wahrnehmung ~verzerrt~ sich und du versinkst in die Dunkelheit. NL NL Du erwachst einige Zeit später – allein. Ein starker ~Hunger~ wütet in deinem Bauch. Du #rbrauchst #rNahrung.",
+      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Gebrochener,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~"
+    ],
+    "OPTIONS": [
+      "[Annehmen] #gEntferne #galle #gSchläge. #gErhalte #g5 #gBisskarten. #rVerliere #r",
+      "% #rder #rmax. #rTP.",
       "[Ablehnen]",
-      "",
-      "",
+      "[Verliere ",
+      "] #gEntferne #galle #gSchläge. #gErhalte #g5 #gBisskarten.",
       "[Verlassen]"
     ]
   },
-  "SensoryStone": {
-    "NAME": "Sinnesstein",
+  "Wheel of Change": {
+    "NAME": "Rad der Veränderung",
     "DESCRIPTIONS": [
-      "Als du durch das Jenseits wanderst, entdeckst du einen #bleuchtenden #bTesserakt, der sich sanft in der Luft @dreht@ und ~verändert.~ ",
-      "Du berührst ihn. NL NL Ein #r@scharfer@ #r@Schmerz@ durchfließt dich, gefolgt von lebhaften Blitzen einer fernen Erinnerung. NL ...wessen Erinnerungen sind das?",
-      "#r~ANGST.~ NL NL Eine dämonische Kreatur befindet sich über dir, ihre Flügel sind weit gespreizt, während sie in Gelächter aufheult. Tote Körper eines Stammes umgeben dich, als das Dorf von schrecklichen, #p~dunklen~ #p~Flammen~ verschlugen wird. NL NL Der Dämon ruft und verspottet dich. NL NL #r@\"DU@ #r@BIST@ #r@JETZT@ #r@WIRKLICH@ #r@DER@ #r@STÄRKSTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAA!!\"@  NL NL Dieses Gelächter hallt ewig wider... ",
-      "#g~TRIUMPH.~ NL NL Die Überreste einer #p~geisterhaften~ #p~Kreatur~ fällt langsam in den Schlamm vor dir, sie ist im Mondlicht kaum sichtbar. Du hast dich vor deinen Schwestern bewiesen. NL NL In der Siegespose wartest du still, während die Anderen dir zeremoniell den #ySchädel der #yKreatur auf deinen Kopf setzen. Das Ritual ist abgeschlossen. NL NL Du gehst in Richtung des Spire...",
-      "#b~UNBEKANNT.~ NL NL Noch nicht eingefügt."
+      "Du triffst auf einen adrett aussehenden, fröhlichen Gremlin. NL „Es ist an der Zeit, das Rad zu drehen! Bist du ~B~ ~E~ ~R~ ~E~ ~I~ ~T~~?~ Natürlich bist du das!“",
+      "„Du gewinnst etwas #yGold! NL YAY!!!!“",
+      "„Ah, ein #gGeschenk! NL Viel Spaß damit!“",
+      "„Oooh, eine kostenlose #gHeilung für dich!“",
+      "„Sieht aus, als hättest du einen #pFluch gewonnen! NL Das ist nicht gut. NL Naja! Nächstes Mal hast du mehr Glück!“",
+      "„Ooh, die Macht der #r~Dunkelheit~ ~...~“ NL Wähle eine Karte, die aus deinem Deck entfernt wird!",
+      "„Oh-oh! NL Du verlierst!“ NL Du bemerkst, wie er eine Klinge zieht...",
+      "Du schlägst nach dem verrückten Gremlin, aber er ist einfach zu schnell! NL Er trifft dich ein paar Mal mit einer groben Klinge. NL „Der Preis wurde bezahlt!!“ NL Damit verschwinden der Gremlin und das Rad in einer Rauchwolke."
     ],
     "OPTIONS": [
-      "[Erinnern] #gFüge #gdeinem #gDeck #g1 #gfarblose #gKarten #gzu.",
-      "[Erinnern] #gFüge #gdeinem #gDeck #g2 #gfarblose #gKarten #gzu. #rVerliere #r",
-      "[Erinnern] #gFüge #gdeinem #gDeck #g3 #gfarblose #gKarten #gzu. #rVerliere #r",
+      "[Spielen]",
+      "[Preis!] YAY!!!!",
+      "[Preis!] #gErhalte #gein #gRelikt.",
+      "[Preis!] #gKomplett #gheilen.",
+      "[Preis?] #rFluch #r– #rVerfall.",
+      "[Preis!] #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
+      "[Preis?] #rVerliere #r",
       " #rTP.",
       "[Verlassen]",
-      "[Interagieren]"
+      "Wähle eine Karte zum Entfernen."
+    ]
+  },
+  "Winding Halls": {
+    "NAME": "Gewundene Hallen",
+    "DESCRIPTIONS": [
+      "Während du deinen Weg über die grkrümmten Pfade fortsetzt, verläufst du dich immer wieder, da die Wände und der Boden sich unerklärlicherweise vor deinen Augen zu verschieben scheinen. Die ständig in deinem Hinterkopf flüsternden Stimmen helfen auch nicht gerade weiter.",
+      "An einem Gebilde, von dem du sicher bist, dass du es schon vorher gesehen hast, fängst du an, dich zu fragen, ob du den Verstand verlierst oder ob die unmögliche Geographie dieses Ortes dich langsam in die Irre führt. Du musst etwas ändern, und zwar schnell. Jedenfalls sagen das die Stimmen, und warum sollten sie lügen?",
+      "Etwas in dir zerbricht. Nur ein wahrhaft Verrückter kann einen Ort wie diesen verstehen, also gibst du den plappernden Stimmen nach und setzt deine Reise mit einem „neuen“ Blickwinkel fort. Alles scheint jetzt soviel mehr Sinn zu ergeben.",
+      "Als du einen Moment anhältst, um die hügelige Landschaft zu betrachten, meinst du plötzlich eine Art Muster in der Willkürlichkeit der Umgebung zu erkennen. Immer, wenn die verrückten Geräusche deine Gedanken zu stören beginnen, erträgst du den geistigen Schmerz und ignorierst sie. NL NL Nach eine Weile gelingt es dir, einen Weg nach vorn festzulegen, und du gehst weiter – fortan immun gegen die schändliche Natur dieses fremdartigen Ortes."
+    ],
+    "OPTIONS": [
+      "...",
+      "[Dem Wahnsinn hingeben] #gErhalte #g2 #gWahnsinn. #rVerliere #r",
+      " #rTP.",
+      "[Konzentrieren] #rWerde #rverflucht #r– #rLeid. #gHeile #g",
+      "[Verlassen]",
+      " #gTP."
+    ]
+  },
+  "World of Goop": {
+    "NAME": "Welt aus Schleim",
+    "DESCRIPTIONS": [
+      "Du fällst in eine Pfütze. NL @SIE@ @IST@ @AUS@ #g@KLEBRIGEM@ #g@SCHLEIM!!@ NL Verzweifelt kämpfst du dich mehrere Minuten lang frei, bis du spürst, dass der Schleim ein brennendes Gefühl verursacht. NL Du spürst Schleim in deinen Ohren, Schleim in deiner Nase, Schleim überall. NL NL Beim Herausklettern merkst du, dass etwas von deinem #yGold fehlt. Als du zurück in die Pfütze blickst, siehst du deine fehlenden Münzen zusammen mit dem #yGold anderer glückloser Abenteurer.",
+      "Du spürst das Brennen des Schleims, der nun langsam beginnt, deine Haut aufzulösen. Doch es gelingt dir, das #yGold herauszufischen.",
+      "Du entscheidest, dass die Sauerei es nicht wert ist."
+    ],
+    "OPTIONS": [
+      "[Gold sammeln] #gErhalte #g",
+      " #gGold. #rVerliere #r",
+      " #rTP.",
+      "[Zurücklassen] #rVerliere #r",
+      " #rGold.",
+      "[Verlassen]"
     ]
   }
 }

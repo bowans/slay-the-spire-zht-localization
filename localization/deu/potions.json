@@ -1,9 +1,29 @@
 {
+  "Ancient Potion": {
+    "NAME": "Uralter Trank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yArtefakt."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Angriffstrank",
+    "DESCRIPTIONS": [
+      "Erhalte einen zufälligen Angriff auf die Hand. Dieser kostet #b0 in diesem Zug."
+    ]
+  },
   "Block Potion": {
     "NAME": "Blocktrank",
     "DESCRIPTIONS": [
       "Erhalte #b",
       " #yBlock."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Bluttrank",
+    "DESCRIPTIONS": [
+      "Heile #b",
+      "% deiner max. TP."
     ]
   },
   "Dexterity Potion": {
@@ -30,11 +50,37 @@
       " Energie."
     ]
   },
+  "EntropicBrew": {
+    "NAME": "Chaos-Gebräu",
+    "DESCRIPTIONS": [
+      "Fülle deine leeren Trankslots mit zufälligen Tränken auf."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Stahlessenz",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yPanzerrüstung."
+    ]
+  },
   "Explosive Potion": {
     "NAME": "Explosivtrank",
     "DESCRIPTIONS": [
       "Verursache #b",
       " Schaden an ALLEN Gegnern."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Feenflasche",
+    "DESCRIPTIONS": [
+      "Anstatt zu sterben, werden #b10% deiner max. TP geheilt und dieser Trank verschwindet."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Angsttrank",
+    "DESCRIPTIONS": [
+      "Wende #b",
+      " #yVerwundbar an."
     ]
   },
   "Fire Potion": {
@@ -44,11 +90,45 @@
       " Schaden."
     ]
   },
+  "FocusPotion": {
+    "NAME": "Fokustrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yFokus"
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Fruchtsaft",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " max. TP."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Zocker-Gebräu",
+    "DESCRIPTIONS": [
+      "Wirf beliebig viele Karten ab, dann ziehe genauso viele."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Flaschengeist",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yImmateriell"
+    ]
+  },
   "Health Potion": {
     "NAME": "Gesundheitstrank",
     "DESCRIPTIONS": [
       "Heile #b",
       " TP."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Flüssige Bronze",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yStacheln."
     ]
   },
   "Poison Potion": {
@@ -65,12 +145,53 @@
       "Trankslot"
     ]
   },
+  "PowerPotion": {
+    "NAME": "Machttrank",
+    "DESCRIPTIONS": [
+      "Erhalte eine zufällige Macht auf die Hand. Diese kostet #b0 in diesem Zug."
+    ]
+  },
   "Regen Potion": {
     "NAME": "Regenerationstrank",
     "DESCRIPTIONS": [
       "Heile #b",
       " #yTP am Ende jedes Zuges für #b",
       " Züge."
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Fertigkeitstrank",
+    "DESCRIPTIONS": [
+      "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet #b0 in diesem Zug."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Rauchbombe",
+    "DESCRIPTIONS": [
+      "Fliehe aus einem Kampf. (Bosskämpfe ausgenommen) Erhalte keine Belohnungen."
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Snecko-Öl",
+    "DESCRIPTIONS": [
+      "Du wirst #yVerwirrt. Ziehe #b",
+      " Karten."
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Flinkheitstrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " Geschicklichkeit. Verliere am Ende deines Zuges #b",
+      " Geschicklichkeit."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Steroidetrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " Stärke. Verliere am Ende deines Zuges #b",
+      " Stärke."
     ]
   },
   "Strength Potion": {
@@ -93,127 +214,6 @@
     "DESCRIPTIONS": [
       "Wende #b",
       " #ySchwach an."
-    ]
-  },
-  "Ancient Potion": {
-    "NAME": "Uralter Trank",
-    "DESCRIPTIONS": [
-      "Erhalte #b",
-      " #yArtefakt."
-    ]
-  },
-  "Fruit Juice": {
-    "NAME": "Fruchtsaft",
-    "DESCRIPTIONS": [
-      "Erhalte #b",
-      " max. TP."
-    ]
-  },
-  "FearPotion": {
-    "NAME": "Angsttrank",
-    "DESCRIPTIONS": [
-      "Wende #b",
-      " #yVerwundbar an."
-    ]
-  },
-  "SkillPotion": {
-    "NAME": "Fertigkeitstrank",
-    "DESCRIPTIONS": [
-      "Füge eine zufällige Fertigkeitskarte deiner Hand hinzu. Sie kostet #b0."
-    ]
-  },
-  "AttackPotion": {
-    "NAME": "Angriffstrank",
-    "DESCRIPTIONS": [
-      "Füge eine zufällige Angriffskarte deiner Hand hinzu. Sie kostet #b0."
-    ]
-  },
-  "PowerPotion": {
-    "NAME": "Machttrank",
-    "DESCRIPTIONS": [
-      "Füge eine zufällige Machtkarte deiner Hand hinzu. Sie kostet #b0."
-    ]
-  },
-  "SteroidPotion": {
-    "NAME": "Steroidetrank",
-    "DESCRIPTIONS": [
-      "Erhalte #b",
-      " Stärke. Verliere am Ende deines Zuges #b",
-      " Stärke."
-    ]
-  },
-  "SpeedPotion": {
-    "NAME": "Flinkheitstrank",
-    "DESCRIPTIONS": [
-      "Erhalte #b",
-      " Geschicklichkeit. Verliere am Ende deines Zuges #b",
-      " Geschicklichkeit."
-    ]
-  },
-  "GhostInAJar": {
-    "NAME": "Flaschengeist",
-    "DESCRIPTIONS": [
-      "Erhalte #b",
-      " #yImmateriell"
-    ]
-  },
-  "FocusPotion": {
-    "NAME": "Fokustrank",
-    "DESCRIPTIONS": [
-      "Erhalte #b",
-      " #yFokus"
-    ]
-  },
-  "SneckoOil": {
-    "NAME": "Snecko-Öl",
-    "DESCRIPTIONS": [
-      "Ziehe #b",
-      "Karten. Du wirst #yVerwirrt."
-    ]
-  },
-  "LiquidBronze": {
-    "NAME": "Flüssige Bronze",
-    "DESCRIPTIONS": [
-      "Erhalte #b",
-      " #yStacheln."
-    ]
-  },
-  "GamblersBrew": {
-    "NAME": "Zocker-Gebräu",
-    "DESCRIPTIONS": [
-      "Wirf beliebig viele Karten ab, dann ziehe genauso viele."
-    ]
-  },
-  "EssenceOfSteel": {
-    "NAME": "Stahlessenz",
-    "DESCRIPTIONS": [
-      "Erhalte #b",
-      " #yPanzerrüstung."
-    ]
-  },
-  "BloodPotion": {
-    "NAME": "Bluttrank",
-    "DESCRIPTIONS": [
-      "Heile #b",
-      "% deiner max. TP."
-    ]
-  },
-  "FairyPotion": {
-    "NAME": "Feentrank",
-    "DESCRIPTIONS": [
-      "Anstatt zu sterben, werden #b10% deiner max. TP geheilt und dieser Trank verschwindet."
-    ]
-  },
-  "SmokeBomb": {
-    "NAME": "Rauchbombe",
-    "DESCRIPTIONS": [
-      "Fliehe aus einem Kampf (Bosskämpfe ausgenommen). Erhalte keine Belohnungen."
-    ]
-  },
-  "EntropicBrew": {
-    "NAME": "Chaos-Gebräu",
-    "DESCRIPTIONS": [
-      "Fülle deine leeren Trankslots mit zufälligen Tränken auf."
     ]
   }
 }

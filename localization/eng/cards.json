@@ -486,7 +486,12 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card."
+    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " card played.)",
+      " cards played.)"
+    ]
   },
   "Feed": {
     "NAME": "Feed",
@@ -508,9 +513,9 @@
     "NAME": "Finisher",
     "DESCRIPTION": "Deal !D! damage for each Attack played this turn.",
     "EXTENDED_DESCRIPTION": [
-      " NL (You have played ",
-      " Attack.)",
-      " Attacks.)"
+      " NL (",
+      " Attack played.)",
+      " Attacks played.)"
     ]
   },
   "Fire Breathing": {
@@ -586,7 +591,7 @@
   },
   "Glass Knife": {
     "NAME": "Glass Knife",
-    "DESCRIPTION": "Deal !D! damage twice. Glass Knife's damage is lowered by 2 this combat."
+    "DESCRIPTION": "Deal !D! damage twice. This card's damage is lowered by 2 this combat."
   },
   "Go for the Eyes": {
     "NAME": "Go for the Eyes",
@@ -1009,7 +1014,8 @@
   },
   "Seek": {
     "NAME": "Seek",
-    "DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "DESCRIPTION": "Choose !M! card from your draw pile and place it into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
   },
   "Self Repair": {
     "NAME": "Self Repair",
@@ -1075,10 +1081,10 @@
   },
   "Steam": {
     "NAME": "Steam",
-    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
+    "DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 2 this combat."
   },
   "Steam Power": {
-    "NAME": "Quick Search",
+    "NAME": "Overclock",
     "DESCRIPTION": "Draw !M! cards. NL Add a Burn into your discard pile."
   },
   "Storm": {

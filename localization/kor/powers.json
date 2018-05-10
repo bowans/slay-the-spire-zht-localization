@@ -894,10 +894,10 @@
     ]
   },
   "DexLoss": {
-    "NAME": "Dexterity Down",
+    "NAME": "민첩 감소",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
+      "턴 종료 시 #y민첩 을 #b",
+      " 잃습니다."
     ]
   }
 }

@@ -368,7 +368,7 @@
     ]
   },
   "Flex": {
-    "NAME": "フレックス",
+    "NAME": "筋力低下",
     "DESCRIPTIONS": [
       "ターン終了時、 #y筋力 #b",
       " を失う。"
@@ -659,7 +659,7 @@
     ]
   },
   "Thorns": {
-    "NAME": "棘",
+    "NAME": "トゲ",
     "DESCRIPTIONS": [
       "攻撃によるダメージを受けるたび、敵に #b",
       " の反撃ダメージを与える。"
@@ -894,10 +894,10 @@
     ]
   },
   "DexLoss": {
-    "NAME": "Dexterity Down",
+    "NAME": "敏捷性低下",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
+      "ターン終了時、 #y敏捷性 #b",
+      " を失う。"
     ]
   }
 }

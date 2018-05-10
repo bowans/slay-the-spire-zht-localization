@@ -1076,7 +1076,12 @@
   },
   "FTL": {
     "NAME": "Надсветлосном брзином",
-    "DESCRIPTION": "Задај !D! штете. Ако си одиграо мање од !M! карата овај потез, вуци једну карту."
+    "DESCRIPTION": "Задај !D! штете. Ако си одиграо мање од !M! карата овај потез, вуци једну карту.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " card played.)",
+      " cards played.)"
+    ]
   },
   "Echo Form": {
     "NAME": "Ехо форма",
@@ -1191,7 +1196,8 @@
   },
   "Seek": {
     "NAME": "Лоцирај",
-    "DESCRIPTION": "Изабери !M! карте из гомиле за вучење и стави их у руку. NL Исцрпи."
+    "DESCRIPTION": "Изабери !M! карте из гомиле за вучење и стави их у руку. NL Исцрпи.",
+    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
   },
   "Blaster": {
     "NAME": "Растурач",
