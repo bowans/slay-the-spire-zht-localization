@@ -982,7 +982,12 @@
   },
   "FTL": {
     "NAME": "超越光速",
-    "DESCRIPTION": "造成 !D! 點傷害。 如果你在這回合打出的牌數少於 !M! 張，抽一張牌。"
+    "DESCRIPTION": "造成 !D! 點傷害。 如果你在這回合打出的牌數少於 !M! 張，抽一張牌。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " card played.)",
+      " cards played.)"
+    ]
   },
   "Barrage": {
     "NAME": "彈幕齊射",
@@ -1213,7 +1218,8 @@
   },
   "Seek": {
     "NAME": "搜尋",
-    "DESCRIPTION": "從抽牌堆中選擇 !M! 張牌放入你的手牌。 NL 消耗 。"
+    "DESCRIPTION": "從抽牌堆中選擇 !M! 張牌放入你的手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
   },
   "Echo Form": {
     "NAME": "迴響形態",
