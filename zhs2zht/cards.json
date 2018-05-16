@@ -1079,8 +1079,8 @@
     "DESCRIPTION": "對所有敵人造成 !D! 點傷害。 NL 抽 !M! 張牌。"
   },
   "Undo": {
-    "NAME": "撤銷",
-    "DESCRIPTION": "將你的生命值變為上回合開始時的數值。 NL 消耗 。"
+    "NAME": "均衡",
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 在本回合保留你的手牌。"
   },
   "Doom and Gloom": {
     "NAME": "愁雲慘澹",
@@ -1129,7 +1129,7 @@
   },
   "Hologram": {
     "NAME": "全息影像",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將棄牌堆中的一張隨機牌放入你的手牌。",
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將棄牌堆中的一張牌放入你的手牌。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將棄牌堆中的一張牌放入你的手牌。"
   },
   "Blaster": {
@@ -1236,7 +1236,8 @@
   },
   "Loop": {
     "NAME": "迴圈",
-    "DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力。"
+    "DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力。",
+    "UPGRADE_DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力 !M! 次。"
   },
   "Hello World": {
     "NAME": "你好，世界",
@@ -1269,6 +1270,11 @@
   },
   "Steam": {
     "NAME": "蒸汽護壁",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。這張牌每被打出一次，它在本場戰鬥中的基礎 格擋 下降2。"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。這張牌每被打出一次，它在本場戰鬥中的基礎 格擋 下降1。"
+  },
+  "Electrodynamics": {
+    "NAME": "電動力學",
+    "DESCRIPTION": "閃電 充能球將攻擊所有敵人。",
+    "UPGRADE_DESCRIPTION": "閃電 充能球將攻擊所有敵人。 NL 如果只有一名敵人， 閃電 充能球將攻擊兩次。"
   }
 }
