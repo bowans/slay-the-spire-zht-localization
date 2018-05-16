@@ -645,14 +645,14 @@
     "NAME": "轉經輪",
     "FLAVOR": "經輪一直轉動，永遠不停。",
     "DESCRIPTIONS": [
-      "非首領寶箱現在也掉落卡牌。"
+      "普通敵人多掉落一次卡牌獎勵。"
     ]
   },
   "Question Card": {
     "NAME": "問號牌",
     "FLAVOR": "「選擇多，則不受其亂。」——忽必烈大帝",
     "DESCRIPTIONS": [
-      "在選獎勵牌時，可供選擇的牌數增加 #b1 張。"
+      "在選獎勵牌時，可供選擇的牌數增加 #b1 張。（拾起時同一視窗中的獎勵牌不受影響）"
     ]
   },
   "Red Circlet": {
@@ -1148,18 +1148,18 @@
     ]
   },
   "Potion Belt": {
-    "NAME": "Potion Belt",
-    "FLAVOR": "I can hold more Potions using this belt!",
+    "NAME": "藥水腰帶",
+    "FLAVOR": "穿上這條腰帶，我就能攜帶更多藥水！",
     "DESCRIPTIONS": [
-      "Upon pick up, gain #b1 Potion slot."
+      "拾起時，獲得 #b1 個藥水欄位。"
     ]
   },
   "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "NAME": "發條靴",
+    "FLAVOR": "擰動發條會讓這只靴子變得更大。",
     "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked #yAttack damage, increase it to #b5."
+      "每當你造成小於等於 #b",
+      " 點未被格擋的 #y攻擊 傷害時，將傷害提升為 #b5 。"
     ]
   }
 }
