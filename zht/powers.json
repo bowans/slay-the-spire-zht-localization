@@ -484,8 +484,8 @@
     "NAME": "再生",
     "DESCRIPTIONS": [
       "在你的回合結束時回復 #b",
-      " 點 #y生命 ，效果持續 #b",
-      " 回合。"
+      " 點 #y生命 ，然後將 #y再生 層數減少 #b1 。",
+      ""
     ]
   },
   "Life Link": {
@@ -865,8 +865,8 @@
     "NAME": "迴圈",
     "DESCRIPTIONS": [
       "在你的回合開始時，使用你最右側充能球的被動能力。",
-      "在你的回合開始時，使用你最右側 #b",
-      " 個充能球的被動能力。"
+      "在你的回合開始時，使用你最右側充能球的被動能力 #b",
+      " 次。"
     ]
   },
   "Primitive": {
@@ -901,19 +901,19 @@
     ]
   },
   "Electro": {
-    "NAME": "Electro",
+    "NAME": "電動力學",
     "DESCRIPTIONS": [
-      "#yLightning hits ALL enemies.",
-      " NL If there is only #b1 enemy, #yLightning hits #b",
-      " times."
+      "#y閃電 會攻擊所有敵人。",
+      " NL 如果只有 #b1 名敵人， #y閃電 將攻擊 #b",
+      " 次。"
     ]
   },
   "Equilibrium": {
-    "NAME": "Equilibrium",
+    "NAME": "均衡",
     "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
+      "在本回合保留你的手牌。",
+      "在接下來 #b",
+      " 回合保留你的手牌。"
     ]
   }
 }
