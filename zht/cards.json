@@ -1236,7 +1236,8 @@
   },
   "Loop": {
     "NAME": "迴圈",
-    "DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力。"
+    "DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力。",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Hello World": {
     "NAME": "你好，世界",
@@ -1270,5 +1271,10 @@
   "Steam": {
     "NAME": "蒸汽護壁",
     "DESCRIPTION": "獲得 !B! 點 格擋 。這張牌每被打出一次，在本場戰鬥中的其基礎 格擋 下降2點。"
+  },
+  "Electrodynamics": {
+    "NAME": "Electrodynamics",
+    "DESCRIPTION": "Lightning now hits ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
   }
 }
