@@ -64,7 +64,7 @@
     "DESCRIPTION": "Wenn du 0 Block hast, erhalte !B! Block."
   },
   "Axe Kick": {
-    "NAME": "Axt-Kick",
+    "NAME": "Axttritt",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Entlade deinen vordersten Orb."
   },
   "Backflip": {
@@ -151,7 +151,7 @@
     "UPGRADE_DESCRIPTION": "Erhalte [R] [R]. NL Du verlierst 3 TP."
   },
   "Bludgeon": {
-    "NAME": "Hämmern",
+    "NAME": "Knüppeln",
     "DESCRIPTION": "Füge !D! Schaden zu."
   },
   "Blur": {
@@ -285,7 +285,7 @@
     "DESCRIPTION": "Erhalte !B! Block. NL Energie wird für den nächsten Zug aufgespeichert."
   },
   "Consume": {
-    "NAME": "Verbrauchen",
+    "NAME": "Konsumieren",
     "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere 1 Orb-Slot."
   },
   "Coolheaded": {
@@ -440,6 +440,11 @@
     "DESCRIPTION": "In jedem Zug wird die erste gespielte Karte zweimal gespielt. NL Flüchtig.",
     "UPGRADE_DESCRIPTION": "In jedem Zug wird die erste gespielte Karte zweimal gespielt."
   },
+  "Electrodynamics": {
+    "NAME": "Elektrodynamik",
+    "DESCRIPTION": "Blitze treffen jetzt ALLE Gegner.",
+    "UPGRADE_DESCRIPTION": "Blitze treffen jetzt ALLE Gegner. NL Bei nur einem Gegner treffen Blitze ein weiteres Mal."
+  },
   "Endless Agony": {
     "NAME": "Endlose Qual",
     "DESCRIPTION": "Immer wenn du diese Karte ziehst, erhalte ein weiteres Exemplar auf die Hand. NL Füge !D! Schaden zu. NL Erschöpft."
@@ -489,8 +494,8 @@
     "DESCRIPTION": "Füge !D! Schaden zu. Wenn du diesen Zug weniger als !M! Karten ausgepielt hast, NL ziehe 1 Karte.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
-      " card played.)",
-      " cards played.)"
+      " Karte gespielt.)",
+      " Karten gespielt.)"
     ]
   },
   "Feed": {
@@ -513,7 +518,7 @@
     "NAME": "Vollstrecker",
     "DESCRIPTION": "Füge für jeden in diesem Zug gespielten Angriff !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Du hast ",
+      " NL (",
       " Angriff gespielt.)",
       " Angriffe gespielt.)"
     ]
@@ -642,8 +647,8 @@
   },
   "Hologram": {
     "NAME": "Hologramm",
-    "DESCRIPTION": "Erhalte !B! Block. NL Nimm eine zufällige Karte des Abwurfstapels wieder auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Nimm eine Karte des Abwurfstapels wieder auf die Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Nimm eine Karte des Abwurfstapels zurück auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Nimm eine Karte des Abwurfstapels zurück auf die Hand."
   },
   "Hyperbeam": {
     "NAME": "Hyperstrahl",
@@ -714,7 +719,7 @@
     "DESCRIPTION": "Wende !M! Schwach an. NL Erhalte !B! Block."
   },
   "Limit Break": {
-    "NAME": "Limitbrecher",
+    "NAME": "Ekstase",
     "DESCRIPTION": "Verdoppele deine Stärke. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Verdoppele deine Stärke."
   },
@@ -724,7 +729,8 @@
   },
   "Loop": {
     "NAME": "Schleife",
-    "DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs."
+    "DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs.",
+    "UPGRADE_DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs !M! mal."
   },
   "Machine Learning": {
     "NAME": "Lernende Maschine",
@@ -892,7 +898,7 @@
     "DESCRIPTION": "Nicht mehr verwendet."
   },
   "Pummel": {
-    "NAME": "Knüppeln",
+    "NAME": "Prügeln",
     "DESCRIPTION": "Füge !M! mal NL !D! Schaden zu. NL Erschöpft."
   },
   "Purity": {
@@ -961,7 +967,7 @@
     "DESCRIPTION": "Wenn ein Gegner nicht beabsichtigt anzugreifen, NL erhalte !M! Fokus."
   },
   "Reprogram": {
-    "NAME": "Neuprogrammieren",
+    "NAME": "Umprogrammieren",
     "DESCRIPTION": "Schau die obersten !M! Karten des Nachziehstapels an. Wirf beliebig viele davon ab."
   },
   "Riddle With Holes": {
@@ -1014,8 +1020,8 @@
   },
   "Seek": {
     "NAME": "Suchen",
-    "DESCRIPTION": "Wähle !M! Karten aus dem Nachziehstapel. Nimm sie auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "DESCRIPTION": "Wähle !M! Karte aus dem Nachziehstapel. Nimm sie auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle !M! Karten aus dem Nachziehstapel. Nimm sie auf die Hand. NL Erschöpft."
   },
   "Self Repair": {
     "NAME": "Auto-Reparatur",
@@ -1068,8 +1074,8 @@
   },
   "Stack": {
     "NAME": "Stapeln",
-    "DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel.",
+    "DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel.",
+    "UPGRADE_DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel +3.",
     "EXTENDED_DESCRIPTION": [
       " NL (Erhalte !B! Block.)"
     ]
@@ -1080,11 +1086,11 @@
     "UPGRADE_DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, NL erschaffe !M! Blitze."
   },
   "Steam": {
-    "NAME": "Dampf",
-    "DESCRIPTION": "Erhalte !B! Block. Der Block dieser Karte wird für diesen Kampf um 2 verringert."
+    "NAME": "Dampfwall",
+    "DESCRIPTION": "Erhalte !B! Block. Der Block dieser Karte wird für diesen Kampf um 1 verringert."
   },
   "Steam Power": {
-    "NAME": "Schnellsuche",
+    "NAME": "Übertakten",
     "DESCRIPTION": "Ziehe !M! Karten. NL Erhalte ein Brennen auf den Abwurfstapel."
   },
   "Storm": {
@@ -1210,8 +1216,8 @@
     ]
   },
   "Undo": {
-    "NAME": "Zurücksetzen",
-    "DESCRIPTION": "Setze deine TP auf ihren Wert vom letzten Zug. NL Erschöpft."
+    "NAME": "Ausgeglichenheit",
+    "DESCRIPTION": "Erhalte !B! Block. NL Behalte deine Hand in diesem Zug."
   },
   "Unload": {
     "NAME": "Entlasten",

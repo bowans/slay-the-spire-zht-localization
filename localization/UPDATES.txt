@@ -1,5 +1,69 @@
 Updates for Translators!
 
+05/15/2018:
+relics.json
+	"Boot"
+	"Prayer Wheel"
+achievements.json
+	"Common Sense"
+
+----------------------------------
+
+05/14/2018:
+potions.json
+	"Regen Potion"
+powers.json
+	"Regeneration"
+		NAME and DESCRIPTION
+	"Equilibrium"
+ui.json
+	"RunHistoryPathNodes"
+cards.json
+	"Undo"
+		Is now a card called Equilibrium
+	"Hologram"
+		Minor rework
+
+----------------------------------
+
+05/11/2018:
+ui.json
+	"RunHistoryPathNodes"
+		"Picked %s" -> "Picked:
+cards.json
+	"Electrodynamics"
+	"Steam"
+		"DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 2 this combat." ->
+		"DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 1 this combat."
+		"Steam" ->
+		"Steam Barrier"
+	"Loop"
+		"DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb." ->
+		"DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb.",
+		"UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
+powers.json
+	"Electro"
+	"Loop"
+		"At the start of your turn, use the passive ability of your next #b",
+		" Orbs." ->
+		"At the start of your turn, use the passive ability of your next Orb #b",
+		" times."
+relics.json
+	"Potion Belt"
+
+----------------------------------
+
+05/10/2018:
+ui.json
+	"LanguageDropdown"
+		"Catalan"
+credits.json
+	"LOC_CAT"
+	"LOC_UKR"
+	"LOC_DEU"
+
+----------------------------------
+
 05/09/2018:
 cards.json
 	"Glass Knife"

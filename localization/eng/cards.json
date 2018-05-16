@@ -440,6 +440,11 @@
     "DESCRIPTION": "The first card you play each turn is played twice. NL Ethereal.",
     "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
+  "Electrodynamics": {
+    "NAME": "Electrodynamics",
+    "DESCRIPTION": "Lightning now hits ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
+  },
   "Endless Agony": {
     "NAME": "Endless Agony",
     "DESCRIPTION": "Whenever you draw this card, add a copy of it to your hand. NL Deal !D! damage. NL Exhaust."
@@ -642,7 +647,7 @@
   },
   "Hologram": {
     "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a random card from your discard pile to your hand.",
+    "DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
   },
   "Hyperbeam": {
@@ -724,7 +729,8 @@
   },
   "Loop": {
     "NAME": "Loop",
-    "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
+    "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb.",
+	"UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
@@ -1080,8 +1086,8 @@
     "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Steam": {
-    "NAME": "Steam",
-    "DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 2 this combat."
+    "NAME": "Steam Barrier",
+    "DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 1 this combat."
   },
   "Steam Power": {
     "NAME": "Overclock",
@@ -1210,8 +1216,8 @@
     ]
   },
   "Undo": {
-    "NAME": "Undo",
-    "DESCRIPTION": "Set your HP to what it was last turn. NL Exhaust."
+    "NAME": "Equilibrium",
+    "DESCRIPTION": "Gain !B! Block. NL Retain your hand this turn."
   },
   "Unload": {
     "NAME": "Unload",

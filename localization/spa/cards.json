@@ -1236,7 +1236,8 @@
   },
   "Loop": {
     "NAME": "Bucle",
-    "DESCRIPTION": "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe."
+    "DESCRIPTION": "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Hello World": {
     "NAME": "Hola Mundo",
@@ -1270,5 +1271,10 @@
   "Steam": {
     "NAME": "Steam",
     "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
+  },
+  "Electrodynamics": {
+    "NAME": "Electrodynamics",
+    "DESCRIPTION": "Lightning now hits ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
   }
 }

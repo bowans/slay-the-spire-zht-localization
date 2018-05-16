@@ -1079,8 +1079,8 @@
     "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 抽 !M! 张牌。"
   },
   "Undo": {
-    "NAME": "撤消",
-    "DESCRIPTION": "将你的生命值变为上回合开始时的数值。 NL 消耗 。"
+    "NAME": "均衡",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 在本回合保留你的手牌。"
   },
   "Doom and Gloom": {
     "NAME": "愁云惨淡",
@@ -1129,7 +1129,7 @@
   },
   "Hologram": {
     "NAME": "全息影像",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 将弃牌堆中的一张随机牌放入你的手牌。",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 将弃牌堆中的一张牌放入你的手牌。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 将弃牌堆中的一张牌放入你的手牌。"
   },
   "Blaster": {
@@ -1236,7 +1236,8 @@
   },
   "Loop": {
     "NAME": "循环",
-    "DESCRIPTION": "在你的回合开始时，使用你最右侧的1个充能球的被动能力。"
+    "DESCRIPTION": "在你的回合开始时，使用你最右侧的1个充能球的被动能力。",
+    "UPGRADE_DESCRIPTION": "在你的回合开始时，使用你最右侧的1个充能球的被动能力 !M! 次。"
   },
   "Hello World": {
     "NAME": "你好，世界",
@@ -1269,6 +1270,11 @@
   },
   "Steam": {
     "NAME": "蒸汽护壁",
-    "DESCRIPTION": "获得 !B! 点 格挡 。这张牌每被打出一次，它在本场战斗中的基础 格挡 下降2。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。这张牌每被打出一次，它在本场战斗中的基础 格挡 下降1。"
+  },
+  "Electrodynamics": {
+    "NAME": "电动力学",
+    "DESCRIPTION": "闪电 充能球将攻击所有敌人。",
+    "UPGRADE_DESCRIPTION": "闪电 充能球将攻击所有敌人。 NL 如果只有一名敌人， 闪电 充能球将攻击两次。"
   }
 }

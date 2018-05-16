@@ -1236,7 +1236,8 @@
   },
   "Loop": {
     "NAME": "반복",
-    "DESCRIPTION": "턴 시작 시 가장 오른쪽 구체의 지속 효과를 발동시킵니다."
+    "DESCRIPTION": "턴 시작 시 가장 오른쪽 구체의 지속 효과를 발동시킵니다.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Hello World": {
     "NAME": "Hello World",
@@ -1270,5 +1271,10 @@
   "Steam": {
     "NAME": "증기",
     "DESCRIPTION": "방어도 를 !B! 얻습니다. 이번 전투동안 증기 카드로 얻는 방어도가 2 감소합니다."
+  },
+  "Electrodynamics": {
+    "NAME": "Electrodynamics",
+    "DESCRIPTION": "Lightning now hits ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
   }
 }

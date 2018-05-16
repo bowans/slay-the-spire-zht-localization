@@ -38,7 +38,7 @@
   },
   "Glass Knife": {
     "NAME": "玻璃刀刃",
-    "DESCRIPTION": "造成 !D! 點傷害兩次。 玻璃刀刃 在本場戰鬥中造成的傷害減少2點。"
+    "DESCRIPTION": "造成 !D! 點傷害兩次。 這張牌每被打出一次，在本場戰鬥中其基礎傷害減少2點。"
   },
   "Cloak And Dagger": {
     "NAME": "斗篷與匕首",
@@ -933,7 +933,7 @@
     "DESCRIPTION": "造成 !D! 點傷害。 生成 !M! 個 冰霜 充能球。"
   },
   "Overclock": {
-    "NAME": "超頻",
+    "NAME": "超頻（棄用）",
     "DESCRIPTION": "Deprecated.",
     "UPGRADE_DESCRIPTION": "Deprecated."
   },
@@ -984,9 +984,9 @@
     "NAME": "超越光速",
     "DESCRIPTION": "造成 !D! 點傷害。 如果你在這回合打出的牌數少於 !M! 張，抽一張牌。",
     "EXTENDED_DESCRIPTION": [
-      " NL (",
-      " card played.)",
-      " cards played.)"
+      " NL （已打出",
+      " 張牌。）",
+      " 張牌。）"
     ]
   },
   "Barrage": {
@@ -1037,7 +1037,7 @@
     "DESCRIPTION": "Deprecated."
   },
   "Steam Power": {
-    "NAME": "超頻計算",
+    "NAME": "超頻",
     "DESCRIPTION": "抽 !M! 張牌。 NL  將一張 灼傷 放入你的棄牌堆中。"
   },
   "Reprogram": {
@@ -1219,7 +1219,7 @@
   "Seek": {
     "NAME": "搜尋",
     "DESCRIPTION": "從抽牌堆中選擇 !M! 張牌放入你的手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇 !M! 張牌放入你的手牌。 NL 消耗 。"
   },
   "Echo Form": {
     "NAME": "迴響形態",
@@ -1236,7 +1236,8 @@
   },
   "Loop": {
     "NAME": "迴圈",
-    "DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力。"
+    "DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力。",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Hello World": {
     "NAME": "你好，世界",
@@ -1269,6 +1270,11 @@
   },
   "Steam": {
     "NAME": "蒸汽護壁",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。這張牌每被打出一次，它在本場戰鬥中的 格擋 下降2。"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。這張牌每被打出一次，在本場戰鬥中的其基礎 格擋 下降2點。"
+  },
+  "Electrodynamics": {
+    "NAME": "Electrodynamics",
+    "DESCRIPTION": "Lightning now hits ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
   }
 }

@@ -899,5 +899,21 @@
       "At the end of your turn, lose #b",
       " #yDexterity."
     ]
+  },
+  "Electro": {
+    "NAME": "Electro",
+    "DESCRIPTIONS": [
+      "#yLightning hits ALL enemies.",
+      " NL If there is only #b1 enemy, #yLightning hits #b",
+      " times."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
+    ]
   }
 }

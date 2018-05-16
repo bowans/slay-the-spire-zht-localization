@@ -1146,5 +1146,20 @@
     "DESCRIPTIONS": [
       "At the start of each combat, #yChannel #b1 #yDark."
     ]
+  },
+  "Potion Belt": {
+    "NAME": "Potion Belt",
+    "FLAVOR": "I can hold more Potions using this belt!",
+    "DESCRIPTIONS": [
+      "Upon pick up, gain #b1 Potion slot."
+    ]
+  },
+  "Boot": {
+    "NAME": "The Boot",
+    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "DESCRIPTIONS": [
+      "Whenever you would deal #b",
+      " or less unblocked #yAttack damage, increase it to #b5."
+    ]
   }
 }

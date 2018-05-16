@@ -1,7 +1,27 @@
 {
+  "Allstar": {
+    "NAME": "I Migliori",
+    "DESCRIPTION": "Cominci la partita con 5 carte incolore casuali."
+  },
+  "Binary": {
+    "NAME": "Binario",
+    "DESCRIPTION": "Quando ottieni una carta, scegli fra 2 invece che 3."
+  },
+  "Brewmaster": {
+    "NAME": "Alchimista",
+    "DESCRIPTION": "Cominci la partita con 5 copie di Alchimia e la Statua della Bestia Bianca."
+  },
   "Cursed Run": {
     "NAME": "Partita Maledetta",
     "DESCRIPTION": "Quando sconfiggi un Boss vieni Maledetto. La tua reliquia iniziale viene sostituita da: Chiave Maledetta, Amuleto Pietrascura e Bambola Du-Vu."
+  },
+  "Diverse": {
+    "NAME": "Differente",
+    "DESCRIPTION": "Puoi ottenere carte di altre classi."
+  },
+  "Draft": {
+    "NAME": "Draft",
+    "DESCRIPTION": "Ad inizio partita scegli 15 carte per costruire il tuo mazzo iniziale."
   },
   "Elite Swarm": {
     "NAME": "Sciame di Elite",
@@ -11,41 +31,33 @@
     "NAME": "Eredità",
     "DESCRIPTION": "Cominci la partita con una reliquia Rara."
   },
-  "Lethality": {
-    "NAME": "Nemici Mortali",
-    "DESCRIPTION": "Cominci ogni combattimento con 3 di Forza in più. Tutti i nemici partono con 3 di Forza."
-  },
-  "Night Terrors": {
-    "NAME": "Incubi",
-    "DESCRIPTION": "Riposare ti cura del 100% dei tuoi PV, ma costa 5 PV massimi."
+  "Hoarder": {
+    "NAME": "Hoarder",
+    "DESCRIPTION": "Ogni volta che aggiungi una carta al mazzo, ne aggiungi anche altre due copie. Il mercante non ti permette di rimuovere carte."
   },
   "Insanity": {
     "NAME": "Pazzia",
     "DESCRIPTION": "Cominci la partita con un mazzo di 50 carte casuali."
   },
-  "Shiny": {
-    "NAME": "Luccichio",
-    "DESCRIPTION": "Il tuo mazzo iniziale è composto da 1 copia di ogni carta rara."
-  },
-  "Allstar": {
-    "NAME": "I Migliori",
-    "DESCRIPTION": "Cominci la partita con 5 carte incolore casuali."
-  },
-  "Diverse": {
-    "NAME": "Differente",
-    "DESCRIPTION": "Puoi ottenere carte di altre classi."
-  },
-  "Uncertain Future": {
-    "NAME": "Futuro Certo",
-    "DESCRIPTION": "C'è solo una strada percorribile sulla mappa."
-  },
-  "Binary": {
-    "NAME": "Binario",
-    "DESCRIPTION": "Quando ottieni una carta, scegli fra 2 invece che 3."
+  "Lethality": {
+    "NAME": "Nemici Mortali",
+    "DESCRIPTION": "Cominci ogni combattimento con 3 di Forza in più. Tutti i nemici partono con 3 di Forza."
   },
   "Midas": {
     "NAME": "Re Mida",
     "DESCRIPTION": "I nemici garantiscono il #b200% #yd'Oro in più ma non puoi più Potenziare carte ai Falò."
+  },
+  "Night Terrors": {
+    "NAME": "Incubi",
+    "DESCRIPTION": "Riposare ti cura del 100% dei tuoi PV, ma costa 5 PV massimi."
+  },
+  "Shiny": {
+    "NAME": "Luccichio",
+    "DESCRIPTION": "Il tuo mazzo iniziale è composto da 1 copia di ogni carta rara."
+  },
+  "Specialized": {
+    "NAME": "Specialista",
+    "DESCRIPTION": "Cominci la partita con 5 copie di una carta rara."
   },
   "Terminal": {
     "NAME": "Terminale",
@@ -55,24 +67,12 @@
     "NAME": "Dilatazione Temporale",
     "DESCRIPTION": "I nemici che incontri hanno il debuff Lento."
   },
-  "Hoarder": {
-    "NAME": "Hoarder",
-    "DESCRIPTION": "Ogni volta che aggiungi una carta al mazzo, ne aggiungi anche altre due copie. Il mercante non ti permette di rimuovere carte."
+  "Uncertain Future": {
+    "NAME": "Futuro Certo",
+    "DESCRIPTION": "C'è solo una strada percorribile sulla mappa."
   },
   "Vintage": {
     "NAME": "Vintage",
     "DESCRIPTION": "I nemici Normali offrono reliquie invece che carte."
-  },
-  "Draft": {
-    "NAME": "Draft",
-    "DESCRIPTION": "Ad inizio partita scegli 15 carte per costruire il tuo mazzo iniziale."
-  },
-  "Specialized": {
-    "NAME": "Specialista",
-    "DESCRIPTION": "Cominci la partita con 5 copie di una carta rara."
-  },
-  "Brewmaster": {
-    "NAME": "Alchimista",
-    "DESCRIPTION": "Cominci la partita con 5 copie di Alchimia e la Statua della Bestia Bianca."
   }
 }

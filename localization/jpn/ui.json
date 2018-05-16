@@ -82,9 +82,14 @@
       "#r%s ターン",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yゴールド",
-      "%s を選択",
+      "選択：",
       "スキップ:",
-      "Missing Info"
+      "Missing Info",
+      "+2 Max HP",
+      "#bC ",
+      "#bR ",
+      "#bP ",
+      "#bS "
     ]
   },
   "LeaderboardsScreen": {
@@ -142,7 +147,8 @@
       "Ukrainian",
       "Vietnamese",
       "Hungarian",
-      "Serbian (Latin)"
+      "Serbian (Latin)",
+      "Catalan"
     ]
   },
   "Proceed Button": {

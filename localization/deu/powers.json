@@ -276,6 +276,14 @@
       " in deinem Zug gespielten Karten werden zweimal gespielt."
     ]
   },
+  "Electro": {
+    "NAME": "Elektro",
+    "DESCRIPTIONS": [
+      "#yBlitze treffen ALLE Gegner.",
+      " NL Bei nur #b1 Gegner treffen #yBlitze #b",
+      " mal."
+    ]
+  },
   "Energized": {
     "NAME": "Energiegeladen",
     "DESCRIPTIONS": [
@@ -296,6 +304,14 @@
     "DESCRIPTIONS": [
       "Immer wenn du #yAngriffsschaden verursachst, wende #b",
       " #yGift an."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Ausgeglichen",
+    "DESCRIPTIONS": [
+      "Behalte deine Hand in diesem Zug.",
+      "Behalte deine Hand für #b",
+      " Züge."
     ]
   },
   "Evolve": {
@@ -485,8 +501,8 @@
     "NAME": "Schleife",
     "DESCRIPTIONS": [
       "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs.",
-      "Nutze zu Beginn deines Zuges die passive Fähigkeit deiner #b",
-      " vordersten Orbs."
+      "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs #b",
+      " mal."
     ]
   },
   "Machine Learning": {
@@ -665,11 +681,11 @@
     ]
   },
   "Regeneration": {
-    "NAME": "Regeneration",
+    "NAME": "Erholen",
     "DESCRIPTIONS": [
       "Heile #b",
-      " #yTP am Ende deines Zuges für #b",
-      " Züge."
+      " #yTP am Ende deines Zuges, dann reduziere #yErholen um #b1.",
+      ""
     ]
   },
   "Repair": {

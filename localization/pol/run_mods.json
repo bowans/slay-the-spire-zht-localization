@@ -1,51 +1,63 @@
 {
-  "Cursed Run": {
-    "NAME": "Przeklęta próba",
-    "DESCRIPTION": "Za każdym razem, gdy pokonasz bossa, otrzymujesz #rKlątwę. Zamiast początkowego artefatku otrzymujesz: Przeklęty klucz, Kamienny amulet i Lalkę Du-Vu."
-  },
-  "Elite Swarm": {
-    "NAME": "Rój Elitarnych",
-    "DESCRIPTION": "Elitarne jednostki są absolutnie wszędzie i zostawiają po sobie lepsze łupy."
-  },
-  "Heirloom": {
-    "NAME": "Dziedzictwo",
-    "DESCRIPTION": "Zaczynasz grę z 1 rzadkim artefaktem."
-  },
-  "Lethality": {
-    "NAME": "Śmiertelność",
-    "DESCRIPTION": "Rozpoczynasz walkę z dodatkowymi 3 pkt. Siły. Przeciwnicy rozpoczynają walkę z dodatkowymi 3 pkt. Siły."
-  },
-  "Night Terrors": {
-    "NAME": "Koszmary",
-    "DESCRIPTION": "Odpoczywając odzyskujesz 100% PŻ, ale tracisz 5 maksymalnych PŻ."
-  },
-  "Insanity": {
-    "NAME": "Szaleństwo",
-    "DESCRIPTION": "Rozpoczynasz z talią 50 losowych kart."
-  },
-  "Shiny": {
-    "NAME": "Świecidełko",
-    "DESCRIPTION": "Rozpoczynasz z 1 kopią każdej rzadkiej katy."
-  },
   "Allstar": {
     "NAME": "Gwiazdor",
     "DESCRIPTION": "Rozpoczynasz z 5 bezbarwnymi kartami."
-  },
-  "Diverse": {
-    "NAME": "Różnorodność",
-    "DESCRIPTION": "Karty nie są ograniczone klasami."
-  },
-  "Uncertain Future": {
-    "NAME": "Pewna przyszłość",
-    "DESCRIPTION": "Tylko jedna ścieżka."
   },
   "Binary": {
     "NAME": "Binarnie",
     "DESCRIPTION": "Tylko 2 karty na ekranie wyboru kart."
   },
+  "Brewmaster": {
+    "NAME": "Piwowar",
+    "DESCRIPTION": "Rozpoczynasz z 5 kopiami Alchemizacji oraz Statuetką białej bestii."
+  },
+  "Cursed Run": {
+    "NAME": "Przeklęta próba",
+    "DESCRIPTION": "Za każdym razem, gdy pokonasz bossa, otrzymujesz #rKlątwę. Zamiast początkowego artefatku otrzymujesz: Przeklęty klucz, Kamienny amulet i Lalkę Du-Vu."
+  },
+  "Diverse": {
+    "NAME": "Różnorodność",
+    "DESCRIPTION": "Karty nie są ograniczone klasami."
+  },
+  "Draft": {
+    "NAME": "Plan",
+    "DESCRIPTION": "Ułóż startową talię, dobierając po 1 karcie z 3 losowych kart, 15 razy."
+  },
+  "Elite Swarm": {
+    "NAME": "Rój Elitarnych",
+    "DESCRIPTION": "W Iglicy roi się od Elitarnych. Elitarni zostawiają po sobie lepsze łupy."
+  },
+  "Heirloom": {
+    "NAME": "Dziedzictwo",
+    "DESCRIPTION": "Zaczynasz grę z 1 rzadkim artefaktem."
+  },
+  "Hoarder": {
+    "NAME": "Syllogomania",
+    "DESCRIPTION": "Za każdym razem, gdy dodasz kartę do talii, dodaj dodatkowo jej dwie kopie. Nie możesz już usuwać kart u Handlarza."
+  },
+  "Insanity": {
+    "NAME": "Szaleństwo",
+    "DESCRIPTION": "Rozpoczynasz z talią 50 losowych kart."
+  },
+  "Lethality": {
+    "NAME": "Śmiertelność",
+    "DESCRIPTION": "Rozpoczynasz walkę z dodatkowymi 3 pkt. Siły. Przeciwnicy rozpoczynają walkę z dodatkowymi 3 pkt. Siły."
+  },
   "Midas": {
     "NAME": "Midas",
     "DESCRIPTION": "Przeciwnicy zostawiają 200% więcej złota, ale nie możesz już ulepszać kart w Obozowiskach."
+  },
+  "Night Terrors": {
+    "NAME": "Koszmary",
+    "DESCRIPTION": "Odpoczywając odzyskujesz 100% PŻ, ale tracisz 5 maksymalnych PŻ."
+  },
+  "Shiny": {
+    "NAME": "Świecidełko",
+    "DESCRIPTION": "Rozpoczynasz z 1 kopią każdej rzadkiej katy."
+  },
+  "Specialized": {
+    "NAME": "Specjalista",
+    "DESCRIPTION": "Rozpoczynasz z 5 kopiami rzadkiej karty."
   },
   "Terminal": {
     "NAME": "Śmiertelna choroba",
@@ -55,24 +67,12 @@
     "NAME": "Zakrzywienie czasu",
     "DESCRIPTION": "Przeciwnicy są Ślamazarni."
   },
-  "Hoarder": {
-    "NAME": "Syllogomania",
-    "DESCRIPTION": "Za każdym razem, gdy dodasz kartę do talii, dodaj dodatkowo jej dwie kopie. Nie możesz już usuwać kart u Handlarza."
+  "Uncertain Future": {
+    "NAME": "Pewna przyszłość",
+    "DESCRIPTION": "Tylko jedna ścieżka."
   },
   "Vintage": {
     "NAME": "Antyk",
     "DESCRIPTION": "Zwykli przeciwnicy zostawiają po sobie artefakty zamiast kart."
-  },
-  "Draft": {
-    "NAME": "Plan",
-    "DESCRIPTION": "Ułóż startową talię, dobierając po 1 karcie z 3 losowych kart, 15 razy."
-  },
-  "Brewmaster": {
-    "NAME": "Brewmaster",
-    "DESCRIPTION": "Start with 5 copies of Alchemize, Toy Ornithopter and White Beast Statue."
-  },
-  "Specialized": {
-    "NAME": "Specialized",
-    "DESCRIPTION": "Start with 5 copies of a single rare card."
   }
 }

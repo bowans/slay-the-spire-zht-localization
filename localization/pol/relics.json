@@ -7,6 +7,15 @@
       " pkt. #yBloku."
     ]
   },
+  "Ancient Tea Set": {
+    "NAME": "Antyczny zestaw herbaciany",
+    "FLAVOR": "Klucz do pokrzepiającego snu.",
+    "DESCRIPTIONS": [
+      "Za każdym razem, gdy odwiedzisz obozowisko, kolejną walkę zaczynasz z dodatkowymi [R] [R] .",
+      "Za każdym razem, gdy odwiedzisz obozowisko, kolejną walkę zaczynasz z dodatkowymi [G] [G] .",
+      "Za każdym razem, gdy odwiedzisz obozowisko, kolejną walkę zaczynasz z dodatkowymi [B] [B] ."
+    ]
+  },
   "Art of War": {
     "NAME": "Sztuka wojny",
     "FLAVOR": "Ten starożytny manuskrypt skrywa wiedzę minionego wieku.",
@@ -134,6 +143,13 @@
       " PŻ pod koniec walki."
     ]
   },
+  "Cables": {
+    "NAME": "Pozłacane kable",
+    "FLAVOR": "\"Interesujące! Nawet automatony są podatne na placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Umiejętność pasywna, pierwszej od prawej Sfery, uruchamia się dwa razy."
+    ]
+  },
   "Calipers": {
     "NAME": "Cyrkiel",
     "FLAVOR": "„Mechaniczna precyzja prowadzi do wielkości” – Architekt",
@@ -205,13 +221,6 @@
       "Wygląda ślicznie."
     ]
   },
-  "The Courier": {
-    "NAME": "Kurier",
-    "FLAVOR": "Ukochane zwierzątko Handlarza.",
-    "DESCRIPTIONS": [
-      "Handlarzowi już nigdy nie zabraknie kart, artefaktów oraz mikstur. Dodatkowo wszystko jest przecenione o #b20%."
-    ]
-  },
   "Cracked Core": {
     "NAME": "Pęknięty rdzeń",
     "FLAVOR": "Mistyczne źródło życia, które zasila Automatony w Iglicy. Wygląda na pęknięte.",
@@ -229,11 +238,34 @@
       "Zyskaj [B] na początku każdej tury."
     ]
   },
+  "Darkstone Periapt": {
+    "NAME": "Kamienny amulet",
+    "FLAVOR": "Amulet czerpie moc z mrocznej energii, wzmacniając siły witalne noszącego.",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek otrzymasz #yKlątwę, liczba maksymalnych PŻ zostaje zwiększona o #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Nośnik danych",
+    "FLAVOR": "Ten niepozorny dysk zawiera bezcenne dane o ptakach i wężach.",
+    "DESCRIPTIONS": [
+      "Rozpocznij każdą walkę z #b",
+      " pkt. #ySkupienia."
+    ]
+  },
   "Dead Branch": {
     "NAME": "Uschnięta gałąź",
     "FLAVOR": "Gałąź z drzewa zapomnianej ery.",
     "DESCRIPTIONS": [
       "Kiedykolwiek karta zostanie #ywykluczona, dodaj losową kartę do ręki."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Głupi kamień",
+    "FLAVOR": "Zajmuje miejsce",
+    "DESCRIPTIONS": [
+      "Na początku każdej tury, zyskaj #b",
+      " szt. Energii. NL (nie może byc usunięty ani podmieniony)"
     ]
   },
   "Discerning Monocle": {
@@ -281,25 +313,11 @@
       "Zyskaj [B] na początku każdej tury."
     ]
   },
-  "Frozen Egg 2": {
-    "NAME": "Zamrożone jajo",
-    "FLAVOR": "Bjajecznie piękny kawałek lodu, NL bez szans na wyklucie.",
+  "Emotion Chip": {
+    "NAME": "Czip emocji",
+    "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Kiedykolwiek dodasz kartę #yMocy do talii, zostanie ona #yulepszona."
-    ]
-  },
-  "Molten Egg 2": {
-    "NAME": "Wulkaniczne jajo",
-    "FLAVOR": "Jajo feniksa. Żarzy się dzięki wściekle czerwonej lawie.",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek dodasz kartę #yAtaku do talii, zostanie ona #yulepszona."
-    ]
-  },
-  "Toxic Egg 2": {
-    "NAME": "Toksyczne jajo",
-    "FLAVOR": "„Cóż za fenomenalne odkrycie! Wydaje się być niewyklutym jajkiem jakiegoś magicznego stworzenia. Kto albo co je stworzyło?” - Ranwid",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek dodasz kartę #yUmiejętności do talii, zostanie ona #yulepszona."
+      "Jeżeli w poprzedniej turze otrzymałeś obrażenia, na początku tury uruchamiają się umiejętności pasywne wszystkich Sfer."
     ]
   },
   "Enchiridion": {
@@ -324,6 +342,20 @@
     "DESCRIPTIONS": [
       "Przy podniesieniu, wybierz i #yulepsz kartę #yMocy.",
       "Wybierz kartę do "
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Zamrożone jajo",
+    "FLAVOR": "Bjajecznie piękny kawałek lodu, NL bez szans na wyklucie.",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek dodasz kartę #yMocy do talii, zostanie ona #yulepszona."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Zamrożone oko",
+    "FLAVOR": "Brak opisu.",
+    "DESCRIPTIONS": [
+      "Podczas przeglądania #ystosu #yrozgrywającego karty ukazują się w odpowiedniej kolejności."
     ]
   },
   "Gambling Chip": {
@@ -381,6 +413,13 @@
       "Zachowujesz #yEnergię pomiędzy turami."
     ]
   },
+  "Inserter": {
+    "NAME": "Podajnik",
+    "FLAVOR": "Włóż. Wyjmij. Ułóż. Powtórz.",
+    "DESCRIPTIONS": [
+      "Co #b2 tury, zyskaj #b1 miejsce na Sferę."
+    ]
+  },
   "Juzu Bracelet": {
     "NAME": "Bransoletka Juzu",
     "FLAVOR": "Chroni przed nieznanym.",
@@ -406,6 +445,14 @@
       "[G] ",
       "[B] ",
       "w pierwszej turze każdej walki."
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Gofry od Lee",
+    "FLAVOR": "„Najlepszy przysmak w całej Iglicy! Upieczony dzisiaj specjalnie dla ciebie.”",
+    "DESCRIPTIONS": [
+      "Podnieś maksymalną liczbę PŻ o #b",
+      " i przywróć utracone PŻ."
     ]
   },
   "Letter Opener": {
@@ -498,6 +545,13 @@
       "Wybierz kartę do "
     ]
   },
+  "Molten Egg 2": {
+    "NAME": "Wulkaniczne jajo",
+    "FLAVOR": "Jajo feniksa. Żarzy się dzięki wściekle czerwonej lawie.",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek dodasz kartę #yAtaku do talii, zostanie ona #yulepszona."
+    ]
+  },
   "Mummified Hand": {
     "NAME": "Zmumifikowana ręka",
     "FLAVOR": "Często drga, szczególnie, gdy masz wysoki puls.",
@@ -512,6 +566,14 @@
       "Pierwszy zagrany w turze #yAtak, który kosztuje #b",
       " lub więcej, jest zagrywany dwukrotnie. Podnosząc ten artefakt otrzymasz kartę #rKlątwy.",
       " lub więcej, jest zagrywany dwukrotnie."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Lament Neow'a",
+    "FLAVOR": "Błogosławieństwo Neow'a, specjalnie dla ciebie.",
+    "DESCRIPTIONS": [
+      "Przeciwnicy w pierwszych #b3 walkach będą mieć 1 PŻ.",
+      "Błogosławieństwo zostało wyczerpane."
     ]
   },
   "Nilry's Codex": {
@@ -546,11 +608,25 @@
       "#bTrzykrotnie większa szansa otrzymania rzadkich kart z pokonanych przeciwników."
     ]
   },
+  "Nuclear Battery": {
+    "NAME": "Bateria jądrowa",
+    "FLAVOR": "Ooooch...",
+    "DESCRIPTIONS": [
+      "Na początku każdej walki, #yPrzywołaj #b1 #yPlazmę."
+    ]
+  },
   "Nullstone Periapt": {
     "NAME": "Kamienna tablica",
     "FLAVOR": "ZBEZCZESZCZONE.",
     "DESCRIPTIONS": [
       "Skontruj kolejny #ynegatywny #yefekt otrzymany od przeciwnika. NL Odnawia się co #b10 tur."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Dziwny grzyb",
+    "FLAVOR": "„Po zjedzeniu trichella parastius poczułem się większy i... twardszy.” - Ranwid ",
+    "DESCRIPTIONS": [
+      "Mając nałożoną #yWrażliwość, otrzymujesz #b25% więcej obrażeń, zamiast #b50%."
     ]
   },
   "Oddly Smooth Stone": {
@@ -559,13 +635,6 @@
     "DESCRIPTIONS": [
       "Rozpocznij każdą walkę z #b",
       " pkt. #yZręczności."
-    ]
-  },
-  "Odd Mushroom": {
-    "NAME": "Dziwny grzyb",
-    "FLAVOR": "„Po zjedzeniu trichella parastius poczułem się większy i... twardszy.” - Ranwid ",
-    "DESCRIPTIONS": [
-      "Mając nałożoną #yWrażliwość, otrzymujesz #b25% więcej obrażeń, zamiast #b50%."
     ]
   },
   "Old Coin": {
@@ -669,6 +738,13 @@
       "Zyskaj [B] na początku każdej tury."
     ]
   },
+  "Potion Belt": {
+    "NAME": "Pas na mikstury",
+    "FLAVOR": "W tym pasie jest miejsce na butelkę!",
+    "DESCRIPTIONS": [
+      "Przy podniesieniu, zyskaj #b1 miejsce na miksturę."
+    ]
+  },
   "Prayer Wheel": {
     "NAME": "Młynek modlitewny",
     "FLAVOR": "Nigdy nie przestaje się kręcić.",
@@ -718,6 +794,21 @@
     "NAME": "Pierścień wyższego węża",
     "DESCRIPTIONS": [
       "Podmienia #gPierścień #gwęża. Kiedy pokonasz #yelitarną #jednostkę, zwiększ maksymalną liczbę PŻ o #b"
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Pierścień węża",
+    "FLAVOR": "Zrobiony ze skamieniałego węża. Świadczy o wielkich umiejętnościach łowczyni.",
+    "DESCRIPTIONS": [
+      "Dobierz #b",
+      " dodatkowe karty na początku walki."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runiczny kondensator",
+    "FLAVOR": "Więcej znaczy lepiej.",
+    "DESCRIPTIONS": [
+      "Rozpoczynasz walkę z #b3 dodatkowymi miejscami na Sfery."
     ]
   },
   "Runic Cube": {
@@ -786,12 +877,12 @@
       " szt. #yzłota."
     ]
   },
-  "Ring of the Snake": {
-    "NAME": "Pierścień węża",
-    "FLAVOR": "Zrobiony ze skamieniałego węża. Świadczy o wielkich umiejętnościach łowczyni.",
+  "Snake Skull": {
+    "NAME": "Czaszka wensza",
+    "FLAVOR": "Czaszka wensza w idealnym stanie. Zadziwiająco czysta i gładka. Brud odpada z niej w pewien niewytłumaczalny sposób.",
     "DESCRIPTIONS": [
-      "Dobierz #b",
-      " dodatkowe karty na początku walki."
+      "Kiedykolwiek nałożysz #yTruciznę, nałóż dodatkowo #b",
+      " pkt. #yTrucizny."
     ]
   },
   "Snecko Eye": {
@@ -799,14 +890,6 @@
     "FLAVOR": "Oko pokonanego wensza. NL O wiele większe niż mogło by się zdawać.",
     "DESCRIPTIONS": [
       "Podczas każdej tury dobierz #b2 dodatkowe karty. Zaczynaj każdą walkę w stanie #yDezorientacji."
-    ]
-  },
-  "Snake Skull": {
-    "NAME": "Czaszka wensza",
-    "FLAVOR": "Czaszka wensza w idealnym stanie. Zadziwiająco czysta i gładka. Brud odpada z niej w pewien niewytłumaczalny sposób.",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek nałożysz #yTruciznę, nałóż dodatkowo #b",
-      " pkt. #yTrucizny."
     ]
   },
   "Sozu": {
@@ -850,28 +933,11 @@
       " przetasowanie talii zyskaj [B] [B] ."
     ]
   },
-  "Ancient Tea Set": {
-    "NAME": "Antyczny zestaw herbaciany",
-    "FLAVOR": "Klucz do pokrzepiającego snu.",
+  "Symbiotic Virus": {
+    "NAME": "Symbiotyczny wirus",
+    "FLAVOR": "Trochę złego może zdziałać wiele dobrego...",
     "DESCRIPTIONS": [
-      "Za każdym razem, gdy odwiedzisz obozowisko, kolejną walkę zaczynasz z dodatkowymi [R] [R] .",
-      "Za każdym razem, gdy odwiedzisz obozowisko, kolejną walkę zaczynasz z dodatkowymi [G] [G] .",
-      "Za każdym razem, gdy odwiedzisz obozowisko, kolejną walkę zaczynasz z dodatkowymi [B] [B] ."
-    ]
-  },
-  "War Paint": {
-    "NAME": "Barwy wojenne",
-    "FLAVOR": "Niegdyś, przed ruszeniem do ataku, klan Pancerników oznaczał wojowników specjalną farbą, która miała wspomagać ich w walce.",
-    "DESCRIPTIONS": [
-      "Przy podniesieniu, #yulepsz #b",
-      " losowe #yUmiejętności."
-    ]
-  },
-  "Darkstone Periapt": {
-    "NAME": "Kamienny amulet",
-    "FLAVOR": "Amulet czerpie moc z mrocznej energii, wzmacniając siły witalne noszącego.",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek otrzymasz #yKlątwę, liczba maksymalnych PŻ zostaje zwiększona o #b"
+      "Na początku każdej walki, #yPrzywołaj #b1 #yCiemność."
     ]
   },
   "Test 1": {
@@ -882,13 +948,6 @@
       " [R] .",
       " [G] .",
       " [B] ."
-    ]
-  },
-  "Frozen Eye": {
-    "NAME": "Zamrożone oko",
-    "FLAVOR": "Brak opisu.",
-    "DESCRIPTIONS": [
-      "Podczas przeglądania #ystosu #yrozgrywającego karty ukazują się w odpowiedniej kolejności."
     ]
   },
   "Test 2": {
@@ -941,6 +1000,13 @@
     "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
     "DESCRIPTIONS": [
       "Dobierz #b2 dodatkowe karty w każdej turze. Zaczynaj każdą walkę z #yDezorientacją."
+    ]
+  },
+  "The Courier": {
+    "NAME": "Kurier",
+    "FLAVOR": "Ukochane zwierzątko Handlarza.",
+    "DESCRIPTIONS": [
+      "Handlarzowi już nigdy nie zabraknie kart, artefaktów oraz mikstur. Dodatkowo wszystko jest przecenione o #b20%."
     ]
   },
   "The Specimen": {
@@ -1016,12 +1082,26 @@
       "Wybierz kartę do "
     ]
   },
+  "Toxic Egg 2": {
+    "NAME": "Toksyczne jajo",
+    "FLAVOR": "„Cóż za fenomenalne odkrycie! Wydaje się być niewyklutym jajkiem jakiegoś magicznego stworzenia. Kto albo co je stworzyło?” - Ranwid",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek dodasz kartę #yUmiejętności do talii, zostanie ona #yulepszona."
+    ]
+  },
   "Toy Ornithopter": {
     "NAME": "Zabawkowy skrzydłowiec",
     "FLAVOR": "„Ta mała zabawka jest perfekcyjnym kompanem samotnych podróży!”",
     "DESCRIPTIONS": [
       "Kiedykolwiek użyjesz mikstury, przywróć #b",
       " PŻ."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Rzepa",
+    "FLAVOR": "Krzepka ta rzepka.",
+    "DESCRIPTIONS": [
+      "Nie można nałożyć na ciebie efektu #yKruchości."
     ]
   },
   "Unceasing Top": {
@@ -1051,12 +1131,12 @@
       "Możesz zagrać do NL #r"
     ]
   },
-  "Lee's Waffle": {
-    "NAME": "Gofry od Lee",
-    "FLAVOR": "„Najlepszy przysmak w całej Iglicy! Upieczony dzisiaj specjalnie dla ciebie.”",
+  "War Paint": {
+    "NAME": "Barwy wojenne",
+    "FLAVOR": "Niegdyś, przed ruszeniem do ataku, klan Pancerników oznaczał wojowników specjalną farbą, która miała wspomagać ich w walce.",
     "DESCRIPTIONS": [
-      "Podnieś maksymalną liczbę PŻ o #b",
-      " i przywróć utracone PŻ."
+      "Przy podniesieniu, #yulepsz #b",
+      " losowe #yUmiejętności."
     ]
   },
   "Whetstone": {
@@ -1067,22 +1147,6 @@
       " losowe karty #yAtaku."
     ]
   },
-  "Derp Rock": {
-    "NAME": "Głupi kamień",
-    "FLAVOR": "Zajmuje miejsce",
-    "DESCRIPTIONS": [
-      "Na początku każdej tury, zyskaj #b",
-      " szt. Energii. NL (nie może byc usunięty ani podmieniony)"
-    ]
-  },
-  "NeowsBlessing": {
-    "NAME": "Lament Neow'a",
-    "FLAVOR": "Błogosławieństwo Neow'a, specjalnie dla ciebie.",
-    "DESCRIPTIONS": [
-      "Przeciwnicy w pierwszych #b3 walkach będą mieć 1 PŻ.",
-      "Błogosławieństwo zostało wyczerpane."
-    ]
-  },
   "White Beast Statue": {
     "NAME": "Statuetka białej bestii",
     "FLAVOR": "Mała biała statuetka stworzenia, którego nie poznajesz.",
@@ -1090,61 +1154,12 @@
       "Po walce zawsze wypada mikstura."
     ]
   },
-  "Inserter": {
-    "NAME": "Podajnik",
-    "FLAVOR": "Włóż. Wyjmij. Ułóż. Powtórz.",
+  "Boot": {
+    "NAME": "The Boot",
+    "FLAVOR": "When wound up, the boot grows larger in size.",
     "DESCRIPTIONS": [
-      "Co #b2 tury, zyskaj #b1 miejsce na Sferę."
-    ]
-  },
-  "Symbiotic Virus": {
-    "NAME": "Symbiotyczny wirus",
-    "FLAVOR": "Trochę złego może zdziałać wiele dobrego...",
-    "DESCRIPTIONS": [
-      "Na początku każdej walki, #yPrzywołaj #b1 #yCiemność."
-    ]
-  },
-  "Nuclear Battery": {
-    "NAME": "Bateria jądrowa",
-    "FLAVOR": "Ooooch...",
-    "DESCRIPTIONS": [
-      "Na początku każdej walki, #yPrzywołaj #b1 #yPlazmę."
-    ]
-  },
-  "Cables": {
-    "NAME": "Pozłacane kable",
-    "FLAVOR": "\"Interesujące! Nawet automatony są podatne na placebo.\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Umiejętność pasywna, pierwszej od prawej Sfery, uruchamia się dwa razy."
-    ]
-  },
-  "Emotion Chip": {
-    "NAME": "Czip emocji",
-    "FLAVOR": "...<3...?",
-    "DESCRIPTIONS": [
-      "Jeżeli w poprzedniej turze otrzymałeś obrażenia, na początku tury uruchamiają się umiejętności pasywne wszystkich Sfer."
-    ]
-  },
-  "Runic Capacitor": {
-    "NAME": "Runiczny kondensator",
-    "FLAVOR": "Więcej znaczy lepiej.",
-    "DESCRIPTIONS": [
-      "Rozpoczynasz walkę z #b3 dodatkowymi miejscami na Sfery."
-    ]
-  },
-  "DataDisk": {
-    "NAME": "Nośnik danych",
-    "FLAVOR": "Ten niepozorny dysk zawiera bezcenne dane o ptakach i wężach.",
-    "DESCRIPTIONS": [
-      "Rozpocznij każdą walkę z #b",
-      " pkt. #ySkupienia."
-    ]
-  },
-  "Turnip": {
-    "NAME": "Rzepa",
-    "FLAVOR": "Krzepka ta rzepka.",
-    "DESCRIPTIONS": [
-      "Nie można nałożyć na ciebie efektu #yKruchości."
+      "Whenever you would deal #b",
+      " or less unblocked #yAttack damage, increase it to #b5."
     ]
   }
 }

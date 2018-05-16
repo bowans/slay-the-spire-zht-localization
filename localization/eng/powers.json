@@ -276,6 +276,15 @@
       " cards you play each turn are played twice."
     ]
   },
+  "Electro": {
+    "NAME": "Electro",
+    "DESCRIPTIONS": [
+      "#yLightning hits ALL enemies.",
+      " NL If there is only #b1 enemy, #yLightning hits #b",
+      " times."
+    ]
+  },
+
   "Energized": {
     "NAME": "Energized",
     "DESCRIPTIONS": [
@@ -485,8 +494,8 @@
     "NAME": "Loop",
     "DESCRIPTIONS": [
       "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
+      "At the start of your turn, use the passive ability of your next Orb #b",
+      " times."
     ]
   },
   "Machine Learning": {
@@ -665,11 +674,11 @@
     ]
   },
   "Regeneration": {
-    "NAME": "Regeneration",
+    "NAME": "Regen",
     "DESCRIPTIONS": [
-      "Heal #b",
-      " #yHP at the end of your turn for #b",
-      " turns."
+      "At the end of your turn, heal #b",
+      " #yHP, then reduce #yRegen by #b1.",
+      ""
     ]
   },
   "Repair": {
@@ -898,6 +907,14 @@
     "DESCRIPTIONS": [
       "At the end of your turn, lose #b",
       " #yDexterity."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
     ]
   }
 }

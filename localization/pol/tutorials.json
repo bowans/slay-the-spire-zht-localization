@@ -1,81 +1,10 @@
 {
-  "Main Tutorial": {
+  "Discard Tip": {
     "TEXT": [
-      "Pokonuj przeciwników grając kartami NL z dostępnej ręki! NL NL Karty wymagają #yEnergii do zagrania. NL Kiedy wykonasz wszystkie ruchy, zakończ turę. NL NL Na początku każdej tury nowe karty pobierane są ze stosu rozgrywającego, a twoja #yEnergia jest odnawiana.",
-      "Graj kartami defensywnymi, NL aby otrzymać punkty #yBloku do obrony NL przed atakującym przeciwnikiem. NL NL #yBlok zmniejsza otrzymywane obrażenia, NL ale #rprzestaje #rdziałać z początkiem kolejnej tury.",
-      "W trakcie twojej tury możesz obserwować #yZamiar przeciwnika nad jego głową. NL NL Jeśli przeciwnik zamierza cię zaatakować, upewnij się, NL że masz wystarczająco dużo punktów #yBloku!"
+      "Jeśli twój stos rozgrywający jest pusty, stos kart odrzuconych zostanie przetasowany NL i przeniesiony do kart rozgrywających. NL NL Kliknij, aby zobaczyć karty NL ze stosu odrzuconych."
     ],
     "LABEL": [
-      "Dalej",
-      "Poradzę sobie!",
-      "Samouczek",
-      "(Strona ",
-      " z 3)"
-    ]
-  },
-  "FTUE Tips": {
-    "TEXT": [],
-    "LABEL": [
-      "Porada: ",
-      "Jasne"
-    ]
-  },
-  "Potion Tip": {
-    "TEXT": [
-      "Pij lub rzucaj mikstury w trakcie walki! NL Mikstury możesz przenosić pomiędzy pomieszczeniami."
-    ],
-    "LABEL": [
-      "Mikstury"
-    ]
-  },
-  "Energy Tip": {
-    "TEXT": [
-      "Karty potrzebują energii do zagrania! NL Ta kula w lewym dolnym rogu pokazuje ile punktów energii masz jeszcze do wykorzystania w tej turze."
-    ],
-    "LABEL": [
-      "Koszt Energii"
-    ]
-  },
-  "Shuffle Tip": {
-    "TEXT": [
-      "NL Jeśli karty stosu rozgrywającego się skończą, NL karty ze stosu odrzuconych zostaną do niego przetasowane."
-    ],
-    "LABEL": [
-      "Gdzie są moje karty?"
-    ]
-  },
-  "Player Tips": {
-    "TEXT": [
-      "Ta karta, po zagraniu, nadaje postaci Moc. NL Moce to pasywne zdolności, które działają przez całą potyczkę.",
-      "Te karty również wymagają energii do zagrania! NL Ta kula w lewym dolnym rogu pokazuje ile punktów energii masz jeszcze do wykorzystania w tej turze.",
-      "Moja #rręka #rjest #rpełna!",
-      "#rMaksymalna ilość Sfer została osiągnięta.",
-      "Brak miejsca na Sferę."
-    ],
-    "LABEL": [
-      "Karty Mocy",
-      "Koszt Energii"
-    ]
-  },
-  "Relic Tip": {
-    "TEXT": [
-      "Rozsiane po całej Iglicy artefakty gwarantują unikalne bonusy, pozostając w ekwipunku NL przez całą wyprawę. NL Zdobyć je można po pokonaniu potężnych przeciwników lub z rozproszonych po Iglicy skrzyń.",
-      "Ten artefakt należy najpierw odnaleźć.",
-      "Przedmiot stracił swoją mocy."
-    ],
-    "LABEL": [
-      "Artefakty",
-      "Nieznany",
-      "Ten artefakt należy odblokować.",
-      "Zablokowane"
-    ]
-  },
-  "Rewards Tip": {
-    "TEXT": [
-      "Nie zapomnij o łupach! NL Kliknij na nie, aby je zebrać."
-    ],
-    "LABEL": [
-      "Łupy"
+      "Stos kart odrzuconych"
     ]
   },
   "Draw Tip": {
@@ -88,12 +17,58 @@
       "Stos rozgrywający"
     ]
   },
+  "End Turn Tip": {
+    "TEXT": [
+      "Wciśnięcie tego przycisku zakończy turę. NL NL Karty zostaną odrzucone, przeciwnik wykona swój ruch, dobierzesz ",
+      " kart(y) i znów możesz wykonać ruch."
+    ],
+    "LABEL": [
+      "Koniec tury"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Ilość obecnie posiadanej energii. Karty wymagają jej do działania."
+    ],
+    "LABEL": [
+      "Energia"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Karty potrzebują energii do zagrania! NL Ta kula w lewym dolnym rogu pokazuje ile punktów energii masz jeszcze do wykorzystania w tej turze."
+    ],
+    "LABEL": [
+      "Koszt Energii"
+    ]
+  },
   "Exhaust Tip": {
     "TEXT": [
       "Kliknij, aby zobaczyć karty #ywykluczone z walki."
     ],
     "LABEL": [
       "Wykluczone karty"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Porada: ",
+      "Jasne"
+    ]
+  },
+  "Main Tutorial": {
+    "TEXT": [
+      "Pokonuj przeciwników grając kartami NL z dostępnej ręki! NL NL Karty wymagają #yEnergii do zagrania. NL Kiedy wykonasz wszystkie ruchy, zakończ turę. NL NL Na początku każdej tury nowe karty pobierane są ze stosu rozgrywającego, a twoja #yEnergia jest odnawiana.",
+      "Graj kartami defensywnymi, NL aby otrzymać punkty #yBloku do obrony NL przed atakującym przeciwnikiem. NL NL #yBlok zmniejsza otrzymywane obrażenia, NL ale #rprzestaje #rdziałać z początkiem kolejnej tury.",
+      "W trakcie twojej tury możesz obserwować #yZamiar przeciwnika nad jego głową. NL NL Jeśli przeciwnik zamierza cię zaatakować, upewnij się, NL że masz wystarczająco dużo punktów #yBloku!"
+    ],
+    "LABEL": [
+      "Dalej",
+      "Poradzę sobie!",
+      "Samouczek",
+      "(Strona ",
+      " z 3)"
     ]
   },
   "Options Tip": {
@@ -110,38 +85,17 @@
       "Maksymalne FPS-y"
     ]
   },
-  "Shop Tip": {
+  "Player Tips": {
     "TEXT": [
-      "Usuń kartę z talii. Koszt usługi zostanie zwiększony o #b",
-      " na czas trwania tej wyprawy."
+      "Ta karta, po zagraniu, nadaje postaci Moc. NL Moce to pasywne zdolności, które działają przez całą potyczkę.",
+      "Te karty również wymagają energii do zagrania! NL Ta kula w lewym dolnym rogu pokazuje ile punktów energii masz jeszcze do wykorzystania w tej turze.",
+      "Moja #rręka #rjest #rpełna!",
+      "#rMaksymalna ilość Sfer została osiągnięta.",
+      "Brak miejsca na Sferę."
     ],
     "LABEL": [
-      "Usługa usuwania kart"
-    ]
-  },
-  "End Turn Tip": {
-    "TEXT": [
-      "Wciśnięcie tego przycisku zakończy turę. NL NL Karty zostaną odrzucone, przeciwnik wykona swój ruch, dobierzesz ",
-      " kart(y) i znów możesz wykonać ruch."
-    ],
-    "LABEL": [
-      "Koniec tury"
-    ]
-  },
-  "Discard Tip": {
-    "TEXT": [
-      "Jeśli twój stos rozgrywający jest pusty, stos kart odrzuconych zostanie przetasowany NL i przeniesiony do kart rozgrywających. NL NL Kliknij, aby zobaczyć karty NL ze stosu odrzuconych."
-    ],
-    "LABEL": [
-      "Stos kart odrzuconych"
-    ]
-  },
-  "Energy Panel Tip": {
-    "TEXT": [
-      "Ilość obecnie posiadanej energii. Karty wymagają jej do działania."
-    ],
-    "LABEL": [
-      "Energia"
+      "Karty Mocy",
+      "Koszt Energii"
     ]
   },
   "Potion Panel Tip": {
@@ -156,24 +110,12 @@
       "Wyrzuć"
     ]
   },
-  "Top Panel Tips": {
+  "Potion Tip": {
     "TEXT": [
-      "Otwierają menu gry. NL NL Zmień opcje graficzne, dźwiękowe oraz preferencje rozgrywki.",
-      "Przeglądaj wszystkie karty NL w twojej talii.",
-      "Obejrzyj mapę NL obecnego poziomu.",
-      "Kiedy skończą ci się PŻ, umierasz.",
-      "Pokazuje ilość posiadanego złota. Jest ono główną walutą NL w Iglicy.",
-      "",
-      "",
-      "Odmierza czas rozgrywki."
+      "Pij lub rzucaj mikstury w trakcie walki! NL Mikstury możesz przenosić pomiędzy pomieszczeniami."
     ],
     "LABEL": [
-      "Ustawienia",
-      "Talia",
-      "Mapa",
-      "Punkty Życia (PŻ)",
-      "Sakiewka",
-      "Stoper"
+      "Mikstury"
     ]
   },
   "Random Tips": {
@@ -216,6 +158,64 @@
     ],
     "LABEL": [
       "Możesz wyrzucać mikstury, aby zwolnić miejsce dla innych."
+    ]
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Rozsiane po całej Iglicy artefakty gwarantują unikalne bonusy, pozostając w ekwipunku NL przez całą wyprawę. NL Zdobyć je można po pokonaniu potężnych przeciwników lub z rozproszonych po Iglicy skrzyń.",
+      "Ten artefakt należy najpierw odnaleźć.",
+      "Przedmiot stracił swoją mocy."
+    ],
+    "LABEL": [
+      "Artefakty",
+      "Nieznany",
+      "Ten artefakt należy odblokować.",
+      "Zablokowane"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Nie zapomnij o łupach! NL Kliknij na nie, aby je zebrać."
+    ],
+    "LABEL": [
+      "Łupy"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Usuń kartę z talii. Koszt usługi zostanie zwiększony o #b",
+      " na czas trwania tej wyprawy."
+    ],
+    "LABEL": [
+      "Usługa usuwania kart"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Jeśli karty stosu rozgrywającego się skończą, NL karty ze stosu odrzuconych zostaną do niego przetasowane."
+    ],
+    "LABEL": [
+      "Gdzie są moje karty?"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Otwierają menu gry. NL NL Zmień opcje graficzne, dźwiękowe oraz preferencje rozgrywki.",
+      "Przeglądaj wszystkie karty NL w twojej talii.",
+      "Obejrzyj mapę NL obecnego poziomu.",
+      "Kiedy skończą ci się PŻ, umierasz.",
+      "Pokazuje ilość posiadanego złota. Jest ono główną walutą NL w Iglicy.",
+      "",
+      "",
+      "Odmierza czas rozgrywki."
+    ],
+    "LABEL": [
+      "Ustawienia",
+      "Talia",
+      "Mapa",
+      "Punkty Życia (PŻ)",
+      "Sakiewka",
+      "Stoper"
     ]
   }
 }

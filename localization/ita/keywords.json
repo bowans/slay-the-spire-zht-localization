@@ -13,6 +13,28 @@
       ],
       "DESCRIPTION": "Fino al prossimo turno, previene del danno."
     },
+    "BURN": {
+      "NAMES": [
+        "Ustione",
+        "Ustioni"
+      ],
+      "DESCRIPTION": "Le Ustioni sono carte di stato ingiocabili che ti infliggono danni."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "crea",
+        "creato",
+        "crei",
+        "creati"
+      ],
+      "DESCRIPTION": "Crei un Globo nel tuo primo spazio vuoto. Se non ci sono spazi vuoti il tuo primo Globo (a destra) viene #yEvocato per fare spazio."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "confuso"
+      ],
+      "DESCRIPTION": "Il costo delle carte cambia in maniera casuale quando le peschi."
+    },
     "CURSE": {
       "NAMES": [
         "maledizione",
@@ -20,12 +42,18 @@
       ],
       "DESCRIPTION": "Le Maledizioni sono carte con effetto negativo che rimangono nel tuo mazzo."
     },
-    "EVOKE": {
+    "DARK": {
       "NAMES": [
-        "evoca",
-        "evocato"
+        "oscurità",
+        "oscurità+"
       ],
-      "DESCRIPTION": "Consuma il tuo Globo più a destra e usa i suoi effetti di Evocazione."
+      "DESCRIPTION": "Globo: Incrementa il proprio danno da evocazione ogni turno. Quando viene #yEvocata infligge  il proprio danno al nemico con meno PV."
+    },
+    "DAZED": {
+      "NAMES": [
+        "Disorientato"
+      ],
+      "DESCRIPTION": "Le carte Disorientato sono delle carte Eteree che non possono essere giocate."
     },
     "DEXTERITY": {
       "NAMES": [
@@ -39,6 +67,13 @@
       ],
       "DESCRIPTION": "Se questa carta è nella tua mano a fine turno, viene esaurita. Le carte esaurite vengono rimosse dal mazzo per il combattimento."
     },
+    "EVOKE": {
+      "NAMES": [
+        "evoca",
+        "evocato"
+      ],
+      "DESCRIPTION": "Consuma il tuo Globo più a destra e usa i suoi effetti di Evocazione."
+    },
     "EXHAUST": {
       "NAMES": [
         "esaurisci",
@@ -49,17 +84,44 @@
       ],
       "DESCRIPTION": "Rimossa dal mazzo per questo combattimento."
     },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Il Focus aumenta l'efficacia dei Globi #yCreati."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "fragile"
+      ],
+      "DESCRIPTION": "Se sei Fragile, ottieni il #b25% di #yBlocco in meno dalle carte."
+    },
+    "FROST": {
+      "NAMES": [
+        "ghiaccio",
+        "ghiaccio+"
+      ],
+      "DESCRIPTION": "Globo: Ottieni #yBlocco."
+    },
     "INNATE": {
       "NAMES": [
         "innata"
       ],
       "DESCRIPTION": "Inizia ogni combattimento con questa carta in mano."
     },
-    "FOCUS": {
+    "INTANGIBLE": {
       "NAMES": [
-        "focus"
+        "intangibile"
       ],
-      "DESCRIPTION": "Il Focus aumenta l'efficacia dei Globi #yCreati."
+      "DESCRIPTION": "Riduce TUTTO il danno e la perdita di HP ad #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "fulmine",
+        "fulmine+",
+        "fulmini"
+      ],
+      "DESCRIPTION": "Globo: infligge danni a un nemico casuale."
     },
     "LOCKED": {
       "NAMES": [
@@ -72,6 +134,13 @@
         "apertura"
       ],
       "DESCRIPTION": "Le carte d'apertura possono essere giocate soltanto come prima carta in ogni turno."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Globo: Ottieni Energia."
     },
     "POISON": {
       "NAMES": [
@@ -104,6 +173,31 @@
         "forza"
       ],
       "DESCRIPTION": "La Forza aggiunge danno agli attacchi."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "colpo"
+      ],
+      "DESCRIPTION": "Qualsiasi carta con la parola \"Colpo\" nel nome."
+    },
+    "TEXT": [
+      "L'Energia viene usata per giocare carte dalla tua mano."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "Quando subisce danno da #yAttacco, danneggia l'attaccante."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
     },
     "TRANSFORM": {
       "NAMES": [
@@ -158,100 +252,6 @@
         "ferite"
       ],
       "DESCRIPTION": "Le Ferite sono carte stato ingiocabili."
-    },
-    "DAZED": {
-      "NAMES": [
-        "Disorientato"
-      ],
-      "DESCRIPTION": "Le carte Disorientato sono delle carte Eteree che non possono essere giocate."
-    },
-    "BURN": {
-      "NAMES": [
-        "Ustione",
-        "Ustioni"
-      ],
-      "DESCRIPTION": "Le Ustioni sono carte di stato ingiocabili che ti infliggono danni."
-    },
-    "FRAIL": {
-      "NAMES": [
-        "fragile"
-      ],
-      "DESCRIPTION": "Se sei Fragile, ottieni il #b25% di #yBlocco in meno dalle carte."
-    },
-    "STRIKE": {
-      "NAMES": [
-        "colpo"
-      ],
-      "DESCRIPTION": "Qualsiasi carta con la parola \"Colpo\" nel nome."
-    },
-    "CONFUSED": {
-      "NAMES": [
-        "confuso"
-      ],
-      "DESCRIPTION": "Il costo delle carte cambia in maniera casuale quando le peschi."
-    },
-    "INTANGIBLE": {
-      "NAMES": [
-        "intangibile"
-      ],
-      "DESCRIPTION": "Riduce TUTTO il danno e la perdita di HP ad #b1."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "fulmine",
-        "fulmine+",
-        "fulmini"
-      ],
-      "DESCRIPTION": "Globo: infligge danni a un nemico casuale."
-    },
-    "FROST": {
-      "NAMES": [
-        "ghiaccio",
-        "ghiaccio+"
-      ],
-      "DESCRIPTION": "Globo: Ottieni #yBlocco."
-    },
-    "DARK": {
-      "NAMES": [
-        "oscurità",
-        "oscurità+"
-      ],
-      "DESCRIPTION": "Globo: Incrementa il proprio danno da evocazione ogni turno. Quando viene #yEvocata infligge  il proprio danno al nemico con meno PV."
-    },
-    "PLASMA": {
-      "NAMES": [
-        "plasma",
-        "plasma+"
-      ],
-      "DESCRIPTION": "Globo: Ottieni Energia."
-    },
-    "CHANNEL": {
-      "NAMES": [
-        "crea",
-        "creato",
-        "crei",
-        "creati"
-      ],
-      "DESCRIPTION": "Crei un Globo nel tuo primo spazio vuoto. Se non ci sono spazi vuoti il tuo primo Globo (a destra) viene #yEvocato per fare spazio."
-    },
-    "THORNS": {
-      "NAMES": [
-        "thorns"
-      ],
-      "DESCRIPTION": "Quando subisce danno da #yAttacco, danneggia l'attaccante."
-    },
-    "TODO": {
-      "NAMES": [
-        "todo",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE"
-      ],
-      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
-    },
-    "TEXT": [
-      "L'Energia viene usata per giocare carte dalla tua mano."
-    ]
+    }
   }
 }

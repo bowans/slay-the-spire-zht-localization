@@ -497,9 +497,9 @@
       "#b~UNBEKANNT.~ NL NL Noch nicht eingefügt."
     ],
     "OPTIONS": [
-      "[Erinnern] #gFüge #gdeinem #gDeck #g1 #gfarblose #gKarten #gzu.",
-      "[Erinnern] #gFüge #gdeinem #gDeck #g2 #gfarblose #gKarten #gzu. #rVerliere #r",
-      "[Erinnern] #gFüge #gdeinem #gDeck #g3 #gfarblose #gKarten #gzu. #rVerliere #r",
+      "[Erinnern] #gWähle #gund #gerhalte #g1 #gfarblose #gKarte.",
+      "[Erinnern] #gWähle #gund #gerhalte #g2 #gfarblose #gKarten. #rVerliere #r",
+      "[Erinnern] #gWähle #gund #gerhalte #g3 #gfarblose #gKarten. #rVerliere #r",
       " #rTP.",
       "[Verlassen]",
       "[Interagieren]"
@@ -594,11 +594,11 @@
       "Die Geschichte spielt in einem abgeschiedenen, unterirdischen Gebäude, da die Zustände außerhalb unerträglich geworden sind. Dieser Roman ist durchzogen von Verschwörungen, Propaganda und Ungerechtigkeit. Du denkst darüber nach, ob sich eine ähnliche Dynamik im Spire abspielt. NL Beunruhigend."
     ],
     "OPTIONS": [
-      "[Lesen] #gWähle #g1 #gvon #g20 #gKarten #gaus, #gum #gsie #gdeinem #gDeck #ghinzuzufügen.",
+      "[Lesen] #gWähle #g1 #gvon #g20 #gKarten #gaus, #gdie #gdu #gerhältst.",
       "[Schlafen] #gHeile #g",
       " #gTP.",
       "[Verlassen]",
-      "Füge deinem Deck eine Karte hinzu."
+      "Wähle eine Karte, die du erhältst."
     ]
   },
   "The Mausoleum": {

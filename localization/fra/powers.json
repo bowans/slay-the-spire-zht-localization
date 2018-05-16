@@ -362,7 +362,7 @@
     ]
   },
   "Flex": {
-    "NAME": "Vantardise",
+    "NAME": "Perte de Force",
     "DESCRIPTIONS": [
       "À la fin de votre tour, vous perdez #b",
       " de #yForce."
@@ -894,10 +894,26 @@
     ]
   },
   "DexLoss": {
-    "NAME": "Dexterity Down",
+    "NAME": "Perte de Dextérité",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
+      "A la fin de votre tour, perdez #b",
+      " de #yDextérité."
+    ]
+  },
+  "Electro": {
+    "NAME": "Electro",
+    "DESCRIPTIONS": [
+      "#yLightning hits ALL enemies.",
+      " NL If there is only #b1 enemy, #yLightning hits #b",
+      " times."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
     ]
   }
 }

@@ -1,12 +1,4 @@
 {
-  "Ironclad": {
-    "NAMES": [
-      "Pancernik"
-    ],
-    "TEXT": [
-      "Ostatni żołnierz klanu Pancerników. NL Sprzedał duszę, aby posiąść mroczne moce."
-    ]
-  },
   "Crowbot": {
     "NAMES": [
       "Crowbot"
@@ -15,20 +7,44 @@
       "BEEP BOOP"
     ]
   },
-  "Silent": {
-    "NAMES": [
-      "Cień"
-    ],
-    "TEXT": [
-      "Zabójcza łowczyni z okolic mgliszczy. NL Rozprawia się z przeciwnikami przy użyciu sztyletów i trucizny."
-    ]
-  },
   "Defect": {
     "NAMES": [
       "Defekt"
     ],
     "TEXT": [
       "Bojowy automaton, który zyskał świadomość. NL Antyczna technologia pozwala mu manipulować Sferami."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "Pancernik"
+    ],
+    "TEXT": [
+      "Ostatni żołnierz klanu Pancerników. NL Sprzedał duszę, aby posiąść mroczne moce."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Kontynuuj",
+      "~Witaj!~"
+    ],
+    "TEXT": [
+      "Hej! NL Kup coś! NL No dalej!",
+      "Podoba mi się twoja fryzura",
+      "Masz czas?",
+      "Wolisz psy czy koty?",
+      "Wyglądasz ~niebezpiecznie,~ NL hehe...",
+      "Nie śpiesz się... NL ..... NL ... ale zrób to dzisiaj",
+      "Podoba ci się ten koc? NL Nie jest na sprzedaż!",
+      "Wspieraj lokalne przedsiębiorstwa!",
+      "Maski są świetne, znam się!",
+      "Hmm... NL ...hmm... NL Och!",
+      "Usiądź na chwilę NL i posłuchaj!",
+      "Niebezpiecznie jest podróżować samemu! Złoto zostaw u mnie!",
+      "Kupże coś!",
+      "~*ZIEW*~",
+      "Lubię złoto.",
+      "Mój ulubiony kolor to niebieski. NL A twój?"
     ]
   },
   "Neow Event": {
@@ -93,30 +109,6 @@
       "[ #rUtrać #rswój #rstartowy #rartefakt #gOtrzymaj #glosowy #glegendarny #gartefakt ]"
     ]
   },
-  "Merchant": {
-    "NAMES": [
-      "Kontynuuj",
-      "~Witaj!~"
-    ],
-    "TEXT": [
-      "Hej! NL Kup coś! NL No dalej!",
-      "Podoba mi się twoja fryzura",
-      "Masz czas?",
-      "Wolisz psy czy koty?",
-      "Wyglądasz ~niebezpiecznie,~ NL hehe...",
-      "Nie śpiesz się... NL ..... NL ... ale zrób to dzisiaj",
-      "Podoba ci się ten koc? NL Nie jest na sprzedaż!",
-      "Wspieraj lokalne przedsiębiorstwa!",
-      "Maski są świetne, znam się!",
-      "Hmm... NL ...hmm... NL Och!",
-      "Usiądź na chwilę NL i posłuchaj!",
-      "Niebezpiecznie jest podróżować samemu! Złoto zostaw u mnie!",
-      "Kupże coś!",
-      "~*ZIEW*~",
-      "Lubię złoto.",
-      "Mój ulubiony kolor to niebieski. NL A twój?"
-    ]
-  },
   "Shop Screen": {
     "NAMES": [
       "~Witam~ NL ~Witam!~",
@@ -151,6 +143,14 @@
       "~*ZIEW*~",
       "Lubię złoto.",
       "Mój ulubiony kolor to niebieski. NL A twój?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Cień"
+    ],
+    "TEXT": [
+      "Zabójcza łowczyni z okolic mgliszczy. NL Rozprawia się z przeciwnikami przy użyciu sztyletów i trucizny."
     ]
   }
 }

@@ -38,7 +38,7 @@
   },
   "Glass Knife": {
     "NAME": "Couteau de verre",
-    "DESCRIPTION": "Infligez !D! dégât(s) 2 fois. La carte inflige -2 dégâts pour ce combat."
+    "DESCRIPTION": "Infligez !D! dégât(s) 2 fois. Couteau de verre inflige 2 dégâts de moins pour ce combat."
   },
   "Cloak And Dagger": {
     "NAME": "Cape et épée",
@@ -423,9 +423,9 @@
     "NAME": "Coup de grâce",
     "DESCRIPTION": "Infligez !D! dégât(s) par carte Attaque jouée ce tour.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Vous avez joué ",
-      " carte Attaque.)",
-      " cartes Attaque.)"
+      " NL (",
+      " carte Attaque jouée.)",
+      " cartes Attaque jouées.)"
     ]
   },
   "Dark Embrace": {
@@ -606,7 +606,7 @@
   "Corpse Explosion": {
     "NAME": "Explosion morbide",
     "DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le double de ce total à TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le triple de ce total à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le NL triple de ce total à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
       "Cet ennemi n'est pas Empoisonné."
     ]
@@ -878,7 +878,7 @@
   },
   "Wraith Form v2": {
     "NAME": "Forme spectrale",
-    "DESCRIPTION": "Gagnez !M! Intangible. NL À la fin de votre tour, perdez 1 de Dextérité."
+    "DESCRIPTION": "Gagnez !M! Intangible. NL À la fin de chaque tour, perdez 1 de Dextérité."
   },
   "Genetic Algorithm": {
     "NAME": "Algorithme génétique",
@@ -924,14 +924,14 @@
     "DESCRIPTION": "Infligez !D! dégât(s). Si vous avez joué moins de !M! cartes ce tour, piochez 1 carte.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
-      " card played.)",
-      " cards played.)"
+      " carte jouée.)",
+      " cartes jouées.)"
     ]
   },
   "Seek": {
     "NAME": "Recherche",
-    "DESCRIPTION": "Choisissez !M! cartes de votre pioche et ajoutez-les à votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "DESCRIPTION": "Choisissez !M! carte de votre pioche et ajoutez-la à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Choisissez !M! cartes de votre pioche et ajoutez-les à votre main. NL Épuisement."
   },
   "Chaos": {
     "NAME": "Chaos",
@@ -976,7 +976,7 @@
     "DESCRIPTION": "Infligez !D! dégât(s). Si l'ennemi compte attaquer, appliquez !M! de Faiblesse."
   },
   "Steam Power": {
-    "NAME": "Machine à vapeur",
+    "NAME": "Overclock",
     "DESCRIPTION": "Piochez !M! cartes. NL Ajoutez une Brûlure à votre défausse."
   },
   "Creative AI": {
@@ -1018,7 +1018,8 @@
   },
   "Loop": {
     "NAME": "Boucle",
-    "DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe."
+    "DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Glacier": {
     "NAME": "Glacier",
@@ -1035,7 +1036,7 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Infligez autant de dégâts que !M! fois le nombre de Pouvoirs joués ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois le nombre de Pouvoirs joués ce combat à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
       " NL Épuisement.",
       " NL (Infligez !D! dégât(s).)"
@@ -1268,7 +1269,12 @@
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Inné. NL Épuisement."
   },
   "Steam": {
-    "NAME": "Steam",
-    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
+    "NAME": "Vapeur",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Vapeur donnera 2 d'Armure de moins pendant ce combat."
+  },
+  "Electrodynamics": {
+    "NAME": "Electrodynamics",
+    "DESCRIPTION": "Lightning now hits ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
   }
 }

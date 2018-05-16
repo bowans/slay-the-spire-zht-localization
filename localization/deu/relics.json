@@ -20,7 +20,7 @@
     "NAME": "Kriegskunst",
     "FLAVOR": "Dieses uralte Manuskript enthält Weisheiten aus einer vergangenen Zeit.",
     "DESCRIPTIONS": [
-      "Spielst du bei deinem Zug keine #yAngriffe aus, erhalte im nächsten Zug ein ",
+      "Spielst du in deinem Zug keine #yAngriffe aus, erhalte im nächsten Zug ein ",
       "[R] mehr.",
       "[G] mehr.",
       "[B] mehr."
@@ -30,7 +30,7 @@
     "NAME": "Astrolabium",
     "FLAVOR": "Mit diesem Instrument eignest du dir das wertvolle Wissen der Sterne an.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben #b3 Karten, #ytransformiere sie und #yverbessere sie dann.",
+      "Wähle sofort #b3 Karten, #ytransformiere sie und #yverbessere sie dann.",
       "Wähle 3 Karten für "
     ]
   },
@@ -39,14 +39,14 @@
     "FLAVOR": "Ein einst beliebtes Spielzeug in der Stadt. Nützlich, um Gegner aus dem Gleichgewicht zu bringen.",
     "DESCRIPTIONS": [
       "Wende zu Beginn jedes Kampfes #b",
-      " #yVerwundbar an ALLEN Gegnern an."
+      " #yVerwundbar auf ALLE Gegnern an."
     ]
   },
   "Bag of Preparation": {
     "NAME": "Tasche der Vorbereitung",
     "FLAVOR": "Übergroßer Abenteurerrucksack. Mit vielen Taschen und Riemen.",
     "DESCRIPTIONS": [
-      "Ziehe zu Beginn des Kampfes #b",
+      "Ziehe zu Beginn jedes Kampfes #b",
       " zusätzliche Karten."
     ]
   },
@@ -62,7 +62,7 @@
     "NAME": "Schwarzes Blut",
     "FLAVOR": "Die Wut wird immer dunkler.",
     "DESCRIPTIONS": [
-      "Ersetzt #rGlühendes #rBlut. NL Am Ende des Kampfes heile #b",
+      "Ersetzt #rGlühendes #rBlut. NL Heile am Ende des Kampfes #b",
       " TP."
     ]
   },
@@ -77,7 +77,7 @@
     "NAME": "Blutphiole",
     "FLAVOR": "Eine Phiole mit dem Blut eines echten Vampirälteren.",
     "DESCRIPTIONS": [
-      "Zu Beginn jedes Kampfes heile #b",
+      "Heile zu Beginn jedes Kampfes #b",
       " TP."
     ]
   },
@@ -101,7 +101,7 @@
     "NAME": "Flaschenflamme",
     "FLAVOR": "In der Flasche haust eine Flamme, die auf ewig brennt.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben eine Angriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Wähle sofort eine Angriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -111,7 +111,7 @@
     "NAME": "Flaschenblitz",
     "FLAVOR": "Im wirbelnden Mahlstrom siehst du einen Teil deiner selbst zurückstarren.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben eine Fertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Wähle sofort eine Fertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -121,7 +121,7 @@
     "NAME": "Flaschentornado",
     "FLAVOR": "Testrelikt.",
     "DESCRIPTIONS": [
-      "Wähle bei Aufnahme eine Machtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Wähle sofort eine Machtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -131,30 +131,30 @@
     "NAME": "Bronzeschuppen",
     "FLAVOR": "Die scharfen Schuppen des Wächters. Platzieren sich neu, um den Benutzer zu schützen. ",
     "DESCRIPTIONS": [
-      "Immer wenn du Schaden erleidest, gib #b",
-      " Schaden zurück."
+      "Immer wenn dich ein Gegner angreift, nimmt dieser #b",
+      " Schaden."
     ]
   },
   "Burning Blood": {
     "NAME": "Glühendes Blut",
-    "FLAVOR": "Das Blut deines eigenen Körpers brennt mit unendlicher Wut.",
+    "FLAVOR": "Das Blut deines eigenen Körpers brennt vor unendlicher Wut.",
     "DESCRIPTIONS": [
-      "Am Ende des Kampfes heile #b",
+      "Heile am Ende des Kampfes #b",
       " TP."
     ]
   },
   "Cables": {
-    "NAME": "Gold-Beschichtete Kabel",
+    "NAME": "Gold-beschichtete Kabel",
     "FLAVOR": "\"Interessant! Sogar Automatone sind vom Placebo-Effekt betroffen.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Dein ganz rechter Orb aktiviert seinen passiven Effekt ein weiteres Mal."
+      "Dein vorderster Orb aktiviert seinen passiven Effekt ein weiteres Mal."
     ]
   },
   "Calipers": {
     "NAME": "Messschieber",
     "FLAVOR": "„Mechanische Präzision führt zu wahrer Größe.“ – Der Architekt",
     "DESCRIPTIONS": [
-      "Zu Beginn deines Zuges verliere #b",
+      "Verliere zu Beginn deines Zuges #b",
       " #yBlock statt dein gesamtes #yBlock."
     ]
   },
@@ -172,7 +172,7 @@
     "NAME": "Kessel",
     "FLAVOR": "Der Händler ist ein ziemlich geschickter Trankbrauer. Kaufe 4, erhalte 1 kostenlos.",
     "DESCRIPTIONS": [
-      "Bei Erhalt werden #b5 zufällige Tränke gebraut.",
+      "Dir werden sofort #b5 zufällige Tränke gebraut.",
       "Blupp, blipp, bluuupp...!"
     ]
   },
@@ -225,24 +225,24 @@
     "NAME": "Gesprungener Kern",
     "FLAVOR": "Die mysteriöse Lebenskraft, welche die Automatone im Spire antreibt. Scheint kaputt zu sein.",
     "DESCRIPTIONS": [
-      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yBlitz."
+      "#yErschaffe zu Beginn jedes Kampfes #b1 #yBlitz."
     ]
   },
   "Cursed Key": {
     "NAME": "Verfluchter Schlüssel",
     "FLAVOR": "Du spürst, wie vom Schlüssel eine böse Energie ausgeht. Macht hat ihren Preis.",
     "DESCRIPTIONS": [
-      " Immer wenn du eine Truhe (außer Bosstruhen) öffnest, erhalte einen #rFluch.",
-      "Erhalte zu Beginn jedes Zuges [R] .",
-      "Erhalte zu Beginn jedes Zuges [G] .",
-      "Erhalte zu Beginn jedes Zuges [B] ."
+      " NL Immer wenn du eine Truhe (außer Bosstruhen) öffnest, erhalte einen #rFluch.",
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
     ]
   },
   "Darkstone Periapt": {
     "NAME": "Dunkelstein-Amulett",
     "FLAVOR": "Der Stein wandelt dunkle Energie in Lebenskraft um.",
     "DESCRIPTIONS": [
-      "Wenn du einen #yFluch erhältst, erhöhe deine Max-TP um #b"
+      "Immer wenn du einen #yFluch erhältst, erhöhe deine max. TP um #b"
     ]
   },
   "DataDisk": {
@@ -279,17 +279,17 @@
     "NAME": "Runischer Dodekaeder",
     "FLAVOR": "Die Runen sind unentzifferbar.",
     "DESCRIPTIONS": [
-      "Hast du volle TP, erhalte ",
-      "[R] zu Beginn jedes Zuges.",
-      "[G] zu Beginn jedes Zuges.",
-      "[B] zu Beginn jedes Zuges."
+      "Erhalte in jedem Zug, in dem du volle TP hast, ",
+      "[R] .",
+      "[G] .",
+      "[B] ."
     ]
   },
   "Dream Catcher": {
     "NAME": "Traumfänger",
     "FLAVOR": "Die nördlichen Stämme setzten in der Hoffnung auf Selbstbesserung nachts gern Traumfänger ein.",
     "DESCRIPTIONS": [
-      "Immer wenn du dich ausruhst, kannst du deinem Deck eine Karte hinzufügen."
+      "Immer wenn du dich #yausruhst, kannst du eine Karte wählen und erhalten."
     ]
   },
   "Du-Vu Doll": {
@@ -307,17 +307,17 @@
     "NAME": "Ektoplasma",
     "FLAVOR": "Dieser Klumpen aus Schleim und Energie scheint vor Leben zu strotzen.",
     "DESCRIPTIONS": [
-      " Du kannst kein #yGold mehr erhalten.",
-      "Erhalte zu Beginn jedes Zuges [R] .",
-      "Erhalte zu Beginn jedes Zuges [G] .",
-      "Erhalte zu Beginn jedes Zuges [B] ."
+      " NL Du kannst kein #yGold mehr erhalten.",
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
     ]
   },
   "Emotion Chip": {
     "NAME": "Gefühlschip",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Wenn ein Zug beginnt und du im letzten Zug Schaden genommen hast, löse den passiven Effekt all deiner Orbs aus."
+      "Löse zu Beginn deines Zuges den passiven Effekt ALL deiner Orbs aus, wenn du im letzten Zug Schaden genommen hast."
     ]
   },
   "Enchiridion": {
@@ -331,8 +331,8 @@
     "NAME": "Ewige Feder",
     "FLAVOR": "Diese Feder scheint vollkommen unverwüstlich zu sein. Von welchem Vogel sie bloß stammen mag? ",
     "DESCRIPTIONS": [
-      "Für je #b",
-      " Karten in deinem Deck heile #b",
+      "Heile für je #b",
+      " Karten in deinem Deck #b",
       " TP, wenn du dich an einem Lagerfeuer befindest."
     ]
   },
@@ -340,7 +340,7 @@
     "NAME": "Gefrorenes Ei",
     "FLAVOR": "Das Ei ist erstarrt und gefroren, aus ihm wird nie etwas schlüpfen.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben eine #yMacht und #yverbessere sie.",
+      "Wähle sofort eine #yMacht und #yverbessere sie.",
       "Wähle eine Karte für "
     ]
   },
@@ -440,18 +440,18 @@
     "NAME": "Laterne",
     "FLAVOR": "Eine gespenstische Laterne, die nur für ihren Träger leuchtet.",
     "DESCRIPTIONS": [
-      "Erhalte ",
+      "Erhalte im ersten Zug jedes Kampfes ",
       "[R] ",
       "[G] ",
       "[B] ",
-      "im ersten Zug jedes Kampfes."
+      "."
     ]
   },
   "Lee's Waffle": {
     "NAME": "Lees Waffel",
     "FLAVOR": "„Der köstlichste Leckerbissen im ganzen Spire! Heute speziell für dich gemacht.“",
     "DESCRIPTIONS": [
-      "Erhöhe deine Max-TP um #b",
+      "Erhöhe deine max. TP um #b",
       " und heile all deine TP."
     ]
   },
@@ -474,7 +474,7 @@
     "NAME": "Echsenschwanz",
     "FLAVOR": "Ein falscher Schwanz, um Gegner während des Kampfes hereinzulegen.",
     "DESCRIPTIONS": [
-      "Anstatt zu sterben, werden #b50% deiner Max-TP geheilt (funktioniert einmal)."
+      "Anstatt zu sterben, werden #b50% deiner max. TP geheilt (funktioniert einmal)."
     ]
   },
   "Magic Flower": {
@@ -488,14 +488,14 @@
     "NAME": "Mango",
     "FLAVOR": "Die begehrteste vergessene Frucht. Perfekt erhalten und ohne Spuren von Spire-Fäule.",
     "DESCRIPTIONS": [
-      "Deine Max-TP erhöhen sich um #b"
+      "Deine max. TP erhöhen sich um #b"
     ]
   },
   "Mark of Pain": {
     "NAME": "Zeichen der Qual",
     "FLAVOR": "Dieses Brandzeichen erhielten Krieger der nördlichen Stämme, wenn sie im Kampf die Qual bezwangen.",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn jedes Zuges [R] . Du beginnst Kämpfe mit #b2 #rWunden in deinem Nachziehstapel."
+      "Erhalte in jedem Zug [R] . NL Du beginnst Kämpfe mit #b2 #rWunden in deinem Nachziehstapel."
     ]
   },
   "Matryoshka": {
@@ -533,7 +533,7 @@
     "NAME": "Quecksilber-Sanduhr",
     "FLAVOR": "Eine verzauberte Sanduhr, die immerfort fließt.",
     "DESCRIPTIONS": [
-      "Zu Beginn deines Zuges füge ALLEN Gegnern #b",
+      "Füge zu Beginn deines Zuges ALLEN Gegnern #b",
       " Schaden zu."
     ]
   },
@@ -541,7 +541,7 @@
     "NAME": "Geschmolzenes Ei",
     "FLAVOR": "Das Ei eines Phönix. Die heiße Lava glüht feuerrot.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben einen #yAngriff und #yverbessere ihn.",
+      "Wähle sofort einen #yAngriff und #yverbessere ihn.",
       "Wähle eine Karte für "
     ]
   },
@@ -597,8 +597,8 @@
     "NAME": "Ninja-Schriftrolle",
     "FLAVOR": "Enthält die Geheimnisse der Assassinen.",
     "DESCRIPTIONS": [
-      "Du beginnst jeden Kampf mit #b",
-      " #yMessern auf deiner Hand."
+      "Erhalte zu Beginn jedes Kampfes #b",
+      " #yMesser auf die Hand."
     ]
   },
   "Nloth's Gift": {
@@ -673,7 +673,7 @@
     "NAME": "Planetarium",
     "FLAVOR": "„Wenn man erst das Universum versteht...“ – Zoroth",
     "DESCRIPTIONS": [
-      "Wähle #b5 Karten aus und füge sie deinem Deck hinzu.",
+      "Wähle und erhalte #b5 Karten.",
       "Wissen!"
     ]
   },
@@ -718,24 +718,31 @@
     "NAME": "Birne",
     "FLAVOR": "Eine weit verbreitete Frucht vor der Spire-Fäule.",
     "DESCRIPTIONS": [
-      "Deine Max-TP erhöhen sich um #b"
+      "Deine max. TP erhöhen sich um #b"
     ]
   },
   "Pen Nib": {
     "NAME": "Schreibfeder",
     "FLAVOR": "Mit der Feder siehst du alle, die jemals von den Vorbesitzern des Füllers erschlagen wurden. Äußerst brutale Geschichte.",
     "DESCRIPTIONS": [
-      "Bei jedem #b10. #yAngriff verursachst du doppelten Schaden."
+      "Verursache bei jedem #b10. #yAngriff doppelten Schaden."
     ]
   },
   "Philosopher's Stone": {
     "NAME": "Stein der Weisen",
     "FLAVOR": "Eine rohe Energie geht vom Stein aus und stärkt alle in der Nähe.",
     "DESCRIPTIONS": [
-      " ALLE Gegner beginnen mit #b2 #yStärke.",
-      "Erhalte zu Beginn jedes Zuges [R] .",
-      "Erhalte zu Beginn jedes Zuges [G] .",
-      "Erhalte zu Beginn jedes Zuges [B] ."
+      " NL ALLE Gegner beginnen mit #b2 #yStärke.",
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "Trankgürtel",
+    "FLAVOR": "Mit diesem Gürtel kann ich mehr Tränke tragen!",
+    "DESCRIPTIONS": [
+      "Erhalte sofort #b1 Trankslot."
     ]
   },
   "Prayer Wheel": {
@@ -786,7 +793,7 @@
   "Ring of the Serpent": {
     "NAME": "Giftschlangenring",
     "DESCRIPTIONS": [
-      "Ersetzt #gSchlangenring. Besiegst du einen #yElitegegner, erhöhen sich deine Max-TP um #b"
+      "Ersetzt #gSchlangenring. Besiegst du einen #yElitegegner, erhöhen sich deine max. TP um #b"
     ]
   },
   "Ring of the Snake": {
@@ -818,9 +825,9 @@
     "FLAVOR": "Die Runen sind unentzifferbar.",
     "DESCRIPTIONS": [
       " NL Du kannst nicht mehr die #bAbsichten von Gegnern sehen.",
-      "Erhalte zu Beginn jedes Zuges [R] .",
-      "Erhalte zu Beginn jedes Zuges [G] .",
-      "Erhalte zu Beginn jedes Zuges [B] ."
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
     ]
   },
   "Runic Pyramid": {
@@ -859,7 +866,7 @@
     "NAME": "Klangschale",
     "FLAVOR": "Dieses oft genutzte Artefakt lässt eine wunderschöne Melodie erklingen, wenn man draufschlägt.",
     "DESCRIPTIONS": [
-      "Anstatt eine Karte deinem Deck hinzuzufügen, kannst du #b+2 Max-TP erhalten."
+      "Anstatt eine Karte deinem Deck hinzuzufügen, kannst du #b+2 max. TP erhalten."
     ]
   },
   "Smiling Mask": {
@@ -874,8 +881,8 @@
     "NAME": "Snecko-Schädel",
     "FLAVOR": "Ein Snecko-Schädel in tadellosem Zustand. Überraschend sauber und glatt, Dreck fällt einfach davon ab.",
     "DESCRIPTIONS": [
-      "Immer wenn du #yGift anwendest, wendest du zusätzlich #b",
-      " #yGift an."
+      "Immer wenn du #yGift anwendest, wende #b",
+      " #yGift mehr an."
     ]
   },
   "Snecko Eye": {
@@ -890,9 +897,9 @@
     "FLAVOR": "Du merkst, wie magische Flüssigkeiten in der Nähe dieses Relikts die Wirkung verlieren.",
     "DESCRIPTIONS": [
       " NL Du kannst keine Tränke mehr aufnehmen. ",
-      "Erhalte zu Beginn jedes Zuges [R] .",
-      "Erhalte zu Beginn jedes Zuges [G] .",
-      "Erhalte zu Beginn jedes Zuges [B] ."
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
     ]
   },
   "Spirit Poop": {
@@ -913,7 +920,7 @@
     "NAME": "Erdbeere",
     "FLAVOR": "„Köstlich! Seit der Fäule habe ich so etwas nicht mehr gesehen.“ – Ranwind",
     "DESCRIPTIONS": [
-      "Deine Max-TP erhöhen sich um #b"
+      "Deine max. TP erhöhen sich um #b"
     ]
   },
   "Sundial": {
@@ -930,14 +937,14 @@
     "NAME": "Symbiotischer Virus",
     "FLAVOR": "Ein bisschen Schlechtes kann viel Gutes bringen...",
     "DESCRIPTIONS": [
-      "Zu Beginn jedes Kampfes #yerschaffe #b1 #ySchatten."
+      "#yErschaffe zu Beginn jedes Kampfes #b1 #ySchatten."
     ]
   },
   "Test 1": {
     "NAME": "Test 1",
     "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
     "DESCRIPTIONS": [
-      "Immer wenn du einen #yFluch erhältst, erhöhen sich deine Max-TP um #b",
+      "Immer wenn du einen #yFluch erhältst, erhöhen sich deine max. TP um #b",
       " [R] .",
       " [G] .",
       " [B] ."
@@ -968,7 +975,7 @@
     "NAME": "Test 5",
     "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
     "DESCRIPTIONS": [
-      "#yVerbessere beim Aufheben #b",
+      "#yVerbessere sofort #b",
       " zufällige #yFertigkeiten."
     ]
   },
@@ -1039,7 +1046,7 @@
     "FLAVOR": "„Ein fast perfektes Miniaturexemplar. Meine bisher beste Arbeit, allerdings noch immer nicht ausreichend.“– Der Architekt",
     "DESCRIPTIONS": [
       "Erhalte #b1 Trank. NL Erhalte #b",
-      " #yGold. NL Erhöhe deine Max-TP um #b",
+      " #yGold. NL Erhöhe deine max. TP um #b",
       ". NL Erhalte #b1 Karte. NL Verbessere #b1 zufällige Karte.",
       "Winziges Haus!"
     ]
@@ -1071,7 +1078,7 @@
     "NAME": "Giftiges Ei",
     "FLAVOR": "„Eine tolle Entdeckung! Das dürfte das erstarrte Ei einer magischen Kreatur sein. Wer oder was ist dafür verantwortlich?“ – Ranwid",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben eine #yFertigkeit und #yverbessere sie.",
+      "Wähle sofort eine #yFertigkeit und #yverbessere sie.",
       "Wähle eine Karte für "
     ]
   },
@@ -1118,9 +1125,9 @@
     "DESCRIPTIONS": [
       " NL Du kannst nicht mehr als #b",
       " Karten pro Zug spielen.",
-      "Wenn jeder Zug beginnt, erhalte [R] . ",
-      "Wenn jeder Zug beginnt, erhalte [G] . ",
-      "Wenn jeder Zug beginnt, erhalte [B] . ",
+      "Erhalte in jedem Zug [R] . ",
+      "Erhalte in jedem Zug [G] . ",
+      "Erhalte in jedem Zug [B] . ",
       "Ich kann nur bis zu NL #r"
     ]
   },
@@ -1128,7 +1135,7 @@
     "NAME": "Kriegsbemalung",
     "FLAVOR": "Eiserne nutzen diese Bemalung, um sich vor der Schlacht magische Kreise erstellen.",
     "DESCRIPTIONS": [
-      "Bei Aufnahme: #yVerbessere #b",
+      "#yVerbessere sofort #b",
       " zufällige #yFertigkeiten."
     ]
   },
@@ -1136,7 +1143,7 @@
     "NAME": "Schleifstein",
     "FLAVOR": "„Dem Stahl kann das Fleisch nicht das Wasser reichen.“ – Kublai der Große",
     "DESCRIPTIONS": [
-      "#yVerbessere beim Aufheben #b",
+      "#yVerbessere sofort #b",
       " zufällige #yAngriffe."
     ]
   },
@@ -1145,6 +1152,14 @@
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
       "Tränke werden immer nach dem Kampf fallen gelassen."
+    ]
+  },
+  "Boot": {
+    "NAME": "The Boot",
+    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "DESCRIPTIONS": [
+      "Whenever you would deal #b",
+      " or less unblocked #yAttack damage, increase it to #b5."
     ]
   }
 }

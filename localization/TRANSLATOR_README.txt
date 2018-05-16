@@ -65,5 +65,13 @@ How to test localization for Slay the Spire:
 7. Run the game through SlayTheSpire.exe
 8. View your changes in-game! Wow!
 
+---------------------
+----- SECTION 3 -----
+---------------------
+
+Misc Notes:
+
+1. SRB is Serbian (Latin) and SRP is Serbian (Cyrillic)
+
 Thanks,
 Anthony and Casey

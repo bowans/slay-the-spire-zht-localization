@@ -23,7 +23,7 @@
   "GamblingChipAction": {
     "TEXT": [
       "Remplacer (jeton)",
-      "Replace"
+      "Remplacer"
     ]
   },
   "RetainCardsAction": {
@@ -188,7 +188,7 @@
   "AbstractRoom": {
     "TEXT": [
       "Pillé...",
-      "Fled..."
+      "Fuite..."
     ]
   },
   "SingleViewRelicPopup": {
@@ -440,7 +440,7 @@
       "Options de jeu",
       "Graphismes",
       "Résolution : NL Fréquence d'images max :",
-      "Plein écran NL Plein écran fenêtré (recommandé) NL Tremblement de l'écran",
+      "Plein écran NL Plein écran fenêtré (recommandé) NL Secousses de l'écran",
       "Son",
       "Volume principal NL Volume musique NL Volume effets",
       "Sons d'Ambiance NL Désactiver lorsque le jeu est en arrière-plan",
@@ -456,7 +456,7 @@
       "NL NL Synchronisation verticale",
       "Mode artistique du testeur",
       "Montrer les raccourcis de sélection de cartes",
-      "Input Settings"
+      "Contrôles"
     ]
   },
   "SettingsScreen": {
@@ -705,7 +705,8 @@
       "Ukrainien",
       "Vietnamien",
       "Hongrois",
-      "Serbe (Latin)"
+      "Serbe (Latin)",
+      "Catalan"
     ]
   },
   "UnlockTextEffect": {
@@ -1020,7 +1021,12 @@
       "#y%s #yOr",
       "Choisi %s",
       "Passé :",
-      "Information manquante"
+      "Information manquante",
+      "+2 Max HP",
+      "#bC ",
+      "#bR ",
+      "#bP ",
+      "#bS "
     ]
   },
   "SeedPanel": {

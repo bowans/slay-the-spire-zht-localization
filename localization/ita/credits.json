@@ -1,42 +1,16 @@
 {
-  "DEV": {
-    "HEADER": "Sviluppo e Progettazione",
-    "NAMES": [
-      "Anthony Giovannetti",
-      "Casey Yano"
-    ]
-  },
-  "OPS": {
-    "HEADER": "Operazioni e Parametri",
-    "NAMES": [
-      "Danielle Jenkins",
-      "Jake Rabinowitz"
-    ]
-  },
-  "SOUND": {
-    "HEADER": "Suoni e Musica",
-    "NAMES": [
-      "Clark Aboud"
-    ]
-  },
-  "VOICE": {
-    "HEADER": "Voci",
-    "NAMES": [
-      "Tamara Ryan",
-      "Michael Schwalbe"
-    ]
-  },
-  "PORTRAITS": {
-    "HEADER": "Illustrazioni di Carte ed Eventi",
-    "NAMES": [
-      "Anailis Dorta"
-    ]
-  },
   "ANIMATION": {
     "HEADER": "Animazioni dei Personaggi",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Sviluppo e Progettazione",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
     ]
   },
   "ILLUSTRATION": {
@@ -45,15 +19,25 @@
       "Bruce Brenneise"
     ]
   },
-  "LOC_ZHS": {
-    "HEADER": "Localizzazione in Cinese (Semplificato)",
+  "LOC_ADDITIONAL": {
+    "HEADER": "Traduzioni Aggiuntive",
     "NAMES": [
-      "Sound of Mystery"
+      "MoGi Group"
     ]
   },
-  "LOC_ZHT": {
-    "HEADER": "Localizzazione in Cinese (Tradizionale)",
+  "LOC_CAT": {
+    "HEADER": "Localizzazione Catalana",
     "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "Localizzazione Tedesca",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly"
+    ]
   },
   "LOC_FRA": {
     "HEADER": "Localizzazione Francese",
@@ -69,12 +53,6 @@
       "Corentin \"Tchus\" Monfort",
       "Nicky \"Qazahar\" Dehout",
       "Zachary \"WyvernZed\" Janisse"
-    ]
-  },
-  "LOC_DEU": {
-    "HEADER": "Localizzazione Tedesca",
-    "NAMES": [
-      "Joshua \"Joshipon\" Wiegand "
     ]
   },
   "LOC_ITA": {
@@ -171,10 +149,51 @@
       "Erdem Gürbüz"
     ]
   },
-  "LOC_ADDITIONAL": {
-    "HEADER": "Traduzioni Aggiuntive",
+  "LOC_UKR": {
+    "HEADER": "Localizzazione Ucraina",
+    "NAMES": []
+  },
+  "LOC_ZHS": {
+    "HEADER": "Localizzazione in Cinese (Semplificato)",
     "NAMES": [
-      "MoGi Group"
+      "Sound of Mystery"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Localizzazione in Cinese (Tradizionale)",
+    "NAMES": []
+  },
+  "OPS": {
+    "HEADER": "Operazioni e Parametri",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Illustrazioni di Carte ed Eventi",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Suoni e Musica",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Ringraziamenti Speciali",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper"
     ]
   },
   "TEST": {
@@ -209,22 +228,15 @@
       "Conor Watson"
     ]
   },
-  "SPECIAL": {
-    "HEADER": "Ringraziamenti Speciali",
-    "NAMES": [
-      "Harry Rabinowitz",
-      "Kevin \"Billy\" Matheson",
-      "Anthony Roybal",
-      "Lee Beckman",
-      "Sam Welch",
-      "feedbackbot",
-      "Evan Howell",
-      "Justin Myhres",
-      "robojumper"
-    ]
-  },
   "THANKS_MSG": {
     "HEADER": "...e grazie a TE, per aver giocato!",
     "NAMES": []
+  },
+  "VOICE": {
+    "HEADER": "Voci",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
   }
 }

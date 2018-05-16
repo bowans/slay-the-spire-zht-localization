@@ -102,118 +102,118 @@
       " de #yFaiblesse."
     ]
   },
-  "Fruit Juice": {
-    "NAME": "Fruit Juice",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
-    ]
-  },
-  "FearPotion": {
-    "NAME": "Fear Potion",
-    "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
-    ]
-  },
-  "SkillPotion": {
-    "NAME": "Skill Potion",
-    "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0."
-    ]
-  },
-  "AttackPotion": {
-    "NAME": "Attack Potion",
-    "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0."
-    ]
-  },
-  "PowerPotion": {
-    "NAME": "Potion Potion",
-    "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0."
-    ]
-  },
   "SteroidPotion": {
-    "NAME": "Steroid  Potion",
+    "NAME": "Potion de stéroïdes",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Strength. At the end of your turn, lose #b",
-      " Strength."
+      "Gagnez #b",
+      " de #yForce. À la fin de votre tour, perdez #b",
+      " de #yForce."
     ]
   },
   "SpeedPotion": {
-    "NAME": "Speed  Potion",
+    "NAME": "Potion de vitesse",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Dexterity. At the end of your turn, lose #b",
-      " Dexterity."
-    ]
-  },
-  "GhostInAJar": {
-    "NAME": "Ghost In A Jar",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " #yIntangible"
-    ]
-  },
-  "FocusPotion": {
-    "NAME": "Focus Potion",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " #yFocus"
-    ]
-  },
-  "SneckoOil": {
-    "NAME": "Snecko Oil",
-    "DESCRIPTIONS": [
-      "Draw #b",
-      "cards. Become #yConfused."
-    ]
-  },
-  "LiquidBronze": {
-    "NAME": "Liquid Bronze",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " #yThorns."
+      "Gagnez #b",
+      " de #yDextérité. À la fin de votre tour, perdez #b",
+      " de #yDextérité."
     ]
   },
   "GamblersBrew": {
-    "NAME": "Gambler's Brew",
+    "NAME": "Décoction du joueur",
     "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
+      "Défaussez autant de cartes que vous voulez et piochez-en autant."
     ]
   },
-  "EssenceOfSteel": {
-    "NAME": "Essence Of Steel",
+  "AttackPotion": {
+    "NAME": "Potion d'attaque",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yPlated #yArmor."
+      "Ajoutez une Attaque aléatoire à votre main, elle coûte #b0 ce tour."
     ]
   },
-  "BloodPotion": {
-    "NAME": "Blood Potion",
+  "FocusPotion": {
+    "NAME": "Potion de concentration",
     "DESCRIPTIONS": [
-      "Heal for #b",
-      "% of your Max HP."
-    ]
-  },
-  "FairyPotion": {
-    "NAME": "Fairy Potion",
-    "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+      "Gagnez #b",
+      " de #yConcentration."
     ]
   },
   "SmokeBomb": {
-    "NAME": "Smoke Bomb",
+    "NAME": "Fumigène",
     "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
+      "Échappez-vous de n'importe quel combat qui n'est pas de boss. Ne recevez aucune récompense."
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Huile de geckobra",
+    "DESCRIPTIONS": [
+      "Devenez #yConfus. Piochez #b",
+      " cartes."
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Potion de compétence",
+    "DESCRIPTIONS": [
+      "Ajoutez une Compétence aléatoire à votre main, elle coûte #b0 ce tour."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Fantôme dans un bocal",
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " #yd'Intangible."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Bronze liquide",
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " #yd'Épines."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Potion de sang",
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      "% de vos PV max."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Jus de fruits",
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " PV max."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Potion féérique",
+    "DESCRIPTIONS": [
+      "Quand vous mourez, survivez avec 10 % de vos PV max à la place et défaussez cette potion."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Potion de peur",
+    "DESCRIPTIONS": [
+      "Applique #b",
+      " de #yVulnérabilité."
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Potion de pouvoir",
+    "DESCRIPTIONS": [
+      "Ajoutez un Pouvoir aléatoire à votre main, il coûte #b0 ce tour."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Essence d'acier",
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " #yd'Armure #yPlaquée."
     ]
   },
   "EntropicBrew": {
-    "NAME": "Entropic Brew",
+    "NAME": "Décoction d'entropie",
     "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
+      "Remplissez tous vos emplacements de potion libres avec des potions aléatoires."
     ]
   }
 }

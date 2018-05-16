@@ -612,7 +612,8 @@
       "Ukrainian",
       "Vietnamese",
       "Hungarian",
-      "Serbian (Latin)"
+      "Serbian (Latin)",
+      "Catalan"
     ]
   },
   "LeaderboardFilters": {
@@ -911,9 +912,14 @@
       "#r%s Turns",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yGold",
-      "Picked %s",
-      "Skipped:",
-      "Missing Info"
+      "#yObtained:",
+      "#ySkipped:",
+      "Missing Info",
+      "+2 Max HP",
+      "#bC ",
+      "#bR ",
+      "#bP ",
+      "#bS "
     ]
   },
   "RunHistoryScreen": {

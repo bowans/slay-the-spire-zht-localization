@@ -13,6 +13,14 @@
       " pkt. #yBloku."
     ]
   },
+  "Amplify": {
+    "NAME": "Wzmocnienie",
+    "DESCRIPTIONS": [
+      "W tej turze, zagraj następną kartę #yMocy dwa razy.",
+      "W tej turze, zagraj następnych kart: ",
+      " #yMocy dwa razy."
+    ]
+  },
   "Anger": {
     "NAME": "Wściekłość",
     "DESCRIPTIONS": [
@@ -52,6 +60,20 @@
       "#yBlok nie przepada z początkiem tury."
     ]
   },
+  "Berserk": {
+    "NAME": "Berserk",
+    "DESCRIPTIONS": [
+      "Jeśli masz poniżej #b50% maksymalnych PŻ, zyskaj ",
+      " na początku swojej tury."
+    ]
+  },
+  "Bias": {
+    "NAME": "Błąd",
+    "DESCRIPTIONS": [
+      "Na początku tury, utrać #b",
+      " pkt. #ySkupienia."
+    ]
+  },
   "Blur": {
     "NAME": "Rozmycie",
     "DESCRIPTIONS": [
@@ -69,6 +91,20 @@
       "Na początku twojej tury, utrać #b",
       " PŻ i dobierz #b",
       " kart."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Bufor",
+    "DESCRIPTIONS": [
+      "Powstrzymuję następną utratę PŻ.",
+      "Powstrzymuje następne utraty PŻ #b",
+      " razy."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Zatrzymanie czasu",
+    "DESCRIPTIONS": [
+      "Na czas tej tury koszt wszystkich zielonych kart wynosi #b0 pkt. Energii."
     ]
   },
   "Burst": {
@@ -100,6 +136,14 @@
       "Koszt każdej dobranej karty jest losowy."
     ]
   },
+  "Conserve": {
+    "NAME": "Konserwacja",
+    "DESCRIPTIONS": [
+      "#yEnergia jest zachowywana w tej turze.",
+      "#yEnergia jest zachowywana przez następnych tur: #b",
+      "."
+    ]
+  },
   "Constricted": {
     "NAME": "Stłamszenie",
     "DESCRIPTIONS": [
@@ -112,6 +156,13 @@
     "DESCRIPTIONS": [
       "Karty #yUmiejętności kosztują #b0 pkt. Energii. Kiedykolwiek zagrasz kartę #yUmiejętności, zostanie ona #ywykluczona.",
       "Kiedykolwiek zagrasz kartę #yUmiejętności, zostanie ona #ywykluczona."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Twórcze AI",
+    "DESCRIPTIONS": [
+      "Na początku tury, dodaj #b",
+      " losową kartę #bMocy do ręki."
     ]
   },
   "Curiosity": {
@@ -152,6 +203,13 @@
       " pkt. #ySiły."
     ]
   },
+  "DexLoss": {
+    "NAME": "Dwie lewe ręce",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
+    ]
+  },
   "Dexterity": {
     "NAME": "Zręczność",
     "DESCRIPTIONS": [
@@ -176,14 +234,6 @@
       " karty #yAtaku zostaną rzucone podwójnie."
     ]
   },
-  "Draw Card": {
-    "NAME": "Dobieranie karty",
-    "DESCRIPTIONS": [
-      "Dobierz #b",
-      " kart w następnej turze.",
-      " kartę w następnej turze."
-    ]
-  },
   "Draw": {
     "NAME": "Dobieranie",
     "DESCRIPTIONS": [
@@ -192,6 +242,14 @@
       " kartę mniej na początku każdej tury.",
       " dodatkowe karty na początku każdej tury.",
       " karty mniej na początku każdej tury."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Dobieranie karty",
+    "DESCRIPTIONS": [
+      "Dobierz #b",
+      " kart w następnej turze.",
+      " kartę w następnej turze."
     ]
   },
   "Draw Down": {
@@ -208,6 +266,22 @@
       "Dobierz #b1 kartę mniej w kolejnej turze.",
       "Dobierz #b1 kartę mniej przez #b",
       " kolejnych tur."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Powtarzająca forma",
+    "DESCRIPTIONS": [
+      "Pierwsza zagrana karta w każdej turze jest zagrywana podwójnie",
+      "Pierwsze zagrane karty w każdej turze: #b",
+      " są zagrywane podwójnie."
+    ]
+  },
+  "Electro": {
+    "NAME": "Elektro",
+    "DESCRIPTIONS": [
+      "#yGrom zadaje obrażenia WSZYSTKIM przeciwnikom.",
+      " NL Jeżeli jest tylko #b1 przeciwnik, #yGrom zadaje obrażenia #b",
+      " razy."
     ]
   },
   "Energized": {
@@ -249,6 +323,14 @@
       "Na początku tury, wybuchnie zadając #b"
     ]
   },
+  "Extra Cards": {
+    "NAME": "Dodatkowe karty",
+    "DESCRIPTIONS": [
+      "Dobierz #b1 kartę więcej w kolejnej turze.",
+      "dobierz #b",
+      " kart więcej w kolejnej turze."
+    ]
+  },
   "Feel No Pain": {
     "NAME": "Niewrażliwość na ból",
     "DESCRIPTIONS": [
@@ -270,16 +352,25 @@
       " pkt. obrażeń atakującemu."
     ]
   },
+  "Flex": {
+    "NAME": "Zakwasy",
+    "DESCRIPTIONS": [
+      "Na końcu tury, utrać #b",
+      " pkt. #ySiły."
+    ]
+  },
   "Flight": {
     "NAME": "W powietrzu",
     "DESCRIPTIONS": [
       "Obrażenia od #yAtaków są zredukowane o #b50%. NL Ruch zostaje anulowany, jeśli stworzenie zostanie #yzaatakowane #b3 razy w czasie tury."
     ]
   },
-  "Nullify Attack": {
-    "NAME": "Pominięcie ataku",
+  "Focus": {
+    "NAME": "Skupienie",
     "DESCRIPTIONS": [
-      "Całkowicie #yblokuje jeden #yAtak w każdej turze."
+      "Zwiększa efektywność Sfer o #b",
+      "Zmniejsza efektywność Sfer o #b",
+      "."
     ]
   },
   "Frail": {
@@ -290,13 +381,6 @@
       "."
     ]
   },
-  "Shackled": {
-    "NAME": "Spętanie",
-    "DESCRIPTIONS": [
-      "Odzyskuje #b",
-      " pkt. #ySiły na końcu własnej tury."
-    ]
-  },
   "Gambit": {
     "NAME": "Zagrywka",
     "DESCRIPTIONS": [
@@ -304,6 +388,36 @@
       " turze, zyskaj ",
       " turach, zyskaj ",
       " [B]."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Pod koniec tury zyska #b",
+      " pkt. #ySiły."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Rośnięcie",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek rzucisz kartę #yUmiejętności, zadaj ",
+      " pkt. obrażeń losowemu przeciwnikowi."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Radiator",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartę #bMocy, dobierz karty: #b",
+      ".",
+      "."
+    ]
+  },
+  "Hello": {
+    "NAME": "Hejka",
+    "DESCRIPTIONS": [
+      "Na początku tury, dodaj losowe zwykłe karty do ręki: #b",
+      ".",
+      "."
     ]
   },
   "Hex": {
@@ -327,12 +441,6 @@
       "Na początku tury, dobierz #b",
       " #yNoże.",
       " #yNóż."
-    ]
-  },
-  "Bullet Time": {
-    "NAME": "Zatrzymanie czasu",
-    "DESCRIPTIONS": [
-      "Na czas tej tury koszt wszystkich zielonych kart wynosi #b0 pkt. Energii."
     ]
   },
   "Intangible": {
@@ -360,11 +468,48 @@
       " pkt. obrażeń losowemu przeciwnikowi."
     ]
   },
-  "Flex": {
-    "NAME": "Naprężanie muskułów",
+  "Knowledge": {
+    "NAME": "Wiedza",
     "DESCRIPTIONS": [
-      "Na końcu tury, utrać #b",
-      " pkt. #ySiły."
+      "Kiedykolwiek zagrasz kartę #yMocy, dobierz kart: #b",
+      "."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Łącze życia",
+    "DESCRIPTIONS": [
+      "Jeśli inni przeciwnicy żyją, odradza się w ciągu #b2 tur z #b50% PŻ."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Namierzenie",
+    "DESCRIPTIONS": [
+      "Cel dla Sfer #yGromu i #yCiemności przez następne #b",
+      " tury.",
+      "Cel dla Sfer #yGromu i #yCiemności."
+    ]
+  },
+  "Loop": {
+    "NAME": "Pętla",
+    "DESCRIPTIONS": [
+      "Na początku tury, użyj pasywnej umiejętności następnej Sfery.",
+      "Na początku tury, użyj pasywnych umiejętności następnej Sfery #b",
+      " razy."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Uczenie maszynowe",
+    "DESCRIPTIONS": [
+      "Dobierz dodatkowe karty na początku tury: #b",
+      ".",
+      "."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetyzm",
+    "DESCRIPTIONS": [
+      "Na początku tury, dodaj #b%s losową bezbarwną kartę do ręki.",
+      "Na początku tury, dodaj losowe bezbarwne karty do ręki: #b%s ."
     ]
   },
   "Malleable": {
@@ -412,6 +557,12 @@
       " kart(y) do ręki."
     ]
   },
+  "No Attack": {
+    "NAME": "Bezsilność",
+    "DESCRIPTIONS": [
+      "Podczas tej tury nie możesz zagrać kart #yAtaku."
+    ]
+  },
   "No Draw": {
     "NAME": "Zakaz dobierania",
     "DESCRIPTIONS": [
@@ -423,6 +574,18 @@
     "DESCRIPTIONS": [
       "Na początku twojej tury, nałóż NL #b",
       " pkt. #yTrucizny na WSZYSTKICH przeciwników."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Pominięcie ataku",
+    "DESCRIPTIONS": [
+      "Całkowicie #yblokuje jeden #yAtak w każdej turze."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Bolesne dźgnięcia",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek otrzymasz obrażenia od tego przeciwnika, karta #yRan zostanie dodana do stosu odrzuconych."
     ]
   },
   "Panache": {
@@ -465,11 +628,35 @@
       "Na początku tury utraci #b"
     ]
   },
+  "Prime": {
+    "NAME": "Pełnia",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek #yPrzywołasz Sferę, dobierz kart: #b",
+      ".",
+      "."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Prymityw",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz zwykłą kartę, dobierz kart: #b",
+      ".",
+      "."
+    ]
+  },
   "Rage": {
     "NAME": "Szał",
     "DESCRIPTIONS": [
       "Kiedykolwiek podczas tej tury zagrasz kartę #yAtaku, zyskasz #b",
       " pkt. #yBloku."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Rykoszet",
+    "DESCRIPTIONS": [
+      "Następna karta, którą zagrasz w tej turze, zostaje położona na szczycie stosu rozgrywającego.",
+      "Następne karty, które zagrasz w tej turze, zostaną położone na szczycie stosu rozgrywającego: #b",
+      "."
     ]
   },
   "Reduce Damage": {
@@ -493,10 +680,11 @@
       "."
     ]
   },
-  "Life Link": {
-    "NAME": "Łącze życia",
+  "Repair": {
+    "NAME": "Naprawa",
     "DESCRIPTIONS": [
-      "Jeśli inni przeciwnicy żyją, odradza się w ciągu #b2 tur z #b50% PŻ."
+      "Na końcu potyczki, przywróć #b",
+      " PŻ."
     ]
   },
   "Repulse": {
@@ -536,20 +724,6 @@
       " pkt. #ySiły."
     ]
   },
-  "GrowthPower": {
-    "NAME": "Rośnięcie",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek rzucisz kartę #yUmiejętności, zadaj ",
-      " pkt. obrażeń losowemu przeciwnikowi."
-    ]
-  },
-  "Generic Strength Up Power": {
-    "NAME": "",
-    "DESCRIPTIONS": [
-      "Pod koniec tury zyska #b",
-      " pkt. #ySiły."
-    ]
-  },
   "Rupture": {
     "NAME": "Rozłam",
     "DESCRIPTIONS": [
@@ -570,6 +744,13 @@
       "Niewrażliwość na #ymikstury."
     ]
   },
+  "Shackled": {
+    "NAME": "Spętanie",
+    "DESCRIPTIONS": [
+      "Odzyskuje #b",
+      " pkt. #ySiły na końcu własnej tury."
+    ]
+  },
   "Sharp Hide": {
     "NAME": "Kłująca skóra",
     "DESCRIPTIONS": [
@@ -581,12 +762,6 @@
     "NAME": "Krzyk Pogranicza",
     "DESCRIPTIONS": [
       "Kiedykolwiek zagrasz kartę #yAtaku, odrzuć losową kartę."
-    ]
-  },
-  "Painful Stabs": {
-    "NAME": "Bolesne dźgnięcia",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek otrzymasz obrażenia od tego przeciwnika, karta #yRan zostanie dodana do stosu odrzuconych."
     ]
   },
   "Skill Burn": {
@@ -628,12 +803,18 @@
       " wraca do twojej ręki."
     ]
   },
-  "Extra Cards": {
-    "NAME": "Dodatkowe karty",
+  "StaticDischarge": {
+    "NAME": "Elektrostatyczne wyładowanie",
     "DESCRIPTIONS": [
-      "Dobierz #b1 kartę więcej w kolejnej turze.",
-      "dobierz #b",
-      " kart więcej w kolejnej turze."
+      "Kiedy otrzymasz obrażenia od #yAtaku, #yPrzywołaj #b",
+      " Sferę #yGromu."
+    ]
+  },
+  "Storm": {
+    "NAME": "Burza",
+    "DESCRIPTIONS": [
+      "Kiedykolwiek zagrasz kartę #bMocy, #yPrzywołaj #b ",
+      " Sferę #yGromu."
     ]
   },
   "Strength": {
@@ -663,13 +844,6 @@
     "DESCRIPTIONS": [
       "Kiedykolwiek rzucisz kartę, zadaj #b",
       " pkt. obrażeń WSZYSTKIM przeciwnikom."
-    ]
-  },
-  "Berserk": {
-    "NAME": "Berserk",
-    "DESCRIPTIONS": [
-      "Jeśli masz poniżej #b50% maksymalnych PŻ, zyskaj ",
-      " na początku swojej tury."
     ]
   },
   "Time Warp": {
@@ -727,117 +901,6 @@
       "."
     ]
   },
-  "Conserve": {
-    "NAME": "Konserwacja",
-    "DESCRIPTIONS": [
-      "#yEnergia jest zachowywana w tej turze.",
-      "#yEnergia jest zachowywana przez następnych tur: #b",
-      "."
-    ]
-  },
-  "Amplify": {
-    "NAME": "Wzmocnienie",
-    "DESCRIPTIONS": [
-      "W tej turze, zagraj następną kartę #yMocy dwa razy.",
-      "W tej turze, zagraj następnych kart: ",
-      " #yMocy dwa razy."
-    ]
-  },
-  "Focus": {
-    "NAME": "Skupienie",
-    "DESCRIPTIONS": [
-      "Zwiększa efektywność Sfer o #b",
-      "Zmniejsza efektywność Sfer o #b",
-      "."
-    ]
-  },
-  "Knowledge": {
-    "NAME": "Wiedza",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek zagrasz kartę #yMocy, dobierz kart: #b",
-      "."
-    ]
-  },
-  "StaticDischarge": {
-    "NAME": "Elektrostatyczne wyładowanie",
-    "DESCRIPTIONS": [
-      "Kiedy otrzymasz obrażenia od #yAtaku, #yPrzywołaj #b",
-      " Sferę #yGromu."
-    ]
-  },
-  "Repair": {
-    "NAME": "Naprawa",
-    "DESCRIPTIONS": [
-      "Na końcu potyczki, przywróć #b",
-      " PŻ."
-    ]
-  },
-  "Buffer": {
-    "NAME": "Bufor",
-    "DESCRIPTIONS": [
-      "Powstrzymuję następną utratę PŻ.",
-      "Powstrzymuje następne utraty PŻ #b",
-      " razy."
-    ]
-  },
-  "Echo Form": {
-    "NAME": "Powtarzająca forma",
-    "DESCRIPTIONS": [
-      "Pierwsza zagrana karta w każdej turze jest zagrywana podwójnie",
-      "Pierwsze zagrane karty w każdej turze: #b",
-      " są zagrywane podwójnie."
-    ]
-  },
-  "Heatsink": {
-    "NAME": "Radiator",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek zagrasz kartę #bMocy, dobierz karty: #b",
-      ".",
-      "."
-    ]
-  },
-  "No Attack": {
-    "NAME": "Bezsilność",
-    "DESCRIPTIONS": [
-      "Podczas tej tury nie możesz zagrać kart #yAtaku."
-    ]
-  },
-  "Storm": {
-    "NAME": "Burza",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek zagrasz kartę #bMocy, #yPrzywołaj #b ",
-      " Sferę #yGromu."
-    ]
-  },
-  "Magnetism": {
-    "NAME": "Magnetyzm",
-    "DESCRIPTIONS": [
-      "Na początku tury, dodaj #b%s losową bezbarwną kartę do ręki.",
-      "Na początku tury, dodaj losowe bezbarwne karty do ręki: #b%s ."
-    ]
-  },
-  "Creative AI": {
-    "NAME": "Twórcze AI",
-    "DESCRIPTIONS": [
-      "Na początku tury, dodaj #b",
-      " losową kartę #bMocy do ręki."
-    ]
-  },
-  "Machine Learning": {
-    "NAME": "Uczenie maszynowe",
-    "DESCRIPTIONS": [
-      "Dobierz dodatkowe karty na początku tury: #b",
-      ".",
-      "."
-    ]
-  },
-  "Bias": {
-    "NAME": "Błąd",
-    "DESCRIPTIONS": [
-      "Na początku tury, utrać #b",
-      " pkt. #ySkupienia."
-    ]
-  },
   "Wraith Form v2": {
     "NAME": "Widmowa forma",
     "DESCRIPTIONS": [
@@ -845,59 +908,12 @@
       " pkt. #yZwinności."
     ]
   },
-  "Prime": {
-    "NAME": "Pełnia",
+  "Equilibrium": {
+    "NAME": "Equilibrium",
     "DESCRIPTIONS": [
-      "Kiedykolwiek #yPrzywołasz Sferę, dobierz kart: #b",
-      ".",
-      "."
-    ]
-  },
-  "Rebound": {
-    "NAME": "Rykoszet",
-    "DESCRIPTIONS": [
-      "Następna karta, którą zagrasz w tej turze, zostaje położona na szczycie stosu rozgrywającego.",
-      "Następne karty, które zagrasz w tej turze, zostaną położone na szczycie stosu rozgrywającego: #b",
-      "."
-    ]
-  },
-  "Primitive": {
-    "NAME": "Prymityw",
-    "DESCRIPTIONS": [
-      "Kiedykolwiek zagrasz zwykłą kartę, dobierz kart: #b",
-      ".",
-      "."
-    ]
-  },
-  "Hello": {
-    "NAME": "Hejka",
-    "DESCRIPTIONS": [
-      "Na początku tury, dodaj losowe zwykłe karty do ręki: #b",
-      ".",
-      "."
-    ]
-  },
-  "Loop": {
-    "NAME": "Pętla",
-    "DESCRIPTIONS": [
-      "Na początku tury, użyj pasywnej umiejętności następnej Sfery.",
-      "Na początku tury, użyj pasywnych umiejętności następnych #b",
-      " Sfer."
-    ]
-  },
-  "Lockon": {
-    "NAME": "Namierzenie",
-    "DESCRIPTIONS": [
-      "Cel dla Sfer #yGromu i #yCiemności przez następne #b",
-      " tury.",
-      "Cel dla Sfer #yGromu i #yCiemności."
-    ]
-  },
-  "DexLoss": {
-    "NAME": "Dexterity Down",
-    "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
     ]
   }
 }

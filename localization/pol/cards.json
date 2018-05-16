@@ -1,230 +1,158 @@
 {
-  "Grand Finale": {
-    "NAME": "Wielki finał",
-    "DESCRIPTION": "Można zagrać tylko wtedy, gdy stos rozgrywający jest pusty. NL Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom.",
-    "UPGRADE_DESCRIPTION": "Stos rozgrywający NL musi być #rpusty."
-  },
-  "Immolate": {
-    "NAME": "Poświęcenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Wtasuj Poparzenie do swojego stosu kart rozgrywającego."
-  },
-  "Regret": {
-    "NAME": "Żal",
-    "DESCRIPTION": "Niezagrywalna. NL Na końcu tury utrać 1 PŻ za każdą kartę w ręce."
-  },
-  "Crippling Poison": {
-    "NAME": "Paraliżująca trucizna",
-    "DESCRIPTION": "Nałóż !M! pkt. Trucizny. NL Nałóż !M! pkt. Słabości."
-  },
   "A Thousand Cuts": {
     "NAME": "Kara tysiąca cięć",
     "DESCRIPTION": "Kiedykolwiek zagrasz kartę, zadaj !M! pkt. obrażeń WSZYSTKIM przeciwnikom."
   },
-  "Spot Weakness": {
-    "NAME": "Znajdź lukę",
-    "DESCRIPTION": "Jeśli przeciwnik zamierza atakować, NL zyskaj !M! pkt. Siły."
+  "Accuracy": {
+    "NAME": "Celność",
+    "DESCRIPTION": "Noże zadają dodatkowo !M! pkt. obrażeń."
   },
-  "Wound": {
-    "NAME": "Rana",
-    "DESCRIPTION": "Niezagrywalna."
+  "Acrobatics": {
+    "NAME": "Akrobatyka",
+    "DESCRIPTION": "Dobierz !M! karty. NL Odrzuć 1 kartę."
   },
-  "Writhe": {
-    "NAME": "Cierpienie",
-    "DESCRIPTION": "Niezagrywalna. NL Startowa."
-  },
-  "Dark Shackles": {
-    "NAME": "Mroczne kajdany",
-    "DESCRIPTION": "Przeciwnik traci !M! pkt. Siły do końca tej tury. NL Wykluczenie."
-  },
-  "Glass Knife": {
-    "NAME": "Szklany nóż",
-    "DESCRIPTION": "Zadaj dwukrotnie !D! pkt. obrażeń. Do końca walki obrażenia szklanego noża są obniżone o 2."
-  },
-  "Cloak And Dagger": {
-    "NAME": "Płaszcz i sztylet",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Dodaj !M! Nóż do ręki.",
-    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Dodaj !M! Noże do ręki."
-  },
-  "Underhanded Strike": {
-    "NAME": "Podstępne uderzenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeżeli w tej turze jakakolwiek karta została odrzucona, zyskaj [G] [G].",
-    "EXTENDED_DESCRIPTION": [
-      "Nie mogę zagrać tej karty."
-    ]
-  },
-  "Anger": {
-    "NAME": "Gniew",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dołóż kopię tej karty do stosu odrzuconych."
-  },
-  "Storm of Steel": {
-    "NAME": "Burza ostrzy",
-    "DESCRIPTION": "Odrzuć obecną rękę. NL Za każdą odrzuconą kartę dostaniesz 1 Nóż do ręki.",
-    "UPGRADE_DESCRIPTION": "Odrzuć obecną rękę. NL Za każdą odrzuconą kartę dostaniesz 1 ulepszony Nóż do ręki."
-  },
-  "Cleave": {
-    "NAME": "Rozpłatanie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom."
-  },
-  "Inflame": {
-    "NAME": "Wewnętrzny ogień",
-    "DESCRIPTION": "Zyskaj !M! pkt. Siły."
-  },
-  "Wraith Form v2": {
-    "NAME": "Widmowa forma",
-    "DESCRIPTION": "Zyskaj !M! pkt. Nieuchwytności. NL Na końcu tury, utrać 1 pkt. Zwinności."
-  },
-  "Sadistic Nature": {
-    "NAME": "Sadyzm",
-    "DESCRIPTION": "Kiedykolwiek nałożysz negatywny efekt na przeciwnika, otrzyma on !M! pkt. obrażeń."
-  },
-  "J.A.X.": {
-    "NAME": "J.A.X.",
-    "DESCRIPTION": "Utrać 3 PŻ. NL Zyskaj !M! pkt. Siły . NL Wykluczenie."
-  },
-  "Offering": {
-    "NAME": "Ofiara",
-    "DESCRIPTION": "Utrać 4 PŻ. NL Zyskaj [R] [R]. NL Dobierz !M! kart(-y). NL Wykluczenie."
-  },
-  "Exhume": {
-    "NAME": "Ekshumacja",
-    "DESCRIPTION": "Wybierz Wykluczoną kartę i umieść ją w ręce. NL Wykluczenie."
-  },
-  "Power Through": {
-    "NAME": "Taran",
-    "DESCRIPTION": "Dodaj 2 Rany do ręki. NL Zyskaj !B! pkt. Bloku."
-  },
-  "Dual Wield": {
-    "NAME": "Oburęczność",
-    "DESCRIPTION": "Stwórz kopię karty Ataku lub Mocy.",
-    "UPGRADE_DESCRIPTION": "Stwórz 2 kopie karty Ataku lub Mocy."
-  },
-  "Deadly Poison": {
-    "NAME": "Zabójcza trucizna",
-    "DESCRIPTION": "Nałóż !M! pkt. Trucizny."
-  },
-  "Leg Sweep": {
-    "NAME": "Podcięcie",
-    "DESCRIPTION": "Nałóż !M! pkt. Słabości. NL Zyskaj !B! pkt. Bloku."
-  },
-  "Flex": {
-    "NAME": "Prężenie muskułów",
-    "DESCRIPTION": "Zyskaj !M! pkt. Siły. NL Pod koniec tury utrać NL !M! pkt. Siły."
-  },
-  "Dagger Spray": {
-    "NAME": "Ściana sztyletów",
-    "DESCRIPTION": "Zadaj dwukrotnie !D! pkt. obrażeń WSZYSTKIM przeciwnikom."
-  },
-  "Bullet Time": {
-    "NAME": "Zatrzymanie czasu",
-    "DESCRIPTION": "Nie możesz dobierać więcej kart w tej turze. Do końca tury koszt wszystkich kart jest zredukowany do 0."
-  },
-  "Catalyst": {
-    "NAME": "Katalizator",
-    "DESCRIPTION": "Podwaja pkt. Trucizny u przeciwnika. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Potraja pkt. Trucizny u przeciwnika. NL Wykluczenie."
-  },
-  "Reaper": {
-    "NAME": "Żniwiarz",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywróć PŻ równe niezablokowanym obrażeniom. NL Wykluczenie."
-  },
-  "Shiv": {
-    "NAME": "Nóż",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wykluczenie."
-  },
-  "Tactician": {
-    "NAME": "Taktyk",
-    "DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę, NL zyskaj [G].",
-    "UPGRADE_DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę, NL zyskaj [G] [G].",
-    "EXTENDED_DESCRIPTION": [
-      "Nie mogę zagrać tej karty."
-    ]
-  },
-  "Bane": {
-    "NAME": "Jad",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeśli przeciwnik jest zatruty, zadaj !D! pkt. obrażeń jeszcze raz."
-  },
-  "Infernal Blade": {
-    "NAME": "Piekielne ostrze",
-    "DESCRIPTION": "Dodaj losową kartę Ataku do ręki. NL Na czas tej tury NL kosztuje ona 0. NL Wykluczenie."
+  "Adrenaline": {
+    "NAME": "Adrenalina",
+    "DESCRIPTION": "Zyskaj [G]. NL Dobierz 2 karty. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Zyskaj [G] [G]. NL Dobierz 2 karty. NL Wykluczenie."
   },
   "After Image": {
     "NAME": "Powidok",
     "DESCRIPTION": "Kiedykolwiek zagrasz kartę, zyskaj 1 pkt. Bloku.",
     "UPGRADE_DESCRIPTION": "Startowa. NL Kiedykolwiek zagrasz kartę zyskaj 1 pkt. Bloku."
   },
-  "Unload": {
-    "NAME": "Wyładowanie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Odrzuć WSZYSTKIE karty nie będące kartami Ataku."
+  "Aggregate": {
+    "NAME": "Agregat",
+    "DESCRIPTION": "Zyskaj [B] za każde !M! kart w stosie rozgrywającym."
+  },
+  "All For One": {
+    "NAME": "Wszyscy za jednego",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przełóż wszystkie kosztujące 0 karty ze stosu kart odrzuconych do ręki."
+  },
+  "All Out Attack": {
+    "NAME": "Rozpaczliwy atak",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Odrzuć losową kartę z ręki."
+  },
+  "Allocate": {
+    "NAME": "Rozdzielenie",
+    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Utrać 1 pkt. Siły. NL Utrać 1 pkt. Zwinności."
+  },
+  "Amplify": {
+    "NAME": "Wzmocnienie",
+    "DESCRIPTION": "W tej turze, następna karta Mocy jest zagrywana dwukrotnie.",
+    "UPGRADE_DESCRIPTION": "W tej turze, następne !M! karty Mocy są zagrywane dwukrotnie."
+  },
+  "Anger": {
+    "NAME": "Gniew",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dołóż kopię tej karty do stosu odrzuconych."
+  },
+  "Apotheosis": {
+    "NAME": "Apoteoza",
+    "DESCRIPTION": "Ulepsz WSZYSTKIE karty do końca walki. NL Wykluczenie."
+  },
+  "Armaments": {
+    "NAME": "Uzbrojenie",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Ulepsz kartę z ręki do końca walki.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Ulepsz WSZYSTKIE karty w ręce do końca walki."
+  },
+  "AscendersBane": {
+    "NAME": "Zmora wędrowcy",
+    "DESCRIPTION": "Niezagrywalna. NL Eteryczna. NL Od tej Klątwy nie ma ucieczki."
+  },
+  "Auto Shields": {
+    "NAME": "Automatyczna tarcza",
+    "DESCRIPTION": "Jeżeli posiadasz 0 pkt. Bloku, zyskaj !B! pkt. Bloku."
+  },
+  "Axe Kick": {
+    "NAME": "Kopnięcie opadające",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wyładuj nastepną Sferę."
+  },
+  "Backflip": {
+    "NAME": "Salto w tył",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Dobierz 2 karty."
+  },
+  "Backstab": {
+    "NAME": "Cios w plecy",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Startowa. NL Wykluczenie."
+  },
+  "Ball Lightning": {
+    "NAME": "Piorun kulisty",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Sferę Gromu."
+  },
+  "Bandage Up": {
+    "NAME": "Pierwsza pomoc",
+    "DESCRIPTION": "Przywraca !M! PŻ. NL Wykluczenie."
+  },
+  "Bane": {
+    "NAME": "Jad",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeśli przeciwnik jest zatruty, zadaj !D! pkt. obrażeń jeszcze raz."
+  },
+  "Barrage": {
+    "NAME": "Ogień zaporowy",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń za każdą przywołaną Sferę."
+  },
+  "Barricade": {
+    "NAME": "Barykada",
+    "DESCRIPTION": "Blok nie zostaje usunięty z początkiem tury."
+  },
+  "Bash": {
+    "NAME": "Grzmotnięcie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Wrażliwości."
+  },
+  "Battle Trance": {
+    "NAME": "Trans bitewny",
+    "DESCRIPTION": "Dobierz !M! karty. NL W czasie tej tury nie możesz dobrać NL więcej kart."
+  },
+  "Beam Cell": {
+    "NAME": "Ogniwo",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń i nałóż !M! pkt. Wrażliwości."
+  },
+  "Berserk": {
+    "NAME": "Berserk",
+    "DESCRIPTION": "Jeśli masz poniżej 50% PŻ, zyskaj [R] na początku każdej tury."
+  },
+  "Biased Cognition": {
+    "NAME": "Błąd poznawczy",
+    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Na początku każdej tury, utrać 1 pkt. Skupienia."
+  },
+  "Bite": {
+    "NAME": "Ugryzienie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przywróć !M! PŻ."
   },
   "Blade Dance": {
     "NAME": "Taniec ostrzy",
     "DESCRIPTION": "Dodaj !M! Noże do ręki."
   },
-  "Deflect": {
-    "NAME": "Odbicie",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
+  "Blaster": {
+    "NAME": "Blaster",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Zyskaj [B] za każdą Przywołaną Sferę. NL Wykluczenie."
   },
-  "Trip": {
-    "NAME": "Potknięcie",
-    "DESCRIPTION": "Nałóż !M! pkt. Wrażliwości.",
-    "UPGRADE_DESCRIPTION": "Nałóż !M! pkt. Wrażliwości na WSZYSTKICH przeciwników."
+  "Blind": {
+    "NAME": "Oślepienie",
+    "DESCRIPTION": "Nałóż !M! pkt. Słabości.",
+    "UPGRADE_DESCRIPTION": "Nałóż !M! pkt. Słabości na WSZYSTKICH przeciwników."
   },
-  "Dagger Throw": {
-    "NAME": "Rzut sztyletem",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz 1 kartę. NL Odrzuć 1 kartę."
+  "Blizzard": {
+    "NAME": "Gradobicie",
+    "DESCRIPTION": "Zadaj !M! obrażeń WSZYSTKIM przeciwnikom za każdą Przywołaną Sferę Mrozu podczas tej walki.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Zadaj !D! pkt. obrażeń.)",
+      ""
+    ]
   },
-  "Brutality": {
-    "NAME": "Bestialstwo",
-    "DESCRIPTION": "Na początku każdej tury utrać 1 PŻ i dobierz NL 1 kartę.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Na początku każdej tury utrać 1 PŻ i dobierz NL 1 kartę."
+  "Blood for Blood": {
+    "NAME": "Krew za krew",
+    "DESCRIPTION": "Kosztuje o 1 [R] mniej NL kiedykolwiek stracisz PŻ w walce. NL Zadaj !D! pkt. obrażeń."
   },
-  "Iron Wave": {
-    "NAME": "Żelazna fala",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Zadaj !D! pkt. obrażeń."
+  "Bloodletting": {
+    "NAME": "Upuszczenie krwi",
+    "DESCRIPTION": "Zyskaj [R]. NL Utrać 3 PŻ.",
+    "UPGRADE_DESCRIPTION": "Zyskaj [R] [R]. NL Utrać 3 PŻ."
   },
-  "Reckless Charge": {
-    "NAME": "Zuchwała szarża",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wtasuj jedną kartę Oszołomienia do swojego stosu rozgrywającego."
-  },
-  "Decay": {
-    "NAME": "Rozkład",
-    "DESCRIPTION": "Niezagrywalna. NL Pod koniec tury otrzymaj 2 pkt. obrażeń."
-  },
-  "Tools of the Trade": {
-    "NAME": "Bogaty arsenał",
-    "DESCRIPTION": "Na początku swojej tury dobierz 1 kartę i odrzuć 1 kartę."
-  },
-  "Dramatic Entrance": {
-    "NAME": "Dramatyczne wejście",
-    "DESCRIPTION": "Startowa. NL Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Wykluczenie."
-  },
-  "Hemokinesis": {
-    "NAME": "Hemokineza",
-    "DESCRIPTION": "Utrać !M! PŻ. NL Zadaj !D! pkt. obrażeń."
-  },
-  "Intimidate": {
-    "NAME": "Zastraszenie",
-    "DESCRIPTION": "Nałóż !M! pkt. Słabości na WSZYSTKICH przeciwników. NL Wykluczenie."
-  },
-  "Necronomicurse": {
-    "NAME": "Klątwa umarlaka",
-    "DESCRIPTION": "Niezagrywalna. NL Od tej klątwy nie ma ucieczki."
-  },
-  "Choke": {
-    "NAME": "Zadławienie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Kiedykolwiek zagrasz tę kartę podczas swojej tury, cel straci !M! PŻ."
-  },
-  "Juggernaut": {
-    "NAME": "Kolos",
-    "DESCRIPTION": "Kiedykolwiek zyskasz pkt. Bloku, zadaj !M! pkt. obrażeń losowemu przeciwnikowi."
-  },
-  "Caltrops": {
-    "NAME": "Kolczatka",
-    "DESCRIPTION": "Kiedykolwiek przeciwnik cię zaatakuje, zadaj mu !M! pkt. obrażeń."
-  },
-  "Poisoned Stab": {
-    "NAME": "Trujące dźgnięcie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Trucizny."
+  "Bludgeon": {
+    "NAME": "Zmiażdżenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
   },
   "Blur": {
     "NAME": "Smuga",
@@ -235,26 +163,86 @@
     "DESCRIPTION": "Zadaj obrażenia o równowartości NL twojego Bloku.",
     "UPGRADE_DESCRIPTION": " NL (zadaj !D! pkt obrażeń)"
   },
-  "True Grit": {
-    "NAME": "Prawdziwe męstwo",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Wyklucz losową kartę NL z ręki.",
-    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Wyklucz wybraną kartę NL z ręki."
+  "BootSequence": {
+    "NAME": "Sekwencja rozruchowa",
+    "DESCRIPTION": "Zyskaj !B! pkt Bloku. NL Startowa. NL Wykluczenie."
   },
-  "Setup": {
-    "NAME": "Ustawienie",
-    "DESCRIPTION": "Połóż kartę z ręki na górze stosu rozgrywającego. NL Karta kosztuje 0 pkt. Energii do pierwszego zagrania."
+  "Bouncing Flask": {
+    "NAME": "Skaczący flakon",
+    "DESCRIPTION": "Nałóż 3 pkt. Trucizny losowemu przeciwnikowi. Powtórz !M! razy."
   },
-  "Blood for Blood": {
-    "NAME": "Krew za krew",
-    "DESCRIPTION": "Kosztuje o 1 [R] mniej NL kiedykolwiek stracisz PŻ w walce. NL Zadaj !D! pkt. obrażeń."
+  "Brutality": {
+    "NAME": "Bestialstwo",
+    "DESCRIPTION": "Na początku każdej tury utrać 1 PŻ i dobierz NL 1 kartę.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Na początku każdej tury utrać 1 PŻ i dobierz NL 1 kartę."
   },
-  "Impervious": {
-    "NAME": "Iniemamoc",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Wykluczenie."
+  "Buffer": {
+    "NAME": "Bufor",
+    "DESCRIPTION": "Powstrzymuję następną utratę PŻ.",
+    "UPGRADE_DESCRIPTION": "Powstrzymuję następną utratę PŻ !M! razy."
   },
-  "Shrug It Off": {
-    "NAME": "Bez zadrapań",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Dobierz 1 kartę."
+  "Bullet Time": {
+    "NAME": "Zatrzymanie czasu",
+    "DESCRIPTION": "Nie możesz dobierać więcej kart w tej turze. Do końca tury koszt wszystkich kart jest zredukowany do 0."
+  },
+  "Burn": {
+    "NAME": "Poparzenie",
+    "DESCRIPTION": "Niezagrywalna. NL Na końcu tury otrzymaj 2 pkt. obrażeń.",
+    "UPGRADE_DESCRIPTION": "Niezagrywalna. NL Na końcu tury otrzymaj 4 pkt. obrażeń"
+  },
+  "Burning Pact": {
+    "NAME": "Ognisty pakt",
+    "DESCRIPTION": "Wyklucz 1 kartę. NL Dobierz !M! karty."
+  },
+  "Burst": {
+    "NAME": "Impuls",
+    "DESCRIPTION": "Następna karta Umiejętności w tej turze zostanie zagrana dwukrotnie.",
+    "UPGRADE_DESCRIPTION": "Następne !M! karty Umiejętności w tej turze zostaną zagrane dwukrotnie."
+  },
+  "Cache": {
+    "NAME": "Pamięć podręczna",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Calculated Gamble": {
+    "NAME": "Wyliczone ryzyko",
+    "DESCRIPTION": "Odrzuć swoją rękę, NL następnie dobierz tyle samo kart. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Odrzuć swoją rękę, NL następnie dobierz tyle samo kart."
+  },
+  "Caltrops": {
+    "NAME": "Kolczatka",
+    "DESCRIPTION": "Kiedykolwiek przeciwnik cię zaatakuje, zadaj mu !M! pkt. obrażeń."
+  },
+  "Capacitor": {
+    "NAME": "Kondensator",
+    "DESCRIPTION": "Zyskaj !M! miejsce na Sferę.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !M! miejsca na Sferę."
+  },
+  "Carnage": {
+    "NAME": "Rzeź",
+    "DESCRIPTION": "Eteryczna. NL Zadaj !D! pkt. obrażeń."
+  },
+  "Catalyst": {
+    "NAME": "Katalizator",
+    "DESCRIPTION": "Podwaja pkt. Trucizny u przeciwnika. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Potraja pkt. Trucizny u przeciwnika. NL Wykluczenie."
+  },
+  "Channel": {
+    "NAME": "Przywołanie",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Chaos": {
+    "NAME": "Chaos",
+    "DESCRIPTION": "Przywołaj !M! losową Sferę.",
+    "UPGRADE_DESCRIPTION": "Przywołaj losowe sfery: !M!."
+  },
+  "Chill": {
+    "NAME": "Chłód",
+    "DESCRIPTION": "Przywołaj !M! Sferę Mrozu za każdego przeciwnika. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Przywołaj !M! Sferę Mrozu za każdego przeciwnika. NL Wykluczenie."
+  },
+  "Choke": {
+    "NAME": "Zadławienie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Kiedykolwiek zagrasz tę kartę podczas swojej tury, cel straci !M! PŻ."
   },
   "Clash": {
     "NAME": "Zwarcie",
@@ -263,165 +251,268 @@
       "Mam w ręce kartę, która nie jest kartą Ataku."
     ]
   },
-  "Thunderclap": {
-    "NAME": "Grzmot",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń i nałóż 1 pkt. Wrażliwości na WSZYSTKICH przeciwników."
+  "Cleave": {
+    "NAME": "Rozpłatanie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom."
   },
-  "Flame Barrier": {
-    "NAME": "Ognista bariera",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Kiedykolwiek przeciwnik cię zaatakuje, zadaj mu !M! pkt. obrażeń."
-  },
-  "Endless Agony": {
-    "NAME": "Wieczna agonia",
-    "DESCRIPTION": "Kiedykolwiek dobierzesz tę kartę, dodaj jej kopię do ręki. NL Zadaj !D! pkt. obrażeń. NL Wykluczenie."
-  },
-  "Berserk": {
-    "NAME": "Berserk",
-    "DESCRIPTION": "Jeśli masz poniżej 50% PŻ, zyskaj [R] na początku każdej tury."
-  },
-  "Pummel": {
-    "NAME": "Furia uderzeń",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń NL !M! razy. NL Wykluczenie."
-  },
-  "Riddle With Holes": {
-    "NAME": "Dziurawiec",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń NL pięć razy."
-  },
-  "Burning Pact": {
-    "NAME": "Ognisty pakt",
-    "DESCRIPTION": "Wyklucz 1 kartę. NL Dobierz !M! karty."
-  },
-  "Metallicize": {
-    "NAME": "Przezbrojenie",
-    "DESCRIPTION": "Pod koniec tury zyskaj NL !M! pkt. Bloku."
-  },
-  "Pommel Strike": {
-    "NAME": "Uderzenie głowicą",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz !M! kartę.",
-    "UPGRADE_DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz !M! karty."
-  },
-  "Pain": {
-    "NAME": "Ból",
-    "DESCRIPTION": "Niezagrywalna. NL Jeśli w ręce, NL utrać 1 PŻ za każdą inną zagraną kartę."
-  },
-  "Burst": {
-    "NAME": "Impuls",
-    "DESCRIPTION": "Następna karta Umiejętności w tej turze zostanie zagrana dwukrotnie.",
-    "UPGRADE_DESCRIPTION": "Następne !M! karty Umiejętności w tej turze zostaną zagrane dwukrotnie."
-  },
-  "Acrobatics": {
-    "NAME": "Akrobatyka",
-    "DESCRIPTION": "Dobierz !M! karty. NL Odrzuć 1 kartę."
-  },
-  "Blind": {
-    "NAME": "Oślepienie",
-    "DESCRIPTION": "Nałóż !M! pkt. Słabości.",
-    "UPGRADE_DESCRIPTION": "Nałóż !M! pkt. Słabości na WSZYSTKICH przeciwników."
-  },
-  "Doppelganger": {
-    "NAME": "Klonowanie",
-    "DESCRIPTION": "W następnej turze dobierz X kart NL i zyskaj X [G]. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "W następnej turze dobierz X+1 kart NL i zyskaj X+1 [G]. NL Wykluczenie."
-  },
-  "Skewer": {
-    "NAME": "Szpikulec",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń NL X razy."
-  },
-  "Envenom": {
-    "NAME": "Zatrucie",
-    "DESCRIPTION": "Za każdym razem, gdy karta Ataku zada niezablokowane obrażenia nałóż 1 pkt. Trucizny."
-  },
-  "Adrenaline": {
-    "NAME": "Adrenalina",
-    "DESCRIPTION": "Zyskaj [G]. NL Dobierz 2 karty. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Zyskaj [G] [G]. NL Dobierz 2 karty. NL Wykluczenie."
-  },
-  "Quick Slash": {
-    "NAME": "Szybkie cięcie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz 1 kartę."
-  },
-  "Twin Strike": {
-    "NAME": "Podwójne uderzenie",
-    "DESCRIPTION": "Zadaj dwukrotnie !D! pkt. obrażeń."
-  },
-  "Parasite": {
-    "NAME": "Pasożyt",
-    "DESCRIPTION": "Niezagrywalna. NL Jeśli zostanie podmieniona lub usunięta, utrać 3 maksymalne PŻ."
-  },
-  "Bash": {
-    "NAME": "Grzmotnięcie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Wrażliwości."
+  "Cloak And Dagger": {
+    "NAME": "Płaszcz i sztylet",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Dodaj !M! Nóż do ręki.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Dodaj !M! Noże do ręki."
   },
   "Clothesline": {
     "NAME": "Cios w gardło",
     "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Słabości."
   },
-  "Shockwave": {
-    "NAME": "Fala uderzeniowa",
-    "DESCRIPTION": "Nałóż !M! pkt. Słabości NL i Wrażliwości na WSZYSTKICH przeciwników. NL Wykluczenie."
+  "Clumsy": {
+    "NAME": "Niezdarność",
+    "DESCRIPTION": "Niezagrywalna. NL Eteryczna."
   },
-  "Rampage": {
-    "NAME": "Dziki szał",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Każde zagranie tej karty zwiększa jej obrażenia o !M! pkt. na czas tej walki."
-  },
-  "Bandage Up": {
-    "NAME": "Pierwsza pomoc",
-    "DESCRIPTION": "Przywraca !M! PŻ. NL Wykluczenie."
-  },
-  "The Bomb": {
-    "NAME": "Bomba",
-    "DESCRIPTION": "Zadaj wszystkim (wliczając siebie) !D! pkt. obrażeń. NL Wykluczenie."
-  },
-  "Sever Soul": {
-    "NAME": "Rozerwanie duszy",
-    "DESCRIPTION": "Wyklucza z ręki NL karty niebędące NL kartami Ataku. NL Zadaj !D! pkt. obrażeń."
-  },
-  "Whirlwind": {
-    "NAME": "Młynek",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom X razy."
-  },
-  "Warcry": {
-    "NAME": "Okrzyk bojowy",
-    "DESCRIPTION": "Dobierz !M! kartę. NL Karta z ręki zostaje przeniesiona na górę stosu rozgrywającego. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Dobierz !M! karty. NL Karta z ręki zostaje przeniesiona na górę stosu rozgrywającego. NL Wykluczenie."
-  },
-  "PiercingWail": {
-    "NAME": "Przeszywający jęk",
-    "DESCRIPTION": "W tej turze wszyscy przeciwnicy tracą NL !M! pkt. Siły. NL Wykluczenie."
-  },
-  "Bite": {
-    "NAME": "Ugryzienie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przywróć !M! PŻ."
-  },
-  "Secret Technique": {
-    "NAME": "Sekretny ruch",
-    "DESCRIPTION": "Wybierz kartę Umiejętności ze stosu rozgrywającego i umieść ją w ręce. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Wybierz kartę Umiejętności ze stosu rozgrywającego i umieść ją w ręce.",
-    "EXTENDED_DESCRIPTION": [
-      "Nie posiadam żadnych kart Umiejętności NL w stosie rozgrywającym."
-    ]
-  },
-  "Calculated Gamble": {
-    "NAME": "Wyliczone ryzyko",
-    "DESCRIPTION": "Odrzuć swoją rękę, NL następnie dobierz tyle samo kart. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Odrzuć swoją rękę, NL następnie dobierz tyle samo kart."
+  "Cold Snap": {
+    "NAME": "Odłamek lodu",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Sferę Mrozu."
   },
   "Combust": {
     "NAME": "Samozapłon",
     "DESCRIPTION": "Pod koniec tury utrać NL 1 PŻ i zadaj !M! pkt. obrażeń WSZYSTKIM przeciwnikom."
+  },
+  "Concentrate": {
+    "NAME": "Skupienie",
+    "DESCRIPTION": "Odrzuć !M! karty. NL Zyskaj [G] [G]."
+  },
+  "Conserve Battery": {
+    "NAME": "Oszczędzanie baterii",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Energia jest zachowywana na następną turę."
+  },
+  "Consume": {
+    "NAME": "Absorpcja",
+    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Utrać 1 miejsce na Sferę."
+  },
+  "Coolheaded": {
+    "NAME": "Trzeźwość umysłu",
+    "DESCRIPTION": "Przywołaj 1 Sferę Mrozu. NL Dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Przywołaj 1 Sferę Mrozu. NL Dobierz !M! karty."
+  },
+  "Corpse Explosion": {
+    "NAME": "Eksplozja zwłok",
+    "DESCRIPTION": "Przeciwnik traci wszystkie pkt. Trucizny. Zadaj obrażenia równe 2-krotnej liczbie zdjętych pkt. Trucizny WSZYSTKIM przeciwnikom.",
+    "UPGRADE_DESCRIPTION": "Przeciwnik traci wszystkie pkt. Trucizny. Zadaj obrażenia równe 3-krotnej liczbie zdjętych pkt. Trucizny WSZYSTKIM przeciwnikom.",
+    "EXTENDED_DESCRIPTION": [
+      "Przeciwnik nie jest zatruty."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Zepsucie",
+    "DESCRIPTION": "Umiejętności kosztują 0. NL Kiedykolwiek zagrasz kartę Umiejętności, zostanie ona Wykluczona."
+  },
+  "Creative AI": {
+    "NAME": "Kreatywne AI",
+    "DESCRIPTION": "Na początku każdej tury, dodaj losową kartę Mocy do ręki."
+  },
+  "Crippling Poison": {
+    "NAME": "Paraliżująca trucizna",
+    "DESCRIPTION": "Nałóż !M! pkt. Trucizny. NL Nałóż !M! pkt. Słabości."
+  },
+  "Dagger Spray": {
+    "NAME": "Ściana sztyletów",
+    "DESCRIPTION": "Zadaj dwukrotnie !D! pkt. obrażeń WSZYSTKIM przeciwnikom."
+  },
+  "Dagger Throw": {
+    "NAME": "Rzut sztyletem",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz 1 kartę. NL Odrzuć 1 kartę."
+  },
+  "Dark Embrace": {
+    "NAME": "Objęcia mroku",
+    "DESCRIPTION": "Kiedykolwiek karta zostanie Wykluczona, NL dobierz 1 kartę."
+  },
+  "Dark Shackles": {
+    "NAME": "Mroczne kajdany",
+    "DESCRIPTION": "Przeciwnik traci !M! pkt. Siły do końca tej tury. NL Wykluczenie."
+  },
+  "Darkness": {
+    "NAME": "Mrok",
+    "DESCRIPTION": "Przywołaj !M! Sferę Ciemności.",
+    "UPGRADE_DESCRIPTION": "Przywołaj !M! Sfery Ciemności."
+  },
+  "Dash": {
+    "NAME": "Zryw",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Zadaj !D! pkt. obrażeń."
+  },
+  "Dazed": {
+    "NAME": "Oszołomienie",
+    "DESCRIPTION": "Niezagrywalna. NL Eteryczna."
+  },
+  "Deadly Poison": {
+    "NAME": "Zabójcza trucizna",
+    "DESCRIPTION": "Nałóż !M! pkt. Trucizny."
+  },
+  "Decay": {
+    "NAME": "Rozkład",
+    "DESCRIPTION": "Niezagrywalna. NL Pod koniec tury otrzymaj 2 pkt. obrażeń."
   },
   "Deep Breath": {
     "NAME": "Głęboki wdech",
     "DESCRIPTION": "Wtasuj karty ze stosu odrzuconych do rozgrywającego. NL Dobierz !M! kartę.",
     "UPGRADE_DESCRIPTION": "Wtasuj karty ze stosu odrzuconych do rozgrywającego. NL Dobierz !M! karty."
   },
+  "Defend_B": {
+    "NAME": "Obrona",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
+  },
+  "Defend_G": {
+    "NAME": "Obrona",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
+  },
+  "Defend_R": {
+    "NAME": "Obrona",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
+  },
+  "Deflect": {
+    "NAME": "Odbicie",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
+  },
+  "Defragment": {
+    "NAME": "Defragmentacja",
+    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia."
+  },
+  "Demon Form": {
+    "NAME": "Demoniczna forma",
+    "DESCRIPTION": "Na początku tury, zyskaj !M! pkt. Siły."
+  },
+  "Die Die Die": {
+    "NAME": "Giń Giń Giń",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Wykluczenie."
+  },
+  "Disarm": {
+    "NAME": "Rozbrojenie",
+    "DESCRIPTION": "Przeciwnik traci NL !M! pkt. Siły. NL Wykluczenie."
+  },
+  "Distraction": {
+    "NAME": "Rozproszenie",
+    "DESCRIPTION": "Dodaj losową kartę Umiejętności do ręki. NL W tej turze jej koszt wynosi 0 pkt. Energii. NL Wykluczenie."
+  },
+  "Dodge and Roll": {
+    "NAME": "Seria uników",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Zyskaj !B! pkt. Bloku w następnej turze."
+  },
+  "Doom and Gloom": {
+    "NAME": "Zagłada i zniszczenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywołaj !M! Sferę Ciemności."
+  },
+  "Doppelganger": {
+    "NAME": "Klonowanie",
+    "DESCRIPTION": "W następnej turze dobierz X kart NL i zyskaj X [G]. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "W następnej turze dobierz X+1 kart NL i zyskaj X+1 [G]. NL Wykluczenie."
+  },
+  "Double Energy": {
+    "NAME": "Podwójna energia",
+    "DESCRIPTION": "Podwaja twoją Energię. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Podwaja twoją Energię."
+  },
+  "Double Tap": {
+    "NAME": "Podwójny atak",
+    "DESCRIPTION": "W czasie tej tury następna karta Ataku zostanie zagrana dwukrotnie.",
+    "UPGRADE_DESCRIPTION": "W czasie tej tury !M! następne karty Ataku zostaną zagrane dwukrotnie."
+  },
   "Doubt": {
     "NAME": "Zwątpienie",
     "DESCRIPTION": "Niezagrywalna. NL Pod koniec tury zyskaj NL 1 pkt. Słabości."
   },
+  "Dramatic Entrance": {
+    "NAME": "Dramatyczne wejście",
+    "DESCRIPTION": "Startowa. NL Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Wykluczenie."
+  },
+  "Dropkick": {
+    "NAME": "Kopniak z wyskoku",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeśli przeciwnik ma nałożoną Wrażliwość, NL zyskaj [R] NL i dobierz 1 kartę."
+  },
+  "Dual Wield": {
+    "NAME": "Oburęczność",
+    "DESCRIPTION": "Stwórz kopię karty Ataku lub Mocy.",
+    "UPGRADE_DESCRIPTION": "Stwórz 2 kopie karty Ataku lub Mocy."
+  },
+  "Dualcast": {
+    "NAME": "Powielenie",
+    "DESCRIPTION": "Wyładuj następną Sferę 2 razy."
+  },
+  "Echo Form": {
+    "NAME": "Powtarzająca forma",
+    "DESCRIPTION": "Pierwsza zagrana karta w kazdej turze jest zagrywana dwukrotnie. NL Eteryczna.",
+    "UPGRADE_DESCRIPTION": "Pierwsza zagrana karta w kazdej turze jest zagrywana dwukrotnie."
+  },
+  "Electrodynamics": {
+    "NAME": "Elektrodynamika",
+    "DESCRIPTION": "Grom zadaje obrażenia WSZYSTKIM przeciwnikom.",
+    "UPGRADE_DESCRIPTION": "Grom zadaje obrażenia WSZYSTKIM przeciwnikom. NL Jeżeli jest tylko 1 przeciwnnik, Grom zadaje obrażenia podwójnie."
+  },
+  "Endless Agony": {
+    "NAME": "Wieczna agonia",
+    "DESCRIPTION": "Kiedykolwiek dobierzesz tę kartę, dodaj jej kopię do ręki. NL Zadaj !D! pkt. obrażeń. NL Wykluczenie."
+  },
+  "Energy Pulse": {
+    "NAME": "Puls energii",
+    "DESCRIPTION": "Zyskaj pkt. Bloku równe twojej Energii.",
+    "UPGRADE_DESCRIPTION": "Zyskaj pkt. Bloku równe podwójnej ilości twojej Energii."
+  },
+  "Enlightenment": {
+    "NAME": "Oświecenie",
+    "DESCRIPTION": "Na czas tej tury koszt wszystkich kart w ręce zostaje zredukowany NL do 1.",
+    "UPGRADE_DESCRIPTION": "Na czas tej walki koszt wszystkich kart w ręce zostaje zredukowany NL do 1"
+  },
+  "Entrench": {
+    "NAME": "Fortyfikacja",
+    "DESCRIPTION": "Podwój swój obecny Blok.",
+    "UPGRADE_DESCRIPTION": "Podwój swój obecny Blok."
+  },
+  "Envenom": {
+    "NAME": "Zatrucie",
+    "DESCRIPTION": "Za każdym razem, gdy karta Ataku zada niezablokowane obrażenia nałóż 1 pkt. Trucizny."
+  },
   "Escape Plan": {
     "NAME": "Plan ucieczki",
     "DESCRIPTION": "Dobierz 1 kartę. NL Jeśli będzie to karta Umiejętności, zyskasz !B! pkt. Bloku."
+  },
+  "Eviscerate": {
+    "NAME": "Wypatroszenie",
+    "DESCRIPTION": "Kosztuje o 1 [G] mniej NL za każdą odrzuconą kartę w tej turze. NL Zadaj trzykrotnie !D! pkt. obrażeń."
+  },
+  "Evolve": {
+    "NAME": "Ewolucja",
+    "DESCRIPTION": "Kiedykolwiek dobierzesz kartę Stanu, dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Kiedykolwiek dobierzesz kartę Stanu, dobierz !M! karty."
+  },
+  "Exhume": {
+    "NAME": "Ekshumacja",
+    "DESCRIPTION": "Wybierz Wykluczoną kartę i umieść ją w ręce. NL Wykluczenie."
+  },
+  "Expertise": {
+    "NAME": "Ekspertyza",
+    "DESCRIPTION": "Dobieraj karty, dopóki nie będziesz mieć !M! w ręce."
+  },
+  "FTL": {
+    "NAME": "FTL",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Jeżeli w tej turze zagrałeś mniej niż !M! karty, dobierz 1 kartę.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Zagrano",
+      " kartę.)",
+      " karty.)"
+    ]
+  },
+  "Feed": {
+    "NAME": "Pożarcie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeśli ten atak zabije przeciwnika, zyskaj na stałe !M! maksymalne PŻ. Wykluczenie."
+  },
+  "Feel No Pain": {
+    "NAME": "Niewrażliwość",
+    "DESCRIPTION": "Za każdym razem, kiedy karta zostanie Wykluczona, NL zyskaj !M! pkt. Bloku."
+  },
+  "Fiend Fire": {
+    "NAME": "Demoniczny ogień",
+    "DESCRIPTION": "Wyklucz swoją rękę. NL Zadaj !D! pkt. obrażeń za każdą Wykluczoną kartę. NL Wykluczenie."
+  },
+  "Finesse": {
+    "NAME": "Finezja",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Dobierz 1 kartę."
   },
   "Finisher": {
     "NAME": "Cios kończący",
@@ -432,288 +523,21 @@
       " kart Ataku.)"
     ]
   },
-  "Dark Embrace": {
-    "NAME": "Objęcia mroku",
-    "DESCRIPTION": "Kiedykolwiek karta zostanie Wykluczona, NL dobierz 1 kartę."
+  "Fire Breathing": {
+    "NAME": "Ognisty oddech",
+    "DESCRIPTION": "Na końcu tury, za każdą zagraną w tej turze kartę Ataku, zadaj 1 pkt. obrażeń WSZYSTKIM przeciwnikom."
   },
-  "Die Die Die": {
-    "NAME": "Giń Giń Giń",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Wykluczenie."
+  "Fission": {
+    "NAME": "Podział",
+    "DESCRIPTION": "Wyładuj wszystkie Sfery. Zyskaj nowe miejsce na Sferę za każdą Wyładowaną Sferę."
   },
-  "Well Laid Plans": {
-    "NAME": "Plan walki",
-    "DESCRIPTION": "Pod koniec tury zachowaj w ręce NL !M! kartę.",
-    "UPGRADE_DESCRIPTION": "Pod koniec tury zachowaj w ręce NL maksymalnie !M! karty."
-  },
-  "Defend_R": {
-    "NAME": "Obrona",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
-  },
-  "Defend_G": {
-    "NAME": "Obrona",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
-  },
-  "Defend_B": {
-    "NAME": "Obrona",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
-  },
-  "Seeing Red": {
-    "NAME": "Amok",
-    "DESCRIPTION": "Zyskaj [R] [R]. NL Wykluczenie."
-  },
-  "Disarm": {
-    "NAME": "Rozbrojenie",
-    "DESCRIPTION": "Przeciwnik traci NL !M! pkt. Siły. NL Wykluczenie."
-  },
-  "Panache": {
-    "NAME": "Szyk",
-    "DESCRIPTION": "Za każdym razem kiedy zagrasz 5 kart podczas jednej tury, zadaj !M! pkt. obrażeń WSZYSTKIM przeciwnikom."
-  },
-  "Fiend Fire": {
-    "NAME": "Demoniczny ogień",
-    "DESCRIPTION": "Wyklucz swoją rękę. NL Zadaj !D! pkt. obrażeń za każdą Wykluczoną kartę. NL Wykluczenie."
-  },
-  "Terror": {
-    "NAME": "Terror",
-    "DESCRIPTION": "Nałóż 99 pkt. Wrażliwości. NL Wykluczenie."
-  },
-  "Dazed": {
-    "NAME": "Oszołomienie",
-    "DESCRIPTION": "Niezagrywalna. NL Eteryczna."
-  },
-  "Void": {
-    "NAME": "Pustka",
-    "DESCRIPTION": "Niezagrywalna. NL Kiedy dobierzesz tę kartę, tracisz 1 pkt. Energii. NL Eteryczna."
-  },
-  "Slimed": {
-    "NAME": "Szlam",
-    "DESCRIPTION": "Wykluczenie."
-  },
-  "AscendersBane": {
-    "NAME": "Zmora wędrowcy",
-    "DESCRIPTION": "Niezagrywalna. NL Eteryczna. NL Od tej Klątwy nie ma ucieczki."
-  },
-  "Barricade": {
-    "NAME": "Barykada",
-    "DESCRIPTION": "Blok nie zostaje usunięty z początkiem tury."
-  },
-  "Armaments": {
-    "NAME": "Uzbrojenie",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Ulepsz kartę z ręki do końca walki.",
-    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Ulepsz WSZYSTKIE karty w ręce do końca walki."
-  },
-  "Havoc": {
-    "NAME": "Spustoszenie",
-    "DESCRIPTION": "Zagraj kartę z góry stosu rozgrywającego, a następnie ją Wyklucz."
-  },
-  "Secret Weapon": {
-    "NAME": "Sekretna broń",
-    "DESCRIPTION": "Wybierz kartę Ataku ze stosu rozgrywającego i umieść ją w ręce. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Wybierz kartę Ataku ze stosu rozgrywającego i umieść ją w ręce.",
-    "EXTENDED_DESCRIPTION": [
-      "Nie posiadam kart ataku NL w stosie rozgrywającym."
-    ]
-  },
-  "Apotheosis": {
-    "NAME": "Apoteoza",
-    "DESCRIPTION": "Ulepsz WSZYSTKIE karty do końca walki. NL Wykluczenie."
-  },
-  "Feel No Pain": {
-    "NAME": "Niewrażliwość",
-    "DESCRIPTION": "Za każdym razem, kiedy karta zostanie Wykluczona, NL zyskaj !M! pkt. Bloku."
-  },
-  "Hide": {
-    "NAME": "Ukrycie",
-    "DESCRIPTION": "Nie stracisz PŻ aż do następnej tury. NL Wykluczenie."
-  },
-  "Corruption": {
-    "NAME": "Zepsucie",
-    "DESCRIPTION": "Umiejętności kosztują 0. NL Kiedykolwiek zagrasz kartę Umiejętności, zostanie ona Wykluczona."
-  },
-  "Heel Hook": {
-    "NAME": "Powalenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeśli przeciwnik jest pod wpływem Słabości, NL zyskaj [G] NL i dobierz 1 kartę."
-  },
-  "Injury": {
-    "NAME": "Kontuzja",
-    "DESCRIPTION": "Niezagrywalna."
-  },
-  "Rage": {
-    "NAME": "Wściekłość",
-    "DESCRIPTION": "Za każdą kartę Ataku zagraną w tej turze, zyskaj !M! pkt. Bloku."
-  },
-  "Headbutt": {
-    "NAME": "Z główki",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przełóż kartę ze stosu odrzuconych na górę stosu rozgrywającego."
-  },
-  "Limit Break": {
-    "NAME": "Ponad 9000",
-    "DESCRIPTION": "Podwój swoją NL obecną Siłę. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Podwój swoją obecną Siłę."
-  },
-  "Entrench": {
-    "NAME": "Fortyfikacja",
-    "DESCRIPTION": "Podwój swój obecny Blok.",
-    "UPGRADE_DESCRIPTION": "Podwój swój obecny Blok."
-  },
-  "Noxious Fumes": {
-    "NAME": "Trujące opary",
-    "DESCRIPTION": "Na początku swojej tury nałóż !M! pkt. Trucizny na WSZYSTKICH przeciwników."
-  },
-  "Infinite Blades": {
-    "NAME": "A nóż się przyda",
-    "DESCRIPTION": "Na początku swojej tury dodaj Nóż do ręki.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Na początku swojej tury dodaj Nóż do ręki."
-  },
-  "Phantasmal Killer": {
-    "NAME": "Widmowy zabójca",
-    "DESCRIPTION": "W następnej turze karty Ataku zadają podwójne obrażenia."
-  },
-  "Malaise": {
-    "NAME": "Marazm",
-    "DESCRIPTION": "Przeciwnik utraci X pkt. Siły. Nałóż X pkt. Słabości. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Przeciwnik utraci X+1 NL pkt. Siły. Nałóż X+1 NL pkt. Słabości. NL Wykluczenie."
-  },
-  "Reflex": {
-    "NAME": "Refleks",
-    "DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę z ręki, dobierz !M! kartę.",
-    "UPGRADE_DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę z ręki, dobierz !M! karty.",
-    "EXTENDED_DESCRIPTION": [
-      "Nie mogę zagrać tej karty."
-    ]
-  },
-  "Sentinel": {
-    "NAME": "Strażnik",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Jeśli karta zostanie Wykluczona, NL zyskaj [R] [R].",
-    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Jeśli karta zostanie Wykluczona, NL zyskaj [R] [R] [R]."
-  },
-  "Survivor": {
-    "NAME": "Ocalały",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Odrzuć 1 kartę."
-  },
-  "Wild Strike": {
-    "NAME": "Wściekłe uderzenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wtasuj Ranę do stosu rozgrywającego."
-  },
-  "Eviscerate": {
-    "NAME": "Wypatroszenie",
-    "DESCRIPTION": "Kosztuje o 1 [G] mniej NL za każdą odrzuconą kartę w tej turze. NL Zadaj trzykrotnie !D! pkt. obrażeń."
+  "Flame Barrier": {
+    "NAME": "Ognista bariera",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Kiedykolwiek przeciwnik cię zaatakuje, zadaj mu !M! pkt. obrażeń."
   },
   "Flash of Steel": {
     "NAME": "Błysk stali",
     "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz 1 kartę."
-  },
-  "Battle Trance": {
-    "NAME": "Trans bitewny",
-    "DESCRIPTION": "Dobierz !M! karty. NL W czasie tej tury nie możesz dobrać NL więcej kart."
-  },
-  "Heavy Blade": {
-    "NAME": "Ciężkie ostrze",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Bonus od Siły zwiększa się !M! razy."
-  },
-  "Clumsy": {
-    "NAME": "Niezdarność",
-    "DESCRIPTION": "Niezagrywalna. NL Eteryczna."
-  },
-  "Searing Blow": {
-    "NAME": "Gwałtowny cios",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Może być ulepszona dowolną ilość razy."
-  },
-  "Corpse Explosion": {
-    "NAME": "Eksplozja zwłok",
-    "DESCRIPTION": "Przeciwnik traci wszystkie pkt. Trucizny. Zadaj obrażenia równe 2-krotnej liczbie zdjętych pkt. Trucizny WSZYSTKIM przeciwnikom.",
-    "UPGRADE_DESCRIPTION": "Przeciwnik traci wszystkie pkt. Trucizny. Zadaj obrażenia równe 3-krotnej liczbie zdjętych pkt. Trucizny WSZYSTKIM przeciwnikom.",
-    "EXTENDED_DESCRIPTION": [
-      "Przeciwnik nie jest zatruty."
-    ]
-  },
-  "Second Wind": {
-    "NAME": "Druga szansa",
-    "DESCRIPTION": "Wyklucz wszystkie karty niebędące kartami Ataku i zyskaj za każdą !B! pkt. Bloku."
-  },
-  "Enlightenment": {
-    "NAME": "Oświecenie",
-    "DESCRIPTION": "Na czas tej tury koszt wszystkich kart w ręce zostaje zredukowany NL do 1.",
-    "UPGRADE_DESCRIPTION": "Na czas tej walki koszt wszystkich kart w ręce zostaje zredukowany NL do 1"
-  },
-  "Purity": {
-    "NAME": "Oczyszczenie",
-    "DESCRIPTION": "Wybierz i Wyklucz maksymalnie !M! karty z ręki. NL Wykluczenie."
-  },
-  "Panacea": {
-    "NAME": "Panaceum",
-    "DESCRIPTION": "Zyskaj relikt: !M!. NL Wykluczenie."
-  },
-  "Dash": {
-    "NAME": "Zryw",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Zadaj !D! pkt. obrażeń."
-  },
-  "Transmutation": {
-    "NAME": "Transmutacja",
-    "DESCRIPTION": "Dodaj X losowych bezbarwnych kart do ręki. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Dodaj X losowych, ulepszonych bezbarwnych kart do ręki. NL Wykluczenie."
-  },
-  "Backstab": {
-    "NAME": "Cios w plecy",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Startowa. NL Wykluczenie."
-  },
-  "Feed": {
-    "NAME": "Pożarcie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeśli ten atak zabije przeciwnika, zyskaj na stałe !M! maksymalne PŻ. Wykluczenie."
-  },
-  "Rupture": {
-    "NAME": "Masochizm",
-    "DESCRIPTION": "Kiedykolwiek stracisz NL PŻ w wyniku NL zagranej karty, NL zyskaj 1 pkt. Siły."
-  },
-  "Venomology": {
-    "NAME": "Alchemizacja",
-    "DESCRIPTION": "Otrzymaj losową miksturę. NL Wykluczenie."
-  },
-  "Bouncing Flask": {
-    "NAME": "Skaczący flakon",
-    "DESCRIPTION": "Nałóż 3 pkt. Trucizny losowemu przeciwnikowi. Powtórz !M! razy."
-  },
-  "Bludgeon": {
-    "NAME": "Zmiażdżenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
-  },
-  "Finesse": {
-    "NAME": "Finezja",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Dobierz 1 kartę."
-  },
-  "Slice": {
-    "NAME": "Okaleczenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
-  },
-  "Backflip": {
-    "NAME": "Salto w tył",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Dobierz 2 karty."
-  },
-  "Outmaneuver": {
-    "NAME": "Przechytrzenie",
-    "DESCRIPTION": "Zyskaj [G] [G] NL w następnej turze.",
-    "UPGRADE_DESCRIPTION": "Zyskaj [G] [G] [G] NL w następnej turze."
-  },
-  "Night Terror": {
-    "NAME": "Koszmar",
-    "DESCRIPTION": "Wybierz kartę. NL W następnej turze dodaj !M! kopie tej karty do ręki. Wykluczenie.",
-    "EXTENDED_DESCRIPTION": [
-      "Mogę tego użyć tylko NL ",
-      " NL raz na turę."
-    ]
-  },
-  "Bloodletting": {
-    "NAME": "Upuszczenie krwi",
-    "DESCRIPTION": "Zyskaj [R]. NL Utrać 3 PŻ.",
-    "UPGRADE_DESCRIPTION": "Zyskaj [R] [R]. NL Utrać 3 PŻ."
-  },
-  "Concentrate": {
-    "NAME": "Skupienie",
-    "DESCRIPTION": "Odrzuć !M! karty. NL Zyskaj [G] [G]."
-  },
-  "Master of Strategy": {
-    "NAME": "Mistrz strategii",
-    "DESCRIPTION": "Dobierz !M! karty. NL Wykluczenie."
   },
   "Flechettes": {
     "NAME": "Rzutki",
@@ -724,36 +548,257 @@
       " karty Umiejętności)."
     ]
   },
-  "Perfected Strike": {
-    "NAME": "Wymierzone uderzenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Zadaj dodatkowo +2 pkt. obrażeń za KAŻDĄ kartę zawierającą w nazwie „uderzenie”.",
-    "UPGRADE_DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Zadaj dodatkowo +3 pkt. obrażeń za KAŻDĄ kartę zawierającą w nazwie „uderzenie”."
+  "Flex": {
+    "NAME": "Prężenie muskułów",
+    "DESCRIPTION": "Zyskaj !M! pkt. Siły. NL Pod koniec tury utrać NL !M! pkt. Siły."
   },
-  "Carnage": {
-    "NAME": "Rzeź",
-    "DESCRIPTION": "Eteryczna. NL Zadaj !D! pkt. obrażeń."
+  "Flux Capacitor": {
+    "NAME": "Kondensator strumienia",
+    "DESCRIPTION": "Zamień wszystkie Przywołane Sfery na Sfery Plazmy. NL Wykluczenie."
+  },
+  "Flying Knee": {
+    "NAME": "Cios kolanem",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Zyskaj [G] na początku kolejnej tury."
+  },
+  "Footwork": {
+    "NAME": "Praca nóg",
+    "DESCRIPTION": "Zyskaj !M! pkt. Zręczności."
+  },
+  "Force Field": {
+    "NAME": "Pole siłowe",
+    "DESCRIPTION": "Kosztuje 1 mniej [B] za każdą kartę Mocy zagraną w tej walce. NL Zyskaj !B! pkt. Bloku."
+  },
+  "Fusion": {
+    "NAME": "Fuzja",
+    "DESCRIPTION": "Przywołaj !M! Sferę Plazmy."
+  },
+  "Gash": {
+    "NAME": "Głębokie cięcia",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wszystkie karty Głębokiego cięcia podczas tej walki zadają !M! dodatkowych obrażeń."
+  },
+  "Genetic Algorithm": {
+    "NAME": "Algorytm genetyczny",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. Kiedy zagrana, na stałe zwiększa zyskiwane przez tą kartę pkt. Bloku o !M!. NL Wykluczenie."
+  },
+  "Ghostly": {
+    "NAME": "Duchowa forma",
+    "DESCRIPTION": "Zyskaj 1 pkt. Nieuchwytności. NL Wyklucz. NL Eteryczna.",
+    "UPGRADE_DESCRIPTION": "Zyskaj 1 pkt. Nieuchwytności. NL Wyklucz."
+  },
+  "Ghostly Armor": {
+    "NAME": "Duchowy pancerz",
+    "DESCRIPTION": "Eteryczna. NL Zyskaj !B! pkt. Bloku."
+  },
+  "Glacier": {
+    "NAME": "Lodowiec",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Sfery Mrozu.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Sfery Mrozu."
+  },
+  "Glass Knife": {
+    "NAME": "Szklany nóż",
+    "DESCRIPTION": "Zadaj dwukrotnie !D! pkt. obrażeń. Do końca walki obrażenia tej karty są obniżone o 2."
+  },
+  "Go for the Eyes": {
+    "NAME": "Celuj w oczy",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Jeżeli przeciwnik zamierza atakować, nałóż !M! pkt. Słabości."
+  },
+  "Good Instincts": {
+    "NAME": "6. zmysł",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
+  },
+  "Grand Finale": {
+    "NAME": "Wielki finał",
+    "DESCRIPTION": "Można zagrać tylko wtedy, gdy stos rozgrywający jest pusty. NL Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom.",
+    "UPGRADE_DESCRIPTION": "Stos rozgrywający NL musi być #rpusty."
+  },
+  "Havoc": {
+    "NAME": "Spustoszenie",
+    "DESCRIPTION": "Zagraj kartę z góry stosu rozgrywającego, a następnie ją Wyklucz."
+  },
+  "Headbutt": {
+    "NAME": "Z główki",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przełóż kartę ze stosu odrzuconych na górę stosu rozgrywającego."
+  },
+  "Heatsinks": {
+    "NAME": "Radiator",
+    "DESCRIPTION": "Kiedykolwiek zagrasz kartę Mocy, dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Kiedykolwiek zagrasz kartę Mocy, dobierz !M! karty."
+  },
+  "Heavy Blade": {
+    "NAME": "Ciężkie ostrze",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Bonus od Siły zwiększa się !M! razy."
+  },
+  "Heel Hook": {
+    "NAME": "Powalenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeśli przeciwnik jest pod wpływem Słabości, NL zyskaj [G] NL i dobierz 1 kartę."
+  },
+  "Hello World": {
+    "NAME": "Hejka świecie",
+    "DESCRIPTION": "Na początku tury, dodaj losową Pospolitą kartę do ręki.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Na początku tury, dodaj losową Pospolitą kartę do ręki."
+  },
+  "Hemokinesis": {
+    "NAME": "Hemokineza",
+    "DESCRIPTION": "Utrać !M! PŻ. NL Zadaj !D! pkt. obrażeń."
+  },
+  "Hide": {
+    "NAME": "Ukrycie",
+    "DESCRIPTION": "Nie stracisz PŻ aż do następnej tury. NL Wykluczenie."
+  },
+  "Hologram": {
+    "NAME": "Hologram",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywróć losową kartę ze stosu kart odrzuconych do ręki.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywróć kartę ze stosu kart odrzuconych do ręki."
+  },
+  "Hyperbeam": {
+    "NAME": "Hiper promień",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Utrać !M! Skupienia."
+  },
+  "Ice Wall": {
+    "NAME": "Ściana lodu",
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
+  },
+  "Immolate": {
+    "NAME": "Poświęcenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Wtasuj Poparzenie do swojego stosu kart rozgrywającego."
+  },
+  "Impervious": {
+    "NAME": "Iniemamoc",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Wykluczenie."
+  },
+  "Impulse": {
+    "NAME": "Impuls",
+    "DESCRIPTION": "Użyj pasywnego efektu wszystkich Przywołanych Sfer. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Użyj pasywnego efektu wszystkich Przywołanych Sfer."
+  },
+  "Infernal Blade": {
+    "NAME": "Piekielne ostrze",
+    "DESCRIPTION": "Dodaj losową kartę Ataku do ręki. NL Na czas tej tury NL kosztuje ona 0. NL Wykluczenie."
+  },
+  "Infinite Blades": {
+    "NAME": "A nóż się przyda",
+    "DESCRIPTION": "Na początku swojej tury dodaj Nóż do ręki.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Na początku swojej tury dodaj Nóż do ręki."
+  },
+  "Inflame": {
+    "NAME": "Wewnętrzny ogień",
+    "DESCRIPTION": "Zyskaj !M! pkt. Siły."
+  },
+  "Injury": {
+    "NAME": "Kontuzja",
+    "DESCRIPTION": "Niezagrywalna."
+  },
+  "Intimidate": {
+    "NAME": "Zastraszenie",
+    "DESCRIPTION": "Nałóż !M! pkt. Słabości na WSZYSTKICH przeciwników. NL Wykluczenie."
+  },
+  "Iron Wave": {
+    "NAME": "Żelazna fala",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Zadaj !D! pkt. obrażeń."
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "Utrać 3 PŻ. NL Zyskaj !M! pkt. Siły . NL Wykluczenie."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Walet w rękawie",
+    "DESCRIPTION": "Dodaj !M! losową bezbarwną kartę NL do ręki. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Dodaj !M! losowe bezbarwne karty NL do ręki. NL Wykluczenie."
+  },
+  "Juggernaut": {
+    "NAME": "Kolos",
+    "DESCRIPTION": "Kiedykolwiek zyskasz pkt. Bloku, zadaj !M! pkt. obrażeń losowemu przeciwnikowi."
+  },
+  "Leap": {
+    "NAME": "Uskok",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
+  },
+  "Leg Sweep": {
+    "NAME": "Podcięcie",
+    "DESCRIPTION": "Nałóż !M! pkt. Słabości. NL Zyskaj !B! pkt. Bloku."
+  },
+  "Limit Break": {
+    "NAME": "Ponad 9000",
+    "DESCRIPTION": "Podwój swoją NL obecną Siłę. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Podwój swoją obecną Siłę."
+  },
+  "Lockon": {
+    "NAME": "Namierzenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przez następne !M! tury, wybrany przeciwnik będzie celem dla Sfer Gromu i Ciemności."
+  },
+  "Loop": {
+    "NAME": "Pętla",
+    "DESCRIPTION": "Na początku tury, użyj pasywnej umiejętności następnej Sfery.",
+    "UPGRADE_DESCRIPTION": "Na początku tury, użyj pasywnej umiejętności następnej Sfery !M! razy."
+  },
+  "Machine Learning": {
+    "NAME": "Uczenie maszynowe",
+    "DESCRIPTION": "Dobierz !M! dodatkową kartę na początku każdej tury.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Dobierz !M! dodatkową kartę na początku każdej tury."
+  },
+  "Madness": {
+    "NAME": "Szaleństwo",
+    "DESCRIPTION": "Zredukuj koszt losowej karty do 0. NL Wykluczenie."
+  },
+  "Magnetism": {
+    "NAME": "Magnetyzm",
+    "DESCRIPTION": "Na początku każdej tury, dodaj losową bezbarwną kartę do ręki."
+  },
+  "Malaise": {
+    "NAME": "Marazm",
+    "DESCRIPTION": "Przeciwnik utraci X pkt. Siły. Nałóż X pkt. Słabości. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Przeciwnik utraci X+1 NL pkt. Siły. Nałóż X+1 NL pkt. Słabości. NL Wykluczenie."
+  },
+  "Master of Strategy": {
+    "NAME": "Mistrz strategii",
+    "DESCRIPTION": "Dobierz !M! karty. NL Wykluczenie."
   },
   "Masterful Stab": {
     "NAME": "Mistrzowskie dźgnięcie",
     "DESCRIPTION": "Może być zagrana tylko, jako ostatnia NL karta w ręce. NL Zadaj !D! pkt. obrażeń.",
     "UPGRADE_DESCRIPTION": "To musi być moja NL jedyna karta."
   },
-  "Good Instincts": {
-    "NAME": "6. zmysł",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
+  "Melter": {
+    "NAME": "Roztapiacz",
+    "DESCRIPTION": "Pozbaw przeciwnika wszystkich pkt. Bloku. NL Zadaj !D! pkt. obrażeń."
   },
-  "Prepared": {
-    "NAME": "Przygotowanie",
-    "DESCRIPTION": "Dobierz !M! kartę. NL Odrzuć !M! kartę.",
-    "UPGRADE_DESCRIPTION": "Dobierz !M! karty. NL Odrzuć !M! karty."
+  "Metallicize": {
+    "NAME": "Przezbrojenie",
+    "DESCRIPTION": "Pod koniec tury zyskaj NL !M! pkt. Bloku."
   },
-  "Dropkick": {
-    "NAME": "Kopniak z wyskoku",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeśli przeciwnik ma nałożoną Wrażliwość, NL zyskaj [R] NL i dobierz 1 kartę."
+  "Meteor Strike": {
+    "NAME": "Meteor",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przywołaj !M! Sfery Plazmy."
   },
-  "Swift Strike": {
-    "NAME": "Szybkie uderzenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
+  "Mind Blast": {
+    "NAME": "Psioniczne uderzenie",
+    "DESCRIPTION": "Zadaj obrażenia równe liczbie kart w stosie rozgrywającym.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Zadaj obrażenia równe liczbie kart w stosie rozgrywającym.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Zadaje !D! pkt. obrażeń.)"
+    ]
+  },
+  "Multi-Cast": {
+    "NAME": "Powtórzenie",
+    "DESCRIPTION": "Wyładuj następną Sferę X razy.",
+    "UPGRADE_DESCRIPTION": "Wyładuj następną Sferę X+1 razy."
+  },
+  "Necronomicurse": {
+    "NAME": "Klątwa umarlaka",
+    "DESCRIPTION": "Niezagrywalna. NL Od tej klątwy nie ma ucieczki."
+  },
+  "Neutralize": {
+    "NAME": "Neutralizacja",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Słabości."
+  },
+  "Night Terror": {
+    "NAME": "Koszmar",
+    "DESCRIPTION": "Wybierz kartę. NL W następnej turze dodaj !M! kopie tej karty do ręki. Wykluczenie.",
+    "EXTENDED_DESCRIPTION": [
+      "Mogę tego użyć tylko NL ",
+      " NL raz na turę."
+    ]
   },
   "Normality": {
     "NAME": "Przeciętność",
@@ -766,226 +811,6 @@
       " karty w tej turze."
     ]
   },
-  "Accuracy": {
-    "NAME": "Celność",
-    "DESCRIPTION": "Noże zadają dodatkowo !M! pkt. obrażeń."
-  },
-  "Sword Boomerang": {
-    "NAME": "Miecz zwrotny",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń NL !M! razy losowemu przeciwnikowi."
-  },
-  "Jack Of All Trades": {
-    "NAME": "Walet w rękawie",
-    "DESCRIPTION": "Dodaj !M! losową bezbarwną kartę NL do ręki. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Dodaj !M! losowe bezbarwne karty NL do ręki. NL Wykluczenie."
-  },
-  "Demon Form": {
-    "NAME": "Demoniczna forma",
-    "DESCRIPTION": "Na początku tury, zyskaj !M! pkt. Siły."
-  },
-  "Fire Breathing": {
-    "NAME": "Ognisty oddech",
-    "DESCRIPTION": "Na końcu tury, za każdą zagraną w tej turze kartę Ataku, zadaj 1 pkt. obrażeń WSZYSTKIM przeciwnikom."
-  },
-  "Ghostly Armor": {
-    "NAME": "Duchowy pancerz",
-    "DESCRIPTION": "Eteryczna. NL Zyskaj !B! pkt. Bloku."
-  },
-  "Uppercut": {
-    "NAME": "Podbródkowy",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Słabości. NL Nałóż !M! pkt. Wrażliwości."
-  },
-  "Mind Blast": {
-    "NAME": "Psioniczne uderzenie",
-    "DESCRIPTION": "Zadaj obrażenia równe liczbie kart w stosie rozgrywającym.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Zadaj obrażenia równe liczbie kart w stosie rozgrywającym.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (Zadaje !D! pkt. obrażeń.)"
-    ]
-  },
-  "Ghostly": {
-    "NAME": "Duchowa forma",
-    "DESCRIPTION": "Zyskaj 1 pkt. Nieuchwytności. NL Wyklucz. NL Eteryczna.",
-    "UPGRADE_DESCRIPTION": "Zyskaj 1 pkt. Nieuchwytności. NL Wyklucz."
-  },
-  "Neutralize": {
-    "NAME": "Neutralizacja",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Słabości."
-  },
-  "Strike_R": {
-    "NAME": "Uderzenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
-  },
-  "Strike_G": {
-    "NAME": "Uderzenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
-  },
-  "Strike_B": {
-    "NAME": "Uderzenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
-  },
-  "Evolve": {
-    "NAME": "Ewolucja",
-    "DESCRIPTION": "Kiedykolwiek dobierzesz kartę Stanu, dobierz !M! kartę.",
-    "UPGRADE_DESCRIPTION": "Kiedykolwiek dobierzesz kartę Stanu, dobierz !M! karty."
-  },
-  "Burn": {
-    "NAME": "Poparzenie",
-    "DESCRIPTION": "Niezagrywalna. NL Na końcu tury otrzymaj 2 pkt. obrażeń.",
-    "UPGRADE_DESCRIPTION": "Niezagrywalna. NL Na końcu tury otrzymaj 4 pkt. obrażeń"
-  },
-  "Sucker Punch": {
-    "NAME": "Bez ostrzeżenia",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Słabości."
-  },
-  "Double Tap": {
-    "NAME": "Podwójny atak",
-    "DESCRIPTION": "W czasie tej tury następna karta Ataku zostanie zagrana dwukrotnie.",
-    "UPGRADE_DESCRIPTION": "W czasie tej tury !M! następne karty Ataku zostaną zagrane dwukrotnie."
-  },
-  "Footwork": {
-    "NAME": "Praca nóg",
-    "DESCRIPTION": "Zyskaj !M! pkt. Zręczności."
-  },
-  "Thinking Ahead": {
-    "NAME": "Dwie karty w przód",
-    "DESCRIPTION": "Dobierz 2 karty. NL Połóż kartę z ręki na górze stosu rozgrywającego. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Dobierz 2 karty. NL Połóż kartę z ręki na górze stosu rozgrywającego."
-  },
-  "Distraction": {
-    "NAME": "Rozproszenie",
-    "DESCRIPTION": "Dodaj losową kartę Umiejętności do ręki. NL W tej turze jej koszt wynosi 0 pkt. Energii. NL Wykluczenie."
-  },
-  "Dodge and Roll": {
-    "NAME": "Seria uników",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Zyskaj !B! pkt. Bloku w następnej turze."
-  },
-  "All Out Attack": {
-    "NAME": "Rozpaczliwy atak",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Odrzuć losową kartę z ręki."
-  },
-  "Flying Knee": {
-    "NAME": "Cios kolanem",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Zyskaj [G] na początku kolejnej tury."
-  },
-  "Predator": {
-    "NAME": "Łowca",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz 2 karty więcej w następnej turze."
-  },
-  "Madness": {
-    "NAME": "Szaleństwo",
-    "DESCRIPTION": "Zredukuj koszt losowej karty do 0. NL Wykluczenie."
-  },
-  "Expertise": {
-    "NAME": "Ekspertyza",
-    "DESCRIPTION": "Dobieraj karty, dopóki nie będziesz mieć !M! w ręce."
-  },
-  "Rip and Tear": {
-    "NAME": "Rozrywaj i rozdzieraj",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń losowemu przeciwnikowi !M! razy."
-  },
-  "Multi-Cast": {
-    "NAME": "Powtórzenie",
-    "DESCRIPTION": "Wyładuj następną Sferę X razy.",
-    "UPGRADE_DESCRIPTION": "Wyładuj następną Sferę X+1 razy."
-  },
-  "Fission": {
-    "NAME": "Podział",
-    "DESCRIPTION": "Wyładuj wszystkie Sfery. Zyskaj nowe miejsce na Sferę za każdą Wyładowaną Sferę."
-  },
-  "White Noise": {
-    "NAME": "Szum biały",
-    "DESCRIPTION": "Dodaj losową kartę Mocy do ręki. NL W tej turze kosztuje ona 0. NL Wykluczenie."
-  },
-  "Tempest": {
-    "NAME": "Nawałnica",
-    "DESCRIPTION": "Przywołaj Sfery Gromów: X. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Przywołaj Sfery Gromów: X+1. NL Wykluczenie."
-  },
-  "Glacier": {
-    "NAME": "Lodowiec",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Sfery Mrozu.",
-    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Sfery Mrozu."
-  },
-  "Fusion": {
-    "NAME": "Fuzja",
-    "DESCRIPTION": "Przywołaj !M! Sferę Plazmy."
-  },
-  "Zap": {
-    "NAME": "Porażenie",
-    "DESCRIPTION": "Przywołaj !M! Sferę Gromu."
-  },
-  "Chaos": {
-    "NAME": "Chaos",
-    "DESCRIPTION": "Przywołaj !M! losową Sferę.",
-    "UPGRADE_DESCRIPTION": "Przywołaj losowe sfery: !M!."
-  },
-  "Reinforced Body": {
-    "NAME": "Wzmocnione ciało",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku X razy."
-  },
-  "Reprogram": {
-    "NAME": "Przeprogramowanie",
-    "DESCRIPTION": "Podejrzyj !M! górne karty ze stosu rozgrywającego. Możesz Wykluczyć jedną z nich."
-  },
-  "Undo": {
-    "NAME": "Cofnięcie",
-    "DESCRIPTION": "Przywróć PŻ do stanu z poprzedniej tury. NL Wykluczenie."
-  },
-  "Amplify": {
-    "NAME": "Wzmocnienie",
-    "DESCRIPTION": "W tej turze, następna karta Mocy jest zagrywana dwukrotnie.",
-    "UPGRADE_DESCRIPTION": "W tej turze, następne !M! karty Mocy są zagrywane dwukrotnie."
-  },
-  "Capacitor": {
-    "NAME": "Kondensator",
-    "DESCRIPTION": "Zyskaj !M! miejsce na Sferę.",
-    "UPGRADE_DESCRIPTION": "Zyskaj !M! miejsca na Sferę."
-  },
-  "Energy Pulse": {
-    "NAME": "Puls energii",
-    "DESCRIPTION": "Zyskaj pkt. Bloku równe twojej Energii.",
-    "UPGRADE_DESCRIPTION": "Zyskaj pkt. Bloku równe podwójnej ilości twojej Energii."
-  },
-  "Auto Shields": {
-    "NAME": "Automatyczna tarcza",
-    "DESCRIPTION": "Jeżeli posiadasz 0 pkt. Bloku, zyskaj !B! pkt. Bloku."
-  },
-  "Double Energy": {
-    "NAME": "Podwójna energia",
-    "DESCRIPTION": "Podwaja twoją Energię. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Podwaja twoją Energię."
-  },
-  "Conserve Battery": {
-    "NAME": "Oszczędzanie baterii",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Energia jest zachowywana na następną turę."
-  },
-  "Hyperbeam": {
-    "NAME": "Hiper promień",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Utrać !M! Skupienia."
-  },
-  "Sunder": {
-    "NAME": "Rozszczepienie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeżeli pokonasz tym atakiem przeciwnika, zyskaj [B] [B] [B]."
-  },
-  "Turbo": {
-    "NAME": "TURBO",
-    "DESCRIPTION": "Zyskaj [B] [B]. NL Dodaj Pustkę do stosu kart odrzuconych.",
-    "UPGRADE_DESCRIPTION": "Zyskaj [B] [B] [B]. NL Dodaj Pustkę do stosu kart odrzuconych."
-  },
-  "Hologram": {
-    "NAME": "Hologram",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywróć losową kartę ze stosu kart odrzuconych do ręki.",
-    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywróć kartę ze stosu kart odrzuconych do ręki."
-  },
-  "Aggregate": {
-    "NAME": "Agregat",
-    "DESCRIPTION": "Zyskaj [B] za każde !M! kart w stosie rozgrywającym."
-  },
-  "Recycle": {
-    "NAME": "Recykling",
-    "DESCRIPTION": "Wyklucz kartę. NL Zyskaj [B] równą jej kosztowi."
-  },
   "Nova": {
     "NAME": "Supernowa",
     "DESCRIPTION": "Zadaj !M! obrażeń WSZYSTKIM przeciwnikom za każdą kartę Mocy zagraną podczas tej walki.",
@@ -995,153 +820,257 @@
     ],
     "UPGRADE_DESCRIPTION": ""
   },
-  "Static Discharge": {
-    "NAME": "Wyładowanie elektrostatyczne",
-    "DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Sferę Gromu.",
-    "UPGRADE_DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Sfery Gromu."
+  "Noxious Fumes": {
+    "NAME": "Trujące opary",
+    "DESCRIPTION": "Na początku swojej tury nałóż !M! pkt. Trucizny na WSZYSTKICH przeciwników."
+  },
+  "Offering": {
+    "NAME": "Ofiara",
+    "DESCRIPTION": "Utrać 4 PŻ. NL Zyskaj [R] [R]. NL Dobierz !M! kart(-y). NL Wykluczenie."
+  },
+  "Outmaneuver": {
+    "NAME": "Przechytrzenie",
+    "DESCRIPTION": "Zyskaj [G] [G] NL w następnej turze.",
+    "UPGRADE_DESCRIPTION": "Zyskaj [G] [G] [G] NL w następnej turze."
   },
   "Overclock": {
     "NAME": "Podkręcanie",
     "DESCRIPTION": "Deprecated.",
     "UPGRADE_DESCRIPTION": "Deprecated."
   },
-  "Barrage": {
-    "NAME": "Ogień zaporowy",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń za każdą przywołaną Sferę."
+  "Pain": {
+    "NAME": "Ból",
+    "DESCRIPTION": "Niezagrywalna. NL Jeśli w ręce, NL utrać 1 PŻ za każdą inną zagraną kartę."
   },
-  "Ice Wall": {
-    "NAME": "Ściana lodu",
-    "DESCRIPTION": "Deprecated.",
-    "UPGRADE_DESCRIPTION": "Deprecated."
+  "Panacea": {
+    "NAME": "Panaceum",
+    "DESCRIPTION": "Zyskaj relikt: !M!. NL Wykluczenie."
   },
-  "Cold Snap": {
-    "NAME": "Odłamek lodu",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Sferę Mrozu."
+  "Panache": {
+    "NAME": "Szyk",
+    "DESCRIPTION": "Za każdym razem kiedy zagrasz 5 kart podczas jednej tury, zadaj !M! pkt. obrażeń WSZYSTKIM przeciwnikom."
   },
-  "Ball Lightning": {
-    "NAME": "Piorun kulisty",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Sferę Gromu."
+  "Parasite": {
+    "NAME": "Pasożyt",
+    "DESCRIPTION": "Niezagrywalna. NL Jeśli zostanie podmieniona lub usunięta, utrać 3 maksymalne PŻ."
   },
-  "Winter": {
-    "NAME": "Zima",
+  "Perfected Strike": {
+    "NAME": "Wymierzone uderzenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Zadaj dodatkowo +2 pkt. obrażeń za KAŻDĄ kartę zawierającą w nazwie „uderzenie”.",
+    "UPGRADE_DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Zadaj dodatkowo +3 pkt. obrażeń za KAŻDĄ kartę zawierającą w nazwie „uderzenie”."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Widmowy zabójca",
+    "DESCRIPTION": "W następnej turze karty Ataku zadają podwójne obrażenia."
+  },
+  "PiercingWail": {
+    "NAME": "Przeszywający jęk",
+    "DESCRIPTION": "W tej turze wszyscy przeciwnicy tracą NL !M! pkt. Siły. NL Wykluczenie."
+  },
+  "Poisoned Stab": {
+    "NAME": "Trujące dźgnięcie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Trucizny."
+  },
+  "Pommel Strike": {
+    "NAME": "Uderzenie głowicą",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz !M! karty."
+  },
+  "Power Through": {
+    "NAME": "Taran",
+    "DESCRIPTION": "Dodaj 2 Rany do ręki. NL Zyskaj !B! pkt. Bloku."
+  },
+  "Predator": {
+    "NAME": "Łowca",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz 2 karty więcej w następnej turze."
+  },
+  "Prepared": {
+    "NAME": "Przygotowanie",
+    "DESCRIPTION": "Dobierz !M! kartę. NL Odrzuć !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Dobierz !M! karty. NL Odrzuć !M! karty."
+  },
+  "Prime": {
+    "NAME": "Pełnia",
+    "DESCRIPTION": "Kiedykolwiek Przywołasz Sferę, dobierz !M! kartę."
+  },
+  "Primitive Tech": {
+    "NAME": "Prymitywna technologia",
     "DESCRIPTION": "Deprecated."
   },
-  "Meteor Strike": {
-    "NAME": "Meteor",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przywołaj !M! Sfery Plazmy."
+  "Pummel": {
+    "NAME": "Furia uderzeń",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń NL !M! razy. NL Wykluczenie."
   },
-  "Self Repair": {
-    "NAME": "Samonaprawa",
-    "DESCRIPTION": "Na końcu walki, przywróć !M! PŻ."
+  "Purity": {
+    "NAME": "Oczyszczenie",
+    "DESCRIPTION": "Wybierz i Wyklucz maksymalnie !M! karty z ręki. NL Wykluczenie."
   },
-  "Axe Kick": {
-    "NAME": "Kopnięcie opadające",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wyładuj nastepną Sferę."
+  "Quick Slash": {
+    "NAME": "Szybkie cięcie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz 1 kartę."
   },
-  "Beam Cell": {
-    "NAME": "Ogniwo",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń i nałóż !M! pkt. Wrażliwości."
-  },
-  "Go for the Eyes": {
-    "NAME": "Celuj w oczy",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Jeżeli przeciwnik zamierza atakować, nałóż !M! pkt. Słabości."
-  },
-  "Gash": {
-    "NAME": "Głębokie cięcia",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wszystkie karty Głębokiego cięcia podczas tej walki zadają !M! dodatkowych obrażeń."
-  },
-  "Darkness": {
-    "NAME": "Mrok",
-    "DESCRIPTION": "Przywołaj !M! Sferę Ciemności.",
-    "UPGRADE_DESCRIPTION": "Przywołaj !M! Sfery Ciemności."
-  },
-  "Machine Learning": {
-    "NAME": "Uczenie maszynowe",
-    "DESCRIPTION": "Dobierz !M! dodatkową kartę na początku każdej tury.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Dobierz !M! dodatkową kartę na początku każdej tury."
-  },
-  "Impulse": {
-    "NAME": "Impuls",
-    "DESCRIPTION": "Użyj pasywnego efektu wszystkich Przywołanych Sfer. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Użyj pasywnego efektu wszystkich Przywołanych Sfer."
-  },
-  "Skim": {
-    "NAME": "Schemat",
-    "DESCRIPTION": "Dobierz !M! karty."
-  },
-  "Buffer": {
-    "NAME": "Bufor",
-    "DESCRIPTION": "Powstrzymuję następną utratę PŻ.",
-    "UPGRADE_DESCRIPTION": "Powstrzymuję następną utratę PŻ !M! razy."
-  },
-  "FTL": {
-    "NAME": "FTL",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Jeżeli w tej turze zagrałeś mniej niż !M! karty, dobierz 1 kartę.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (",
-      " card played.)",
-      " cards played.)"
-    ]
-  },
-  "Echo Form": {
-    "NAME": "Powtarzająca forma",
-    "DESCRIPTION": "Pierwsza zagrana karta w kazdej turze jest zagrywana dwukrotnie. NL Eteryczna.",
-    "UPGRADE_DESCRIPTION": "Pierwsza zagrana karta w kazdej turze jest zagrywana dwukrotnie."
-  },
-  "Heatsinks": {
-    "NAME": "Radiator",
-    "DESCRIPTION": "Kiedykolwiek zagrasz kartę Mocy, dobierz !M! kartę.",
-    "UPGRADE_DESCRIPTION": "Kiedykolwiek zagrasz kartę Mocy, dobierz !M! karty."
-  },
-  "Genetic Algorithm": {
-    "NAME": "Algorytm genetyczny",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. Kiedy zagrana, na stałe zwiększa zyskiwane przez tą kartę pkt. Bloku o !M!. NL Wykluczenie."
-  },
-  "Melter": {
-    "NAME": "Roztapiacz",
-    "DESCRIPTION": "Pozbaw przeciwnika wszystkich pkt. Bloku. NL Zadaj !D! pkt. obrażeń."
-  },
-  "Dualcast": {
-    "NAME": "Powielenie",
-    "DESCRIPTION": "Wyładuj następną Sferę 2 razy."
-  },
-  "Redo": {
-    "NAME": "Rekurencja",
-    "DESCRIPTION": "Wyładuj następną Sferę. NL Przywołaj Sferę która została Wyładowana."
+  "Rage": {
+    "NAME": "Wściekłość",
+    "DESCRIPTION": "Za każdą kartę Ataku zagraną w tej turze, zyskaj !M! pkt. Bloku."
   },
   "Rainbow": {
     "NAME": "Tęcza",
     "DESCRIPTION": "Przywołaj 1 Sferę Gromu, 1 Mrozu, i 1 Ciemności. NL Wykluczenie.",
     "UPGRADE_DESCRIPTION": "Przywołaj 1 Sferę Gromu, 1 Mrozu, i 1 Ciemności."
   },
-  "Storm": {
-    "NAME": "Burza",
-    "DESCRIPTION": "Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Sferę Gromu.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Sferę Gromu."
+  "Rampage": {
+    "NAME": "Dziki szał",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Każde zagranie tej karty zwiększa jej obrażenia o !M! pkt. na czas tej walki."
   },
-  "All For One": {
-    "NAME": "Wszyscy za jednego",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przełóż wszystkie kosztujące 0 karty ze stosu kart odrzuconych do ręki."
+  "Reaper": {
+    "NAME": "Żniwiarz",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywróć PŻ równe niezablokowanym obrażeniom. NL Wykluczenie."
   },
-  "Magnetism": {
-    "NAME": "Magnetyzm",
-    "DESCRIPTION": "Na początku każdej tury, dodaj losową bezbarwną kartę do ręki."
+  "Reboot": {
+    "NAME": "Restart",
+    "DESCRIPTION": "Przetasuj wszystkie karty do stosu rozgrywającego, następnie dobierz !M! kart. NL Wykluczenie."
   },
-  "Creative AI": {
-    "NAME": "Kreatywne AI",
-    "DESCRIPTION": "Na początku każdej tury, dodaj losową kartę Mocy do ręki."
+  "Rebound": {
+    "NAME": "Rykoszet",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przełóż następną zagraną kartę na szczyt stosu rozgrywającego."
   },
-  "Defragment": {
-    "NAME": "Defragmentacja",
-    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia."
+  "Reckless Charge": {
+    "NAME": "Zuchwała szarża",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wtasuj jedną kartę Oszołomienia do swojego stosu rozgrywającego."
   },
-  "Doom and Gloom": {
-    "NAME": "Zagłada i zniszczenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywołaj !M! Sferę Ciemności."
+  "Recycle": {
+    "NAME": "Recykling",
+    "DESCRIPTION": "Wyklucz kartę. NL Zyskaj [B] równą jej kosztowi."
   },
-  "Biased Cognition": {
-    "NAME": "Błąd poznawczy",
-    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Na początku każdej tury, utrać 1 pkt. Skupienia."
+  "Redo": {
+    "NAME": "Rekurencja",
+    "DESCRIPTION": "Wyładuj następną Sferę. NL Przywołaj Sferę która została Wyładowana."
+  },
+  "Reflex": {
+    "NAME": "Refleks",
+    "DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę z ręki, dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę z ręki, dobierz !M! karty.",
+    "EXTENDED_DESCRIPTION": [
+      "Nie mogę zagrać tej karty."
+    ]
+  },
+  "Regret": {
+    "NAME": "Żal",
+    "DESCRIPTION": "Niezagrywalna. NL Na końcu tury utrać 1 PŻ za każdą kartę w ręce."
+  },
+  "Reinforced Body": {
+    "NAME": "Wzmocnione ciało",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku X razy."
+  },
+  "Reprieve": {
+    "NAME": "Chwila wytchnienia",
+    "DESCRIPTION": "Jeżeli przeciwnik nie zamierza atakować, zyskaj !M! pkt. Skupienia."
+  },
+  "Reprogram": {
+    "NAME": "Przeprogramowanie",
+    "DESCRIPTION": "Podejrzyj !M! górne karty ze stosu rozgrywającego. Możesz Wykluczyć jedną z nich."
+  },
+  "Riddle With Holes": {
+    "NAME": "Dziurawiec",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń NL pięć razy."
+  },
+  "Rip and Tear": {
+    "NAME": "Rozrywaj i rozdzieraj",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń losowemu przeciwnikowi !M! razy."
+  },
+  "Rupture": {
+    "NAME": "Masochizm",
+    "DESCRIPTION": "Kiedykolwiek stracisz NL PŻ w wyniku NL zagranej karty, NL zyskaj 1 pkt. Siły."
+  },
+  "Sadistic Nature": {
+    "NAME": "Sadyzm",
+    "DESCRIPTION": "Kiedykolwiek nałożysz negatywny efekt na przeciwnika, otrzyma on !M! pkt. obrażeń."
+  },
+  "Scrape": {
+    "NAME": "Ekstrakcja",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz !M! karty. NL Odrzuć każdą nie kosztującą 0 dobraną w ten sposób kartę."
+  },
+  "Searing Blow": {
+    "NAME": "Gwałtowny cios",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Może być ulepszona dowolną ilość razy."
+  },
+  "Second Wind": {
+    "NAME": "Druga szansa",
+    "DESCRIPTION": "Wyklucz wszystkie karty niebędące kartami Ataku i zyskaj za każdą !B! pkt. Bloku."
+  },
+  "Secret Technique": {
+    "NAME": "Sekretny ruch",
+    "DESCRIPTION": "Wybierz kartę Umiejętności ze stosu rozgrywającego i umieść ją w ręce. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Wybierz kartę Umiejętności ze stosu rozgrywającego i umieść ją w ręce.",
+    "EXTENDED_DESCRIPTION": [
+      "Nie posiadam żadnych kart Umiejętności NL w stosie rozgrywającym."
+    ]
+  },
+  "Secret Weapon": {
+    "NAME": "Sekretna broń",
+    "DESCRIPTION": "Wybierz kartę Ataku ze stosu rozgrywającego i umieść ją w ręce. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Wybierz kartę Ataku ze stosu rozgrywającego i umieść ją w ręce.",
+    "EXTENDED_DESCRIPTION": [
+      "Nie posiadam kart ataku NL w stosie rozgrywającym."
+    ]
+  },
+  "Seeing Red": {
+    "NAME": "Amok",
+    "DESCRIPTION": "Zyskaj [R] [R]. NL Wykluczenie."
+  },
+  "Seek": {
+    "NAME": "Wyszukanie",
+    "DESCRIPTION": "Wybierz !M! kartę ze stosu rozgrywającego i przełóż ją do ręki. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Wybierz !M! karty ze stosu rozgrywającego i przełóż je do ręki. NL Wykluczenie."
+  },
+  "Self Repair": {
+    "NAME": "Samonaprawa",
+    "DESCRIPTION": "Na końcu walki, przywróć !M! PŻ."
+  },
+  "Sentinel": {
+    "NAME": "Strażnik",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Jeśli karta zostanie Wykluczona, NL zyskaj [R] [R].",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Jeśli karta zostanie Wykluczona, NL zyskaj [R] [R] [R]."
+  },
+  "Setup": {
+    "NAME": "Ustawienie",
+    "DESCRIPTION": "Połóż kartę z ręki na górze stosu rozgrywającego. NL Karta kosztuje 0 pkt. Energii do pierwszego zagrania."
+  },
+  "Sever Soul": {
+    "NAME": "Rozerwanie duszy",
+    "DESCRIPTION": "Wyklucza z ręki NL karty niebędące NL kartami Ataku. NL Zadaj !D! pkt. obrażeń."
+  },
+  "Shiv": {
+    "NAME": "Nóż",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wykluczenie."
+  },
+  "Shockwave": {
+    "NAME": "Fala uderzeniowa",
+    "DESCRIPTION": "Nałóż !M! pkt. Słabości NL i Wrażliwości na WSZYSTKICH przeciwników. NL Wykluczenie."
+  },
+  "Shrug It Off": {
+    "NAME": "Bez zadrapań",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Dobierz 1 kartę."
+  },
+  "Skewer": {
+    "NAME": "Szpikulec",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń NL X razy."
+  },
+  "Skim": {
+    "NAME": "Schemat",
+    "DESCRIPTION": "Dobierz !M! karty."
+  },
+  "Slice": {
+    "NAME": "Okaleczenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
+  },
+  "Slimed": {
+    "NAME": "Szlam",
+    "DESCRIPTION": "Wykluczenie."
+  },
+  "Spot Weakness": {
+    "NAME": "Znajdź lukę",
+    "DESCRIPTION": "Jeśli przeciwnik zamierza atakować, NL zyskaj !M! pkt. Siły."
   },
   "Stack": {
     "NAME": "Stos",
@@ -1151,6 +1080,95 @@
       " NL (Zyskaj !B! pkt. Bloku.)"
     ]
   },
+  "Static Discharge": {
+    "NAME": "Wyładowanie elektrostatyczne",
+    "DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Sferę Gromu.",
+    "UPGRADE_DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Sfery Gromu."
+  },
+  "Steam": {
+    "NAME": "Bariera z pary",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. Do końca walki Blok tej karty jest obniżony o 1."
+  },
+  "Steam Power": {
+    "NAME": "Podkręcenie obrotów",
+    "DESCRIPTION": "Dobierz !M! karty. NL Dodaj Poparzenie do stosu kart odrzuconych."
+  },
+  "Storm": {
+    "NAME": "Burza",
+    "DESCRIPTION": "Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Sferę Gromu.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Sferę Gromu."
+  },
+  "Storm of Steel": {
+    "NAME": "Burza ostrzy",
+    "DESCRIPTION": "Odrzuć obecną rękę. NL Za każdą odrzuconą kartę dostaniesz 1 Nóż do ręki.",
+    "UPGRADE_DESCRIPTION": "Odrzuć obecną rękę. NL Za każdą odrzuconą kartę dostaniesz 1 ulepszony Nóż do ręki."
+  },
+  "Streamline": {
+    "NAME": "Strumień",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Kiedykolwiek zagrasz tą kartę, zmniejsz jej koszt o !M! do końca tej walki."
+  },
+  "Strike_B": {
+    "NAME": "Uderzenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
+  },
+  "Strike_G": {
+    "NAME": "Uderzenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
+  },
+  "Strike_R": {
+    "NAME": "Uderzenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
+  },
+  "Sucker Punch": {
+    "NAME": "Bez ostrzeżenia",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Słabości."
+  },
+  "Sunder": {
+    "NAME": "Rozszczepienie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeżeli pokonasz tym atakiem przeciwnika, zyskaj [B] [B] [B]."
+  },
+  "Survivor": {
+    "NAME": "Ocalały",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Odrzuć 1 kartę."
+  },
+  "Sweeping Beam": {
+    "NAME": "Rozległy promień",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Dobierz !M! kartę."
+  },
+  "Swift Strike": {
+    "NAME": "Szybkie uderzenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń."
+  },
+  "Sword Boomerang": {
+    "NAME": "Miecz zwrotny",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń NL !M! razy losowemu przeciwnikowi."
+  },
+  "Tactician": {
+    "NAME": "Taktyk",
+    "DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę, NL zyskaj [G].",
+    "UPGRADE_DESCRIPTION": "Niezagrywalna. NL Jeśli odrzucisz tę kartę, NL zyskaj [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Nie mogę zagrać tej karty."
+    ]
+  },
+  "Tempest": {
+    "NAME": "Nawałnica",
+    "DESCRIPTION": "Przywołaj Sfery Gromów: X. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Przywołaj Sfery Gromów: X+1. NL Wykluczenie."
+  },
+  "Terror": {
+    "NAME": "Terror",
+    "DESCRIPTION": "Nałóż 99 pkt. Wrażliwości. NL Wykluczenie."
+  },
+  "The Bomb": {
+    "NAME": "Bomba",
+    "DESCRIPTION": "Zadaj wszystkim (wliczając siebie) !D! pkt. obrażeń. NL Wykluczenie."
+  },
+  "Thinking Ahead": {
+    "NAME": "Dwie karty w przód",
+    "DESCRIPTION": "Dobierz 2 karty. NL Połóż kartę z ręki na górze stosu rozgrywającego. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Dobierz 2 karty. NL Połóż kartę z ręki na górze stosu rozgrywającego."
+  },
   "Thunder Strike": {
     "NAME": "Błyskawica",
     "DESCRIPTION": "Zadaj !D! pkt. obrażeń losowemu przeciwnikowi za każdą Sferę Gromu Przywołaną w tej walce.",
@@ -1158,117 +1176,105 @@
       " (Przywołano Sfer Gromu: !M!.)"
     ]
   },
-  "Force Field": {
-    "NAME": "Pole siłowe",
-    "DESCRIPTION": "Kosztuje 1 mniej [B] za każdą kartę Mocy zagraną w tej walce. NL Zyskaj !B! pkt. Bloku."
+  "Thunderclap": {
+    "NAME": "Grzmot",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń i nałóż 1 pkt. Wrażliwości na WSZYSTKICH przeciwników."
   },
-  "Prime": {
-    "NAME": "Pełnia",
-    "DESCRIPTION": "Kiedykolwiek Przywołasz Sferę, dobierz !M! kartę."
+  "Tools of the Trade": {
+    "NAME": "Bogaty arsenał",
+    "DESCRIPTION": "Na początku swojej tury dobierz 1 kartę i odrzuć 1 kartę."
   },
-  "Cache": {
-    "NAME": "Pamięć podręczna",
-    "DESCRIPTION": "Deprecated."
+  "Transmutation": {
+    "NAME": "Transmutacja",
+    "DESCRIPTION": "Dodaj X losowych bezbarwnych kart do ręki. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Dodaj X losowych, ulepszonych bezbarwnych kart do ręki. NL Wykluczenie."
   },
-  "Rebound": {
-    "NAME": "Rykoszet",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przełóż następną zagraną kartę na szczyt stosu rozgrywającego."
+  "Trip": {
+    "NAME": "Potknięcie",
+    "DESCRIPTION": "Nałóż !M! pkt. Wrażliwości.",
+    "UPGRADE_DESCRIPTION": "Nałóż !M! pkt. Wrażliwości na WSZYSTKICH przeciwników."
   },
-  "Allocate": {
-    "NAME": "Rozdzielenie",
-    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Utrać 1 pkt. Siły. NL Utrać 1 pkt. Zwinności."
+  "True Grit": {
+    "NAME": "Prawdziwe męstwo",
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Wyklucz losową kartę NL z ręki.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Wyklucz wybraną kartę NL z ręki."
   },
-  "Streamline": {
-    "NAME": "Strumień",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Kiedykolwiek zagrasz tą kartę, zmniejsz jej koszt o !M! do końca tej walki."
+  "Turbo": {
+    "NAME": "TURBO",
+    "DESCRIPTION": "Zyskaj [B] [B]. NL Dodaj Pustkę do stosu kart odrzuconych.",
+    "UPGRADE_DESCRIPTION": "Zyskaj [B] [B] [B]. NL Dodaj Pustkę do stosu kart odrzuconych."
   },
-  "Channel": {
-    "NAME": "Przywołanie",
-    "DESCRIPTION": "Deprecated."
+  "Twin Strike": {
+    "NAME": "Podwójne uderzenie",
+    "DESCRIPTION": "Zadaj dwukrotnie !D! pkt. obrażeń."
   },
-  "Sweeping Beam": {
-    "NAME": "Rozległy promień",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Dobierz !M! kartę."
-  },
-  "Leap": {
-    "NAME": "Uskok",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku."
-  },
-  "Seek": {
-    "NAME": "Wyszukanie",
-    "DESCRIPTION": "Wybierz !M! karty ze stosu rozgrywającego i przełóż je do ręki. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
-  },
-  "Blaster": {
-    "NAME": "Blaster",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Zyskaj [B] za każdą Przywołaną Sferę. NL Wykluczenie."
-  },
-  "Reboot": {
-    "NAME": "Restart",
-    "DESCRIPTION": "Przetasuj wszystkie karty do stosu rozgrywającego, następnie dobierz !M! kart. NL Wykluczenie."
-  },
-  "Steam Power": {
-    "NAME": "Silnik parowy",
-    "DESCRIPTION": "Dobierz !M! karty. NL Dodaj Poparzenie do stosu kart odrzuconych."
-  },
-  "Blizzard": {
-    "NAME": "Gradobicie",
-    "DESCRIPTION": "Zadaj !M! obrażeń WSZYSTKIM przeciwnikom za każdą Przywołaną Sferę Mrozu podczas tej walki.",
-    "UPGRADE_DESCRIPTION": "",
+  "Underhanded Strike": {
+    "NAME": "Podstępne uderzenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeżeli w tej turze jakakolwiek karta została odrzucona, zyskaj [G] [G].",
     "EXTENDED_DESCRIPTION": [
-      " NL (Zadaj !D! pkt. obrażeń.)",
-      ""
+      "Nie mogę zagrać tej karty."
     ]
   },
-  "Chill": {
-    "NAME": "Chłód",
-    "DESCRIPTION": "Przywołaj !M! Sferę Mrozu za każdego przeciwnika. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Przywołaj !M! Sferę Mrozu za każdego przeciwnika. NL Wykluczenie."
+  "Undo": {
+    "NAME": "Cofnięcie",
+    "DESCRIPTION": "Przywróć PŻ do stanu z poprzedniej tury. NL Wykluczenie."
   },
-  "Coolheaded": {
-    "NAME": "Trzeźwość umysłu",
-    "DESCRIPTION": "Przywołaj 1 Sferę Mrozu. NL Dobierz !M! kartę.",
-    "UPGRADE_DESCRIPTION": "Przywołaj 1 Sferę Mrozu. NL Dobierz !M! karty."
+  "Unload": {
+    "NAME": "Wyładowanie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Odrzuć WSZYSTKIE karty nie będące kartami Ataku."
   },
-  "Flux Capacitor": {
-    "NAME": "Kondensator strumienia",
-    "DESCRIPTION": "Zamień wszystkie Przywołane Sfery na Sfery Plazmy. NL Wykluczenie."
+  "Uppercut": {
+    "NAME": "Podbródkowy",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Słabości. NL Nałóż !M! pkt. Wrażliwości."
   },
-  "Primitive Tech": {
-    "NAME": "Prymitywna technologia",
+  "Venomology": {
+    "NAME": "Alchemizacja",
+    "DESCRIPTION": "Otrzymaj losową miksturę. NL Wykluczenie."
+  },
+  "Void": {
+    "NAME": "Pustka",
+    "DESCRIPTION": "Niezagrywalna. NL Kiedy dobierzesz tę kartę, tracisz 1 pkt. Energii. NL Eteryczna."
+  },
+  "Warcry": {
+    "NAME": "Okrzyk bojowy",
+    "DESCRIPTION": "Dobierz !M! kartę. NL Karta z ręki zostaje przeniesiona na górę stosu rozgrywającego. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Dobierz !M! karty. NL Karta z ręki zostaje przeniesiona na górę stosu rozgrywającego. NL Wykluczenie."
+  },
+  "Well Laid Plans": {
+    "NAME": "Plan walki",
+    "DESCRIPTION": "Pod koniec tury zachowaj w ręce NL !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Pod koniec tury zachowaj w ręce NL maksymalnie !M! karty."
+  },
+  "Whirlwind": {
+    "NAME": "Młynek",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom X razy."
+  },
+  "White Noise": {
+    "NAME": "Szum biały",
+    "DESCRIPTION": "Dodaj losową kartę Mocy do ręki. NL W tej turze kosztuje ona 0. NL Wykluczenie."
+  },
+  "Wild Strike": {
+    "NAME": "Wściekłe uderzenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Wtasuj Ranę do stosu rozgrywającego."
+  },
+  "Winter": {
+    "NAME": "Zima",
     "DESCRIPTION": "Deprecated."
   },
-  "Hello World": {
-    "NAME": "Hejka świecie",
-    "DESCRIPTION": "Na początku tury, dodaj losową Pospolitą kartę do ręki.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Na początku tury, dodaj losową Pospolitą kartę do ręki."
+  "Wound": {
+    "NAME": "Rana",
+    "DESCRIPTION": "Niezagrywalna."
   },
-  "Loop": {
-    "NAME": "Pętla",
-    "DESCRIPTION": "Na początku tury, użyj pasywnej umiejętności następnej Sfery."
+  "Wraith Form v2": {
+    "NAME": "Widmowa forma",
+    "DESCRIPTION": "Zyskaj !M! pkt. Nieuchwytności. NL Na końcu tury, utrać 1 pkt. Zwinności."
   },
-  "Scrape": {
-    "NAME": "Ekstrakcja",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz !M! karty. NL Odrzuć każdą nie kosztującą 0 dobraną w ten sposób kartę."
+  "Writhe": {
+    "NAME": "Cierpienie",
+    "DESCRIPTION": "Niezagrywalna. NL Startowa."
   },
-  "Reprieve": {
-    "NAME": "Chwila wytchnienia",
-    "DESCRIPTION": "Jeżeli przeciwnik nie zamierza atakować, zyskaj !M! pkt. Skupienia."
-  },
-  "Lockon": {
-    "NAME": "Namierzenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przez następne !M! tury, wybrany przeciwnik będzie celem dla Sfer Gromu i Ciemności."
-  },
-  "Consume": {
-    "NAME": "Absorpcja",
-    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Utrać 1 miejsce na Sferę."
-  },
-  "BootSequence": {
-    "NAME": "Sekwencja rozruchowa",
-    "DESCRIPTION": "Zyskaj !B! pkt Bloku. NL Startowa. NL Wykluczenie."
-  },
-  "Steam": {
-    "NAME": "Steam",
-    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
+  "Zap": {
+    "NAME": "Porażenie",
+    "DESCRIPTION": "Przywołaj !M! Sferę Gromu."
   }
 }

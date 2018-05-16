@@ -1,12 +1,4 @@
 {
-  "Ironclad": {
-    "NAMES": [
-      "L'Ironclad"
-    ],
-    "TEXT": [
-      "L'ultimo soldato Ironclad. NL Ha venduto l'anima per ottenere poteri demoniaci."
-    ]
-  },
   "Crowbot": {
     "NAMES": [
       "Crowbot"
@@ -15,20 +7,44 @@
       "BEEP BOOP"
     ]
   },
-  "Silent": {
-    "NAMES": [
-      "La Silent"
-    ],
-    "TEXT": [
-      "Una letale cacciatrice dalle terre della nebbia. NL Assassina i nemici con veleno e pugnali."
-    ]
-  },
   "Defect": {
     "NAMES": [
       "Il Defect"
     ],
     "TEXT": [
       "Un automa da combattimento divenuto senziente. NL Antiche tecnologie gli permettono di manipolare i Globi."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "L'Ironclad"
+    ],
+    "TEXT": [
+      "L'ultimo soldato Ironclad. NL Ha venduto l'anima per ottenere poteri demoniaci."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Procedi",
+      "~Benvenuto!~"
+    ],
+    "TEXT": [
+      "Ciao! NL Compra qualcosa! NL Compra Compra Compra!",
+      "Mi piace il tuo taglio di capelli",
+      "Sai mica che ore sono?",
+      "Preferisci i cani o i gatti?",
+      "Sembri ~pericoloso,~ NL hehe...",
+      "Hai tutto il tempo che vuoi... NL ..... NL ... o no",
+      "Ti piace questo tappeto? NL Non è in vendita",
+      "Sostieni i piccoli imprenditori!",
+      "Le maschere vanno di moda, io lo so!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Fermati un attimo ed ascolta!",
+      "È pericoloso viaggiare da soli! Dammi tutti i tuoi soldi!",
+      "Compra qualcosa",
+      "~*YAWN*~",
+      "Adoro l'oro.",
+      "Il mio colore preferito è il blu. NL Qual è il tuo invece?"
     ]
   },
   "Neow Event": {
@@ -93,30 +109,6 @@
       "[ #rPerdi #rla #rReliquia #rIniziale, #gOttieni #guna #gReliquia #gboss #gcasuale ]"
     ]
   },
-  "Merchant": {
-    "NAMES": [
-      "Procedi",
-      "~Benvenuto!~"
-    ],
-    "TEXT": [
-      "Ciao! NL Compra qualcosa! NL Compra Compra Compra!",
-      "Mi piace il tuo taglio di capelli",
-      "Sai mica che ore sono?",
-      "Preferisci i cani o i gatti?",
-      "Sembri ~pericoloso,~ NL hehe...",
-      "Hai tutto il tempo che vuoi... NL ..... NL ... o no",
-      "Ti piace questo tappeto? NL Non è in vendita",
-      "Sostieni i piccoli imprenditori!",
-      "Le maschere vanno di moda, io lo so!",
-      "Hmm... NL ...hmm... NL Oh!",
-      "Fermati un attimo ed ascolta!",
-      "È pericoloso viaggiare da soli! Dammi tutti i tuoi soldi!",
-      "Compra qualcosa",
-      "~*YAWN*~",
-      "Adoro l'oro.",
-      "Il mio colore preferito è il blu. NL Qual è il tuo invece?"
-    ]
-  },
   "Shop Screen": {
     "NAMES": [
       "~Hey!~ NL ~Ciao!~",
@@ -151,6 +143,14 @@
       "~*YAWN*~",
       "Adoro l'oro.",
       "Il mio colore preferito è il blu. NL Tu quale preferisci invece?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "La Silent"
+    ],
+    "TEXT": [
+      "Una letale cacciatrice dalle terre della nebbia. NL Assassina i nemici con veleno e pugnali."
     ]
   }
 }

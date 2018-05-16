@@ -899,5 +899,21 @@
       "턴 종료 시 #y민첩 을 #b",
       " 잃습니다."
     ]
+  },
+  "Electro": {
+    "NAME": "Electro",
+    "DESCRIPTIONS": [
+      "#yLightning hits ALL enemies.",
+      " NL If there is only #b1 enemy, #yLightning hits #b",
+      " times."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
+    ]
   }
 }
