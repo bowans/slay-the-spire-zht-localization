@@ -1,7 +1,27 @@
 {
+  "Allstar": {
+    "NAME": "全明星",
+    "DESCRIPTION": "開始時擁有五張隨機無色牌。"
+  },
+  "Binary": {
+    "NAME": "兩者擇一",
+    "DESCRIPTION": "卡牌獎勵只有兩張牌。"
+  },
+  "Brewmaster": {
+    "NAME": "製藥大師",
+    "DESCRIPTION": "開始時擁有5張“煉製藥水”牌和遺物“白獸雕像”。"
+  },
   "Cursed Run": {
     "NAME": "詛咒局",
     "DESCRIPTION": "每打敗一名Boss都被詛咒。你的初始遺物被替換成詛咒鑰匙、黑石護符和毒巫娃娃。"
+  },
+  "Diverse": {
+    "NAME": "涉獵廣泛",
+    "DESCRIPTION": "卡牌不再受到角色限制。"
+  },
+  "Draft": {
+    "NAME": "選牌",
+    "DESCRIPTION": "通過15輪選牌來決定你的初始牌組。"
   },
   "Elite Swarm": {
     "NAME": "精英獵手",
@@ -11,37 +31,9 @@
     "NAME": "傳家寶",
     "DESCRIPTION": "開始時獲得一件隨機遺物。"
   },
-  "Night Terrors": {
-    "NAME": "暗夜驚魂",
-    "DESCRIPTION": "在營地休息回復100%生命，但會降低5點最大生命值。"
-  },
-  "Shiny": {
-    "NAME": "金光閃閃",
-    "DESCRIPTION": "初始牌組被替換為所有稀有牌各一張。"
-  },
-  "Allstar": {
-    "NAME": "全明星",
-    "DESCRIPTION": "開始時擁有五張隨機無色牌。"
-  },
-  "Diverse": {
-    "NAME": "涉獵廣泛",
-    "DESCRIPTION": "卡牌不再受到角色限制。"
-  },
-  "Vintage": {
-    "NAME": "上等好貨",
-    "DESCRIPTION": "普通敵人不再掉落卡牌，而是掉落遺物。"
-  },
-  "Binary": {
-    "NAME": "兩者擇一",
-    "DESCRIPTION": "卡牌獎勵只有兩張牌。"
-  },
-  "Uncertain Future": {
-    "NAME": "前路已定",
-    "DESCRIPTION": "地圖上只有一條道路。"
-  },
-  "Midas": {
-    "NAME": "點金手",
-    "DESCRIPTION": "敵人掉落200%金幣，但你不能在休息處升級卡牌。"
+  "Hoarder": {
+    "NAME": "囤積癖",
+    "DESCRIPTION": "每當你往牌組中增添牌時，都將額外增加兩張相同牌。你不能在商人處移除卡牌。"
   },
   "Insanity": {
     "NAME": "精神錯亂",
@@ -51,6 +43,22 @@
     "NAME": "死鬥",
     "DESCRIPTION": "你在每場戰鬥開始時獲得+3力量，所有敵人在戰鬥開始時獲得+3力量。"
   },
+  "Midas": {
+    "NAME": "點金手",
+    "DESCRIPTION": "敵人掉落200%金幣，但你不能在休息處升級卡牌。"
+  },
+  "Night Terrors": {
+    "NAME": "暗夜驚魂",
+    "DESCRIPTION": "在營地休息回復100%生命，但會降低5點最大生命值。"
+  },
+  "Shiny": {
+    "NAME": "金光閃閃",
+    "DESCRIPTION": "初始牌組被替換為所有稀有牌各一張。"
+  },
+  "Specialized": {
+    "NAME": "專精",
+    "DESCRIPTION": "開始時擁有5張相同的稀有牌。"
+  },
   "Terminal": {
     "NAME": "身患絕症",
     "DESCRIPTION": "你每進入一個新房間時都失去1點最大生命。你在每場戰鬥開始時獲得5層多層護甲。"
@@ -59,20 +67,12 @@
     "NAME": "時間膨脹",
     "DESCRIPTION": "所有敵人初始被賦予“緩慢”負面效果。"
   },
-  "Hoarder": {
-    "NAME": "囤積癖",
-    "DESCRIPTION": "每當你往牌組中增添牌時，都將額外增加兩張相同牌。你不能在商人處移除卡牌。"
+  "Uncertain Future": {
+    "NAME": "前路已定",
+    "DESCRIPTION": "地圖上只有一條道路。"
   },
-  "Draft": {
-    "NAME": "選牌",
-    "DESCRIPTION": "通過15輪選牌來決定你的初始牌組。"
-  },
-  "Brewmaster": {
-    "NAME": "製藥大師",
-    "DESCRIPTION": "開始時擁有5張“煉製藥水”牌和遺物“白獸雕像”。"
-  },
-  "Specialized": {
-    "NAME": "專精",
-    "DESCRIPTION": "開始時擁有5張相同的稀有牌。"
+  "Vintage": {
+    "NAME": "上等好貨",
+    "DESCRIPTION": "普通敵人不再掉落卡牌，而是掉落遺物。"
   }
 }
