@@ -9,9 +9,9 @@
   },
   "Draw Tip": {
     "TEXT": [
-      "Zu Beginn jedes Zuges werden hier NL #b",
-      " Karten gezogen. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen (gemischt).",
-      " Karten gezogen. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen."
+      "Ziehe zu Beginn jedes Zuges #b",
+      " Karten von hier. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen (gemischt).",
+      " Karten von hier. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen."
     ],
     "LABEL": [
       "Nachziehstapel"
@@ -19,7 +19,7 @@
   },
   "End Turn Tip": {
     "TEXT": [
-      "Das Drücken dieser Taste beendet deinen Zug. NL NL Dann wirfst du deine Hand ab, die Gegner sind am Zug, du ziehst ",
+      "Klicke hier, um den Zug zu beenden. NL NL Dann wirfst du deine Hand ab, die Gegner sind am Zug, du ziehst ",
       " Karten und dann bist du wieder am Zug."
     ],
     "LABEL": [
@@ -28,7 +28,7 @@
   },
   "Energy Panel Tip": {
     "TEXT": [
-      "Deine aktuelle Menge an Energie. Um Karten auszuspielen, wird Energie benötigt."
+      "Deine aktuelle Menge an Energie. Du brauchst Energie, um Karten auszuspielen."
     ],
     "LABEL": [
       "Energie"
@@ -36,7 +36,7 @@
   },
   "Energy Tip": {
     "TEXT": [
-      "Um Karten auszuspielen, wird Energie benötigt! NL Die Kugel unten links zeigt an, wie viel Energie du für diesen Zug noch hast."
+      "Um Karten auszuspielen, brauchst du Energie! NL Die Kugel unten links zeigt an, wie viel Energie du in diesem Zug noch hast."
     ],
     "LABEL": [
       "Energiekosten"
@@ -59,9 +59,9 @@
   },
   "Main Tutorial": {
     "TEXT": [
-      "Besiege Gegner, indem du Karten aus deiner Hand ausspielst! NL NL Um Karten auszuspielen, wird #yEnergie benötigt. NL Beende deinen Zug, sobald sie dir ausgeht. NL NL Zu Beginn deines Zuges werden neue Karten gezogen und deine #yEnergie wird wieder aufgefüllt.",
-      "Spiele defensive Karten aus, um #yBlocken zu erhalten, wenn Gegner dich angreifen wollen. NL NL #yBlocken reduziert eingehenden Angriffsschaden, aber NL #rlässt zu Beginn deines nächsten Zuges #rnach.",
-      "Während deines Zuges kannst du die #yAbsicht des Gegners über ihm sehen. NL NL Wenn ein Gegner vorhat, dich anzugreifen, sorg dafür, dass du #yBlocken nutzt!"
+      "Besiege Gegner, indem du Handkarten ausspielst! NL NL Um Karten auszuspielen, brauchst du #yEnergie. NL Sobald sie dir ausgeht, beende deinen Zug. NL NL Zu Beginn deines Zuges ziehst du neue Karten und erhältst #yEnergie.",
+      "Spiele defensive Karten aus, um #yBlock zu erhalten, wenn Gegner dich angreifen wollen. NL NL #yBlock reduziert ihren Angriffsschaden, aber NL #rverfällt zu Beginn deines nächsten Zuges.",
+      "Während deines Zuges kannst du die #yAbsicht des Gegners über ihm sehen. NL NL Wenn ein Gegner vorhat, dich anzugreifen, sorg dafür, dass du #yBlock benutzt!"
     ],
     "LABEL": [
       "Weiter",
@@ -87,10 +87,10 @@
   },
   "Player Tips": {
     "TEXT": [
-      "Diese Karte wendet eine Macht auf dich an, wenn sie verwendet wird. NL Mächte sind passive Fähigkeiten, die für die Dauer des Kampfes anhalten.",
+      "Diese Karte wendet eine Macht auf dich an, wenn du sie ausspielst. NL Mächte sind passive Fähigkeiten, die für den Rest des Kampfes anhalten.",
       "Um Karten auszuspielen, wird Energie benötigt! NL Die Kugel unten links zeigt an, wie viel Energie du für diesen Zug noch hast.",
       "Meine #rHand #rist #rvoll!",
-      "#rMaximale Orb-Kapazität wurde erreicht.",
+      "#rMaximale Orb-Kapazität erreicht.",
       "Ich habe keine Orb-Slots."
     ],
     "LABEL": [
@@ -112,7 +112,7 @@
   },
   "Potion Tip": {
     "TEXT": [
-      "Trink oder wirf Tränke während des Kampfes! NL Tränke gehen beim Raumwechsel nicht verloren."
+      "Trink oder wirf Tränke während des Kampfes! NL Du kannst Tränke von Raum zu Raum mitnehmen."
     ],
     "LABEL": [
       "Tränke"
