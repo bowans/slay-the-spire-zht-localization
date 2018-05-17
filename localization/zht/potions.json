@@ -68,9 +68,9 @@
   "Regen Potion": {
     "NAME": "再生藥水",
     "DESCRIPTIONS": [
-      "在你的回合結束時回復 #b",
-      " 點 #y生命 ，效果持續 #b",
-      " 回合。"
+      "獲得 #b",
+      " 層 #y再生 。",
+      ""
     ]
   },
   "Strength Potion": {
@@ -168,7 +168,8 @@
     "NAME": "異蛇之油",
     "DESCRIPTIONS": [
       "獲得 #y混亂 。 抽 #b",
-      " 張牌。"
+      " 張牌。",
+      "card."
     ]
   },
   "LiquidBronze": {

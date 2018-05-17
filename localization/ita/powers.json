@@ -675,9 +675,9 @@
   "Regeneration": {
     "NAME": "Rigenerazione",
     "DESCRIPTIONS": [
-      "Curati di #b",
-      " #yPV a fine turno per #b",
-      " turni."
+      "A fine turno ti Curi di #b",
+      " #yPV, poi questo valore si riduce di #b1.",
+      ""
     ]
   },
   "Repair": {
@@ -909,11 +909,11 @@
     ]
   },
   "Equilibrium": {
-    "NAME": "Equilibrium",
+    "NAME": "Equilibrio",
     "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
+      "Conservi la tua mano per il prossimo turno.",
+      "Conservi la tua mano per i prossimi #b",
+      " turni."
     ]
   }
 }

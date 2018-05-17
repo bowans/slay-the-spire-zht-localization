@@ -64,7 +64,7 @@
     "DESCRIPTION": "Se hai 0 Blocco, ottieni !B! Blocco."
   },
   "Axe Kick": {
-    "NAME": "Calcio Volante",
+    "NAME": "Calcio ad Ascia",
     "DESCRIPTION": "Infliggi !D! danni. NL Evoca il tuo primo Globo."
   },
   "Backflip": {
@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "Berserk",
-    "DESCRIPTION": "Ad inizio turno se hai 50% PV o meno ottieni [R]."
+    "DESCRIPTION": "Ad inizio turno, se hai 50% dei tuoi PV massimi o meno ottieni [R]."
   },
   "Biased Cognition": {
     "NAME": "Bias Cognitivo",
@@ -137,7 +137,7 @@
     "DESCRIPTION": "Infliggi a TUTTI i nemici !M! danni per ogni Ghiaccio Creato in questo combattimento.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      " NL ( !D! danni.)",
+      " NL (Infliggi !D! danni.)",
       ""
     ]
   },
@@ -282,7 +282,7 @@
   },
   "Conserve Battery": {
     "NAME": "Batteria di Riserva",
-    "DESCRIPTION": "Ottieni !B! Blocco. NL L'Energia viene conservata per il prossimo turno."
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Conservi la tua Energia per il prossimo turno."
   },
   "Consume": {
     "NAME": "Assimilazione",
@@ -424,7 +424,7 @@
   },
   "Dropkick": {
     "NAME": "Calcio Volante",
-    "DESCRIPTION": "Infliggi !D! danni. NL Se il nemico è Vulnerabile, NL Ottieni [R]  e NL peschi 1 carta."
+    "DESCRIPTION": "Infliggi !D! danni. NL Se il nemico è Vulnerabile, NL Ottieni [R] NL e peschi 1 carta."
   },
   "Dual Wield": {
     "NAME": "A Due Mani",
@@ -500,7 +500,7 @@
   },
   "Feed": {
     "NAME": "Banchetto",
-    "DESCRIPTION": "Infliggi !D! danni. NL Se il nemico (NON minion) muore così NL ottieni !M! PV Massimi permanenti. Esaurisci."
+    "DESCRIPTION": "Infliggi !D! danni. NL Se il nemico non era un minion e muore così, NL ottieni !M! PV Massimi permanenti. Esaurisci."
   },
   "Feel No Pain": {
     "NAME": "Nessun Dolore",
@@ -596,7 +596,7 @@
   },
   "Glass Knife": {
     "NAME": "Coltello di Vetro",
-    "DESCRIPTION": "Infliggi !D! danni due volte. Questo valore viene ridotto di 2 per il combattimento."
+    "DESCRIPTION": "Infliggi !D! danni due volte. Questo valore si riduce di 2 per il resto del combattimento."
   },
   "Go for the Eyes": {
     "NAME": "Agli Occhi!",
@@ -617,7 +617,7 @@
   },
   "Headbutt": {
     "NAME": "Testata",
-    "DESCRIPTION": "Infliggi !D! danni. NL Posiziona una carta dalgli Scarti in cima alla Pila."
+    "DESCRIPTION": "Infliggi !D! danni. NL Metti una carta negli Scarti in cima alla Pila."
   },
   "Heatsinks": {
     "NAME": "Dissipatore",
@@ -626,7 +626,7 @@
   },
   "Heavy Blade": {
     "NAME": "Lama Pesante",
-    "DESCRIPTION": "Infliggi !D! danni. NL La Forza influisce sulla Lama Pesante !M! volte."
+    "DESCRIPTION": "Infliggi !D! danni. NL La tua Forza influisce sulla Lama Pesante !M! volte."
   },
   "Heel Hook": {
     "NAME": "Presa di Sottomissione",
@@ -647,7 +647,7 @@
   },
   "Hologram": {
     "NAME": "Ologramma",
-    "DESCRIPTION": "Ottieni !B! Blocco. NL Aggiungi alla tua mano una carta casuale dagli Scarti.",
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Aggiungi alla tua mano una carta dagli Scarti. NL Esaurisci.",
     "UPGRADE_DESCRIPTION": "Ottieni !B! Blocco. NL Aggiungi alla tua mano una carta dagli Scarti."
   },
   "Hyperbeam": {
@@ -817,7 +817,7 @@
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL Esaurisci.",
-      " NL (Infligge !D! danni)."
+      " NL (Infliggi !D! danni)."
     ]
   },
   "Noxious Fumes": {
@@ -852,12 +852,12 @@
   },
   "Parasite": {
     "NAME": "Parassita",
-    "DESCRIPTION": "Ingiocabile. NL Se viene transformata o rimossa dal mazzo, perdi 3 PV Massimi."
+    "DESCRIPTION": "Ingiocabile. NL Se la trasformi o la rimuovi dal mazzo, perdi 3 PV Massimi."
   },
   "Perfected Strike": {
     "NAME": "Colpo Perfetto",
-    "DESCRIPTION": "Infliggi !D! danni. NL Infligge 2 danni in più per OGNI carta con \"Colpo\" nel nome.",
-    "UPGRADE_DESCRIPTION": "Infliggi !D! danni. NL Infligge 3 danni in pìù per OGNI carta con \"Colpo\" nel nome"
+    "DESCRIPTION": "Infliggi !D! danni. NL Infliggi 2 danni in più per OGNI altra carta con \"Colpo\" nel nome tuo mazzo.",
+    "UPGRADE_DESCRIPTION": "Infliggi !D! danni. NL Infliggi 3 danni in più per OGNI altra carta con \"Colpo\" nel nome tuo mazzo."
   },
   "Phantasmal Killer": {
     "NAME": "Sicario Etereo",
@@ -1029,8 +1029,8 @@
   },
   "Sentinel": {
     "NAME": "Sentinella",
-    "DESCRIPTION": "Ottieni !B! Blocco. NL Se questa carta viene esaurita, NL ottieni [R] [R].",
-    "UPGRADE_DESCRIPTION": "Ottieni !B! Blocco. NL Se questa carta viene esaurita, NL ottieni [R] [R] [R]."
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Se esaurisci questa carta, NL ottieni [R] [R].",
+    "UPGRADE_DESCRIPTION": "Ottieni !B! Blocco. NL Se esaurisci questa carta , NL ottieni [R] [R] [R]."
   },
   "Setup": {
     "NAME": "Trappola",
@@ -1087,7 +1087,7 @@
   },
   "Steam": {
     "NAME": "Barriera di Vapore",
-    "DESCRIPTION": "Ottieni !B! Blocco. Questo valore è ridotto di 1 per il combattimento."
+    "DESCRIPTION": "Ottieni !B! Blocco. Questo valore si riduce di 1 per il resto del combattimento."
   },
   "Steam Power": {
     "NAME": "Overclock",
@@ -1105,7 +1105,7 @@
   },
   "Streamline": {
     "NAME": "Miglioramento",
-    "DESCRIPTION": "Infliggi !D! danni. NL Il costo di questa carta viene ridotto di !M! per questo combattimento."
+    "DESCRIPTION": "Infliggi !D! danni. NL Il costo di questa carta si riduce di !M! per questo combattimento."
   },
   "Strike_B": {
     "NAME": "Colpo",
@@ -1216,8 +1216,8 @@
     ]
   },
   "Undo": {
-    "NAME": "Annulla",
-    "DESCRIPTION": "I tuoi PV tornano al valore dello scorso turno. NL Esaurisci."
+    "NAME": "Equilibrio",
+    "DESCRIPTION": "Guadagni !B! Blocco. NL Conservi la tua mano per il prossimo turno."
   },
   "Unload": {
     "NAME": "Raffica",

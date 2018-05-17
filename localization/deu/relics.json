@@ -97,6 +97,14 @@
       " TP und #yerschöpfst die Karte."
     ]
   },
+  "Boot": {
+    "NAME": "Der Stiefel",
+    "FLAVOR": "Er vergrößert sich, wenn er aufgezogen wird.",
+    "DESCRIPTIONS": [
+      "Anstatt #b",
+      " oder weniger ungeblockten #yAngriffsschaden zuzufügen, wird dieser auf #b5 erhöht."
+    ]
+  },
   "Bottled Flame": {
     "NAME": "Flaschenflamme",
     "FLAVOR": "In der Flasche haust eine Flamme, die auf ewig brennt.",
@@ -749,7 +757,7 @@
     "NAME": "Gebetsmühle",
     "FLAVOR": "Das Rad dreht sich immerfort und bleibt nie stehen.",
     "DESCRIPTIONS": [
-      "Reguläre Truhen enthalten jetzt auch Karten."
+      "Reguläre Gegner lassen jetzt ein weiteres mal Karten fallen."
     ]
   },
   "Question Card": {
@@ -1047,7 +1055,7 @@
     "DESCRIPTIONS": [
       "Erhalte #b1 Trank. NL Erhalte #b",
       " #yGold. NL Erhöhe deine max. TP um #b",
-      ". NL Erhalte #b1 Karte. NL Verbessere #b1 zufällige Karte.",
+      ". NL Wähle und erhalte #b1 Karte. NL Verbessere #b1 zufällige Karte.",
       "Winziges Haus!"
     ]
   },
@@ -1152,14 +1160,6 @@
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
       "Tränke werden immer nach dem Kampf fallen gelassen."
-    ]
-  },
-  "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
-    "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked #yAttack damage, increase it to #b5."
     ]
   }
 }

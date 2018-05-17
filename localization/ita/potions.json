@@ -20,9 +20,9 @@
     ]
   },
   "BloodPotion": {
-    "NAME": "Estratto di Sangue",
+    "NAME": "Essenza di Sangue",
     "DESCRIPTIONS": [
-      "Ti curi di #b",
+      "Ti curi del #b",
       "% dei tuoi PV massimi."
     ]
   },
@@ -154,9 +154,9 @@
   "Regen Potion": {
     "NAME": "Pozione Rigenerante",
     "DESCRIPTIONS": [
-      "Ti curi di #b",
-      " #yPV a fine turno, per #b",
-      " turni."
+      "Ottieni #b",
+      " #yRigenerazione.",
+      ""
     ]
   },
   "SkillPotion": {
@@ -175,7 +175,8 @@
     "NAME": "Olio di Snecko",
     "DESCRIPTIONS": [
       "Diventi #yConfuso. Peschi #b",
-      " carte."
+      " carte.",
+      "card."
     ]
   },
   "SpeedPotion": {

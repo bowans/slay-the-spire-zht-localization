@@ -1019,14 +1019,19 @@
       "#r%s 回合",
       "#r%s #r/ #r%s #rHP",
       "#y%s #y金幣",
-      "拾取 %s",
+      "拾取：",
       "略過：",
       "情報遺失",
       "+2 Max HP",
-      "#bC ",
-      "#bR ",
-      "#bP ",
-      "#bS "
+      "#b卡牌 ",
+      "#b遺物 ",
+      "#b藥水 ",
+      "#b特殊 ",
+      "#bRested",
+      "#bUpgraded %s",
+      "#bRemoved %s",
+      "#bDug",
+      "#bLifted %s/%s"
     ]
   },
   "AttackFromDeckToHandAction": {

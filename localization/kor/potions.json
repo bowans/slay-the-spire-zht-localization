@@ -68,9 +68,9 @@
   "Regen Potion": {
     "NAME": "재생 포션",
     "DESCRIPTIONS": [
-      " #b",
-      " 의 체력을 #b",
-      " 턴동안 매 턴 종료시 회복합니다."
+      "#y재생 을 #b",
+      " 얻습니다.",
+      ""
     ]
   },
   "Strength Potion": {
@@ -168,7 +168,8 @@
     "NAME": "스네코 기름",
     "DESCRIPTIONS": [
       "#y혼란 을 얻습니다. 카드를 #b",
-      " 장 뽑습니다."
+      " 장 뽑습니다.",
+      "card."
     ]
   },
   "LiquidBronze": {

@@ -597,14 +597,14 @@
     ]
   },
   "Paper Crane": {
-    "NAME": "종이 학",
+    "NAME": "종이 힉",
     "FLAVOR": "옛 시대의 동물의 모습을 표현한 종이 모형입니다.",
     "DESCRIPTIONS": [
       " #y약화 된 적의 공격은 피해량이 #b25% 대신 #b50% 만큼 감소합니다."
     ]
   },
   "Paper Frog": {
-    "NAME": "종이 개구리",
+    "NAME": "종이 게구리",
     "FLAVOR": "그 종이는 계속 접혀지며 스스로 작은 생명체로 변화합니다.",
     "DESCRIPTIONS": [
       " #y취약 상태의 적은 #b50% 대신 #b75% 의 피해를 추가로 받습니다."
@@ -645,7 +645,7 @@
     "NAME": "전경기",
     "FLAVOR": "바퀴는 계속 돌고 있으며 멈추지 않습니다.",
     "DESCRIPTIONS": [
-      "보스 상자가 아닌 일반 상자에서도 카드를 획득할 수 있습니다."
+      "일반적인 적에게서 카드 보상을 추가로 얻을 수 있습니다."
     ]
   },
   "Question Card": {
@@ -1148,18 +1148,18 @@
     ]
   },
   "Potion Belt": {
-    "NAME": "Potion Belt",
-    "FLAVOR": "I can hold more Potions using this belt!",
+    "NAME": "포션 벨트",
+    "FLAVOR": "이 벨트가 있으면 포션을 더 많이 들고 다닐 수 있어!",
     "DESCRIPTIONS": [
-      "Upon pick up, gain #b1 Potion slot."
+      "획득 시 포션 슬롯을 #b1 개 얻습니다."
     ]
   },
   "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "NAME": "장화",
+    "FLAVOR": "분위기가 고조될 때마다 장화의 크기가 커집니다.",
     "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked #yAttack damage, increase it to #b5."
+      "막히지 않은 #y피해를 #b",
+      " 이하로 줄 때마다 피해량을 #b5 로 증가시킵니다."
     ]
   }
 }

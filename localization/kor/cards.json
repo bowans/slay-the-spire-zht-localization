@@ -984,9 +984,9 @@
     "NAME": "FTL",
     "DESCRIPTION": "피해를 !D! 줍니다. 만약 이번 턴에 카드를 !M! 장 미만으로 사용했다면 카드를 1 장 뽑습니다.",
     "EXTENDED_DESCRIPTION": [
-      " NL (",
-      " card played.)",
-      " cards played.)"
+      " NL (이번 턴에",
+      " 장의 카드를 사용했습니다.)",
+      " 장의 카드를 사용했습니다.)"
     ]
   },
   "Barrage": {
@@ -1037,7 +1037,7 @@
     "DESCRIPTION": "deprecated"
   },
   "Steam Power": {
-    "NAME": "빠른 검색",
+    "NAME": "오버클럭",
     "DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 화상 카드를 버린 카드 더미에 넣습니다."
   },
   "Reprogram": {
@@ -1079,8 +1079,8 @@
     "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 카드를 !M! 장 뽑습니다."
   },
   "Undo": {
-    "NAME": "되감기",
-    "DESCRIPTION": "현재 체력을 지난 턴의 체력으로 만듭니다. NL 소멸"
+    "NAME": "평형",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 이번 턴 종료 시 카드를 버리지 않습니다."
   },
   "Doom and Gloom": {
     "NAME": "암울한 전망",
@@ -1129,7 +1129,7 @@
   },
   "Hologram": {
     "NAME": "홀로그램",
-    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 버린 카드 더미에서 무작위 카드 한 장을 손으로 가져옵니다.",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 버린 카드 더미에서 카드 한 장을 선택해서 손으로 가져옵니다. NL 소멸",
     "UPGRADE_DESCRIPTION": "방어도 를 !B! 얻습니다. NL 버린 카드 더미에서 카드 한 장을 선택해서 손으로 가져옵니다."
   },
   "Blaster": {
@@ -1219,7 +1219,7 @@
   "Seek": {
     "NAME": "탐색",
     "DESCRIPTION": "뽑을 카드 더미에서 카드 !M! 장을 골라 손으로 가져옵니다. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "뽑을 카드 더미에서 카드 !M! 장을 골라 손으로 가져옵니다. NL 소멸"
   },
   "Echo Form": {
     "NAME": "메아리",
@@ -1237,7 +1237,7 @@
   "Loop": {
     "NAME": "반복",
     "DESCRIPTION": "턴 시작 시 가장 오른쪽 구체의 지속 효과를 발동시킵니다.",
-    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
+    "UPGRADE_DESCRIPTION": "턴 시작 시 가장 오른쪽 구체의 지속 효과를 !M! 번 발동시킵니다."
   },
   "Hello World": {
     "NAME": "Hello World",
@@ -1269,12 +1269,12 @@
     "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 선천성 NL 소멸"
   },
   "Steam": {
-    "NAME": "증기",
-    "DESCRIPTION": "방어도 를 !B! 얻습니다. 이번 전투동안 증기 카드로 얻는 방어도가 2 감소합니다."
+    "NAME": "증기 장벽",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. 이번 전투동안 이 카드의 방어도 가 1 감소합니다."
   },
   "Electrodynamics": {
-    "NAME": "Electrodynamics",
-    "DESCRIPTION": "Lightning now hits ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
+    "NAME": "전기 역학",
+    "DESCRIPTION": "전기 가 이제 적 전체를 타격합니다.",
+    "UPGRADE_DESCRIPTION": "전기 가 이제 적 전체를 타격합니다. NL 만약 적이 하나만 있다면, 전기 가 두 번 타격합니다."
   }
 }

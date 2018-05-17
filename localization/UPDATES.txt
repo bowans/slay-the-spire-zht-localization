@@ -1,5 +1,25 @@
 Updates for Translators!
 
+05/16/2018:
+potions.json
+	"SneckoOil"
+		"card." (For Ascension)
+relics.json
+	"Potion Belt"
+		"Upon pick up, gain #b1 Potion slot." ->
+		"Upon pick up, gain #b2 Potion slots."
+	"Cauldron"
+		"When obtained, brews #b5 random potions.", ->
+		"Upon pick up, brews #b5 random potions.",
+	"Old Coin"
+		"Gain #b300 #yGold." ->
+		"Upon pick up, gain #b300 #yGold."
+	"Black Star"
+		"#yElites now drop #b2 #yRelics when defeated." ->
+		"#yElites drop an additional relic when defeated."
+
+----------------------------------
+
 05/15/2018:
 relics.json
 	"Boot"

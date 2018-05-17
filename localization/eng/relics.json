@@ -70,7 +70,7 @@
     "NAME": "Black Star",
     "FLAVOR": "Originally discovered in the town of the serpent, aside a solitary candle.",
     "DESCRIPTIONS": [
-      "#yElites now drop #b2 #yRelics when defeated."
+      "#yElites drop an additional relic when defeated."
     ]
   },
   "Blood Vial": {
@@ -172,7 +172,7 @@
     "NAME": "Cauldron",
     "FLAVOR": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.",
     "DESCRIPTIONS": [
-      "When obtained, brews #b5 random potions.",
+      "Upon pick up, brews #b5 random potions.",
       "Blup blip bloop...!"
     ]
   },
@@ -641,7 +641,7 @@
     "NAME": "Old Coin",
     "FLAVOR": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.",
     "DESCRIPTIONS": [
-      "Gain #b300 #yGold."
+      "Upon pick up, gain #b300 #yGold."
     ]
   },
   "Omamori": {
@@ -742,7 +742,7 @@
     "NAME": "Potion Belt",
     "FLAVOR": "I can hold more Potions using this belt!",
     "DESCRIPTIONS": [
-      "Upon pick up, gain #b1 Potion slot."
+      "Upon pick up, gain #b2 Potion slots."
     ]
   },
   "Prayer Wheel": {

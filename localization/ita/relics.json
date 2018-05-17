@@ -749,7 +749,7 @@
     "NAME": "Ruota della Preghiera",
     "FLAVOR": "La ruota continua a girare, senza mai fermarsi.",
     "DESCRIPTIONS": [
-      "Anche gli scrigni prima del Boss contengono carte."
+      "Sconfiggere i Nemici Base ti permette di aggiungere al mazzo una carta in più."
     ]
   },
   "Question Card": {
@@ -1062,8 +1062,8 @@
     "NAME": "Torii",
     "FLAVOR": "Mentre tieni in mano il piccolo Torii, senti un senso di calma e sicurezza pervadere la tua mente.",
     "DESCRIPTIONS": [
-      "Ogni volta che dovresti ricevere #b",
-      " o meno danni non bloccati da #yAttacchi, riducili a #b1."
+      "Ogni volta che riceveresti #b",
+      " o meno danni da #yAttacco non bloccati, invece ne ricevi #b1."
     ]
   },
   "Tough Bandages": {
@@ -1155,11 +1155,11 @@
     ]
   },
   "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "NAME": "Lo Stivale",
+    "FLAVOR": "Mentre lo carichi, lo stivale aumenta di dimensioni.",
     "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked #yAttack damage, increase it to #b5."
+      "Ogni volta che infliggeresti #b",
+      " o meno danni da #yAttacco non bloccati, ne infliggi invece #b5."
     ]
   }
 }

@@ -1026,7 +1026,12 @@
       "#bC ",
       "#bR ",
       "#bP ",
-      "#bS "
+      "#bS ",
+      "#bRested",
+      "#bUpgraded %s",
+      "#bRemoved %s",
+      "#bDug",
+      "#bLifted %s/%s"
     ]
   },
   "AttackFromDeckToHandAction": {
