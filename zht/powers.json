@@ -917,18 +917,18 @@
     ]
   },
   "Shifting": {
-    "NAME": "Shifting",
+    "NAME": "變化",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
+      "每當 ",
+      " 受到傷害，它將在回合結束前失去相應點數的 #y力量 。"
     ]
   },
   "Fading": {
-    "NAME": "Fading",
+    "NAME": "消逝",
     "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
+      "在 #b",
+      " 回合後死亡。",
+      "在本回合死亡。"
     ]
   }
 }
