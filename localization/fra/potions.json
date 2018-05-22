@@ -75,9 +75,9 @@
   "Regen Potion": {
     "NAME": "Potion de régénération",
     "DESCRIPTIONS": [
-      "Récupérez #b",
-      " #yPV à la fin de chaque tour pendant #b",
-      " tours."
+      "Gagnez #b",
+      " de #yRégénération",
+      ""
     ]
   },
   "Strength Potion": {
@@ -148,7 +148,7 @@
     "DESCRIPTIONS": [
       "Devenez #yConfus. Piochez #b",
       " cartes.",
-      "card."
+      " carte."
     ]
   },
   "SkillPotion": {
@@ -186,7 +186,7 @@
     ]
   },
   "FairyPotion": {
-    "NAME": "Potion féérique",
+    "NAME": "Potion féerique",
     "DESCRIPTIONS": [
       "Quand vous mourez, survivez avec 10 % de vos PV max à la place et défaussez cette potion."
     ]

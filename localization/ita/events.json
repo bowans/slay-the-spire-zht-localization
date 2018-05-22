@@ -233,7 +233,7 @@
   "Ghosts": {
     "NAME": "Consiglio dei Fantasmi",
     "DESCRIPTIONS": [
-      "Mentre ascendi, #p~dense~ #p~nubi~ #p~di~ #p~fumo~ #p~nero~ trasudano dai muri e dal terreno. Cominciano a condensarsi, formando tre figure mascherate che ti parlano. NL NL ~\"Un~ ~altro~ ~fantoccio~ ~di~ #y~Neow~ ~a~ ~quanto~ ~pare.\"~ NL #r@\"DECISAMENTE!@ #r@LE@ #r@SUE@ #r@BAMBOLE@ #r@SONO@ #r@SEMPRE@ #r@ESILARANTI!\"@ NL NL Il terzo ti rivolge un gigantesco sorriso e si rivolge a te. NL \"Ignora gli altri... vorresti provare il nostro #y~potere?\"~ ",
+      "Mentre ascendi, #p~dense~ #p~nubi~ #p~di~ #p~fumo~ #p~nero~ trasudano dai muri e dal terreno. Cominciano a condensarsi, formando tre figure mascherate che ti parlano. NL NL ~\"Un~ ~altro~ ~fantoccio~ ~di~ #y~Neow~ ~a~ ~quanto~ ~pare.\"~ NL #r@\"DECISAMENTE!@ #r@LE@ #r@SUE@ #r@BAMBOLE@ #r@SONO@ #r@SEMPRE@ #r@ESILARANTI!\"@ NL NL Il terzo ti rivolge un gigantesco sorriso e ti parla. NL \"Ignora gli altri... vorresti provare il nostro #y~potere?\"~ ",
       "",
       "#y\"Eccellente!\" NL Mentre lo spettro ti parla, la sua bocca sembra spalancarsi sempre di più. Ne fuoriesce un #p~denso~ #p~fumo~ #p~nero,~ che avviluppa la stanza. Non vedi nulla e non riesci a respirare... NL NL Appena prima di perdere conoscienza, ti riprendi. NL NL Qualunque cosa fossero, le tre figure sono sparite. Prosegui il tuo cammino, sentendoti stranamente #bvuoto.",
       "\"Che delusione...\" NL ~\"Ti~ ~unirai~ ~a~ ~noi,~ ~prima~ ~o~ ~poi.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Le figure svaniscono, ma nelle tue orecchie rimane l'agghiacciante eco di una risata.",
@@ -470,7 +470,7 @@
     "OPTIONS": [
       "[Cerca] #rPerdi #r",
       " #rPV. #g",
-      "%: #gTrova #guna #gReliquia.",
+      "%: #gRaccogli #guna #gReliquia.",
       "[Prosegui]",
       "[Più a Fondo] #rPerdi #r"
     ]

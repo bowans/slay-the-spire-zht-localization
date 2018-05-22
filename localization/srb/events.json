@@ -134,14 +134,14 @@
       "Uhvaćen si nespreman dok pretražuješ pustolova!",
       "Pođeš bez i jednog šuma.",
       "Naišao si na #rmrtvog #rpustolova na zemlji. NL Ukradene su mu #bpantalone! ",
-      "Čini se da su mu oklop i lice #r@sprženi@ #r@plamenovima@.",
+      "Čini se da su mu oklop i lice #r@sprženi@ #r@plamenom.@ ",
       "Izgleda da ga je #r@nataknula@ #r@i@ #r@izgazila@ neka rogata zver. ",
       "Izgleda kao da je #r@iskasapljen@ #r@i@ #r@iseckan@ činovskim kandžama. ",
       "NL Iako su njegove #ystvari #yi #ydalje #ynetaknute, nešto ti i nije do toga da saznaš šta se ovde desilo...",
-      "Nalaziš nešto #yzlata! NL Hoćeš li da nastaviš sa pretresom?",
-      "Hm, nisi našao ništa... NL Hoćeš li da nastaviš sa pretresom?",
-      "Našao si #yrelikviju! Hoćeš li da nastaviš sa pretresom?",
-      "Čini se da si uspeo da ga pretražiš bez pomuke!"
+      "Nalaziš nešto #yzlata! NL Nastavljaš li sa pretresom?",
+      "Hm, nisi našao ništa... NL Nastavljaš li sa pretresom?",
+      "Našao si #yrelikviju! Nastavljaš li sa pretresom?",
+      "Uspeo si da ga pretražiš bez pomuke!"
     ],
     "OPTIONS": [
       "[Pretraži] #gPronađi #gnešto #gvredno. #r",
@@ -191,11 +191,11 @@
     ],
     "OPTIONS": [
       "[Dalje]",
-      "[Prizemlji se] #rIzgubi kartu ",
+      "[Prizemlji se] #rIzgubi #rkartu ",
       "[Zaključano] Zahteva: umeće",
-      "[Istroši moć] #rIzgubi kartu ",
+      "[Istroši moć] #rIzgubi #rkartu ",
       "[Zaključano] Zahteva: moć",
-      "[Udari] #rIzgubi kartu ",
+      "[Udari] #rIzgubi #rkartu ",
       "[Zaključano] Zahteva: napad",
       "[Pođi]"
     ]
@@ -286,17 +286,17 @@
   "Golden Wing": {
     "NAME": "Statua krila",
     "DESCRIPTIONS": [
-      "Među kamenjem i stenjem, primećuješ detaljnu veliku plavu statuu koja liči na krilo. NL Vidiš da #yzlato ispada iz njenih pukotina. Možda ga unutra ima još...",
+      "Među kamenjem i stenjem, primećuješ detaljnu veliku plavu statuu koja liči na krilo. NL Primećuješ da #yzlato ispada iz njenih pukotina. Možda ga unutra ima još...",
       "Neko ti je nekad pričao o kultu koji obožava džinovsku pticu. Klečeći u molitvi, počinješ da ~osećaš~ ... ~vrtoglavicu~ . NL NL Budiš se kasnije, osećajući se čudnovato laganih koraka.",
-      "Počneš svom svojom silinom da udaraš u statuu. NL Pod udarcima krene da se @urušava,@ otkrivajući #ygomilu #yzlata. Zgrabiš sve što možeš, nastavljajući dalje.",
+      "Počneš svim svojim silama da udaraš u statuu. NL Pod udarcima krene da se @urušava,@ otkrivajući #ygomilu #yzlata. Zgrabiš sve što možeš, nastavljajući dalje.",
       "Statua ti izaziva neku ~nelagodu.~ Nastavljaš dalje mimo nje."
     ],
     "OPTIONS": [
       "[Pomoli se] #gUkloni #gkartu #giz #gšpila. #rIzgubi #r",
       " #rž. #rp.",
       "[Uništi] #gZadobi #g",
-      " #g- #g",
-      " #gZlata.",
+      "-",
+      " #gzlata.",
       "[Zaključano] Zahteva: kartu sa ",
       " ili više štete.",
       "[Pođi]",
@@ -307,7 +307,7 @@
   "Knowing Skull": {
     "NAME": "Znalačka lobanja",
     "DESCRIPTIONS": [
-      "Nalaziš se u staroj, ukrašenoj odaji. U sredini sobe, velika lobanja stoji na kitnjastom pedestau. Prilazeći joj, ona #g@buknu@ #g@u@ #g@plamen@, okrećući se ka tebi.",
+      "Našao si se u drevnoj, ukrašenoj odaji. U sredini sobe, velika lobanja stoji na kitnjastom pedestalu. Prilaziš joj, a ona #g@bukne@ #g@u@ #g@plamen@ i okrene se ka tebi.",
       "\"ŠTA JE TO ŠTO TRAŽIŠ? ŠTA JE TO ŠTO NUDIŠ?\" NL Završno sa njenim poslednjim rečima, vrata iza tebe se @zalupe.@",
       " NL NL \"JOŠ NEŠTO?\"",
       " ",
@@ -340,7 +340,7 @@
   "Liars Game": {
     "NAME": "Guuuuujjjaaaa",
     "DESCRIPTIONS": [
-      "Ulaziš u sobu i nailaziš na veliku rupu u podu. Prilazeći rupi, ogromno zmijoliko stvorenje se u tom izmigolji iz nje. NL NL ~\"Ho~ ~hooo!~ ~Zdravo~ ~zdravo!~ ~šta~ ~to~ ~imamo~ ~ovde?~ Pozdrav putniče, pitam jednostavno pitanje. NL Najispunjeniji životi su oni u kojima možeš da #y~kupiš~ #y~bilo~ #y~šta!~ NL Slažeš li se?\"",
+      "Ulaziš u sobu i nailaziš na veliku rupu u podu. Prilaziš rupi, a u tom se ogromno zmijoliko stvorenje izmigolji iz nje. NL NL ~\"Ho~ ~hooo!~ ~Zdravo~ ~zdravo!~ ~Šta~ ~to~ ~imamo~ ~ovde?~ Pozdrav putniče, pitam jednostavno pitanje. NL Najispunjeniji životi su oni u kojima možeš da #y~kupiš~ #y~bilo~ #y~šta!~ NL Slažeš li se?\"",
       "~\"Dddaaaaaaaaaaaa!~ NL ~Ssssveee~ ~će~ ~se~ ~isssplatiti.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
       "Guja pilji u tebe pogledom neopisivog razočarenja.",
       "Guja podiže svoju glavu uvis i poče bljuvati mlaz #yzlata! NL Zapanjujuće je i zastrašujuće u isto vreme. NL Skupiš sve #yzlato, i zahvalivši zmiji pođeš dalje."
@@ -619,8 +619,8 @@
     "NAME": "Moai glava",
     "DESCRIPTIONS": [
       "Nailaziš na nešto što izgleda kao da *uopšte* ne pripada ovom mestu. Pred tobom, ogromna kamena glava štrči iz velikog segmenta zida koji se ne premešta i ne menja kao drugi u ovoj oblasti. NL Usta glave su širom otvorena, ukazujući na velike zastrašujuće zube umrljane krvlju. Površina statue je načičkana piktogramima koji, čini se, prikazuju ljude koji se bacaju u usta ove glave, bivajući proždrani. Zašto bi iko to uradio?",
-      "U početku, kako si zakoračio u usta statue, ništa se ne dešava. Počevši da se osećaš nemalo budalasto, džinovski kutnjaci se zalupe, lomeći te celog. NL @Tama.@ NL U nekom trenutku kasnije iz mraka, uvidiš tračak svetlosti, i čuješ ono što sada shvataš da je zvuk kamenih zuba koji se polako dižu nagore. NL NL NL Odlaziš smeten.",
-      "Poskočiš malo unazad kada džinovski kutnjaci smrve idola, smrskavajući ga u prašinu. Zubi ponovo počeše da se dižu, a sa njima i #yzlato krenu da šiklja u mlazu iz otvora, zasipajući te bogatstvom.",
+      "Zakoračio u usta statue. Ništa ne dešava. Baš kad si počeo da se osećaš pomalo budalasto, džinovski kutnjaci se zalupe, celog te drobeći. NL @Tama.@ NL Neodređeno vreme kasnije, uvidiš tračak svetlosti iz mraka, i čuješ nešto. Shvataš da je to zvuk kamenih zuba koji se polako podižu. NL NL NL Odlaziš skoro smeten s uma.",
+      "Džinovski kutnjaci samelju idola u prašinu. Poskočiš malo unazad. Zubi ponovo počnu da se dižu, a sa njima i krene da šiklja #yzlato iz otvora, zasipajući te čitavim bogatstvom.",
       "Odlaziš, čudeći se šta je to moglo da bude."
     ],
     "OPTIONS": [
@@ -711,14 +711,14 @@
       "Hodeći neosvetljenim ulicama, nabasaš na nekoliko pokrivenih figura u sred nekog mračnog obreda. Dok im prilaziš, oni se okrenu ka tebi u jezivom skladu. Najviši među njima otkrije svoje očnjake, pružajući dugu, bledu šaku prema tebi. NL ~\"Pridruži~ ~nam~ ~se~ ~sestro,~ ~i~ ~oseti~ ~toplinu~ ~Tornja.\"~",
       "Visoka figura te zgrabi za ruku i povuče ka sebi, zarivajući u tebe svoje očnjake. Osećaš @mračnu@ @silu@ kako ti se sliva kroz vrat i @jurca@ kroz celo telo. NL ... NL Budiš se nešto kasnije, sam. Osećaš kako ti trbuh bridi od ~gladi.~ #rMoraš #rse #rhraniti...",
       "Zakoračiš unazad i prkosno podigneš svoje oružje. Visoka figura uzdahne, pa progovori. \"U redu.\" Cela grupa pokrivenih senki se pretvori u gustu crnu maglu koja se rasprši oko tebe. NL Ponovo si sam.",
-      "Videvši #yBočicu #ykrvi, visoka figura osta bez daha, jedva izgovarajući: NL ~\"Gospodareva~ ~krv...~ ~gospodareva~ ~krv!~ @GOSPODAREVA@ @KRV!\"@ NL Svi srdačno usklikuju, a visoki ti se duboko pokloni. \" Pij od Njegove krvi, i postani jedan sa #y~Njim.\"~ NL Dok usklici postaju sve jači, ispijaš sadržinu bočice. Vid ti se momentalno ~iskrivi~, zamućujući se u crnilo. NL NL Budiš se nešto kasnije, sam. Osećaš kako ti trbuh bridi od ~gladi.~ #rMoraš #rse #rhraniti.",
+      "Visoka figura baci pogled na #yBočicu #ykrvi, i osta bez daha. Krene da govori, jedva: NL ~\"Gospodareva~ ~krv...~ ~gospodareva~ ~krv!~ @GOSPODAREVA@ @KRV!\"@ NL Svi srdačno usklikuju, a visoki ti se duboko pokloni. \" Pij od Njegove krvi, i postani jedno s #y~Njim.\"~ NL Dok usklici postaju sve jači, ispijaš sadržinu bočice. Vid ti se momentalno ~iskrivi,~ pa se zamuti u crnilo. NL NL Budiš se nešto kasnije, sam. Osećaš kako ti trbuh bridi od ~gladi.~ #rMoraš #rse #rhraniti.",
       "Hodeći neosvetljenim ulicama, nabasaš na nekoliko pokrivenih figura u sred nekog mračnog obreda. Dok im prilaziš, oni se okrenu ka tebi u jezivom skladu. Najviši među njima otkrije svoje očnjake, pružajući dugu, bledu šaku prema tebi. NL ~\"Pridruži~ ~nam~ ~se~ ~odbačeni,~ ~i~ ~oseti~ ~toplinu~ ~Tornja.\"~"
     ],
     "OPTIONS": [
       "[Prihvati] #gUkloni #gsve #gUdarce. #gZadobi #gpet #gUjeda. #rIzgubi #r",
       "% #rmaks. #rž. #rp.",
       "[Odbi]",
-      "[Izgubi ",
+      "[Izgubi relikviju: ",
       "] #gUkloni #gsve #gUdarce. #gZadobi #gpet #gUjeda.",
       "[Pođi]"
     ]

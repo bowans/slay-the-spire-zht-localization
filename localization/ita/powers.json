@@ -915,5 +915,20 @@
       "Conservi la tua mano per i prossimi #b",
       " turni."
     ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
+    ]
   }
 }

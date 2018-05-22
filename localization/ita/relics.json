@@ -70,7 +70,7 @@
     "NAME": "Stella Nera",
     "FLAVOR": "Scoperta nella città del serpente, il primo esemplare era accanto ad una candela solitaria.",
     "DESCRIPTIONS": [
-      "Ottieni #b2 #yReliquie dopo aver sconfitto un #yElite."
+      "Ottieni #b1 #yReliquia in più dopo aver sconfitto un #yElite."
     ]
   },
   "Blood Vial": {
@@ -101,7 +101,7 @@
     "NAME": "Fiamma in Bottiglia",
     "FLAVOR": "Una fiamma che brucia eternamente, racchiusa in questa piccola bottiglia.",
     "DESCRIPTIONS": [
-      "Quando raccogli questa reliquia scegli un Attacco. Inizierai ogni combattimento pescando quella carta.",
+      "Quando la raccogli scegli un Attacco. Inizierai ogni combattimento pescando quella carta.",
       "Scegli una carta per ",
       "Ad inizio combattimento peschi ",
       " ."
@@ -111,7 +111,7 @@
     "NAME": "Fulmine in Bottiglia",
     "FLAVOR": "Dall'altro lato del vetro, in mezzo della tempesta, c'è una parte di te che risponde al tuo sguardo.",
     "DESCRIPTIONS": [
-      "Quando raccogli questa reliquia scegli un'Abilità. Inizierai ogni combattimento pescando quella carta.",
+      "Quando la raccogli scegli un'Abilità. Inizierai ogni combattimento pescando quella carta.",
       "Scegli una carta per ",
       "Ad inizio combattimento peschi ",
       " ."
@@ -121,7 +121,7 @@
     "NAME": "Tornado in Bottiglia",
     "FLAVOR": "Test relic.",
     "DESCRIPTIONS": [
-      "Quando raccogli questa reliquia scegli un Potere. Inizierai ogni combattimento pescando quella carta.",
+      "Quando la raccogli scegli un Potere. Inizierai ogni combattimento pescando quella carta.",
       "Scegli una carta per ",
       "Ad inizio combattimento peschi ",
       " ."
@@ -172,7 +172,7 @@
     "NAME": "Calderone",
     "FLAVOR": "In verità, il Mercante è un esperto nel creare pozioni. Comprane 4 ed 1 è gratis!",
     "DESCRIPTIONS": [
-      "Appena ottenuta, crea #b5 pozioni casuali.",
+      "Quando la raccogli, questa Reliquia crea #b5 pozioni casuali.",
       "Blup blip bloop...!"
     ]
   },
@@ -451,7 +451,7 @@
     "NAME": "Waffle di Lee",
     "FLAVOR": "\"Il dolce più goloso che potrai mai trovare in tutta la Guglia! Appena sfornato, proprio per te!\"",
     "DESCRIPTIONS": [
-      "Aumenta i tuoi PV massimi di #b",
+      "Quando lo raccogli, i tuoi PV massimi aumentano di #b",
       " e ti curi del tutto."
     ]
   },
@@ -488,7 +488,7 @@
     "NAME": "Mango",
     "FLAVOR": "Il frutto perduto più desiderato. Conservato impeccabilmente senza alcun segno di Spireblight, la corruzione della Guglia.",
     "DESCRIPTIONS": [
-      "Aumenta i tuoi PV di #b"
+      "Quando lo raccogli, i tuoi PV massimi aumentano di #b"
     ]
   },
   "Mark of Pain": {
@@ -541,7 +541,7 @@
     "NAME": "Uovo di Magma",
     "FLAVOR": "È l'uovo di una Fenice. La sua superficie di lava bollente brilla di un rosso acceso.",
     "DESCRIPTIONS": [
-      "Appena raccolta, scegli e #yPotenzia un #yAttacco.",
+      "Quando la raccogli, scegli e #yPotenzia un #yAttacco.",
       "Scegli una carta per "
     ]
   },
@@ -564,7 +564,7 @@
     "FLAVOR": "Solo un folle provarebbe a sfruttarne l'oscuro potere. Le immagini contenute nel libro ti appaiono in sogno ogni notte, divorandoti la mente.",
     "DESCRIPTIONS": [
       "Il primo #yAttacco che giochi ogni turno con costo #b",
-      " o più viene giocato due volte. Quando raccogli questa reliquia, vieni #rMaledetto.",
+      " o più viene giocato due volte. Quando la raccogli, vieni #rMaledetto.",
       " o più viene giocato due volte."
     ]
   },
@@ -641,7 +641,7 @@
     "NAME": "Antica Moneta",
     "FLAVOR": "I mercanti attribuiscono un alto valore a queste monete uniche per la loro importanza storica e la rarità dei metalli che le compongono.",
     "DESCRIPTIONS": [
-      "Ottieni #b300 #yOro."
+      "Quando la raccogli, ottieni #b300 #yOro."
     ]
   },
   "Omamori": {
@@ -718,7 +718,7 @@
     "NAME": "Pera",
     "FLAVOR": "Era un frutto comune, prima che la corruzione della Guglia si spargesse.",
     "DESCRIPTIONS": [
-      "Aumenta i tuoi PV massimi di #b"
+      "Quando la raccogli, i tuoi PV massimi aumentano di #b"
     ]
   },
   "Pen Nib": {
@@ -742,7 +742,7 @@
     "NAME": "Cinta Porta-Pozioni",
     "FLAVOR": "Grazie a questa cintura posso trasportare più pozioni!",
     "DESCRIPTIONS": [
-      "Raccogliendo questa reliquia ottieni #b1 spazio per Pozioni in più."
+      "Quando la raccogli, ottieni #b2 spazi per Pozioni in più."
     ]
   },
   "Prayer Wheel": {
@@ -920,7 +920,7 @@
     "NAME": "Fragola",
     "FLAVOR": "\"Deliziosa! Non ne vedo una da prima della corruzione.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Aumenta i tuoi PV massimi di #b"
+      "Quando la raccogli, i tuoi PV massimi aumentano di #b"
     ]
   },
   "Sundial": {
@@ -1045,8 +1045,8 @@
     "NAME": "Piccola Casa",
     "FLAVOR": "\"Una realizzazione quasi perfetta di miniaturizzazione. Il mio miglior lavoro fino ad oggi, ma non è ancora adeguato.\" - L'Architetto",
     "DESCRIPTIONS": [
-      "Ottieni #b1 pozione. NL Ottieni #b",
-      " #yOro. NL Aumenta i tuoi PV massimi di #b",
+      "Quando la raccogli, ottieni #b1 pozione ed NL ottieni #b",
+      " #yOro. NL I tuoi PV massimi aumentano di #b",
       ". NL Ottieni #b1 carta. NL Potenzia #b1 carta casuale.",
       "Piccola Casa!"
     ]
@@ -1078,7 +1078,7 @@
     "NAME": "Uovo Tossico",
     "FLAVOR": "Che meravigliosa scoperta! Sembra essere l'uovo infertile di qualche creatura magica. Mi domando cosa possa averlo deposto...\" - Ranwid",
     "DESCRIPTIONS": [
-      "Appena ricevuto, scegli e #yPotenzia una #yAbilità.",
+      "Quando lo raccogli, scegli e #yPotenzia una #yAbilità.",
       "Scegli una carta per "
     ]
   },
@@ -1135,7 +1135,7 @@
     "NAME": "Pittura di Guerra",
     "FLAVOR": "In passato gli Ironclad la usavano per incantare i loro amuleti protettivi, che indossavano prima di lanciarsi in battaglia.",
     "DESCRIPTIONS": [
-      "Appena raccolta, #yPotenzia #b",
+      "Quando la raccogli, #yPotenzi #b",
       " #yAbilità casuali."
     ]
   },
@@ -1143,7 +1143,7 @@
     "NAME": "Cote",
     "FLAVOR": "\"La carne non potrà mai sconfiggere l'acciaio.\" - Kublai il Grande",
     "DESCRIPTIONS": [
-      "Appena raccolto, #yPotenzia #b",
+      "Quando la raccogli, #yPotenzi #b",
       " #yAttacchi casuali."
     ]
   },

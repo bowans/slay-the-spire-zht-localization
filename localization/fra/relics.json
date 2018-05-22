@@ -61,7 +61,7 @@
     "NAME": "Étoile noire",
     "FLAVOR": "À l'origine, elle a été découverte dans la ville du serpent, à côté d'une unique bougie.",
     "DESCRIPTIONS": [
-      "Obtenez maintenant #b2 #yReliques lorsque vous éliminez des #yÉlites."
+      "Obtenez une relique supplémentaire quand vous battez des #yÉlites."
     ]
   },
   "Blood Vial": {
@@ -431,7 +431,7 @@
     "NAME": "Mangue",
     "FLAVOR": "Le plus convoité des fruits oubliés. Parfaitement conservé sans aucun signe de tourouille.",
     "DESCRIPTIONS": [
-      "Augmentez vos PV max de #b"
+      "Quand vous l'obtenez, augmentez vos PV max de #b"
     ]
   },
   "Mark of Pain": {
@@ -562,7 +562,7 @@
     "NAME": "Vieille pièce",
     "FLAVOR": "Les pièces uniques sont très prisées par les marchands en raison de leur valeur historique et de leur composition rare.",
     "DESCRIPTIONS": [
-      "Gagnez #b300 #yd'or."
+      "Quand vous l'obtenez, gagnez #b300 #yd'or."
     ]
   },
   "Omamori": {
@@ -639,7 +639,7 @@
     "NAME": "Poire",
     "FLAVOR": "Un fruit ordinaire avant les ravages de la tourouille.",
     "DESCRIPTIONS": [
-      "Augmentez vos PV max de #b"
+      "Quand vous l'obtenez, augmentez vos PV max de #b"
     ]
   },
   "Pen Nib": {
@@ -663,7 +663,7 @@
     "NAME": "Moulin à prières",
     "FLAVOR": "Son cylindre ne s'arrête jamais de tourner.",
     "DESCRIPTIONS": [
-      "Les coffres qui ne proviennent pas de boss contiennent aussi des cartes."
+      "Les ennemis normaux donnent une carte supplémentaire."
     ]
   },
   "Question Card": {
@@ -827,7 +827,7 @@
     "NAME": "Fraise",
     "FLAVOR": "\"Délicieuse ! Je n'en avais pas vue depuis l'épidémie de rouille.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Augmentez vos PV max de #b"
+      "Quand vous l'obtenez, augmentez vos PV max de #b"
     ]
   },
   "Sundial": {
@@ -947,7 +947,7 @@
     "NAME": "Maisonnette",
     "FLAVOR": "\"Une démonstration quasi parfaite de miniaturisation. Mon plus bel ouvrage jusqu'à présent, mais toujours insuffisant.\" - L'architecte",
     "DESCRIPTIONS": [
-      "Obtenez #b1 potion. NL Gagnez #b",
+      "Quand vous l'obtenez, obtenez #b1 potion. NL Gagnez #b",
       " #yd'or. NL Augmentez vos PV max de #b",
       ". NL Obtenez #b1 carte. NL Améliorez #b1 carte aléatoire.",
       "Une maisonnette !"
@@ -1023,7 +1023,7 @@
     "NAME": "Gaufre de Lee",
     "FLAVOR": "\"La meilleure gourmandise de toute la Tour ! Tout juste sortie du four, rien que pour vous.\"",
     "DESCRIPTIONS": [
-      "Augmentez vos PV max de #b",
+      "Quand vous l'obtenez, augmentez vos PV max de #b",
       " et récupérez tous vos PV."
     ]
   },
@@ -1148,18 +1148,18 @@
     ]
   },
   "Potion Belt": {
-    "NAME": "Potion Belt",
-    "FLAVOR": "I can hold more Potions using this belt!",
+    "NAME": "Ceinture de potions",
+    "FLAVOR": "Je peux porter plus de potions à l'aide de cette ceinture !",
     "DESCRIPTIONS": [
-      "Upon pick up, gain #b1 Potion slot."
+      "Quand vous l'obtenez, gagnez #b2 emplacements de potion."
     ]
   },
   "Boot": {
-    "NAME": "The Boot",
+    "NAME": "La botte",
     "FLAVOR": "When wound up, the boot grows larger in size.",
     "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked #yAttack damage, increase it to #b5."
+      "Quand vous infligez #b",
+      " ou moins dégâts #yd'Attaques non bloqués, augmentez les à #b5."
     ]
   }
 }

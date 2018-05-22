@@ -1,18 +1,28 @@
 {
+  "Alchemist": {
+    "NAME": "炼金术士",
+    "DESCRIPTIONS": [
+      "购买5瓶药水。"
+    ]
+  },
+  "Ascension": {
+    "NAME": "进阶",
+    "DESCRIPTIONS": [
+      "每层进阶等级会增加5%的分数。"
+    ]
+  },
   "Beyond Elites Killed": {
     "NAME": "深处 精英击杀",
     "DESCRIPTIONS": []
   },
+  "Beyond Perfect": {
+    "NAME": "全面完胜",
+    "DESCRIPTIONS": [
+      "不受伤害击败三名Boss。"
+    ]
+  },
   "Bosses Slain": {
     "NAME": "打败Boss",
-    "DESCRIPTIONS": []
-  },
-  "City Elites Killed": {
-    "NAME": "城市 精英击杀",
-    "DESCRIPTIONS": []
-  },
-  "Exordium Elites Killed": {
-    "NAME": "塔底 精英击杀",
     "DESCRIPTIONS": []
   },
   "Champion": {
@@ -21,22 +31,20 @@
       "不受伤害击败一名精英。"
     ]
   },
-  "Perfect": {
-    "NAME": "完胜",
+  "Cheater": {
+    "NAME": "作弊",
     "DESCRIPTIONS": [
-      "不受伤害击败一名Boss。"
+      "你作弊被发现啦。如果作弊被抓到两次，你的分数就永远不会被传到积分榜上了哦。"
     ]
   },
-  "Beyond Perfect": {
-    "NAME": "全面完胜",
-    "DESCRIPTIONS": [
-      "不受伤害击败三名Boss。"
-    ]
+  "City Elites Killed": {
+    "NAME": "城市 精英击杀",
+    "DESCRIPTIONS": []
   },
-  "Overkill": {
-    "NAME": "虐杀",
+  "Collector": {
+    "NAME": "卡牌收藏者",
     "DESCRIPTIONS": [
-      "单次攻击造成99点伤害。"
+      "不计起始牌，你的牌组中有4张相同的牌。"
     ]
   },
   "Combo": {
@@ -45,82 +53,10 @@
       "单个回合内打出20张牌。"
     ]
   },
-  "Poopy": {
-    "NAME": "便便",
+  "Curses": {
+    "NAME": "诅咒！",
     "DESCRIPTIONS": [
-      "得到 精灵便便 。"
-    ]
-  },
-  "Cheater": {
-    "NAME": "作弊",
-    "DESCRIPTIONS": [
-      "你作弊被发现啦。如果作弊被抓到两次，你的分数就永远不会被传到积分榜上了哦。"
-    ]
-  },
-  "Speedster": {
-    "NAME": "高速",
-    "DESCRIPTIONS": [
-      "在60分钟内获胜。"
-    ]
-  },
-  "Light Speed": {
-    "NAME": "光速",
-    "DESCRIPTIONS": [
-      "在45分钟内获胜。"
-    ]
-  },
-  "Money Money": {
-    "NAME": "好多好多钱",
-    "DESCRIPTIONS": [
-      "获得1000金币。"
-    ]
-  },
-  "Raining Money": {
-    "NAME": "下钱雨啦",
-    "DESCRIPTIONS": [
-      "获得2000金币。"
-    ]
-  },
-  "I Like Gold": {
-    "NAME": "真的好喜欢钱啊",
-    "DESCRIPTIONS": [
-      "获得3000金币。"
-    ]
-  },
-  "Minimalist": {
-    "NAME": "极简主义",
-    "DESCRIPTIONS": [
-      "从牌组中移除5张或更多牌。"
-    ]
-  },
-  "Highlander": {
-    "NAME": "独一无二",
-    "DESCRIPTIONS": [
-      "除了起始牌外，你的牌组中没有任何重复的牌。"
-    ]
-  },
-  "Shiny": {
-    "NAME": "亮闪闪的好东西",
-    "DESCRIPTIONS": [
-      "拥有25件或更多遗物。"
-    ]
-  },
-  "Collector": {
-    "NAME": "卡牌收藏者",
-    "DESCRIPTIONS": [
-      "不计起始牌，你的牌组中有4张相同的牌。"
-    ]
-  },
-  "Pauper": {
-    "NAME": "平淡是真",
-    "DESCRIPTIONS": [
-      "没有任何稀有牌。"
-    ]
-  },
-  "Librarian": {
-    "NAME": "图书管理员",
-    "DESCRIPTIONS": [
-      "牌组总数超过35张。"
+      "牌组中有5张诅咒牌。"
     ]
   },
   "Encyclopedian": {
@@ -129,28 +65,44 @@
       "牌组总数超过50张。"
     ]
   },
-  "Well Fed": {
-    "NAME": "饱餐",
+  "Exordium Elites Killed": {
+    "NAME": "塔底 精英击杀",
+    "DESCRIPTIONS": []
+  },
+  "Highlander": {
+    "NAME": "独一无二",
     "DESCRIPTIONS": [
-      "增加你的生命上限15点或更多。"
+      "除了起始牌外，你的牌组中没有任何重复的牌。"
     ]
   },
-  "Stuffed": {
-    "NAME": "饕餮",
+  "I Like Gold": {
+    "NAME": "真的好喜欢钱啊",
     "DESCRIPTIONS": [
-      "增加你的生命上限30点或更多。"
+      "获得3000金币。"
     ]
   },
-  "Curses": {
-    "NAME": "诅咒！",
+  "Librarian": {
+    "NAME": "图书管理员",
     "DESCRIPTIONS": [
-      "牌组中有5张诅咒牌。"
+      "牌组总数超过35张。"
     ]
   },
-  "Alchemist": {
-    "NAME": "炼金术士",
+  "Light Speed": {
+    "NAME": "光速",
     "DESCRIPTIONS": [
-      "购买5瓶药水。"
+      "在45分钟内获胜。"
+    ]
+  },
+  "Minimalist": {
+    "NAME": "极简主义",
+    "DESCRIPTIONS": [
+      "从牌组中移除5张或更多牌。"
+    ]
+  },
+  "Money Money": {
+    "NAME": "好多好多钱",
+    "DESCRIPTIONS": [
+      "获得1000金币。"
     ]
   },
   "Mystery Machine": {
@@ -165,10 +117,58 @@
       "自己杀死自己。"
     ]
   },
-  "Ascension": {
-    "NAME": "进阶",
+  "Overkill": {
+    "NAME": "虐杀",
     "DESCRIPTIONS": [
-      "每层进阶等级会增加5%的分数。"
+      "单次攻击造成99点伤害。"
+    ]
+  },
+  "Pauper": {
+    "NAME": "平淡是真",
+    "DESCRIPTIONS": [
+      "没有任何稀有牌。"
+    ]
+  },
+  "Perfect": {
+    "NAME": "完胜",
+    "DESCRIPTIONS": [
+      "不受伤害击败一名Boss。"
+    ]
+  },
+  "Poopy": {
+    "NAME": "便便",
+    "DESCRIPTIONS": [
+      "得到 精灵便便 。"
+    ]
+  },
+  "Raining Money": {
+    "NAME": "下钱雨啦",
+    "DESCRIPTIONS": [
+      "获得2000金币。"
+    ]
+  },
+  "Shiny": {
+    "NAME": "亮闪闪的好东西",
+    "DESCRIPTIONS": [
+      "拥有25件或更多遗物。"
+    ]
+  },
+  "Speedster": {
+    "NAME": "高速",
+    "DESCRIPTIONS": [
+      "在60分钟内获胜。"
+    ]
+  },
+  "Stuffed": {
+    "NAME": "饕餮",
+    "DESCRIPTIONS": [
+      "增加你的生命上限30点或更多。"
+    ]
+  },
+  "Well Fed": {
+    "NAME": "饱餐",
+    "DESCRIPTIONS": [
+      "增加你的生命上限15点或更多。"
     ]
   }
 }

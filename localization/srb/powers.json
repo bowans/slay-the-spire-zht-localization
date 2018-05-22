@@ -276,6 +276,14 @@
       " ) karata odigranih svaki potez je odigrano dvaput."
     ]
   },
+  "Electro": {
+    "NAME": "Elektro",
+    "DESCRIPTIONS": [
+      "#yMunje udaraju SVE neprijatelje.",
+      " NL Ako je u borbi #bjedan neprijatelj, udaraju ga #b",
+      " puta."
+    ]
+  },
   "Energized": {
     "NAME": "Energizovan",
     "DESCRIPTIONS": [
@@ -294,8 +302,8 @@
   "Envenom": {
     "NAME": "Trovanje",
     "DESCRIPTIONS": [
-      "Svaki put kada #yNapadom zadaš neodbranjenu štetu, nanesi #b",
-      " #yotrov."
+      "Svaki put kada #ynapadom zadaš neodbranjenu štetu, nanesi #yotrova: #b",
+      "."
     ]
   },
   "Evolve": {
@@ -456,7 +464,7 @@
   "Juggernaut": {
     "NAME": "Sivonja",
     "DESCRIPTIONS": [
-      "WSvaki put kada zadobiješ #yodbranu, zadaj #b",
+      "Svaki put kada zadobiješ #yodbranu, zadaj #b",
       " štete nasumičnom neprijatelju."
     ]
   },
@@ -485,8 +493,8 @@
     "NAME": "Petlja",
     "DESCRIPTIONS": [
       "Na početku svog poteza, iskoristi pasivnu sposobnost svoje glavne sfere.",
-      "Na početku svog poteza, iskoristi pasivnu sposobnost svojih nekoliko ( #b",
-      " ) sfera, počevši od glavne."
+      "Na početku svog poteza, iskoristi pasivnu sposobnost svoje glavne sfere #b",
+      " puta."
     ]
   },
   "Machine Learning": {
@@ -661,15 +669,15 @@
     "NAME": "Zalečenje",
     "DESCRIPTIONS": [
       "Zalečuje #b",
-      " #yz. #yp. na kraju svog poteza."
+      " #yž. #yp. na kraju svog poteza."
     ]
   },
   "Regeneration": {
     "NAME": "Zalečenje",
     "DESCRIPTIONS": [
-      "Zaleči #b",
-      " #yz. #yp. na kraju svog poteza sledeća #b",
-      " poteza."
+      "Na kraju svog poteza, zaleči #b",
+      " #yž. #yp., pa potom smanji #yzalečenje za jedan.",
+      ""
     ]
   },
   "Repair": {
@@ -900,20 +908,27 @@
       " )."
     ]
   },
-  "Electro": {
-    "NAME": "Electro",
+  "Equilibrium": {
+    "NAME": "Ravnoteža",
     "DESCRIPTIONS": [
-      "#yLightning hits ALL enemies.",
-      " NL If there is only #b1 enemy, #yLightning hits #b",
-      " times."
+      "Zadrži svoju ruku ovaj krug.",
+      "Zadrži svoju ruku sledećih nekoliko krugova: #b",
+      "."
     ]
   },
-  "Equilibrium": {
-    "NAME": "Equilibrium",
+  "Shifting": {
+    "NAME": "Shifting",
     "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
     ]
   }
 }

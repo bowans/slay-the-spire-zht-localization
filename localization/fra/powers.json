@@ -476,9 +476,9 @@
   "Regeneration": {
     "NAME": "Régénération",
     "DESCRIPTIONS": [
-      "Vous récupérez #b",
-      " #yPV à la fin de votre tour pendant #b",
-      " tours."
+      "À la fin du tour, récupérez #b",
+      " #yPV et perdez 1 de Régénération.",
+      ""
     ]
   },
   "Life Link": {
@@ -651,7 +651,7 @@
     "NAME": "Distorsion temporelle",
     "DESCRIPTIONS": [
       "Lorsque vous jouez #b",
-      " cartes, votre tour prend fin et le Mange-époque gagne #b",
+      " cartes, votre tour prend fin et le Dévor'Heures gagne #b",
       " de #yForce."
     ]
   },
@@ -901,19 +901,34 @@
     ]
   },
   "Electro": {
-    "NAME": "Electro",
+    "NAME": "Électro",
     "DESCRIPTIONS": [
-      "#yLightning hits ALL enemies.",
-      " NL If there is only #b1 enemy, #yLightning hits #b",
-      " times."
+      "Les Orbes #yKérauniques frappent TOUS les ennemis.",
+      " NL S'il n'y a qu'un seul ennemi, les Orbes #yKérauniques le frappent #b",
+      " fois."
     ]
   },
   "Equilibrium": {
     "NAME": "Equilibrium",
     "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
+      "Concervez votre main ce tour.",
+      "Concervez votre main pendant #b",
+      " tours."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
     ]
   }
 }

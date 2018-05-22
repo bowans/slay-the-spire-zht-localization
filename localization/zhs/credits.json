@@ -1,42 +1,16 @@
 {
-  "DEV": {
-    "HEADER": "开发与设计",
-    "NAMES": [
-      "Anthony Giovannetti",
-      "Casey Yano"
-    ]
-  },
-  "OPS": {
-    "HEADER": "运营与数据",
-    "NAMES": [
-      "Danielle Jenkins",
-      "Jake Rabinowitz"
-    ]
-  },
-  "SOUND": {
-    "HEADER": "音乐与声音",
-    "NAMES": [
-      "Clark Aboud"
-    ]
-  },
-  "VOICE": {
-    "HEADER": "配音",
-    "NAMES": [
-      "Tamara Ryan",
-      "Michael Schwalbe"
-    ]
-  },
-  "PORTRAITS": {
-    "HEADER": "牌面与事件美术",
-    "NAMES": [
-      "Anailis Dorta"
-    ]
-  },
   "ANIMATION": {
     "HEADER": "角色动画",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "开发与设计",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
     ]
   },
   "ILLUSTRATION": {
@@ -45,15 +19,25 @@
       "Bruce Brenneise"
     ]
   },
-  "LOC_ZHS": {
-    "HEADER": "本地化：简体中文",
+  "LOC_ADDITIONAL": {
+    "HEADER": "追加翻译",
     "NAMES": [
-      "谜之声（Sound of Mystery）"
+      "MoGi Group"
     ]
   },
-  "LOC_ZHT": {
-    "HEADER": "本地化：繁体中文",
+  "LOC_CAT": {
+    "HEADER": "Catalan Localization",
     "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "本地化：德语",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly"
+    ]
   },
   "LOC_FRA": {
     "HEADER": "本地化：法语",
@@ -69,16 +53,6 @@
       "Corentin \"Tchus\" Monfort",
       "Nicky \"Qazahar\" Dehout",
       "Zachary \"WyvernZed\" Janisse"
-    ]
-  },
-  "LOC_DEU": {
-    "HEADER": "本地化：德语",
-    "NAMES": [
-      "Joshua \"Joshipon\" Wiegand ",
-      "Dustin \"Skrelpoid\" Kristen",
-      "Jonas Trodler",
-      "Hongkong Koma",
-      "Moly"
     ]
   },
   "LOC_ITA": {
@@ -110,6 +84,12 @@
       "GyeRyak"
     ]
   },
+  "LOC_NOR": {
+    "HEADER": "本地化：挪威语",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
+  },
   "LOC_POL": {
     "HEADER": "本地化：波兰语",
     "NAMES": [
@@ -129,6 +109,17 @@
       "Rafa³ \"SponTon83\" Szyszko"
     ]
   },
+  "LOC_PTB": {
+    "HEADER": "本地化：巴西葡萄牙语",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
+    ]
+  },
   "LOC_RUS": {
     "HEADER": "本地化：俄罗斯语",
     "NAMES": [
@@ -146,16 +137,63 @@
       "Alexandr \"LiaNdrY\" Mazistov"
     ]
   },
+  "LOC_SRB": {
+    "HEADER": "本地化：塞尔维亚语",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
+    ]
+  },
   "LOC_TUR": {
     "HEADER": "本地化：土耳其语",
     "NAMES": [
       "Erdem Gürbüz"
     ]
   },
-  "LOC_ADDITIONAL": {
-    "HEADER": "追加翻译",
+  "LOC_UKR": {
+    "HEADER": "Ukrainian Localization",
+    "NAMES": []
+  },
+  "LOC_ZHS": {
+    "HEADER": "本地化：简体中文",
     "NAMES": [
-      "MoGi Group"
+      "谜之声（Sound of Mystery）"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "本地化：繁体中文",
+    "NAMES": []
+  },
+  "OPS": {
+    "HEADER": "运营与数据",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "牌面与事件美术",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "音乐与声音",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "特别鸣谢",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper"
     ]
   },
   "TEST": {
@@ -187,56 +225,19 @@
       "Alexander Toy",
       "Merijn van der Vliet",
       "David Von Derau",
-      "Conor Watson"
-    ]
-  },
-  "SPECIAL": {
-    "HEADER": "特别鸣谢",
-    "NAMES": [
-      "Harry Rabinowitz",
-      "Kevin \"Billy\" Matheson",
-      "Anthony Roybal",
-      "Lee Beckman",
-      "Sam Welch",
-      "feedbackbot",
-      "Evan Howell",
-      "Justin Myhres",
-      "robojumper"
+      "Conor Watson",
+      "David \"divadus\" Withington"
     ]
   },
   "THANKS_MSG": {
     "HEADER": "……以及——感谢您的游玩！",
     "NAMES": []
   },
-  "LOC_PTB": {
-    "HEADER": "本地化：巴西葡萄牙语",
+  "VOICE": {
+    "HEADER": "配音",
     "NAMES": [
-      "Guilherme \"GPerego\" Perego",
-      "Gustavo \"KomKlave\" Duarte",
-      "José \"Maneimax\" Vasconcelos",
-      "Leonardo \"Iikat\" Takii",
-      "Nathan \"NoxShadow\" Cervieri",
-      "Paulo \"SilverTape\" Hauck"
+      "Tamara Ryan",
+      "Michael Schwalbe"
     ]
-  },
-  "LOC_NOR": {
-    "HEADER": "本地化：挪威语",
-    "NAMES": [
-      "Eystein Jarp"
-    ]
-  },
-  "LOC_SRB": {
-    "HEADER": "本地化：塞尔维亚语",
-    "NAMES": [
-      "Nikola \"hauzer\" Vukosavljević"
-    ]
-  },
-  "LOC_UKR": {
-    "HEADER": "Ukrainian Localization",
-    "NAMES": []
-  },
-  "LOC_CAT": {
-    "HEADER": "Catalan Localization",
-    "NAMES": []
   }
 }

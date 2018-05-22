@@ -7,6 +7,15 @@
       " 点 #y格挡 。"
     ]
   },
+  "Ancient Tea Set": {
+    "NAME": "古茶具套装",
+    "FLAVOR": "能让你神清气爽睡得香。",
+    "DESCRIPTIONS": [
+      "你每到达一处休息点，下一场战斗开始时获得 [R] [R] 。",
+      "你每到达一处休息点，下一场战斗开始时获得 [G] [G] 。",
+      "你每到达一处休息点，下一场战斗开始时获得 [B] [B] 。"
+    ]
+  },
   "Art of War": {
     "NAME": "孙子兵法",
     "FLAVOR": "这本古兵书记载着远古时代的智慧。",
@@ -88,6 +97,14 @@
       " 点生命并将其 #y消耗 。"
     ]
   },
+  "Boot": {
+    "NAME": "发条靴",
+    "FLAVOR": "拧动发条会让这只靴子变得更大。",
+    "DESCRIPTIONS": [
+      "每当你造成小于等于 #b",
+      " 点未被格挡的 #y攻击 伤害时，将伤害提升为 #b5 。"
+    ]
+  },
   "Bottled Flame": {
     "NAME": "瓶装火焰",
     "FLAVOR": "在这个瓶子里，有着一团永远燃烧的火焰。",
@@ -132,6 +149,13 @@
     "DESCRIPTIONS": [
       "在战斗结束时，回复 #b",
       " 点生命。"
+    ]
+  },
+  "Cables": {
+    "NAME": "镀金缆线",
+    "FLAVOR": "“有意思！看来就连自动机器人也会有安慰剂效应。”——兰伟德",
+    "DESCRIPTIONS": [
+      "你最右侧的充能球会额外触发一次被动效果。"
     ]
   },
   "Calipers": {
@@ -205,11 +229,11 @@
       "看起来很漂亮。"
     ]
   },
-  "The Courier": {
-    "NAME": "送货员",
-    "FLAVOR": "这是商人的宠物！",
+  "Cracked Core": {
+    "NAME": "破损核心",
+    "FLAVOR": "高塔中所有自动机器人体内都有的神秘生命力之源，这个似乎已经有一点破损了。",
     "DESCRIPTIONS": [
-      "商人的卡牌、遗物和药水不再会卖光，并且所有商品打折 #b20% 。"
+      "在每场战斗开始时， #y生成 #b1 个 #y闪电 充能球。"
     ]
   },
   "Cursed Key": {
@@ -222,11 +246,34 @@
       "在每回合开始时获得 [B] 。"
     ]
   },
+  "Darkstone Periapt": {
+    "NAME": "黑石护符",
+    "FLAVOR": "这块黑石能吸取黑暗的能量，将其转化为佩戴者的生命力。",
+    "DESCRIPTIONS": [
+      "每当你获得一张 #y诅咒 ，将你的最大生命值提高 #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "数据磁盘",
+    "FLAVOR": "这张磁盘里记录了关于鸟类和蛇类的珍贵数据。",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时，获得 #b",
+      " 点 #y集中 。"
+    ]
+  },
   "Dead Branch": {
     "NAME": "枯木树枝",
     "FLAVOR": "一个早已被遗忘时代的树木枝条。",
     "DESCRIPTIONS": [
       "每当你 #y消耗 一张牌，增加一张随机卡牌到你的手牌。"
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Derp Rock",
+    "FLAVOR": "Placeholder",
+    "DESCRIPTIONS": [
+      "At the start of each turn，获得 #b",
+      " Charge. NL (Cannot be removed or transformed.)"
     ]
   },
   "Discerning Monocle": {
@@ -274,6 +321,13 @@
       "在回合开始时获得 [B] 。"
     ]
   },
+  "Emotion Chip": {
+    "NAME": "情感芯片",
+    "FLAVOR": "……<3……？",
+    "DESCRIPTIONS": [
+      "在每回合开始时，如果你在之前回合受到过伤害，则触发所有充能球的被动效果。"
+    ]
+  },
   "Enchiridion": {
     "NAME": "英雄宝典",
     "FLAVOR": "一名古老巫妖的传奇日志。",
@@ -296,6 +350,20 @@
     "DESCRIPTIONS": [
       "拾起时，选择一张 #y能力牌 将其 #y升级 。",
       "选择一张牌 "
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "冻结之蛋",
+    "FLAVOR": "这个蛋冻结着，没有丝毫生气，永远也不会孵化。",
+    "DESCRIPTIONS": [
+      "每当你获得 #y能力牌 时，将其 #y升级 。"
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "冻结之眼",
+    "FLAVOR": "这件遗物还没有说明。",
+    "DESCRIPTIONS": [
+      "现在观看 #y抽牌堆 时，卡牌将按顺序排列。"
     ]
   },
   "Gambling Chip": {
@@ -353,6 +421,13 @@
       "多余的能量可以留到下一回合。"
     ]
   },
+  "Inserter": {
+    "NAME": "机械臂",
+    "FLAVOR": "抓取。放置。堆叠。重复。",
+    "DESCRIPTIONS": [
+      "每 #b2 回合，获得 #b1 个充能球栏位。"
+    ]
+  },
   "Juzu Bracelet": {
     "NAME": "佛珠手链",
     "FLAVOR": "抵御未知危险的护身道具。",
@@ -378,6 +453,14 @@
       "[G] ",
       "[B] ",
       "。"
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "李家华夫饼",
+    "FLAVOR": "“全高塔你能找到的最好吃的东西！今天特地为你烤的。”",
+    "DESCRIPTIONS": [
+      "拾起时，将你的最大生命值提升 #b",
+      " 点，并回复所有生命。"
     ]
   },
   "Letter Opener": {
@@ -413,7 +496,7 @@
     "NAME": "芒果",
     "FLAVOR": "在众多被遗忘的水果中最令人垂涎的一种。被完美地保存了下来，没有任何受到高塔荒疫影响的迹象。",
     "DESCRIPTIONS": [
-      "将你的最大生命值提升 #b"
+      "拾起时，将你的最大生命值提升 #b"
     ]
   },
   "Mark of Pain": {
@@ -470,6 +553,13 @@
       "选择一张牌"
     ]
   },
+  "Molten Egg 2": {
+    "NAME": "熔火之蛋",
+    "FLAVOR": "凤凰的蛋，可以看到有岩浆在滋滋发热，红得发烫。",
+    "DESCRIPTIONS": [
+      "每当你获得 #y攻击牌 时，将其 #y升级 。"
+    ]
+  },
   "Mummified Hand": {
     "NAME": "干瘪之手",
     "FLAVOR": "这只手经常都在抽动，尤其是在你心跳很快的时候。",
@@ -484,6 +574,14 @@
       "你每回合打出的第一张耗能大于等于 #b",
       " 的  #y攻击牌 将被打出两次。当你拾起这件遗物时，被 #r诅咒 。",
       " 的  #y攻击牌 将被打出两次。"
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "涅奥的悲恸",
+    "FLAVOR": "涅奥赐予你的祝福，有着悲恸之力。",
+    "DESCRIPTIONS": [
+      "接下来 #b3 场战斗中的敌人将只有 #b1 点生命。",
+      "这个祝福已经耗尽。"
     ]
   },
   "Nilry's Codex": {
@@ -518,11 +616,25 @@
       "使你在怪物奖励中遇见稀有牌的几率变为 #b三倍 。"
     ]
   },
+  "Nuclear Battery": {
+    "NAME": "核能电池",
+    "FLAVOR": "哇噢……",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时， #y生成 #b1 个 #y等离子 充能球。"
+    ]
+  },
   "Nullstone Periapt": {
     "NAME": "Nullstone Periapt",
     "FLAVOR": "弃用",
     "DESCRIPTIONS": [
       "Negate the next #yDebuff you receive from an enemy. NL Recharges in #b10 turns。"
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "奇怪蘑菇",
+    "FLAVOR": "“吃了寄生毛菇之后，我觉得自己更高大了，也更……不容易受伤了。”——兰伟德 ",
+    "DESCRIPTIONS": [
+      "当你有 #y易伤 状态时，受到的额外伤害从 #b50% 下降为 #b25% 。"
     ]
   },
   "Oddly Smooth Stone": {
@@ -531,13 +643,6 @@
     "DESCRIPTIONS": [
       "在每场战斗开始时，获得 #b",
       " 点 #y敏捷 。"
-    ]
-  },
-  "Odd Mushroom": {
-    "NAME": "奇怪蘑菇",
-    "FLAVOR": "“吃了寄生毛菇之后，我觉得自己更高大了，也更……不容易受伤了。”——兰伟德 ",
-    "DESCRIPTIONS": [
-      "当你有 #y易伤 状态时，受到的额外伤害从 #b50% 下降为 #b25% 。"
     ]
   },
   "Old Coin": {
@@ -621,7 +726,7 @@
     "NAME": "梨子",
     "FLAVOR": "在高塔荒疫发生之前十分常见的水果。",
     "DESCRIPTIONS": [
-      "将你的最大生命值提升 #b"
+      "拾起时，将你的最大生命值提升 #b"
     ]
   },
   "Pen Nib": {
@@ -639,6 +744,13 @@
       "在每回合开始时获得 [R] 。",
       "在每回合开始时获得 [G] 。",
       "在每回合开始时获得 [B] 。"
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "药水腰带",
+    "FLAVOR": "穿上这条腰带，我就能携带更多药水！",
+    "DESCRIPTIONS": [
+      "拾起时，获得 #b2 个药水栏位。"
     ]
   },
   "Prayer Wheel": {
@@ -690,6 +802,21 @@
     "NAME": "长蛇戒指",
     "DESCRIPTIONS": [
       "替换 #g蛇之戒指 。 你每打败一名 #y精英 敌人，将你的最大生命值提升 #b"
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "蛇之戒指",
+    "FLAVOR": "用蛇的化石制成的戒指，优秀女猎手的象征。",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时，额外抽 #b",
+      " 张牌。"
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "符文电容器",
+    "FLAVOR": "多多益善。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，获得 #b3 个额外充能球栏位。"
     ]
   },
   "Runic Cube": {
@@ -758,12 +885,12 @@
       "  #y金币 。"
     ]
   },
-  "Ring of the Snake": {
-    "NAME": "蛇之戒指",
-    "FLAVOR": "用蛇的化石制成的戒指，优秀女猎手的象征。",
+  "Snake Skull": {
+    "NAME": "异蛇头骨",
+    "FLAVOR": "保存完好的异蛇头骨，十分离奇地非常干净和光滑，任何灰尘和污垢都无法沾上它，这是为什么呢。",
     "DESCRIPTIONS": [
-      "在每场战斗开始时，额外抽 #b",
-      " 张牌。"
+      "每当你给予敌人 #y中毒 状态时，额外给予 #b",
+      " 层 #y中毒 。"
     ]
   },
   "Snecko Eye": {
@@ -771,14 +898,6 @@
     "FLAVOR": "一条死去异蛇的眼珠，比你想象中的要大上不少。",
     "DESCRIPTIONS": [
       "每回合多抽 #b2 张牌。每场战斗开始时获得 #y混乱 效果。"
-    ]
-  },
-  "Snake Skull": {
-    "NAME": "异蛇头骨",
-    "FLAVOR": "保存完好的异蛇头骨，十分离奇地非常干净和光滑，任何灰尘和污垢都无法沾上它，这是为什么呢。",
-    "DESCRIPTIONS": [
-      "每当你给予敌人 #y中毒 状态时，额外给予 #b",
-      " 层 #y中毒 。"
     ]
   },
   "Sozu": {
@@ -809,7 +928,7 @@
     "NAME": "草莓",
     "FLAVOR": "“太好吃了！荒疫之后就没见过这东西了啊。”——兰伟德",
     "DESCRIPTIONS": [
-      "将你的最大生命值提升 #b"
+      "拾起时，将你的最大生命值提升 #b"
     ]
   },
   "Sundial": {
@@ -822,28 +941,11 @@
       " 次，获得 [B] [B] 。"
     ]
   },
-  "Ancient Tea Set": {
-    "NAME": "古茶具套装",
-    "FLAVOR": "能让你神清气爽睡得香。",
+  "Symbiotic Virus": {
+    "NAME": "共生病毒",
+    "FLAVOR": "小小的麻烦 ，却可以带来大大的益处……",
     "DESCRIPTIONS": [
-      "你每到达一处休息点，下一场战斗开始时获得 [R] [R] 。",
-      "你每到达一处休息点，下一场战斗开始时获得 [G] [G] 。",
-      "你每到达一处休息点，下一场战斗开始时获得 [B] [B] 。"
-    ]
-  },
-  "War Paint": {
-    "NAME": "战纹涂料",
-    "FLAVOR": "在过去，铁甲军团的士兵们会在战斗前使用带有魔力的涂料来绘制保护性的战纹。",
-    "DESCRIPTIONS": [
-      "拾起时，随机 #y升级 #b",
-      " 张 #y技能牌 。"
-    ]
-  },
-  "Darkstone Periapt": {
-    "NAME": "黑石护符",
-    "FLAVOR": "这块黑石能吸取黑暗的能量，将其转化为佩戴者的生命力。",
-    "DESCRIPTIONS": [
-      "每当你获得一张 #y诅咒 ，将你的最大生命值提高 #b"
+      "在每场战斗开始时， #y生成 #b1 个 #y黑暗 充能球。"
     ]
   },
   "Test 1": {
@@ -854,13 +956,6 @@
       " [R] 。",
       " [G] 。",
       " [B] 。"
-    ]
-  },
-  "Frozen Eye": {
-    "NAME": "冻结之眼",
-    "FLAVOR": "这件遗物还没有说明。",
-    "DESCRIPTIONS": [
-      "现在观看 #y抽牌堆 时，卡牌将按顺序排列。"
     ]
   },
   "Test 2": {
@@ -905,7 +1000,7 @@
     "NAME": "测试遗物 7",
     "FLAVOR": "Beta版的测试遗物。如果你喜欢它，请告诉开发组。",
     "DESCRIPTIONS": [
-      " #y精英 敌人在被打败时多掉落一件 #y遗物 。"
+      " #y精英 敌人在被打败时会掉落 #b2 件 #y遗物 。"
     ]
   },
   "Test 8": {
@@ -913,6 +1008,13 @@
     "FLAVOR": "Beta版的测试遗物。如果你喜欢它，请告诉开发组。",
     "DESCRIPTIONS": [
       "每回合多抽 #b2 张牌。每场战斗开始时获得 #y混乱 效果。"
+    ]
+  },
+  "The Courier": {
+    "NAME": "送货员",
+    "FLAVOR": "这是商人的宠物！",
+    "DESCRIPTIONS": [
+      "商人的卡牌、遗物和药水不再会卖光，并且所有商品打折 #b20% 。"
     ]
   },
   "The Specimen": {
@@ -951,7 +1053,7 @@
     "NAME": "小屋子",
     "FLAVOR": "“一项近乎完美的微缩化工程。这是我至今最优秀的作品，但仍然远远不够。”——建筑师",
     "DESCRIPTIONS": [
-      "获得 #b1 瓶药水。 NL 获得 #b",
+      "拾起时，获得 #b1 瓶药水。 NL 获得 #b",
       "  #y金币 。 NL 将你的最大生命值提升 #b",
       " 。 NL 获得 #b1 张牌。 NL 随机升级 #b1 张牌。",
       "小小的屋子！"
@@ -988,12 +1090,26 @@
       "选择一张牌 "
     ]
   },
+  "Toxic Egg 2": {
+    "NAME": "毒素之蛋",
+    "FLAVOR": "“真是了不起的发现！这似乎是某种魔法生物已经不起作用了的蛋，究竟是谁或什么制造了这东西呢？”——兰伟德",
+    "DESCRIPTIONS": [
+      "每当你获得 #y技能牌 时，将其 #y升级 。"
+    ]
+  },
   "Toy Ornithopter": {
     "NAME": "玩具扑翼飞机",
     "FLAVOR": "“这个小玩具最适合陪伴孤独一人的冒险者啦！”",
     "DESCRIPTIONS": [
       "你每使用一瓶药水，回复 #b",
       " 点生命。"
+    ]
+  },
+  "Turnip": {
+    "NAME": "萝卜",
+    "FLAVOR": "与生姜搭配尤为适合。",
+    "DESCRIPTIONS": [
+      "你不会再被 #y脆弱 。"
     ]
   },
   "Unceasing Top": {
@@ -1023,12 +1139,12 @@
       "我只能打出最多 NL #r"
     ]
   },
-  "Lee's Waffle": {
-    "NAME": "李家华夫饼",
-    "FLAVOR": "“全高塔你能找到的最好吃的东西！今天特地为你烤的。”",
+  "War Paint": {
+    "NAME": "战纹涂料",
+    "FLAVOR": "在过去，铁甲军团的士兵们会在战斗前使用带有魔力的涂料来绘制保护性的战纹。",
     "DESCRIPTIONS": [
-      "将你的最大生命值提升 #b",
-      " 点，并回复所有生命。"
+      "拾起时，随机 #y升级 #b",
+      " 张 #y技能牌 。"
     ]
   },
   "Whetstone": {
@@ -1039,127 +1155,11 @@
       " 张 #y攻击牌 。"
     ]
   },
-  "Derp Rock": {
-    "NAME": "Derp Rock",
-    "FLAVOR": "Placeholder",
-    "DESCRIPTIONS": [
-      "At the start of each turn，获得 #b",
-      " Charge. NL (Cannot be removed or transformed.)"
-    ]
-  },
   "White Beast Statue": {
     "NAME": "白兽雕像",
     "FLAVOR": "一个小小的白色雕像，这种动物你从来没有见过。",
     "DESCRIPTIONS": [
       "战斗结束后必定掉落药水。"
-    ]
-  },
-  "NeowsBlessing": {
-    "NAME": "涅奥的悲恸",
-    "FLAVOR": "涅奥赐予你的祝福，有着悲恸之力。",
-    "DESCRIPTIONS": [
-      "接下来 #b3 场战斗中的敌人将只有 #b1 点生命。",
-      "这个祝福已经耗尽。"
-    ]
-  },
-  "Molten Egg 2": {
-    "NAME": "熔火之蛋",
-    "FLAVOR": "凤凰的蛋，可以看到有岩浆在滋滋发热，红得发烫。",
-    "DESCRIPTIONS": [
-      "每当你获得 #y攻击牌 时，将其 #y升级 。"
-    ]
-  },
-  "Frozen Egg 2": {
-    "NAME": "冻结之蛋",
-    "FLAVOR": "这个蛋冻结着，没有丝毫生气，永远也不会孵化。",
-    "DESCRIPTIONS": [
-      "每当你获得 #y能力牌 时，将其 #y升级 。"
-    ]
-  },
-  "Toxic Egg 2": {
-    "NAME": "毒素之蛋",
-    "FLAVOR": "“真是了不起的发现！这似乎是某种魔法生物已经不起作用了的蛋，究竟是谁或什么制造了这东西呢？”——兰伟德",
-    "DESCRIPTIONS": [
-      "每当你获得 #y技能牌 时，将其 #y升级 。"
-    ]
-  },
-  "DataDisk": {
-    "NAME": "数据磁盘",
-    "FLAVOR": "这张磁盘里记录了关于鸟类和蛇类的珍贵数据。",
-    "DESCRIPTIONS": [
-      "在每场战斗开始时，获得 #b",
-      " 点 #y集中 。"
-    ]
-  },
-  "Nuclear Battery": {
-    "NAME": "核能电池",
-    "FLAVOR": "哇噢……",
-    "DESCRIPTIONS": [
-      "在每场战斗开始时， #y生成 #b1 个 #y等离子 充能球。"
-    ]
-  },
-  "Cracked Core": {
-    "NAME": "破损核心",
-    "FLAVOR": "高塔中所有自动机器人体内都有的神秘生命力之源，这个似乎已经有一点破损了。",
-    "DESCRIPTIONS": [
-      "在每场战斗开始时， #y生成 #b1 个 #y闪电 充能球。"
-    ]
-  },
-  "Turnip": {
-    "NAME": "萝卜",
-    "FLAVOR": "与生姜搭配尤为适合。",
-    "DESCRIPTIONS": [
-      "你不会再被 #y脆弱 。"
-    ]
-  },
-  "Emotion Chip": {
-    "NAME": "情感芯片",
-    "FLAVOR": "……<3……？",
-    "DESCRIPTIONS": [
-      "在每回合开始时，如果你在之前回合受到过伤害，则触发所有充能球的被动效果。"
-    ]
-  },
-  "Inserter": {
-    "NAME": "机械臂",
-    "FLAVOR": "抓取。放置。堆叠。重复。",
-    "DESCRIPTIONS": [
-      "每 #b2 回合，获得 #b1 个充能球栏位。"
-    ]
-  },
-  "Cables": {
-    "NAME": "镀金缆线",
-    "FLAVOR": "“有意思！看来就连自动机器人也会有安慰剂效应。”——兰伟德",
-    "DESCRIPTIONS": [
-      "你最右侧的充能球会额外触发一次被动效果。"
-    ]
-  },
-  "Runic Capacitor": {
-    "NAME": "符文电容器",
-    "FLAVOR": "多多益善。",
-    "DESCRIPTIONS": [
-      "每场战斗开始时，获得 #b3 个额外充能球栏位。"
-    ]
-  },
-  "Symbiotic Virus": {
-    "NAME": "共生病毒",
-    "FLAVOR": "小小的麻烦 ，却可以带来大大的益处……",
-    "DESCRIPTIONS": [
-      "在每场战斗开始时， #y生成 #b1 个 #y黑暗 充能球。"
-    ]
-  },
-  "Potion Belt": {
-    "NAME": "药水腰带",
-    "FLAVOR": "穿上这条腰带，我就能携带更多药水！",
-    "DESCRIPTIONS": [
-      "拾起时，获得 #b2 个药水栏位。"
-    ]
-  },
-  "Boot": {
-    "NAME": "发条靴",
-    "FLAVOR": "拧动发条会让这只靴子变得更大。",
-    "DESCRIPTIONS": [
-      "每当你造成小于等于 #b",
-      " 点未被格挡的 #y攻击 伤害时，将伤害提升为 #b5 。"
     ]
   }
 }

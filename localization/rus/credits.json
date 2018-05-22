@@ -25,12 +25,16 @@
       "MoGi Group"
     ]
   },
+  "LOC_CAT": {
+    "HEADER": "Перевод на каталанский",
+    "NAMES": []
+  },
   "LOC_DEU": {
     "HEADER": "Перевод на немецкий",
     "NAMES": [
       "Джошуа «Joshipon» Виганд (Joshua «Joshipon» Wiegand)",
-      "Dustin \"Skrelpoid\" Kristen",
-      "Jonas Trodler",
+      "Дастин «Skrelpoid» Кристен (Dustin «Skrelpoid» Kristen)",
+      "Джонас Тродлер (Jonas Trodler)",
       "Hongkong Koma",
       "Moly"
     ]
@@ -145,6 +149,10 @@
       "Эрдем Гюрбюз (Erdem Gürbüz)"
     ]
   },
+  "LOC_UKR": {
+    "HEADER": "Перевод на украинский",
+    "NAMES": []
+  },
   "LOC_ZHS": {
     "HEADER": "Перевод на китайский (упрощённый)",
     "NAMES": [
@@ -217,7 +225,8 @@
       "Александр Той (Alexander Toy)",
       "Мерийн ван дер Влиет (Merijn van der Vliet)",
       "Дэвид Фон Дерау (David Von Derau)",
-      "Конор Уотсон (Conor Watson)"
+      "Конор Уотсон (Conor Watson)",
+      "David \"divadus\" Withington"
     ]
   },
   "THANKS_MSG": {
@@ -230,13 +239,5 @@
       "Тамара Райан (Tamara Ryan)",
       "Майкл Швальбе (Michael Schwalbe)"
     ]
-  },
-  "LOC_UKR": {
-    "HEADER": "Ukrainian Localization",
-    "NAMES": []
-  },
-  "LOC_CAT": {
-    "HEADER": "Catalan Localization",
-    "NAMES": []
   }
 }

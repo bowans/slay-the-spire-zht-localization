@@ -160,7 +160,7 @@
   },
   "Body Slam": {
     "NAME": "Spanciata",
-    "DESCRIPTION": "Infliggi danni pari al Blocco accumulato.",
+    "DESCRIPTION": "Infliggi danno pari al Blocco accumulato.",
     "UPGRADE_DESCRIPTION": " NL (Infligge !D! danni.)"
   },
   "BootSequence": {
@@ -856,8 +856,8 @@
   },
   "Perfected Strike": {
     "NAME": "Colpo Perfetto",
-    "DESCRIPTION": "Infliggi !D! danni. NL Infliggi 2 danni in più per OGNI altra carta con \"Colpo\" nel nome tuo mazzo.",
-    "UPGRADE_DESCRIPTION": "Infliggi !D! danni. NL Infliggi 3 danni in più per OGNI altra carta con \"Colpo\" nel nome tuo mazzo."
+    "DESCRIPTION": "Infliggi !D! danni. NL Infliggi 2 danni in più per OGNI altra carta del mazzo con \"Colpo\" nel nome.",
+    "UPGRADE_DESCRIPTION": "Infliggi !D! danni. NL Infliggi 3 danni in più per OGNI altra carta del mazzo con \"Colpo\" nel nome."
   },
   "Phantasmal Killer": {
     "NAME": "Sicario Etereo",
@@ -1133,7 +1133,7 @@
   },
   "Sweeping Beam": {
     "NAME": "Laser ad Arco",
-    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Peschi !M! carte."
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Peschi !M! carta."
   },
   "Swift Strike": {
     "NAME": "Colpo Rapido",
@@ -1276,5 +1276,9 @@
   "Zap": {
     "NAME": "Zap",
     "DESCRIPTION": "Crei !M! Fulmine."
+  },
+  "Core Surge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
   }
 }

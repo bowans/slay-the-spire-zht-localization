@@ -1,7 +1,7 @@
 {
   "A Thousand Cuts": {
     "NAME": "Hiljadu rezova",
-    "DESCRIPTION": "Svaki put kad odigraš kartu, zadaj SVIM neprijateljima štetu: !M!."
+    "DESCRIPTION": "Svaki put kad odigraš kartu, zadaj SVIM neprijateljima štete: !M!."
   },
   "Accuracy": {
     "NAME": "Preciznost",
@@ -146,7 +146,7 @@
     "DESCRIPTION": "Trošak ove karte se smanjuje za [R] svaki put kada izgubiš ž. p. od napada. Zadaj !D! štete."
   },
   "Bloodletting": {
-    "NAME": "Puštanje krvi",
+    "NAME": "Žrtva",
     "DESCRIPTION": "Zadobi [R]. NL Izgubi tri ž. p.",
     "UPGRADE_DESCRIPTION": "Zadobi [R] [R]. NL Izgubi tri ž. p."
   },
@@ -440,6 +440,11 @@
     "DESCRIPTION": "Prva karta odigrana svaki potez je odigrana dvaput. NL Prolazna.",
     "UPGRADE_DESCRIPTION": "Prva karta odigrana svaki potez je odigrana dvaput."
   },
+  "Electrodynamics": {
+    "NAME": "Elektrodinamika",
+    "DESCRIPTION": "Munje udaraju SVE neprijatelje.",
+    "UPGRADE_DESCRIPTION": "Munje udaraju SVE neprijatelje. NL Ako je u borbi jedan neprijatelj, udaraju ga dvaput."
+  },
   "Endless Agony": {
     "NAME": "Beskrajna agonija",
     "DESCRIPTION": "Svaki put kad vučeš ovu kartu, dodaj jednu kopiju nje u ruku. Zadaj !D! štete. NL Iscrpi."
@@ -642,7 +647,7 @@
   },
   "Hologram": {
     "NAME": "Hologram",
-    "DESCRIPTION": "Zadobi !B! odbrane. NL Vrati nasumičnu kartu iz gomile za odbacivanje u ruku.",
+    "DESCRIPTION": "Zadobi !B! odbrane. NL Vrati kartu iz gomile za odbacivanje u ruku. NL Iscrpi.",
     "UPGRADE_DESCRIPTION": "Zadobi !B! odbrane. NL Vrati kartu iz gomile za odbacivanje u ruku."
   },
   "Hyperbeam": {
@@ -673,8 +678,8 @@
   },
   "Infinite Blades": {
     "NAME": "Bezbroj oštrica",
-    "DESCRIPTION": "Na početku poteza, dodaj nož u ruku.",
-    "UPGRADE_DESCRIPTION": "Urođena. NL Na početku poteza, dodaj nož u ruku."
+    "DESCRIPTION": "Na početku poteza, dodaj Nož u ruku.",
+    "UPGRADE_DESCRIPTION": "Urođena. NL Na početku poteza, dodaj Nož u ruku."
   },
   "Inflame": {
     "NAME": "Rasplamsavanje",
@@ -725,7 +730,7 @@
   "Loop": {
     "NAME": "Petlja",
     "DESCRIPTION": "Na početku svog poteza, iskoristi pasivnu sposobnost svoje glavne sfere.",
-    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
+    "UPGRADE_DESCRIPTION": "Na početku svog poteza, iskoristi pasivnu sposobnost svoje glavne sfere !M! puta."
   },
   "Machine Learning": {
     "NAME": "Mašinsko učenje",
@@ -1081,12 +1086,12 @@
     "UPGRADE_DESCRIPTION": "Svaki put kada primiš štetu od napada, prizovi !M! munje."
   },
   "Steam": {
-    "NAME": "Para",
-    "DESCRIPTION": "Zadobi !B! odbrane. Odbrana ove karte se smanjuje za dva tokom ove borbe."
+    "NAME": "Isparavanje",
+    "DESCRIPTION": "Zadobi !B! odbrane. Odbrana ove karte se smanjuje za dva tokom trenutne borbe."
   },
   "Steam Power": {
     "NAME": "Punom parom",
-    "DESCRIPTION": "Vuci !M! karte. NL Dodaj opekotinu u gomilu za odbacivanje."
+    "DESCRIPTION": "Vuci !M! karte. NL Dodaj Opekotinu u gomilu za odbacivanje."
   },
   "Storm": {
     "NAME": "Oluja",
@@ -1211,8 +1216,8 @@
     ]
   },
   "Undo": {
-    "NAME": "Ispravka",
-    "DESCRIPTION": "Podesi svoje ž. p. na vrednost iz prošlog kruga. NL Iscrpi."
+    "NAME": "Ravnoteža",
+    "DESCRIPTION": "Zadobi !B! odbrane. NL Zadrži svoju ruku ovaj potez."
   },
   "Unload": {
     "NAME": "Iskasapi",
@@ -1272,9 +1277,8 @@
     "NAME": "Šok",
     "DESCRIPTION": "Prizovi !M! munju."
   },
-  "Electrodynamics": {
-    "NAME": "Electrodynamics",
-    "DESCRIPTION": "Lightning now hits ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
+  "Core Surge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
   }
 }

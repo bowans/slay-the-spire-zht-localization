@@ -1019,19 +1019,20 @@
       "#r%s Tours",
       "#r%s #r/ #r%s #rPV",
       "#y%s #yOr",
-      "Choisi %s",
-      "Passé :",
+      "#yObtenu :",
+      "#yPassé :",
       "Information manquante",
-      "+2 Max HP",
+      "+2 PV Max",
       "#bC ",
       "#bR ",
       "#bP ",
       "#bS ",
-      "#bRested",
-      "#bUpgraded %s",
-      "#bRemoved %s",
-      "#bDug",
-      "#bLifted %s/%s"
+      "#bS'est #breposé",
+      "#bA #bamélioré %s",
+      "#bA #bretiré %s",
+      "#bA #bcreusé",
+      "#bS'est #entraîné %s/%s",
+      "#yPurchased:"
     ]
   },
   "SeedPanel": {

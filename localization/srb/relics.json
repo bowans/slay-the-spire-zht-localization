@@ -30,7 +30,7 @@
     "NAME": "Astrolab",
     "FLAVOR": "Alatka kojom se od zvezda doznaje neprocenjivo znanje.",
     "DESCRIPTIONS": [
-      "Pri uzimanju izaberi #btri karte, potom ih #ypreobrazi i #ypoboljšaj.",
+      "Po uzimanju izaberi #btri karte, potom ih #ypreobrazi i #ypoboljšaj.",
       "Izaberi tri karte za "
     ]
   },
@@ -70,7 +70,7 @@
     "NAME": "Crna zvezda",
     "FLAVOR": "Prvobitno otkrivena u Gujinom gradu, pored usamljene sveće.",
     "DESCRIPTIONS": [
-      "#yČelnici sada ispuštaju #bdve #yrelikvije."
+      "#yČelnici sada ispuštaju dodatnu relikviju."
     ]
   },
   "Blood Vial": {
@@ -101,7 +101,7 @@
     "NAME": "Plamen u tegli",
     "FLAVOR": "U tegli prebiva plamen koji zanavek gori.",
     "DESCRIPTIONS": [
-      "Pri uzimanju, izaberi napad. Na početku svake borbe, ta karta će ti biti u ruci.",
+      "Po uzimanju, izaberi napad. Na početku svake borbe, ta karta će ti biti u ruci.",
       "Izaberi kartu za ",
       "Na početku svake borbe, dodaj ",
       " u ruku."
@@ -111,7 +111,7 @@
     "NAME": "Munja u tegli",
     "FLAVOR": "Zavirkivanjem u kovitlajuću oluju, primećuješ deo sebe kako uzvraća pogled.",
     "DESCRIPTIONS": [
-      "Pri uzimanju, izaberi umeće. Na početku svake borbe, ta karta će ti biti u ruci.",
+      "Po uzimanju, izaberi umeće. Na početku svake borbe, ta karta će ti biti u ruci.",
       "Izaberi kartu za ",
       "Na početku svake borbe, dodaj ",
       " u ruku."
@@ -121,7 +121,7 @@
     "NAME": "Tornado u tegli",
     "FLAVOR": "Probna relikvija.",
     "DESCRIPTIONS": [
-      "Pri uzimanju, izaberi moć. Na početku svake borbe, ta karta će ti biti u ruci.",
+      "Po uzimanju, izaberi moć. Na početku svake borbe, ta karta će ti biti u ruci.",
       "Izaberi kartu za ",
       "Na početku svake borbe, dodaj ",
       " u ruku."
@@ -172,7 +172,7 @@
     "NAME": "Kotao",
     "FLAVOR": "Trgovac je zapravo vrlo vešt kuvač napitaka. Kupi četiri, dobijaš jedan džabe.",
     "DESCRIPTIONS": [
-      "Pri uzimanju, skuva #bpet nasumičnih napitaka.",
+      "Po uzimanju, skuva #bpet nasumičnih napitaka.",
       "Buć bljuć buć...!"
     ]
   },
@@ -203,7 +203,7 @@
     "NAME": "Haronov pepeo",
     "FLAVOR": "Za Harona je rečeno da je bog ponovnog rađanja, onaj koji večno umire i vaskrsava u plamenoj buktinji.",
     "DESCRIPTIONS": [
-      "Svaki put kada #yiscrpiš kartu, nanesi #b",
+      "Svaki put kada #yiscrpiš kartu, zadaj #b",
       " štete SVIM neprijateljima."
     ]
   },
@@ -299,7 +299,7 @@
       "Za svaku #ykletvu u špilu, započni borbu sa #ysnagom povećanom za #b",
       ".",
       " Nemaš #ykletve.",
-      " Imaš broj #ykletvi: #b",
+      " Imaš #ykletvi: #b",
       "."
     ]
   },
@@ -451,8 +451,8 @@
     "NAME": "Lijev vafl",
     "FLAVOR": "\"Najukusnija poslastica koju ćete naći u Tornju! Umešena danas samo za vas.\"",
     "DESCRIPTIONS": [
-      "Povećaj svoje maks. ž. p. za #b",
-      " i zaleči sve svoje ž. p."
+      "Po uzimanju, povećaj svoje maks. ž. p. za #b",
+      " i u potpunosti se zaleči."
     ]
   },
   "Letter Opener": {
@@ -488,7 +488,7 @@
     "NAME": "Mango",
     "FLAVOR": "Najtraženije zaboravljeno voće. Besprekorno sačuvan, bez znakova Toranjobuđi.",
     "DESCRIPTIONS": [
-      "Povećaj svoje maks. ž. p. za #b"
+      "Po uzimanju, povećaj svoje maks. ž. p. za #b"
     ]
   },
   "Mark of Pain": {
@@ -564,7 +564,7 @@
     "FLAVOR": "Samo bi budala pokušala da iskoristi ovu zlu moć. Noću si u snovima uhođen prizorima u kojima ti ova knjiga proždire um.",
     "DESCRIPTIONS": [
       "Prvi odigran #ynapad u svakom potezu sa cenom od #b",
-      " ili više se odigrava dvaput. Pri uzimanju ove relikvije, postaješ #ruklet.",
+      " ili više se odigrava dvaput. Po uzimanju ove relikvije, postaješ #ruklet.",
       " ili više se odigrava dvaput."
     ]
   },
@@ -630,7 +630,7 @@
     ]
   },
   "Oddly Smooth Stone": {
-    "NAME": "Čudnovato gladak kamen",
+    "NAME": "Zapanjujuće gladak kamen",
     "FLAVOR": "Nikad nisi video nešto tako glatko i besprekorno. Ovo mora da je delo Drevnih.",
     "DESCRIPTIONS": [
       "Započni svaku borbu sa #yokretnošću povećanom za #b",
@@ -641,7 +641,7 @@
     "NAME": "Stari novčić",
     "FLAVOR": "Trgovci visoko cene jedinstvene novčiće zbog njihove istorijske vrednosti i retkih metalnih osobina.",
     "DESCRIPTIONS": [
-      "Zadobi #b300 #yzlata."
+      "Po uzimanju, zadobi #b300 #yzlata."
     ]
   },
   "Omamori": {
@@ -718,7 +718,7 @@
     "NAME": "Kruška",
     "FLAVOR": "Česta voćka pre Toranjobuđi.",
     "DESCRIPTIONS": [
-      "Povećaj svoje maks. ž. p. za #b"
+      "Po uzimanju, povećaj svoje maks. ž. p. za #b"
     ]
   },
   "Pen Nib": {
@@ -738,18 +738,25 @@
       "Zadobi [B] na početku svakog poteza."
     ]
   },
+  "Potion Belt": {
+    "NAME": "Pojas za napitke",
+    "FLAVOR": "Mogu da nosim još napitaka uz pomoć ovog pojasa!",
+    "DESCRIPTIONS": [
+      "Po uzimanju, zadobi #bdva mesta za napitak."
+    ]
+  },
   "Prayer Wheel": {
     "NAME": "Molitveni točak",
     "FLAVOR": "Točak se okreće, nikada ne prestajući.",
     "DESCRIPTIONS": [
-      "Ne-voždovski kovčezi sada takođe sadrže karte."
+      "Normalni neprijatelji ispuštaju još jednu dodatnu nagradnu kartu."
     ]
   },
   "Question Card": {
     "NAME": "Upitna karta",
     "FLAVOR": "\"Oni sa više izbora umanjuju nedostatke haosa.\" - Kublaj Veliki",
     "DESCRIPTIONS": [
-      "Pri odabiru nagradne karte u izboru imaš još #yjednu #ydodatnu #ykartu. Ne važi za sobu u kojoj je relikvija pokupljena."
+      "Pri odabiru nagradne karte, u izboru imaš još #yjednu #ydodatnu #ykartu. Ne važi za sobu u kojoj je relikvija pokupljena."
     ]
   },
   "Red Circlet": {
@@ -764,7 +771,7 @@
     "FLAVOR": "Ova kicoška maska pripada vođi Crvenomaskiranih Bandita. Tehnički, to sada tebe čini njihovim vođom?",
     "DESCRIPTIONS": [
       "Na početku svake borbe, nanesi #b",
-      " #ySlabost SVIM neprijateljima."
+      " #yslabost SVIM neprijateljima."
     ]
   },
   "Red Skull": {
@@ -913,7 +920,7 @@
     "NAME": "Jagoda",
     "FLAVOR": "\"Preukusno! Ni na jednu nisam naišao još od početka Buđi.\" - Ranuid",
     "DESCRIPTIONS": [
-      "Povećaj svoje maks. ž. p. za #b"
+      "Po uzimanju, povećaj svoje maks. ž. p. za #b"
     ]
   },
   "Sundial": {
@@ -1021,7 +1028,7 @@
     "NAME": "Tingša",
     "FLAVOR": "Zvuk koji ovaj instrument pravi ume da ječi do bolnih nivoa buke.",
     "DESCRIPTIONS": [
-      "Svaki put kada odbaciš kartu tokom svog poteza, nanesi #b",
+      "Svaki put kada odbaciš kartu tokom svog poteza, zadaj #b",
       " štete nasumičnom neprijatelju za svaku odbačenu kartu."
     ]
   },
@@ -1038,7 +1045,7 @@
     "NAME": "Kućica",
     "FLAVOR": "\"Skoro savršena implementacija minijaturizacije. Moje najfinije delo do sad, ali i dalje neadekvatno.\" - Arhitekta",
     "DESCRIPTIONS": [
-      "Zadobi #bjedan napitak. NL Zadobi #b",
+      "Po uzimanju, zadobi #bjedan napitak. NL Zadobi #b",
       " #yzlata. NL Povećaj svoje maks. ž. p. za #b",
       ". NL Zadobi #bjednu kartu. NL Poboljšaj #bjednu nasumičnu kartu.",
       "Kućica!"
@@ -1147,19 +1154,12 @@
       "Napici se sada uvek pojavljuju kao deo plena posle borbe."
     ]
   },
-  "Potion Belt": {
-    "NAME": "Potion Belt",
-    "FLAVOR": "I can hold more Potions using this belt!",
-    "DESCRIPTIONS": [
-      "Upon pick up, gain #b1 Potion slot."
-    ]
-  },
   "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "NAME": "Čizma",
+    "FLAVOR": "Raste u veličini kada se nategne.",
     "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked #yAttack damage, increase it to #b5."
+      "Svaki put kada bi zadao #b",
+      " ili manje neodbranjene štete od #ynapada, povećaj je na #bpet."
     ]
   }
 }

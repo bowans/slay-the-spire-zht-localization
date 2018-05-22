@@ -451,7 +451,7 @@
     "NAME": "Lee's Waffle",
     "FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b",
+      "Upon pick up, raise your Max HP by #b",
       " and heal all of your HP."
     ]
   },
@@ -488,7 +488,7 @@
     "NAME": "Mango",
     "FLAVOR": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b"
+      "Upon pick up, raise your Max HP by #b"
     ]
   },
   "Mark of Pain": {
@@ -718,7 +718,7 @@
     "NAME": "Pear",
     "FLAVOR": "A common fruit before the Spireblight.",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b"
+      "Upon pick up, raise your Max HP by #b"
     ]
   },
   "Pen Nib": {
@@ -920,7 +920,7 @@
     "NAME": "Strawberry",
     "FLAVOR": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b"
+      "Upon pick up, raise your Max HP by #b"
     ]
   },
   "Sundial": {
@@ -1045,7 +1045,7 @@
     "NAME": "Tiny House",
     "FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
     "DESCRIPTIONS": [
-      "Obtain #b1 potion. NL Gain #b",
+      "Upon pick up, obtain #b1 potion. NL Gain #b",
       " #yGold. NL Raise your Max HP by #b",
       ". NL Obtain #b1 card. NL Upgrade #b1 random card.",
       "Tiny House!"

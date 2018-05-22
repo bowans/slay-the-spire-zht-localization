@@ -118,7 +118,7 @@
     ]
   },
   "Health Potion": {
-    "NAME": "Napitak zdravlja",
+    "NAME": "Eliksir života",
     "DESCRIPTIONS": [
       "Zaleči #b",
       " ž. p."
@@ -139,10 +139,10 @@
     ]
   },
   "Potion Slot": {
-    "NAME": "Pojas za napitke",
+    "NAME": "Mesto za napitak",
     "DESCRIPTIONS": [
       "Tokom borbe se napicima #gpoboljšaj ili #rometi neprijatelje.",
-      "Pojas za napitke"
+      "Mesto za napitak"
     ]
   },
   "PowerPotion": {
@@ -154,9 +154,9 @@
   "Regen Potion": {
     "NAME": "Lekoviti napitak",
     "DESCRIPTIONS": [
-      "Zaleči #b",
-      " #yz. #yp. na kraju svakog poteza sledećih #b",
-      " poteza."
+      "Zadobi #b",
+      " #yzalečenja.",
+      ""
     ]
   },
   "SkillPotion": {
@@ -176,7 +176,7 @@
     "DESCRIPTIONS": [
       "Postani #yzbunjen. Vuci #b",
       " karte.",
-      "card."
+      "kartu."
     ]
   },
   "SpeedPotion": {

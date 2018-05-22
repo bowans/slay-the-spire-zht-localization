@@ -1,5 +1,46 @@
 Updates for Translators!
 
+05/21/2018:
+monsters.json
+	"Transient"
+powers.json
+	"Fading"
+	"Shifting"
+credits.json
+	"TEST"
+cards.json
+	"Core Surge"
+
+----------------------------------
+
+05/18/2018:
+ui.json
+	"RunHistoryPathNodes"
+		"#yPuchased:"
+
+----------------------------------
+
+05/17/2018:
+relics.json
+	"Lee's Waffle"
+		"Raise your Max HP by #b", ->
+		"Upon pick up, raise your Max HP by #b",
+	"Mango"
+		"Raise your Max HP by #b"
+		"Upon pick up, raise your Max HP by #b"
+	"Pear"
+		"Raise your Max HP by #b"
+		"Upon pick up, raise your Max HP by #b"
+	"Straberry"
+		"Raise your Max HP by #b"
+		"Upon pick up, raise your Max HP by #b"
+	"Boot"
+		An improvement was made but there is no change in relics.json
+		"Whenever you would deal 5 or less unblocked..." ->
+		"Whenever you would deal 4 or less unblocked..."
+
+----------------------------------
+
 05/16/2018:
 potions.json
     "SneckoOil"

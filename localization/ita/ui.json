@@ -726,7 +726,7 @@
       "Esamina tutte le carte che hai trovato nella Guglia.",
       "Collezione Reliquie",
       "",
-      "Esamina i vari artefatti che hai ottenuto nella Guglia.",
+      "Esamina i vari artefatti che hai raccolto nella Guglia.",
       "Bestiario",
       "",
       "Questa opzione non è ancora disponibile.",
@@ -920,11 +920,12 @@
       "#bR ",
       "#bP ",
       "#bS ",
-      "#bRested",
-      "#bUpgraded %s",
-      "#bRemoved %s",
-      "#bDug",
-      "#bLifted %s/%s"
+      "#bRiposi",
+      "#bPotenziate %s",
+      "#bRimosse %s",
+      "#bScavi",
+      "#bSollevamenti %s/%s",
+      "#yPurchased:"
     ]
   },
   "RunHistoryScreen": {

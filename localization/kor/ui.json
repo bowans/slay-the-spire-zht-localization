@@ -1027,11 +1027,12 @@
       "#bR ",
       "#bP ",
       "#bS ",
-      "#bRested",
-      "#bUpgraded %s",
-      "#bRemoved %s",
+      "#b휴식함",
+      "#b다음 카드를 재련함: %s",
+      "#b다음 카드를 제거함: %s",
       "#bDug",
-      "#bLifted %s/%s"
+      "#bLifted %s/%s",
+      "#yPurchased:"
     ]
   },
   "AttackFromDeckToHandAction": {

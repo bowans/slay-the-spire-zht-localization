@@ -40,6 +40,7 @@ None, # Hidden
 (1,31), # "Minimalist"
 (7,0), # "Ooh Donut!"
 None, # "Sapphire"
+None, # "Common Sense"
 ]
 ### DO NOT MODIFY BELOW THIS LINE
 import sys

@@ -195,7 +195,7 @@
     "DESCRIPTION": "Erschöpfe 1 Karte. NL Ziehe !M! Karten."
   },
   "Burst": {
-    "NAME": "Los geht's!",
+    "NAME": "Sprint",
     "DESCRIPTION": "Deine nächste Fertigkeit in diesem Zug wird zweimal ausgespielt.",
     "UPGRADE_DESCRIPTION": "Deine nächsten !M! Fertigkeiten in diesem Zug werden zweimal ausgespielt."
   },
@@ -1276,5 +1276,9 @@
   "Zap": {
     "NAME": "Stromschlag",
     "DESCRIPTION": "Erschaffe !M! Blitz."
+  },
+  "Core Surge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
   }
 }

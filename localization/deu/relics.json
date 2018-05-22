@@ -11,9 +11,9 @@
     "NAME": "Uraltes Teeservice",
     "FLAVOR": "Unerlässlich für entspannten Schlaf.",
     "DESCRIPTIONS": [
-      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [R] [R] .",
-      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [G] [G] .",
-      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [B] [B] ."
+      "Immer wenn du an ein Lagerfeuer kommst, beginne den nächsten Kampf mit [R] [R] .",
+      "Immer wenn du an ein Lagerfeuer kommst, beginne den nächsten Kampf mit [G] [G] .",
+      "Immer wenn du an ein Lagerfeuer kommst, beginne den nächsten Kampf mit [B] [B] ."
     ]
   },
   "Art of War": {
@@ -30,7 +30,7 @@
     "NAME": "Astrolabium",
     "FLAVOR": "Mit diesem Instrument eignest du dir das wertvolle Wissen der Sterne an.",
     "DESCRIPTIONS": [
-      "Wähle sofort #b3 Karten, #ytransformiere sie und #yverbessere sie dann.",
+      "Beim Aufheben: Wähle #b3 Karten, #ytransformiere sie und #yverbessere sie dann.",
       "Wähle 3 Karten für "
     ]
   },
@@ -109,7 +109,7 @@
     "NAME": "Flaschenflamme",
     "FLAVOR": "In der Flasche haust eine Flamme, die auf ewig brennt.",
     "DESCRIPTIONS": [
-      "Wähle sofort eine Angriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Beim Aufheben: Wähle eine Angriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -119,7 +119,7 @@
     "NAME": "Flaschenblitz",
     "FLAVOR": "Im wirbelnden Mahlstrom siehst du einen Teil deiner selbst zurückstarren.",
     "DESCRIPTIONS": [
-      "Wähle sofort eine Fertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Beim Aufheben: Wähle eine Fertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -129,7 +129,7 @@
     "NAME": "Flaschentornado",
     "FLAVOR": "Testrelikt.",
     "DESCRIPTIONS": [
-      "Wähle sofort eine Machtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Beim Aufheben: Wähle eine Machtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -180,7 +180,7 @@
     "NAME": "Kessel",
     "FLAVOR": "Der Händler ist ein ziemlich geschickter Trankbrauer. Kaufe 4, erhalte 1 kostenlos.",
     "DESCRIPTIONS": [
-      "Dir werden sofort #b5 zufällige Tränke gebraut.",
+      "Beim Aufheben: Dir werden #b5 zufällige Tränke gebraut.",
       "Blupp, blipp, bluuupp...!"
     ]
   },
@@ -348,7 +348,7 @@
     "NAME": "Gefrorenes Ei",
     "FLAVOR": "Das Ei ist erstarrt und gefroren, aus ihm wird nie etwas schlüpfen.",
     "DESCRIPTIONS": [
-      "Wähle sofort eine #yMacht und #yverbessere sie.",
+      "Beim Aufheben: Wähle eine #yMacht und #yverbessere sie.",
       "Wähle eine Karte für "
     ]
   },
@@ -459,7 +459,7 @@
     "NAME": "Lees Waffel",
     "FLAVOR": "„Der köstlichste Leckerbissen im ganzen Spire! Heute speziell für dich gemacht.“",
     "DESCRIPTIONS": [
-      "Erhöhe deine max. TP um #b",
+      "Beim Aufheben: Erhöhe deine max. TP um #b",
       " und heile all deine TP."
     ]
   },
@@ -496,7 +496,7 @@
     "NAME": "Mango",
     "FLAVOR": "Die begehrteste vergessene Frucht. Perfekt erhalten und ohne Spuren von Spire-Fäule.",
     "DESCRIPTIONS": [
-      "Deine max. TP erhöhen sich um #b"
+      "Beim Aufheben: Erhöhe deine max. TP um #b"
     ]
   },
   "Mark of Pain": {
@@ -549,7 +549,7 @@
     "NAME": "Geschmolzenes Ei",
     "FLAVOR": "Das Ei eines Phönix. Die heiße Lava glüht feuerrot.",
     "DESCRIPTIONS": [
-      "Wähle sofort einen #yAngriff und #yverbessere ihn.",
+      "Beim Aufheben: Wähle einen #yAngriff und #yverbessere ihn.",
       "Wähle eine Karte für "
     ]
   },
@@ -649,7 +649,7 @@
     "NAME": "Alte Münze",
     "FLAVOR": "Händler schätzen einzigartige Münzen aufgrund ihres historischen Werts und ihrer seltenen Metalle sehr.",
     "DESCRIPTIONS": [
-      "Erhalte sofort #b300 #yGold."
+      "Beim Aufheben: Erhalte #b300 #yGold."
     ]
   },
   "Omamori": {
@@ -726,7 +726,7 @@
     "NAME": "Birne",
     "FLAVOR": "Eine weit verbreitete Frucht vor der Spire-Fäule.",
     "DESCRIPTIONS": [
-      "Deine max. TP erhöhen sich um #b"
+      "Beim Aufheben: Erhöhe deine max. TP um #b"
     ]
   },
   "Pen Nib": {
@@ -750,7 +750,7 @@
     "NAME": "Trankgürtel",
     "FLAVOR": "Mit diesem Gürtel kann ich mehr Tränke tragen!",
     "DESCRIPTIONS": [
-      "Erhalte sofort #b2 Trankslots."
+      "Beim Aufheben: Erhalte #b2 Trankslots."
     ]
   },
   "Prayer Wheel": {
@@ -928,7 +928,7 @@
     "NAME": "Erdbeere",
     "FLAVOR": "„Köstlich! Seit der Fäule habe ich so etwas nicht mehr gesehen.“ – Ranwind",
     "DESCRIPTIONS": [
-      "Deine max. TP erhöhen sich um #b"
+      "Beim Aufheben: Erhöhe deine max. TP um #b"
     ]
   },
   "Sundial": {
@@ -983,7 +983,7 @@
     "NAME": "Test 5",
     "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
     "DESCRIPTIONS": [
-      "#yVerbessere sofort #b",
+      "Beim Aufheben: #yVerbessere #b",
       " zufällige #yFertigkeiten."
     ]
   },
@@ -1086,7 +1086,7 @@
     "NAME": "Giftiges Ei",
     "FLAVOR": "„Eine tolle Entdeckung! Das dürfte das erstarrte Ei einer magischen Kreatur sein. Wer oder was ist dafür verantwortlich?“ – Ranwid",
     "DESCRIPTIONS": [
-      "Wähle sofort eine #yFertigkeit und #yverbessere sie.",
+      "Beim Aufheben: Wähle eine #yFertigkeit und #yverbessere sie.",
       "Wähle eine Karte für "
     ]
   },
@@ -1143,7 +1143,7 @@
     "NAME": "Kriegsbemalung",
     "FLAVOR": "Eiserne nutzen diese Bemalung, um sich vor der Schlacht magische Kreise erstellen.",
     "DESCRIPTIONS": [
-      "#yVerbessere sofort #b",
+      "Beim Aufheben: #yVerbessere #b",
       " zufällige #yFertigkeiten."
     ]
   },
@@ -1151,7 +1151,7 @@
     "NAME": "Schleifstein",
     "FLAVOR": "„Dem Stahl kann das Fleisch nicht das Wasser reichen.“ – Kublai der Große",
     "DESCRIPTIONS": [
-      "#yVerbessere sofort #b",
+      "Beim Aufheben: #yVerbessere #b",
       " zufällige #yAngriffe."
     ]
   },

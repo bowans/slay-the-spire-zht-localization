@@ -129,8 +129,8 @@
   },
   "Tactician": {
     "NAME": "Stratège",
-    "DESCRIPTION": "Injouable. NL Si la carte est défaussée, gagnez [G] .",
-    "UPGRADE_DESCRIPTION": "Injouable. NL Si la carte est défaussée, gagnez [G] [G] .",
+    "DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, gagnez [G] .",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, gagnez [G] [G] .",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -560,8 +560,8 @@
   },
   "Reflex": {
     "NAME": "Réflexe",
-    "DESCRIPTION": "Injouable. NL Si la carte est défaussée, piochez !M! carte.",
-    "UPGRADE_DESCRIPTION": "Injouable. NL Si la carte est défaussée, piochez !M! cartes.",
+    "DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, piochez !M! cartes.",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -912,8 +912,8 @@
   },
   "Hologram": {
     "NAME": "Hologramme",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Retournez une carte aléatoire de votre défausse à votre main.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Retournez une carte de votre défausse à votre main."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte de votre défausse à votre main.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte de votre défausse à votre main."
   },
   "Conserve Battery": {
     "NAME": "Économie d'énergie",
@@ -946,8 +946,8 @@
     ]
   },
   "Undo": {
-    "NAME": "Annuler",
-    "DESCRIPTION": "Rétablissez vos PV à ce qu'ils étaient au tour précédent. NL Épuisement."
+    "NAME": "Equilibrium",
+    "DESCRIPTION": "Ganez !B! d'Armure. NL Conservez toute votre main ce tour."
   },
   "Beam Cell": {
     "NAME": "Pile à rayon",
@@ -1019,7 +1019,7 @@
   "Loop": {
     "NAME": "Boucle",
     "DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe.",
-    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
+    "UPGRADE_DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe !M! fois."
   },
   "Glacier": {
     "NAME": "Glacier",
@@ -1036,7 +1036,7 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois le nombre de Pouvoirs joués ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois le nombre de Pouvoirs joués ce combat.",
     "EXTENDED_DESCRIPTION": [
       " NL Épuisement.",
       " NL (Infligez !D! dégât(s).)"
@@ -1269,12 +1269,16 @@
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Inné. NL Épuisement."
   },
   "Steam": {
-    "NAME": "Vapeur",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Vapeur donnera 2 d'Armure de moins pendant ce combat."
+    "NAME": "Barrière de vapeur",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL L'Armure de cette carte est diminuée de 1 pour le combat."
   },
   "Electrodynamics": {
-    "NAME": "Electrodynamics",
-    "DESCRIPTION": "Lightning now hits ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
+    "NAME": "Électrodynamique",
+    "DESCRIPTION": "Les Orbes Kérauniques frappent TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "Les Orbes Kérauniques frappent TOUS les ennemis. S'il n'y a qu'un ennemi, ils le frappent deux fois."
+  },
+  "Core Surge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
   }
 }

@@ -108,7 +108,7 @@
     ]
   },
   "Burst": {
-    "NAME": "Los geht's!",
+    "NAME": "Sprint",
     "DESCRIPTIONS": [
       "In diesem Zug spielst du deine nächste #yFertigkeit zweimal aus.",
       "In diesem Zug spielst du deine nächsten ",
@@ -914,6 +914,21 @@
     "DESCRIPTIONS": [
       "Verliere am Ende deines Zuges #b",
       " Geschicklichkeit."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
     ]
   }
 }
