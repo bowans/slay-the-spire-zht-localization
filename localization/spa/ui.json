@@ -326,7 +326,8 @@
       "Bloqueado",
       "PV Máximo +",
       "¡Aturdido!",
-      "¡Interrumpido!"
+      "¡Interrumpido!",
+      "Relics"
     ]
   },
   "TopPanel": {
@@ -718,7 +719,8 @@
       "¿Que es la Beta Abierta?",
       "¡Slay the Spire aún está en desarrollo activo! NL Muchas características, cartas y enemigos aún están experimentando cambios. NL NL Si encuentras problemas o tienes alguna sugerencia, por favor haznoslo saber en nuestra página #bDiscusiónes de #bSteam. NL NL Ya has leído suficiente, tienes una torre que escalar!",
       "¡Slay the Spire aún está en desarrollo activo! NL Por lo tanto, estas jugando la versión Beta del juego. NL NL Por favor déjanos saber de cualquier problema que tengas mientras juegas, pero no te sorprendas si ves algun arte provisional para contenidos futuros. NL NL Suficiente lectura, tienes una torre que escalar!",
-      "Haz click en cualquier lugar para Comenzar"
+      "Haz click en cualquier lugar para Comenzar",
+      "Continue"
     ]
   },
   "MainMenuScreen": {
@@ -726,7 +728,8 @@
       "#yConstruir: ",
       "Embarcar",
       "Regresar",
-      "haz click para editar"
+      "haz click para editar",
+      "to edit"
     ]
   },
   "MenuButton": {
@@ -750,7 +753,8 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "haz clic para salir"
+      "haz clic para salir",
+      "to exit"
     ]
   },
   "PatchNotesScreen": {
@@ -1077,7 +1081,8 @@
       "Escoge Carta #7",
       "Escoge Carta #8",
       "Escoge Carta #9",
-      "Escoge Carta #10"
+      "Escoge Carta #10",
+      "Drop Card"
     ]
   },
   "InputKeyNames": {

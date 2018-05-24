@@ -496,7 +496,8 @@
       "Qu'est-ce qu'une bêta ouverte ?",
       "Slay the Spire est toujours en cours de développement ! NL Un grand nombre de fonctionnalités, cartes et ennemis sont amenés à changer. NL NL Si vous rencontrez des problèmes ou souhaitez nous faire part de votre avis, n'hésitez pas à nous laisser un message sur la #bpage de discussion #bSteam. NL NL Assez de lecture, une tour vous attend !",
       "Slay the Spire est toujours en cours de développement ! NL De plus, vous êtes sur la version bêta du jeu. NL NL Veuillez nous faire part des problèmes que vous rencontrez en jouant, mais ne soyez pas trop surpris par l'intrusion de quelques variables dans le contenu à venir. NL NL Assez de lecture, une tour vous attend !",
-      "Cliquez n'importe où pour Commencer"
+      "Cliquez n'importe où pour Commencer",
+      "Continue"
     ]
   },
   "MainMenuScreen": {
@@ -504,7 +505,8 @@
       "#yVersion : ",
       "Commencer",
       "Retour",
-      "cliquer pour modifier"
+      "cliquer pour modifier",
+      "to edit"
     ]
   },
   "MenuButton": {
@@ -792,7 +794,8 @@
       "Bloqué",
       "PV Max +",
       "Étourdi !",
-      "Interruption !"
+      "Interruption !",
+      "Relics"
     ]
   },
   "LeaderboardsScreen": {
@@ -923,7 +926,8 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "Cliquez à nouveau pour revenir à l'écran titre"
+      "Cliquez à nouveau pour revenir à l'écran titre",
+      "to exit"
     ]
   },
   "TwitchVoter": {
@@ -1084,7 +1088,8 @@
       "Sélectionner la carte n°7",
       "Sélectionner la carte n°8",
       "Sélectionner la carte n°9",
-      "Sélectionner la carte n°10"
+      "Sélectionner la carte n°10",
+      "Drop Card"
     ]
   },
   "CacheAction": {

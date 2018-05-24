@@ -21,7 +21,8 @@
       "Bloccato",
       "PV Massimi +",
       "Stordito!",
-      "Interrotto!"
+      "Interrotto!",
+      "Relics"
     ]
   },
   "AbstractDungeon": {
@@ -296,7 +297,8 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "Fai Click di nuovo per uscire."
+      "Fai Click di nuovo per uscire.",
+      "to exit"
     ]
   },
   "DailyScreen": {
@@ -477,7 +479,8 @@
       "Cos'è una Open Beta?",
       "Slay the Spire è ancora in fase di sviluppo! NL Molte funzionalità, carte, e nemici sono ancora in fase di cambiamento. NL NL Se noti dei problemi o hai qualsiasi commento, faccelo sapere nella nostra pagina di #bDiscussione su #bSteam. NL NL Ora basta leggere: hai una Guglia da scalare!",
       "Slay the Spire è ancora in fase di sviluppo! NL Oltre a questo, stai giocando alla versione Beta del gioco. NL NL Per favore facci sapere i problemi che noti mentre giochi, ma non sorprenderti troppo delle illustrazioni provvisorie per i contenuti in arrivo. NL NL Ora basta leggere: hai una Guglia da scalare!",
-      "Fai Click per iniziare!"
+      "Fai Click per iniziare!",
+      "Continue"
     ]
   },
   "End Turn Button": {
@@ -548,7 +551,7 @@
   },
   "ImmolateAction": {
     "TEXT": [
-      "Esaurisci"
+      "Esaurire"
     ]
   },
   "InputKeyNames": {
@@ -586,7 +589,8 @@
       "Scegli Carta #7",
       "Scegli Carta #8",
       "Scegli Carta #9",
-      "Scegli Carta #10"
+      "Scegli Carta #10",
+      "Drop Card"
     ]
   },
   "LanguageDropdown": {
@@ -682,7 +686,8 @@
       "#yVersione: ",
       "Incamminati",
       "Indietro",
-      "clicca per modificare"
+      "clicca per modificare",
+      "to edit"
     ]
   },
   "MasterDeckViewScreen": {
@@ -825,7 +830,7 @@
   },
   "RecycleAction": {
     "TEXT": [
-      "Esaurisci"
+      "Esaurire"
     ]
   },
   "RelicViewScreen": {
@@ -925,7 +930,7 @@
       "#bRimosse %s",
       "#bScavi",
       "#bSollevamenti %s/%s",
-      "#yPurchased:"
+      "#yComprate:"
     ]
   },
   "RunHistoryScreen": {

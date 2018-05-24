@@ -916,19 +916,19 @@
       " turni."
     ]
   },
-  "Shifting": {
-    "NAME": "Shifting",
+  "Fading": {
+    "NAME": "Flebile",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
+      "Muore in #b",
+      " turni.",
+      "Muore questo turno."
     ]
   },
-  "Fading": {
-    "NAME": "Fading",
+  "Shifting": {
+    "NAME": "Instabile",
     "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
+      "Ogni volta che ",
+      " prende danno, perde altrettanta #yForza fino a fine turno."
     ]
   }
 }

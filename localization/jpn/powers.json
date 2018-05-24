@@ -919,16 +919,16 @@
   "Shifting": {
     "NAME": "Shifting",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
+      "",
+      " がダメージを受けるたび、 その値に等しい #y筋力 をターン終了時まで失う。"
     ]
   },
   "Fading": {
     "NAME": "Fading",
     "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
+      "#b",
+      " ターン経過後、死亡する。",
+      "このターン、死亡する。"
     ]
   }
 }

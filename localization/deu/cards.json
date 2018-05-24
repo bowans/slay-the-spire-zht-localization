@@ -214,7 +214,7 @@
   },
   "Capacitor": {
     "NAME": "Kapazität",
-    "DESCRIPTION": "Erhalte !M! Orb-Slot.",
+    "DESCRIPTION": "Erhalte !M! Orb-Slots.",
     "UPGRADE_DESCRIPTION": "Erhalte !M! Orb-Slots."
   },
   "Carnage": {
@@ -246,9 +246,9 @@
   },
   "Clash": {
     "NAME": "Zusammenstoß",
-    "DESCRIPTION": "Nur spielbar, wenn du nur Angriffskarten auf der Hand hast. NL Füge !D! Schaden zu.",
+    "DESCRIPTION": "Nur spielbar, wenn alle Handkarten Angriffe sind. NL Füge !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
-      "Es befinden sich Nicht-Angriffskarten in meiner Hand."
+      "Ich habe andere Karten als Angriffe auf der Hand."
     ]
   },
   "Cleave": {
@@ -276,6 +276,10 @@
     "NAME": "Verbrennen",
     "DESCRIPTION": "Verliere am Ende deines Zuges 1 TP und füge ALLEN Gegnern !M! Schaden zu."
   },
+  "Compile Driver": {
+    "NAME": "Kompilieren",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karte pro unterschiedlichem Orb."
+  },
   "Concentrate": {
     "NAME": "Konzentrieren",
     "DESCRIPTION": "Wirf !M! Karten ab. NL Erhalte [G] [G]."
@@ -292,6 +296,10 @@
     "NAME": "Kühler Kopf",
     "DESCRIPTION": "Erschaffe 1 Frost. NL Ziehe !M! Karte.",
     "UPGRADE_DESCRIPTION": "Erschaffe 1 Frost. NL Ziehe !M! Karten."
+  },
+  "Core Surge": {
+    "NAME": "Erhitzter Kern",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte !M! Artefakt. NL Erschöpft."
   },
   "Corpse Explosion": {
     "NAME": "Leichenexplosion",
@@ -500,7 +508,7 @@
   },
   "Feed": {
     "NAME": "Verschlingen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Tötet dies einen Gegner, der kein Untertan ist, erhalte dauerhaft !M! max. TP. Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner außer Untertanen, erhöhe deine max. TP um !M!. Erschöpft."
   },
   "Feel No Pain": {
     "NAME": "Schmerzfrei",
@@ -529,7 +537,7 @@
   },
   "Fission": {
     "NAME": "Spaltung",
-    "DESCRIPTION": "Entlade alle deine Orbs. Erhalte einen Orb-Slot für jeden entladenen Orb."
+    "DESCRIPTION": "Entlade alle deine Orbs. Erhalte einen Orb-Slot für jeden entladenen Orb. NL Erschöpft."
   },
   "Flame Barrier": {
     "NAME": "Flammenwall",
@@ -574,7 +582,7 @@
   },
   "Gash": {
     "NAME": "Kralle",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Alle Kralle-Karten fügen diesen Kampf NL !M! Schaden mehr zu."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Alle Kralle-Karten fügen in diesem Kampf NL !M! Schaden mehr zu."
   },
   "Genetic Algorithm": {
     "NAME": "Gen-Algorithmus",
@@ -757,7 +765,7 @@
   "Masterful Stab": {
     "NAME": "Meisterstich",
     "DESCRIPTION": "Nur spielbar, wenn du keine anderen Karten auf deiner Hand hast. NL Füge !D! Schaden zu.",
-    "UPGRADE_DESCRIPTION": "Dies muss meine NL einzige Karte sein."
+    "UPGRADE_DESCRIPTION": "Das muss meine NL einzige Karte sein."
   },
   "Melter": {
     "NAME": "Schmelzen",
@@ -1276,9 +1284,5 @@
   "Zap": {
     "NAME": "Stromschlag",
     "DESCRIPTION": "Erschaffe !M! Blitz."
-  },
-  "Core Surge": {
-    "NAME": "Core Surge",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
   }
 }

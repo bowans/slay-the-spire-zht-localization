@@ -285,7 +285,8 @@
       "Blocked",
       "Max HP +",
       "มึนงง!",
-      "ขัดจังหวะ!"
+      "ขัดจังหวะ!",
+      "Relics"
     ]
   },
   "TopPanel": {
@@ -657,7 +658,8 @@
       "What's an Open Beta?",
       "Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
       "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
-      "กดตรงไหนก็ได้เพื่อเริ่มเกม"
+      "กดตรงไหนก็ได้เพื่อเริ่มเกม",
+      "Continue"
     ]
   },
   "MainMenuScreen": {
@@ -665,7 +667,8 @@
       "#yBuild: ",
       "Embark",
       "ย้อนกลับ",
-      "click to edit"
+      "click to edit",
+      "to edit"
     ]
   },
   "MenuButton": {
@@ -689,7 +692,8 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "กดอีกครั้งเพื่อออก"
+      "กดอีกครั้งเพื่อออก",
+      "to exit"
     ]
   },
   "PatchNotesScreen": {
@@ -1077,7 +1081,8 @@
       "Select Card #7",
       "Select Card #8",
       "Select Card #9",
-      "Select Card #10"
+      "Select Card #10",
+      "Drop Card"
     ]
   },
   "InputKeyNames": {

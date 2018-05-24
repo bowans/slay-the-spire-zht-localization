@@ -21,7 +21,8 @@
       "Blockiert",
       "Max TP +",
       "Gestunnt!",
-      "Unterbrochen!"
+      "Unterbrochen!",
+      "Relics"
     ]
   },
   "AbstractDungeon": {
@@ -244,7 +245,7 @@
       "Die Stille",
       "Das Defekte",
       "Zurück",
-      "Aufstiegsmodus",
+      "Aufstieg",
       "Level ",
       "Aufstiegsmodus",
       "Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)",
@@ -296,7 +297,8 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "Erneut klicken zum Verlassen"
+      "Erneut klicken zum Verlassen",
+      "to exit"
     ]
   },
   "DailyScreen": {
@@ -477,7 +479,8 @@
       "Was ist eine Open Beta?",
       "Slay the Spire befindet sich noch in der aktiven Entwicklung! Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-Diskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
       "Slay the Spire befindet sich noch in der aktiven Entwicklung! Noch dazu spielst du die Beta-Version des Spiels. NL Lass uns bitte von jeglichen Problemen wissen, die während des Spielens auftreten, aber sei nicht von Platzhaltern für kommende Inhalte überrascht. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
-      "Klicke irgendwohin, um zu starten"
+      "Klicke zum Starten irgendwohin",
+      "Continue"
     ]
   },
   "End Turn Button": {
@@ -586,7 +589,8 @@
       "Wähle Karte Nr. 7",
       "Wähle Karte Nr. 8",
       "Wähle Karte Nr. 9",
-      "Wähle Karte Nr. 10"
+      "Wähle Karte Nr. 10",
+      "Drop Card"
     ]
   },
   "LanguageDropdown": {
@@ -682,7 +686,8 @@
       "#yBuild: ",
       "Beginnen",
       "Zurückkehren",
-      "Klicke zum Bearbeiten"
+      "Klicke zum Bearbeiten",
+      "to edit"
     ]
   },
   "MasterDeckViewScreen": {
@@ -925,7 +930,7 @@
       "#bEntfernt %s",
       "#bGegraben",
       "#bTrainiert %s/%s",
-      "#yPurchased:"
+      "#yGekauft:"
     ]
   },
   "RunHistoryScreen": {

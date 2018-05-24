@@ -894,7 +894,7 @@
   },
   "Fission": {
     "NAME": "核分裂",
-    "DESCRIPTION": "すべてのオーブを 喚起 する。 喚起 したオーブ1つにつき、 オーブスロット を1つ得る。"
+    "DESCRIPTION": "すべてのオーブを 喚起 する。 喚起 したオーブ1つにつき、 オーブスロット を1つ得る。 NL 廃棄 。"
   },
   "Storm": {
     "NAME": "ストーム",
@@ -1278,7 +1278,11 @@
     "UPGRADE_DESCRIPTION": "ライトニング がすべての敵を攻撃するようになる。 NL 敵が1体だけの場合、 ライトニング は2回攻撃する。"
   },
   "Core Surge": {
-    "NAME": "Core Surge",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
+    "NAME": "コアサージ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL アーティファクト !M! を得る。 NL 廃棄 。"
+  },
+  "Compile Driver": {
+    "NAME": "コンパイル・ドライバ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 生成しているオーブ1種につき、 !M! 枚のカードを引く。"
   }
 }

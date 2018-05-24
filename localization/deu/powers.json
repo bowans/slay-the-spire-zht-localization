@@ -339,6 +339,14 @@
       " Extrakarten."
     ]
   },
+  "Fading": {
+    "NAME": "Verblassen",
+    "DESCRIPTIONS": [
+      "Stirbt in #b",
+      " Zügen.",
+      "Stirbt diesen Zug."
+    ]
+  },
   "Feel No Pain": {
     "NAME": "Schmerzlos",
     "DESCRIPTIONS": [
@@ -766,6 +774,13 @@
       " Schaden."
     ]
   },
+  "Shifting": {
+    "NAME": "Veränderlich",
+    "DESCRIPTIONS": [
+      "Immer wenn ",
+      " Schaden erleidet, verliert er für diesen Zug genauso viel #yStärke."
+    ]
+  },
   "Shriek From Beyond": {
     "NAME": "Heulen aus dem Jenseits",
     "DESCRIPTIONS": [
@@ -914,21 +929,6 @@
     "DESCRIPTIONS": [
       "Verliere am Ende deines Zuges #b",
       " Geschicklichkeit."
-    ]
-  },
-  "Shifting": {
-    "NAME": "Shifting",
-    "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
-    ]
-  },
-  "Fading": {
-    "NAME": "Fading",
-    "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
     ]
   }
 }

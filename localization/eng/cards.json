@@ -26,8 +26,8 @@
     "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
   },
   "All For One": {
-    "NAME": "All For One",
-    "DESCRIPTION": "Deal !D! damage. Put all Cost 0 cards from your discard pile into your hand."
+    "NAME": "All for One",
+    "DESCRIPTION": "Deal !D! damage. Put all cost 0 cards from your discard pile into your hand."
   },
   "All Out Attack": {
     "NAME": "All-Out Attack",
@@ -214,7 +214,7 @@
   },
   "Capacitor": {
     "NAME": "Capacitor",
-    "DESCRIPTION": "Gain !M! Orb slot.",
+    "DESCRIPTION": "Gain !M! Orb slots.",
     "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
   },
   "Carnage": {
@@ -529,7 +529,7 @@
   },
   "Fission": {
     "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Gain an Orb slot for each Orb Evoked."
+    "DESCRIPTION": "Evoke all of your Orbs. Gain an Orb slot for each Orb Evoked. NL Exhaust."
   },
   "Flame Barrier": {
     "NAME": "Flame Barrier",
@@ -1280,5 +1280,9 @@
   "Core Surge": {
     "NAME": "Core Surge",
     "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
-  }
+  },
+  "Compile Driver": {
+    "NAME": "Compile Driver",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
+  } 
 }

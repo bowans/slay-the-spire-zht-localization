@@ -529,7 +529,7 @@
   },
   "Fission": {
     "NAME": "裂变",
-    "DESCRIPTION": "激发 所有充能球。 获得相同数量的充能球栏位。"
+    "DESCRIPTION": "激发 所有充能球。 获得相同数量的充能球栏位。 NL 消耗 。"
   },
   "Flame Barrier": {
     "NAME": "火焰屏障",
@@ -1280,5 +1280,9 @@
   "Core Surge": {
     "NAME": "核心电涌",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !M! 层 人工制品 。 NL 消耗 。"
+  },
+  "Compile Driver": {
+    "NAME": "编译打桩机",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一种不同的 充能球 ，抽 !M! 张牌。"
   }
 }
