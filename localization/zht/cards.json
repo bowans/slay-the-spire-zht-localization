@@ -529,7 +529,7 @@
   },
   "Fission": {
     "NAME": "裂變",
-    "DESCRIPTION": "激發 所有充能球。 獲得相同數量的充能球欄位。"
+    "DESCRIPTION": "激發 所有充能球。 獲得相同數量的充能球欄位。 NL 消耗 。"
   },
   "Flame Barrier": {
     "NAME": "火焰護盾",
@@ -911,7 +911,7 @@
   },
   "Rage": {
     "NAME": "狂怒",
-    "DESCRIPTION": "你在這個回合內每打出一張攻擊牌，就獲得 !M! 格擋 。"
+    "DESCRIPTION": "打出此牌後，你在這個回合內每打出一張攻擊牌，獲得 !M! 格擋 。"
   },
   "Rainbow": {
     "NAME": "彩虹",
@@ -1101,7 +1101,7 @@
   "Storm of Steel": {
     "NAME": "鋼鐵風暴",
     "DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張 小刀 。",
-    "UPGRADE_DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張升級後的 小刀 。"
+    "UPGRADE_DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張升過級的 小刀 。"
   },
   "Streamline": {
     "NAME": "精簡改良",
@@ -1267,7 +1267,7 @@
   },
   "Wraith Form v2": {
     "NAME": "幽魂形態",
-    "DESCRIPTION": "獲得 !M! 層 無實體 。 NL 在你的回合結束時，失去1點 敏捷 。"
+    "DESCRIPTION": "獲得 !M! 層 無實體 。 NL 在每回合結束時失去1點 敏捷 。"
   },
   "Writhe": {
     "NAME": "苦惱",
@@ -1282,7 +1282,7 @@
     "DESCRIPTION": "造成 !D! 點傷害。 NL 獲得 !M! 層 人工製品 。 NL 消耗 。"
   },
   "Compile Driver": {
-    "NAME": "Compile Driver",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
+    "NAME": "編譯打樁機",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 你每有一種不同的 充能球 ，抽 !M! 張牌。"
   }
 }

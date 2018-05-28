@@ -1,5 +1,31 @@
 Updates for Translators!
 
+05/28/2018:
+	achievements.json (no change, just issue reported)
+    	VERIFY: "Complete Ascension Level 10.", <- In case it is translated to something like reach Ascension level 10.
+    powers.json
+    	"Creative AI"
+    		"random Power cards into your hand."
+    events.json
+    	"Sensory Stone"
+    		"#b~UNKNOWN.~ NL NL Not yet implemented." ->
+			"#b~CONFUSION.~ NL NL #y[OBJECTIVE] #gBALANCE #gmust #gbe #gENFORCED NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[WARNING] #rLarge #robject #rapproaching NL NL ~\"I...~ ~..am~ ~....Neow..\"~"
+    relics.json
+		"Bronze Scales"
+			"Whenever you take damage, deal #b", ->
+			"At the start of each combat, gain #b",
+			" damage back." ->
+			" #yThorns."
+
+----------------------------------
+
+05/24/2018v2:
+ui.json
+	"InputSettingsScreen"
+		"Drop Card" -> "Release Card"
+
+----------------------------------
+
 05/24/2018:
 tutorials.json
 	"Option Tip" (OSX -> macOS)
@@ -27,6 +53,7 @@ ui.json
 		"to edit" (NOTE: There will be a button image on the left of this text)
 
 ----------------------------------
+
 05/23/2018:
 cards.json
 	"Capacitor"

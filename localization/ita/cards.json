@@ -88,7 +88,7 @@
     "DESCRIPTION": "Infliggi !D! danni. NL Se il nemico è Avvelenato, infliggi !D! danni di nuovo."
   },
   "Barrage": {
-    "NAME": "Raffica",
+    "NAME": "Fuoco di Sbarramento",
     "DESCRIPTION": "Infliggi !D! danni per ogni Globo Creato."
   },
   "Barricade": {
@@ -529,7 +529,7 @@
   },
   "Fission": {
     "NAME": "Fissione",
-    "DESCRIPTION": "Evoca tutti i tuoi Globi. Ottieni uno spazio per Globi per ogni Globo Evocato."
+    "DESCRIPTION": "Evoca tutti i tuoi Globi. Ottieni uno spazio per Globi per ogni Globo Evocato. NL Esaurisci."
   },
   "Flame Barrier": {
     "NAME": "Barriera di Fiamme",
@@ -1274,7 +1274,7 @@
     "DESCRIPTION": "Innata. NL Ingiocabile."
   },
   "Zap": {
-    "NAME": "Zap",
+    "NAME": "Scossa",
     "DESCRIPTION": "Crei !M! Fulmine."
   },
   "Core Surge": {
@@ -1282,7 +1282,7 @@
     "DESCRIPTION": "Infliggi !D! danni. NL Ottieni !M! Artefatto. NL Esaurisci."
   },
   "Compile Driver": {
-    "NAME": "Compile Driver",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
+    "NAME": "Nuovi Driver",
+    "DESCRIPTION": "Infliggi !D! danni. NL Pesca !M! carta per ogni tipo di Globo in campo."
   }
 }

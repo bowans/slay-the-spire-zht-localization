@@ -47,9 +47,9 @@
   "Attack Burn": {
     "NAME": "Angriffsbrand",
     "DESCRIPTIONS": [
-      "Immer wenn du einen #yAngriff ausspielst, #yErschöpft er – für #b",
+      "Immer wenn du einen #yAngriff ausspielst, #yerschöpft er – für #b",
       " Zug.",
-      "Immer wenn du einen #yAngriff ausspielst, #yErschöpft er – für die nächsten #b",
+      "Immer wenn du einen #yAngriff ausspielst, #yerschöpft er – für die nächsten #b",
       " Züge."
     ]
   },
@@ -139,13 +139,13 @@
   "Conserve": {
     "NAME": "Speichern",
     "DESCRIPTIONS": [
-      "#yEnergie wird in diesem Zug bewahrt.",
+      "#yEnergie wird in diesem Zug aufbewahrt.",
       "#yEnergie wird für die nächsten #b",
-      " Züge bewahrt."
+      " Züge aufbewahrt."
     ]
   },
   "Constricted": {
-    "NAME": "Eingeengt",
+    "NAME": "Umwickelt",
     "DESCRIPTIONS": [
       "Am Ende deines Zuges erleidest du #b",
       " Schaden."
@@ -154,15 +154,16 @@
   "Corruption": {
     "NAME": "Korruption",
     "DESCRIPTIONS": [
-      "Fertigkeiten kosten #b0. Immer wenn du eine #yFertigkeit ausspielst, #yErschöpft sie.",
-      "Immer wenn du eine #yFertigkeit ausspielst, #yErschöpft sie."
+      "Fertigkeiten kosten #b0. Immer wenn du eine #yFertigkeit ausspielst, #yerschöpft sie.",
+      "Immer wenn du eine #yFertigkeit ausspielst, #yerschöpft sie."
     ]
   },
   "Creative AI": {
     "NAME": "Kreative KI",
     "DESCRIPTIONS": [
       "Zu Beginn deines Zuges erhältst du #b",
-      " zufällige Macht auf die Hand."
+      " zufällige Macht auf die Hand.",
+      " random Power cards into your hand."
     ]
   },
   "Curiosity": {
@@ -191,8 +192,8 @@
   "Dark Embrace": {
     "NAME": "Dunkle Umarmung",
     "DESCRIPTIONS": [
-      "Immer wenn eine Karte #yErschöpft, ziehe #b1 Karte.",
-      "Immer wenn eine Karte #yErschöpft, ziehe #b",
+      "Immer wenn eine Karte #yerschöpft, ziehe #b1 Karte.",
+      "Immer wenn eine Karte #yerschöpft, ziehe #b",
       " Karten."
     ]
   },
@@ -264,8 +265,8 @@
     "NAME": "Ziehreduzierung",
     "DESCRIPTIONS": [
       "Ziehe im nächsten Zug #b1 Karte weniger.",
-      "Ziehe #b1 Karte weniger – für #b",
-      " Züge."
+      "Ziehe #b1 Karte weniger (für #b",
+      " Züge)."
     ]
   },
   "Echo Form": {
@@ -350,7 +351,7 @@
   "Feel No Pain": {
     "NAME": "Schmerzlos",
     "DESCRIPTIONS": [
-      "Immer wenn eine Karte #yErschöpft, erhältst du #b",
+      "Immer wenn eine Karte #yerschöpft, erhältst du #b",
       " #yBlock."
     ]
   },
@@ -392,9 +393,9 @@
   "Frail": {
     "NAME": "Gebrechlich",
     "DESCRIPTIONS": [
-      "Du erhältst #b25% weniger #yBlock von Karten – für #b",
-      " Zug.",
-      " Züge."
+      "Du erhältst #b25% weniger #yBlock von Karten (für #b",
+      " Zug).",
+      " Züge)."
     ]
   },
   "Gambit": {
@@ -622,8 +623,8 @@
   "Phantasmal": {
     "NAME": "Phantasmal",
     "DESCRIPTIONS": [
-      "Du verursachst #yDoppelten #ySchaden im nächsten Zug.",
-      "Du verursachst #yDoppelten #ySchaden für die nächsten ",
+      "Du verursachst #ydoppelten #ySchaden im nächsten Zug.",
+      "Du verursachst #ydoppelten #ySchaden für die nächsten ",
       " Züge."
     ]
   },
@@ -721,8 +722,8 @@
   "Retain Hand": {
     "NAME": "Hand behalten",
     "DESCRIPTIONS": [
-      "Am Ende deines Zuges wirfst du deine Hand nicht ab – für #b",
-      " Züge.",
+      "Am Ende deines Zuges wirfst du deine Hand nicht ab (für #b",
+      " Züge).",
       "Am Ende deines Zuges wirfst du deine Hand nicht ab."
     ]
   },
@@ -790,9 +791,9 @@
   "Skill Burn": {
     "NAME": "Fertigkeitsbrand",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #yFertigkeit ausspielst, #yErschöpft sie – für #b",
+      "Immer wenn du eine #yFertigkeit ausspielst, #yerschöpft sie – für #b",
       " Zug.",
-      "Immer wenn du eine #yFertigkeit ausspielst, #yErschöpft sie – für die nächsten #b",
+      "Immer wenn du eine #yFertigkeit ausspielst, #yerschöpft sie – für die nächsten #b",
       " Züge."
     ]
   },
@@ -815,15 +816,15 @@
   "Spore Cloud": {
     "NAME": "Sporenwolke",
     "DESCRIPTIONS": [
-      "Wendet beim Tod #yVerwundbar für #b",
-      " Züge auf dich an."
+      "Wendet beim Tod für #b",
+      " Züge #yVerwundbar auf dich an."
     ]
   },
   "Stasis": {
     "NAME": "Stillstand",
     "DESCRIPTIONS": [
-      "Beim Tod wird ",
-      " auf deine Hand zurückgegeben."
+      "Beim Tod bekommst du ",
+      " auf deine Hand zurück."
     ]
   },
   "StaticDischarge": {
@@ -910,18 +911,18 @@
     "NAME": "Verwundbar",
     "DESCRIPTIONS": [
       "Erleide #b",
-      "% mehr Schaden von #yAngriffen – für #b",
-      " Zug.",
-      " Züge."
+      "% mehr Schaden von #yAngriffen (für #b",
+      " Zug).",
+      " Züge)."
     ]
   },
   "Weakened": {
     "NAME": "Schwach",
     "DESCRIPTIONS": [
       "#yAngriffe verursachen #b",
-      "% weniger Schaden für #b",
-      " Zug.",
-      " Züge."
+      "% weniger Schaden (für #b",
+      " Zug).",
+      " Züge)."
     ]
   },
   "Wraith Form v2": {

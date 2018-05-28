@@ -1,7 +1,7 @@
 {
   "AbandonRunButton": {
     "TEXT": [
-      "Durchlauf abbrechen"
+      "Run abbrechen"
     ]
   },
   "AbstractCard": {
@@ -19,10 +19,10 @@
     "TEXT": [
       "Tot",
       "Blockiert",
-      "Max TP +",
+      "Max. TP +",
       "Gestunnt!",
       "Unterbrochen!",
-      "Relics"
+      "Relikte"
     ]
   },
   "AbstractDungeon": {
@@ -118,7 +118,7 @@
       "Tränke sind schwächer.",
       "Verbesserte Karten erscheinen seltener.",
       "Arme Bosse.",
-      "Weniger max TP.",
+      "Weniger max. TP.",
       "(Höchstes Level) Ungünstige Ereignisse."
     ]
   },
@@ -218,7 +218,7 @@
     "TEXT": [
       "Überspringen",
       "Wähle eine Karte",
-      "+2 Max TP",
+      "+2 max. TP",
       "JETZT ABSTIMMEN: ",
       "s übrig."
     ]
@@ -226,9 +226,9 @@
   "CharacterOption": {
     "TEXT": [
       "Gesperrt",
-      "Dieser Charakter wird durch das Abschließen eines einzigen Durchlaufs freigeschaltet.",
+      "Dieser Charakter wird durch das Abschließen eines einzigen Runs freigeschaltet.",
       "Dieser Charakter ist während Early Access noch nicht erhältlich.",
-      "Dieser Charakter wird durch das Abschließen eines Durchlaufs mit der Stillen freigeschaltet.",
+      "Dieser Charakter wird durch das Abschließen eines Runs mit der Stillen freigeschaltet.",
       "TP: ",
       "Gold: ",
       " Verbleibende Freischaltungen",
@@ -251,7 +251,7 @@
       "Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)",
       "Seed ",
       "Zufälliger Seed",
-      "Mit einem Startseed wird bestimmt, was in diesem Durchlauf zufällig auftaucht.",
+      "Mit einem Startseed wird bestimmt, was in diesem Run zufällig auftaucht.",
       "Seed einstellen"
     ]
   },
@@ -298,7 +298,7 @@
   "CreditsScreen": {
     "TEXT": [
       "Erneut klicken zum Verlassen",
-      "to exit"
+      "zum Verlassen"
     ]
   },
   "DailyScreen": {
@@ -480,7 +480,7 @@
       "Slay the Spire befindet sich noch in der aktiven Entwicklung! Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-Diskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
       "Slay the Spire befindet sich noch in der aktiven Entwicklung! Noch dazu spielst du die Beta-Version des Spiels. NL Lass uns bitte von jeglichen Problemen wissen, die während des Spielens auftreten, aber sei nicht von Platzhaltern für kommende Inhalte überrascht. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
       "Klicke zum Starten irgendwohin",
-      "Continue"
+      "Weiter"
     ]
   },
   "End Turn Button": {
@@ -687,12 +687,12 @@
       "Beginnen",
       "Zurückkehren",
       "Klicke zum Bearbeiten",
-      "to edit"
+      "Bearbeiten"
     ]
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "Du beginnst jeden Kampf mit all diesen Karten hier.",
+      "Das sind die Karten, mit denen du jeden Kampf beginnst.",
       "Zurückkehren"
     ]
   },
@@ -708,7 +708,7 @@
       "",
       "Verlassen",
       "Patchnotizen",
-      "Durchlauf abbrechen",
+      "Run abbrechen",
       "",
       "Einstellungen",
       "",
@@ -984,8 +984,8 @@
     "TEXT": [
       "Bist du sicher?",
       "Dein Fortschritt wird automatisch gespeichert.",
-      "Ein abgebrochener Durchlauf wird als verloren gezählt.",
-      "ACHTUNG:\nFortschritt NICHT gespeichert.\n\nErreiche die nächste Ebene, um den aktuellen Durchlauf zu speichern.",
+      "Ein abgebrochener Run wird als verloren gezählt.",
+      "ACHTUNG:\nFortschritt NICHT gespeichert.\n\nErreiche die nächste Ebene, um den aktuellen Run zu speichern.",
       "Zurückkehren",
       "Fortschritt für Tägliche Herausforderungen wird NICHT gespeichert."
     ]
@@ -1077,7 +1077,7 @@
     "TEXT": [
       ". Ebene",
       " - Aufstieg ",
-      " (Max. Level)"
+      " (höchstes Level)"
     ]
   },
   "TreasureRoom": {
