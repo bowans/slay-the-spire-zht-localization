@@ -442,8 +442,8 @@
   },
   "Electrodynamics": {
     "NAME": "电动力学",
-    "DESCRIPTION": "闪电 充能球将攻击所有敌人。",
-    "UPGRADE_DESCRIPTION": "闪电 充能球将攻击所有敌人。 NL 如果只有一名敌人， 闪电 充能球将攻击两次。"
+    "DESCRIPTION": "闪电 充能球将多 激发 1 次。",
+    "UPGRADE_DESCRIPTION": "闪电 充能球将多 激发 !M! 次。"
   },
   "Endless Agony": {
     "NAME": "无尽苦痛",
@@ -924,7 +924,7 @@
   },
   "Reaper": {
     "NAME": "死亡收割",
-    "DESCRIPTION": "对于所有敌人造成 !D! 点伤害。未被 格挡 的伤害将回复你的生命。 NL 消耗 。"
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。未被 格挡 的伤害将回复你的生命。 NL 消耗 。"
   },
   "Reboot": {
     "NAME": "重启",

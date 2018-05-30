@@ -139,8 +139,8 @@
     "NAME": "Bronzeschuppen",
     "FLAVOR": "Die scharfen Schuppen des Wächters. Platzieren sich neu, um den Benutzer zu schützen. ",
     "DESCRIPTIONS": [
-      "Immer wenn dich ein Gegner angreift, nimmt dieser #b",
-      " Schaden."
+      "Erhalte zu Beginn jedes Kampfes #b",
+      " #yStacheln."
     ]
   },
   "Burning Blood": {
@@ -503,7 +503,7 @@
     "NAME": "Zeichen der Qual",
     "FLAVOR": "Dieses Brandzeichen erhielten Krieger der nördlichen Stämme, wenn sie im Kampf die Qual bezwangen.",
     "DESCRIPTIONS": [
-      "Erhalte in jedem Zug [R] . NL Du beginnst Kämpfe mit #b2 #rWunden in deinem Nachziehstapel."
+      "Erhalte in jedem Zug [R] . NL Du beginnst Kämpfe mit #b2 #rWunden im Nachziehstapel."
     ]
   },
   "Matryoshka": {
@@ -1141,7 +1141,7 @@
   },
   "War Paint": {
     "NAME": "Kriegsbemalung",
-    "FLAVOR": "Eiserne nutzen diese Bemalung, um sich vor der Schlacht magische Kreise erstellen.",
+    "FLAVOR": "Eiserne nutzten so eine Bemalung, um vor der Schlacht magische Kreise zu erschaffen.",
     "DESCRIPTIONS": [
       "Beim Aufheben: #yVerbessere #b",
       " zufällige #yFertigkeiten."

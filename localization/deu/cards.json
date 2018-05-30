@@ -89,7 +89,7 @@
   },
   "Barrage": {
     "NAME": "Sperrfeuer",
-    "DESCRIPTION": "Füge für jeden erschaffenen Orb !D! Schaden zu."
+    "DESCRIPTION": "Füge pro erschaffenem Orb !D! Schaden zu."
   },
   "Barricade": {
     "NAME": "Barrikade",
@@ -125,7 +125,7 @@
   },
   "Blaster": {
     "NAME": "Blaster",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erhalte [B] für jeden erschaffenen Orb. NL Erschöpft."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erhalte [B] pro erschaffenem Orb. NL Erschöpft."
   },
   "Blind": {
     "NAME": "Blenden",
@@ -482,7 +482,7 @@
   },
   "Eviscerate": {
     "NAME": "Vernichten",
-    "DESCRIPTION": "Kostet 1 [G] weniger für jede in diesem Zug abgeworfene Karte. NL Füge dreimal NL !D! Schaden zu."
+    "DESCRIPTION": "Kostet 1 [G] weniger pro in diesem Zug abgeworfener Karte. NL Füge dreimal NL !D! Schaden zu."
   },
   "Evolve": {
     "NAME": "Entwickeln",
@@ -516,7 +516,7 @@
   },
   "Fiend Fire": {
     "NAME": "Teufelsfeuer",
-    "DESCRIPTION": "Erschöpfe deine Hand. Füge für jede erschöpfte Karte !D! Schaden zu. NL Erschöpft."
+    "DESCRIPTION": "Erschöpfe deine Hand. Füge pro erschöpfter Karte !D! Schaden zu. NL Erschöpft."
   },
   "Finesse": {
     "NAME": "Finesse",
@@ -524,7 +524,7 @@
   },
   "Finisher": {
     "NAME": "Vollstrecker",
-    "DESCRIPTION": "Füge für jeden in diesem Zug gespielten Angriff !D! Schaden zu.",
+    "DESCRIPTION": "Füge pro in diesem Zug gespieltem Angriff !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
       " Angriff gespielt.)",
@@ -533,11 +533,11 @@
   },
   "Fire Breathing": {
     "NAME": "Feueratem",
-    "DESCRIPTION": "Füge am Ende deines Zuges ALLEN Gegnern 1 Schaden für jeden in diesem Zug gespielten Angriff zu."
+    "DESCRIPTION": "Füge am Ende deines Zuges ALLEN Gegnern 1 Schaden pro in diesem Zug gespieltem Angriff zu."
   },
   "Fission": {
     "NAME": "Spaltung",
-    "DESCRIPTION": "Entlade alle deine Orbs. Erhalte einen Orb-Slot für jeden entladenen Orb. NL Erschöpft."
+    "DESCRIPTION": "Entlade alle deine Orbs. Erhalte einen Orb-Slot pro entladenen Orb. NL Erschöpft."
   },
   "Flame Barrier": {
     "NAME": "Flammenwall",
@@ -664,11 +664,11 @@
   },
   "Ice Wall": {
     "NAME": "Eiswall",
-    "DESCRIPTION": "Erhalte !B! Block. Erhalte +3 Block für jeden erschaffenen Frost.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. Erhalte +5 Block for jeden erschaffenen Frost."
+    "DESCRIPTION": "Erhalte !B! Block. Erhalte +3 Block pro erschaffenem Frost.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. Erhalte +5 Block pro erschaffenem Frost."
   },
   "Immolate": {
-    "NAME": "Opfer",
+    "NAME": "Opfern",
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erhalte ein Brennen auf den Abwurfstapel."
   },
   "Impervious": {
@@ -788,7 +788,7 @@
     ]
   },
   "Multi-Cast": {
-    "NAME": "Mehrfachladung",
+    "NAME": "Multi-Ladung",
     "DESCRIPTION": "Entlade deinen vordersten Orb X mal.",
     "UPGRADE_DESCRIPTION": "Entlade deinen vordersten Orb X+1 mal."
   },
@@ -1095,7 +1095,7 @@
   },
   "Steam": {
     "NAME": "Dampfwall",
-    "DESCRIPTION": "Erhalte !B! Block. Der Block dieser Karte wird für diesen Kampf um 1 verringert."
+    "DESCRIPTION": "Erhalte !B! Block. NL Der Block dieser Karte wird für diesen Kampf um 1 verringert."
   },
   "Steam Power": {
     "NAME": "Übertakten",
@@ -1179,7 +1179,7 @@
   },
   "Thunder Strike": {
     "NAME": "Donnerschlag",
-    "DESCRIPTION": "Füge für jeden in diesem Kampf erschaffenen Blitz einem zufälligen Gegner !D! Schaden zu.",
+    "DESCRIPTION": "Füge pro in diesem Kampf erschaffenem Blitz einem zufälligen Gegner !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
       " (Greift !M! Mal an.)"
     ]
