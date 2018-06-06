@@ -842,8 +842,8 @@
     "NAME": "符文金字塔",
     "FLAVOR": "上面的符文無法辨識。",
     "DESCRIPTIONS": [
-      "你在回合結束時不再自動丟棄所有手牌。 NL 每回合少抽 #b",
-      " 張牌。"
+      "你在回合結束時不再自動丟棄所有手牌。",
+      ""
     ]
   },
   "Self Forming Clay": {
@@ -1163,20 +1163,20 @@
     ]
   },
   "Mark of the Bloom": {
-    "NAME": "Mark of the Bloom",
-    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "NAME": "綻放印記",
+    "FLAVOR": "在高塔的深處，思維與現實成為了一體。",
     "DESCRIPTIONS": [
-      "You can no longer heal."
+      "你無法再回復生命。"
     ]
   },
   "Busted Crown": {
-    "NAME": "Busted Crown",
-    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "NAME": "破碎金冠",
+    "FLAVOR": "第一勇士的金冠……或者只是一個拙劣的仿製品？",
     "DESCRIPTIONS": [
-      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
-      "Gain [R] at the start of each turn. ",
-      "Gain [G] at the start of each turn. ",
-      "Gain [B] at the start of each turn. "
+      "在卡牌獎勵畫面，可供選擇的 #y牌數 減少 #b2 張。",
+      "在每回合開始時獲得 [R] 。",
+      "在每回合開始時獲得 [G] 。",
+      "在每回合開始時獲得 [B] 。"
     ]
   }
 }
