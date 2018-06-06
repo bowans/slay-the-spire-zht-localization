@@ -834,8 +834,8 @@
     "NAME": "Рунічна піраміда",
     "FLAVOR": "Руни не розпізнаються.",
     "DESCRIPTIONS": [
-      "Наприкінці кожного руху, Ви більше не відкидаєте карти. NL Натомість, берете на #b",
-      " карт менше кожного руху."
+      "Наприкінці кожного руху, Ви більше не відкидаєте карти.",
+      ""
     ]
   },
   "Self Forming Clay": {
@@ -1160,6 +1160,23 @@
     "DESCRIPTIONS": [
       "Щоразу наносячи #b",
       " чи менше не блокованої #yАтакуючої шкоди, збільшує її до #b5."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Mark of the Bloom",
+    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "DESCRIPTIONS": [
+      "You can no longer heal."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Busted Crown",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
+      "Gain [R] at the start of each turn. ",
+      "Gain [G] at the start of each turn. ",
+      "Gain [B] at the start of each turn. "
     ]
   }
 }

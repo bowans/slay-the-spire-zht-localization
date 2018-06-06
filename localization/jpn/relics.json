@@ -736,8 +736,8 @@
     "NAME": "ルーニックピラミッド",
     "FLAVOR": "ルーンは解読不可能。",
     "DESCRIPTIONS": [
-      "ターン終了時、手札を捨てなくなる。 NL ターン開始時に引くカードが #b",
-      " 枚少なくなる。"
+      "ターン終了時、手札を捨てなくなる。",
+      ""
     ]
   },
   "Self Forming Clay": {
@@ -1160,6 +1160,23 @@
     "DESCRIPTIONS": [
       "自分が #yアタック で与える、ブロックされなかった #b",
       " 以下のダメージを #b5 ダメージに増加する。"
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Mark of the Bloom",
+    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "DESCRIPTIONS": [
+      "You can no longer heal."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Busted Crown",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
+      "Gain [R] at the start of each turn. ",
+      "Gain [G] at the start of each turn. ",
+      "Gain [B] at the start of each turn. "
     ]
   }
 }

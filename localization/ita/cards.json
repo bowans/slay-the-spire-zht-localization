@@ -89,7 +89,7 @@
   },
   "Barrage": {
     "NAME": "Fuoco di Sbarramento",
-    "DESCRIPTION": "Infliggi !D! danni per ogni Globo Creato."
+    "DESCRIPTION": "Infliggi !D! danni per ogni Globo che possiedi."
   },
   "Barricade": {
     "NAME": "Barricata",
@@ -104,7 +104,7 @@
     "DESCRIPTION": "Peschi !M! carte. NL Non puoi pescare altre carte questo turno."
   },
   "Beam Cell": {
-    "NAME": "Cartuccia Laser",
+    "NAME": "Raggio Laser",
     "DESCRIPTION": "Infliggi !D! danni ed applichi !M! Vulnerabile."
   },
   "Berserk": {
@@ -125,7 +125,7 @@
   },
   "Blaster": {
     "NAME": "Pistola Laser",
-    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Ottieni [B] per ogni Globo Creato. NL Esaurisci."
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Ottieni [B] per ogni Globo che possiedi. NL Esaurisci."
   },
   "Blind": {
     "NAME": "Accecante",
@@ -238,7 +238,7 @@
   "Chill": {
     "NAME": "Brivido",
     "DESCRIPTION": "Crei !M! Ghiaccio per nemico. NL Esaurisci",
-    "UPGRADE_DESCRIPTION": "Innata. Crei !M! Ghiaccio per nemico. NL Esaurisci"
+    "UPGRADE_DESCRIPTION": "Innata. NL Crei !M! Ghiaccio per nemico. NL Esaurisci"
   },
   "Choke": {
     "NAME": "Soffocamento",
@@ -442,8 +442,8 @@
   },
   "Electrodynamics": {
     "NAME": "Elettrodinamica",
-    "DESCRIPTION": "I Fulmini evocati colpiscono 2 volte.",
-    "UPGRADE_DESCRIPTION": "I Fulmini evocati colpiscono #b volte in più."
+    "DESCRIPTION": "I Fulmini colpiscono TUTTI i nemici. NL Crei !M! Fulmini",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
     "NAME": "Eterna Agonia",
@@ -1104,7 +1104,7 @@
     "UPGRADE_DESCRIPTION": "Scarti la tua mano. NL Aggiungi 1 Pugnale Potenziato alla tua mano per ogni carta scartata."
   },
   "Streamline": {
-    "NAME": "Miglioramento",
+    "NAME": "Migliore",
     "DESCRIPTION": "Infliggi !D! danni. NL Il costo di questa carta si riduce di !M! per questo combattimento."
   },
   "Strike_B": {
@@ -1284,5 +1284,9 @@
   "Compile Driver": {
     "NAME": "Nuovi Driver",
     "DESCRIPTION": "Infliggi !D! danni. NL Pesca !M! carta per ogni tipo di Globo in campo."
+  },
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   }
 }

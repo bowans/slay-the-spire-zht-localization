@@ -39,8 +39,12 @@ None, # Hidden
 (7,2), # "Ascend 10"
 (1,31), # "Minimalist"
 (7,0), # "Ooh Donut!"
-None, # "Sapphire"
-None, # "Common Sense"
+(7,3), # "Sapphire"
+(7,4), # "Common Sense"
+(7,5), # "Focused"
+None, # "Neon"
+None, # "Energy is Overrated"
+None, # "My Lucky Day"
 ]
 ### DO NOT MODIFY BELOW THIS LINE
 import sys

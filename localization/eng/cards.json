@@ -282,7 +282,7 @@
   },
   "Conserve Battery": {
     "NAME": "Conserve Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Energy is conserved for next turn."
+    "DESCRIPTION": "Gain !B! Block. NL Next turn gain [B]."
   },
   "Consume": {
     "NAME": "Consume",
@@ -1284,5 +1284,9 @@
   "Compile Driver": {
     "NAME": "Compile Driver",
     "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
-  } 
+  },
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+  }
 }

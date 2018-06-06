@@ -280,9 +280,9 @@
   "Electro": {
     "NAME": "Elettro",
     "DESCRIPTIONS": [
-      "I #yFulmini Evocati colpiscono 2 volte.",
-      "I #yFulmini Evocati colpiscono #b",
-      "volte in più."
+      "I #yFulmini colpiscono TUTTI i nemici.",
+      "",
+      ""
     ]
   },
   "Energized": {
@@ -930,6 +930,15 @@
     "DESCRIPTIONS": [
       "Ogni volta che ",
       " prende danno, perde altrettanta #yForza fino a fine turno."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   }
 }

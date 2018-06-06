@@ -38,7 +38,7 @@
   "Back to Basics": {
     "NAME": "Записи Древних",
     "DESCRIPTIONS": [
-      "Пробираясь через город, вы замечаете стену, покрытую инскрипциями #y~Древних.~ Вы пытаетесь разобраться в значении этих странных символов и глифов, но тут записи начинают #b~светиться.~ NL Сообщение сразу обретает смысл...",
+      "Пробираясь через город, вы замечаете стену, покрытую письменами #y~Древних.~ Вы пытаетесь разобраться в значении этих странных символов и глифов, но тут записи начинают #b~светиться.~ NL Сообщение сразу обретает смысл...",
       "Ответ — изящность. NL Разумеется.",
       "Простота — признак истины."
     ],
@@ -321,7 +321,7 @@
       " #rОЗ.",
       "[Информацию?] #gУзнать, #gкто #gбосс. #rПотерять #r",
       "[Успех?] #gПолучить #gбесцветную #gкарту. #rПотерять #r",
-      "[Воодушевление?] #gПолучить #gзелье. #rПотерять #r",
+      "[Взбодриться?] #gПолучить #gзелье. #rПотерять #r",
       "[Богатство?] #gПолучить #g",
       " #gзолота. #rПотерять #r",
       "[Как уйти?] #rПотерять #r",
@@ -432,7 +432,7 @@
     "NAME": "Н'лот",
     "DESCRIPTIONS": [
       "Перед вами странное сгорбленное существо с щупальцами, роющееся в куче мусора и обломков. Вы подходите ближе, и оно безобидно к вам подскакивает. NL «Н'лот голоден. Покорми Н'лота».",
-      "Вы протягиваете Н'лоту #yреликвию. Он выхватывает её из ваших рук своими щупальцами, широко распахивает пасть и проглатывает целиком. NL Он расплывается в широкой, зубастой улыбке, а из под его накидки вздымается больше щупальцев, которыми он держит крайне опрятную коробку. Он толкает её ближе и ближе к вам, пока вы её не забираете.",
+      "Вы протягиваете Н'лоту #yреликвию. Он выхватывает её из ваших рук своими щупальцами, широко распахивает пасть и проглатывает целиком. NL Он расплывается в широкой, зубастой улыбке, а из под его накидки вздымается больше щупальцев, которыми он держит на диво опрятную коробку. Он толкает её ближе и ближе к вам, пока вы её не забираете.",
       "Вы мотаете головой. Н'лот горбится ещё сильнее и, вздохнув, убегает."
     ],
     "OPTIONS": [
@@ -494,7 +494,7 @@
       "Вы прикасаетесь к нему. NL NL Вас пронзает #r@острая@ #r@боль,@ которую сменяют яркие вспышки воспоминаний из далёкого прошлого. NL ...Чьи же это воспоминания?",
       "#r~СТРАХ.~ NL NL Над вами вздымается зловеще хохочущий демон с широко распахнутыми крыльями. Вокруг вас трупы соплеменников, а деревня поглощена ужасающим #p~тёмным~ #p~пламенем.~ NL NL Демон с насмешкой окликает вас. NL NL « #r@ТЕПЕРЬ@ #r@ТЫ@ #r@И@ #r@ВПРАВДУ@ #r@СИЛЬНЕЙШИЙ!@ #r@Ха-ха..@ #r@ХЕ-ХЕ...@ #r@ХА-ХА-ХА-ХА-ХА!!@ » NL NL Отзвуки его смеха раздраются вечно...",
       "#g~ТРИУМФ.~ NL NL Останки #p~призрачного~ #p~существа,~ еле видные при лунном свете, медленно тонут в луже грязи перед вами. Вы проявили себя перед своими сёстрами. NL NL Стоя в гордом безмолвии, вы ждёте, пока они церемониально надевают на вас #yчереп #yсущества. Ритуал свершён. NL NL Вы отправляетесь в Шпиль...",
-      "#b~UNKNOWN.~ NL NL Not yet implemented."
+      "#b~СМЯТЕНИЕ.~ NL NL #y[ЗАДАЧА] #gБАЛАНС #gдолжен #gбыть #gУСТАНОВЛЕН NL #y[ЗАПРОС] #gБАЛАНС NL #y[ОШИБКА] #g«БАЛАНС» #gНЕ #gНАЙДЕНО NL #y[ЗАПРОС] #gБАЛАНС NL #y[ОШИБКА] #g«БАЛАНС» #gНЕ #gНАЙДЕНО NL #y[ПРЕДУПРЕЖДЕНИЕ] #rПриближается #rкрупный #rобъект NL NL ~\"Я..~ ~....Ньяу..\"~"
     ],
     "OPTIONS": [
       "[Вспомнить] #gДобавить #g1 #gбесцветную #gкарту #gв #gколоду.",
@@ -779,6 +779,38 @@
       "[Оставить] #rПотерять #r",
       " #rзолота.",
       "[Уйти]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Mind Bloom",
+    "DESCRIPTIONS": [
+      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
+      "MIXED",
+      "MIXED"
+    ],
+    "OPTIONS": [
+      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
+      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
+      "[Leave]",
+      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
+      "[Leave]"
+    ]
+  },
+  "Nest": {
+    "NAME": "The Nest",
+    "DESCRIPTIONS": [
+      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
+      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
+      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      ".",
+      "[Smash and Grab] #gObtain #g150 #gGold.",
+      "[Locked] Requires: Upgraded Card.",
+      "[Leave]"
     ]
   }
 }

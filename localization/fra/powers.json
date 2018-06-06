@@ -760,8 +760,8 @@
     "NAME": "IA créative",
     "DESCRIPTIONS": [
       "Au début de votre tour, ajoutez #b",
-      " Pouvoir(s) aléatoire(s) à votre main.",
-      " random Power cards into your hand."
+      " Pouvoir aléatoire à votre main.",
+      " Pouvoirs aléatoires à votre main."
     ]
   },
   "Prime": {
@@ -905,8 +905,8 @@
     "NAME": "Électro",
     "DESCRIPTIONS": [
       "Les Orbes #yKérauniques frappent TOUS les ennemis.",
-      " NL S'il n'y a qu'un seul ennemi, les Orbes #yKérauniques le frappent #b",
-      " fois."
+      "",
+      ""
     ]
   },
   "Equilibrium": {
@@ -930,6 +930,15 @@
       "Meurt dans #b",
       " tours.",
       "Meurt ce tour."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   }
 }

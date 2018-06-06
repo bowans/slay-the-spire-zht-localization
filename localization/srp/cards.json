@@ -214,7 +214,7 @@
   },
   "Capacitor": {
     "NAME": "Кондензатор",
-    "DESCRIPTION": "Створи !M! сферно поље.",
+    "DESCRIPTION": "Створи !M! сферна поља.",
     "UPGRADE_DESCRIPTION": "Створи !M! сферна поља."
   },
   "Carnage": {
@@ -276,12 +276,16 @@
     "NAME": "Сагоревање",
     "DESCRIPTION": "На крају потеза, изгуби један ж. п. и задај !M! штете СВИМ непријатељима."
   },
+  "Compile Driver": {
+    "NAME": "Кршење протокола",
+    "DESCRIPTION": "Нанеси !D! штете. NL Вуци !M! карту за сваку јединствену сферу коју имаш."
+  },
   "Concentrate": {
     "NAME": "Усредсреди се",
     "DESCRIPTION": "Одбаци !M! карте. NL Задоби [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Уштеда батерије",
+    "NAME": "Приштеди батерију",
     "DESCRIPTION": "Задоби !B! одбране. NL Енергија се преноси у следећи круг."
   },
   "Consume": {
@@ -292,6 +296,10 @@
     "NAME": "Хладне главе",
     "DESCRIPTION": "Призови један мраз. NL Вуци !M! карту.",
     "UPGRADE_DESCRIPTION": "Призови један мраз. NL Вуци !M! карте."
+  },
+  "Core Surge": {
+    "NAME": "Појачано језгро",
+    "DESCRIPTION": "Нанеси !D! штете. NL Задоби !M! заштите. NL Исцрпи."
   },
   "Corpse Explosion": {
     "NAME": "Надимање",
@@ -442,8 +450,8 @@
   },
   "Electrodynamics": {
     "NAME": "Електродинамика",
-    "DESCRIPTION": "Муње ударају СВЕ непријатеље.",
-    "UPGRADE_DESCRIPTION": "Муње ударају СВЕ непријатеље. NL Ако је у борби један непријатељ, ударају га двапут."
+    "DESCRIPTION": "Муње сада ударају СВЕ непријатеље. Призови муње: !M!.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
     "NAME": "Бескрајна агонија",
@@ -518,9 +526,9 @@
     "NAME": "Докрајчи",
     "DESCRIPTION": "Задај !D! штете за сваки одиграни напад у овом потезу.",
     "EXTENDED_DESCRIPTION": [
-      " NL (",
-      " напад одигран.)",
-      " напада одиграно.)"
+      " NL (Oдиграно напада: ",
+      ")",
+      ")"
     ]
   },
   "Fire Breathing": {
@@ -529,7 +537,7 @@
   },
   "Fission": {
     "NAME": "Фисија",
-    "DESCRIPTION": "Активирај све своје сфере. Створи једно сферно поље за сваку активирану сферу."
+    "DESCRIPTION": "Активирај све своје сфере. Створи једно сферно поље за сваку активирану сферу. NL Исцрпи."
   },
   "Flame Barrier": {
     "NAME": "Пламена баријера",
@@ -927,7 +935,7 @@
     "DESCRIPTION": "Задај СВИМ непријатељима !D! штете и залечи се за неодбрањену. Исцрпи."
   },
   "Reboot": {
-    "NAME": "Ресетуј се",
+    "NAME": "Ресет",
     "DESCRIPTION": "Измешај све своје карте у гомилу за вучење, па потом вуци !M! карата. NL Исцрпи."
   },
   "Rebound": {
@@ -1073,7 +1081,7 @@
     "DESCRIPTION": "Ако непријатељ намерава да нападне, повећај своју снагу за !M!."
   },
   "Stack": {
-    "NAME": "Гомилање",
+    "NAME": "Слојеви",
     "DESCRIPTION": "Задоби одбрану једнаку броју карата у гомили за одбацивање.",
     "UPGRADE_DESCRIPTION": "Задоби одбрану једнаку броју карата у гомили за одбацивање плус три.",
     "EXTENDED_DESCRIPTION": [
@@ -1090,7 +1098,7 @@
     "DESCRIPTION": "Задоби !B! одбране. Одбрана ове карте се смањује за два током тренутне борбе."
   },
   "Steam Power": {
-    "NAME": "Пуном паром",
+    "NAME": "До даске",
     "DESCRIPTION": "Вуци !M! карте. NL Додај Опекотину у гомилу за одбацивање."
   },
   "Storm": {
@@ -1277,12 +1285,8 @@
     "NAME": "Шок",
     "DESCRIPTION": "Призови !M! муњу."
   },
-  "Core Surge": {
-    "NAME": "Core Surge",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
-  },
-  "Compile Driver": {
-    "NAME": "Compile Driver",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   }
 }

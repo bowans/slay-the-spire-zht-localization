@@ -163,7 +163,7 @@
     "DESCRIPTIONS": [
       "На почетку свог потеза, додај број насумичних моћи у руку: #b",
       ".",
-      " random Power cards into your hand."
+      "."
     ]
   },
   "Curiosity": {
@@ -281,8 +281,8 @@
     "NAME": "Електро",
     "DESCRIPTIONS": [
       "#yМуње ударају СВЕ непријатеље.",
-      " NL Ако је у борби #bједан непријатељ, ударају га #b",
-      " пута."
+      "",
+      ""
     ]
   },
   "Energized": {
@@ -304,6 +304,14 @@
     "NAME": "Тровање",
     "DESCRIPTIONS": [
       "Сваки пут када #yнападом задаш неодбрањену штету, нанеси #yотрова: #b",
+      "."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Равнотежа",
+    "DESCRIPTIONS": [
+      "Задржи своју руку овај потез.",
+      "Задржи своју руку следећих неколико потеза: #b",
       "."
     ]
   },
@@ -330,6 +338,14 @@
       "Вуци #bједну више карту следећи потез.",
       "Вуци #b",
       " додатне карте следећи потез."
+    ]
+  },
+  "Fading": {
+    "NAME": "Ишчежњавајући",
+    "DESCRIPTIONS": [
+      "Умире за #b",
+      " круга.",
+      "Умире овај круг."
     ]
   },
   "Feel No Pain": {
@@ -759,6 +775,13 @@
       " штете."
     ]
   },
+  "Shifting": {
+    "NAME": "Измештајући",
+    "DESCRIPTIONS": [
+      "Сваки пут када ",
+      " прими штету, губи толико #yснаге до краја круга."
+    ]
+  },
   "Shriek From Beyond": {
     "NAME": "Shriek From Beyond",
     "DESCRIPTIONS": [
@@ -909,27 +932,13 @@
       " )."
     ]
   },
-  "Equilibrium": {
-    "NAME": "Равнотежа",
+  "EnergizedBlue": {
+    "NAME": "Energized",
     "DESCRIPTIONS": [
-      "Задржи своју руку овај круг.",
-      "Задржи своју руку следећих неколико кругова: #b",
-      "."
-    ]
-  },
-  "Shifting": {
-    "NAME": "Shifting",
-    "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
-    ]
-  },
-  "Fading": {
-    "NAME": "Fading",
-    "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   }
 }

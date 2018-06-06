@@ -770,7 +770,7 @@
       "Vous le touchez. NL NL Une #r@douleur@ #r@vive@ vous parcourt, suivie par des visions vives d'une mémoire lointaine. NL ...À qui appartiennent ces souvenirs?",
       "#r~PEUR.~ NL NL Une créature démoniaque s'élève au dessus de vous, les ailes déployées, hurlant de rire. Les cadavres d'une tribu vous entourent alors que le village est englouti de #p~flammes~ #p~sombres.~ NL NL Le démon vous appelle, narquois. NL NL \" #r@TU@ #r@ES@ #r@VRAIMENT@ #r@LE@ #r@PLUS@ #r@FORT@ #r@MAINTENANT!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Ce rire résonne pour toujours...",
       "#g~TRIOMPHE.~ NL NL Les restes d'une #p~créature~ #p~fantômatique~ s'enfoncent lentement dans la boue devant vous, à peine visibles au clair de lune. Vous avez fait vos preuves parmi vos soeurs. NL NL Victorieuse, vous attendez en silence pendant que les autres placent cérémonialement le #ycrâne #yde #yla #ycréature sur votre tête. Le rituel est terminé. Vous vous dirigez vers la Tour...",
-      "#b~INCONNU.~ NL NL Pas encore implémenté."
+      "#b~CONFUSION.~ NL NL #y[OBJECTIF] #gÉQUILIBRE #gdoit #gêtre #gRESPECTÉ NL #y[DÉFINIR] #gÉQUILIBRE NL #y[ERREUR] #gÉQUILIBRE #gNON #gTROUVÉ NL #y[DÉFINIR] #gÉQUILIBRE NL #y[ERREUR] #gÉQUILIBRE #gNON #gTROUVÉ NL #y[ALERTE] #rGrand #robjet #ren #rapproche NL NL ~\"Je...~ ~..suis~ ~....Neow..\"~"
     ],
     "OPTIONS": [
       "[Se souvenir] #gAjoutez #g1 #gcarte #gincolore #gà #gvotre #gdeck.",
@@ -779,6 +779,38 @@
       " #rPV.",
       "[Partir]",
       "[Interagir]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Mind Bloom",
+    "DESCRIPTIONS": [
+      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
+      "MIXED",
+      "MIXED"
+    ],
+    "OPTIONS": [
+      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
+      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
+      "[Leave]",
+      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
+      "[Leave]"
+    ]
+  },
+  "Nest": {
+    "NAME": "The Nest",
+    "DESCRIPTIONS": [
+      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
+      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
+      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      ".",
+      "[Smash and Grab] #gObtain #g150 #gGold.",
+      "[Locked] Requires: Upgraded Card.",
+      "[Leave]"
     ]
   }
 }

@@ -285,13 +285,21 @@
       ""
     ]
   },
-
   "Energized": {
     "NAME": "Energized",
     "DESCRIPTIONS": [
       "Gain #b",
       " additional [G] next turn.",
       " additional [G] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },

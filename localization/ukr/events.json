@@ -780,5 +780,37 @@
       " #rЗолота.",
       "[Покинути]"
     ]
+  },
+  "MindBloom": {
+    "NAME": "Mind Bloom",
+    "DESCRIPTIONS": [
+      "While walking and traversing through the chaos of the Spire, your thoughts suddenly begin to feel very... #p~real...~ NL NL Imaginings of #rmonsters and #yriches begin to manifest themselves into reality. NL The sensation is quickly fleeting. What do you do?",
+      "Can it really be this easy?",
+      "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
+    ],
+    "OPTIONS": [
+      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRelic.",
+      "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #rDoubt.",
+      "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
+      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
+      "[Leave]"
+    ]
+  },
+  "Nest": {
+    "NAME": "The Nest",
+    "DESCRIPTIONS": [
+      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
+      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
+      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      ".",
+      "[Smash and Grab] #gObtain #g150 #gGold.",
+      "[Locked] Requires: Upgraded Card.",
+      "[Leave]"
+    ]
   }
 }

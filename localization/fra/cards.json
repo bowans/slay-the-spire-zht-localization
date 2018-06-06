@@ -1274,8 +1274,8 @@
   },
   "Electrodynamics": {
     "NAME": "Électrodynamique",
-    "DESCRIPTION": "Les Orbes Kérauniques frappent TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": "Les Orbes Kérauniques frappent TOUS les ennemis. S'il n'y a qu'un ennemi, ils le frappent deux fois."
+    "DESCRIPTION": "Les Orbes Kérauniques frappent TOUS les ennemis. Canalisez !M! Orbes Kérauniques.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Compile Driver": {
     "NAME": "Compilateur de pilote",
@@ -1284,5 +1284,9 @@
   "Core Surge": {
     "NAME": "Surcharge du noyau",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! d'Artefact. NL Épuisement."
+  },
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   }
 }

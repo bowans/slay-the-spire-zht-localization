@@ -154,7 +154,7 @@
   "Drug Dealer": {
     "NAME": "Dž.E.K.S. diler",
     "DESCRIPTIONS": [
-      "Čovek sa povezom preko oka i vragolastim osmehom ti priđe, skroz opušteno. NL \"Hej, hej stranče. Si zainteresovan za #yDž.E.K.S.? Napumpaće te bolje nego bilo kakva vežba ili blagoslov. Biće ti potrebno ako si jedan od onih heroja što vole da flertuju sa smrću. NL Š'a kažeš? 'Oćeš da se #yIZDŽEKSUJEŠ?\" NL ",
+      "Čovek sa povezom preko oka i vragolastim osmehom ti skroz opušteno prilazi. NL \"Hej, hej stranče. Si zainteresovan za #yDž.E.K.S.? Napumpaće te bolje nego bilo kakva vežba ili blagoslov. Biće ti potrebno ako si jedan od onih heroja što vole da flertuju sa smrću. NL Š'a kažeš? 'Oćeš da se #yIZDŽEKSUJEŠ?\" NL ",
       "~\"Odlično.\"~ NL Čovek ti pruži opak špric ispunjen svetlećom tečnošću, pa odvreba u mračnu uličicu.",
       "\"Šta ćeš, uvek je tu sledeći...\" NL Reče on, pa odtumara."
     ],
@@ -343,7 +343,7 @@
       "Ulaziš u sobu i nailaziš na veliku rupu u podu. Prilaziš rupi, a u tom se ogromno zmijoliko stvorenje izmigolji iz nje. NL NL ~\"Ho~ ~hooo!~ ~Zdravo~ ~zdravo!~ ~Šta~ ~to~ ~imamo~ ~ovde?~ Pozdrav putniče, pitam jednostavno pitanje. NL Najispunjeniji životi su oni u kojima možeš da #y~kupiš~ #y~bilo~ #y~šta!~ NL Slažeš li se?\"",
       "~\"Dddaaaaaaaaaaaa!~ NL ~Ssssveee~ ~će~ ~se~ ~isssplatiti.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
       "Guja pilji u tebe pogledom neopisivog razočarenja.",
-      "Guja podiže svoju glavu uvis i poče bljuvati mlaz #yzlata! NL Zapanjujuće je i zastrašujuće u isto vreme. NL Skupiš sve #yzlato, i zahvalivši zmiji pođeš dalje."
+      "Guja podigne svoju glavu u vis i poče da bljuje mlaz #yzlata! NL Zapanjujuće je i zastrašujuće u isto vreme. NL Skupiš sve #yzlato, zahvališ zmiji, pa pođeš dalje."
     ],
     "OPTIONS": [
       "[Slažem se] #gZadobi #g",
@@ -436,7 +436,7 @@
       "Odmahneš glavom. Nlot se još više pogrbi i uzdahne, potom kratkim koracima nekud odšeta."
     ],
     "OPTIONS": [
-      "#r[Izgubi: #r",
+      "#r[Izgubi: ",
       "] #gZadobi #gnovu #gspecijalnu #grelikviju.",
       "[Pođi]"
     ]
@@ -447,10 +447,10 @@
     ]
   },
   "Purifier": {
-    "NAME": "Pročišćivač",
+    "NAME": "Čistilište",
     "DESCRIPTIONS": [
       "Pred tobom stoji složeno svetilište posvećeno zaboravljenom duhu.",
-      "Klečiš s divljenjem, osećajući kao da ti je pao kamen sa srca.",
+      "Klekneš s divljenjem. Osećaš kao da ti je pao kamen sa srca.",
       "Ignorišeš svetilište."
     ],
     "OPTIONS": [
@@ -494,7 +494,7 @@
       "Dodirneš ga. NL NL U trenu te saseče #r@probadajući@ #r@bol,@ praćen živopisnim prikazima udaljenih sećanja. NL ...čija su ovo sećanja?",
       "#r~STRAH.~ NL NL Demonsko stvorenje se nadvija nad tobom, krilima široko raširenim, zavijajući od smeha. Oko tebe su mrtva tela pripadnika tvog plemena, a selo je progutano užasnom #p~crnom~ #p~vatrom.~ NL NL Demon te doziva, rugajući te se. NL NL \" #r@SADA@ #r@STVARNO@ #r@JESI@ #r@NAJJAČI!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Taj smeh odzvanja zauvek... ",
       "#g~TRIJUMF.~ NL NL Ostaci #p~avetinjskog~ #p~stvorenja~ lagano tonu u blato ispred tebe, jedva vidljivi pod mesečinom. Dokazao si se među svojim sestrama. NL NL Stojeći pobednički, čekaš u tišini dok ti one ceremonijalno postavljaju #ylobanju #ystvorenja na glavu. Obred je završen. NL NL Upućuješ se ka Tornju...",
-      ""
+      "#b~KONFUZIJA.~ NL NL #y[ZADATAK] #gRAVNOTEŽA #gse #gmora #gODRŽATI NL #y[DEFINIŠI] #gRAVNOTEŽA NL #y[GREŠKA] #gRAVNOTEŽA #gNIJE #gNAĐENA NL #y[DEFINIŠI] #gRAVNOTEŽA NL #y[GREŠKA] #gRAVNOTEŽA #gNIJE #gNAĐENA NL #y[UPOZORENJE] #rVeliki #robjekat #rprilazi NL NL ~\"Ja...~ ~..sam~ ~....Njova..\"~"
     ],
     "OPTIONS": [
       "[Priseti se] #gDodaj #gjednu #gbezbojnu #gkartu #gu #gsvoj #gšpil.",
@@ -779,6 +779,38 @@
       "[Ne diraj] #rIzgubi #r",
       " #rzlata.",
       "[Pođi]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Mind Bloom",
+    "DESCRIPTIONS": [
+      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
+      "MIXED",
+      "MIXED"
+    ],
+    "OPTIONS": [
+      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
+      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
+      "[Leave]",
+      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
+      "[Leave]"
+    ]
+  },
+  "Nest": {
+    "NAME": "The Nest",
+    "DESCRIPTIONS": [
+      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
+      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
+      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      ".",
+      "[Smash and Grab] #gObtain #g150 #gGold.",
+      "[Locked] Requires: Upgraded Card.",
+      "[Leave]"
     ]
   }
 }

@@ -159,11 +159,11 @@
     ]
   },
   "Creative AI": {
-    "NAME": "Находчивый ИИ",
+    "NAME": "Творческий ИИ",
     "DESCRIPTIONS": [
       "Добавляет в руку #b",
-      " случайных Талантов в начале вашего хода.",
-      " random Power cards into your hand."
+      " случайный Талант в начале вашего хода.",
+      " случайных Талантов в начале вашего хода."
     ]
   },
   "Curiosity": {
@@ -280,9 +280,9 @@
   "Electro": {
     "NAME": "Электро",
     "DESCRIPTIONS": [
-      "#yСферы Молнии бьют по ВСЕМ врагам.",
-      " NL #yСферы Молнии бьют #b",
-      " раза, если в бою только #b1 враг."
+      "#yСферы Молнии бьют по ВСЕМ врагам",
+      "",
+      ""
     ]
   },
   "Energized": {
@@ -301,7 +301,7 @@
     ]
   },
   "Envenom": {
-    "NAME": "Покрыть ядом",
+    "NAME": "Отравленные клинки",
     "DESCRIPTIONS": [
       "Накладывает на врага #b",
       " #yЯда, когда Атака наносит урон по его ОЗ."
@@ -493,7 +493,7 @@
     ]
   },
   "Life Link": {
-    "NAME": "Симбиоз",
+    "NAME": "Канал жизни",
     "DESCRIPTIONS": [
       "Воскрешается через #b2 хода с #b50% ОЗ, если другие враги живы."
     ]
@@ -930,6 +930,15 @@
     "DESCRIPTIONS": [
       "Отнимает #b ",
       " #yЛовкости в конце вашего хода."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   }
 }

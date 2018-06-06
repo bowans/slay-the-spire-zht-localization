@@ -904,9 +904,9 @@
   "Electro": {
     "NAME": "エレクトロ",
     "DESCRIPTIONS": [
-      "喚起 した ライトニング は2回攻撃する。",
-      "喚起 した ライトニング は追加で #b",
-      " 回攻撃する。"
+      "ライトニング はすべての敵を攻撃する。",
+      "",
+      ""
     ]
   },
   "Equilibrium": {
@@ -918,18 +918,27 @@
     ]
   },
   "Shifting": {
-    "NAME": "Shifting",
+    "NAME": "変化",
     "DESCRIPTIONS": [
       "",
       " がダメージを受けるたび、 その値に等しい #y筋力 をターン終了時まで失う。"
     ]
   },
   "Fading": {
-    "NAME": "Fading",
+    "NAME": "消失",
     "DESCRIPTIONS": [
       "#b",
       " ターン経過後、死亡する。",
       "このターン、死亡する。"
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   }
 }

@@ -798,7 +798,7 @@
     "DESCRIPTIONS": [
       "턴 시작 시 무작위 파워 카드를 #b",
       " 장 얻습니다.",
-      " random Power cards into your hand."
+      " 장 얻습니다."
     ]
   },
   "No Attack": {
@@ -904,9 +904,9 @@
   "Electro": {
     "NAME": "전기판",
     "DESCRIPTIONS": [
-      "#y전기 가 적 전체를 타격합니다.",
-      " NL 적이 오직 #b하나 만 있다면, #y전기 가 그 적을 #b",
-      " 번 타격합니다."
+      "#y전기 모든 적을 대상으로 합니다.",
+      "",
+      ""
     ]
   },
   "Equilibrium": {
@@ -918,18 +918,27 @@
     ]
   },
   "Shifting": {
-    "NAME": "Shifting",
+    "NAME": "변하는 중",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
+      " ",
+      " 의 피해를 입을 때마다 이번 턴 종료까지 그만큼의 #y힘 을 잃습니다."
     ]
   },
   "Fading": {
-    "NAME": "Fading",
+    "NAME": "희미해짐",
     "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
+      "#b",
+      " 턴 뒤 죽습니다.",
+      "이번 턴에 죽습니다."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   }
 }

@@ -282,7 +282,7 @@
   },
   "Conserve Battery": {
     "NAME": "保留电量",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 能够保留多余的能量一个回合。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 在下一回合获得 [B] 。"
   },
   "Consume": {
     "NAME": "耗尽",
@@ -1171,9 +1171,9 @@
   },
   "Thunder Strike": {
     "NAME": "雷霆打击",
-    "DESCRIPTION": "你在本场战斗中每 生成 过 一个 闪电 充能球，对一名随机敌人造成一次 !D! 点伤害。",
+    "DESCRIPTION": "你在本场战斗中每 生成 过 一个 闪电 充能球，随机造成一次 !D! 点伤害。",
     "EXTENDED_DESCRIPTION": [
-      "（生成 过 !M! 个闪电 充能球。）"
+      "（共 !M! 次。）"
     ]
   },
   "Thunderclap": {
@@ -1282,7 +1282,11 @@
     "DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !M! 层 人工制品 。 NL 消耗 。"
   },
   "Compile Driver": {
-    "NAME": "编译打桩机",
+    "NAME": "编译冲击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一种不同的 充能球 ，抽 !M! 张牌。"
+  },
+  "RitualDagger": {
+    "NAME": "仪式匕首",
+    "DESCRIPTION": "造成 !D! 点伤害。 如果这张牌杀死敌人，它在本局游戏中的伤害永久性增加 !M! 。 消耗 。"
   }
 }

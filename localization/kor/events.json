@@ -770,7 +770,7 @@
       "당신은 그것을 만집니다. NL NL #r@날카로운@ #r@고통@ 이 당신을 타고 흐릅니다. 기억이 선명하게 스쳐 지나갑니다. NL ...이 기억들은 누구의 것이지?",
       "#r~공포.~ NL NL 당신 위의 날개를 펼친 악마같은 생명체가 크게 냉소를 터뜨립니다. 마을이 끔찍한 #p~검은~ #p~화염~ 으로 완전히 뒤덮인 상황, 부족의 시체들이 당신 주변에 쌓여 있습니다. NL NL 악마가 굉음을 내며 당신을 도발합니다. NL NL \" #r@너는@ #r@진정으로@ #r@가장@ #r@강한@ #r@자로구나!@ #r@크하하...@ #r@히히...@ #r@하하하하하하하!@ \" NL NL 그 웃음소리가 영원히 귀에 남아 메아리칩니다...",
       "#g~승리.~ NL NL 희미한 달빛 덕에 #p~유령같은~ #p~생명체~ 의 일부가 서서히 진흙 속으로 빠져드는 것을 볼 수 있습니다. 당신은 자매들 사이에서 스스로를 증명해 보였습니다. NL NL 승리에 도취한 채, 조용히 다른 사람들이 예식에 따라 #y생명체의 #y두개골 을 머리 위에 올릴 때까지 기다립니다. 의식은 종료되었습니다. NL NL 이제 다시 첨탑으로 향합니다...",
-      "#b~미지.~ NL NL 아직 완료되지 않았습니다."
+      "#b~융합.~ NL NL #y[목적] #g균형은 #g강화되어야만 #g한다 NL #y[정의] #g균형 NL #y[오류] #g균형을 #g찾을 #g수 #g없습니다 NL #y[정의] #g균형 NL #y[오류] #g균형을 #g찾을 #g수 #g없습니다 NL #y[경고] #r거대한 #r물체 #r접근중 NL NL ~\"내가...~ ~..바로~ ~....니오우..\"~"
     ],
     "OPTIONS": [
       "[회상] #g1장의 #g무색 #g카드 #b보상을 #g획득합니다.",
@@ -779,6 +779,38 @@
       " #r잃습니다.",
       "[떠나기]",
       "[상호작용]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Mind Bloom",
+    "DESCRIPTIONS": [
+      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
+      "MIXED",
+      "MIXED"
+    ],
+    "OPTIONS": [
+      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
+      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
+      "[Leave]",
+      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
+      "[Leave]"
+    ]
+  },
+  "Nest": {
+    "NAME": "The Nest",
+    "DESCRIPTIONS": [
+      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
+      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
+      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      ".",
+      "[Smash and Grab] #gObtain #g150 #gGold.",
+      "[Locked] Requires: Upgraded Card.",
+      "[Leave]"
     ]
   }
 }

@@ -112,7 +112,7 @@
     "DESCRIPTION": "Втрачаючи #b50% життя, чи більше, надає [R] на початку кожного руху."
   },
   "Biased Cognition": {
-    "NAME": "Когнітивне упередження",
+    "NAME": "Упередження",
     "DESCRIPTION": "Отримуєте !M! Зосередження. NL Наприкінці кожного руху, втрачаєте 1 Зосередження."
   },
   "Bite": {
@@ -442,8 +442,8 @@
   },
   "Electrodynamics": {
     "NAME": "Електродинаміка",
-    "DESCRIPTION": "Громовиця тепер влучає по ВСІМ ворогам.",
-    "UPGRADE_DESCRIPTION": "Громовиця тепер влучає по ВСІМ ворогам. NL Якщо ворог наодинці, Громовиця влучає дві."
+    "DESCRIPTION": "Громовиця тепер влучає по ВСІМ ворогам. NL Спрямовує !M! Громовицю",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
     "NAME": "Нескінченне конання",
@@ -1284,5 +1284,9 @@
   "Compile Driver": {
     "NAME": "Пайлдрайвер",
     "DESCRIPTION": "Наносить !D! шкоди. NL Берете !M! карт за кожну унікальну, спрямовану Сферу."
+  },
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   }
 }

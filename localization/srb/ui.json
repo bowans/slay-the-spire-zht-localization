@@ -22,7 +22,7 @@
       "Maks. ž. p. +",
       "Ošamućen!",
       "Prekinut!",
-      "Relics"
+      "Relikvije"
     ]
   },
   "AbstractDungeon": {
@@ -221,7 +221,7 @@
       "+2 maks. ž. p.",
       "GLASAJ: ",
       "s preostalo.",
-      "View Upgrade"
+      "Pogledaj poboljšanje"
     ]
   },
   "CharacterOption": {
@@ -299,7 +299,7 @@
   "CreditsScreen": {
     "TEXT": [
       "Pritisni ponovo da izađeš",
-      "to exit"
+      "da izađeš"
     ]
   },
   "DailyScreen": {
@@ -481,7 +481,7 @@
       "Pohod na Toranj je i dalje u aktivnom razvoju! NL Mnoge karte, neprijatelji i drugi aspekti igre su u stalnoj promeni. NL NL Ako naletiš na probleme ili ako imaš neke primedbe ili ideje, slobodno nam ih stavi do znanja na #bStim #bstranici #bza #bdiskusiju. NL NL Dosta čitanja, toranj te čeka!",
       "Pohod na Toranj je i dalje u aktivnom razvoju! NL Povrh toga, trenutno igraš beta verziju igre. NL NL Slobodno nas izvesti o bilo kakvim problemima tokom igranja, mada nemoj biti iznenađen privremenim grafičkim elementima namenjenim za nadolazeći sadržaj. NL NL Dosta čitanja, toranj te čeka!",
       "Pritisni bilo gde da počneš",
-      "Continue"
+      "Nastavi"
     ]
   },
   "End Turn Button": {
@@ -571,10 +571,10 @@
       "Tastatura",
       "Kontroler (trenutno nedostupno)",
       "Vrati na originalna podešavanja",
-      "Potvrdi",
+      "Potvrdi kartu",
       "Otkaži / Izađi",
       "Mapa",
-      "Špil",
+      "Pogledaj špil",
       "Gomila za vučenje",
       "Gomila za odbacivanje",
       "Gomila za iscrpljene",
@@ -591,13 +591,13 @@
       "Odaberi kartu #8",
       "Odaberi kartu #9",
       "Odaberi kartu #10",
-      "Drop Card",
-      "Up",
-      "Down",
-      "Select",
-      "End Turn / Info",
-      "Tab Left",
-      "Tab Right"
+      "Pusti kartu",
+      "Gore",
+      "Dole",
+      "Izaberi",
+      "Završi potez / informacije",
+      "Prethodna boja / karta",
+      "Sledeća boja / karta"
     ]
   },
   "LanguageDropdown": {
@@ -624,7 +624,8 @@
       "Vijetnamski",
       "Mađarski",
       "Srpski",
-      "Katalonski"
+      "Katalonski",
+      "Greek"
     ]
   },
   "LeaderboardFilters": {
@@ -694,7 +695,7 @@
       "Otisni se",
       "Nazad",
       "Pritisni da promeniš",
-      "to edit"
+      "da promeniš"
     ]
   },
   "MasterDeckViewScreen": {
@@ -937,7 +938,7 @@
       "#bUklonio kartu %s",
       "#bIskopao relikviju",
       "#bIzvežbao %s/%s",
-      "#yPurchased:"
+      "#Kupio:"
     ]
   },
   "RunHistoryScreen": {
@@ -994,7 +995,7 @@
       "Biće zabeležen gubitak ako napustiš pohod.",
       "UPOZORENJE:\nNapredak NIJE zapamćen.\n\nStigni do sledećeg sprata da zapamtiš ovaj pohod.",
       "Nazad",
-      "Napredak se NE ČUVA za dnevne pohode."
+      "Napredak se NE PAMTI za dnevne pohode."
     ]
   },
   "SetupAction": {

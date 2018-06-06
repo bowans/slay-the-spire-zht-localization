@@ -97,13 +97,21 @@
       " ž. p. i #yiscrpljuješ je."
     ]
   },
+  "Boot": {
+    "NAME": "Čizma",
+    "FLAVOR": "Raste u veličini kada se nategne.",
+    "DESCRIPTIONS": [
+      "Svaki put kada bi zadao #b",
+      " ili manje neodbranjene štete od #ynapada, povećaj je na #bpet."
+    ]
+  },
   "Bottled Flame": {
     "NAME": "Plamen u tegli",
     "FLAVOR": "U tegli prebiva plamen koji zanavek gori.",
     "DESCRIPTIONS": [
       "Po uzimanju, izaberi napad. Na početku svake borbe, ta karta će ti biti u ruci.",
       "Izaberi kartu za ",
-      "Na početku svake borbe, dodaj ",
+      "Na početku svake borbe, dodaj kartu ",
       " u ruku."
     ]
   },
@@ -113,7 +121,7 @@
     "DESCRIPTIONS": [
       "Po uzimanju, izaberi umeće. Na početku svake borbe, ta karta će ti biti u ruci.",
       "Izaberi kartu za ",
-      "Na početku svake borbe, dodaj ",
+      "Na početku svake borbe, dodaj kartu ",
       " u ruku."
     ]
   },
@@ -123,7 +131,7 @@
     "DESCRIPTIONS": [
       "Po uzimanju, izaberi moć. Na početku svake borbe, ta karta će ti biti u ruci.",
       "Izaberi kartu za ",
-      "Na početku svake borbe, dodaj ",
+      "Na početku svake borbe, dodaj kartu ",
       " u ruku."
     ]
   },
@@ -131,8 +139,8 @@
     "NAME": "Bronzana krljušt",
     "FLAVOR": "Oštra Čuvareva krljušt. Samooblikuje se ne bi li zaštitila svog korisnika.",
     "DESCRIPTIONS": [
-      "Svaki put kada primiš štetu, uzvrati sa #b",
-      " štete."
+      "Na početku svake borbe, zadobi #b",
+      " bodlje."
     ]
   },
   "Burning Blood": {
@@ -740,9 +748,9 @@
   },
   "Potion Belt": {
     "NAME": "Pojas za napitke",
-    "FLAVOR": "Mogu da nosim još napitaka uz pomoć ovog pojasa!",
+    "FLAVOR": "Uz pomoć ovog pojasa mogu da nosim još napitaka!",
     "DESCRIPTIONS": [
-      "Po uzimanju, zadobi #bdva mesta za napitak."
+      "Po uzimanju, zadobi #bdva mesta za napitke."
     ]
   },
   "Prayer Wheel": {
@@ -1154,12 +1162,21 @@
       "Napici se sada uvek pojavljuju kao deo plena posle borbe."
     ]
   },
-  "Boot": {
-    "NAME": "Čizma",
-    "FLAVOR": "Raste u veličini kada se nategne.",
+  "Mark of the Bloom": {
+    "NAME": "Mark of the Bloom",
+    "FLAVOR": "In the Beyond, thoughts and reality are one.",
     "DESCRIPTIONS": [
-      "Svaki put kada bi zadao #b",
-      " ili manje neodbranjene štete od #ynapada, povećaj je na #bpet."
+      "You can no longer heal."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Busted Crown",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
+      "Gain [R] at the start of each turn. ",
+      "Gain [G] at the start of each turn. ",
+      "Gain [B] at the start of each turn. "
     ]
   }
 }

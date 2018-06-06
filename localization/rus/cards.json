@@ -450,8 +450,8 @@
   },
   "Electrodynamics": {
     "NAME": "Электродинамика",
-    "DESCRIPTION": "Сферы Молнии бьют по ВСЕМ врагам.",
-    "UPGRADE_DESCRIPTION": "Сферы Молнии бьют по ВСЕМ врагам. NL Сферы Молнии бьют дважды, если в бою только один враг."
+    "DESCRIPTION": "Сферы Молнии бьют по ВСЕМ врагам. NL Заряжает !M! Сфер Молнии.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
     "NAME": "Вечная агония",
@@ -1284,5 +1284,9 @@
   "Zap": {
     "NAME": "Шок",
     "DESCRIPTION": "Заряжает !M! Сфер Молнии."
+  },
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   }
 }

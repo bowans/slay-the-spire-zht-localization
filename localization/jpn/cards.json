@@ -1274,8 +1274,8 @@
   },
   "Electrodynamics": {
     "NAME": "電気力学",
-    "DESCRIPTION": "喚起 した ライトニング が2回攻撃するようになる。",
-    "UPGRADE_DESCRIPTION": "喚起 した ライトニング が追加で !M! 回攻撃するようになる。"
+    "DESCRIPTION": "ライトニングがすべての敵を攻撃するようになる。 ライトニング !M! を 生成 する。",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Core Surge": {
     "NAME": "コアサージ",
@@ -1284,5 +1284,9 @@
   "Compile Driver": {
     "NAME": "コンパイル・ドライバ",
     "DESCRIPTION": "!D! ダメージを与える。 NL 生成しているオーブ1種につき、 !M! 枚のカードを引く。"
+  },
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   }
 }

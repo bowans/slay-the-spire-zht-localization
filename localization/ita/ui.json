@@ -27,7 +27,7 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Procedi"
+      "Prosegui"
     ]
   },
   "AbstractMonster": {
@@ -151,7 +151,7 @@
       "Conferma",
       "Conferma la Tua Scelta",
       "Scegli una Reliquia",
-      "Salta",
+      "Ignora",
       "VOTA ORA: ",
       "secondi rimanenti."
     ]
@@ -216,7 +216,7 @@
   },
   "CardRewardScreen": {
     "TEXT": [
-      "Salta",
+      "Ignora",
       "Scegli una Carta",
       "+2 PV Massimi",
       "VOTA ORA: ",
@@ -263,7 +263,7 @@
   },
   "CombatRewardScreen": {
     "TEXT": [
-      "Procedi",
+      "Prosegui",
       "Ignora Carte",
       "Ignora Oro",
       "Ignora Pozioni",
@@ -359,11 +359,11 @@
       "Continua",
       "Riprova",
       "Menù Principale",
-      "Procedi",
+      "Prosegui",
       "Sblocca",
       "Menù Principale",
       "Riprova",
-      "Procedi",
+      "Prosegui",
       "Sblocca",
       "Carte da sbloccare: ",
       "Carte da sbloccare: ",
@@ -571,7 +571,7 @@
       "Tastiera",
       "Controller (Non ancora disponibile)",
       "Ripristina Predefiniti",
-      "Conferma",
+      "Conferma Carta",
       "Cancella / Esci",
       "Visualizza la Mappa",
       "Vedi il Mazzo",
@@ -592,12 +592,12 @@
       "Scegli Carta #9",
       "Scegli Carta #10",
       "Lascia la Carta",
-      "Up",
-      "Down",
-      "Select",
-      "End Turn / Info",
-      "Tab Left",
-      "Tab Right"
+      "Su",
+      "Giù",
+      "Seleziona",
+      "Fine Turno / Info",
+      "Tab Sinistra",
+      "Tab Destra"
     ]
   },
   "LanguageDropdown": {
@@ -624,7 +624,8 @@
       "Vietnamese",
       "Ungaro",
       "Serbo (Latino)",
-      "Catalano"
+      "Catalano",
+      "Greek"
     ]
   },
   "LeaderboardFilters": {
@@ -925,7 +926,7 @@
       "#r%s #r/ #r%s #rPV",
       "#y%s #yOro",
       "#yPrese:",
-      "#ySaltate:",
+      "#yIgnorate:",
       "Informazioni Mancanti",
       "+2 PV Massimi",
       "#bC ",
@@ -1004,7 +1005,7 @@
   },
   "ShopRoom": {
     "TEXT": [
-      "Salta Mercante"
+      "Ignora Mercante"
     ]
   },
   "SingleCardViewPopup": {
@@ -1027,17 +1028,17 @@
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-      "Boss",
-      "Comune",
+      "Reliquia Boss",
+      "Reliquia Comune",
       "Deprecated",
-      "Rara",
-      "Negozio",
-      "Evento",
-      "Iniziale",
-      "Non comune",
+      "Reliquia Rara",
+      "Reliquia Acquistata",
+      "Reliquia da Evento",
+      "Reliquia Iniziale",
+      "Reliquia Non comune",
       "Bloccata",
       "Sconosciuta",
-      " Reliquia",
+      "",
       "Non hai ancora sbloccato questa reliquia.",
       "Non hai ancora trovato questa reliquia."
     ]
@@ -1089,12 +1090,12 @@
   },
   "TreasureRoom": {
     "TEXT": [
-      "Salta Scrigno"
+      "Ignora Scrigno"
     ]
   },
   "TreasureRoomBoss": {
     "TEXT": [
-      "Salta Scrigno"
+      "Ignora Scrigno"
     ]
   },
   "TwitchVoter": {

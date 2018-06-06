@@ -281,8 +281,8 @@
     "NAME": "Електро",
     "DESCRIPTIONS": [
       "#yГромовиця влучає по ВСІМ ворогам.",
-      " NL Якщо ворог наодинці, #yГромовиця влучає #b",
-      " рази."
+      "",
+      ""
     ]
   },
   "Energized": {
@@ -930,6 +930,15 @@
     "DESCRIPTIONS": [
       "Щоразу ",
       " отримує шкоду, втрачає стільки ж #yМіці, до кінця руху."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   }
 }

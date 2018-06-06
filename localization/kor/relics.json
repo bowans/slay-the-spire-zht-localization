@@ -122,8 +122,8 @@
     "NAME": "청동 비늘",
     "FLAVOR": "수호자의 날카로운 비늘입니다. 사용자를 보호하기 위해서 스스로 재배치합니다.",
     "DESCRIPTIONS": [
-      "공격을 당할 때마다 공격한 적에게 #b",
-      " 의 피해를 줍니다."
+      "전투 시작 시 #y가시 를 #b",
+      " 얻습니다."
     ]
   },
   "Burning Blood": {
@@ -1160,6 +1160,23 @@
     "DESCRIPTIONS": [
       "막히지 않은 #y피해를 #b",
       " 이하로 줄 때마다 피해량을 #b5 로 증가시킵니다."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Mark of the Bloom",
+    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "DESCRIPTIONS": [
+      "You can no longer heal."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Busted Crown",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
+      "Gain [R] at the start of each turn. ",
+      "Gain [G] at the start of each turn. ",
+      "Gain [B] at the start of each turn. "
     ]
   }
 }

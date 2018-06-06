@@ -164,7 +164,7 @@
     "DESCRIPTIONS": [
       "Ottieni #b3 #yReliquie e vieni #rMaledetto #b3 #bvolte.",
       "La Campana Rintocca...",
-      "Salta la Ricompensa",
+      "Ignora la Ricompensa",
       "Chiudi"
     ]
   },
@@ -834,8 +834,8 @@
     "NAME": "Piramide Runica",
     "FLAVOR": "Le antiche rune sono indecifrabili.",
     "DESCRIPTIONS": [
-      "A fine turno non scarti più la tua mano. NL Peschi #b",
-      " carta in meno ogni turno."
+      "A fine turno non scarti più la tua mano.",
+      ""
     ]
   },
   "Self Forming Clay": {
@@ -1160,6 +1160,23 @@
     "DESCRIPTIONS": [
       "Ogni volta che infliggeresti #b",
       " o meno danni da #yAttacco non bloccati, ne infliggi invece #b5."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Mark of the Bloom",
+    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "DESCRIPTIONS": [
+      "You can no longer heal."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Busted Crown",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
+      "Gain [R] at the start of each turn. ",
+      "Gain [G] at the start of each turn. ",
+      "Gain [B] at the start of each turn. "
     ]
   }
 }
