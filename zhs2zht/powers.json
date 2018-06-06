@@ -280,9 +280,9 @@
   "Electro": {
     "NAME": "電動力學",
     "DESCRIPTIONS": [
-      "#y閃電 將多 #y激發 一次。",
-      "#y閃電 將多 #y激發 #b",
-      " 次。"
+      "#y閃電 將擊中所有敵人。",
+      "",
+      ""
     ]
   },
   "Energized": {
@@ -930,6 +930,15 @@
       "在 #b",
       " 回合後死亡。",
       "在本回合死亡。"
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "能量提升",
+    "DESCRIPTIONS": [
+      "下一回合獲得額外 #b",
+      " [B] 。",
+      " [B] 。",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   }
 }
