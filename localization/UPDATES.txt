@@ -1,5 +1,72 @@
 Updates for Translators!
 
+06/06/2018
+events.json
+	"Ghosts"
+		"[Accept] #gObtain #g5 #gApparition. #rLose #r", ->
+		"[Accept] #gObtain #g5 Apparition. #rLose #r",
+	"Vampires"
+		"[Accept] #gRemove #gall #gStrikes. #gObtain #g5 #gBites. #rLose #r", ->
+		"[Accept] #gRemove #gall Strikes. #gObtain #g5 Bites. #rLose #r",
+		"] #gRemove #gall #gStrikes. #gObtain #g5 #gBites.", ->
+		"] #gRemove #gall Strikes. #gObtain #g5 Bites.",
+	"Addict"
+		"[Give JAX] #gReceive #ga #gRelic. #rLose #rJ.A.X.", ->
+		"[Give JAX] #gReceive #ga #gRelic. #rLose J.A.X.",
+	"Winding Halls"
+		"[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r", ->
+		"[Embrace Madness] #gReceive #g2 Madness. #rLose #r",
+	"Nest" NOTE: There's 6 elements in DESCRIPTIONS now! (was 5)
+		"DESCRIPTIONS"
+			"Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
+			"You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
+			"Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+			->
+			"A long line of #b~hooded~ #b~figures~ can be seen entering NL an #yUnassuming #yCathedral.",
+			"Naturally, you join the line and are quickly surrounded by #rCultists! NL They ignore you as they gleefully @chant@ and ~wave~ their weapons around. NL NL #r@\"MURDER!!@ #r@MURDER@ #r@MURDER!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MURDER!@ #r@MURDER@ #r@MUURDER!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You eye a #yDonation #yBox...",
+			"You decide to stay in line (out of fear) to see what will happen. NL NL Eventually, you are face-to-face with the leader. A well-dressed cultist hands you an #yOrnate #yDagger. Like the others before you, you slash your forearm and let the blood drip into an misshapen bowl. NL NL The cultists @chant@ and @holler@ for you! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You chant, too. Why not?",
+			"They didn't even notice.",
+		"OPTIONS"
+			"[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r", ->
+			"[Stay in Line] #gObtain #gRitual #gDagger. #rDowngrade #r",
+			Added new option:
+			"[Continue]"
+
+cards.json
+	"Conserve Battery"
+		"NAME": "Conserve Battery", ->
+		"NAME": "Charge Battery",
+
+credits.json
+	"LOC_SRB"
+		"Nikola \"hauzer\" Vukosavljević"
+		"Nikola \"hauzer\" Vukosavljevic"
+	"LOC_DEU"
+		Added new name:
+		"koykoy13"
+	
+----------------------------------
+
+06/05/2018
+events.json
+	"Mind Bloom"
+		(TYPO) 
+		"[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #g Rare #gRelic.", ->
+		"[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.", 
+relics.json
+	"Busted Crown"
+		"On Card Reward screens, you have #b2 fewer #ycards to choose from.", ->
+		"On Card Reward screens, you have #b2 fewer cards to choose from.",
+	"Question Card"
+		"On future Card Reward screens you have #y1 #yadditional #ycard to choose from."
+		"On future Card Reward screens you have #y1 additional card to choose from."
+ui.json
+	"AscensionModeDescriptions"
+		"Potions are less potent.", ->
+		"Less Potion Slots.",
+	
+----------------------------------
+
 06/04/2018
 events.json (NOTE: events.json in the english folder for up-to-date translations on these!)
 	"Nest" (The text used for this event will most likely be reworked)

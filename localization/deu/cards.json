@@ -286,7 +286,7 @@
   },
   "Conserve Battery": {
     "NAME": "Speicherbatterie",
-    "DESCRIPTION": "Erhalte !B! Block. NL Energie wird für den nächsten Zug aufgespeichert."
+    "DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug erhalte [B]."
   },
   "Consume": {
     "NAME": "Konsumieren",
@@ -986,6 +986,10 @@
     "NAME": "Zerfetzen",
     "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner NL !D! Schaden zu."
   },
+  "RitualDagger": {
+    "NAME": "Ritueller Dolch",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner, erhöhe den Schaden dieser Karte permanent um !M!. Erschöpft."
+  },
   "Rupture": {
     "NAME": "Riss",
     "DESCRIPTION": "Immer wenn du TP durch eine Karte verlierst, NL erhalte 1 Stärke."
@@ -1284,9 +1288,5 @@
   "Zap": {
     "NAME": "Stromschlag",
     "DESCRIPTION": "Erschaffe !M! Blitz."
-  },
-  "RitualDagger": {
-    "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   }
 }

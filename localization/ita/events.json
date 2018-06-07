@@ -782,35 +782,37 @@
     ]
   },
   "MindBloom": {
-    "NAME": "Mind Bloom",
+    "NAME": "Fioritura Mentale",
     "DESCRIPTIONS": [
-      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
-      "MIXED",
-      "MIXED"
+      "Mentre cammini nel caos nella Guglia, i tuoi pensieri sembrano quasi... #p~veri....~ NL NL Immagini mentali di #rmostri e #yricchezze si manifestano, diventando realtà. NL Hai la sensazione che tornerai alla normalità in fretta. Che cosa fai?",
+      "È davvero così facile?",
+      "Tutto ha senso, ora. NL La perdita di memoria, l'ascesa,  #yl'Antico. NL NL È così che è sempre stato. NL È così che sarà sempre. NL Presto, non rimarrà più alcuna memoria..."
     ],
     "OPTIONS": [
-      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
-      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
-      "[Leave]",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
+      "[Io sono Guerra] #rAffronti #run  #rBoss #rdel #rprimo #rAtto. #gRicevi #guna #gReliquia #gRara.",
+      "[Io sono Ricco] #gOttieni #g999 #gOro. #rVieni #rmaledetto #r- #r2 #rNormalità.",
+      "[Io sono Forte] #gTi #gcuri #gcompletamente. #rVieni #rmaledetto #r- #rDubbio.",
+      "[Io sono Sveglio] #gPotenzi #gtutte #gle #gtue #gCarte. #rNon #rpuoi #rpiù #rcurarti.",
+      "[Prosegui]"
     ]
   },
   "Nest": {
-    "NAME": "The Nest",
+    "NAME": "Il Nido",
     "DESCRIPTIONS": [
-      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
-      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
-      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "Stormi di cultisti paiono raggrupparsi intorno ad un punto preciso. Sorprendentemente, non ti attaccano mentre ti avvicini, rimanendo al loro posto. Puoi assistere allo strano rituale di iniziazione di alcuni nuovi membri del Culto.",
+      "Decidi di metterti in fila, per vedere se ti permetteranno di partecipare al rituale. NL NL Vieni coinvolto nella cerimonia e il capo mascherato ti incide il braccio con un pugnale la cui lame sembra assorbire parte del tuo potere. NL NL Mentre la tua iniziazione si conclude, ti viene consegnato il pugnale con cui sei stato ferito, come simbolo di appartenenza.",
+      "Cogli l'opportunità di arricchirti, raccogliendo vari oggetti di valore sparsi attraverso l'edificio prima di fuggire.",
+      "",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      "[Unisciti al Culto] #gOttieni #gla #gLama #gRituale. #rDepotenzi #r",
       ".",
-      "[Smash and Grab] #gObtain #g150 #gGold.",
-      "[Locked] Requires: Upgraded Card.",
-      "[Leave]"
+      "[Distruggi e Arraffa] #gOttieni #g150 #gOro.",
+      "[Bloccato] Richiede: Carta Potenziata.",
+      "[Prosegui]",
+      "[Continue]"
     ]
   }
 }

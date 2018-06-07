@@ -151,6 +151,16 @@
       " TP."
     ]
   },
+  "Busted Crown": {
+    "NAME": "Zerbrochene Krone",
+    "FLAVOR": "Die Krone des Champs... oder nur eine billige Nachahmung?",
+    "DESCRIPTIONS": [
+      "Bei Kartenbelohnungen hast du #b2 Karten weniger zur Auswahl.",
+      "Erhalte in jedem Zug [R] . ",
+      "Erhalte in jedem Zug [G] . ",
+      "Erhalte in jedem Zug [B] . "
+    ]
+  },
   "Cables": {
     "NAME": "Gold-beschichtete Kabel",
     "FLAVOR": "\"Interessant! Sogar Automatone sind vom Placebo-Effekt betroffen.\" - Ranwid",
@@ -506,6 +516,13 @@
       "Erhalte in jedem Zug [R] . NL Du beginnst Kämpfe mit #b2 #rWunden im Nachziehstapel."
     ]
   },
+  "Mark of the Bloom": {
+    "NAME": "Zeichen der Blüte",
+    "FLAVOR": "Im Jenseits sind Gedanken und Realität vereint.",
+    "DESCRIPTIONS": [
+      "Du kannst nicht mehr geheilt werden."
+    ]
+  },
   "Matryoshka": {
     "NAME": "Matroschka",
     "FLAVOR": "Ineinander schachtelbare Puppen, bemalt mit einem unbekannten Vogel mit weißen Augen und blauen Federn.",
@@ -764,7 +781,7 @@
     "NAME": "Fragekarte",
     "FLAVOR": "„Jene mit mehr Auswahl mindern die Kehrseite des Chaos.“ – Kublai der Große",
     "DESCRIPTIONS": [
-      "Auf künftigen Kartenbelohnungs- Bildschirmen hast du #y1 #yzusätzliche #yKarte zur Auswahl."
+      "Bei künftigen Kartenbelohnungen hast du #y1 Karte mehr zur Auswahl."
     ]
   },
   "Red Circlet": {
@@ -1160,23 +1177,6 @@
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
       "Tränke werden immer nach dem Kampf fallen gelassen."
-    ]
-  },
-  "Mark of the Bloom": {
-    "NAME": "Mark of the Bloom",
-    "FLAVOR": "In the Beyond, thoughts and reality are one.",
-    "DESCRIPTIONS": [
-      "You can no longer heal."
-    ]
-  },
-  "Busted Crown": {
-    "NAME": "Busted Crown",
-    "FLAVOR": "The Champ's crown... or a pale imitation?",
-    "DESCRIPTIONS": [
-      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
-      "Gain [R] at the start of each turn. ",
-      "Gain [G] at the start of each turn. ",
-      "Gain [B] at the start of each turn. "
     ]
   }
 }

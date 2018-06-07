@@ -294,6 +294,15 @@
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
+  "EnergizedBlue": {
+    "NAME": "Supercarica",
+    "DESCRIPTIONS": [
+      "Ottieni #b",
+      " [B] in più il prossimo turno.",
+      " [B] in più il prossimo turno.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
   "Entangled": {
     "NAME": "Intrappolato",
     "DESCRIPTIONS": [
@@ -930,15 +939,6 @@
     "DESCRIPTIONS": [
       "Ogni volta che ",
       " prende danno, perde altrettanta #yForza fino a fine turno."
-    ]
-  },
-  "EnergizedBlue": {
-    "NAME": "Energized",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [B] next turn.",
-      " additional [B] next turn.",
-      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   }
 }

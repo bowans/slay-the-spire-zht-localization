@@ -1162,21 +1162,21 @@
       " 以下のダメージを #b5 ダメージに増加する。"
     ]
   },
+  "Busted Crown": {
+    "NAME": "Busted Crown",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "On Card Reward screens, you have #b2 fewer cards to choose from.",
+      "Gain [R] at the start of each turn. ",
+      "Gain [G] at the start of each turn. ",
+      "Gain [B] at the start of each turn. "
+    ]
+  },
   "Mark of the Bloom": {
     "NAME": "Mark of the Bloom",
     "FLAVOR": "In the Beyond, thoughts and reality are one.",
     "DESCRIPTIONS": [
       "You can no longer heal."
-    ]
-  },
-  "Busted Crown": {
-    "NAME": "Busted Crown",
-    "FLAVOR": "The Champ's crown... or a pale imitation?",
-    "DESCRIPTIONS": [
-      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
-      "Gain [R] at the start of each turn. ",
-      "Gain [G] at the start of each turn. ",
-      "Gain [B] at the start of each turn. "
     ]
   }
 }

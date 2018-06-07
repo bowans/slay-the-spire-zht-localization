@@ -400,6 +400,21 @@
       "Verbleibende Versuche: #y"
     ]
   },
+  "MindBloom": {
+    "NAME": "Gedankenblüte",
+    "DESCRIPTIONS": [
+      "Als du läufst und das Chaos im Spire durchquerst, fühlen sich deine Gedanken plötzlich sehr... #p~echt~ #p~an...~ NL NL Allmählich manifestieren sich Vorstellungen von #rMonstern und #yReichtümern in der Realität. NL Die Bilder eilen schnell davon. Was tust du?",
+      "Kann es wirklich so einfach sein?",
+      "Alles macht jetzt Sinn. NL Die fehlenden Erinnerungen, der Aufstieg, die #yAhnin. NL NL Genau so ist es immer gewesen. NL Genau so wird es immer sein. NL Und alles wird bald wieder vergessen sein..."
+    ],
+    "OPTIONS": [
+      "[Ich bin Krieg] #rKämpfe #rgegen #reinen #rBoss #raus #rLevel #r1. #gErhalte #gein #gseltenes #gRelikt.",
+      "[Ich bin reich] #gErhalte #g999 #gGold. #rWerde #rverflucht #r- #r2 #rNormalität.",
+      "[Ich bin gesund] #gHeile #gdeine #gTP #gkomplett. #rWerde #rverflucht #r- #rZweifel.",
+      "[Ich bin wach] #gVerbessere #galle #gKarten. #rDu #rkannst #rdich #rnicht #rmehr #rheilen.",
+      "[Verlassen]"
+    ]
+  },
   "Mushrooms": {
     "NAME": "Pilze",
     "DESCRIPTIONS": [
@@ -446,6 +461,25 @@
       "[Verlassen]"
     ]
   },
+  "Nest": {
+    "NAME": "Das Nest",
+    "DESCRIPTIONS": [
+      "In großen Schwärmen scharen sich Kultisten um einen Ort in der Mitte. Als du dich näherst, bist du überrascht, wie zahm sie sind - niemand macht Anstalten, dich anzugreifen. Du siehst, wie in einer Art Ritual neue Mitglieder in ihren Kult aufgenommen werden.",
+      "Du möchtest dich einordnen und schauen, ob sie dir die Teilnahme an ihrem Ritual erlauben. NL NL Du wirst mit in die Zeremonie gerissen und der maskierte Anführer schlitzt deinen Arm mit einem Dolch auf. Nun spürst du, wie ein Teil deiner Kraft in die Klinge einsickert. NL NL Nach dem Ende deiner Einweihung in den Kult wird dir dieser personalisierte Dolch als Zeichen deiner neuen Mitgliedschaft gereicht.",
+      "Was für eine Gelegenheit! Du nutzt sie aus und findest einige im Gebäude verstreute Wertsachen, bevor du es schaffst zu entkommen.",
+      "",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Dem Kult anschließen] #gErhalte #gRitueller #gDolch. #rVerschlechtere #r",
+      ".",
+      "[Schlagen und Stehlen] #gErhalte #g150 #gGold.",
+      "[Gesperrt] Benötigt: Verbesserte Karte.",
+      "[Verlassen]",
+      "[Continue]"
+    ]
+  },
   "Purifier": {
     "NAME": "Schrein der Reinigung",
     "DESCRIPTIONS": [
@@ -479,7 +513,7 @@
     "NAME": "Geheimes Portal",
     "DESCRIPTIONS": [
       "Vor dir erblickst du etwas, das fehl am Platze wirkt in der fremden Landschaft um dich herum. Seltsam in den lebenden Wänden des Jenseits platziert ist ein umschlossener Steineingang, ausgefüllt von einem #p~schwindelerregenden~ #p~magischen~ #p~Portal.~ NL NL Du bist dir nicht sicher, wo es hinführt, aber es könnte deine Reise durch den Spire beschleunigen.",
-      "Deine Wahrnemung von Raum und Zeit zerreißt komplett, als du durch das Portal springst. NL NL Als du dich in der neuen Umgebung zurechtfinden willst, wird dir klar, dass direkt vor dir ein fürchterlicher Kampf liegt.",
+      "Deine Wahrnehmung von Raum und Zeit zerreißt komplett, als du durch das Portal springst. NL NL Als du dich in der neuen Umgebung zurechtfinden willst, wird dir klar, dass direkt vor dir ein fürchterlicher Kampf liegt.",
       "Wachsamkeit und Vorsicht scheinen ein besserer Ansatz zu sein, um die Spitze des Spire zu erreichen. Du lässt das Portal links liegen und gehst weiter."
     ],
     "OPTIONS": [
@@ -779,38 +813,6 @@
       "[Zurücklassen] #rVerliere #r",
       " #rGold.",
       "[Verlassen]"
-    ]
-  },
-  "MindBloom": {
-    "NAME": "Mind Bloom",
-    "DESCRIPTIONS": [
-      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
-      "MIXED",
-      "MIXED"
-    ],
-    "OPTIONS": [
-      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
-      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
-      "[Leave]",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
-    ]
-  },
-  "Nest": {
-    "NAME": "The Nest",
-    "DESCRIPTIONS": [
-      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
-      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
-      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
-      "",
-      ""
-    ],
-    "OPTIONS": [
-      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
-      ".",
-      "[Smash and Grab] #gObtain #g150 #gGold.",
-      "[Locked] Requires: Upgraded Card.",
-      "[Leave]"
     ]
   }
 }

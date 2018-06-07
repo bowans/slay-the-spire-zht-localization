@@ -29,7 +29,7 @@
       " #yGold: #gReceive #ga #gRelic.",
       "[Locked] Requires: ",
       " Gold.",
-      "[Give JAX] #gReceive #ga #gRelic. #rLose #rJ.A.X.",
+      "[Give JAX] #gReceive #ga #gRelic. #rLose J.A.X.",
       "[Locked] Requires: J.A.X.",
       "[Leave] Ignore the addict.",
       "[Leave]"
@@ -240,7 +240,7 @@
       ""
     ],
     "OPTIONS": [
-      "[Accept] #gObtain #g5 #gApparition. #rLose #r",
+      "[Accept] #gObtain #g5 Apparition. #rLose #r",
       "% #rMax #rHP.",
       "[Refuse]",
       "",
@@ -715,11 +715,11 @@
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
-      "[Accept] #gRemove #gall #gStrikes. #gObtain #g5 #gBites. #rLose #r",
+      "[Accept] #gRemove #gall Strikes. #gObtain #g5 Bites. #rLose #r",
       "% #rMax #rHP.",
       "[Refuse]",
       "[Lose ",
-      "] #gRemove #gall #gStrikes. #gObtain #g5 #gBites.",
+      "] #gRemove #gall Strikes. #gObtain #g5 Bites.",
       "[Leave]"
     ]
   },
@@ -758,7 +758,7 @@
     ],
     "OPTIONS": [
       "...",
-      "[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r",
+      "[Embrace Madness] #gReceive #g2 Madness. #rLose #r",
       " #rHP.",
       "[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
       "[Leave]",
@@ -789,7 +789,7 @@
       "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
     ],
     "OPTIONS": [
-      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #g Rare #gRelic.",  
+      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.",  
       "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #r2 #rNormality.",
       "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
       "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
@@ -799,18 +799,20 @@
   "Nest": {
     "NAME": "The Nest",
     "DESCRIPTIONS": [
-      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
-      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
-      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "A long line of #b~hooded~ #b~figures~ can be seen entering NL an #yUnassuming #yCathedral.",
+      "Naturally, you join the line and are quickly surrounded by #rCultists! NL They ignore you as they gleefully @chant@ and ~wave~ their weapons around. NL NL #r@\"MURDER!!@ #r@MURDER@ #r@MURDER!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MURDER!@ #r@MURDER@ #r@MUURDER!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You eye a #yDonation #yBox...",
+      "You decide to stay in line (out of fear) to see what will happen. NL NL Eventually, you are face-to-face with the leader. A well-dressed cultist hands you an #yOrnate #yDagger. Like the others before you, you slash your forearm and let the blood drip into an misshapen bowl. NL NL The cultists @chant@ and @holler@ for you! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You chant, too. Why not?",
+      "They didn't even notice.",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      "[Stay in Line] #gObtain Ritual Dagger. #rDowngrade ",
 	  ".",
       "[Smash and Grab] #gObtain #g150 #gGold.",
 	  "[Locked] Requires: Upgraded Card.",
-      "[Leave]"
+      "[Leave]",
+      "[Continue]"
     ]
   }
 }

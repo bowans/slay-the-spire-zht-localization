@@ -782,35 +782,37 @@
     ]
   },
   "MindBloom": {
-    "NAME": "Mind Bloom",
+    "NAME": "心靈綻放",
     "DESCRIPTIONS": [
-      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
-      "MIXED",
-      "MIXED"
+      "你在高塔的混沌深處不斷攀行，不知不覺間，你愕然發現自己的思緒開始變得非常…… #p~真實……~ NL NL 各種 #r怪物 與 #y財寶 的影像開始有了實體。 NL 這些感覺稍縱即逝，你準備怎麼做？",
+      "真的有這麼簡單的事嗎？",
+      "一切都明白了。 NL 失去的記憶、不斷的攀登、那個 #y先古之民 。 NL NL 這是一切事物原本的樣子， NL 也是一切事物將有的樣子。 NL 很快，這一切又會被再次遺忘……"
     ],
     "OPTIONS": [
-      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
-      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
-      "[Leave]",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
+      "[我必凱旋] #r與一名第一階段的 #rBoss #r戰鬥。 #g獲得一件稀有遺物。",
+      "[我將富有] #g獲得 #g999 #g金幣。 #r被詛咒—— #r2 #r張凡庸。",
+      "[我無傷痛] #g回復所有生命. #r被詛咒——疑慮。",
+      "[我已覺醒] #g升級所有牌。 #r你無法再回復生命。",
+      "[離開]"
     ]
   },
   "Nest": {
-    "NAME": "The Nest",
+    "NAME": "巢穴",
     "DESCRIPTIONS": [
-      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
-      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
-      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "似乎有一大批邪教徒圍聚在某個地點。當你靠近時，意外地發現他們十分平靜，沒有任何想要攻擊你的樣子。你看見有不少新成員正接受某種儀式，似乎是加入這個邪教的方法。",
+      "你決定也去排個隊，看看他們會不會讓你也參加儀式。 NL NL 很快就輪到了你，戴著面具的邪教領袖用一把匕首在你的手臂上劃了一下，你感覺到體內有一些力量流進了那把匕首。 NL NL 當入教儀式完成之後，這把特別的匕首被作為教徒身份的證明交給了你。",
+      "你趁著謝教徒們舉行儀式的機會在建築物的角落裡四處找尋值錢的東西，好好搜刮了一番才離去。",
+      "",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
-      ".",
-      "[Smash and Grab] #gObtain #g150 #gGold.",
-      "[Locked] Requires: Upgraded Card.",
-      "[Leave]"
+      "[加入邪教] #g獲得儀式匕首。 #r卡牌 #r",
+      " #r被降級。",
+      "[打砸搶] #g獲得 #g150 #g金幣。",
+      "[鎖定] 需要：升級過的牌。",
+      "[離開]",
+      "[Continue]"
     ]
   }
 }

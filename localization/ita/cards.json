@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Tormenta",
-    "DESCRIPTION": "Infliggi a TUTTI i nemici !M! danni per ogni Ghiaccio Creato in questo combattimento.",
+    "DESCRIPTION": "Infliggi a TUTTI i nemici danno pari a !M! volte il Ghiaccio Creato in questo combattimento.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Infliggi !D! danni.)",
@@ -270,7 +270,7 @@
   },
   "Cold Snap": {
     "NAME": "Onda Gelida",
-    "DESCRIPTION": "Infliggi !D! danni. Crei !M! Ghiaccio."
+    "DESCRIPTION": "Infliggi !D! danni. NL Crei !M! Ghiaccio."
   },
   "Combust": {
     "NAME": "Combustione",
@@ -295,8 +295,8 @@
   },
   "Corpse Explosion": {
     "NAME": "Cadavere Bomba",
-    "DESCRIPTION": "Rimuovi il Veleno da un nemico ed infliggi danno pari al doppio del veleno rimosso ad OGNI nemico.",
-    "UPGRADE_DESCRIPTION": "Rimuovi il Veleno da un nemico ed infliggi danno pari al triplo del veleno rimosso a OGNI nemico.",
+    "DESCRIPTION": "Rimuovi il Veleno da un nemico ed infliggi danno pari al doppio del veleno rimosso a TUTTI i nemici.",
+    "UPGRADE_DESCRIPTION": "Rimuovi il Veleno da un nemico ed infliggi danno pari al triplo del veleno rimosso a TUTTI i nemici.",
     "EXTENDED_DESCRIPTION": [
       "Quel nemico non è Avvelenato."
     ]
@@ -1171,7 +1171,7 @@
   },
   "Thunder Strike": {
     "NAME": "Colpo di Tuono",
-    "DESCRIPTION": "Infliggi !D! danni a un nemico casuale per Fulmine Creato in combattimento.",
+    "DESCRIPTION": "Infliggi !D! danni a un nemico casuale per ogni Fulmine Creato in combattimento.",
     "EXTENDED_DESCRIPTION": [
       " ( !M! Fulmini Creati.)"
     ]
@@ -1283,10 +1283,10 @@
   },
   "Compile Driver": {
     "NAME": "Nuovi Driver",
-    "DESCRIPTION": "Infliggi !D! danni. NL Pesca !M! carta per ogni tipo di Globo in campo."
+    "DESCRIPTION": "Infliggi !D! danni. NL Pesca !M! carta per ogni tipo di Globo che possiedi."
   },
   "RitualDagger": {
-    "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+    "NAME": "Lama Rituale",
+    "DESCRIPTION": "Infliggi !D! danni. Se il nemico scelto muore così, il danno di questa carta aumenta di !M!. Esaurisci."
   }
 }

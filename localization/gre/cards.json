@@ -88,15 +88,15 @@
     "DESCRIPTION": "Κάνε !D! ζημιά. NL Αν ο εχθρός έχει Δηλητήριο, κάνε !D! ζημιά ξανά."
   },
   "Barrage": {
-    "NAME": "Barrage",
-    "DESCRIPTION": "Κάνε !D! ζημιά for each Channeled Orb."
+    "NAME": "Κατα ρυπάς",
+    "DESCRIPTION": "Κάνε !D! ζημιά για κάθε διοχετευμένη Σφαίρα."
   },
   "Barricade": {
-    "NAME": "Barricade",
-    "DESCRIPTION": "Μπλοκάρισμα no longer expires at the start of your turn."
+    "NAME": "Οχύρωση",
+    "DESCRIPTION": "Το Μπλοκάρισμα δεν φεύγει πλέον στην αρχή του γύρου σου."
   },
   "Bash": {
-    "NAME": "Bash",
+    "NAME": "Τσάκισμα",
     "DESCRIPTION": "Κάνε !D! ζημιά. NL Εφάρμοσε !M! Ευάλωτος."
   },
   "Battle Trance": {
@@ -128,7 +128,7 @@
     "DESCRIPTION": "Κάνε !D! ζημιά σε ΌΛΟΥΣ τους εχθρούς. NL Πάρε [B] για κάθε Διοχετευμένη Σφαίρα. NL Εξάντληση."
   },
   "Blind": {
-    "NAME": "Blind",
+    "NAME": "Τύφλωση",
     "DESCRIPTION": "Εφάρμοσε !M! Αδύναμος.",
     "UPGRADE_DESCRIPTION": "Εφάρμοσε !M! Αδύναμος σε ΌΛΟΥΣ τους εχθρούς."
   },
@@ -155,7 +155,7 @@
     "DESCRIPTION": "Κάνε !D! ζημιά."
   },
   "Blur": {
-    "NAME": "Blur",
+    "NAME": "Θολούρα",
     "DESCRIPTION": "Πάρε !B! Μπλοκάρισμα. NL Το Μπλοκάρισμα δεν φεύγει τον επόμενο γύρο."
   },
   "Body Slam": {
@@ -306,11 +306,11 @@
     "DESCRIPTION": "Οι Ικανότητες κοστίζουν 0. NL Όποτε παίζεις μια Ικανότητα, Εξάντλησε την."
   },
   "Creative AI": {
-    "NAME": "Δημιουργικό AI",
+    "NAME": "Τεχνιτή Νοημοσύνη",
     "DESCRIPTION": "Στην αρχή του γύρου σου, βάλε μια τυχαία Δύναμη στο χέρι σου."
   },
   "Crippling Poison": {
-    "NAME": "Crippling Cloud",
+    "NAME": "Τοξικό Νέφος",
     "DESCRIPTION": "Εφάρμοσε !M! Δηλητήριο και 2 Αδύναμος σε ΌΛΟΥΣ τους εχθρούς. NL Εξάντληση."
   },
   "Dagger Spray": {
@@ -347,7 +347,7 @@
     "DESCRIPTION": "Εφάρμοσε !M! Δηλητήριο."
   },
   "Decay": {
-    "NAME": "Decay",
+    "NAME": "Σαπίλα",
     "DESCRIPTION": "Δεν παίζεται. NL Στο τέλος του γύρου σου, πάρε 2 ζημιά."
   },
   "Deep Breath": {
@@ -376,7 +376,7 @@
     "DESCRIPTION": "Πάρε !M! Συγκέντρωση."
   },
   "Demon Form": {
-    "NAME": "Δεμονομορφή",
+    "NAME": "Δαιμονομορφή",
     "DESCRIPTION": "Στην αρχή κάθε γύρου, Πάρε !M! Δύναμη."
   },
   "Die Die Die": {
@@ -543,7 +543,7 @@
     "NAME": "Σκωρίες",
     "DESCRIPTION": "Κάνε !D! ζημιά για κάθε Ικανότητα στο χέρι σου.",
     "EXTENDED_DESCRIPTION": [
-      " NL (You have ",
+      " NL (Έχεις ",
       " Ικανότητα).",
       " Ικανότητες)."
     ]
@@ -719,7 +719,7 @@
     "DESCRIPTION": "Εφάρμοσε !M! Αδύναμος. NL Πάρε !B! Μπλοκάρισμα."
   },
   "Limit Break": {
-    "NAME": "Σπάσιμο των Ορίων",
+    "NAME": "Εκτός Ορίων",
     "DESCRIPTION": "Διπλασίασε τη Δύναμη σου. NL Εξάντληση.",
     "UPGRADE_DESCRIPTION": "Διπλασίασε τη Δύναμη σου."
   },
@@ -1286,7 +1286,7 @@
     "DESCRIPTION": "Κάνε !D! ζημιά. NL Τράβηξε !M! κάρτα για κάθε διαφορετική Σφαίρα που έχεις."
   },
   "RitualDagger": {
-    "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+    "NAME": "Τελετουργικό Στιλέτο",
+    "DESCRIPTION": "Κάνε !D! ζημιά. Αν αυτό σκοτώσει έναν εχθρό, αύξησε μόνιμα τη ζημιά αυτής της κάρτας κατά !M!. Εξάντληση."
   }
 }

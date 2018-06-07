@@ -782,35 +782,37 @@
     ]
   },
   "MindBloom": {
-    "NAME": "Mind Bloom",
+    "NAME": "Άνθηση Εγκεφάλου",
     "DESCRIPTIONS": [
-      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
-      "MIXED",
-      "MIXED"
+      "Καθώς διασχίζεις και σκαρφαλώνεις τον Πύργο, οι σκέψεις σου αρχίζουν ξαφνικά να φαίνονται πολύ... #p~αληθινές...~ NL NL. Φαντασιώσεις #rτεράτων και #yrθησαυρών αρχίζουν να παίρνουν υλική μορφή. NL Η αίσθηση είναι πολύ φευγαλέα. Τι κάνεις?",
+      "Είναι στ'αλήθεια τόσο εύκολο?",
+      "Τα πάντα βγάζουν νόημα ξαφνικά. NL Η έλλειψη αναμνήσεων, η Άνοδος, ο #yΑρχαίος. NL NL Έτσι ήταν πάντοτε. NL Έτσι θα είναι για πάντα. NL Όλα θα ξεχαστούν και πάλι πολύ σύντομα..."
     ],
     "OPTIONS": [
-      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
-      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
-      "[Leave]",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
+      "[Είμαι ο Πόλεμος] #Πολέμησε #rέναν #rΑρχηγό #rτης #rΠρώτης #rΠράξης. #gΠάρε #gένα #gΣπάνιο #gΚειμήλιο.",
+      "[Είμαι Πλούσιος] #gΠάρε #g999 #gΧρυσό. #rΚαταραμένος #r- #r2 #rΚανονικότητα.",
+      "[Είμαι Υγειής] #gΓιάτρεψε #όλους #gτους #gΒΥ. #rΚαταραμένος #r- #rΑμφιβολία.",
+      "[Είμαι Ξύπνιος] #gΑναβάθμισε #gόλες #gτις #gΚάρτες. #rΔεν #rμπορείς #rπλέον #rνα #rγιατρευτείς.",
+      "[Φύγε]"
     ]
   },
   "Nest": {
-    "NAME": "The Nest",
+    "NAME": "Η Φωλιά",
     "DESCRIPTIONS": [
-      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
-      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
-      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "Σμήνοι αιρετικών φαίνεται να μαζεύονται γύρω από ένα κεντρικό σημείο. Καθώς πλησιάζεις παρατηρείς με έκπληξη πως είναι πειθήνιοι και δεν κάνουν καμία επιθετική κίνηση. Μπορείς να δεις νέα μέλη να μυούνται στην αίρεση μέσω κάποιου είδους τελετουργικό.",
+      "Αποφασίζεις να σταθείς στη σειρά για να δεις αν θα σε αφήσουν να συμμετάσχεις. NL NL Σε τραβάνε μέσα στην τελετουργία και καθώς ο μασκοφόρος αρχηγός τους σου χαρακώνει το χέρι με ένα στιλέτο, νιώθεις λίγη από τη δύναμή σου να απορροφάται απο το στιλέτο. NL NL Καθώς ολοκληρώνεις τη μύηση σου στην αίρεση, σου παραχωρούν το στιλέτο ως ένδειξη της καινούργιας σου θέσης.",
+      "Εκμεταλευόμενος την ευκαιρεία, βρίσκεις διάφορα πολύτιμα σκορπισμένα στο κτίριο πριν το σκάσεις.",
+      "",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      "[Μπες στην Αίρεση] #gΠάρε #gτο #gΤελετουργικό #gΣτιλέτο. #rΥποβάθμησε #r",
       ".",
-      "[Smash and Grab] #gObtain #g150 #gGold.",
-      "[Locked] Requires: Upgraded Card.",
-      "[Leave]"
+      "[Βάρα και Άρπαξε] #gΠάρε #g150 #gΧρυσό.",
+      "[Κλειδωμένο] Απαιτείται: Αναβαθμισμένη Κάρτα.",
+      "[Φύγε]",
+      "[Continue]"
     ]
   }
 }
