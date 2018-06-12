@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "前進",
-      "Blights:"
+      "災難："
     ]
   },
   "AbstractMonster": {
@@ -593,26 +593,26 @@
       "選擇牌 #9",
       "選擇牌 #10",
       "取消選擇牌",
+      "選擇*",
+      "取消*",
+      "頂部狀態列*",
+      "繼續/結束回合*",
+      "上一標籤頁 / 牌組*",
+      "下一標籤頁 / 消耗堆*",
+      "地圖*",
+      "設置*",
+      "抽牌堆*",
+      "棄牌堆*",
+      "上*",
+      "下*",
+      "左*",
+      "右*",
+      "上（備用）*",
+      "下（備用）*",
+      "左（備用）*",
+      "右（備用）*",
       "上",
-      "下",
-      "選擇",
-      "結束回合/情報",
-      "上一標籤頁",
-      "下一標籤頁",
-      "Settings",
-      "Settings*",
-      "Draw Pile*",
-      "Discard Pile*",
-      "Up*",
-      "Down*",
-      "Left*",
-      "Right*",
-      "Up (Alt)*",
-      "Down (Alt)*",
-      "Left (Alt)*",
-      "Right (Alt)*",
-      "Up",
-      "Down"
+      "下"
     ]
   },
   "LanguageDropdown": {
@@ -779,8 +779,8 @@
       "未知",
       "",
       "這個功能還沒做好。",
-      "Endless",
-      "Climb a Spire that never ends."
+      "無盡模式",
+      "攀爬一座永無盡頭的高塔。"
     ]
   },
   "MerchantImageTextNotInGame": {
