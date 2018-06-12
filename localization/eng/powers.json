@@ -823,8 +823,8 @@
   "Storm": {
     "NAME": "Storm",
     "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
+      "Whenever you play a #bPower, #yChannel #b",
+      " #yLightning."
     ]
   },
   "Strength": {
@@ -939,6 +939,13 @@
     "DESCRIPTIONS": [
       "Whenever ",
       " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
     ]
   }
 }

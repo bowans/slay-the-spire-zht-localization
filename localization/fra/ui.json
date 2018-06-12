@@ -624,7 +624,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Continuer"
+      "Continuer",
+      "Blights:"
     ]
   },
   "Exordium": {
@@ -710,7 +711,7 @@
       "Hongrois",
       "Serbe (Latin)",
       "Catalan",
-      "Greek"
+      "Grec"
     ]
   },
   "UnlockTextEffect": {
@@ -875,7 +876,7 @@
       "Les Élites ont plus de vie.",
       "Les Boss ont plus de vie.",
       "Commencez chaque partie maudit !",
-      "Les potions sont moins efficaces.",
+      "Moins d'emplacements de potions.",
       "Les cartes améliorées apparaissent moins souvent.",
       "Les boss sont pauvres.",
       "Commencez avec moins de PV max.",
@@ -997,7 +998,9 @@
       "Tous les gens qui ont contribué à Slay the Spire !",
       "Inconnu",
       "",
-      "Cette fonctionnalité n'est pas encore disponible."
+      "Cette fonctionnalité n'est pas encore disponible.",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -1097,7 +1100,21 @@
       "Sélectionner",
       "Fin du tour / Info",
       "Page suivante",
-      "Page précédente"
+      "Page précédente",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "CacheAction": {

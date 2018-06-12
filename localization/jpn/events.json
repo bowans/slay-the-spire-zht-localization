@@ -568,8 +568,8 @@
     "DESCRIPTIONS": [
       "古の神を祭った祭壇が目の前にある。 NL 祭壇の上には手を広げた女神像が置かれていた。 NL 彼女があなたに問いかける。贄を捧げよと。",
       "あなたは、祭壇の上に静かに偶像を乗せた。すると #b冷たい 風が部屋を吹き抜けていった。 NL 女神像の腕は変色し崩れ始めた。 NL NL あなたが置いた #y黄金の偶像 は毒黒く色が変わり目から涙を流し始める。 NL 涙がとめどなくあふれ出していた。",
-      "あなたは祭壇に立ち、手首を切った。 NL 流れ出る #r血 が生贄となる、女神像が腕を伸ばしてあなたの目を閉じた。 NL 真っ暗になった。 NL しばらくしから目を覚ますと、何か新しい力に目覚めたような感覚を覚えた。",
-      "あなたは女神像に駆け寄って像を破壊した、あなたを縛り付けるこの部屋の結界が打ち砕かれる。 NL 邪悪な嘆きが辺りにこだました。 #p~呪い~の#p~魔法~ が体の芯に染み込んでいく。"
+      "あなたは祭壇に立ち、手首を切った。 NL 流れ出る #r血 が贄となる、女神像が腕を伸ばしてあなたの目を閉じた。 NL 真っ暗になった。 NL しばらくしから目を覚ますと、何か新しい力に目覚めたような感覚を覚えた。",
+      "あなたは女神像に駆け寄って像を破壊した、あなたを縛り付けるこの部屋の結界が打ち砕かれる。 NL 邪悪な嘆きが辺りにこだました。 #p~呪いの魔法~ が体の芯に染み込んでいく。"
     ],
     "OPTIONS": [
       "[供物：黄金の偶像] #gスペシャルレリックを受け取る。 #r黄金の偶像を失う。",
@@ -782,37 +782,37 @@
     ]
   },
   "MindBloom": {
-    "NAME": "Mind Bloom",
+    "NAME": "マインドブルーム",
     "DESCRIPTIONS": [
-      "While walking and traversing through the chaos of the Spire, your thoughts suddenly begin to feel very... #p~real...~ NL NL Imaginings of #rmonsters and #yriches begin to manifest themselves into reality. NL The sensation is quickly fleeting. What do you do?",
-      "Can it really be this easy?",
-      "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
+      "塔の混沌を歩き回っていると、突然あなたの思考が非常な ~#p現実味~ を帯び始めた…。 NL NL #r怪物 と #r金持ち の想像が具現化し始める。 NL 感覚はすぐに消え去った。 あなたは一体何者だ?",
+      "こんな都合のいいことがありえるのだろうか？",
+      "今、全てを理解した。NL 記憶の欠落、塔を登る、#y古のもの 。 NL NL いつもそうだった。 NL これからもそうだろう。 NL そしてまたすぐに全て忘れてしまうのだろう…。"
     ],
     "OPTIONS": [
-      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.",
-      "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #r2 #rNormality.",
-      "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
+      "[私は闘争者] #rAct1のボスと戦う。 #gレアレリックを1つ獲得する。",
+      "[私はお金持ち] #g999ゴールドを得る。 #r呪い-2平静",
+      "[私は健康] #gHPを全回復する。 #r呪い-疑念",
+      "[私は目覚めた] #gすべてのカードをアップグレードする。 #rあなたはHPの回復ができなくなる。",
+      "[立ち去る]"
     ]
   },
   "Nest": {
-    "NAME": "The Nest",
+    "NAME": "巣窟",
     "DESCRIPTIONS": [
-      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
-      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
-      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
-      "",
+      "#b~フードを被った人影たち~ が長い列をなし、 NL #p質素な大聖堂 に入っていくのを目にした。",
+      "怪しまれぬよう列に加わると、あっという間に #r狂信者たち に囲まれた！ NL 彼らは喜びながら @賛歌を唱え、@ 武器を ~振り回し~ 、まるでこちらに気づいていないかのようだ。 NL NL #r@「殺せ!!@ #r@殺せ@ #r@殺せ!!」@ NL #b~「カァー~ #b~カァー~ #b~クワァーーーーーッ!!」~ NL #r@「殺せ!!@ #r@殺せ@ #r@殺せ!!」@ NL #b~「カァー~ #b~カァー~ #b~クワァーーーーーッ!!」~ NL NL あなたは #y献金の箱 に目をつけた…",
+      "あなたは（恐怖心から）列にとどまって、事の成り行きを見届けることにした。 NL NL ついに指導者と対面した。 身なりが良い狂信者が、あなたに #y装飾された短剣 を手渡した。 前に並んでいた人たちと同じく、あなたは前腕部を切りつけ、奇妙なボウルに血を滴らせた。 NL NL 狂信者たちがあなたに @賛歌を唱え、@ @叫ぶ！@ NL NL #b~「カァー~ #b~カァー~ #b~クワァーーーーーッ!!」~ NL NL あなたも唱えた。 やらない理由はないだろう。",
+      "彼らにまったく気付かれなかった。",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
-      ".",
-      "[Smash and Grab] #gObtain #g150 #gGold.",
-      "[Locked] Requires: Upgraded Card.",
-      "[Leave]",
-      "[Continue]"
+      "[列にとどまる] #g儀式の短剣を獲得する。 #r",
+      " #rをダウングレードする。",
+      "[強奪] #g150ゴールドを得る。",
+      "[ロック] 必要な物: アップグレードしたカード。",
+      "[立ち去る]",
+      "[続ける]"
     ]
   }
 }

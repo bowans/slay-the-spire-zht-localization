@@ -846,8 +846,8 @@
   "Storm": {
     "NAME": "Sturm",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #bMacht spielst, #yerschaffe #b ",
-      " Blitz."
+      "Immer wenn du eine #bMacht spielst, #yerschaffe #b",
+      " #yBlitz."
     ]
   },
   "Strength": {
@@ -939,6 +939,13 @@
     "DESCRIPTIONS": [
       "Verliere am Ende deines Zuges #b",
       " Geschicklichkeit."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
     ]
   }
 }

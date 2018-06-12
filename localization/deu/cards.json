@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Schneesturm",
-    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu in Höhe !M! mal dem in diesem Kampf erschaffenen Frost.",
+    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu in Höhe !M! mal des in diesem Kampf erschaffenen Frosts.",
     "EXTENDED_DESCRIPTION": [
       " NL (Fügt !D! Schaden zu.)",
       ""
@@ -285,7 +285,7 @@
     "DESCRIPTION": "Wirf !M! Karten ab. NL Erhalte [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Speicherbatterie",
+    "NAME": "Batterie laden",
     "DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug erhalte [B]."
   },
   "Consume": {
@@ -537,7 +537,7 @@
   },
   "Fission": {
     "NAME": "Spaltung",
-    "DESCRIPTION": "Entlade alle deine Orbs. Erhalte einen Orb-Slot pro entladenen Orb. NL Erschöpft."
+    "DESCRIPTION": "Entlade alle deine Orbs. Erhalte einen Orb-Slot pro entladenem Orb. NL Erschöpft."
   },
   "Flame Barrier": {
     "NAME": "Flammenwall",

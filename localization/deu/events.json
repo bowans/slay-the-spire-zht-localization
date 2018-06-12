@@ -29,7 +29,7 @@
       " #yGold: #gErhalte #gein #gRelikt.",
       "[Gesperrt] Erfordert: ",
       " Gold.",
-      "[JAX geben] #gErhalte #gein #gRelikt. #rVerliere #rJ.A.X.",
+      "[JAX geben] #gErhalte #gein #gRelikt. #rVerliere J.A.X.",
       "[Gesperrt] Erfordert: J.A.X.",
       "[Verlassen] Ignoriere den Süchtigen.",
       "[Verlassen]"
@@ -240,7 +240,7 @@
       ""
     ],
     "OPTIONS": [
-      "[Akzeptieren] #gErhalte #g5 #gApparieren. #rVerliere #r",
+      "[Akzeptieren] #gErhalte #g5 Apparieren. #rVerliere #r",
       "% #rMax #rTP.",
       "[Ablehnen]",
       "",
@@ -464,15 +464,15 @@
   "Nest": {
     "NAME": "Das Nest",
     "DESCRIPTIONS": [
-      "In großen Schwärmen scharen sich Kultisten um einen Ort in der Mitte. Als du dich näherst, bist du überrascht, wie zahm sie sind - niemand macht Anstalten, dich anzugreifen. Du siehst, wie in einer Art Ritual neue Mitglieder in ihren Kult aufgenommen werden.",
-      "Du möchtest dich einordnen und schauen, ob sie dir die Teilnahme an ihrem Ritual erlauben. NL NL Du wirst mit in die Zeremonie gerissen und der maskierte Anführer schlitzt deinen Arm mit einem Dolch auf. Nun spürst du, wie ein Teil deiner Kraft in die Klinge einsickert. NL NL Nach dem Ende deiner Einweihung in den Kult wird dir dieser personalisierte Dolch als Zeichen deiner neuen Mitgliedschaft gereicht.",
-      "Was für eine Gelegenheit! Du nutzt sie aus und findest einige im Gebäude verstreute Wertsachen, bevor du es schaffst zu entkommen.",
-      "",
+      "Eine lange Reihe #b~maskierter~ #b~Gestalten~ ist zu sehen, die NL eine #pbescheidene #pKathedrale betreten.",
+      "Du reihst dich wie selbstverständlich mit ein und bist schnell von #rKultisten umgeben! NL Sie ignorieren dich, @singen@ fröhlich und ~schwenken~ ihre Waffen. NL NL #r@\"MORD!!@ #r@MORD@ #r@MORD!!\"@ NL #b~\"KRÄCHZ~ #b~KRÄCHZ~ #b~KRÄÄÄÄCHZZZ!\"~ NL #r@\"MORD!@ #r@MORD@ #r@MOORD!!\"@ NL #b~\"KRÄÄCHZ~ #b~KRÄCHZ~ #b~KRÄÄÄÄCHZZ!!\"~ NL NL Du erspähst eine #ySpendenkiste...",
+      "Du willst (aus Angst) nicht aus der Reihe tanzen und probierst, was wohl passiert, wenn du dich mit anstellst. NL NL Schließlich stehst du dem Anführer direkt gegenüber. Ein gut gekleideter Kultist reicht dir einen #yVerzierten #yDolch. Wie die anderen vor dir schlitzt du deinen Vorderarm auf und lässt das Blut in eine unförmige Schale tropfen. NL NL Die Kultisten @singen@ und @brüllen@ deinetwegen! NL NL #b~\"KRÄÄCHZ~ #b~KRÄCHZ~ #b~KRÄÄÄÄCHZZ!!\"~ NL NL Du singst auch. Wieso nicht?",
+      "Sie haben es nicht mal bemerkt.",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Dem Kult anschließen] #gErhalte #gRitueller #gDolch. #rVerschlechtere #r",
+      "[Einreihen] #gErhalte #gRitueller #gDolch. #rVerschlechtere #r",
       ".",
       "[Schlagen und Stehlen] #gErhalte #g150 #gGold.",
       "[Gesperrt] Benötigt: Verbesserte Karte.",
@@ -749,11 +749,11 @@
       "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Gebrochener,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~"
     ],
     "OPTIONS": [
-      "[Annehmen] #gEntferne #galle #gSchläge. #gErhalte #g5 #gBisskarten. #rVerliere #r",
+      "[Annehmen] #gEntferne #galle Schläge. #gErhalte #g5 Bisse. #rVerliere #r",
       "% #rder #rmax. #rTP.",
       "[Ablehnen]",
       "[Verliere ",
-      "] #gEntferne #galle #gSchläge. #gErhalte #g5 #gBisskarten.",
+      "] #gEntferne #galle Schläge. #gErhalte #g5 Bisse.",
       "[Verlassen]"
     ]
   },
@@ -792,7 +792,7 @@
     ],
     "OPTIONS": [
       "...",
-      "[Dem Wahnsinn hingeben] #gErhalte #g2 #gWahnsinn. #rVerliere #r",
+      "[Dem Wahnsinn hingeben] #gErhalte #g2 Wahnsinn. #rVerliere #r",
       " #rTP.",
       "[Konzentrieren] #rWerde #rverflucht #r– #rLeid. #gHeile #g",
       "[Verlassen]",

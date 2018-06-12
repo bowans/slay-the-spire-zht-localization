@@ -294,6 +294,15 @@
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
+  "EnergizedBlue": {
+    "NAME": "Енергизован",
+    "DESCRIPTIONS": [
+      "Задоби #b",
+      " додатну [B] следећи потез.",
+      " додатне [B] следећи потез.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
   "Entangled": {
     "NAME": "Упетљан",
     "DESCRIPTIONS": [
@@ -700,8 +709,8 @@
   "Repair": {
     "NAME": "Оправка",
     "DESCRIPTIONS": [
-      "На крају борбе, залечи #b",
-      " ж. п."
+      "Залечи #b",
+      " ж. п. на крају борбе."
     ]
   },
   "Repulse": {
@@ -932,13 +941,11 @@
       " )."
     ]
   },
-  "EnergizedBlue": {
-    "NAME": "Energized",
+  "TimeMazePower": {
+    "NAME": "Time Maze",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [B] next turn.",
-      " additional [B] next turn.",
-      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+      "Whenever you play #b",
+      " cards, your turn is ended"
     ]
   }
 }

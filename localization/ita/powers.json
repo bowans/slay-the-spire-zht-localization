@@ -824,7 +824,7 @@
     "NAME": "Tempesta",
     "DESCRIPTIONS": [
       "Ogni volta che giochi un #bPotere, #yCrei #b ",
-      " Fulmine."
+      "#yFulmine."
     ]
   },
   "Strength": {
@@ -939,6 +939,13 @@
     "DESCRIPTIONS": [
       "Ogni volta che ",
       " prende danno, perde altrettanta #yForza fino a fine turno."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
     ]
   }
 }

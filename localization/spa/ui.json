@@ -873,7 +873,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Proceder"
+      "Proceder",
+      "Blights:"
     ]
   },
   "Exordium": {
@@ -1043,7 +1044,9 @@
       "¡Ve a todas las personas que contribuyeron en Slay the Spire!",
       "Desconocido",
       "",
-      "Esta opción no está disponible por el momento."
+      "Esta opción no está disponible por el momento.",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "SeedPanel": {
@@ -1090,7 +1093,21 @@
       "Select",
       "End Turn / Info",
       "Tab Left",
-      "Tab Right"
+      "Tab Right",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "InputKeyNames": {

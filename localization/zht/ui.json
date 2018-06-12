@@ -27,7 +27,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "前進"
+      "前進",
+      "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -115,7 +116,7 @@
       "8. 精英敵人擁有更多生命。",
       "9. 首領擁有更多生命。",
       "10. 初始擁有詛咒。",
-      "11. 藥水效果下降。",
+      "11. 藥水欄位變少。",
       "12. 升級過的牌出現頻率下降。",
       "13. 首領變窮。",
       "14. 最大生命值下降。",
@@ -597,7 +598,21 @@
       "選擇",
       "結束回合/情報",
       "上一標籤頁",
-      "下一標籤頁"
+      "下一標籤頁",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "LanguageDropdown": {
@@ -763,7 +778,9 @@
       "來看一看所有為遊戲作出貢獻的人們！",
       "未知",
       "",
-      "這個功能還沒做好。"
+      "這個功能還沒做好。",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "MerchantImageTextNotInGame": {

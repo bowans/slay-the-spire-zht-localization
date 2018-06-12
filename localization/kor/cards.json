@@ -894,7 +894,7 @@
   },
   "Fission": {
     "NAME": "핵분열",
-    "DESCRIPTION": "모든 구체 를 발현 합니다. 발현 된 구체 하나당 구체 슬롯을 1 증가시킵니다."
+    "DESCRIPTION": "모든 구체 를 발현 합니다. 발현 된 구체 하나당 구체 슬롯을 1 증가시킵니다. NL 소멸"
   },
   "Storm": {
     "NAME": "폭풍",
@@ -1020,8 +1020,8 @@
     "UPGRADE_DESCRIPTION": "이번 턴에 사용하는 다음 파워 카드 !M! 장이 두 번 사용됩니다."
   },
   "Conserve Battery": {
-    "NAME": "배터리 보존",
-    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 다음 턴까지 에너지 를 보존합니다."
+    "NAME": "배터리 충전",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 다음 턴에 [B] 를 얻습니다."
   },
   "Aggregate": {
     "NAME": "합하기",
@@ -1058,7 +1058,7 @@
     "UPGRADE_DESCRIPTION": "구체 슬롯 !M! 개를 얻습니다."
   },
   "Meteor Strike": {
-    "NAME": "운석 강타",
+    "NAME": "운석 타격",
     "DESCRIPTION": "피해를 !D! 줍니다. 플라즈마 를 !M! 번 영창 합니다."
   },
   "Stack": {
@@ -1287,6 +1287,6 @@
   },
   "RitualDagger": {
     "NAME": "의식용 단검",
-    "DESCRIPTION": "피해를 !D! 줍니다. NL 만약 적이 죽으면, 이 카드의 피해량이 영구적으로 !M!만큼 증가합니다. 소멸."
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 만약 적이 죽으면, 이 카드의 피해량이 영구적으로 !M! 만큼 증가합니다. 소멸."
   }
 }

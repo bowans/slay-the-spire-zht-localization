@@ -29,7 +29,7 @@
       " #yOro: #gRicevi #guna #gReliquia.",
       "[Bloccata] Richiede: ",
       " Oro.",
-      "[Offri JAX] #gRicevi #guna #gReliquia. #rPerdi #rJ.A.X.",
+      "[Offri JAX] #gRicevi #guna #gReliquia. #rPerdi J.A.X.",
       "[Bloccata] Richiede: J.A.X.",
       "[Ignoralo] Ignora il drogato.",
       "[Esci]"
@@ -240,7 +240,7 @@
       ""
     ],
     "OPTIONS": [
-      "[Accetta] #gOttieni #g5 #g\"Spettro\". #rPerdi #r",
+      "[Accetta] #gOttieni #g5 Spettro. #rPerdi #r",
       "% #rPV #rmassimi.",
       "[Rifiuta]",
       "",
@@ -715,11 +715,11 @@
       "Ti imbatti in alcune figure incappuciate intente ad eseguire un rito oscuro in un vicolo buio. Mentre ti avvicini, si girano verso di te. Il più alto mostra gli affilati canini, porgendo una mano pallida ed affusolata. NL ~\"Unisciti~ ~a~ ~noi~ ~anima~ ~infranta,~ ~e~ ~senti~ ~il~ ~calore~ ~della~ ~Guglia.\"~"
     ],
     "OPTIONS": [
-      "[Accetta] #gRimuovi #gi #gColpi, #gOttieni #g5 #gMorsi. #rPerdi #ril #r",
+      "[Accetta] #gRimuovi #gi Colpi, #gOttieni #g5 Morsi. #rPerdi #ril #r",
       "% #rMAX #rPV.",
       "[Rifiuta]",
       "[Perdi ",
-      "] #gRimuovi #gi #gColpi ed #gOttieni #g5 #gMorsi.",
+      "] #gRimuovi #gi Colpi #ged #gOttieni #g5 Morsi.",
       "[Prosegui]"
     ]
   },
@@ -758,7 +758,7 @@
     ],
     "OPTIONS": [
       "...",
-      "[Accogli la Follia] #gRicevi #g2 #gFollia. #rPerdi #r",
+      "[Accogli la Follia] #gRicevi #g2 Follia. #rPerdi #r",
       " #rPV.",
       "[Concentrati] #rVieni #rMaledetto #r- #rConvulsioni. #gTi #gCuri #gdi #g",
       "[Esci]",
@@ -799,20 +799,20 @@
   "Nest": {
     "NAME": "Il Nido",
     "DESCRIPTIONS": [
-      "Stormi di cultisti paiono raggrupparsi intorno ad un punto preciso. Sorprendentemente, non ti attaccano mentre ti avvicini, rimanendo al loro posto. Puoi assistere allo strano rituale di iniziazione di alcuni nuovi membri del Culto.",
-      "Decidi di metterti in fila, per vedere se ti permetteranno di partecipare al rituale. NL NL Vieni coinvolto nella cerimonia e il capo mascherato ti incide il braccio con un pugnale la cui lame sembra assorbire parte del tuo potere. NL NL Mentre la tua iniziazione si conclude, ti viene consegnato il pugnale con cui sei stato ferito, come simbolo di appartenenza.",
-      "Cogli l'opportunità di arricchirti, raccogliendo vari oggetti di valore sparsi attraverso l'edificio prima di fuggire.",
-      "",
+      "Vedi una lunga fila di #b~figure~ #b~incappucciate~ che entra in una #pcattedrale dall'aspetto normale.",
+      "Ti unisci naturalmente alla coda e vieni subito circondato dai #rCultisti! NL Questi ultimi ti ignorano, mentre innalzano @inni@ estatici e ~scuotono~ le loro armi. NL NL #r@\"OMOCIDIO!!# #r@OMOCIDIO@ #r@OMOCIDIO\"@ NL #b~\"CRA~ #b~CRA~ #b~CRAAAAA!\"~ NL #r@\"OMOCIDIO!!# #r@OMOCIDIO@ #r@OMOCIDIO\"@ NL  #b~\"CRA~ #b~CRA~ #b~CRAAAAA!\"~ NL NL Noti una #yCesta per #yDonazioni...",
+      "Rimani in fila (non farlo sarebbe pericoloso) e guardi che succede. NL NL Alla fine ti trovi davanti al capo. Un cultista vestito riccamente ti porge un #yOrnato #yPugnale. Come gli altri hanno fatto prima di te, fai un taglio sul tuo avambraccio e lasci che il tuo sangue goccioli in una ciotola deforme. NL NL I cultisti @cantano@ e @gridano@ per te! NL NL #b~\"CRAA~ #b~CRA~ #b~CRAAAAAA!!\"~ NL NL Canti anche tu. Perché non dovresti?",
+      "Non ti hanno nemmeno notato.",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Unisciti al Culto] #gOttieni #gla #gLama #gRituale. #rDepotenzi #r",
+      "[Unisciti al Culto] #gOttieni #gla Lama Rituale. #rDepotenzi ",
       ".",
       "[Distruggi e Arraffa] #gOttieni #g150 #gOro.",
       "[Bloccato] Richiede: Carta Potenziata.",
-      "[Prosegui]",
-      "[Continue]"
+      "[Ignora]",
+      "[Prosegui]"
     ]
   }
 }

@@ -759,7 +759,7 @@
   "Storm": {
     "NAME": "ストーム",
     "DESCRIPTIONS": [
-      " #bパワー をプレイするたび、 ライトニング #b ",
+      " #bパワー をプレイするたび、 #yライトニング #b ",
       " を #y生成 する。"
     ]
   },
@@ -933,12 +933,19 @@
     ]
   },
   "EnergizedBlue": {
-    "NAME": "Energized",
+    "NAME": "活性化",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [B] next turn.",
-      " additional [B] next turn.",
+      "次のターン、追加で #b",
+      " [B] を得る。",
+      " [B] を得る。",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
     ]
   }
 }

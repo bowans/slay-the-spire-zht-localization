@@ -703,7 +703,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "진행"
+      "진행",
+      "Blights:"
     ]
   },
   "Exordium": {
@@ -1002,7 +1003,9 @@
       "Slay the Spire에 기여한 모든 사람들을 확인해보세요!",
       "미지",
       "",
-      "이 기능은 아직 사용할 수 없습니다."
+      "이 기능은 아직 사용할 수 없습니다.",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "RunHistoryPathNodes": {
@@ -1090,7 +1093,21 @@
       "선택",
       "턴 종료 / 정보",
       "왼쪽 탭",
-      "오른쪽 탭"
+      "오른쪽 탭",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "InputKeyNames": {

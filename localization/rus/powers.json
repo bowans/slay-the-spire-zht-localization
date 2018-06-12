@@ -294,6 +294,15 @@
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
+  "EnergizedBlue": {
+    "NAME": "Энергичность",
+    "DESCRIPTIONS": [
+      "Даёт #b",
+      " [B] в вашем след. ходу.",
+      " [B] в вашем след. ходу.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
   "Entangled": {
     "NAME": "Путы",
     "DESCRIPTIONS": [
@@ -831,14 +840,14 @@
     "NAME": "Статический разряд",
     "DESCRIPTIONS": [
       "#yЗаряжает #b",
-      " #yСфер #yМолнии, когда вы теряете ОЗ от атак."
+      " #yСфер Молнии, когда вы теряете ОЗ от атак."
     ]
   },
   "Storm": {
     "NAME": "Шторм",
     "DESCRIPTIONS": [
       "#yЗаряжает #b ",
-      " #yСфер #yМолнии, когда вы разыгрываете Талант."
+      " #yСфер Молнии, когда вы разыгрываете Талант."
     ]
   },
   "Strength": {
@@ -932,13 +941,11 @@
       " #yЛовкости в конце вашего хода."
     ]
   },
-  "EnergizedBlue": {
-    "NAME": "Energized",
+  "TimeMazePower": {
+    "NAME": "Time Maze",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [B] next turn.",
-      " additional [B] next turn.",
-      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+      "Whenever you play #b",
+      " cards, your turn is ended"
     ]
   }
 }

@@ -11,7 +11,7 @@
     ],
     "OPTIONS": [
       "[Iskuj] #gPoboljšaj #gkartu. #r25% #ršanse #rda #rdobiješ #rpovredu.",
-      "[Pretraži] #gNađi #grelikviju. #r75% #ršanse #rda #rpostaneš #ronesposobljen.",
+      "[Pretraži] #gNađi #grelikviju. #r75% #ršanse #rda #rpostaneš #rometen.",
       "[Pođi]",
       "Izaberi kartu koju hoćeš da poboljšaš",
       "[Zaključano] Zahteva: karte koje se mogu poboljšati"
@@ -29,7 +29,7 @@
       " #yzlata: #gZadobi #grelikviju.",
       "[Zaključano] Zahteva: ",
       " zlata.",
-      "[Daj mu Dž.E.K.S.] #gZadobi #grelikviju. #rIzgubi #rDž.E.K.S.",
+      "[Daj mu Dž.E.K.S.] #gZadobi #grelikviju. #rIzgubi Dž.E.K.S.",
       "[Zaključano] Zahteva: Dž.E.K.S.",
       "[Pođi] Ignoriši narkomana.",
       "[Pođi]"
@@ -240,7 +240,7 @@
       ""
     ],
     "OPTIONS": [
-      "[Prihvati] #gZadobi #gpet #gDuh #gkarata. #rIzgubi #r",
+      "[Prihvati] #gZadobi #gpet Duh #gkarata. #rIzgubi #r",
       "% #rmaks. #rž. #rp.",
       "[Odbi]",
       "",
@@ -400,6 +400,21 @@
       "Preostalo pokušaja: #y"
     ]
   },
+  "MindBloom": {
+    "NAME": "Vizije",
+    "DESCRIPTIONS": [
+      "Snalazeći se kroz haos Tornja, misli najedared počnu da ti se čine veoma... #p~stvarnim...~ NL NL Slike #rčudovišta i #yblaga počinju da se manifestuju u stvarnosti. NL Osećaj brzo izmiče. Šta činiš?",
+      "Da li je moguće da je tako lako?",
+      "Sada sve ima smisla. NL Nedostatak sećanja, uspinjanje, #yDrevna. NL NL Ovako je uvek bilo. NL Ovako će uvek biti. NL Uskoro će sve ponovo biti zaboravljeno..."
+    ],
+    "OPTIONS": [
+      "[U ratu sam] #rSuoči #rse #rsa #rvoždom #riz #rprvog #rčina. #gOsvoji #gretku #grelikviju.",
+      "[Bogat sam] #gZadobi #g999 #gzlata. #rPostani #rdvostruko #rometen.",
+      "[Zdrav sam] #gU #gpotpunosti #gse #gzaceli. #rPočinješ #rda #rsumnjaš.",
+      "[Budan sam] #gPoboljšaj #gsve #gkarte. #rViše #rne #rmožeš #rda #rse #rzaceljuješ.",
+      "[Pođi]"
+    ]
+  },
   "Mushrooms": {
     "NAME": "Pečurke",
     "DESCRIPTIONS": [
@@ -439,6 +454,25 @@
       "#r[Izgubi: ",
       "] #gZadobi #gnovu #gspecijalnu #grelikviju.",
       "[Pođi]"
+    ]
+  },
+  "Nest": {
+    "NAME": "Gnezdo",
+    "DESCRIPTIONS": [
+      "Dug red #b~zaodenutih~ #b~prilika~ ulazi u NL u #yskromnu #ykatedralu.",
+      "Naravski, pridružiš se redu i brzo bivaš okružen #rkultistima! NL Ignorišu te dok veselo @skandiraju@ i ~mašu~ svojim oružjima. NL NL #r@\"UBISTVO!!@ #r@UBISTVO@ #r@UBISTVO!!\"@ NL #b~\"KA~ #b~KA~ #b~KAAAAA!\"~ NL #r@\"UBISTVO!@ #r@UBISTVO@ #r@UBISTVO!!\"@ NL #b~\"KAA~ #b~KA~ #b~KAAAAAA!!\"~ NL NL Ugledaš #ykutiju #yza #ypriloge...",
+      "Zadržiš se u redu (iz straha) da vidiš šta će da se desi. NL NL Naposletku, licem u lice si sa vođom. Dobro obučeni kultista ti preda #yukrašeni #ybodež. Kao i drugi pre tebe, zasečeš svoju podlakticu i pustiš da krv isteče u nakazni pehar. NL NL Kultisti ti drugarski @skandiraju@ i @uzvikuju@! NL NL #b~\"KAA~ #b~KA~ #b~KAAAAAA!!\"~ NL NL I ti takođe kreneš da skandiraš. Što da ne?",
+      "Uopšte nisu ni primetili.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Zadrži se u redu] #gZadobi #gObredni #gbodež. #rPogoršaj #rkartu #r",
+      ".",
+      "[Posluži se] #gZadobi #g150 #gzlata.",
+      "[Zaključano] Zahteva: Poboljšanu kartu.",
+      "[Pođi]",
+      "[Nastavi]"
     ]
   },
   "Proceed Screen": {
@@ -715,11 +749,11 @@
       "Hodeći neosvetljenim ulicama, nabasaš na nekoliko pokrivenih figura u sred nekog mračnog obreda. Dok im prilaziš, oni se okrenu ka tebi u jezivom skladu. Najviši među njima otkrije svoje očnjake, pružajući dugu, bledu šaku prema tebi. NL ~\"Pridruži~ ~nam~ ~se~ ~odbačeni,~ ~i~ ~oseti~ ~toplinu~ ~Tornja.\"~"
     ],
     "OPTIONS": [
-      "[Prihvati] #gUkloni #gsve #gUdarce. #gZadobi #gpet #gUjeda. #rIzgubi #r",
+      "[Prihvati] #gUkloni #gsve Udarce. #gZadobi #gpet Ujeda. #rIzgubi #r",
       "% #rmaks. #rž. #rp.",
       "[Odbi]",
       "[Izgubi relikviju: ",
-      "] #gUkloni #gsve #gUdarce. #gZadobi #gpet #gUjeda.",
+      "] #gUkloni #gsve Udarce. #gZadobi #gpet Ujeda.",
       "[Pođi]"
     ]
   },
@@ -758,7 +792,7 @@
     ],
     "OPTIONS": [
       "...",
-      "[Prigrli ludilo] #gZadobi #gdva #gLudila. #rIzgubi #r",
+      "[Prigrli ludilo] #gZadobi #gdva Ludila. #rIzgubi #r",
       " #rž. #rp.",
       "[Saberi se] #rSpopadaju #rte #rgrčevi. #gZaleči #g",
       "[Pođi]",
@@ -779,40 +813,6 @@
       "[Ne diraj] #rIzgubi #r",
       " #rzlata.",
       "[Pođi]"
-    ]
-  },
-  "MindBloom": {
-    "NAME": "Mind Bloom",
-    "DESCRIPTIONS": [
-      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
-      "MIXED",
-      "MIXED"
-    ],
-    "OPTIONS": [
-      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
-      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
-      "[Leave]",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
-    ]
-  },
-  "Nest": {
-    "NAME": "The Nest",
-    "DESCRIPTIONS": [
-      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
-      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
-      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
-      "",
-      "",
-      ""
-    ],
-    "OPTIONS": [
-      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
-      ".",
-      "[Smash and Grab] #gObtain #g150 #gGold.",
-      "[Locked] Requires: Upgraded Card.",
-      "[Leave]",
-      "[Continue]"
     ]
   }
 }

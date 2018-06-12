@@ -151,6 +151,16 @@
       " ž. p."
     ]
   },
+  "Busted Crown": {
+    "NAME": "Ishabana kruna",
+    "FLAVOR": "Šampionova kruna... ili bleda imitacija?",
+    "DESCRIPTIONS": [
+      "Pri odabiru nagradne karte, imaš #bdve manje karte u izboru.",
+      "Zadobi [R] na početku svakog poteza. ",
+      "Zadobi [G] na početku svakog poteza. ",
+      "Zadobi [B] na početku svakog poteza. "
+    ]
+  },
   "Cables": {
     "NAME": "Zlatni kablovi",
     "FLAVOR": "\"Interesantno! Čak su i automatoni podložni placebu.\" - Ranuid",
@@ -384,7 +394,7 @@
     "NAME": "Girja",
     "FLAVOR": "Ova girja je nezamislivo teška. Trening ovim bi mogao značajno da te ojača.",
     "DESCRIPTIONS": [
-      "Sada možeš da povećaš svoju #ysnagu na odmaralištima (do najviše tri puta)."
+      "Sa ovim možeš da na odmaralištima povećaš svoju #ysnagu (do najviše tri puta)."
     ]
   },
   "Golden Idol": {
@@ -504,6 +514,13 @@
     "FLAVOR": "Ovaj znak je bio korišćen među severnim plemenima za obeleživanje ratnika koji su ovladali bolom u borbi.",
     "DESCRIPTIONS": [
       "Zadobi [R] na početku svakog kruga. Započinješ borbe sa #bdve #rrane u gomili za vučenje."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Beleg budnog",
+    "FLAVOR": "U Vani, misli i stvarnost su jedno te isto.",
+    "DESCRIPTIONS": [
+      "Više ne možeš da se zaceljuješ."
     ]
   },
   "Matryoshka": {
@@ -764,7 +781,7 @@
     "NAME": "Upitna karta",
     "FLAVOR": "\"Oni sa više izbora umanjuju nedostatke haosa.\" - Kublaj Veliki",
     "DESCRIPTIONS": [
-      "Pri odabiru nagradne karte, u izboru imaš još #yjednu #ydodatnu #ykartu. Ne važi za sobu u kojoj je relikvija pokupljena."
+      "Pri odabiru nagradne karte, u izboru imaš još #yjednu dodatnu kartu. Ne važi za sobu u kojoj je relikvija pokupljena."
     ]
   },
   "Red Circlet": {
@@ -842,8 +859,8 @@
     "NAME": "Runska piramida",
     "FLAVOR": "Rune su potpuno nerazumljive.",
     "DESCRIPTIONS": [
-      "Više ne odbacuješ ruku na kraju svog poteza. NL Vuci #b",
-      " manje kartu svaki potez."
+      "Više ne odbacuješ ruku na kraju svog poteza.",
+      ""
     ]
   },
   "Self Forming Clay": {
@@ -1160,23 +1177,6 @@
     "FLAVOR": "Bela statuica stvorenja koje nikada ranije nisi video.",
     "DESCRIPTIONS": [
       "Napici se sada uvek pojavljuju kao deo plena posle borbe."
-    ]
-  },
-  "Mark of the Bloom": {
-    "NAME": "Mark of the Bloom",
-    "FLAVOR": "In the Beyond, thoughts and reality are one.",
-    "DESCRIPTIONS": [
-      "You can no longer heal."
-    ]
-  },
-  "Busted Crown": {
-    "NAME": "Busted Crown",
-    "FLAVOR": "The Champ's crown... or a pale imitation?",
-    "DESCRIPTIONS": [
-      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
-      "Gain [R] at the start of each turn. ",
-      "Gain [G] at the start of each turn. ",
-      "Gain [B] at the start of each turn. "
     ]
   }
 }

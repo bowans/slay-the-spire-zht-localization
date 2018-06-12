@@ -27,7 +27,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Dalej"
+      "Dalej",
+      "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -597,7 +598,21 @@
       "Select",
       "End Turn / Info",
       "Tab Left",
-      "Tab Right"
+      "Tab Right",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "LanguageDropdown": {
@@ -763,7 +778,9 @@
       "Wyświetl listę osób, które przyczyniły się do powstania Slay the Spire!",
       "Unknown",
       "",
-      "Ta funkcja nie jest jeszcze dostępna."
+      "Ta funkcja nie jest jeszcze dostępna.",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "MerchantImageTextNotInGame": {

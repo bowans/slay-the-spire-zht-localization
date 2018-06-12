@@ -801,7 +801,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Fortsett"
+      "Fortsett",
+      "Blights:"
     ]
   },
   "Exordium": {
@@ -971,7 +972,9 @@
       "Se listen over alle som har bidratt til Slay the Spire!",
       "Ukjent",
       "",
-      "Dette er ikke tilgjengelig ennå."
+      "Dette er ikke tilgjengelig ennå.",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "TwitchVoter": {
@@ -1090,7 +1093,21 @@
       "Select",
       "End Turn / Info",
       "Tab Left",
-      "Tab Right"
+      "Tab Right",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "InputKeyNames": {

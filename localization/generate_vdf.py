@@ -42,9 +42,10 @@ None, # Hidden
 (7,3), # "Sapphire"
 (7,4), # "Common Sense"
 (7,5), # "Focused"
-None, # "Neon"
+(7,6), # "Neon"
 None, # "Energy is Overrated"
-None, # "My Lucky Day"
+(7,7), # "My Lucky Day"
+None, # "The Transient"
 ]
 ### DO NOT MODIFY BELOW THIS LINE
 import sys

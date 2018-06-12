@@ -757,9 +757,9 @@
   },
   "Normality": {
     "NAME": "平静",
-    "DESCRIPTION": "使用不可 。 NL このターン、あなたは 3 枚以上のカードをプレイできない。",
+    "DESCRIPTION": "使用不可 。 NL このターン、あなたは 3 枚までしかカードをプレイできない。",
     "EXTENDED_DESCRIPTION": [
-      "このターン、あなたは 3 枚しかカードをプレイできない",
+      "このターン、あなたは 3 枚までしかカードをプレイできない",
       "使用不可。 NL あなたはこのターン、",
       " 枚のカードをプレイできない。",
       " 枚のカードをプレイできない。 NL 既に",
@@ -1020,8 +1020,8 @@
     "UPGRADE_DESCRIPTION": "このターン、次の !M! つの「パワー」を 2 回プレイする。"
   },
   "Conserve Battery": {
-    "NAME": "節電",
-    "DESCRIPTION": "!B! ブロック を得る。 NL エナジーを次のターンに持ち越す。"
+    "NAME": "充電",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 次のターン、 [G] を得る。"
   },
   "Aggregate": {
     "NAME": "集計",
@@ -1209,7 +1209,7 @@
   },
   "Sunder": {
     "NAME": "切断",
-    "DESCRIPTION": "!D! ダメージを与える。 NL このカードで敵を倒したとき、 [B] [B] [B] を得る。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL この攻撃で敵を倒したとき、 [B] [B] [B] を得る。"
   },
   "Chill": {
     "NAME": "寒気",
@@ -1286,7 +1286,7 @@
     "DESCRIPTION": "!D! ダメージを与える。 NL 生成しているオーブ1種につき、 !M! 枚のカードを引く。"
   },
   "RitualDagger": {
-    "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+    "NAME": "儀式の短剣",
+    "DESCRIPTION": "!D! ダメージを与える。 この攻撃で敵を倒したとき、このカードのダメージを永続的に !M! 増加する。 廃棄 。"
   }
 }

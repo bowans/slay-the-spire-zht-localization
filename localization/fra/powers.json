@@ -933,12 +933,19 @@
     ]
   },
   "EnergizedBlue": {
-    "NAME": "Energized",
+    "NAME": "Énergétique",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [B] next turn.",
-      " additional [B] next turn.",
+      "Gagnez #b",
+      " [B] supplémentaire au prochain tour.",
+      " [B] supplémentaires au prochain tour.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
     ]
   }
 }

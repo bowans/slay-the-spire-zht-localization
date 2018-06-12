@@ -673,7 +673,7 @@
     "NAME": "質問カード",
     "FLAVOR": "「より多くの選択肢を持つものは、混沌のデメリットを最小化する」-偉人クブライ",
     "DESCRIPTIONS": [
-      "報酬のカード選択画面で、 選択できるカードが #1 枚 #y増える。"
+      "報酬のカード選択画面で、 選択できるカードが #b1 枚 #y増える。"
     ]
   },
   "Red Circlet": {
@@ -1162,21 +1162,21 @@
       " 以下のダメージを #b5 ダメージに増加する。"
     ]
   },
-  "Busted Crown": {
-    "NAME": "Busted Crown",
-    "FLAVOR": "The Champ's crown... or a pale imitation?",
-    "DESCRIPTIONS": [
-      "On Card Reward screens, you have #b2 fewer cards to choose from.",
-      "Gain [R] at the start of each turn. ",
-      "Gain [G] at the start of each turn. ",
-      "Gain [B] at the start of each turn. "
-    ]
-  },
   "Mark of the Bloom": {
-    "NAME": "Mark of the Bloom",
+    "NAME": "花の印",
     "FLAVOR": "In the Beyond, thoughts and reality are one.",
     "DESCRIPTIONS": [
-      "You can no longer heal."
+      "あなたは回復できなくなる。"
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "壊れた王冠",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "報酬のカード選択画面で、 選択できるカードが #b2 枚 #y減る。",
+      "ターン開始時、 [R] を得る。 ",
+      "ターン開始時、 [G] を得る。 ",
+      "ターン開始時、 [B] を得る。 "
     ]
   }
 }

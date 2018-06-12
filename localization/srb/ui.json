@@ -27,7 +27,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Nastavi"
+      "Nastavi",
+      "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -115,7 +116,7 @@
       "Čelnici su izdržljiviji.",
       "Voždovi su izdržljiviji.",
       "Svaki pohod počinješ uklet.",
-      "Napici su manje delotvorni.",
+      "Manje mesta za napitke.",
       "Poboljšane karte se ređe pojavljuju.",
       "Siromašni voždovi.",
       "Niži maks. ž. p.",
@@ -597,7 +598,21 @@
       "Izaberi",
       "Završi potez / informacije",
       "Prethodna boja / karta",
-      "Sledeća boja / karta"
+      "Sledeća boja / karta",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "LanguageDropdown": {
@@ -625,7 +640,7 @@
       "Mađarski",
       "Srpski",
       "Katalonski",
-      "Greek"
+      "Grčki"
     ]
   },
   "LeaderboardFilters": {
@@ -763,7 +778,9 @@
       "Pogledaj ko je sve doprineo Pohodu na Toranj!",
       "Nepoznato",
       "",
-      "Ovaj deo je nedostupan."
+      "Ovaj deo je nedostupan.",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "MerchantImageTextNotInGame": {

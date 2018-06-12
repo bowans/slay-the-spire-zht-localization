@@ -286,7 +286,7 @@
   },
   "Conserve Battery": {
     "NAME": "Энергосбережение",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Сохраняет Энергию на ваш след. ход."
+    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт [B] в вашем след. ходу."
   },
   "Consume": {
     "NAME": "Поглощение",
@@ -986,6 +986,10 @@
     "NAME": "Рвать и терзать",
     "DESCRIPTION": "Наносит !D! урона случ. врагу !M! раза."
   },
+  "RitualDagger": {
+    "NAME": "Ритуальный кинжал",
+    "DESCRIPTION": "Наносит !D! урона. NL Убив врага, увеличивает свой урон на !M!. NL Сжигается."
+  },
   "Rupture": {
     "NAME": "Разрыв",
     "DESCRIPTION": "Даёт 1 Силы, когда вы теряете ОЗ из-за карт."
@@ -1284,9 +1288,5 @@
   "Zap": {
     "NAME": "Шок",
     "DESCRIPTION": "Заряжает !M! Сфер Молнии."
-  },
-  "RitualDagger": {
-    "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   }
 }

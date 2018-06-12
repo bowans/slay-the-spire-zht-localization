@@ -65,7 +65,7 @@
   },
   "Axe Kick": {
     "NAME": "Nasilna aktivacija",
-    "DESCRIPTION": "Zadaj !D! štete. NL Aktiviraj svoju glavnu sferu."
+    "DESCRIPTION": "Zadaj !D! štete. NL Aktiviraj svoju najdešnju sferu."
   },
   "Backflip": {
     "NAME": "Skok unazad",
@@ -177,7 +177,7 @@
     "UPGRADE_DESCRIPTION": "Urođena. NL Na početku poteza, izgubi jedan ž. p. i vuci jednu kartu."
   },
   "Buffer": {
-    "NAME": "Preventivne mere",
+    "NAME": "Štit",
     "DESCRIPTION": "Spreči sledeće gubljenje ž. p.",
     "UPGRADE_DESCRIPTION": "Spreči sledeća !M! gubljenja ž. p."
   },
@@ -236,8 +236,8 @@
     "UPGRADE_DESCRIPTION": "Prizovi !M! nasumične sfere."
   },
   "Chill": {
-    "NAME": "Smrzavanje",
-    "DESCRIPTION": "Urođena. Prizovi !M! mraz za svakog neprijatelja. NL Iscrpi.",
+    "NAME": "Smrzni",
+    "DESCRIPTION": "Urođena. NL Prizovi !M! mraz za svakog neprijatelja. NL Iscrpi.",
     "UPGRADE_DESCRIPTION": "Urođena. NL Prizovi !M! mraz za svakog neprijatelja u borbi. NL Iscrpi."
   },
   "Choke": {
@@ -285,8 +285,8 @@
     "DESCRIPTION": "Odbaci !M! karte. NL Zadobi [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Prištedi bateriju",
-    "DESCRIPTION": "Zadobi !B! odbrane. NL Energija se prenosi u sledeći krug."
+    "NAME": "Napuni bateriju",
+    "DESCRIPTION": "Zadobi !B! odbrane. NL Sledeći krug zadobi [B]."
   },
   "Consume": {
     "NAME": "Preradi",
@@ -441,7 +441,7 @@
   },
   "Dualcast": {
     "NAME": "Dvostruka aktivacija",
-    "DESCRIPTION": "Aktiviraj svoju glavnu sferu dva puta."
+    "DESCRIPTION": "Aktiviraj svoju najdešnju sferu dva puta."
   },
   "Echo Form": {
     "NAME": "Eho forma",
@@ -581,8 +581,8 @@
     "DESCRIPTION": "Prizovi !M! plazmu."
   },
   "Gash": {
-    "NAME": "Ogrebi",
-    "DESCRIPTION": "Zadaj !D! štete. NL Svaka Ogrebi karta nanosi dodatnu štetu ( !M! ) u ovoj borbi."
+    "NAME": "Usek",
+    "DESCRIPTION": "Zadaj štete: !D!. NL Svaki Usek nanosi !M! dodatne štetu u ovoj borbi."
   },
   "Genetic Algorithm": {
     "NAME": "Genetski algoritam",
@@ -737,8 +737,8 @@
   },
   "Loop": {
     "NAME": "Petlja",
-    "DESCRIPTION": "Na početku svog poteza, iskoristi pasivnu sposobnost svoje glavne sfere.",
-    "UPGRADE_DESCRIPTION": "Na početku svog poteza, iskoristi pasivnu sposobnost svoje glavne sfere !M! puta."
+    "DESCRIPTION": "Na početku svog poteza, iskoristi pasivnu sposobnost svoje najdešnje sfere.",
+    "UPGRADE_DESCRIPTION": "Na početku svog poteza, iskoristi pasivnu sposobnost svoje najdešnje sfere !M! puta."
   },
   "Machine Learning": {
     "NAME": "Mašinsko učenje",
@@ -789,8 +789,8 @@
   },
   "Multi-Cast": {
     "NAME": "Višestruka aktivacija",
-    "DESCRIPTION": "Aktiviraj svoju glavnu sferu X puta.",
-    "UPGRADE_DESCRIPTION": "Aktiviraj svoju glavnu sferu X+1 puta."
+    "DESCRIPTION": "Aktiviraj svoju najdešnju sferu X puta.",
+    "UPGRADE_DESCRIPTION": "Aktiviraj svoju najdešnju sferu X+1 puta."
   },
   "Necronomicurse": {
     "NAME": "Nekronomikletva",
@@ -809,7 +809,7 @@
     ]
   },
   "Normality": {
-    "NAME": "Onesposobljen",
+    "NAME": "Ometen",
     "DESCRIPTION": "Neodigriva. NL Ne možeš odigrati više od tri karte u jednom potezu.",
     "EXTENDED_DESCRIPTION": [
       "Mogu da odigram samo do NL #rtri karte ovaj potez.",
@@ -952,7 +952,7 @@
   },
   "Redo": {
     "NAME": "Rekurzija",
-    "DESCRIPTION": "Aktiviraj svoju glavnu sferu. NL Prizovi sferu istog tipa."
+    "DESCRIPTION": "Aktiviraj svoju najdešnju sferu. NL Prizovi sferu istog tipa."
   },
   "Reflex": {
     "NAME": "Refleks",
@@ -964,7 +964,7 @@
   },
   "Regret": {
     "NAME": "Kajanje",
-    "DESCRIPTION": "Neodigriva. NL Na kraju poteza izgubi jedan ž. p. za svaku kartu koja ti ostane u ruci."
+    "DESCRIPTION": "Neodigriva. NL Na kraju poteza, izgubi jedan ž. p. za svaku kartu koja ti ostane u ruci."
   },
   "Reinforced Body": {
     "NAME": "Ojačana šasija",
@@ -985,6 +985,10 @@
   "Rip and Tear": {
     "NAME": "Izrendaj",
     "DESCRIPTION": "Zadaj !D! štete nasumičnom neprijatelju !M! puta."
+  },
+  "RitualDagger": {
+    "NAME": "Obredni bodež",
+    "DESCRIPTION": "Zadaj !D! štete. Ako time ubiješ neprijatelja, povećaj ubojitost ove karte za !M! do kraja pohoda. Iscrpi."
   },
   "Rupture": {
     "NAME": "Kidisanje",
@@ -1028,7 +1032,7 @@
   },
   "Seek": {
     "NAME": "Lociraj",
-    "DESCRIPTION": "Izaberi !M! kartu iz gomile za vučenje i stavi ih u ruku. NL Iscrpi.",
+    "DESCRIPTION": "Izaberi !M! kartu iz gomile za vučenje i stavi je u ruku. NL Iscrpi.",
     "UPGRADE_DESCRIPTION": "Izaberi !M! karte iz gomile za vučenje i stavi ih u ruku. NL Iscrpi."
   },
   "Self Repair": {
@@ -1284,9 +1288,5 @@
   "Zap": {
     "NAME": "Šok",
     "DESCRIPTION": "Prizovi !M! munju."
-  },
-  "RitualDagger": {
-    "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   }
 }

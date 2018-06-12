@@ -801,7 +801,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Devam Et"
+      "Devam Et",
+      "Blights:"
     ]
   },
   "Exordium": {
@@ -1002,7 +1003,9 @@
       "Slay the Spire'a katkıda bulunan herkesi gör!",
       "Bilinmiyor",
       "",
-      "Bu özellik henüz kullanılabilir değil."
+      "Bu özellik henüz kullanılabilir değil.",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "RunHistoryPathNodes": {
@@ -1090,7 +1093,21 @@
       "Select",
       "End Turn / Info",
       "Tab Left",
-      "Tab Right"
+      "Tab Right",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "InputKeyNames": {

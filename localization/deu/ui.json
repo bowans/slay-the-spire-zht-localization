@@ -27,7 +27,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Fortfahren"
+      "Fortfahren",
+      "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -597,7 +598,21 @@
       "Auswählen",
       "Zug beenden / Info",
       "Tab Links",
-      "Tab Rechts"
+      "Tab Rechts",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "LanguageDropdown": {
@@ -763,7 +778,9 @@
       "Sieh dir all die Leute an, die zu Slay the Spire beigetragen haben!",
       "Unbekannt",
       "",
-      "Dieses Feature ist noch nicht verfügbar."
+      "Dieses Feature ist noch nicht verfügbar.",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "MerchantImageTextNotInGame": {

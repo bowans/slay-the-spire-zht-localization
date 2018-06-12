@@ -882,7 +882,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Prosseguir"
+      "Prosseguir",
+      "Blights:"
     ]
   },
   "Exordium": {
@@ -1052,7 +1053,9 @@
       "Veja todas as pessoas que contribuíram com Slay the Spire!",
       "Desconhecido",
       "",
-      "Essa funcionalidade ainda não está disponível."
+      "Essa funcionalidade ainda não está disponível.",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "InputSettingsScreen": {
@@ -1090,7 +1093,21 @@
       "Select",
       "End Turn / Info",
       "Tab Left",
-      "Tab Right"
+      "Tab Right",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "InputKeyNames": {

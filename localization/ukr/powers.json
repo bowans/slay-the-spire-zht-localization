@@ -277,6 +277,15 @@
       " зіграна карти у кожному русі, граються двічі."
     ]
   },
+  "EnergizedBlue": {
+    "NAME": "Пробудження",
+    "DESCRIPTIONS": [
+      "Отримуєте #b",
+      " додаткову [B] у наступному руху.",
+      " додаткові [B] у наступному руху.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
   "Electro": {
     "NAME": "Електро",
     "DESCRIPTIONS": [
@@ -932,13 +941,11 @@
       " отримує шкоду, втрачає стільки ж #yМіці, до кінця руху."
     ]
   },
-  "EnergizedBlue": {
-    "NAME": "Energized",
+  "TimeMazePower": {
+    "NAME": "Time Maze",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [B] next turn.",
-      " additional [B] next turn.",
-      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+      "Whenever you play #b",
+      " cards, your turn is ended"
     ]
   }
 }
