@@ -27,7 +27,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "前進"
+      "前進",
+      "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -597,7 +598,21 @@
       "選擇",
       "結束回合/情報",
       "上一標籤頁",
-      "下一標籤頁"
+      "下一標籤頁",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "LanguageDropdown": {
@@ -763,7 +778,9 @@
       "來看一看所有為遊戲作出貢獻的人們！",
       "未知",
       "",
-      "這個功能還沒做好。"
+      "這個功能還沒做好。",
+      "Endless",
+      "Climb a Spire that never ends."
     ]
   },
   "MerchantImageTextNotInGame": {
