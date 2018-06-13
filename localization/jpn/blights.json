@@ -1,22 +1,43 @@
 {
   "DeadlyEnemies": {
-    "NAME": "Deadly Enemies",
+    "NAME": "恐ろしい敵",
     "DESCRIPTION": [
-      "Enemies deal #b",
-      "% more damage."
+      "敵の与えるダメージが #b",
+      "% 増加する。"
     ]
   },
   "ToughEnemies": {
-    "NAME": "Tough Enemies",
+    "NAME": "頑強な敵",
     "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
+      "敵のHPが #b",
+      "% 増加する。"
     ]
   },
   "TimeMaze": {
-    "NAME": "Tough Enemies",
+    "NAME": "時の迷宮",
     "DESCRIPTION": [
-      "Enemies have the Time Maze power."
+      "敵は時の迷宮のパワーを得る。"
+    ]
+  },
+  "Accursed": {
+    "NAME": "Accursed",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random #yCurses."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Twisting Mind",
+    "DESCRIPTION": [
+      "Upon pickup, #yTransform #b",
+      " cards."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Scatterbrain",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random cards."
     ]
   }
 }

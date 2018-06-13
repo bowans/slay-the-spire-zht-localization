@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Prosegui",
-      "Blights:"
+      "Sventure:"
     ]
   },
   "AbstractMonster": {
@@ -575,11 +575,11 @@
       "Conferma Carta",
       "Cancella / Esci",
       "Visualizza la Mappa",
-      "Vedi il Mazzo",
-      "Vedi le carte nella Pila",
-      "Vedi le carte negli Scarti",
+      "Mazzo",
+      "Pila",
+      "Scarti",
       "Carte Esaurite",
-      "Passa",
+      "Termina il Turno",
       "Sinistra",
       "Destra",
       "Scegli Carta #1",
@@ -596,23 +596,23 @@
       "Su",
       "Giù",
       "Seleziona",
-      "Fine Turno / Info",
-      "Tab Sinistra",
-      "Tab Destra",
-      "Settings",
-      "Settings*",
-      "Draw Pile*",
-      "Discard Pile*",
-      "Up*",
-      "Down*",
-      "Left*",
-      "Right*",
-      "Up (Alt)*",
-      "Down (Alt)*",
-      "Left (Alt)*",
-      "Right (Alt)*",
-      "Up",
-      "Down"
+      "Fine Turno / Prosegui*",
+      "Tab Sinistra / Mazzo*",
+      "Tab Destra/ Carte Esaurite*",
+      "Visualizza la Mappa*",
+      "Impostazioni*",
+      "Pila*",
+      "Scarti*",
+      "Su*",
+      "Giù*",
+      "Sinistra*",
+      "Destra*",
+      "Su (Alt)*",
+      "Giù (Alt)*",
+      "Sinistra (Alt)*",
+      "Destra (Alt)*",
+      "Su",
+      "Giù"
     ]
   },
   "LanguageDropdown": {
@@ -779,8 +779,8 @@
       "Unknown",
       "",
       "Questa opzione non è ancora disponibile.",
-      "Endless",
-      "Climb a Spire that never ends."
+      "Infinito",
+      "Scala una Guglia che non finisce mai."
     ]
   },
   "MerchantImageTextNotInGame": {

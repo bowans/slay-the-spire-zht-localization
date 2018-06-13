@@ -18,5 +18,26 @@
      "DESCRIPTION": [
       "Enemies have the Time Maze power."
     ]
+  },
+  "TwistingMind": {
+    "NAME": "Twisting Mind",
+     "DESCRIPTION": [
+      "Upon pickup, #yTransform #b",
+	  " cards."
+    ]
+  },
+  "Accursed": {
+    "NAME": "Accursed",
+     "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+	  " random #yCurses."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Scatterbrain",
+     "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+	  " random cards."
+    ]
   }
 }

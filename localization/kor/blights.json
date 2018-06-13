@@ -1,22 +1,43 @@
 {
   "DeadlyEnemies": {
-    "NAME": "Deadly Enemies",
+    "NAME": "치명적인 적",
     "DESCRIPTION": [
-      "Enemies deal #b",
-      "% more damage."
+      "엘리트가 주는 피해가 #b",
+      "% 증가합니다."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Tough Enemies",
+    "NAME": "강인한 적",
     "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
+      "적들의 체력이 #b",
+      "% 증가합니다."
     ]
   },
   "TimeMaze": {
-    "NAME": "Tough Enemies",
+    "NAME": "시간 미로",
     "DESCRIPTION": [
-      "Enemies have the Time Maze power."
+      "적들이 시간 미로 파워를 갖습니다."
+    ]
+  },
+  "Accursed": {
+    "NAME": "저주받음",
+    "DESCRIPTION": [
+      "획득 시, #b",
+      " 장의 #y저주 카드를 무작위로 얻습니다."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "뒤틀린 정신",
+    "DESCRIPTION": [
+      "획득 시, #b",
+      " 장의 카드를 #y변화 시킵니다."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "주의 산만",
+    "DESCRIPTION": [
+      "획득 시, 무작위 카드를 #b",
+      " 장 얻습니다."
     ]
   }
 }

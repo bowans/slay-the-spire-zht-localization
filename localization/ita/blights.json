@@ -1,22 +1,43 @@
 {
   "DeadlyEnemies": {
-    "NAME": "Deadly Enemies",
+    "NAME": "Nemici Mortali",
     "DESCRIPTION": [
-      "Enemies deal #b",
-      "% more damage."
+      "I nemici infliggono #b",
+      "% di danni in più."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Tough Enemies",
+    "NAME": "Nemici Resistenti",
     "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
+      "I nemici hanno #b",
+      "% PV in più."
     ]
   },
   "TimeMaze": {
-    "NAME": "Tough Enemies",
+    "NAME": "Labirinto del Tempo",
     "DESCRIPTION": [
-      "Enemies have the Time Maze power."
+      "I nemici hanno il potere Labirinto del Tempo."
+    ]
+  },
+  "Accursed": {
+    "NAME": "Accursed",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random #yCurses."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Twisting Mind",
+    "DESCRIPTION": [
+      "Upon pickup, #yTransform #b",
+      " cards."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Scatterbrain",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random cards."
     ]
   }
 }

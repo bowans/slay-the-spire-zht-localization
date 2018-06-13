@@ -879,11 +879,18 @@
       " Schaden an ALLEN Gegnern."
     ]
   },
+  "TimeMazePower": {
+    "NAME": "Verdrehte Zeit",
+    "DESCRIPTIONS": [
+      "Bei jeder #b",
+      ". gespielten Karte endet dein Zug."
+    ]
+  },
   "Time Warp": {
     "NAME": "Zeitschleife",
     "DESCRIPTIONS": [
-      "Immer wenn du #b",
-      " Karten ausspielst, endet dein Zug und Zeitfresser erhält #b",
+      "Bei jeder #b",
+      ". gespielten Karte endet dein Zug und der Zeitfresser erhält #b",
       " #yStärke."
     ]
   },
@@ -939,13 +946,6 @@
     "DESCRIPTIONS": [
       "Verliere am Ende deines Zuges #b",
       " Geschicklichkeit."
-    ]
-  },
-  "TimeMazePower": {
-    "NAME": "Time Maze",
-    "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
     ]
   }
 }

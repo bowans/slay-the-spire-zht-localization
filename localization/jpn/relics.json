@@ -432,7 +432,7 @@
   },
   "Mango": {
     "NAME": "マンゴー",
-    "FLAVOR": "誰もが追い求めた古の果実。塔の胴枯れ病の徴候もなく完璧な保存状態。",
+    "FLAVOR": "誰もが追い求めた古の果実。塔の荒廃の徴候もなく完璧な保存状態。",
     "DESCRIPTIONS": [
       "獲得時、最大HP+ #b"
     ]
@@ -828,7 +828,7 @@
   },
   "Strawberry": {
     "NAME": "イチゴ",
-    "FLAVOR": "「美味しい！胴枯れ病以来見るのは初めてだ」-ランウィッド",
+    "FLAVOR": "「美味しい！塔の荒廃以来見るのは初めてだ」-ランウィッド",
     "DESCRIPTIONS": [
       "獲得時、最大HP+ #b"
     ]
@@ -1177,6 +1177,41 @@
       "ターン開始時、 [R] を得る。 ",
       "ターン開始時、 [G] を得る。 ",
       "ターン開始時、 [B] を得る。 "
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Empty Cage",
+    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Upon pick up, remove #b2 cards from your deck.",
+      "Choose 2 Cards to Remove."
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Incense Burner",
+    "FLAVOR": "An incense burner from long ago. Burning precious wood seems unimaginable.",
+    "DESCRIPTIONS": [
+      "Every #b5 turns, gain #b1 #yIntangible."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Fusion Hammer",
+    "FLAVOR": "Once wielded, the owner can never let go.",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer Smith at Rest Sites.",
+      "Gain [R] ",
+      "Gain [G] ",
+      "Gain [B] "
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Coffee Dripper",
+    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer Rest at Rest Sites.",
+      "Gain [R] ",
+      "Gain [G] ",
+      "Gain [B] "
     ]
   }
 }

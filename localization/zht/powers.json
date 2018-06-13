@@ -823,7 +823,7 @@
     "NAME": "雷暴",
     "DESCRIPTIONS": [
       "你每打出一張 #b能力牌 ， #y生成 #b ",
-      " 個 閃電 球。"
+      " 個 #y閃電 充能球。"
     ]
   },
   "Strength": {
@@ -942,10 +942,10 @@
     ]
   },
   "TimeMazePower": {
-    "NAME": "Time Maze",
+    "NAME": "時間迷宮",
     "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
+      "每當你打出 #b",
+      " 張牌，你的回合會強制結束。"
     ]
   }
 }

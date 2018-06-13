@@ -1,4 +1,36 @@
 Updates for Translators!
+06/12/2018
+relics.json
+	(Please reference the english version for the correct flavor/description!)
+	"Empty Cage"
+	"Incense Burner"
+	"Fusion Hammer"
+	"Coffee Dripper"
+blights.json
+	"Accursed"
+	"TwistingMind"
+	"Scatterbrain"
+monsters.json
+	"Serpent"
+		"NAME": "Serpent", ->
+		"NAME": "Spire Growth",
+characters.json
+	"Neow Event"
+		"Bloat!", ->
+		"Scatterbrain!",
+events.json
+	"The Nest"
+		"[Stay in Line] #gObtain Ritual Dagger. #rDowngrade ",
+		".",
+		"[Smash and Grab] #gObtain #g150 #gGold.",
+		"[Locked] Requires: Upgraded Card.",
+		->
+		"[Stay in Line] #gObtain Ritual Dagger. #rLose #r",
+		" #rHP.",
+		"[Smash and Grab] #gObtain #g",
+		" #gGold.",
+
+----------------------------------
 
 06/11/2018
 ui.json

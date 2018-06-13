@@ -18,5 +18,26 @@
     "DESCRIPTION": [
       "所有敌人获得时间迷宫能力。"
     ]
+  },
+  "Accursed": {
+    "NAME": "恶咒附身",
+    "DESCRIPTION": [
+      "拾起时，获得 #b",
+      " 张随机 #y诅咒牌 。"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "心智扭曲",
+    "DESCRIPTION": [
+      "拾起时， #y转化 #b",
+      " 张牌。"
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "胡思乱想",
+    "DESCRIPTION": [
+      "拾起时，获得 #b",
+      " 张随机牌。"
+    ]
   }
 }

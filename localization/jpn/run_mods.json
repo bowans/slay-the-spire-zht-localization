@@ -1,7 +1,27 @@
 {
+  "Allstar": {
+    "NAME": "オールスター",
+    "DESCRIPTION": "無色のカード5枚を所持してスタートする。"
+  },
+  "Binary": {
+    "NAME": "二者択一",
+    "DESCRIPTION": "カード報酬が2枚に減る。"
+  },
+  "Brewmaster": {
+    "NAME": "醸造マスター",
+    "DESCRIPTION": "5枚の錬金術と白き獣の像を所持してスタートする。"
+  },
   "Cursed Run": {
     "NAME": "呪われし道程",
     "DESCRIPTION": "ボスを倒すたび、呪われる。スターターレリックが呪いの鍵、ダークストーンの護符、ドゥーブー人形に置き換わる。"
+  },
+  "Diverse": {
+    "NAME": "多様性",
+    "DESCRIPTION": "カードはキャラクターの制限を受けない。"
+  },
+  "Draft": {
+    "NAME": "ドラフト",
+    "DESCRIPTION": "カードをドラフトして初期デッキを作る。"
   },
   "Elite Swarm": {
     "NAME": "大物狙い",
@@ -11,6 +31,14 @@
     "NAME": "先祖伝来の家宝",
     "DESCRIPTION": "ランダムなレアレリック1つを所持してスタートする。"
   },
+  "Hoarder": {
+    "NAME": "収集癖",
+    "DESCRIPTION": "カードをデッキに加えるたび、その複製を2枚追加する。あなたは商人のカード削除サービスを利用できなくなる。"
+  },
+  "Insanity": {
+    "NAME": "狂気の沙汰",
+    "DESCRIPTION": "ランダムな50枚のデッキでスタートする。"
+  },
   "Lethality": {
     "NAME": "致命傷",
     "DESCRIPTION": "戦闘開始時、あなたとすべての敵は筋力3を得る。"
@@ -19,33 +47,17 @@
     "NAME": "夜の恐怖",
     "DESCRIPTION": "休憩場所での回復量が100％になるが、最大HP5を失うようになる。"
   },
-  "Insanity": {
-    "NAME": "狂気の沙汰",
-    "DESCRIPTION": "ランダムな50枚のデッキでスタートする。"
-  },
   "Shiny": {
     "NAME": "ピカピカ",
     "DESCRIPTION": "初期デッキのカードをすべてレアカードと置き換える。"
   },
-  "Allstar": {
-    "NAME": "オールスター",
-    "DESCRIPTION": "無色のカード5枚を所持してスタートする。"
-  },
-  "Diverse": {
-    "NAME": "多様性",
-    "DESCRIPTION": "カードはキャラクターの制限を受けない。"
-  },
-  "Uncertain Future": {
-    "NAME": "確定的未来",
-    "DESCRIPTION": "マップが一本道になる。"
-  },
-  "Binary": {
-    "NAME": "二択",
-    "DESCRIPTION": "カード報酬が2枚に減る。"
-  },
   "Midas": {
     "NAME": "ミダス",
     "DESCRIPTION": "敵が落とすゴールドが2倍になるが、休憩場所でカードのアップグレードができなくなる。"
+  },
+  "Specialized": {
+    "NAME": "特化",
+    "DESCRIPTION": "同じレアカード5枚を所持してスタートする。"
   },
   "Terminal": {
     "NAME": "ターミナル",
@@ -55,24 +67,12 @@
     "NAME": "時間の遅れ",
     "DESCRIPTION": "全ての敵にスローのデバフを付与する。"
   },
-  "Hoarder": {
-    "NAME": "収集癖",
-    "DESCRIPTION": "カードをデッキに加えるたび、その複製を2枚追加する。あなたは商人のカード削除サービスを利用できなくなる。"
+  "Uncertain Future": {
+    "NAME": "確定的未来",
+    "DESCRIPTION": "マップが一本道になる。"
   },
   "Vintage": {
     "NAME": "ヴィンテージ",
     "DESCRIPTION": "通常の敵がカードの代わりにレリックをドロップするようになる。"
-  },
-  "Draft": {
-    "NAME": "ドラフト",
-    "DESCRIPTION": "カードをドラフトして初期デッキを作る。"
-  },
-  "Brewmaster": {
-    "NAME": "醸造マスター",
-    "DESCRIPTION": "5枚の錬金術と白き獣の像を所持してスタートする。"
-  },
-  "Specialized": {
-    "NAME": "特化",
-    "DESCRIPTION": "同じレアカード5枚を所持してスタートする。"
   }
 }
