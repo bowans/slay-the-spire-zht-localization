@@ -18,5 +18,26 @@
     "DESCRIPTION": [
       "所有敵人獲得時間迷宮能力。"
     ]
+  },
+  "Accursed": {
+    "NAME": "Accursed",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random #yCurses."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Twisting Mind",
+    "DESCRIPTION": [
+      "Upon pickup, #yTransform #b",
+      " cards."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Scatterbrain",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random cards."
+    ]
   }
 }
