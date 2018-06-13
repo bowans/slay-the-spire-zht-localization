@@ -20,24 +20,24 @@
     ]
   },
   "Accursed": {
-    "NAME": "Accursed",
+    "NAME": "惡咒附身",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses."
+      "拾起時，獲得 #b",
+      " 張隨機 #y詛咒牌 。"
     ]
   },
   "TwistingMind": {
-    "NAME": "Twisting Mind",
+    "NAME": "心智扭曲",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards."
+      "拾起時， #y轉化 #b",
+      " 張牌。"
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "胡思亂想",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random cards."
+      "拾起時，獲得 #b",
+      " 張隨機牌。"
     ]
   }
 }
