@@ -19,25 +19,25 @@
       "Gegner haben die Macht Verdrehte Zeit."
     ]
   },
-  "Accursed": {
-    "NAME": "Accursed",
+  "TwistingMind": {
+    "NAME": "Wechselnde Gedanken",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses."
+      "Beim Aufheben: #yTransformiere #b",
+      " Karten."
     ]
   },
-  "TwistingMind": {
-    "NAME": "Twisting Mind",
+  "Accursed": {
+    "NAME": "Verwünscht",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards."
+      "Beim Aufheben: Erhalte #b",
+      " zufällige #yFlüche."
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "Wirrkopf",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random cards."
+      "Beim Aufheben: Erhalte #b",
+      " zufällige Karten."
     ]
   }
 }

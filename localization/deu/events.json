@@ -101,7 +101,7 @@
     "OPTIONS": [
       "[Fortsetzen]",
       "[Verlassen]",
-      "[Opfern] Erhalte eine Belohnung, die deiner Opfergabe entspricht.",
+      "[Opfern] Erhalte eine Belohnung gemäß deiner Opfergabe.",
       "Wähle eine Karte zum Opfern."
     ]
   },
@@ -472,12 +472,12 @@
       ""
     ],
     "OPTIONS": [
-      "[Einreihen] #gErhalte #gRitueller #gDolch. #rVerschlechtere #r",
-      ".",
-      "[Schlagen und Stehlen] #gErhalte #g150 #gGold.",
-      "[Gesperrt] Benötigt: Verbesserte Karte.",
+      "[Einreihen] #gErhalte #gRitueller #gDolch. #rVerliere #r",
+      " #rTP.",
+      "[Schlagen und Stehlen] #gErhalte #g",
+      " #gGold.",
       "[Verlassen]",
-      "[Continue]"
+      "[Weiter]"
     ]
   },
   "Purifier": {
@@ -531,9 +531,9 @@
       "#b~VERWIRRUNG.~ NL NL #y[ZIEL] #gBALANCE #gmuss #gVERSTÄRKT #gwerden NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[WARNUNG] #rGroßes #rObjekt #rnähert #rsich NL NL ~\"Ich...~ ~..bin~ ~....Niau..\"~"
     ],
     "OPTIONS": [
-      "[Erinnern] #gWähle #gund #gerhalte #g1 #gfarblose #gKarte.",
-      "[Erinnern] #gWähle #gund #gerhalte #g2 #gfarblose #gKarten. #rVerliere #r",
-      "[Erinnern] #gWähle #gund #gerhalte #g3 #gfarblose #gKarten. #rVerliere #r",
+      "[Erinnern] #gWähle #g1 #gfarblose #gKarte #gfür #gdein #gDeck.",
+      "[Erinnern] #gWähle #g2 #gfarblose #gKarten #gfür #gdein #gDeck. #rVerliere #r",
+      "[Erinnern] #gWähle #g3 #gfarblose #gKarten #gfür #gdein #gDeck. #rVerliere #r",
       " #rTP.",
       "[Verlassen]",
       "[Interagieren]"
@@ -628,7 +628,7 @@
       "Die Geschichte spielt in einem abgeschiedenen, unterirdischen Gebäude, da die Zustände außerhalb unerträglich geworden sind. Dieser Roman ist durchzogen von Verschwörungen, Propaganda und Ungerechtigkeit. Du denkst darüber nach, ob sich eine ähnliche Dynamik im Spire abspielt. NL Beunruhigend."
     ],
     "OPTIONS": [
-      "[Lesen] #gWähle #g1 #gvon #g20 #gKarten #gaus, #gdie #gdu #gerhältst.",
+      "[Lesen] #gWähle #g1 #gvon #g20 #gKarten #gfür #gdein #gDeck.",
       "[Schlafen] #gHeile #g",
       " #gTP.",
       "[Verlassen]",

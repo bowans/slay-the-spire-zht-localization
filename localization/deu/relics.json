@@ -303,6 +303,16 @@
       "[B] ."
     ]
   },
+  "Coffee Dripper": {
+    "NAME": "Kaffeefilter-Tasse",
+    "FLAVOR": "\"Ja, bitte noch eine Tasse. Zurück an die Arbeit. An die Arbeit!\" - Der Architekt",
+    "DESCRIPTIONS": [
+      " NL Du kannst an Lagerfeuern nicht mehr ausruhen.",
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
+    ]
+  },
   "Dream Catcher": {
     "NAME": "Traumfänger",
     "FLAVOR": "Die nördlichen Stämme setzten in der Hoffnung auf Selbstbesserung nachts gern Traumfänger ein.",
@@ -336,6 +346,14 @@
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
       "Löse zu Beginn deines Zuges den passiven Effekt ALL deiner Orbs aus, wenn du im letzten Zug Schaden genommen hast."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Leerer Käfig",
+    "FLAVOR": "\"Wie seltsam, etwas einzusperren, das du anbetest.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Beim Aufheben: Entferne #b2 Karten aus deinem Deck.",
+      "Wähle 2 Karten, die du entfernst."
     ]
   },
   "Enchiridion": {
@@ -374,6 +392,16 @@
     "FLAVOR": "Keine Beschreibung.",
     "DESCRIPTIONS": [
       "Dein Nachziehstapel wird in richtiger Reihenfolge angezeigt, wenn du ihn ansiehst."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Festgeschmolzener Hammer",
+    "FLAVOR": "Wer ihn einmal schwingt, kann ihn nie wieder loslassen.",
+    "DESCRIPTIONS": [
+      " NL Du kannst an Lagerfeuern nicht mehr schmieden.",
+      "Erhalte in jedem Zug [R] . ",
+      "Erhalte in jedem Zug [G] . ",
+      "Erhalte in jedem Zug [B] . "
     ]
   },
   "Gambling Chip": {
@@ -429,6 +457,13 @@
     "FLAVOR": "„Köstlich!“",
     "DESCRIPTIONS": [
       "Energie wird jetzt zwischen Zügen aufbewahrt."
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Räucherschale",
+    "FLAVOR": "Der Weihrauch durchtränkt den Besitzer mit dem Geist des Verbrannten.",
+    "DESCRIPTIONS": [
+      "Erhalte alle #b5 Züge #b1 #yImmateriell."
     ]
   },
   "Inserter": {
@@ -649,7 +684,7 @@
   },
   "Odd Mushroom": {
     "NAME": "Seltsamer Pilz",
-    "FLAVOR": "„Nachdem ich den Trichella-Parasiten verzehrt hatte, fühlte ich mich größer und weniger … anfällig.“ – Ranwid ",
+    "FLAVOR": "„Nachdem ich den Trichella-Parasiten verzehrt hatte, fühlte ich mich größer und weniger ... anfällig.“ – Ranwid ",
     "DESCRIPTIONS": [
       "Bist du #yVerwundbar, erleide #b25% mehr Schaden statt #b50%."
     ]
@@ -698,7 +733,7 @@
     "NAME": "Planetarium",
     "FLAVOR": "„Wenn man erst das Universum versteht...“ – Zoroth",
     "DESCRIPTIONS": [
-      "Wähle und erhalte #b5 Karten.",
+      "Wähle #b5 Karten für dein Deck.",
       "Wissen!"
     ]
   },
@@ -1072,7 +1107,7 @@
     "DESCRIPTIONS": [
       "Erhalte #b1 Trank. NL Erhalte #b",
       " #yGold. NL Erhöhe deine max. TP um #b",
-      ". NL Wähle und erhalte #b1 Karte. NL Verbessere #b1 zufällige Karte.",
+      ". NL Wähle #b1 Karte für dein Deck. NL Verbessere #b1 zufällige Karte.",
       "Winziges Haus!"
     ]
   },
@@ -1177,41 +1212,6 @@
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
       "Tränke werden immer nach dem Kampf fallen gelassen."
-    ]
-  },
-  "Empty Cage": {
-    "NAME": "Empty Cage",
-    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Upon pick up, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
-    ]
-  },
-  "Incense Burner": {
-    "NAME": "Incense Burner",
-    "FLAVOR": "An incense burner from long ago. Burning precious wood seems unimaginable.",
-    "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
-    ]
-  },
-  "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
-    "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Smith at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
-    ]
-  },
-  "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
-    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
-    "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Rest at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
     ]
   }
 }
