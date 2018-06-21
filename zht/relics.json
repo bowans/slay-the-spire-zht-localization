@@ -224,9 +224,9 @@
   },
   "Circlet": {
     "NAME": "頭環",
-    "FLAVOR": "你居然拿光了所有遺物。厲害！",
+    "FLAVOR": "你已經沒有更多遺物可以拿了。厲害！",
     "DESCRIPTIONS": [
-      "看起來很漂亮。"
+      "多多益善。"
     ]
   },
   "Cracked Core": {
@@ -1215,26 +1215,26 @@
     ]
   },
   "SsserpentHead": {
-    "NAME": "Ssserpent Head",
-    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
+    "NAME": "蛇的頭",
+    "FLAVOR": "最幸福的人生當然就是什麼東西都能買得起的土豪生活了！",
     "DESCRIPTIONS": [
-      "Whenever you begin an Event, gain #b",
-      " #yGold."
+      "每次遇到事件時獲得 #b",
+      " #y金幣 。"
     ]
   },
   "NlothsMask": {
-    "NAME": "N'Loth's Mask",
-    "FLAVOR": "You feel hungry.",
+    "NAME": "恩洛斯的面具",
+    "FLAVOR": "你覺得好餓。",
     "DESCRIPTIONS": [
-      "Whenever you play a Rare card, gain #b",
-      " #yBlock."
+      "每次打出稀有牌時獲得 #b",
+      " 點 #y格擋 。"
     ]
   },
   "FaceOfCleric": {
-    "NAME": "Face Of Cleric",
-    "FLAVOR": "Everyone loves Cleric.",
+    "NAME": "牧師的臉",
+    "FLAVOR": "人人都愛牧師。",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b1 after each combat."
+      "每場戰鬥後你的最大生命值增加 #b1 。"
     ]
   }
 }

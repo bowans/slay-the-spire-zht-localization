@@ -16,84 +16,84 @@
   "TimeMaze": {
     "NAME": "時間迷宮",
     "DESCRIPTION": [
-      "所有敵人獲得時間迷宮能力。",
-      " cards per turn.",
-      "I can only play up to NL #r"
+      "你每回合不能打出多於 #b",
+      " 張牌。",
+      "我只能打出 NL #r"
     ]
   },
   "Accursed": {
     "NAME": "惡咒附身",
     "DESCRIPTION": [
-      "拾起時，獲得 #b",
+      "每打敗一名Boss，獲得 #b",
       " 張隨機 #y詛咒牌 。",
-      "Accursed!"
+      "惡咒附身！"
     ]
   },
   "TwistingMind": {
     "NAME": "心智扭曲",
     "DESCRIPTION": [
-      "拾起時， #y轉化 #b",
-      " 張牌。",
-      "Transformation!"
+      "你的每回合結束時，將 #b",
+      " 張隨機 #y狀態牌 放置到你的抽牌堆頂端。",
+      "轉化!"
     ]
   },
   "Scatterbrain": {
     "NAME": "胡思亂想",
     "DESCRIPTION": [
-      "拾起時，獲得 #b",
-      " 張隨機牌。",
-      "Scatterbrained!"
+      "每回合抽牌減少 #b",
+      " 張。",
+      "走神！"
     ]
   },
   "MimicInfestation": {
-    "NAME": "Mimic Infestation",
+    "NAME": "遍地寶箱怪",
     "DESCRIPTION": [
-      "Treasure rooms in future acts are replaced by Elites."
+      "之後階段中的寶箱房將被替換為精英敵人。精英敵人不再掉落遺物。"
     ]
   },
   "FullBelly": {
-    "NAME": "Full Belly",
+    "NAME": "嘴套",
     "DESCRIPTION": [
-      "You can no longer increase your Max HP. All healing is halved."
+      "你無法再增加最大生命值。所有回復效果減半。"
     ]
   },
   "GrotesqueTrophy": {
-    "NAME": "Grotesque Trophy",
+    "NAME": "可怖獎盃",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " #rPrides.",
-      "Your Pride is twisted..."
+      "拾起時，獲得 #b",
+      " 張 #r傲慢 。",
+      "你的傲慢，如此扭曲……"
     ]
   },
   "BlightedDurian": {
-    "NAME": "Blighted Durian",
+    "NAME": "疫後榴槤",
     "DESCRIPTION": [
-      "Lose #b",
-      "% of your Max HP."
+      "失去 #b",
+      "% 最大生命。"
     ]
   },
   "VoidEssence": {
-    "NAME": "Void Essence",
+    "NAME": "虛無結晶",
     "DESCRIPTION": [
-      "Gain 1 less [R] at the start of each turn.",
-      "Gain 1 less [G] at the start of each turn.",
-      "Gain 1 less [B] at the start of each turn."
+      "在每回合開始時失去 [R] 。",
+      "在每回合開始時失去 [G] 。",
+      "在每回合開始時失去 [B] 。"
     ]
   },
   "GraspOfShadows": {
-    "NAME": "Grasp Of Shadows",
+    "NAME": "陰魂不散",
     "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yIntangible."
+      "所有敵人初始擁有 #b",
+      " 層 #y無實體 。"
     ]
   },
   "MetallicRebirth": {
-    "NAME": "Metallic Rebirth",
+    "NAME": "先古強化",
     "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yArtifact, #b",
-      " #yPlated #yArmor, and #b",
-      " #yRegenerate."
+      "所有敵人初始擁有 #b",
+      " 層 #y人工製品 ， #b",
+      " 層 #y多層護甲 ，和 #b",
+      " 層 #y再生 。"
     ]
   }
 }
