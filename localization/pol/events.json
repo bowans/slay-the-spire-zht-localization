@@ -187,7 +187,8 @@
       "W trakcie lotu myślisz o tym, jak wyjść z tej sytuacji: NL Wylądować korzystając z nabytych umiejętności. NL Przekierować całą swoją moc i przygotować się na zderzenie. NL Wyprowadzić cios w ścianę i zatrzymać się na niej.",
       "Otrzymujesz najwyższe noty za styl przy lądowaniu, po czym ruszasz dalej.",
       "Zbierasz niewykorzystane wcześniej pokłady energii, aby wylądować bez zadraśnięcia.",
-      "Udaje ci się pochwycić ścianę, a potem odbić w stronę najbliższej stabilnej platformy."
+      "Udaje ci się pochwycić ścianę, a potem odbić w stronę najbliższej stabilnej platformy.",
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Kontynuuj]",
@@ -197,7 +198,8 @@
       "[Zablokowane] Wymagania: karta Mocy",
       "[Uderz] #rUtrać ",
       "[Zablokowane] Wymagania: karta Ataku",
-      "[Odejdź]"
+      "[Odejdź]",
+      "[Land] "
     ]
   },
   "Forgotten Altar": {
@@ -813,6 +815,19 @@
       "[Locked] Requires: Upgraded Card.",
       "[Leave]",
       "[Continue]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]"
     ]
   }
 }

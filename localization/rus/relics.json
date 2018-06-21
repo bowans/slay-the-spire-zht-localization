@@ -155,7 +155,7 @@
     "NAME": "Разбитая корона",
     "FLAVOR": "Корона Чемпиона... или плохая подделка?",
     "DESCRIPTIONS": [
-      "Сокращает выбор на #y2 карты при получении наградных карт в будущем.",
+      "Сокращает число доступных карт при получении наград на #y2.",
       "Даёт [R] в начале каждого хода. ",
       "Даёт [G] в начале каждого хода. ",
       "Даёт [B] в начале каждого хода. "
@@ -237,6 +237,16 @@
     "FLAVOR": "Все остальные реликвии уже найдены. Впечатляет!",
     "DESCRIPTIONS": [
       "Милая вещица."
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Бездонная чашка кофе",
+    "FLAVOR": "«Да, ещё одну чашечку пожалуйста. Нужно работать. Нужно работать!». — Архитектор",
+    "DESCRIPTIONS": [
+      "в начале каждого хода. Вы больше не можете отдыхать в лагере.",
+      "Даёт [R] ",
+      "Даёт [G] ",
+      "Даёт [B] "
     ]
   },
   "Cracked Core": {
@@ -338,6 +348,14 @@
       "Активирует пассивный эффект всех #yЗаряженных сфер в начале хода, если вы получали урон в прошлом ходу."
     ]
   },
+  "Empty Cage": {
+    "NAME": "Пустая клетка",
+    "FLAVOR": "«Заточить своё божество в клетку...Необычный подход». — Ранвид",
+    "DESCRIPTIONS": [
+      "Получив эту реликвию, вы удалите #b2 выбранные карты.",
+      "Выберите 2 карты, которые хотите удалить."
+    ]
+  },
   "Enchiridion": {
     "NAME": "Энхиридион",
     "FLAVOR": "Легендарный дневник древнего лича.",
@@ -374,6 +392,16 @@
     "FLAVOR": "Нет описания.",
     "DESCRIPTIONS": [
       "Позволяет видеть порядок карт в стопке добора."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Проклятый молот",
+    "FLAVOR": "Заполучивший его никогда с ним не расстанется.",
+    "DESCRIPTIONS": [
+      "в начале каждого хода. Вы больше не можете ковать в лагере.",
+      "Даёт [R] ",
+      "Даёт [G] ",
+      "Даёт [B] "
     ]
   },
   "Gambling Chip": {
@@ -429,6 +457,13 @@
     "FLAVOR": "«Пальчики оближешь!»",
     "DESCRIPTIONS": [
       "Сохраняет энергию в конце хода."
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Курительница",
+    "FLAVOR": "Её дым наделяет владельца духом сожжённых.",
+    "DESCRIPTIONS": [
+      "Каждый #b5-ый ход даёт #b1 #yНеосязаемости."
     ]
   },
   "Inserter": {
@@ -781,7 +816,7 @@
     "NAME": "Карта «Вопрос»",
     "FLAVOR": "«Чем больше выбор, тем менее беспорядочным кажется хаос». — Кубилай Великий",
     "DESCRIPTIONS": [
-      "Даёт на выбор на #y1 карту больше при получении наградных карт в будущем."
+      "Повышает число доступных карт при получении наград на #y1."
     ]
   },
   "Red Circlet": {
@@ -960,7 +995,7 @@
   },
   "Symbiotic Virus": {
     "NAME": "Вирус-симбионт",
-    "FLAVOR": "Щепотка #rплохого может сделать много #gхорошего...",
+    "FLAVOR": "Щепотка плохого может сделать много хорошего...",
     "DESCRIPTIONS": [
       "#yЗаряжает #y1 #yСферу Тьмы в начале каждого боя."
     ]
@@ -1179,39 +1214,27 @@
       "Гарантирует выпадение зелья после боя."
     ]
   },
-  "Empty Cage": {
-    "NAME": "Empty Cage",
-    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
     "DESCRIPTIONS": [
-      "Upon pick up, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
+      "Whenever you begin an Event, gain #b",
+      " #yGold."
     ]
   },
-  "Incense Burner": {
-    "NAME": "Incense Burner",
-    "FLAVOR": "An incense burner from long ago. Burning precious wood seems unimaginable.",
+  "NlothsMask": {
+    "NAME": "N'Loth's Mask",
+    "FLAVOR": "You feel hungry.",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
+      "Whenever you play a Rare card, gain #b",
+      " #yBlock."
     ]
   },
-  "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Smith at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
-    ]
-  },
-  "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
-    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
-    "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Rest at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "Raise your Max HP by #b1 after each combat."
     ]
   }
 }

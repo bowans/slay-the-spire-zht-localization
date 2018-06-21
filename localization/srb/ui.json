@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Nastavi",
-      "Blights:"
+      "Pošasti:"
     ]
   },
   "AbstractMonster": {
@@ -154,7 +154,8 @@
       "Izaberi relikviju",
       "Preskoči",
       "GLASAJ: ",
-      "s preostalo."
+      "s preostalo.",
+      "Choose a Blight"
     ]
   },
   "CacheAction": {
@@ -305,7 +306,7 @@
   },
   "DailyScreen": {
     "TEXT": [
-      "Dnevni izazov",
+      "Dnevni pohod",
       "Uspostavljanje veze sa serverom za vreme...",
       "#yNAPOMENA: odradio si današnji izazov. NL Poeni se ignorišu za naredne pokušaje.",
       "Nazad",
@@ -320,7 +321,7 @@
       " NL #yIzmene: ",
       "Izmene: ",
       "Tabela",
-      "*Dostignuća su onemogućena za dnevni izazov."
+      "*Dostignuća su onemogućena u dnevnom pohodu."
     ]
   },
   "DeathScreen": {
@@ -570,7 +571,7 @@
       "Nazad",
       "Komanda",
       "Tastatura",
-      "Kontroler (trenutno nedostupno)",
+      "Kontroler",
       "Vrati na originalna podešavanja",
       "Potvrdi kartu",
       "Otkaži / Izađi",
@@ -593,26 +594,27 @@
       "Odaberi kartu #9",
       "Odaberi kartu #10",
       "Pusti kartu",
+      "Izaberi*",
+      "Otkaži*",
+      "Gornji panel*",
+      "Nastavi / Završi potez*",
+      "Prikaz levo / Pregledaj špil*",
+      "Prikaz desno / Gomila za iscrpljene*",
+      "Mapa*",
+      "Postavke*",
+      "Gomila za vuču*",
+      "Gomila za odbacivanje*",
+      "Gore*",
+      "Dole*",
+      "Levo*",
+      "Desno*",
+      "Gore (dr.)*",
+      "Dole (dr.)*",
+      "Levo (dr.)*",
+      "Desno (dr.)*",
       "Gore",
       "Dole",
-      "Izaberi",
-      "Završi potez / informacije",
-      "Prethodna boja / karta",
-      "Sledeća boja / karta",
-      "Settings",
-      "Settings*",
-      "Draw Pile*",
-      "Discard Pile*",
-      "Up*",
-      "Down*",
-      "Left*",
-      "Right*",
-      "Up (Alt)*",
-      "Down (Alt)*",
-      "Left (Alt)*",
-      "Right (Alt)*",
-      "Up",
-      "Down"
+      "Controller Enabled"
     ]
   },
   "LanguageDropdown": {
@@ -743,7 +745,7 @@
       "Uobičajeno",
       "",
       "Otisni se u Pohod na Toranj.",
-      "Dnevni izazov",
+      "Dnevni pohod",
       "",
       "Novi pohod je dostupan jednom dnevno.\n\nNadmeći se sa drugim igračima za najbolji rezultat!",
       "Uspinjanje",
@@ -777,10 +779,10 @@
       "",
       "Pogledaj ko je sve doprineo Pohodu na Toranj!",
       "Nepoznato",
-      "",
+      "Pobedi dnevni pohod kako bi otključao ovaj režim.",
       "Ovaj deo je nedostupan.",
-      "Endless",
-      "Climb a Spire that never ends."
+      "U nedogled",
+      "Pobeda te vraća u Preludijum sa istim špilom. \n\nImaj na umu, Buđ eventualno guta sve..."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -987,11 +989,11 @@
       "Pobede i gubici",
       "Pobede",
       "Gubici",
-      "Dnevni izazov",
+      "Dnevni pohod",
       "Sve vrste pohoda",
       "Uobičajeni pohodi",
       "Uspinjanje",
-      "Dnevni izazovi",
+      "Dnevni pohodi",
       "Seme: %s",
       "Proizvoljno seme: %s"
     ]
@@ -1008,8 +1010,8 @@
   "SettingsScreen": {
     "TEXT": [
       "Sigurno?",
-      "Napredak u pohodu je automatski zapamćen.",
-      "Biće zabeležen gubitak ako napustiš pohod.",
+      "Napredak pohoda je automatski zapamćen.",
+      "Napuštanjem pohoda će biti zabeležen gubitak.",
       "UPOZORENJE:\nNapredak NIJE zapamćen.\n\nStigni do sledećeg sprata da zapamtiš ovaj pohod.",
       "Nazad",
       "Napredak se NE PAMTI za dnevne pohode."
@@ -1147,6 +1149,11 @@
   "UnlockTextEffect": {
     "TEXT": [
       "Nešto si otključao!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Ascension Unlocked!"
     ]
   }
 }

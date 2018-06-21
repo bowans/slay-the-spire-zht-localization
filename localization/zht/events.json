@@ -187,7 +187,8 @@
       "在摔下的途中，你開始考慮自己又什麼選擇： NL 用你最好的技術安全落地。 NL 釋放能力牌的力量來抵禦傷害。 NL 對牆壁猛擊，讓自己不再下墜。",
       "你以優雅的姿勢落地，繼續前行。",
       "你催動自己的力量，成功在落地時避免了損傷。",
-      "你成功掛在了牆上，一個小跳翻上了一個穩固的平台。"
+      "你成功掛在了牆上，一個小跳翻上了一個穩固的平台。",
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[繼續]",
@@ -197,7 +198,8 @@
       "[鎖定] 需要： 能力牌",
       "[猛擊] #r失去 ",
       "[鎖定] 需要： 攻擊牌",
-      "[離開]"
+      "[離開]",
+      "[Land] "
     ]
   },
   "Forgotten Altar": {
@@ -807,12 +809,25 @@
       ""
     ],
     "OPTIONS": [
-      "[留在隊伍中] #g獲得儀式匕首。 #r卡牌 #r",
-      " #r被降級。",
-      "[搶了錢就跑] #g獲得 #g150 #g金幣。",
-      "[鎖定] 需要：升級過的牌。",
+      "[留在隊伍中] #g獲得 儀式匕首 #g。 #r失去 #r",
+      " #r生命。",
+      "[搶了錢就跑] #g獲得 #g",
+      " #g金幣。",
       "[離開]",
       "[繼續]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]"
     ]
   }
 }

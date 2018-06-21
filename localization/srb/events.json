@@ -187,7 +187,8 @@
       "U slobodnom padu razmatraš svoje opcije: NL Sigurno se prizemlji svojom najvećom tehnikom. NL Usredsredi svoje energiju kako bi preživeo pad. NL Udari u zid ne bi li se zakačio na njega.",
       "Prizemljiš se neverovatno graciozno. Nastavljaš dalje.",
       "Koncentrišući nešto svoje sirove moći, uspevaš da se prizemljiš bez povreda.",
-      "Zakačiš se na zid. Kratkim odskokom uspeš da dospeš do druge stabilne platforme."
+      "Zakačiš se na zid. Kratkim odskokom uspeš da dospeš do druge stabilne platforme.",
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Dalje]",
@@ -197,7 +198,8 @@
       "[Zaključano] Zahteva: moć",
       "[Udari] #rIzgubi #rkartu ",
       "[Zaključano] Zahteva: napad",
-      "[Pođi]"
+      "[Pođi]",
+      "[Land] "
     ]
   },
   "Forgotten Altar": {
@@ -401,7 +403,7 @@
     ]
   },
   "MindBloom": {
-    "NAME": "Vizije",
+    "NAME": "Procvat uma",
     "DESCRIPTIONS": [
       "Snalazeći se kroz haos Tornja, misli najedared počnu da ti se čine veoma... #p~stvarnim...~ NL NL Slike #rčudovišta i #yblaga počinju da se manifestuju u stvarnosti. NL Osećaj brzo izmiče. Šta činiš?",
       "Da li je moguće da je tako lako?",
@@ -462,15 +464,15 @@
       "Dug red #b~zaodenutih~ #b~prilika~ ulazi u NL u #yskromnu #ykatedralu.",
       "Naravski, pridružiš se redu i brzo bivaš okružen #rkultistima! NL Ignorišu te dok veselo @skandiraju@ i ~mašu~ svojim oružjima. NL NL #r@\"UBISTVO!!@ #r@UBISTVO@ #r@UBISTVO!!\"@ NL #b~\"KA~ #b~KA~ #b~KAAAAA!\"~ NL #r@\"UBISTVO!@ #r@UBISTVO@ #r@UBISTVO!!\"@ NL #b~\"KAA~ #b~KA~ #b~KAAAAAA!!\"~ NL NL Ugledaš #ykutiju #yza #ypriloge...",
       "Zadržiš se u redu (iz straha) da vidiš šta će da se desi. NL NL Naposletku, licem u lice si sa vođom. Dobro obučeni kultista ti preda #yukrašeni #ybodež. Kao i drugi pre tebe, zasečeš svoju podlakticu i pustiš da krv isteče u nakazni pehar. NL NL Kultisti ti drugarski @skandiraju@ i @uzvikuju@! NL NL #b~\"KAA~ #b~KA~ #b~KAAAAAA!!\"~ NL NL I ti takođe kreneš da skandiraš. Što da ne?",
-      "Uopšte nisu ni primetili.",
+      "Nisu uopšte ni primetili.",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Zadrži se u redu] #gZadobi #gObredni #gbodež. #rPogoršaj #rkartu #r",
-      ".",
-      "[Posluži se] #gZadobi #g150 #gzlata.",
-      "[Zaključano] Zahteva: Poboljšanu kartu.",
+      "[Zadrži se u redu] #gZadobi #gObredni #gbodež. #rIzgubi #r",
+      " #rž. #rp.",
+      "[Posluži se] #gZadobi #g",
+      " #gzlata.",
       "[Pođi]",
       "[Nastavi]"
     ]
@@ -624,7 +626,7 @@
       "Nailaziš na veoma ukrašenu građevinu koja izgleda napušteno. NL Tablica koja je bila na zidu je odvaljena i na podu. Na njoj piše #b\"BIBLIOTEKA\". NL Unutra, nalaziš bezbroj redova svitaka, spisa, i knjiga. NL Zgrabiš jednu i ušuškaš se u neku stolicu, u pokušaju da nađeš malo mira.",
       "Čitanje je za gubitnike. NL Umesto toga zadremaš u udobnoj stolici. NL ~Hrk...~ ~hrr...~ ~..hh....~ NL Budiš se osvežen.",
       "Priča je o tinejdžerki koja kontroliše insekte, sa željom da postane heroj. Knjiga je ispunjena kreativnim korišćenjem moći, borbenim strategijama, i raznim gledištima. NL Zadovoljavajuće.",
-      "Priča je o čoveku koji je proputovao preko zvezda i ostao zaglavljen na pustoj nepoznatoj planeti. Snalažljivost, sreća, izdržljivost, i humor, ne bi li zadržao zdrav razum, su bile njegove alatke za vraćanje kući. NL Fascinantno.",
+      "Priča je o čoveku koji je proputovao preko zvezda i ostao zaglavljen na nepoznatoj, pustoj planeti. Snalažljivost, sreća, izdržljivost, i humor, ne bi li zadržao zdrav razum, su bile njegove alatke za vraćanje kući. NL Fascinantno.",
       "Priča se dešava u džinovskoj izolovanoj građevini pod zemljom, dok su spoljni uslovi postali neizdrživi. Roman je ispuljen zaverama, propagandom, i nepravdom. Razmišljaš da li se slična dinamika odvija unutar Tornja. NL Uznemirujuće."
     ],
     "OPTIONS": [
@@ -813,6 +815,19 @@
       "[Ne diraj] #rIzgubi #r",
       " #rzlata.",
       "[Pođi]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]"
     ]
   }
 }

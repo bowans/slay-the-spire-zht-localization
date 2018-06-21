@@ -176,7 +176,8 @@
       "Enquanto em queda livre você considera suas opções: NL Aterrissar em segurança fazendo uso de suas melhores técnicas. NL Canalizar um Poder para sobreviver a queda. NL Golpear a parede para se agarrar a ela.",
       "Você aterrissa graciosamente antes de prosseguir seu caminho.",
       "Aproveitando e gastando parte de seu poder bruto, você consegue aterrissar sem se machucar.",
-      "Você consegue se agarrar à parede, e consegue dar um curto pulo para outra plataforma estável."
+      "Você consegue se agarrar à parede, e consegue dar um curto pulo para outra plataforma estável.",
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Continuar]",
@@ -186,7 +187,8 @@
       "[Bloqueado] Requer: Carta de Poder",
       "[Golpear] #rPerca ",
       "[Bloqueado] Requer: Carta de Ataque",
-      "[Sair]"
+      "[Sair]",
+      "[Land] "
     ]
   },
   "The Moai Head": {
@@ -813,6 +815,19 @@
       "[Locked] Requires: Upgraded Card.",
       "[Leave]",
       "[Continue]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]"
     ]
   }
 }

@@ -176,7 +176,8 @@
       "While in free fall you consider your options: NL Land safely with your greatest techniques. NL Channel a Power to survive the fall. NL Strike at the wall to hang on to it.",
       "You land with extreme grace before continuing on.",
       "Harnessing and expending some of your raw power, you manage to land unhurt.",
-      "You are able to latch on to the wall, and manage to make a short hop onto another stable platform."
+      "You are able to latch on to the wall, and manage to make a short hop onto another stable platform.",
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Continue]",
@@ -186,7 +187,8 @@
       "[Locked] Requires: Power Card",
       "[Strike] #rLose ",
       "[Locked] Requires: Attack Card",
-      "[Leave]"
+      "[Leave]",
+      "[Land] "
     ]
   },
   "The Moai Head": {
@@ -813,6 +815,19 @@
       "[Locked] Requires: Upgraded Card.",
       "[Leave]",
       "[Continue]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]"
     ]
   }
 }

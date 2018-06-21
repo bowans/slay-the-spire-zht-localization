@@ -116,7 +116,7 @@
       "Elites are tougher.",
       "Bosses are tougher.",
       "Start each run cursed.",
-      "Less Potion Slots.",
+      "Fewer Potion Slots.",
       "Upgraded cards appear less often.",
       "Poor bosses.",
       "Lower Max HP.",
@@ -127,6 +127,11 @@
     "TEXT": [
       "Ascension Mode Level ",
       " Unlocked!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Ascension Unlocked!"
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -154,7 +159,8 @@
       "Choose a Relic",
       "Skip",
       "VOTE NOW: ",
-      "s left."
+      "s left.",
+	  "Choose a Blight"
     ]
   },
   "CacheAction": {
@@ -612,7 +618,8 @@
       "Left (Alt)*",
       "Right (Alt)*",
       "Up",
-      "Down"
+      "Down",
+      "Controller Enabled"
     ]
   },
   "LanguageDropdown": {
@@ -777,10 +784,10 @@
       "",
       "See all of the people who contributed on Slay the Spire!",
       "Unknown",
-      "",
+      "Win a Daily Climb to unlock this game mode.",
       "This feature is not yet available.",
 	  "Endless",
-	  "Climb a Spire that never ends."
+	  "Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
     ]
   },
   "MerchantImageTextNotInGame": {

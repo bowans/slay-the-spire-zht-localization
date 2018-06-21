@@ -500,7 +500,7 @@
   },
   "Feed": {
     "NAME": "Banchetto",
-    "DESCRIPTION": "Infliggi !D! danni. NL Se il nemico non era un minion e muore così, NL ottieni !M! PV Massimi permanenti. Esaurisci."
+    "DESCRIPTION": "Infliggi !D! danni. NL Se uccidi così un nemico non Seguace, NL ottieni !M! PV Massimi permanenti. Esaurisci."
   },
   "Feel No Pain": {
     "NAME": "Nessun Dolore",
@@ -1104,7 +1104,7 @@
     "UPGRADE_DESCRIPTION": "Scarti la tua mano. NL Aggiungi 1 Pugnale Potenziato alla tua mano per ogni carta scartata."
   },
   "Streamline": {
-    "NAME": "Migliore",
+    "NAME": "Ottimizzato",
     "DESCRIPTION": "Infliggi !D! danni. NL Il costo di questa carta si riduce di !M! per questo combattimento."
   },
   "Strike_B": {
@@ -1288,5 +1288,9 @@
   "RitualDagger": {
     "NAME": "Lama Rituale",
     "DESCRIPTION": "Infliggi !D! danni. Se il nemico scelto muore così, il danno di questa carta aumenta di !M!. Esaurisci."
+  },
+  "Pride": {
+    "NAME": "Orgoglio",
+    "DESCRIPTION": "Innata. Esaurisci. NL A fine turno, metti una copia di questa carta in cima alla tua Pila."
   }
 }

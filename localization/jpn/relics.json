@@ -202,7 +202,7 @@
     "NAME": "サークレット",
     "FLAVOR": "すべてのレリックを発見した。素晴らしい！",
     "DESCRIPTIONS": [
-      "可愛らしい。"
+      "できる限り集めよう。"
     ]
   },
   "The Courier": {
@@ -1037,7 +1037,7 @@
     "FLAVOR": "「巨大な力だが、制約が多すぎる」-偉人クブライ",
     "DESCRIPTIONS": [
       "1ターンの間に、 #b",
-      " 枚しかカードを使えなくなる。",
+      " 枚までしかカードを使えなくなる。",
       "ターン開始時、 [R] を得る。 ",
       "ターン開始時、 [G] を得る。 ",
       "ターン開始時、 [B] を得る。 ",
@@ -1180,38 +1180,61 @@
     ]
   },
   "Empty Cage": {
-    "NAME": "Empty Cage",
+    "NAME": "空っぽの檻",
     "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Upon pick up, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
+      "獲得時、 #b2 枚のカードをデッキから削除する。",
+      "削除するカードを2枚選ぶ"
     ]
   },
   "Incense Burner": {
-    "NAME": "Incense Burner",
+    "NAME": "香炉",
     "FLAVOR": "An incense burner from long ago. Burning precious wood seems unimaginable.",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
+      "#b5 ターンごとに、 #y無形 #b1 を得る。"
     ]
   },
   "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
+    "NAME": "融合ハンマー",
+    "FLAVOR": "一度振れば、二度と手放すことはできない。",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Smith at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "休憩場所で鍛冶ができなくなる。",
+      "ターン開始時、 [R] を得る。",
+      "ターン開始時、 [G] を得る。",
+      "ターン開始時、 [B] を得る。"
     ]
   },
   "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
+    "NAME": "コーヒードリッパー",
     "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Rest at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "休憩場所で休息ができなくなる。",
+      "ターン開始時、 [R] を得る。",
+      "ターン開始時、 [G] を得る。",
+      "ターン開始時、 [B] を得る。"
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
+    "DESCRIPTIONS": [
+      "Whenever you begin an Event, gain #b",
+      " #yGold."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loth's Mask",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "Whenever you play a Rare card, gain #b",
+      " #yBlock."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b1 after each combat."
     ]
   }
 }

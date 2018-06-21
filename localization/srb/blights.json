@@ -1,43 +1,99 @@
 {
-  "DeadlyEnemies": {
-    "NAME": "Deadly Enemies",
+  "Accursed": {
+    "NAME": "Koplje Buđi",
     "DESCRIPTION": [
-      "Enemies deal #b",
-      "% more damage."
+      "Po uzimanju, dobijaš #b",
+      " nasumične #ykletve.",
+      "Accursed!"
+    ]
+  },
+  "DeadlyEnemies": {
+    "NAME": "Štit Buđi",
+    "DESCRIPTION": [
+      "Neprijatelji zadaju #b",
+      "% više štete."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Smeten",
+    "DESCRIPTION": [
+      "Po uzimanju, zadobi #b",
+      " nasumične karte.",
+      "Scatterbrained!"
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Time Maze",
+    "DESCRIPTION": [
+      "Neprijatelji imaju Vremenski lavirint moć.",
+      " cards per turn.",
+      "I can only play up to NL #r"
     ]
   },
   "ToughEnemies": {
     "NAME": "Tough Enemies",
     "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
-    ]
-  },
-  "TimeMaze": {
-    "NAME": "Tough Enemies",
-    "DESCRIPTION": [
-      "Enemies have the Time Maze power."
-    ]
-  },
-  "Accursed": {
-    "NAME": "Accursed",
-    "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses."
+      "Neprijatelji imaju #b",
+      "% više ž. p."
     ]
   },
   "TwistingMind": {
-    "NAME": "Twisting Mind",
+    "NAME": "Iskrivljeni um",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards."
+      "Po uzimanju, #ypreobrazi #b",
+      " karte.",
+      "Transformation!"
     ]
   },
-  "Scatterbrain": {
-    "NAME": "Scatterbrain",
+  "MimicInfestation": {
+    "NAME": "Mimic Infestation",
+    "DESCRIPTION": [
+      "Treasure rooms in future acts are replaced by Elites."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Full Belly",
+    "DESCRIPTION": [
+      "You can no longer increase your Max HP. All healing is halved."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Grotesque Trophy",
     "DESCRIPTION": [
       "Upon pickup, obtain #b",
-      " random cards."
+      " #rPrides.",
+      "Your Pride is twisted..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Blighted Durian",
+    "DESCRIPTION": [
+      "Lose #b",
+      "% of your Max HP."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Void Essence",
+    "DESCRIPTION": [
+      "Gain 1 less [R] at the start of each turn.",
+      "Gain 1 less [G] at the start of each turn.",
+      "Gain 1 less [B] at the start of each turn."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Grasp Of Shadows",
+    "DESCRIPTION": [
+      "Enemies start combat with #b",
+      " #yIntangible."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Metallic Rebirth",
+    "DESCRIPTION": [
+      "Enemies start combat with #b",
+      " #yArtifact, #b",
+      " #yPlated #yArmor, and #b",
+      " #yRegenerate."
     ]
   }
 }

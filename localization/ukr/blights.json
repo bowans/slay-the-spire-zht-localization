@@ -1,43 +1,99 @@
 {
   "DeadlyEnemies": {
-    "NAME": "Deadly Enemies",
+    "NAME": "Спис моровиці",
     "DESCRIPTION": [
-      "Enemies deal #b",
-      "% more damage."
+      "Вороги наносять на #b",
+      "% більше шкоди."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Tough Enemies",
+    "NAME": "Щит моровиці",
     "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
+      "Вороги мають на #b",
+      "% більше ОЗ."
     ]
   },
   "TimeMaze": {
-    "NAME": "Tough Enemies",
+    "NAME": "Часовий лабіринт",
     "DESCRIPTION": [
-      "Enemies have the Time Maze power."
-    ]
-  },
-  "Accursed": {
-    "NAME": "Accursed",
-    "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses."
+      "Ви не можете грати більше #b",
+      " карт за хід.",
+      "Я не можу зіграти більше NL #r карт"
     ]
   },
   "TwistingMind": {
-    "NAME": "Twisting Mind",
+    "NAME": "Кривизна розуму",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards."
+      "На прикінці Вашого руху, додає #b",
+      " випадкову Статус карту наверх добору.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Окаяння",
+    "DESCRIPTION": [
+      "Щоразу Ви поб’єте Князя, отримаєте #b",
+      " випадкових #yПрокляття.",
+      ""
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "Розсіювання",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random cards."
+      "Тасуєте на #b",
+      " менше карт у кожному ході.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Зараження Елітою",
+    "DESCRIPTION": [
+      "У майбутніх Актах, скарбниці замінюються Елітою. Еліта більше не залишає по собі амулети."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Без-апетитність",
+    "DESCRIPTION": [
+      "Ви більше не можете збільшити макс. ОЗ. Усе зцілення зменшується вдвічі."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Спотворений трофей",
+    "DESCRIPTION": [
+      "Підбираючи, отримуєте #b",
+      " #rГордині.",
+      "Ваша гординя спотворена..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Після Дуріана",
+    "DESCRIPTION": [
+      "Втрачаєте #b",
+      "% макс. ОЗ."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Сутність порожнечі",
+    "DESCRIPTION": [
+      "Отримуєте на 1 менше [R] на початку кожного руху.",
+      "Отримуєте на 1 менше [G] на початку кожного руху.",
+      "Отримуєте на 1 менше [B] на початку кожного руху."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Зараження нечистю",
+    "DESCRIPTION": [
+      "Вороги починають бій з #b",
+      " #yУхилянням."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Стародавнє зміцнення",
+    "DESCRIPTION": [
+      "Вороги починають бій з #b",
+      " #yАртефактами, #b",
+      " #yПанцерної #yброні, та #b",
+      " #yВідродження."
     ]
   }
 }

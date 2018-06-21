@@ -234,9 +234,9 @@
   },
   "Circlet": {
     "NAME": "Reif",
-    "FLAVOR": "Du hast alle bisherigen Relikte gefunden. Beeindruckend!",
+    "FLAVOR": "Du hast alle Relikte gefunden. Beeindruckend!",
     "DESCRIPTIONS": [
-      "Sehr hübsch."
+      "Sammle so viele wie möglich."
     ]
   },
   "Cracked Core": {
@@ -317,7 +317,7 @@
     "NAME": "Traumfänger",
     "FLAVOR": "Die nördlichen Stämme setzten in der Hoffnung auf Selbstbesserung nachts gern Traumfänger ein.",
     "DESCRIPTIONS": [
-      "Immer wenn du dich #yausruhst, kannst du eine Karte wählen und erhalten."
+      "Immer wenn du dich #yausruhst, kannst du eine Karte für dein Deck wählen."
     ]
   },
   "Du-Vu Doll": {
@@ -1212,6 +1212,29 @@
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
       "Tränke werden immer nach dem Kampf fallen gelassen."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b1 after each combat."
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
+    "DESCRIPTIONS": [
+      "Whenever you begin an Event, gain #b",
+      " #yGold."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loth's Mask",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "Whenever you play a Rare card, gain #b",
+      " #yBlock."
     ]
   }
 }

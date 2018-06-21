@@ -68,7 +68,7 @@
     ]
   },
   "Bias": {
-    "NAME": "Iskrivljena percepcija",
+    "NAME": "Krajnji protokoli",
     "DESCRIPTIONS": [
       "Na početku svog poteza, izgubi količinu #ypotentnosti: #b",
       "."
@@ -159,7 +159,7 @@
     ]
   },
   "Creative AI": {
-    "NAME": "Veštačka inteligencija",
+    "NAME": "Umrežavanje4",
     "DESCRIPTIONS": [
       "Na početku svog poteza, dodaj broj nasumičnih moći u ruku: #b",
       ".",
@@ -508,7 +508,7 @@
     ]
   },
   "Lockon": {
-    "NAME": "Nanišanjen",
+    "NAME": "Na nišanu",
     "DESCRIPTIONS": [
       "Sfere #ymunje i #ytame ciljaju ovog neprijatelja sledećih nekoliko poteza: #b",
       ".",
@@ -524,7 +524,7 @@
     ]
   },
   "Machine Learning": {
-    "NAME": "Mašinsko učenje",
+    "NAME": "Tajni mehanizmi",
     "DESCRIPTIONS": [
       "Vuci broj karata ( #b",
       " ) na početku svakog poteza.",
@@ -785,10 +785,10 @@
     ]
   },
   "Shifting": {
-    "NAME": "Izmeštajući",
+    "NAME": "Nepostojan",
     "DESCRIPTIONS": [
       "Svaki put kada ",
-      " primi štetu, gubi toliko #ysnage do kraja kruga."
+      " primi štetu, gubi isto toliko #ysnage do kraja kruga."
     ]
   },
   "Shriek From Beyond": {
@@ -846,7 +846,7 @@
   "Storm": {
     "NAME": "Oluja",
     "DESCRIPTIONS": [
-      "Svaki put kada odigraš #bmoć, #yprizovi broj munja: #b",
+      "Svaki put kada odigraš #bmoć, #yprizovi broj #ymunja: #b",
       "."
     ]
   },
@@ -885,6 +885,13 @@
       "Svaki put kada odigraš #b",
       " karata, tvoj potez se završava i Gutač vremena dobija #b",
       " na #ysnagu."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Vremenski lavirint",
+    "DESCRIPTIONS": [
+      "Svaki put kada odigraš #b",
+      " karata, završavaš svoj potez."
     ]
   },
   "Tools Of The Trade": {
@@ -939,13 +946,6 @@
     "DESCRIPTIONS": [
       "Na kraju svog poteza, izgubi #yokretnost ( #b",
       " )."
-    ]
-  },
-  "TimeMazePower": {
-    "NAME": "Time Maze",
-    "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
     ]
   }
 }

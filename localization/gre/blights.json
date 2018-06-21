@@ -1,43 +1,99 @@
 {
   "DeadlyEnemies": {
-    "NAME": "Deadly Enemies",
+    "NAME": "Μολυσμένα Όπλα",
     "DESCRIPTION": [
-      "Enemies deal #b",
-      "% more damage."
+      "Οι Εχθροί κάνουν #b",
+      "% περισσότερη ζημιά."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Tough Enemies",
+    "NAME": "Σκληροτράχηλοι Εχθροί",
     "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
+      "Οι Εχθροί έχουν #b",
+      "% περισσότερους ΒΥ."
     ]
   },
   "TimeMaze": {
-    "NAME": "Tough Enemies",
+    "NAME": "Χρονικός Λαβύρινθος",
     "DESCRIPTION": [
-      "Enemies have the Time Maze power."
+      "Μπορείς να παίξεις μέχρι #b",
+      " κάρτες κάθε γύρο.",
+      "Μπορώ να παίξω μόνο NL #r"
     ]
   },
   "Accursed": {
-    "NAME": "Accursed",
+    "NAME": "Τρισκατάρατος",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses."
+      "Όταν σκοτώσεις Αρχηγό, πάρε #b",
+      " τυχαίες #yΚατάρες.",
+      "Τρισκατάρατος!"
     ]
   },
   "TwistingMind": {
-    "NAME": "Twisting Mind",
+    "NAME": "Μπερδεμένο Μυαλό",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards."
+      "Στο τέλος του γύρου βάλε #b",
+      " τυχαίες κάρτες Κατάστασης πάνω στη Στοίβα Τραβήγματος.",
+      ""
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "Αφηρημένος",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random cards."
+      "Τράβηξε #b",
+      " λιγότερη κάρτα.",
+      "Αφηρημάδα!"
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Μόλυνση Μιμικών",
+    "DESCRIPTION": [
+      "Τα Δωμάτια Θησαυρού στις μελλοντικές πράξεις αντικαθίστανται από Ελίτ."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Φίμωτρο",
+    "DESCRIPTION": [
+      "Δεν μπορείς πλέον να αυξήσεις τους Μέγιστους ΒΥ. Πλέον γιατρεύσαι 50% λιγότερο."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Απαίσιο Βραβείο",
+    "DESCRIPTION": [
+      "Όταν το πάρεις, πάρε #b",
+      " #rΥπερηφάνια.",
+      "Η Υπερηφάνια σου παραξενεύει..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Καπνιασμένος Ντούριαν",
+    "DESCRIPTION": [
+      "Χάσε #b",
+      "% των μέγιστων ΒΥ."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Ουσία Κενού",
+    "DESCRIPTION": [
+      "Πάρε 1 λιγότερο [R] στην αρχή κάθε γύρου.",
+      "Πάρε 1 λιγότερο [G] στην αρχή κάθε γύρου.",
+      "Πάρε 1 λιγότερο [B] στην αρχή κάθε γύρου."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Αρπαγή της Σκιάς",
+    "DESCRIPTION": [
+      "Οι εχθροί ξεκινούν τη μάχη με #b",
+      " #yΆυλος."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Μεταλλική Αναγέννηση",
+    "DESCRIPTION": [
+      "Οι εχθροί ξεκινούν τη μάχη με #b",
+      " #yΜαγική #yΑσπίδα, #b",
+      " #yΕπιστρωμένη #yΠανοπλία και #b",
+      " #yΑναγέννηση."
     ]
   }
 }

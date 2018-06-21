@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Prosegui",
-      "Sventure:"
+      "Corruzioni:"
     ]
   },
   "AbstractMonster": {
@@ -116,7 +116,7 @@
       "Gli Elite sono più resistenti.",
       "I Boss sono più resistenti.",
       "Inizi la partita maledetto!",
-      "Le Pozioni sono meno efficaci.",
+      "Hai meno Spazi Pozione.",
       "Trovi meno carte Potenziate.",
       "I Boss sono poveri.",
       "PV Massimi Ridotti.",
@@ -154,7 +154,8 @@
       "Scegli una Reliquia",
       "Ignora",
       "VOTA ORA: ",
-      "secondi rimanenti."
+      "secondi rimanenti.",
+      "Scegli una Corruzione"
     ]
   },
   "CacheAction": {
@@ -612,7 +613,8 @@
       "Sinistra (Alt)*",
       "Destra (Alt)*",
       "Su",
-      "Giù"
+      "Giù",
+      "Controller Enabled"
     ]
   },
   "LanguageDropdown": {
@@ -776,11 +778,11 @@
       "Crediti",
       "",
       "Guarda la lista delle persone che hanno contribuito a creare Slay the Spire!",
-      "Unknown",
-      "",
+      "Sconosciuto",
+      "Vinci una Sfida del Giorno per sbloccare questa opzione.",
       "Questa opzione non è ancora disponibile.",
       "Infinito",
-      "Scala una Guglia che non finisce mai."
+      "Se vinci tornerai all'Esordio con lo stesso mazzo. \n\n Attenzione: la corruzione consuma tutto, NL alla fine..."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1147,6 +1149,11 @@
   "UnlockTextEffect": {
     "TEXT": [
       " Hai Sbloccato Qualcosa!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Ascension Unlocked!"
     ]
   }
 }

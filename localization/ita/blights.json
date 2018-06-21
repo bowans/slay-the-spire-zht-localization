@@ -1,13 +1,13 @@
 {
   "DeadlyEnemies": {
-    "NAME": "Nemici Mortali",
+    "NAME": "Lancia della Corruzione",
     "DESCRIPTION": [
       "I nemici infliggono #b",
       "% di danni in più."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Nemici Resistenti",
+    "NAME": "Scudo della Corruzione",
     "DESCRIPTION": [
       "I nemici hanno #b",
       "% PV in più."
@@ -16,28 +16,84 @@
   "TimeMaze": {
     "NAME": "Labirinto del Tempo",
     "DESCRIPTION": [
-      "I nemici hanno il potere Labirinto del Tempo."
-    ]
-  },
-  "Accursed": {
-    "NAME": "Accursed",
-    "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses."
+      "Non puoi giocare più di #b",
+      " carte per turno.",
+      "Non posso giocare più di NL #r"
     ]
   },
   "TwistingMind": {
-    "NAME": "Twisting Mind",
+    "NAME": "Mente Contorta",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards."
+      "A fine turno aggiungi #b",
+      " carte Stato casuali in cima alla tua Pila.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Maledetto",
+    "DESCRIPTION": [
+      "Quando sconfiggi un boss, vieni #yMaledetto casualmente #b",
+      " volte.",
+      ""
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "Sbadato",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random cards."
+      "A inizio turno peschi #b",
+      " carte in meno.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Impostori e Mimic",
+    "DESCRIPTION": [
+      "Le stanze del Tesoro vengono sostituite da combattimenti con Elite. Non ottieni più reliquie sconfiggendo Elite."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Museruola",
+    "DESCRIPTION": [
+      "Non puoi aumentare i tuoi PV massimi. Tutte le cure sono dimezzate."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Trofeo Grottesco",
+    "DESCRIPTION": [
+      "Quando lo raccogli, ricevi #b",
+      " #rOrgogli.",
+      "Un orgoglio perverso..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Post-Durian",
+    "DESCRIPTION": [
+      "Perdi #b",
+      "% dei tuoi PV massimi."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Essenza del vuoto",
+    "DESCRIPTION": [
+      "Ottieni 1 [R] in meno a inizio turno.",
+      "Ottieni 1 [G] in meno a inizio turno.",
+      "Ottieni 1 [B] in meno a inizio turno."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Tormentato",
+    "DESCRIPTION": [
+      "A inizio combattimento i nemici guadagnano #b",
+      " #yIntangibile."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Antiche Protesi",
+    "DESCRIPTION": [
+      "A inizio combattimento i nemici ottengono #b",
+      " #yArtefatto, #b",
+      " #yArmatura a #yPiastre, e #b",
+      " #yRigenerazione."
     ]
   }
 }

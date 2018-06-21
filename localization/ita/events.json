@@ -6,7 +6,7 @@
       "Decidi di mettere al lavoro la forgia e... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...potenzi il tuo arsenale!",
       "Decidi di vedere se riesci a trovare qualcosa di utile. Una volta sollevate le vecchie tele cerate e rovistato ovunque trovi una #y~reliquia!~ impolverata!",
       "Mentre ti accingi a dare gli ultimi ritocchi, le fiamme della forgia ti aggrediscono, #r@bruciando@ #r@e@ #r@lasciando@ #r@cicatrici@ sulle tue braccia...",
-      "Mentre lasci il capanno non riesci a scrollarti di dosso una #r-brutta~ #r-sensazione.~ Forse hai disturbato uno spirito di qualche tipo?",
+      "Mentre lasci il capanno non riesci a scrollarti di dosso una #r~brutta~ #r~sensazione.~ Forse hai disturbato uno spirito di qualche tipo?",
       "Non sembra esserci nulla di utile. Esci dalla via per cui sei venuto, le fiamme della fornace creano #p~ombre~ #p~inquietanti~ sulle pareti del capanno..."
     ],
     "OPTIONS": [
@@ -187,7 +187,8 @@
       "Mentre cadi, consideri le tue opzioni: NL Atterrare sano e salvo affidandoti alle migliori tecniche che conosci. NL Incanalare un Potere per sopravvivere. NL Aggrapparti al muro colpendolo.",
       "Atterri con estrema grazia prima di proseguire.",
       "Raccogliendo la tua energia interiore, riesci ad atterrare senza un graffio.",
-      "Riesci ad aggrapparti al muro e con un balzo raggiungi un'altra piattaforma stabile."
+      "Riesci ad aggrapparti al muro e con un balzo raggiungi un'altra piattaforma stabile.",
+      "Cadi lentamente, come se fossi una piuma, e raggiungi il terreno senza un graffio."
     ],
     "OPTIONS": [
       "[Continua]",
@@ -197,7 +198,8 @@
       "[Bloccata] Richiede: Carta Potere",
       "[Colpisci] #rPerdi ",
       "[Bloccata] Richiede: Carta Attacco",
-      "[Esci]"
+      "[Esci]",
+      "[Land] "
     ]
   },
   "Forgotten Altar": {
@@ -222,7 +224,7 @@
     "NAME": "La Fontana Divina",
     "DESCRIPTIONS": [
       "Davanti a te #b~risplende~ #b~l'acqua~ che fluisce incessantemente da una fontana a muro.",
-      "Mentre l'#b~acqua~ ti scorre attraverso, è come se ti liberasse da una #pstretta #pinvisibile.",
+      "Mentre #b~l'acqua~ ti scorre attraverso, è come se ti liberasse da una #pstretta #pinvisibile.",
       "Diffidando della natura dell'acqua, continui par la tua strada assetato."
     ],
     "OPTIONS": [
@@ -494,7 +496,7 @@
       "Tocchi l'oggetto. NL NL Un #r@acuto@ #r@dolore@ ti percorre ed antiche memorie baluginano nella tua mente. NL ...ma memorie di chi?",
       "#r~PAURA.~ NL NL Un essere demoniaco ti sovrasta, torreggiante, spalanca le ali e leva una lunga risata ululante. I corpi dei caduti della tribù ti circondano, il villaggio è avvolto da terrificanti #p~fiamme~ #p~oscure.~ NL NL Il demone grida, beffardo. NL NL \" #r@SEI@ #r@DAVVERO@ #r@TU@ #r@IL@ #r@PIÙ@ #r@FORTE@ #r@ORA!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL La risata riecheggia, in eterno... ",
       "#g~TRIONFO.~ NL NL Nella luce lunare i resti quasi invisibili di una #p~creatura~ #p~spettrale~ sprofondano lentamente nel fango. Hai provato il tuo valore alle tue sorelle. NL NL Vittoriosa, attendi in silenzio, mentre le altre completano la cerimonia e ti coronano col #yteschio #ydella #ycreatura. Il rituale è concluso. NL NL Ti dirigi verso la Guglia...",
-      "#b~CONFUSIONE.~[OBIETTIVO] #gNECESSARIO #gEQUILIBRIO NL #y[DEFINISCI] #gEQUILIBRIO NL #y[ERRORRE] #gEQUILIBRIO #gASSENTE NL #y[DEFINISCI] #gEQUILIBRIO NL #y[ERRORE] #gEQUILIBRIO #gASSENTE NL #y[ATTENZIONE] #rOggetto #rdi #rgrande #rdimensione #rin #ravvicinamento. NL NL ~\"Io...~ ~..sono~ ~....Neow..\"~"
+      "#b~CONFUSIONE.~ [OBIETTIVO] #gNECESSARIO #gEQUILIBRIO NL #y[DEFINISCI] #gEQUILIBRIO NL #y[ERRORRE] #gEQUILIBRIO #gASSENTE NL #y[DEFINISCI] #gEQUILIBRIO NL #y[ERRORE] #gEQUILIBRIO #gASSENTE NL #y[ATTENZIONE] #rOggetto #rdi #rgrande #rdimensione #rin #ravvicinamento. NL NL ~\"Io...~ ~...sono~ ~...Neow..\"~"
     ],
     "OPTIONS": [
       "[Ricorda] #gAggiungi #g1 #gCarta #gIncolore #gal #gmazzo",
@@ -529,7 +531,7 @@
       " danni inflitti al cuore.",
       " NL Un totale di #b",
       " danni sono stati inflitti da tutti coloro che lo hanno sfidato.",
-      " NL Il palpito del cuore si fa sempre più forte, mentre la tua #y~mente~ #y~si #y~annebbia...~",
+      " NL Il palpito del cuore si fa sempre più forte, mentre la tua #y~mente~ #y~si~ #y~annebbia...~",
       "NL Prepari la tua lama...",
       "NL Prepari i tuoi pugnali...",
       "NL Carichi al massimo la tua energia..."
@@ -784,35 +786,48 @@
   "MindBloom": {
     "NAME": "Fioritura Mentale",
     "DESCRIPTIONS": [
-      "Mentre cammini nel caos nella Guglia, i tuoi pensieri sembrano quasi... #p~veri....~ NL NL Immagini mentali di #rmostri e #yricchezze si manifestano, diventando realtà. NL Hai la sensazione che tornerai alla normalità in fretta. Che cosa fai?",
+      "Mentre cammini nel caos nella Guglia, i tuoi pensieri sembrano quasi... #p~Reali....~ NL NL Semplici immagini mentali si manifestano, trasformandosi in #rmostri e #yricchezza e diventando realtà. NL Hai la sensazione che tutto tornerà alla normalità in fretta. Che cosa fai?",
       "È davvero così facile?",
       "Tutto ha senso, ora. NL La perdita di memoria, l'ascesa,  #yl'Antico. NL NL È così che è sempre stato. NL È così che sarà sempre. NL Presto, non rimarrà più alcuna memoria..."
     ],
     "OPTIONS": [
-      "[Io sono Guerra] #rAffronti #run  #rBoss #rdel #rprimo #rAtto. #gRicevi #guna #gReliquia #gRara.",
-      "[Io sono Ricco] #gOttieni #g999 #gOro. #rVieni #rmaledetto #r- #r2 #rNormalità.",
-      "[Io sono Forte] #gTi #gcuri #gcompletamente. #rVieni #rmaledetto #r- #rDubbio.",
-      "[Io sono Sveglio] #gPotenzi #gtutte #gle #gtue #gCarte. #rNon #rpuoi #rpiù #rcurarti.",
+      "[Guerra!] #rAffronti #run  #rBoss #rdel #rprimo #rAtto. #gRicevi #guna #gReliquia #gRara.",
+      "[Ricchezza!] #gOttieni #g999 #gOro. #rVieni #rmaledetto #r- #r2 #rNormalità.",
+      "[Potere!] #gTi #gcuri #gcompletamente. #rVieni #rmaledetto #r- #rDubbio.",
+      "[Risvegliati!] #gPotenzi #gtutte #gle #gtue #gCarte. #rNon #rpuoi #rpiù #rcurarti.",
       "[Prosegui]"
     ]
   },
   "Nest": {
     "NAME": "Il Nido",
     "DESCRIPTIONS": [
-      "Vedi una lunga fila di #b~figure~ #b~incappucciate~ che entra in una #pcattedrale dall'aspetto normale.",
-      "Ti unisci naturalmente alla coda e vieni subito circondato dai #rCultisti! NL Questi ultimi ti ignorano, mentre innalzano @inni@ estatici e ~scuotono~ le loro armi. NL NL #r@\"OMOCIDIO!!# #r@OMOCIDIO@ #r@OMOCIDIO\"@ NL #b~\"CRA~ #b~CRA~ #b~CRAAAAA!\"~ NL #r@\"OMOCIDIO!!# #r@OMOCIDIO@ #r@OMOCIDIO\"@ NL  #b~\"CRA~ #b~CRA~ #b~CRAAAAA!\"~ NL NL Noti una #yCesta per #yDonazioni...",
-      "Rimani in fila (non farlo sarebbe pericoloso) e guardi che succede. NL NL Alla fine ti trovi davanti al capo. Un cultista vestito riccamente ti porge un #yOrnato #yPugnale. Come gli altri hanno fatto prima di te, fai un taglio sul tuo avambraccio e lasci che il tuo sangue goccioli in una ciotola deforme. NL NL I cultisti @cantano@ e @gridano@ per te! NL NL #b~\"CRAA~ #b~CRA~ #b~CRAAAAAA!!\"~ NL NL Canti anche tu. Perché non dovresti?",
+      "Vedi una lunga fila di #b~figure~ #b~incappucciate~ che entra in una #pcattedrale di comune aspetto.",
+      "Ti unisci naturalmente alla coda e vieni subito circondato dai #rCultisti! NL Questi ti ignorano, mentre innalzano @inni@ estatici e ~scuotono~ le armi. NL NL #r@\"OMOCIDIO!!@ #r@OMOCIDIO@ #r@OMOCIDIO\"@ NL #b~\"CRA~ #b~CRA~ #b~CRAAAAA!\"~ NL #r@\"OMOCIDIO!!@ #r@OMOCIDIO@ #r@OMOCIDIO\"@ NL  #b~\"CRA~ #b~CRA~ #b~CRAAAAA!\"~ NL NL Noti una #yCesta per #yDonazioni...",
+      "Rimani in fila (fare altrimenti sembra pericoloso) e guardi che succede. NL NL Alla fine, ti trovi davanti al capo: un cultista vestito riccamente ti porge un #yOrnato #yPugnale. Come gli altri prima di te, ti pratichi un taglio sull'avambraccio e lasci che il tuo sangue goccioli in una ciotola deforme. NL NL I cultisti @cantano@ e @gridano@ in tuo onore! NL NL #b~\"CRAA~ #b~CRA~ #b~CRAAAAAA!!\"~ NL NL Canti anche tu. Perché non dovresti?",
       "Non ti hanno nemmeno notato.",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Unisciti al Culto] #gOttieni #gla Lama Rituale. #rDepotenzi ",
-      ".",
-      "[Distruggi e Arraffa] #gOttieni #g150 #gOro.",
-      "[Bloccato] Richiede: Carta Potenziata.",
+      "[Unisciti al Culto] #gOttieni #gla Lama Rituale. #rPerdi #r",
+      " #rPV.",
+      "[Distruggi e Arraffa] #gOttieni #g",
+      " #gOro.",
       "[Ignora]",
       "[Prosegui]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]"
     ]
   }
 }

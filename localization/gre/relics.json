@@ -216,9 +216,9 @@
   },
   "Circlet": {
     "NAME": "Στεφάνι",
-    "FLAVOR": "Τελιώσανε τα Κειμήλια για να βρεις. Εντυπωσιακό!",
+    "FLAVOR": "Βρήκες όλα τα Κειμήλια. Εντυπωσιακό!",
     "DESCRIPTIONS": [
-      "Είναι όμορφο."
+      "Μάζεψε όσα περισσότερα μπορείς."
     ]
   },
   "Cracked Core": {
@@ -1180,38 +1180,61 @@
     ]
   },
   "Empty Cage": {
-    "NAME": "Empty Cage",
-    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "NAME": "Άδειο Κλουβί",
+    "FLAVOR": "\"Πόσο ασυνήθιστο να φυλακίζεις αυτό που λατρεύεις.\" - Ράνγουιντ",
     "DESCRIPTIONS": [
-      "Upon pick up, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
+      "Όταν το πάρεις, αφαίρεσε #b2 κάρτες από την τράπουλα.",
+      "Διάλεξε 2 κάρτες για Αφαίρεση."
     ]
   },
   "Incense Burner": {
-    "NAME": "Incense Burner",
-    "FLAVOR": "An incense burner from long ago. Burning precious wood seems unimaginable.",
+    "NAME": "Θυμιατό",
+    "FLAVOR": "Ένα πολύ παλιό θυμιατό. Αφάνταστο να καις πολύτιμο ξύλο.",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
+      "Κάθε #b5 γύρους, πάρε #b1 #yΆυλος."
     ]
   },
   "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
+    "NAME": "Σφυρί Σύντηξης",
+    "FLAVOR": "Μόλις το σηκώσει κάποιος, δε μπορεί ποτέ να το αφήσει.",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Smith at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "στην αρχή κάθε γύρου. Δεν μπορείς πλέον να κάνεις Αναβάθμιση στις Εστίες Ξεκούρασης.",
+      "Πάρε [R] ",
+      "Πάρε [G] ",
+      "Πάρε [B] "
     ]
   },
   "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
-    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "NAME": "Αποστακτήρας Καφέ",
+    "FLAVOR": "\"Ναι, άλλη μια κούπα παρακαλώ. Πίσω στη δουλειά. Πίσω στη δουλειά!\" - Ο Αρχιτέκτονας",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Rest at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "στην αρχή κάθε γύρου. Δεν μπορείς πλέον να γιατρευτείς στις Εστίες Ξεκούρασης.",
+      "Πάρε [R] ",
+      "Πάρε [G] ",
+      "Πάρε [B] "
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
+    "DESCRIPTIONS": [
+      "Whenever you begin an Event, gain #b",
+      " #yGold."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loth's Mask",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "Whenever you play a Rare card, gain #b",
+      " #yBlock."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b1 after each combat."
     ]
   }
 }

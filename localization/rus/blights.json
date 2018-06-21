@@ -1,43 +1,99 @@
 {
-  "DeadlyEnemies": {
-    "NAME": "Deadly Enemies",
-    "DESCRIPTION": [
-      "Enemies deal #b",
-      "% more damage."
-    ]
-  },
-  "ToughEnemies": {
-    "NAME": "Tough Enemies",
-    "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
-    ]
-  },
-  "TimeMaze": {
-    "NAME": "Tough Enemies",
-    "DESCRIPTION": [
-      "Enemies have the Time Maze power."
-    ]
-  },
   "Accursed": {
-    "NAME": "Accursed",
+    "NAME": "Проклятый",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses."
+      "При получении, даёт #b",
+      " случайных #yПроклятий.",
+      "Accursed!"
     ]
   },
-  "TwistingMind": {
-    "NAME": "Twisting Mind",
+  "DeadlyEnemies": {
+    "NAME": "Могущество Мора",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards."
+      "Противники наносят на #b",
+      "% больше урона."
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "Растяпа",
+    "DESCRIPTION": [
+      "При получении, даёт #b",
+      " случайные карты.",
+      "Scatterbrained!"
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Лабиринт времени",
+    "DESCRIPTION": [
+      "Враги получают способность «Лабиринт времени».",
+      " cards per turn.",
+      "I can only play up to NL #r"
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Защита Мора",
+    "DESCRIPTION": [
+      "Противники получают на #b",
+      "% больше ОЗ."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Искажение сознания",
+    "DESCRIPTION": [
+      "При получении, #yИзменяет #b",
+      " карт.",
+      "Transformation!"
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Mimic Infestation",
+    "DESCRIPTION": [
+      "Treasure rooms in future acts are replaced by Elites."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Full Belly",
+    "DESCRIPTION": [
+      "You can no longer increase your Max HP. All healing is halved."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Grotesque Trophy",
     "DESCRIPTION": [
       "Upon pickup, obtain #b",
-      " random cards."
+      " #rPrides.",
+      "Your Pride is twisted..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Blighted Durian",
+    "DESCRIPTION": [
+      "Lose #b",
+      "% of your Max HP."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Void Essence",
+    "DESCRIPTION": [
+      "Gain 1 less [R] at the start of each turn.",
+      "Gain 1 less [G] at the start of each turn.",
+      "Gain 1 less [B] at the start of each turn."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Grasp Of Shadows",
+    "DESCRIPTION": [
+      "Enemies start combat with #b",
+      " #yIntangible."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Metallic Rebirth",
+    "DESCRIPTION": [
+      "Enemies start combat with #b",
+      " #yArtifact, #b",
+      " #yPlated #yArmor, and #b",
+      " #yRegenerate."
     ]
   }
 }

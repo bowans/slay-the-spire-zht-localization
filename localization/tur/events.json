@@ -176,7 +176,8 @@
       "Serbest düşüşteyken seçeneklerine bakıyorsun: NL En iyi tekniklerinden birini kullanarak güvenli bir şekilde iniş yap. NL Düşüşten sağ çıkmak için bir Güç hazırla. NL Duvara tutunmak için sertçe vur.",
       "Mükemmel bir zarafetle iniş yapıyorsun.",
       "Saf güçlerini kullanarak, zarar görmeden inişini tamamladın.",
-      "Duvara tutunuyorsun ve platformdan platforma birinden öbürüne atlayarak devam ediyorsun."
+      "Duvara tutunuyorsun ve platformdan platforma birinden öbürüne atlayarak devam ediyorsun.",
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Devam Et]",
@@ -186,7 +187,8 @@
       "[Kilitli] Gereken: Güç Kartı",
       "[Vur] #rKaybet ",
       "[Kilitli] Gereken: Saldırı Kartı",
-      "[Ayrıl]"
+      "[Ayrıl]",
+      "[Land] "
     ]
   },
   "The Moai Head": {
@@ -813,6 +815,19 @@
       "[Locked] Requires: Upgraded Card.",
       "[Leave]",
       "[Continue]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]"
     ]
   }
 }

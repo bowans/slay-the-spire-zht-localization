@@ -162,7 +162,7 @@
     "NAME": "Campanella",
     "FLAVOR": "La campana in metallo brunito ha rintoccato tre volte quando l'hai raccolta. Ora resta in silenzio.",
     "DESCRIPTIONS": [
-      "Ottieni #b3 #yReliquie e vieni #rMaledetto #b3 #bvolte.",
+      "Vieni #rMaledetto #b3 #bvolte e ottieni #b3 #yReliquie.",
       "La Campana Rintocca...",
       "Ignora la Ricompensa",
       "Chiudi"
@@ -218,7 +218,7 @@
     "NAME": "Cerchietto",
     "FLAVOR": "Non ci sono più reliquie che tu possa trovare. Impressionante!",
     "DESCRIPTIONS": [
-      "E' molto carino."
+      "Collezionane più che puoi."
     ]
   },
   "Cracked Core": {
@@ -763,7 +763,7 @@
     "NAME": "Cerchietto Rosso",
     "FLAVOR": "Non hai più reliquie. Impressionante!",
     "DESCRIPTIONS": [
-      "E' molto carino."
+      "Davvero carino!"
     ]
   },
   "Red Mask": {
@@ -1174,44 +1174,67 @@
     "FLAVOR": "La corona del Campione... o è solo una replica?",
     "DESCRIPTIONS": [
       "Quando ottieni nuove carte, hai #b2 carte in meno fra quelle che puoi scegliere.",
-      "Ottieni [R] ad inizio turno.",
-      "Ottieni [G] ad inizio turno.",
-      "Ottieni [B] ad inizio turno."
-    ]
-  },
-  "Empty Cage": {
-    "NAME": "Empty Cage",
-    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Upon pick up, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
+      "Ottieni [R] ad inizio turno. NL",
+      "Ottieni [G] ad inizio turno. NL",
+      "Ottieni [B] ad inizio turno. NL"
     ]
   },
   "Incense Burner": {
-    "NAME": "Incense Burner",
-    "FLAVOR": "An incense burner from long ago. Burning precious wood seems unimaginable.",
+    "NAME": "Incensiere",
+    "FLAVOR": "Il fumo permea il proprietario con lo spirito di ciò che è stato bruciato.",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
+      "Ogni #b5 turni, ottieni #b1 #yIntangibile."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Gabbia Vuota",
+    "FLAVOR": "\"Che strano mettere in gabbia ciò che si vuole venerare.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Quando la raccogli rimuovi #b2 carte dal tuo mazzo.",
+      "Scegli 2 Carte da Rimuovere."
     ]
   },
   "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
+    "NAME": "Martello a Fusione",
+    "FLAVOR": "Una volta brandito, non lo si può più lasciare andare.",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Smith at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "ad inizio turno. Non puoi più Potenziare carte ai falò.",
+      "Ottieni [R] ",
+      "Ottieni [G] ",
+      "Ottieni [B] "
     ]
   },
   "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
-    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "NAME": "Filtro da Caffè",
+    "FLAVOR": "\"Sì, me ne porti un'altra tazza, grazie. Torniamo a lavorare. Torniamo a lavorare!\" - L'Architetto",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Rest at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "ad inizio turno. Non puoi più Riposare ai falò.",
+      "Ottieni [R] ",
+      "Ottieni [G] ",
+      "Ottieni [B] "
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
+    "DESCRIPTIONS": [
+      "Whenever you begin an Event, gain #b",
+      " #yGold."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loth's Mask",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "Whenever you play a Rare card, gain #b",
+      " #yBlock."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b1 after each combat."
     ]
   }
 }

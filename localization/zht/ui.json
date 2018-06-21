@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "前進",
-      "災難："
+      "荒疫："
     ]
   },
   "AbstractMonster": {
@@ -154,7 +154,8 @@
       "選擇一樣遺物",
       "跳過",
       "現在投票： ",
-      "秒後結束。"
+      "秒後結束。",
+      "Choose a Blight"
     ]
   },
   "CacheAction": {
@@ -612,7 +613,8 @@
       "左（備用）*",
       "右（備用）*",
       "上",
-      "下"
+      "下",
+      "Controller Enabled"
     ]
   },
   "LanguageDropdown": {
@@ -777,10 +779,10 @@
       "",
       "來看一看所有為遊戲作出貢獻的人們！",
       "未知",
-      "",
+      "在一次每日挑戰中獲得勝利來解鎖這一遊戲模式。",
       "這個功能還沒做好。",
       "無盡模式",
-      "攀爬一座永無盡頭的高塔。"
+      "在獲勝後你將保留牌組回到塔底。\n\n可是不要驕傲大意，因為高塔荒疫終將吞噬一切……"
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1147,6 +1149,11 @@
   "UnlockTextEffect": {
     "TEXT": [
       "新解鎖！"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Ascension Unlocked!"
     ]
   }
 }

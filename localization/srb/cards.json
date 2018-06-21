@@ -60,8 +60,8 @@
     "DESCRIPTION": "Neodigriva. NL Prolazna. NL Ne može biti uklonjena iz špila."
   },
   "Auto Shields": {
-    "NAME": "Automatski štitovi",
-    "DESCRIPTION": "Ako nemaš odbranu, zadobi !B! odbrane."
+    "NAME": "Zaklon",
+    "DESCRIPTION": "Ako nemaš odbrane, zadobi !B!."
   },
   "Axe Kick": {
     "NAME": "Nasilna aktivacija",
@@ -112,7 +112,7 @@
     "DESCRIPTION": "Ako su ti ž. p. na ili ispod 50%, zadobi [R] na početku poteza."
   },
   "Biased Cognition": {
-    "NAME": "Iskrivljena percepcija",
+    "NAME": "Krajnji protokoli",
     "DESCRIPTION": "Zadobi !M! potentnosti. NL Na početku svakog poteza, izgubi jednu potentnost."
   },
   "Bite": {
@@ -137,7 +137,7 @@
     "DESCRIPTION": "Zadaj SVIM neprijateljima štetu jednaku broju prizvanih mrazova u borbi puta !M!.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      " NL ( Zadaje štete: !D! )",
+      " NL ( zadaje štete: !D! )",
       ""
     ]
   },
@@ -161,7 +161,7 @@
   "Body Slam": {
     "NAME": "Nalet",
     "DESCRIPTION": "Zadaj štetu jednaku tvojoj trenutnoj odbrani.",
-    "UPGRADE_DESCRIPTION": " NL ( Zadaje štete: !D! )"
+    "UPGRADE_DESCRIPTION": " NL ( zadaje štete: !D! )"
   },
   "BootSequence": {
     "NAME": "Podizanje",
@@ -237,7 +237,7 @@
   },
   "Chill": {
     "NAME": "Smrzni",
-    "DESCRIPTION": "Urođena. NL Prizovi !M! mraz za svakog neprijatelja. NL Iscrpi.",
+    "DESCRIPTION": "Prizovi !M! mraz za svakog neprijatelja. NL Iscrpi.",
     "UPGRADE_DESCRIPTION": "Urođena. NL Prizovi !M! mraz za svakog neprijatelja u borbi. NL Iscrpi."
   },
   "Choke": {
@@ -277,7 +277,7 @@
     "DESCRIPTION": "Na kraju poteza, izgubi jedan ž. p. i zadaj !M! štete SVIM neprijateljima."
   },
   "Compile Driver": {
-    "NAME": "Kršenje protokola",
+    "NAME": "Razbi kontroler",
     "DESCRIPTION": "Nanesi !D! štete. NL Vuci !M! kartu za svaku jedinstvenu sferu koju imaš."
   },
   "Concentrate": {
@@ -286,7 +286,7 @@
   },
   "Conserve Battery": {
     "NAME": "Napuni bateriju",
-    "DESCRIPTION": "Zadobi !B! odbrane. NL Sledeći krug zadobi [B]."
+    "DESCRIPTION": "Zadobi !B! odbrane. NL Sledeći krug NL zadobi [B]."
   },
   "Consume": {
     "NAME": "Preradi",
@@ -299,7 +299,7 @@
   },
   "Core Surge": {
     "NAME": "Pojačano jezgro",
-    "DESCRIPTION": "Nanesi !D! štete. NL Zadobi !M! zaštite. NL Iscrpi."
+    "DESCRIPTION": "Nanesi !D! štete. NL Zadobi !M! zaštitu. NL Iscrpi."
   },
   "Corpse Explosion": {
     "NAME": "Nadimanje",
@@ -314,11 +314,11 @@
     "DESCRIPTION": "Umeća su besplatna. NL Svaki put kada odigraš umeće, iscrpi ga."
   },
   "Creative AI": {
-    "NAME": "Veštačka inteligencija",
+    "NAME": "Umrežavanje",
     "DESCRIPTION": "Na početku svakog poteza, dodaj nasumičnu moć u ruku."
   },
   "Crippling Poison": {
-    "NAME": "Sakateća isparenja",
+    "NAME": "Sakateća para",
     "DESCRIPTION": "Nanesi !M! otrova i dve slabosti SVIM neprijateljima. NL Iscrpi."
   },
   "Dagger Spray": {
@@ -351,7 +351,7 @@
     "DESCRIPTION": "Neodigriva. NL Prolazna."
   },
   "Deadly Poison": {
-    "NAME": "Smrtonosni otrov",
+    "NAME": "Ubojiti otrov",
     "DESCRIPTION": "Nanesi !M! otrova."
   },
   "Decay": {
@@ -413,7 +413,7 @@
     "UPGRADE_DESCRIPTION": "Sledeći potez, vuci X+1 karata i zadobi X+1 [G]. NL Iscrpi."
   },
   "Double Energy": {
-    "NAME": "Dvostruka energija",
+    "NAME": "Dupla energija",
     "DESCRIPTION": "Dupliraj svoju energiju. NL Iscrpi.",
     "UPGRADE_DESCRIPTION": "Dupliraj svoju energiju."
   },
@@ -435,12 +435,12 @@
     "DESCRIPTION": "Zadaj !D! štete. NL Ako je neprijatelj ranjiv, zadobi [R] i NL vuci jednu kartu."
   },
   "Dual Wield": {
-    "NAME": "Dvostruko rukovanje",
+    "NAME": "Dvojako rukovanje",
     "DESCRIPTION": "Načini kopiju napada ili moći iz ruke.",
     "UPGRADE_DESCRIPTION": "Načini dve kopije napada ili moći iz ruke."
   },
   "Dualcast": {
-    "NAME": "Dvostruka aktivacija",
+    "NAME": "Dvoaktivacija",
     "DESCRIPTION": "Aktiviraj svoju najdešnju sferu dva puta."
   },
   "Echo Form": {
@@ -498,7 +498,7 @@
     "DESCRIPTION": "Vuci karte sve NL dok ih u ruci ne budeš imao !M!."
   },
   "FTL": {
-    "NAME": "Nadsvetlosnom brzinom",
+    "NAME": "Posegni",
     "DESCRIPTION": "Zadaj !D! štete. Ako si odigrao manje od !M! karata ovaj potez, vuci jednu kartu.",
     "EXTENDED_DESCRIPTION": [
       " NL (karata odigrano: ",
@@ -537,7 +537,7 @@
   },
   "Fission": {
     "NAME": "Fisija",
-    "DESCRIPTION": "Aktiviraj sve svoje sfere. Stvori jedno sferno polje za svaku aktiviranu sferu. NL Iscrpi."
+    "DESCRIPTION": "Aktiviraj sve svoje sfere. Stvori jedno sferno polje za svaku aktiviranu sferu. Iscrpi."
   },
   "Flame Barrier": {
     "NAME": "Plamena barijera",
@@ -582,11 +582,11 @@
   },
   "Gash": {
     "NAME": "Usek",
-    "DESCRIPTION": "Zadaj štete: !D!. NL Svaki Usek nanosi !M! dodatne štetu u ovoj borbi."
+    "DESCRIPTION": "Zadaj štete: !D!. NL Svaki Usek nanosi !M! dodatne štete u ovoj borbi."
   },
   "Genetic Algorithm": {
-    "NAME": "Genetski algoritam",
-    "DESCRIPTION": "Zadobi odbranu: !B!. Pri odigravanju povećaj odbranu ove karte za !M! do kraja pohoda. Iscrpi."
+    "NAME": "Algoritam",
+    "DESCRIPTION": "Zadobi odbrane: !B!. Pri odigravanju povećaj odbranu ove karte za !M! do kraja pohoda. Iscrpi."
   },
   "Ghostly": {
     "NAME": "Duh",
@@ -732,8 +732,8 @@
     "UPGRADE_DESCRIPTION": "Udvostruči svoju snagu."
   },
   "Lockon": {
-    "NAME": "Nišan",
-    "DESCRIPTION": "Zadaj !D! štete. NL Sledeća !M! kruga, sfere munje i tame ciljaju napadnutog neprijatelja."
+    "NAME": "Nanišani",
+    "DESCRIPTION": "Zadaj !D! štete. NL Sledeća !M! kruga, sfere munje i tame napadaju ciljanog neprijatelja."
   },
   "Loop": {
     "NAME": "Petlja",
@@ -741,7 +741,7 @@
     "UPGRADE_DESCRIPTION": "Na početku svog poteza, iskoristi pasivnu sposobnost svoje najdešnje sfere !M! puta."
   },
   "Machine Learning": {
-    "NAME": "Mašinsko učenje",
+    "NAME": "Tajni mehanizmi",
     "DESCRIPTION": "Vuci !M! dodatnu kartu na početku svakog poteza.",
     "UPGRADE_DESCRIPTION": "Urođena. NL Vuci !M! dodatnu kartu na početku svakog poteza."
   },
@@ -784,11 +784,11 @@
     "DESCRIPTION": "Zadaj štetu jednaku broju karatu u gomili za vučenje.",
     "UPGRADE_DESCRIPTION": "Urođena. NL Zadaj štetu jednaku broju karatu u gomili za vučenje.",
     "EXTENDED_DESCRIPTION": [
-      " NL ( Zadaje štete: !D! )"
+      " NL ( zadaje štete: !D! )"
     ]
   },
   "Multi-Cast": {
-    "NAME": "Višestruka aktivacija",
+    "NAME": "Multiaktivacija",
     "DESCRIPTION": "Aktiviraj svoju najdešnju sferu X puta.",
     "UPGRADE_DESCRIPTION": "Aktiviraj svoju najdešnju sferu X+1 puta."
   },
@@ -825,11 +825,11 @@
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL Iscrpi.",
-      " NL ( Zadaje štete: !D! )"
+      " NL ( zadaje štete: !D! )"
     ]
   },
   "Noxious Fumes": {
-    "NAME": "Smrtonosna isparenja",
+    "NAME": "Isparenja",
     "DESCRIPTION": "Na početku poteza, nanesi !M! otrova SVIM neprijateljima."
   },
   "Offering": {
@@ -852,7 +852,7 @@
   },
   "Panacea": {
     "NAME": "Panacea",
-    "DESCRIPTION": "Zadobi NL zaštitu: !M!. NL Iscrpi."
+    "DESCRIPTION": "Zadobi NL zaštite: !M!. NL Iscrpi."
   },
   "Panache": {
     "NAME": "Elan",
@@ -923,7 +923,7 @@
   },
   "Rainbow": {
     "NAME": "Duga",
-    "DESCRIPTION": "Prizovi munju, mraz i tamu. NL Iscrpi.",
+    "DESCRIPTION": "Prizovi munju, NL mraz i tamu. NL Iscrpi.",
     "UPGRADE_DESCRIPTION": "Prizovi munju, mraz i tamu."
   },
   "Rampage": {
@@ -988,7 +988,7 @@
   },
   "RitualDagger": {
     "NAME": "Obredni bodež",
-    "DESCRIPTION": "Zadaj !D! štete. Ako time ubiješ neprijatelja, povećaj ubojitost ove karte za !M! do kraja pohoda. Iscrpi."
+    "DESCRIPTION": "Zadaj !D! štete. Ako time ubiješ neprij., povećaj uboj. ove karte za !M! do kraja pohoda. Iscrpi."
   },
   "Rupture": {
     "NAME": "Kidisanje",
@@ -1045,7 +1045,7 @@
     "UPGRADE_DESCRIPTION": "Zadobi !B! odbrane. NL Ako je ova karta iscrpljena, NL zadobi [R] [R] [R]."
   },
   "Setup": {
-    "NAME": "Namesti",
+    "NAME": "Nameštaljka",
     "DESCRIPTION": "Stavi kartu iz ruke NL na vrh gomile za vučenje. NL Besplatna je sve dok se ne odigra."
   },
   "Sever Soul": {
@@ -1089,11 +1089,11 @@
     "DESCRIPTION": "Zadobi odbranu jednaku broju karata u gomili za odbacivanje.",
     "UPGRADE_DESCRIPTION": "Zadobi odbranu jednaku broju karata u gomili za odbacivanje plus tri.",
     "EXTENDED_DESCRIPTION": [
-      " NL ( Daje odbrane: !B! )"
+      " NL ( dobijaš odbrane: !B! )"
     ]
   },
   "Static Discharge": {
-    "NAME": "Statično pražnjenje",
+    "NAME": "Pražnjenje",
     "DESCRIPTION": "Svaki put kada primiš štetu od napada, prizovi !M! munju.",
     "UPGRADE_DESCRIPTION": "Svaki put kada primiš štetu od napada, prizovi !M! munje."
   },
@@ -1185,7 +1185,7 @@
     "NAME": "Gromovi",
     "DESCRIPTION": "Zadaj !D! štete nasumičnom neprijatelju za svaku prizvanu munju u borbi.",
     "EXTENDED_DESCRIPTION": [
-      " ( Prizvanih munja: !M! )"
+      " ( prizvanih munja: !M! )"
     ]
   },
   "Thunderclap": {
@@ -1221,7 +1221,7 @@
     "DESCRIPTION": "Zadaj !D! štete dvaput."
   },
   "Underhanded Strike": {
-    "NAME": "Prepredeni udarac",
+    "NAME": "Lukavi udarac",
     "DESCRIPTION": "Zadaj !D! štete. Ako si odbacio kartu u ovom potezu, NL zadobi [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Ne mogu da odigram ovu kartu."
@@ -1288,5 +1288,9 @@
   "Zap": {
     "NAME": "Šok",
     "DESCRIPTION": "Prizovi !M! munju."
+  },
+  "Pride": {
+    "NAME": "Pride",
+    "DESCRIPTION": "Innate. NL Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
   }
 }

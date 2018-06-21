@@ -14,7 +14,7 @@
       "[Durchstöbern] #gErhalte #gein #gRelikt. #r75%: #rWerde #rverflucht #r– #rNormalität.",
       "[Verlassen]",
       "Wähle eine Karte zum Verbessern",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
+      "[Gesperrt] Erfordert: Verbesserbare Karten"
     ]
   },
   "Addict": {
@@ -68,7 +68,7 @@
     ]
   },
   "Big Fish": {
-    "NAME": "Großer Fisch",
+    "NAME": "Großer Fang",
     "DESCRIPTIONS": [
       "Als du einen langen Korridor hinuntergehst, siehst du eine #yBanane, einen #yDonut und eine #yKiste ~herumschweben.~ Nein... bei genauerer Betrachtung wird deutlich, dass sie an Schnüre gebunden sind, die aus Löchern in der Decke kommen. Du hörst ein leises @Gackern@ von oben, als du dich den Objekten näherst. NL Was tust du?",
       "Du isst die #yBanane. Sie ist nahrhaft und ein wenig #bmagisch, sodass sie dich heilt.",
@@ -187,7 +187,8 @@
       "Im freien Fall wägst du deine Optionen ab: NL Dank deiner besten Technik sicher landen. NL Eine Macht kanalisieren, um den Sturz zu überleben. NL In die Wand schlagen, um daran hängenzubleiben.",
       "Du landest unglaublich graziös, bevor du deine Reise fortsetzt.",
       "Unter Einsatz deiner rohen Macht schaffst du es, unverletzt zu landen.",
-      "Es gelingt dir, dich an der Wand festzuhalten und auf eine andere sichere Plattform zu springen."
+      "Es gelingt dir, dich an der Wand festzuhalten und auf eine andere sichere Plattform zu springen.",
+      "Du scheinst so langsam wie eine Feder zu fallen, sodass du am Boden ohne einen Kratzer ankommst."
     ],
     "OPTIONS": [
       "[Fortsetzen]",
@@ -197,7 +198,8 @@
       "[Gesperrt] Erfordert: Machtkarte",
       "[Schlagen] #rVerliere ",
       "[Gesperrt] Erfordert: Angriffskarte",
-      "[Verlassen]"
+      "[Verlassen]",
+      "[Landen] "
     ]
   },
   "Forgotten Altar": {
@@ -233,7 +235,7 @@
   "Ghosts": {
     "NAME": "Rat der Geister",
     "DESCRIPTIONS": [
-      "Beim weiteren Aufstieg beginnt #p~dicker~ #p~schwarzer~ #pRauch aus dem Boden und Wänden um dich herum zu quillen, welcher sich in drei maskierte Gestalten formt. NL NL ~\"Noch~ ~eine~ ~von~ #y~Niaus~ ~Puppen,~ ~glaube~ ~ich~.\"~ NL #r@\"JAWOHL!@ #r@SIE@ #r@KREIERT@ #r@IMMER@ #r@DIE@ #r@LUSTIGSTEN@ #r@SPIELZEUGE!\"@ NL NL Dir fällt ein riesiges Grinsen auf, als die dritte Gestalt dich anspricht. NL \"Ignoriere die anderen... Hättest du gern eine Kostprobe unserer #y~Kraft?\"~ ",
+      "Beim weiteren Aufstieg beginnt #p~dicker~ #p~schwarzer~ #pRauch aus dem Boden und Wänden um dich herum zu quillen, welcher sich in drei maskierte Gestalten formt. NL NL ~\"Noch~ ~eine~ ~von~ #y~Niaus~ ~Puppen,~ ~glaube~ ~ich.\"~ NL #r@\"JAWOHL!@ #r@SIE@ #r@KREIERT@ #r@IMMER@ #r@DIE@ #r@LUSTIGSTEN@ #r@SPIELZEUGE!\"@ NL NL Dir fällt ein riesiges Grinsen auf, als die dritte Gestalt dich anspricht. NL \"Ignoriere die anderen... Hättest du gern eine Kostprobe unserer #y~Kraft?\"~ ",
       "",
       "#y\"Exzellent!\" NL Als die Geisterfigur spricht, bemerkst du, wie ihr riesiger Mund sich weiter und weiter öffnet. #p~Dicker~ #p~schwarzer~ #p~Rauch~ quillt hervor und verhüllt den Raum. Du kannst weder sehen noch atmen... NL NL Gerade kurz bevor du ohnmächtig wirst, hört das Spektakel auf. NL NL Was auch immer diese Gestalten waren, jetzt sind sie fort. Du gehst weiter und fühlst dich eher #pleer...",
       "\"Wie enttäuschend...\" NL ~\"Früher~ ~oder~ ~später~ ~wirst~ ~du~ ~uns~ ~beitreten.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Die Formen verblassen und hinterlassen nur das nervtötende Lachen in deinen Ohren.",
@@ -367,7 +369,7 @@
       "Wähle eine Karte zum Transformieren.",
       "Wähle eine Karte zum Verbessern.",
       "[Verlassen]",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
+      "[Gesperrt] Erfordert: Verbesserbare Karten"
     ]
   },
   "Masked Bandits": {
@@ -527,7 +529,7 @@
       "Als du durch das Jenseits wanderst, entdeckst du einen #bleuchtenden #bTesserakt, der sich sanft in der Luft @dreht@ und ~verändert.~ ",
       "Du berührst ihn. NL NL Ein #r@scharfer@ #r@Schmerz@ durchfließt dich, gefolgt von lebhaften Blitzen einer fernen Erinnerung. NL ...wessen Erinnerungen sind das?",
       "#r~ANGST.~ NL NL Eine dämonische Kreatur befindet sich über dir, ihre Flügel sind weit gespreizt, während sie in Gelächter aufheult. Tote Körper eines Stammes umgeben dich, als das Dorf von schrecklichen, #p~dunklen~ #p~Flammen~ verschlugen wird. NL NL Der Dämon ruft und verspottet dich. NL NL #r@\"DU@ #r@BIST@ #r@JETZT@ #r@WIRKLICH@ #r@DER@ #r@STÄRKSTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAA!!\"@  NL NL Dieses Gelächter hallt ewig wider... ",
-      "#g~TRIUMPH.~ NL NL Die Überreste einer #p~geisterhaften~ #p~Kreatur~ fällt langsam in den Schlamm vor dir, sie ist im Mondlicht kaum sichtbar. Du hast dich vor deinen Schwestern bewiesen. NL NL In der Siegespose wartest du still, während die Anderen dir zeremoniell den #ySchädel der #yKreatur auf deinen Kopf setzen. Das Ritual ist abgeschlossen. NL NL Du gehst in Richtung des Spire...",
+      "#g~TRIUMPH.~ NL NL Die Überreste einer #p~geisterhaften~ #p~Kreatur~ fällt langsam in den Schlamm vor dir, sie ist im Mondschein kaum sichtbar. Du hast dich vor deinen Schwestern bewiesen. NL NL In der Siegespose wartest du still, während die Anderen dir zeremoniell den #ySchädel der #yKreatur auf deinen Kopf setzen. Das Ritual ist abgeschlossen. NL NL Du gehst in Richtung des Spire...",
       "#b~VERWIRRUNG.~ NL NL #y[ZIEL] #gBALANCE #gmuss #gVERSTÄRKT #gwerden NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[WARNUNG] #rGroßes #rObjekt #rnähert #rsich NL NL ~\"Ich...~ ~..bin~ ~....Niau..\"~"
     ],
     "OPTIONS": [
@@ -550,7 +552,7 @@
       "[Hindurchgehen] #gVerbessere #g2 #gzufällige #gKarten. #rVerliere #r",
       " #rTP.",
       "[Verlassen]",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
+      "[Gesperrt] Erfordert: Verbesserbare Karten"
     ]
   },
   "Spire Heart": {
@@ -735,7 +737,7 @@
       "[Beten] #gVerbessere #geine #gKarte.",
       "[Verlassen]",
       "Wähle eine Karte zum Verbessern.",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
+      "[Gesperrt] Erfordert: Verbesserbare Karten"
     ]
   },
   "Vampires": {
@@ -765,7 +767,7 @@
       "„Ah, ein #gGeschenk! NL Viel Spaß damit!“",
       "„Oooh, eine kostenlose #gHeilung für dich!“",
       "„Sieht aus, als hättest du einen #pFluch gewonnen! NL Das ist nicht gut. NL Naja! Nächstes Mal hast du mehr Glück!“",
-      "„Ooh, die Macht der #r~Dunkelheit~ ~...~“ NL Wähle eine Karte, die aus deinem Deck entfernt wird!",
+      "„Ooh, die Macht der #r~Dunkelheit~ ~...~ “ NL Wähle eine Karte, die aus deinem Deck entfernt wird!",
       "„Oh-oh! NL Du verlierst!“ NL Du bemerkst, wie er eine Klinge zieht...",
       "Du schlägst nach dem verrückten Gremlin, aber er ist einfach zu schnell! NL Er trifft dich ein paar Mal mit einer groben Klinge. NL „Der Preis wurde bezahlt!!“ NL Damit verschwinden der Gremlin und das Rad in einer Rauchwolke."
     ],
@@ -813,6 +815,19 @@
       "[Zurücklassen] #rVerliere #r",
       " #rGold.",
       "[Verlassen]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]"
     ]
   }
 }

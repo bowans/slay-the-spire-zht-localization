@@ -101,8 +101,8 @@
     "NAME": "Čizma",
     "FLAVOR": "Raste u veličini kada se nategne.",
     "DESCRIPTIONS": [
-      "Svaki put kada bi zadao #b",
-      " ili manje neodbranjene štete od #ynapada, povećaj je na #bpet."
+      "Svaki put kada bi #ynapadom zadao #b",
+      " ili manje neodbranjene štete, povećaj je na #bpet."
     ]
   },
   "Bottled Flame": {
@@ -152,7 +152,7 @@
     ]
   },
   "Busted Crown": {
-    "NAME": "Ishabana kruna",
+    "NAME": "Polomljena kruna",
     "FLAVOR": "Šampionova kruna... ili bleda imitacija?",
     "DESCRIPTIONS": [
       "Pri odabiru nagradne karte, imaš #bdve manje karte u izboru.",
@@ -237,6 +237,16 @@
     "FLAVOR": "Pronašao si sve relikvije. Impresivno!",
     "DESCRIPTIONS": [
       "Izgleda lepo."
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Kafomat",
+    "FLAVOR": "\"Da, još jedna šoljica molim. Nazad na posao. Nazad na posao!\" - Arhitekta",
+    "DESCRIPTIONS": [
+      " na početku svakog poteza. Više ne možeš da se odmaraš na odmaralištima.",
+      "Zadobi [R]",
+      "Zadobi [G]",
+      "Zadobi [B]"
     ]
   },
   "Cracked Core": {
@@ -338,6 +348,14 @@
       "Na početku svakog poteza, ako si primio štetu prethodni krug, aktiviraj pasivne sposobnosti svih svojih sfera."
     ]
   },
+  "Empty Cage": {
+    "NAME": "Prazan kavez",
+    "FLAVOR": "\"Nije li čudno zarobiti ono što obožavaš?\" - Ranuid",
+    "DESCRIPTIONS": [
+      "Po uzimanju, ukloni #bdve karte iz špila.",
+      "Izaberi dve karte koje ćeš da ukloniš."
+    ]
+  },
   "Enchiridion": {
     "NAME": "Enhiridion",
     "FLAVOR": "Legendardni dnevnik jednog drevnog liča.",
@@ -374,6 +392,16 @@
     "FLAVOR": "Bez opisa.",
     "DESCRIPTIONS": [
       "Pri pregledavanju #ygomile #yza #yvuču, karte su sada prikazane po redu."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Čekić stapanja",
+    "FLAVOR": "Jednom uzet, vlasnik više nikad ne može da ga pusti.",
+    "DESCRIPTIONS": [
+      " na početku svakog poteza. Više ne možeš da kuješ da odmaralištima.",
+      "Zadobi [R]",
+      "Zadobi [G]",
+      "Zadobi [B]"
     ]
   },
   "Gambling Chip": {
@@ -429,6 +457,13 @@
     "FLAVOR": "\"Preukusno!\"",
     "DESCRIPTIONS": [
       "Energija se sada prenosi između poteza."
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Kandilo",
+    "FLAVOR": "Dim ispunjava nosioca duhom sprženog.",
+    "DESCRIPTIONS": [
+      "Svakih #bpet krugova, zadobi #bjednu #yneopipljivost."
     ]
   },
   "Inserter": {
@@ -504,7 +539,7 @@
   },
   "Mango": {
     "NAME": "Mango",
-    "FLAVOR": "Najtraženije zaboravljeno voće. Besprekorno sačuvan, bez znakova Toranjobuđi.",
+    "FLAVOR": "Najtraženije zaboravljeno voće. Besprekorno sačuvan, bez znakova Buđi.",
     "DESCRIPTIONS": [
       "Po uzimanju, povećaj svoje maks. ž. p. za #b"
     ]
@@ -736,12 +771,12 @@
     "NAME": "Lula mira",
     "FLAVOR": "Razbistruje um i pročišćava dušu.",
     "DESCRIPTIONS": [
-      "Sada možeš da uklanjaš karte iz špila na odmaralištima."
+      "Na odmaralištima sada možeš da ukloniš kartu iz špila."
     ]
   },
   "Pear": {
     "NAME": "Kruška",
-    "FLAVOR": "Česta voćka pre Toranjobuđi.",
+    "FLAVOR": "Česta voćka pre Buđi.",
     "DESCRIPTIONS": [
       "Po uzimanju, povećaj svoje maks. ž. p. za #b"
     ]
@@ -1179,39 +1214,27 @@
       "Napici se sada uvek pojavljuju kao deo plena posle borbe."
     ]
   },
-  "Empty Cage": {
-    "NAME": "Empty Cage",
-    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
     "DESCRIPTIONS": [
-      "Upon pick up, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
+      "Whenever you begin an Event, gain #b",
+      " #yGold."
     ]
   },
-  "Incense Burner": {
-    "NAME": "Incense Burner",
-    "FLAVOR": "An incense burner from long ago. Burning precious wood seems unimaginable.",
+  "NlothsMask": {
+    "NAME": "N'Loth's Mask",
+    "FLAVOR": "You feel hungry.",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
+      "Whenever you play a Rare card, gain #b",
+      " #yBlock."
     ]
   },
-  "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Smith at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
-    ]
-  },
-  "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
-    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
-    "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Rest at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "Raise your Max HP by #b1 after each combat."
     ]
   }
 }

@@ -218,7 +218,7 @@
     "NAME": "Браслет",
     "FLAVOR": "Ви зібрали усі Амулети. Вражаюче!",
     "DESCRIPTIONS": [
-      "Красивий браслет."
+      "Зберіть стільки, скільки но зможете."
     ]
   },
   "Cracked Core": {
@@ -911,7 +911,7 @@
   },
   "Strange Spoon": {
     "NAME": "Дивна ложка",
-    "FLAVOR": "Дивлячись на ложку, здається, що вона згинається і крутиться перед очима.",
+    "FLAVOR": "Дивлячись на ложку, здається що вона згинається, вивертаючися перед очима.",
     "DESCRIPTIONS": [
       "Карти які #yСпалюються при грі, замість цього, усуватимуться у Відбій з #b50% шансом."
     ]
@@ -1179,39 +1179,62 @@
       "Отримуєте [B] на початку кожного руху. "
     ]
   },
-  "Empty Cage": {
-    "NAME": "Empty Cage",
-    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+  "Incense Burner": {
+    "NAME": "Пахучий пальник",
+    "FLAVOR": "Дим з пальнички надихає власника, духами спалених.",
     "DESCRIPTIONS": [
-      "Upon pick up, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
+      "Кожні #b5 рухів, отримуєте #b1 #yУхиляння."
     ]
   },
-  "Incense Burner": {
-    "NAME": "Incense Burner",
-    "FLAVOR": "An incense burner from long ago. Burning precious wood seems unimaginable.",
+  "Empty Cage": {
+    "NAME": "Порожня клітка",
+    "FLAVOR": "«Незвично так до клітки ти вклоняєшся.» — Ранвід",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
+      "Підбираючи, усуваєте #b2 карти з колоди.",
+      "Оберіть та усуньте 2 карти."
     ]
   },
   "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
+    "NAME": "Сплавлений клевець",
+    "FLAVOR": "Підбираючи цей клевець, ново-власник більше не може його відпустити.",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Smith at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "на початку кожного руху. Ви більше не зможете Кувати у Таборах.",
+      "Отримуєте [R] ",
+      "Отримуєте [G] ",
+      "Отримуєте [B] "
     ]
   },
   "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
-    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "NAME": "Кишенькова кавоварка",
+    "FLAVOR": "«О яка файна філіжанка кави! Ще одну будь ласка!… …назад до роботи. Так, назад до роботи!» — Архітектор",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Rest at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "на початку кожного руху. Ви більше не зможете Відпочивати у Таборах.",
+      "Отримуєте [R] ",
+      "Отримуєте [G] ",
+      "Отримуєте [B] "
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
+    "DESCRIPTIONS": [
+      "Whenever you begin an Event, gain #b",
+      " #yGold."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loth's Mask",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "Whenever you play a Rare card, gain #b",
+      " #yBlock."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b1 after each combat."
     ]
   }
 }

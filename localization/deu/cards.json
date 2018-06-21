@@ -183,7 +183,7 @@
   },
   "Bullet Time": {
     "NAME": "Zeitlupe",
-    "DESCRIPTION": "Du kannst in diesem Zug keine Karten ziehen. NL Senke die Kosten deiner Handkarten für diesen Zug auf 0."
+    "DESCRIPTION": "Du kannst in diesem Zug keine Karten ziehen. NL Deine Handkarten kosten in diesem Zug 0."
   },
   "Burn": {
     "NAME": "Brennen",
@@ -541,7 +541,7 @@
   },
   "Flame Barrier": {
     "NAME": "Flammenwall",
-    "DESCRIPTION": "Erhalte !B! Block. NL Immer wenn du in diesem Zug angegriffen wirst, füge dem Angreifer !M! Schaden zu. "
+    "DESCRIPTION": "Erhalte !B! Block. NL Immer wenn dich in diesem Zug ein Gegner angreift, füge ihm !M! Schaden zu. "
   },
   "Flash of Steel": {
     "NAME": "Stahlblitz",
@@ -617,7 +617,7 @@
   "Grand Finale": {
     "NAME": "Großes Finale",
     "DESCRIPTION": "Nur spielbar, wenn keine Karten im Nachziehstapel sind. NL Füge ALLEN Gegnern !D! Schaden zu.",
-    "UPGRADE_DESCRIPTION": "Mein Nachziehstapel NL muss #rLeer sein."
+    "UPGRADE_DESCRIPTION": "Mein Nachziehstapel NL muss #rleer sein."
   },
   "Havoc": {
     "NAME": "Verwüstung",
@@ -685,7 +685,7 @@
     "DESCRIPTION": "Erhalte einen zufälligen Angriff auf die Hand. NL Dieser kostet 0 in diesem Zug. NL Erschöpft."
   },
   "Infinite Blades": {
-    "NAME": "Unzählige Klingen",
+    "NAME": "Zahllose Klingen",
     "DESCRIPTION": "Erhalte zu Beginn deines Zuges ein Messer auf die Hand.",
     "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn deines Zuges ein Messer auf die Hand."
   },
@@ -897,6 +897,10 @@
     "DESCRIPTION": "Ziehe !M! Karte. NL Wirf !M! Karte ab.",
     "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Wirf !M! Karten ab."
   },
+  "Pride": {
+    "NAME": "Stolz",
+    "DESCRIPTION": "Angeboren. Erschöpft. NL Lege am Ende deines Zuges ein Exemplar dieser Karte auf den Nachziehstapel."
+  },
   "Prime": {
     "NAME": "Scharfmachen",
     "DESCRIPTION": "Immer wenn du einen Orb erschaffst, NL ziehe !M! Karte."
@@ -932,7 +936,7 @@
   },
   "Reaper": {
     "NAME": "Schnitter",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Du wirst um den wirklich zugefügten Schaden geheilt. NL Erschöpft."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Heile so viele TP, wie die Gegner TP verloren haben. NL Erschöpft."
   },
   "Reboot": {
     "NAME": "Reboot",
@@ -964,7 +968,7 @@
   },
   "Regret": {
     "NAME": "Reue",
-    "DESCRIPTION": "Unspielbar. NL Verliere am Ende deines Zuges für jede Karte auf deiner Hand 1 TP."
+    "DESCRIPTION": "Unspielbar. NL Verliere am Ende deines Zuges für jede Handkarte 1 TP."
   },
   "Reinforced Body": {
     "NAME": "Verstärkte Hülle",
@@ -991,7 +995,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner, erhöhe den Schaden dieser Karte permanent um !M!. Erschöpft."
   },
   "Rupture": {
-    "NAME": "Riss",
+    "NAME": "Blutfluss",
     "DESCRIPTION": "Immer wenn du TP durch eine Karte verlierst, NL erhalte 1 Stärke."
   },
   "Sadistic Nature": {
@@ -1208,8 +1212,8 @@
   },
   "True Grit": {
     "NAME": "Standhaft",
-    "DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine zufällige Karte auf deiner Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine Karte auf deiner Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine zufällige Handkarte.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine Handkarte."
   },
   "Turbo": {
     "NAME": "TURBO",
@@ -1237,7 +1241,7 @@
   },
   "Uppercut": {
     "NAME": "Kinnhaken",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Schwach an. NL Wende !M! Verwundbar an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Schwach und !M! Verwundbar an."
   },
   "Venomology": {
     "NAME": "Alchemisieren",

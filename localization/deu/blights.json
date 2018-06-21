@@ -1,43 +1,99 @@
 {
   "DeadlyEnemies": {
-    "NAME": "Mörderische Gegner",
+    "NAME": "Speer der Fäulnis",
     "DESCRIPTION": [
       "Gegner greifen #b",
       "% stärker an."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Härtere Gegner",
+    "NAME": "Schild der Fäulnis",
     "DESCRIPTION": [
       "Gegner haben #b",
       "% mehr TP."
     ]
   },
   "TimeMaze": {
-    "NAME": "Verdrehte Zeit",
+    "NAME": "Verirrte Zeit",
     "DESCRIPTION": [
-      "Gegner haben die Macht Verdrehte Zeit."
+      "Du kannst nicht mehr als #b",
+      " Karten pro Zug spielen.",
+      "Ich kann nicht mehr als NL #r"
     ]
   },
   "TwistingMind": {
-    "NAME": "Wechselnde Gedanken",
+    "NAME": "Wechselnder Verstand",
     "DESCRIPTION": [
-      "Beim Aufheben: #yTransformiere #b",
-      " Karten."
+      "Erhalte am Ende deines Zuges #b",
+      "zufällige Statuskarten auf den Nachziehstapel.",
+      ""
     ]
   },
   "Accursed": {
     "NAME": "Verwünscht",
     "DESCRIPTION": [
-      "Beim Aufheben: Erhalte #b",
-      " zufällige #yFlüche."
+      "Immer wenn du einen Boss besiegst, erhalte #b",
+      " zufällige #yFlüche.",
+      ""
     ]
   },
   "Scatterbrain": {
     "NAME": "Wirrkopf",
     "DESCRIPTION": [
+      "Ziehe pro Zug #b",
+      " Karte weniger.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Gesichtsbefall",
+    "DESCRIPTION": [
+      "Schatzräume werden in künftigen Leveln durch Eliten ersetzt. Eliten lassen keine Relikte mehr fallen."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Maulkorb",
+    "DESCRIPTION": [
+      "Du kannst deine max. TP nicht mehr erhöhen. Jedes Heilen wird um die Hälfte reduziert."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Groteske Trophäe",
+    "DESCRIPTION": [
       "Beim Aufheben: Erhalte #b",
-      " zufällige Karten."
+      " #rStolz.",
+      "Du wirst furchtbar stolz..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Fäulnis-Durianfrucht",
+    "DESCRIPTION": [
+      "Verliere #b",
+      "% deiner max. TP."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Schattenessenz",
+    "DESCRIPTION": [
+      "Erhalte in jedem Zug 1 [R] weniger.",
+      "Erhalte in jedem Zug 1 [G] weniger.",
+      "Erhalte in jedem Zug 1 [B] weniger."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Spuk",
+    "DESCRIPTION": [
+      "Gegner beginnen den Kampf mit #b",
+      " #yImmateriell."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Vorzeitliche Erweiterung",
+    "DESCRIPTION": [
+      "Gegner beginnen den Kampf mit #b",
+      " #yArtefakt, #b",
+      " #yPanzerrüstung und #b",
+      " #yRegenerieren."
     ]
   }
 }

@@ -176,7 +176,8 @@
       "En caída libre consideras tus opciones: NL Caer a salvo con tus mejores técnicas. NL Canaliza un Poder para sobrevivir la caída. NL Golpear la pared para colgarte de ella.",
       "Aterrizas con extrema gracia antes de continuar.",
       "Utilizando y gastando algo de tu poder puro, logras caer sin daño.",
-      "Eres capaz de colgarte de la pared, y  logras hacer un salto corto a otra plataforma estable."
+      "Eres capaz de colgarte de la pared, y  logras hacer un salto corto a otra plataforma estable.",
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Continuar]",
@@ -186,7 +187,8 @@
       "[Bloqueado] Requiere: Carta de Poder",
       "[Golpear] #rPierde ",
       "[Bloqueado] Requiere: Carta de Ataque",
-      "[Salir]"
+      "[Salir]",
+      "[Land] "
     ]
   },
   "The Moai Head": {
@@ -813,6 +815,19 @@
       "[Locked] Requires: Upgraded Card.",
       "[Leave]",
       "[Continue]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]"
     ]
   }
 }

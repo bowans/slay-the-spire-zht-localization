@@ -1,13 +1,13 @@
 {
   "DeadlyEnemies": {
-    "NAME": "恐ろしい敵",
+    "NAME": "災厄の槍",
     "DESCRIPTION": [
       "敵の与えるダメージが #b",
       "% 増加する。"
     ]
   },
   "ToughEnemies": {
-    "NAME": "頑強な敵",
+    "NAME": "災厄の盾",
     "DESCRIPTION": [
       "敵のHPが #b",
       "% 増加する。"
@@ -16,28 +16,84 @@
   "TimeMaze": {
     "NAME": "時の迷宮",
     "DESCRIPTION": [
-      "敵は時の迷宮のパワーを得る。"
+      "1ターンの間にカードを #b",
+      " 枚までしかプレイできない。",
+      "プレイ可能な枚数 NL #r"
     ]
   },
   "Accursed": {
-    "NAME": "Accursed",
+    "NAME": "たたり",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses."
+      "ボスを倒すたび、 #b",
+      " つのランダムな呪いを得る。",
+      "たたりだ！"
     ]
   },
   "TwistingMind": {
-    "NAME": "Twisting Mind",
+    "NAME": "精神錯乱",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards."
+      "ターン終了時、 #b",
+      " 枚のランダムな状態異常を山札の一番上に置く。",
+      "変化！"
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "注意散漫",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random cards."
+      "ターン開始時に引くカードの枚数が #b",
+      " 枚減る",
+      "注意散漫！"
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "ミミック侵食",
+    "DESCRIPTION": [
+      "次の階層から財宝部屋はエリートに置き換わる。エリートがレリックをドロップしなくなる。"
+    ]
+  },
+  "FullBelly": {
+    "NAME": "満腹",
+    "DESCRIPTION": [
+      "あなたの最大HPが増加することはない。すべての回復量は半減する。"
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "奇怪なトロフィー",
+    "DESCRIPTION": [
+      "獲得時、 #b",
+      " 枚の #r傲慢 を得る。",
+      "あなたの自尊心が捻じ曲がる…"
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "腐敗したドリアン",
+    "DESCRIPTION": [
+      "最大HPを #b",
+      "% 失う。"
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "空虚のエッセンス",
+    "DESCRIPTION": [
+      "ターン開始時のエナジーが1 [R] 減る。",
+      "ターン開始時のエナジーが1 [G] 減る。",
+      "ターン開始時のエナジーが1 [B] 減る。"
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "影の掌握",
+    "DESCRIPTION": [
+      "戦闘開始時、敵は #y無形 #b",
+      " を得る。"
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "金属転生",
+    "DESCRIPTION": [
+      "戦闘開始時、敵は #yアーティファクト #b",
+      " 、 #yプレートアーマー #b",
+      " 、 #y再生 #b",
+      " を得る。"
     ]
   }
 }
