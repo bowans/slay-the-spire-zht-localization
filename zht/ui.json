@@ -154,7 +154,8 @@
       "選擇一樣遺物",
       "跳過",
       "現在投票： ",
-      "秒後結束。"
+      "秒後結束。",
+      "Choose a Blight"
     ]
   },
   "CacheAction": {
@@ -612,7 +613,8 @@
       "左（備用）*",
       "右（備用）*",
       "上",
-      "下"
+      "下",
+      "Controller Enabled"
     ]
   },
   "LanguageDropdown": {
@@ -1147,6 +1149,11 @@
   "UnlockTextEffect": {
     "TEXT": [
       "新解鎖！"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Ascension Unlocked!"
     ]
   }
 }
