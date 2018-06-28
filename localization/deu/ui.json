@@ -36,7 +36,7 @@
       "Aggressiv",
       "Dieser Gegner beabsichtigt, NL für #b",
       " Schaden #b",
-      " mal #yanzugreifen.",
+      " Mal #yanzugreifen.",
       "Dieser Gegner beabsichtigt, NL für #b",
       " Schaden #yanzugreifen.",
       "Aggressiv",
@@ -127,6 +127,11 @@
     "TEXT": [
       "Aufstiegsmodus Level ",
       " Freigeschaltet!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Aufstiegsmodus freigeschaltet!"
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -298,6 +303,19 @@
       "kopierst"
     ]
   },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Sonderregeln",
+      "Errungenschaften und Ranglisten sind abgeschaltet.",
+      "Charakter",
+      "Aufstieg",
+      "Level ",
+      "Aufstiegsmodus",
+      "Modifikatoren",
+      "Seed",
+      "Seed einstellen"
+    ]
+  },
   "CreditsScreen": {
     "TEXT": [
       "Erneut klicken zum Verlassen",
@@ -346,7 +364,7 @@
       "Was du säst, das erntest du.",
       "Das lief verkehrt.",
       "Darauf war ich nicht vorbereitet.",
-      "Ich versuch’s morgen noch mal.",
+      "Ich versuch’s morgen nochmal.",
       "Ich werde einen neue Karte brauchen.",
       "Unzureichend vorbereitet.",
       "Unfassbar!",
@@ -465,13 +483,13 @@
     "TEXT": [
       "Tutorials",
       "Möchtest du während des Spiels Spieltipps sehen?",
-      "Level 1",
+      "1. Akt",
       "Exordium",
-      "Level 2",
+      "2. Akt",
       "Die Stadt",
-      "Level 3",
+      "3. Akt",
       "Das Jenseits",
-      "Level ?",
+      "? Akt",
       "???",
       "Klicke irgendwohin, um fortzufahren"
     ]
@@ -614,7 +632,7 @@
       "Rechts (Alt)*",
       "Hoch",
       "Runter",
-      "Controller Enabled"
+      "Controller aktiviert"
     ]
   },
   "LanguageDropdown": {
@@ -781,8 +799,8 @@
       "Unbekannt",
       "Gewinne einen Täglichen Aufstieg, um diesen Spielmodus freizuschalten.",
       "Dieses Feature ist noch nicht verfügbar.",
-      "Endlos",
-      "Nach einem Sieg kehrst du mit demselben Deck zum Exordium zurück. \n\nVorsicht, am Ende verzehrt die Fäulnis jeden..."
+      "Sonderregeln",
+      "Stelle deinen individuellen Run mit eigenen Sonderregeln zusammen."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1149,11 +1167,6 @@
   "UnlockTextEffect": {
     "TEXT": [
       "Neue Freischaltung!"
-    ]
-  },
-  "AscensionUnlockEffect": {
-    "TEXT": [
-      "Ascension Unlocked!"
     ]
   }
 }

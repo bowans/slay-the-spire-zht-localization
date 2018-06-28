@@ -83,7 +83,8 @@
   },
   "Offering": {
     "NAME": "供物",
-    "DESCRIPTION": "HPを 4 失う。 NL [R] [R] を得る。 NL カードを !M! 枚引く。 NL 廃棄 。"
+    "DESCRIPTION": "HPを 4 失う。 NL [R] [R] を得る。 NL カードを !M! 枚引く。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "HPを 4 失う。 NL [R] [R] を得る。 NL カードを !M! 枚引く。 NL 廃棄 。"
   },
   "Exhume": {
     "NAME": "発掘",
@@ -281,7 +282,8 @@
   },
   "Pummel": {
     "NAME": "猛撃",
-    "DESCRIPTION": "!D! ダメージを !M! 回与える。 NL 廃棄 。"
+    "DESCRIPTION": "!D! ダメージを !M! 回与える。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを !M! 回与える。 NL 廃棄 。"
   },
   "Riddle With Holes": {
     "NAME": "ハチの巣",
@@ -609,7 +611,8 @@
   },
   "Heavy Blade": {
     "NAME": "ヘヴィブレード",
-    "DESCRIPTION": "!D! ダメージを与える。 NL  このカードには !M! 倍の 筋力 ボーナスが適用される。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL  このカードには !M! 倍の 筋力 ボーナスが適用される。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL  このカードには !M! 倍の 筋力 ボーナスが適用される。"
   },
   "Clumsy": {
     "NAME": "不器用",
@@ -1042,7 +1045,8 @@
   },
   "Reprogram": {
     "NAME": "再構成",
-    "DESCRIPTION": "山札の一番上から !M! 枚のカードを見る。 その中から好きな枚数捨てる。"
+    "DESCRIPTION": "山札の一番上から !M! 枚のカードを見る。 その中から好きな枚数捨てる。",
+    "UPGRADE_DESCRIPTION": "山札の一番上から !M! 枚のカードを見る。 その中から好きな枚数捨てる。"
   },
   "Cache": {
     "NAME": "キャッシュ",

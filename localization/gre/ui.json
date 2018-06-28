@@ -609,12 +609,12 @@
       "Αριστερά*",
       "Δεξιά*",
       "Πάνω (Εν.)*",
-      "Κάτω (Εν)*",
-      "Αριστερά (Εν)*",
-      "Δεξιά (Εν)*",
+      "Κάτω (Εν.)*",
+      "Αριστερά (Εν.)*",
+      "Δεξιά (Εν.)*",
       "Πάνω",
       "Κάτω",
-      "Controller Enabled"
+      "Ενεργοποίηση Χειριστηρίου"
     ]
   },
   "LanguageDropdown": {
@@ -1153,7 +1153,20 @@
   },
   "AscensionUnlockEffect": {
     "TEXT": [
-      "Ascension Unlocked!"
+      "H Άνοδος ξεκλειδώθηκε!"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed"
     ]
   }
 }

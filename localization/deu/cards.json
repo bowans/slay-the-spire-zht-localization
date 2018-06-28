@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Schneesturm",
-    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu in Höhe !M! mal des in diesem Kampf erschaffenen Frosts.",
+    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu in Höhe !M! Mal des in diesem Kampf erschaffenen Frosts.",
     "EXTENDED_DESCRIPTION": [
       " NL (Fügt !D! Schaden zu.)",
       ""
@@ -169,7 +169,7 @@
   },
   "Bouncing Flask": {
     "NAME": "Springende Flasche",
-    "DESCRIPTION": "Wende !M! mal 3 Gift an einem zufälligen Gegner an."
+    "DESCRIPTION": "Wende !M! Mal 3 Gift an einem zufälligen Gegner an."
   },
   "Brutality": {
     "NAME": "Brutalität",
@@ -191,7 +191,7 @@
     "UPGRADE_DESCRIPTION": "Unspielbar. NL Erleide am Ende deines Zuges 4 Schaden."
   },
   "Burning Pact": {
-    "NAME": "Brennender Pakt",
+    "NAME": "Feuerpakt",
     "DESCRIPTION": "Erschöpfe 1 Karte. NL Ziehe !M! Karten."
   },
   "Burst": {
@@ -634,7 +634,8 @@
   },
   "Heavy Blade": {
     "NAME": "Schweres Schwert",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert !M! mal."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert !M! Mal.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert !M! Mal."
   },
   "Heel Hook": {
     "NAME": "Fersenklemme",
@@ -715,7 +716,7 @@
     "UPGRADE_DESCRIPTION": "Erhalte !M! zufällige farblose Karten auf die Hand. NL Erschöpft."
   },
   "Juggernaut": {
-    "NAME": "Verwüster",
+    "NAME": "Juggernaut",
     "DESCRIPTION": "Immer wenn du Block erhältst, füge einem zufälligen Gegner !M! Schaden zu."
   },
   "Leap": {
@@ -738,7 +739,7 @@
   "Loop": {
     "NAME": "Schleife",
     "DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs.",
-    "UPGRADE_DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs !M! mal."
+    "UPGRADE_DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs !M! Mal."
   },
   "Machine Learning": {
     "NAME": "Lernende Maschine",
@@ -789,8 +790,8 @@
   },
   "Multi-Cast": {
     "NAME": "Multi-Entladung",
-    "DESCRIPTION": "Entlade deinen vordersten Orb X mal.",
-    "UPGRADE_DESCRIPTION": "Entlade deinen vordersten Orb X+1 mal."
+    "DESCRIPTION": "Entlade deinen vordersten Orb X Mal.",
+    "UPGRADE_DESCRIPTION": "Entlade deinen vordersten Orb X+1 Mal."
   },
   "Necronomicurse": {
     "NAME": "Nekronomischer Fluch",
@@ -821,7 +822,7 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu NL in Höhe !M! mal der Zahl in diesem Kampf gespielter Mächte.",
+    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu NL in Höhe !M! Mal der Zahl in diesem Kampf gespielter Mächte.",
     "EXTENDED_DESCRIPTION": [
       " NL Erschöpft.",
       " NL (Fügt !D! Schaden zu.)"
@@ -834,7 +835,8 @@
   },
   "Offering": {
     "NAME": "Opfergabe",
-    "DESCRIPTION": "Verliere 4 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft."
+    "DESCRIPTION": "Verliere 4 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Verliere 4 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft."
   },
   "Outmaneuver": {
     "NAME": "Ausmanövrieren",
@@ -911,7 +913,8 @@
   },
   "Pummel": {
     "NAME": "Prügeln",
-    "DESCRIPTION": "Füge !M! mal NL !D! Schaden zu. NL Erschöpft."
+    "DESCRIPTION": "Füge !M! Mal NL !D! Schaden zu. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Füge !M! Mal NL !D! Schaden zu. NL Erschöpft."
   },
   "Purity": {
     "NAME": "Reinheit",
@@ -936,7 +939,7 @@
   },
   "Reaper": {
     "NAME": "Schnitter",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Heile so viele TP, wie die Gegner TP verloren haben. NL Erschöpft."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Heile so viele TP, wie die Gegner TP verloren haben. Erschöpft."
   },
   "Reboot": {
     "NAME": "Reboot",
@@ -972,7 +975,7 @@
   },
   "Reinforced Body": {
     "NAME": "Verstärkte Hülle",
-    "DESCRIPTION": "Erhalte X mal !B! Block."
+    "DESCRIPTION": "Erhalte X Mal !B! Block."
   },
   "Reprieve": {
     "NAME": "Atempause",
@@ -980,15 +983,16 @@
   },
   "Reprogram": {
     "NAME": "Umprogrammieren",
-    "DESCRIPTION": "Schau die obersten !M! Karten des Nachziehstapels an. Wirf beliebig viele davon ab."
+    "DESCRIPTION": "Schau die obersten !M! Karten des Nachziehstapels an. Wirf beliebig viele davon ab.",
+    "UPGRADE_DESCRIPTION": "Schau die obersten !M! Karten des Nachziehstapels an. Wirf beliebig viele davon ab."
   },
   "Riddle With Holes": {
     "NAME": "Zerlöchern",
-    "DESCRIPTION": "Füge 5 mal NL !D! Schaden zu."
+    "DESCRIPTION": "Füge 5 Mal NL !D! Schaden zu."
   },
   "Rip and Tear": {
     "NAME": "Zerfetzen",
-    "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner NL !D! Schaden zu."
+    "DESCRIPTION": "Füge !M! Mal einem zufälligen Gegner NL !D! Schaden zu."
   },
   "RitualDagger": {
     "NAME": "Ritueller Dolch",
@@ -1070,7 +1074,7 @@
   },
   "Skewer": {
     "NAME": "Aufspießen",
-    "DESCRIPTION": "Füge X mal NL !D! Schaden zu."
+    "DESCRIPTION": "Füge X Mal NL !D! Schaden zu."
   },
   "Skim": {
     "NAME": "Abschöpfen",
@@ -1157,7 +1161,7 @@
   },
   "Sword Boomerang": {
     "NAME": "Bumerangschwert",
-    "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner !D! Schaden zu."
+    "DESCRIPTION": "Füge !M! Mal einem zufälligen Gegner !D! Schaden zu."
   },
   "Tactician": {
     "NAME": "Taktiker",
@@ -1263,7 +1267,7 @@
   },
   "Whirlwind": {
     "NAME": "Wirbelwind",
-    "DESCRIPTION": "Füge ALLEN Gegnern X mal !D! Schaden zu."
+    "DESCRIPTION": "Füge ALLEN Gegnern X Mal !D! Schaden zu."
   },
   "White Noise": {
     "NAME": "Rauschen",

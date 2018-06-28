@@ -27,6 +27,10 @@
     "NAME": "Eliten-Schwarm",
     "DESCRIPTION": "Elite schwärmen den Spire und lassen besseren Loot fallen."
   },
+  "Endless": {
+    "NAME": "Endlos",
+    "DESCRIPTION": "Nach einem Sieg beginnst du wieder im 1. Akt mit demselben Deck. Aber hüte dich, am Ende verzehrt jeden die Fäulnis..."
+  },
   "Heirloom": {
     "NAME": "Erbstück",
     "DESCRIPTION": "Beginne mit 1 seltenen Relikt."
@@ -74,5 +78,25 @@
   "Vintage": {
     "NAME": "Antiquitäten",
     "DESCRIPTION": "Normale Gegner hinterlassen Relikte statt Karten."
+  },
+  "One Hit Wonder": {
+    "NAME": "One Hit Wonder",
+    "DESCRIPTION": "Start the game with 1 max HP."
+  },
+  "Starter Deck": {
+    "NAME": "Starter Deck",
+    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
+  },
+  "Praise Snecko": {
+    "NAME": "Praise Snecko",
+    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
+  },
+  "My True Form": {
+    "NAME": "My True Form",
+    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
   }
 }

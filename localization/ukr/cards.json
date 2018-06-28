@@ -626,7 +626,8 @@
   },
   "Heavy Blade": {
     "NAME": "Важке лезо",
-    "DESCRIPTION": "Наносить !D! шкоди. NL Міць впливає у !M! рази більше до «Важке лезо»."
+    "DESCRIPTION": "Наносить !D! шкоди. NL Міць впливає у !M! рази більше до «Важке лезо».",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
   },
   "Heel Hook": {
     "NAME": "Джмелики",
@@ -826,7 +827,8 @@
   },
   "Offering": {
     "NAME": "Саможертва",
-    "DESCRIPTION": "Втрачаєте 4 ОЗ. NL Отримуєте [R] [R]. NL Берете !M! Карт(и). NL Спалюється."
+    "DESCRIPTION": "Втрачаєте 4 ОЗ. NL Отримуєте [R] [R]. NL Берете !M! Карт(и). NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
     "NAME": "Змудрування",
@@ -899,7 +901,8 @@
   },
   "Pummel": {
     "NAME": "Лупцювання",
-    "DESCRIPTION": "Наносить !D! шкоди !M! рази. NL Спалюється."
+    "DESCRIPTION": "Наносить !D! шкоди !M! рази. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Purity": {
     "NAME": "Очищення",
@@ -968,7 +971,8 @@
   },
   "Reprogram": {
     "NAME": "Перепрограмування",
-    "DESCRIPTION": "Заглядаєте на !M! верхніх карт у доборі. Ви можете закинути хоч усі з них у відбій."
+    "DESCRIPTION": "Заглядаєте на !M! верхніх карт у доборі. Ви можете закинути хоч усі з них у відбій.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
   },
   "Riddle With Holes": {
     "NAME": "Звіробі́й ",

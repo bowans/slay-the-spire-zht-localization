@@ -626,7 +626,8 @@
   },
   "Heavy Blade": {
     "NAME": "Ciężkie ostrze",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Bonus od Siły zwiększa się !M! razy."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Bonus od Siły zwiększa się !M! razy.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
   },
   "Heel Hook": {
     "NAME": "Powalenie",
@@ -826,7 +827,8 @@
   },
   "Offering": {
     "NAME": "Ofiara",
-    "DESCRIPTION": "Utrać 4 PŻ. NL Zyskaj [R] [R]. NL Dobierz !M! kart(-y). NL Wykluczenie."
+    "DESCRIPTION": "Utrać 4 PŻ. NL Zyskaj [R] [R]. NL Dobierz !M! kart(-y). NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
     "NAME": "Przechytrzenie",
@@ -899,7 +901,8 @@
   },
   "Pummel": {
     "NAME": "Furia uderzeń",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń NL !M! razy. NL Wykluczenie."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń NL !M! razy. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Purity": {
     "NAME": "Oczyszczenie",
@@ -968,7 +971,8 @@
   },
   "Reprogram": {
     "NAME": "Przeprogramowanie",
-    "DESCRIPTION": "Podejrzyj !M! górne karty ze stosu rozgrywającego. Możesz Wykluczyć jedną z nich."
+    "DESCRIPTION": "Podejrzyj !M! górne karty ze stosu rozgrywającego. Możesz Wykluczyć jedną z nich.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
   },
   "Riddle With Holes": {
     "NAME": "Dziurawiec",

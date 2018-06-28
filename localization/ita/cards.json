@@ -626,7 +626,8 @@
   },
   "Heavy Blade": {
     "NAME": "Lama Pesante",
-    "DESCRIPTION": "Infliggi !D! danni. NL La tua Forza influisce sulla Lama Pesante !M! volte."
+    "DESCRIPTION": "Infliggi !D! danni. NL La tua Forza influisce sulla Lama Pesante !M! volte.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
   },
   "Heel Hook": {
     "NAME": "Presa di Sottomissione",
@@ -826,7 +827,8 @@
   },
   "Offering": {
     "NAME": "Sacrificio",
-    "DESCRIPTION": "Perdi 4 PV. NL Ottieni [R] [R]. NL Peschi !M! carte. NL Esaurisci."
+    "DESCRIPTION": "Perdi 4 PV. NL Ottieni [R] [R]. NL Peschi !M! carte. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
     "NAME": "Manovra Evasiva",
@@ -899,7 +901,8 @@
   },
   "Pummel": {
     "NAME": "Pioggia di Pugni",
-    "DESCRIPTION": "Infliggi !D! danni !M! volte. NL Esaurisci."
+    "DESCRIPTION": "Infliggi !D! danni !M! volte. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Purity": {
     "NAME": "Purezza",
@@ -968,7 +971,8 @@
   },
   "Reprogram": {
     "NAME": "Riprogramma",
-    "DESCRIPTION": "Guarda le prime !M! carte della Pila. Puoi scartarne quante vuoi."
+    "DESCRIPTION": "Guarda le prime !M! carte della Pila. Puoi scartarne quante vuoi.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
   },
   "Riddle With Holes": {
     "NAME": "Crivella di Colpi",

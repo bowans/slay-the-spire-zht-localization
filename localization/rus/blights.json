@@ -2,98 +2,98 @@
   "Accursed": {
     "NAME": "Проклятый",
     "DESCRIPTION": [
-      "При получении, даёт #b",
-      " случайных #yПроклятий.",
-      "Accursed!"
+      "Вы получаете #b",
+      " случайных #yПроклятий, побеждая босса.",
+      ""
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Чумной Дуриан",
+    "DESCRIPTION": [
+      "Отнимает #b",
+      "% от Макс. ОЗ."
     ]
   },
   "DeadlyEnemies": {
-    "NAME": "Могущество Мора",
+    "NAME": "Могущество Шпиля",
     "DESCRIPTION": [
-      "Противники наносят на #b",
+      "Враги наносят на #b",
       "% больше урона."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Намордник",
+    "DESCRIPTION": [
+      "Вы не можете увеличивать Макс. ОЗ. Восполняемое здоровье уменьшается в 2 раза."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Явление духов",
+    "DESCRIPTION": [
+      "Враги начинают бой с #b",
+      " #yНеосязаемости."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Гротескный трофей",
+    "DESCRIPTION": [
+      "При получении даёт #b",
+      " карт #rГордыня.",
+      "Ваша гордыня обрела порочный облик..."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Аугментация Древних",
+    "DESCRIPTION": [
+      "Враги начинают бой с #b",
+      " #yАртефакта, #b",
+      " #yПанциря и способностью #b",
+      " #yРегенерировать."
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Нашествие мимиков",
+    "DESCRIPTION": [
+      "В последующих актах комнаты с сокровищами заменены на элитных врагов. Победа над элитными врагами больше не даёт реликвий."
     ]
   },
   "Scatterbrain": {
     "NAME": "Растяпа",
     "DESCRIPTION": [
-      "При получении, даёт #b",
-      " случайные карты.",
-      "Scatterbrained!"
+      "Вы берёте на #b ",
+      " карту меньше в начале своего хода.",
+      ""
     ]
   },
   "TimeMaze": {
     "NAME": "Лабиринт времени",
     "DESCRIPTION": [
-      "Враги получают способность «Лабиринт времени».",
-      " cards per turn.",
-      "I can only play up to NL #r"
+      "Вы можете разыграть только #b ",
+      " карт за ход.",
+      "Я могу разыграть только NL #r"
     ]
   },
   "ToughEnemies": {
-    "NAME": "Защита Мора",
+    "NAME": "Покров Шпиля",
     "DESCRIPTION": [
-      "Противники получают на #b",
+      "У врагов на #b",
       "% больше ОЗ."
     ]
   },
   "TwistingMind": {
     "NAME": "Искажение сознания",
     "DESCRIPTION": [
-      "При получении, #yИзменяет #b",
-      " карт.",
-      "Transformation!"
-    ]
-  },
-  "MimicInfestation": {
-    "NAME": "Mimic Infestation",
-    "DESCRIPTION": [
-      "Treasure rooms in future acts are replaced by Elites."
-    ]
-  },
-  "FullBelly": {
-    "NAME": "Full Belly",
-    "DESCRIPTION": [
-      "You can no longer increase your Max HP. All healing is halved."
-    ]
-  },
-  "GrotesqueTrophy": {
-    "NAME": "Grotesque Trophy",
-    "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " #rPrides.",
-      "Your Pride is twisted..."
-    ]
-  },
-  "BlightedDurian": {
-    "NAME": "Blighted Durian",
-    "DESCRIPTION": [
-      "Lose #b",
-      "% of your Max HP."
+      "Добавляет #b",
+      " случайный Статус на верх стопки добора в конце вашего хода.",
+      ""
     ]
   },
   "VoidEssence": {
-    "NAME": "Void Essence",
+    "NAME": "Эссенция бездны",
     "DESCRIPTION": [
-      "Gain 1 less [R] at the start of each turn.",
-      "Gain 1 less [G] at the start of each turn.",
-      "Gain 1 less [B] at the start of each turn."
-    ]
-  },
-  "GraspOfShadows": {
-    "NAME": "Grasp Of Shadows",
-    "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yIntangible."
-    ]
-  },
-  "MetallicRebirth": {
-    "NAME": "Metallic Rebirth",
-    "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yArtifact, #b",
-      " #yPlated #yArmor, and #b",
-      " #yRegenerate."
+      "Вы получаете на 1 [R] меньше в начале каждого хода.",
+      "Вы получаете на 1 [G] меньше в начале каждого хода.",
+      "Вы получаете на 1 [B] меньше в начале каждого хода."
     ]
   }
 }

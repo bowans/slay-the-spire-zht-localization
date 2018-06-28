@@ -177,7 +177,7 @@
       "Vous atterrissez gracieusement et reprenez votre chemin.",
       "En concentrant une partie de votre Pouvoir brut et en l'étendant, vous parvenez à atterrir sans vous blesser.",
       "Vous parvenez à vous accrocher au mur et à sauter sur une autre plateforme plus stable.",
-      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
+      "Vous semblez tomber aussi lentement qu'une plume, atteignant le fond sans une égratignure."
     ],
     "OPTIONS": [
       "[Continuer]",
@@ -188,7 +188,7 @@
       "[Frapper] #rPerdez ",
       "[Verrouillé] Nécessite : carte Attaque",
       "[Partir]",
-      "[Land] "
+      "[Atterrir] "
     ]
   },
   "The Moai Head": {
@@ -818,16 +818,16 @@
     ]
   },
   "FaceTrader": {
-    "NAME": "Face Trader",
+    "NAME": "Échangeur de visage",
     "DESCRIPTIONS": [
-      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
-      "ENJOY YOUR NEW FACE!"
+      "VOUS M'AVEZ L'AIR DE QUELQU'UN QUI A BESOIN D'UN NOUVEAU VISAGE !",
+      "PROFITEZ BIEN DE VOTRE NOUVEAU VISAGE !"
     ],
     "OPTIONS": [
-      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
-      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
-      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
-      "[Leave]"
+      "[Masque de N'Loth] #gQuand #gvous #gjouez #gune #gcarte #gRare, #ggagnez #g3 #gd'Armure.",
+      "[Tête de ssserpent] #gAu #gdébut #gde #gchaque #gévénement, #ggagnez #g50 #gd'or.",
+      "[Tête de Clerc] #gGagnez #g1 #gPV #gMax #gaprès #gchaque #gcombat.",
+      "[Partir]"
     ]
   }
 }

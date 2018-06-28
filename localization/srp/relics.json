@@ -372,6 +372,13 @@
       " ж. п. сваки пут када уђеш у одмаралиште."
     ]
   },
+  "FaceOfCleric": {
+    "NAME": "Лице Попе",
+    "FLAVOR": "Сви воле Попу.",
+    "DESCRIPTIONS": [
+      "Повећај своје макс. ж. п. за #bједан након сваке борбе."
+    ]
+  },
   "Frozen Egg": {
     "NAME": "Frozen Egg",
     "FLAVOR": "",
@@ -555,7 +562,7 @@
     "NAME": "Белег будног",
     "FLAVOR": "У Вани, мисли и стварност су једно те исто.",
     "DESCRIPTIONS": [
-      "Више не можеш да се зацељујеш."
+      "Више не можеш да се залечујеш."
     ]
   },
   "Matryoshka": {
@@ -666,6 +673,14 @@
     "FLAVOR": "Чудан поклон од Нлота. Сваки пут када покушаш да га отвориш, унутра лежи још једна упакована кутија исте величине.",
     "DESCRIPTIONS": [
       "#bУтростручује шансе добијања ретке карте као награде за борбу."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "Нлотова маска",
+    "FLAVOR": "Гладан си.",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш ретку карту, задоби #b",
+      " #yодбране."
     ]
   },
   "Nuclear Battery": {
@@ -969,6 +984,14 @@
       "Не изгледа лепо."
     ]
   },
+  "SsserpentHead": {
+    "NAME": "Глава гууууујјјееее",
+    "FLAVOR": "Најиспуњенији животи су они у којима можеш да купиш било шта!",
+    "DESCRIPTIONS": [
+      "Сваки пут када се нађеш у догађају, задоби #b",
+      " #yзлата."
+    ]
+  },
   "Strange Spoon": {
     "NAME": "Чудна кашика",
     "FLAVOR": "Зурећи у кашику, чини ти се да се криви и увија пред твојим очима.",
@@ -1212,29 +1235,6 @@
     "FLAVOR": "Бела статуица створења које никада раније ниси видео.",
     "DESCRIPTIONS": [
       "Напици се сада увек појављују као део плена после борбе."
-    ]
-  },
-  "SsserpentHead": {
-    "NAME": "Ssserpent Head",
-    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
-    "DESCRIPTIONS": [
-      "Whenever you begin an Event, gain #b",
-      " #yGold."
-    ]
-  },
-  "NlothsMask": {
-    "NAME": "N'Loth's Mask",
-    "FLAVOR": "You feel hungry.",
-    "DESCRIPTIONS": [
-      "Whenever you play a Rare card, gain #b",
-      " #yBlock."
-    ]
-  },
-  "FaceOfCleric": {
-    "NAME": "Face Of Cleric",
-    "FLAVOR": "Everyone loves Cleric.",
-    "DESCRIPTIONS": [
-      "Raise your Max HP by #b1 after each combat."
     ]
   }
 }

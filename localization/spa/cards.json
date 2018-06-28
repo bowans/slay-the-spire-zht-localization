@@ -79,7 +79,8 @@
   },
   "Offering": {
     "NAME": "Ofrenda",
-    "DESCRIPTION": "Pierde 4 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota."
+    "DESCRIPTION": "Pierde 4 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Exhume": {
     "NAME": "Exhumar",
@@ -277,7 +278,8 @@
   },
   "Pummel": {
     "NAME": "Paliza",
-    "DESCRIPTION": "Causa !D! de daño !M! veces. NL Agota."
+    "DESCRIPTION": "Causa !D! de daño !M! veces. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Riddle With Holes": {
     "NAME": "Llenar de Hoyos",
@@ -593,7 +595,8 @@
   },
   "Heavy Blade": {
     "NAME": "Espada Pesada",
-    "DESCRIPTION": "Causa !D! de daño. NL Fuerza afecta a Espada Pesada !M! veces."
+    "DESCRIPTION": "Causa !D! de daño. NL Fuerza afecta a Espada Pesada !M! veces.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
   },
   "Clumsy": {
     "NAME": "Torpe",
@@ -1042,7 +1045,8 @@
   },
   "Reprogram": {
     "NAME": "Reprogramar",
-    "DESCRIPTION": "Mira las primeras !M! cartas de tu pila de robado. Puedes descartar cualquiera de ellas."
+    "DESCRIPTION": "Mira las primeras !M! cartas de tu pila de robado. Puedes descartar cualquiera de ellas.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
   },
   "Cache": {
     "NAME": "Caché",

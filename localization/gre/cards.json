@@ -626,7 +626,8 @@
   },
   "Heavy Blade": {
     "NAME": "Βαριά Λεπίδα",
-    "DESCRIPTION": "Κάνε !D! ζημιά. NL Η Δύναμη επιρρεάζει την Βαριά Λεπίδα !M! φορές."
+    "DESCRIPTION": "Κάνε !D! ζημιά. NL Η Δύναμη επιρρεάζει την Βαριά Λεπίδα !M! φορές.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
   },
   "Heel Hook": {
     "NAME": "Κλωτσιά-Γάντζος",
@@ -826,7 +827,8 @@
   },
   "Offering": {
     "NAME": "Θυσία",
-    "DESCRIPTION": "Χάσε 4 ΒΥ. NL Πάρε [R] [R]. NL Τράβηξε !M! κάρτες. NL Εξάντληση."
+    "DESCRIPTION": "Χάσε 4 ΒΥ. NL Πάρε [R] [R]. NL Τράβηξε !M! κάρτες. NL Εξάντληση.",
+    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
     "NAME": "Υπεροχή",
@@ -899,7 +901,8 @@
   },
   "Pummel": {
     "NAME": "Γρονθοκόπηση",
-    "DESCRIPTION": "Κάνε !D! ζημιά !M! φορές. NL Εξάντληση."
+    "DESCRIPTION": "Κάνε !D! ζημιά !M! φορές. NL Εξάντληση.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Purity": {
     "NAME": "Αγνότητα",
@@ -968,7 +971,8 @@
   },
   "Reprogram": {
     "NAME": "Aναπρογραμματισμός",
-    "DESCRIPTION": "Κοίτα τις πρώτες !M! κάρτες στη Στοίβας Τραβήγματος. Απέρριψε όσες θες."
+    "DESCRIPTION": "Κοίτα τις πρώτες !M! κάρτες στη Στοίβας Τραβήγματος. Απέρριψε όσες θες.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
   },
   "Riddle With Holes": {
     "NAME": "Γεμάτος τρύπες",

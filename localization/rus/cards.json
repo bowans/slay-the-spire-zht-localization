@@ -270,7 +270,7 @@
   },
   "Cold Snap": {
     "NAME": "Стужа",
-    "DESCRIPTION": "Наносит !D! урона. Заряжает !M! Сфер Льда."
+    "DESCRIPTION": "Наносит !D! урона. Заряжает !M! Сферу Льда."
   },
   "Combust": {
     "NAME": "Самовозгорание",
@@ -285,7 +285,7 @@
     "DESCRIPTION": "Вы сбрасываете !M! карты. NL Даёт [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Энергосбережение",
+    "NAME": "Подзарядка",
     "DESCRIPTION": "Даёт !B! Защиты. NL Даёт [B] в вашем след. ходу."
   },
   "Consume": {
@@ -340,7 +340,7 @@
   "Darkness": {
     "NAME": "Мгла",
     "DESCRIPTION": "Заряжает !M! Сферу Тьмы.",
-    "UPGRADE_DESCRIPTION": "Заряжает !M! Сферы Тьмы."
+    "UPGRADE_DESCRIPTION": "Заряжает !M! Сферы Тьмы."
   },
   "Dash": {
     "NAME": "Рывок",
@@ -450,7 +450,7 @@
   },
   "Electrodynamics": {
     "NAME": "Электродинамика",
-    "DESCRIPTION": "Сферы Молнии бьют по ВСЕМ врагам. NL Заряжает !M! Сфер Молнии.",
+    "DESCRIPTION": "Сферы Молнии бьют по ВСЕМ врагам. NL Заряжает !M! Сферы Молнии.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
@@ -599,8 +599,8 @@
   },
   "Glacier": {
     "NAME": "Ледник",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Заряжает !M! Сфер Льда.",
-    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Заряжает !M! Сфер Льда."
+    "DESCRIPTION": "Даёт !B! Защиты. NL Заряжает !M! Сферы Льда.",
+    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Заряжает !M! Сферы Льда."
   },
   "Glass Knife": {
     "NAME": "Хрустальный нож",
@@ -630,11 +630,12 @@
   "Heatsinks": {
     "NAME": "Теплоотводы",
     "DESCRIPTION": "Вы берёте !M! карту, когда разыгрываете Талант.",
-    "UPGRADE_DESCRIPTION": "Вы берёте !M! карт, когда разыгрываете Талант."
+    "UPGRADE_DESCRIPTION": "Вы берёте !M! карты, когда разыгрываете Талант."
   },
   "Heavy Blade": {
     "NAME": "Увесистый клинок",
-    "DESCRIPTION": "Наносит !D! урона. NL Сила влияет на эту карту !M! раз(а)."
+    "DESCRIPTION": "Наносит !D! урона. NL Сила влияет на эту карту !M! раз(а).",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
   },
   "Heel Hook": {
     "NAME": "Захват ноги",
@@ -834,7 +835,8 @@
   },
   "Offering": {
     "NAME": "Подношение",
-    "DESCRIPTION": "Отнимает 4 О3 и NL даёт [R] [R]. NL Вы берёте !M! карт(ы). NL Сжигается."
+    "DESCRIPTION": "Отнимает 4 О3 и NL даёт [R] [R]. NL Вы берёте !M! карт(ы). NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
     "NAME": "Перехитрить",
@@ -897,6 +899,10 @@
     "DESCRIPTION": "Вы берёте !M! карту, NL затем сбрасываете !M! карту.",
     "UPGRADE_DESCRIPTION": "Вы берёте !M! карты, NL затем сбрасываете !M! карты."
   },
+  "Pride": {
+    "NAME": "Гордыня",
+    "DESCRIPTION": "Начальная. Сжигается. NL Вы кладёте копию этой карты на верх стопки добора в конце вашего хода."
+  },
   "Prime": {
     "NAME": "Подгрузка",
     "DESCRIPTION": "Вы берёте !M! карту, когда Заряжаете сферу."
@@ -907,7 +913,8 @@
   },
   "Pummel": {
     "NAME": "Избиение",
-    "DESCRIPTION": "Наносит !D! урона !M! раз(а). NL Сжигается."
+    "DESCRIPTION": "Наносит !D! урона !M! раз(а). NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Purity": {
     "NAME": "Очищение",
@@ -976,7 +983,8 @@
   },
   "Reprogram": {
     "NAME": "Программирование",
-    "DESCRIPTION": "Просмотрите !M! карт на верху стопки добора. Вы сможете сбросить любые из них."
+    "DESCRIPTION": "Просмотрите !M! карт(ы) на верху стопки добора. Вы сможете сбросить любые из них.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
   },
   "Riddle With Holes": {
     "NAME": "Изрешетить",
@@ -1288,9 +1296,5 @@
   "Zap": {
     "NAME": "Шок",
     "DESCRIPTION": "Заряжает !M! Сфер Молнии."
-  },
-  "Pride": {
-    "NAME": "Pride",
-    "DESCRIPTION": "Innate. NL Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
   }
 }

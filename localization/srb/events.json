@@ -180,6 +180,19 @@
       "Izaberi kartu koju hoćeš da dupliraš."
     ]
   },
+  "FaceTrader": {
+    "NAME": "Trgovac licima",
+    "DESCRIPTIONS": [
+      "IZGLEDAŠ KAO DA TI TREBA NOVO LICE!",
+      "UŽIVAJ U SVOM NOVOM LICU!"
+    ],
+    "OPTIONS": [
+      "[Nlotova maska] #gSvaki #gput #gkada #godigraš #gretku #gkartu, #gzadobi #gtri #godbrane.",
+      "[Glava guuuuujjjeeee] #gSvaki #gput #gkada #gse #gnađeš #gu #gdogađaju, #gzadobi #gpedeset #gzlata.",
+      "[Lice Pope] #gPovećaj #gsvoje #gmaks. #gž. #gp. #gza #gjedan #gposle #gsvake #gborbe.",
+      "[Pođi]"
+    ]
+  },
   "Falling": {
     "NAME": "Padanje",
     "DESCRIPTIONS": [
@@ -188,7 +201,7 @@
       "Prizemljiš se neverovatno graciozno. Nastavljaš dalje.",
       "Koncentrišući nešto svoje sirove moći, uspevaš da se prizemljiš bez povreda.",
       "Zakačiš se na zid. Kratkim odskokom uspeš da dospeš do druge stabilne platforme.",
-      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
+      "Padaš lagano kao perce, stižući do dna bez ijedne ogrebotine."
     ],
     "OPTIONS": [
       "[Dalje]",
@@ -199,7 +212,7 @@
       "[Udari] #rIzgubi #rkartu ",
       "[Zaključano] Zahteva: napad",
       "[Pođi]",
-      "[Land] "
+      "[Prizemlji se] "
     ]
   },
   "Forgotten Altar": {
@@ -412,8 +425,8 @@
     "OPTIONS": [
       "[U ratu sam] #rSuoči #rse #rsa #rvoždom #riz #rprvog #rčina. #gOsvoji #gretku #grelikviju.",
       "[Bogat sam] #gZadobi #g999 #gzlata. #rPostani #rdvostruko #rometen.",
-      "[Zdrav sam] #gU #gpotpunosti #gse #gzaceli. #rPočinješ #rda #rsumnjaš.",
-      "[Budan sam] #gPoboljšaj #gsve #gkarte. #rViše #rne #rmožeš #rda #rse #rzaceljuješ.",
+      "[Zdrav sam] #gU #gpotpunosti #gse #gzaleči. #rPočinješ #rda #rsumnjaš.",
+      "[Budan sam] #gPoboljšaj #gsve #gkarte. #rViše #rne #rmožeš #rda #rse #rzalečuješ.",
       "[Pođi]"
     ]
   },
@@ -815,19 +828,6 @@
       "[Ne diraj] #rIzgubi #r",
       " #rzlata.",
       "[Pođi]"
-    ]
-  },
-  "FaceTrader": {
-    "NAME": "Face Trader",
-    "DESCRIPTIONS": [
-      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
-      "ENJOY YOUR NEW FACE!"
-    ],
-    "OPTIONS": [
-      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
-      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
-      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
-      "[Leave]"
     ]
   }
 }

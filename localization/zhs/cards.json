@@ -626,7 +626,8 @@
   },
   "Heavy Blade": {
     "NAME": "重刃",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 力量 在 重刃 上发挥 !M! 倍效果。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 力量 在 重刃 上发挥 !M! 倍效果。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 力量 在 重刃 上发挥 !M! 倍效果。"
   },
   "Heel Hook": {
     "NAME": "足跟勾",
@@ -826,7 +827,8 @@
   },
   "Offering": {
     "NAME": "祭品",
-    "DESCRIPTION": "失去 4 点生命。 NL 获得 [R] [R] 。 NL 抽 !M! 张牌。 NL 消耗 。"
+    "DESCRIPTION": "失去 4 点生命。 NL 获得 [R] [R] 。 NL 抽 !M! 张牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "失去 4 点生命。 NL 获得 [R] [R] 。 NL 抽 !M! 张牌。 NL 消耗 。"
   },
   "Outmaneuver": {
     "NAME": "抢占先机",
@@ -899,7 +901,8 @@
   },
   "Pummel": {
     "NAME": "连续拳",
-    "DESCRIPTION": "造成 !D! 点伤害 !M! 次。 NL 消耗 。"
+    "DESCRIPTION": "造成 !D! 点伤害 !M! 次。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害 !M! 次。 NL 消耗 。"
   },
   "Purity": {
     "NAME": "净化",
@@ -968,7 +971,8 @@
   },
   "Reprogram": {
     "NAME": "重编程",
-    "DESCRIPTION": "检视你抽牌堆顶部的 !M! 张牌。 你可以选择丢弃其中的任意张。"
+    "DESCRIPTION": "检视你抽牌堆顶部的 !M! 张牌。 你可以选择丢弃其中的任意张。",
+    "UPGRADE_DESCRIPTION": "检视你抽牌堆顶部的 !M! 张牌。 你可以选择丢弃其中的任意张。"
   },
   "Riddle With Holes": {
     "NAME": "千穿百刺",

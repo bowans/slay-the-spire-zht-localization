@@ -199,7 +199,7 @@
       "[Colpisci] #rPerdi ",
       "[Bloccata] Richiede: Carta Attacco",
       "[Esci]",
-      "[Land] "
+      "[Atterra] "
     ]
   },
   "Forgotten Altar": {
@@ -425,7 +425,7 @@
       "Forse è meglio non essere avidi..."
     ],
     "OPTIONS": [
-      "[Apri la Sfera] #rCombatti. #gRicompensa: #gReliquia.",
+      "[Apri la Sfera] #rCombatti. #gRicompensa: #gReliquia #Rara.",
       "[Ignora]",
       "[Combatti]"
     ]
@@ -818,16 +818,16 @@
     ]
   },
   "FaceTrader": {
-    "NAME": "Face Trader",
+    "NAME": "Mercante di Volti",
     "DESCRIPTIONS": [
-      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
-      "ENJOY YOUR NEW FACE!"
+      "SEMBRA CHE POTREBBE SERVIRTI UNA NUOVA FACCIA!",
+      "GODITI IL TUO NUOVO VOLTO!"
     ],
     "OPTIONS": [
-      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
-      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
-      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
-      "[Leave]"
+      "[Maschera di N'Loth] #gOgni #gvolta #gche #ggiochi #guna #gcarta #gRara, #gottieni #g3 #gblocco.",
+      "[Testa del Ssserpente] #gOgni #gvolta #gche #ginizi #gun #gEvento, #gottieni #g50 #gOro.",
+      "[Volto del Chierico] #gAumenta #gi #gtuoi #gPV #gMassimi #gdi #g1 #gdopo #gogni #gcombattimento.",
+      "[Prosegui]"
     ]
   }
 }

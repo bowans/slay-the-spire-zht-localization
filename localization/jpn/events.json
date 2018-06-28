@@ -215,7 +215,7 @@
       "欲張らなくてもいいだろう。"
     ],
     "OPTIONS": [
-      "[球体を開く] #r戦闘。 #g報酬： #gレリック。",
+      "[球体を開く] #r戦闘。 #g報酬： #gレアレリック。",
       "[立ち去る]",
       "[戦闘]"
     ]
@@ -818,16 +818,16 @@
     ]
   },
   "FaceTrader": {
-    "NAME": "Face Trader",
+    "NAME": "貌を売る者",
     "DESCRIPTIONS": [
-      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
-      "ENJOY YOUR NEW FACE!"
+      "どうやら君は新しい顔を使えるようだね！",
+      "新しい顔を楽しんでね！"
     ],
     "OPTIONS": [
-      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
-      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
-      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
-      "[Leave]"
+      "[ヌロスの仮面] #gレアカードをプレイするたび、3ブロックを得る。",
+      "[サ・サ・サーペントの頭部] #gイベントを開始するたび、50ゴールドを得る。",
+      "[聖職者の顔] #g戦闘を終えるたび、最大HP+1。",
+      "[立ち去る]"
     ]
   }
 }

@@ -1,10 +1,10 @@
 {
   "Accursed Blacksmith": {
-    "NAME": "Unheilvolle Schmiede",
+    "NAME": "Verwunschene Schmiede",
     "DESCRIPTIONS": [
       "Du betrittst eine kleine Hütte. Drinnen findest du etwas, das eine Schmiede zu sein scheint. Die Schmiedewerkzeuge sind mit Staub bedeckt, doch im Ofen lodert ein Feuer. Du bist nervös...",
       "Du entschließt dich, die Schmiede zu benutzen und... NL #y@KLONK @ #y@KLOOONK@ #y@KLONK!@ NL ... verbesserst dein Arsenal!",
-      "Du beschließt nachzusehen, ob du etwas Nützliches finden kannst. Nachdem du unter Planen und in Kisten, Ecken und Rissen gesucht hast, findest du ein verstaubtes #y~Relikt!~",
+      "Du beschließt nachzusehen, ob du etwas Nützliches finden kannst. Nachdem du unter Planen und in Kisten, Ecken und Rissen gesucht hast, findest du ein verstaubtes #y~Relikt!~ ",
       "Als du am letzten Schliff arbeitest, greifen die Flammen der Schmiede plötzlich nach dir und #r@verbrennen@ #r@und@ #r@vernarben@ deine Arme...",
       "Du kannst dieses #r~üble~ #r~Gefühl~ nicht abschütteln, als du die Hütte verlässt. Vielleicht hast du eine Art Geist aufgeschreckt?",
       "Es scheint nichts von Nutzen zu geben. Du verschwindest auf dem Weg, den du gekommen bist, während die Flammen des Ofens #p~gespenstische~ #p~Schatten~ an die Innenwände der Hütte werfen..."
@@ -180,6 +180,19 @@
       "Wähle eine Karte zum Duplizieren."
     ]
   },
+  "FaceTrader": {
+    "NAME": "Gesichtshändler",
+    "DESCRIPTIONS": [
+      "DU SIEHST AUS, ALS KÖNNTEST DU EIN NEUES GESICHT GEBRAUCHEN!",
+      "VIEL SPAß MIT DEINEM NEUEN GESICHT!"
+    ],
+    "OPTIONS": [
+      "[N'Loths Maske] #gImmer #gwenn #gdu #geine #gseltene #gKarte #gspielst, #gerhalte #g3 #gBlock.",
+      "[Ssschlangenkopf] #gErhalte #gzu #gBeginn #gjedes #gEreignisses #g50 #gGold.",
+      "[Priesters Gesicht] #gErhöhe #gdeine #gmax. #gTP #gnach #gjedem #gKampf #gum #g1.",
+      "[Verlassen]"
+    ]
+  },
   "Falling": {
     "NAME": "Fallen",
     "DESCRIPTIONS": [
@@ -342,7 +355,7 @@
   "Liars Game": {
     "NAME": "Die Ssssschlange",
     "DESCRIPTIONS": [
-      "Du betrittst einen Raum und findest ein großes Loch im Boden. Als du dich dem Loch näherst, erscheint daraus eine enorme Schlangenkreatur. NL NL ~„Ho~ ~hooo!~ ~Hallo,~ ~hallo!~ ~Was~ ~haben~ ~wir~ ~denn~ ~hier?~ Hallo Abenteurer, ich stelle dir eine einfache Frage. NL Das erfüllteste aller Leben ist das, in dem du #y~alles~ #y~kaufen~ #y~kannst!~ NL Stimmst du zu?“",
+      "Du betrittst einen Raum und findest ein großes Loch im Boden. Als du dich dem Loch näherst, erscheint daraus eine enorme Schlangenkreatur. NL NL ~„Ho~ ~hooo!~ ~Hallo,~ ~hallo!~ ~Was~ ~haben~ ~wir~ ~denn~ ~hier?~ Hallo Abenteurer, ich stelle dir eine einfache Frage. NL Am erfülltesten ist das Leben, in dem du #y~alles~ #y~kaufen~ #y~kannst!~ NL Stimmst du zu?“",
       "~„Geeeewisssssssss!~ NL ~Dassss~ ~wird~ ~esss~ ~wert~ ~ssssein.~ NL ~..ssSSs...~ ~...~ ~ss...~ ~sssss~ ~......!“~",
       "Die Schlange glotzt dich mit dem Anblick extremer Enttäuschung an.",
       "Die Schlange legt ihren Kopf zurück und speit einen Strahl aus #yGold in die Höhe! NL Es ist erstaunlich und furchterregend zugleich. NL Du sammelst das #yGold ein, dankst der Schlange und machst dich auf den Weg."
@@ -440,7 +453,7 @@
       "Kein Grund, gierig zu sein."
     ],
     "OPTIONS": [
-      "[Sphäre öffnen] #rKampf. #gBelohnung: #gRelikt.",
+      "[Sphäre öffnen] #rKampf. #gBelohnung: #gSeltenes #gRelikt.",
       "[Verlassen]",
       "[Kämpfen]"
     ]
@@ -815,19 +828,6 @@
       "[Zurücklassen] #rVerliere #r",
       " #rGold.",
       "[Verlassen]"
-    ]
-  },
-  "FaceTrader": {
-    "NAME": "Face Trader",
-    "DESCRIPTIONS": [
-      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
-      "ENJOY YOUR NEW FACE!"
-    ],
-    "OPTIONS": [
-      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
-      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
-      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
-      "[Leave]"
     ]
   }
 }

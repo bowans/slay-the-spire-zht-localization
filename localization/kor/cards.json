@@ -79,7 +79,8 @@
   },
   "Offering": {
     "NAME": "제물",
-    "DESCRIPTION": "체력을 4 잃습니다. NL [R] [R] 를 얻습니다. NL 카드를 !M! 장 뽑습니다. NL 소멸"
+    "DESCRIPTION": "체력을 4 잃습니다. NL [R] [R] 를 얻습니다. NL 카드를 !M! 장 뽑습니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "체력을 4 잃습니다. NL [R] [R] 를 얻습니다. NL 카드를 !M! 장 뽑습니다. NL 소멸"
   },
   "Exhume": {
     "NAME": "발굴",
@@ -277,7 +278,8 @@
   },
   "Pummel": {
     "NAME": "연타",
-    "DESCRIPTION": " !D! 의 피해를 !M! 번 줍니다. NL 소멸"
+    "DESCRIPTION": " !D! 의 피해를 !M! 번 줍니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Riddle With Holes": {
     "NAME": "벌집",
@@ -593,7 +595,8 @@
   },
   "Heavy Blade": {
     "NAME": "대검",
-    "DESCRIPTION": " !D! 의 피해를 줍니다. NL 힘 의 효과가 !M! 배로 적용됩니다."
+    "DESCRIPTION": " !D! 의 피해를 줍니다. NL 힘 의 효과가 !M! 배로 적용됩니다.",
+    "UPGRADE_DESCRIPTION": "!D! 의 피해를 줍니다. NL 힘 의 효과가 !M! 배로 적용됩니다."
   },
   "Clumsy": {
     "NAME": "서투름",
@@ -1042,7 +1045,8 @@
   },
   "Reprogram": {
     "NAME": "재구성",
-    "DESCRIPTION": "뽑을 카드 더미 위의 카드 !M! 장을 봅니다. 그 중에서 원하는 만큼 카드를 버립니다."
+    "DESCRIPTION": "뽑을 카드 더미 위의 카드 !M! 장을 봅니다. 그 중에서 원하는 만큼 카드를 버립니다.",
+    "UPGRADE_DESCRIPTION": "뽑을 카드 더미 위의 카드 !M! 장을 봅니다. 그 중에서 원하는 만큼 카드를 버립니다."
   },
   "Cache": {
     "NAME": "deprecated",
@@ -1222,7 +1226,7 @@
     "UPGRADE_DESCRIPTION": "뽑을 카드 더미에서 카드 !M! 장을 골라 손으로 가져옵니다. NL 소멸"
   },
   "Echo Form": {
-    "NAME": "메아리",
+    "NAME": "메아리화",
     "DESCRIPTION": "매 턴 처음 사용하는 카드가 두 번 사용됩니다. NL 휘발성",
     "UPGRADE_DESCRIPTION": "매 턴 처음 사용하는 카드가 두 번 사용됩니다."
   },

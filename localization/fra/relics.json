@@ -192,7 +192,7 @@
     "NAME": "Bandeau",
     "FLAVOR": "Vous avez trouvé toutes les reliques. Impressionnant !",
     "DESCRIPTIONS": [
-      "C'est très joli."
+      "Collectionnez-les toutes !"
     ]
   },
   "The Courier": {
@@ -1211,30 +1211,30 @@
     "NAME": "Brûleur d'encens",
     "FLAVOR": "La fumée imprègne son propriétaire de l'esprit du brûlé.",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
-    ]
-  },
-  "SsserpentHead": {
-    "NAME": "Ssserpent Head",
-    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
-    "DESCRIPTIONS": [
-      "Whenever you begin an Event, gain #b",
-      " #yGold."
+      "Tous les #b5 tours, gagnez #b1 #yIntangible."
     ]
   },
   "NlothsMask": {
-    "NAME": "N'Loth's Mask",
-    "FLAVOR": "You feel hungry.",
+    "NAME": "Masque de N'Loth",
+    "FLAVOR": "Vous avez faim.",
     "DESCRIPTIONS": [
-      "Whenever you play a Rare card, gain #b",
-      " #yBlock."
+      "Quand vous jouez une carte Rare, gagnez #b",
+      " #yd'Armure."
     ]
   },
   "FaceOfCleric": {
-    "NAME": "Face Of Cleric",
-    "FLAVOR": "Everyone loves Cleric.",
+    "NAME": "Tête de Clerc",
+    "FLAVOR": "Tout le monde aime Clerc.",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b1 after each combat."
+      "Gagnez #b1 PV Max après chaque combat."
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Tête de ssserpent",
+    "FLAVOR": "La plus belle est vie est celle dans laquelle vous pouvez #ytout #yacheter !",
+    "DESCRIPTIONS": [
+      "Au début de chaque événement, gagnez #b",
+      " #yd'or."
     ]
   }
 }

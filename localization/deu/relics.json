@@ -372,6 +372,13 @@
       " TP, wenn du dich an einem Lagerfeuer befindest."
     ]
   },
+  "FaceOfCleric": {
+    "NAME": "Priesters Gesicht",
+    "FLAVOR": "Alle lieben Priester.",
+    "DESCRIPTIONS": [
+      "Erhöhe deine max. TP nach jedem Kampf um #b1."
+    ]
+  },
   "Frozen Egg": {
     "NAME": "Gefrorenes Ei",
     "FLAVOR": "Das Ei ist erstarrt und gefroren, aus ihm wird nie etwas schlüpfen.",
@@ -616,7 +623,7 @@
     "NAME": "Mumifizierte Hand",
     "FLAVOR": "Zuckt oft, vor allem, wenn du einen hohen Puls hast.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #yMacht ausspielst, kostet eine zufällige Karte auf deiner Hand in diesem Zug #b0."
+      "Immer wenn du eine #yMacht ausspielst, kostet eine zufällige Handkarte in diesem Zug #b0."
     ]
   },
   "Necronomicon": {
@@ -666,6 +673,14 @@
     "FLAVOR": "Das seltsame Geschenk von N’loth. Immer wenn du versuchst, es auszupacken, findest du darin ein gleich großes verpacktes Geschenk.",
     "DESCRIPTIONS": [
       "#bVerdreifacht die Chance auf seltene Karten als Monsterbelohnungen."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loths Maske",
+    "FLAVOR": "Du verspürst Hunger.",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine seltene Karte spielst, erhalte #b",
+      " #yBlock."
     ]
   },
   "Nuclear Battery": {
@@ -809,7 +824,7 @@
     "NAME": "Gebetsmühle",
     "FLAVOR": "Das Rad dreht sich immerfort und bleibt nie stehen.",
     "DESCRIPTIONS": [
-      "Reguläre Gegner lassen jetzt ein weiteres mal Karten fallen."
+      "Reguläre Gegner lassen jetzt ein weiteres Mal Karten fallen."
     ]
   },
   "Question Card": {
@@ -967,6 +982,14 @@
     "FLAVOR": "Die verkohlten Überreste deiner Opfergaben an die Geister.",
     "DESCRIPTIONS": [
       "Ziemlich widerlich."
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssschlangenkopf",
+    "FLAVOR": "Am erfülltesten ist das Leben, in dem du #yalles #ykaufen #ykannst!",
+    "DESCRIPTIONS": [
+      "Erhalte zu Beginn jedes Ereignisses #b",
+      " #yGold."
     ]
   },
   "Strange Spoon": {
@@ -1212,29 +1235,6 @@
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
       "Tränke werden immer nach dem Kampf fallen gelassen."
-    ]
-  },
-  "FaceOfCleric": {
-    "NAME": "Face Of Cleric",
-    "FLAVOR": "Everyone loves Cleric.",
-    "DESCRIPTIONS": [
-      "Raise your Max HP by #b1 after each combat."
-    ]
-  },
-  "SsserpentHead": {
-    "NAME": "Ssserpent Head",
-    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
-    "DESCRIPTIONS": [
-      "Whenever you begin an Event, gain #b",
-      " #yGold."
-    ]
-  },
-  "NlothsMask": {
-    "NAME": "N'Loth's Mask",
-    "FLAVOR": "You feel hungry.",
-    "DESCRIPTIONS": [
-      "Whenever you play a Rare card, gain #b",
-      " #yBlock."
     ]
   }
 }

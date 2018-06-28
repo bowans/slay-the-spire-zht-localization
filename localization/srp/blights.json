@@ -2,9 +2,16 @@
   "Accursed": {
     "NAME": "Копље Буђи",
     "DESCRIPTION": [
-      "По узимању, добијаш #b",
-      " насумичне #yклетве.",
-      "Accursed!"
+      "Сваки пут када поразиш вожда, добијаш #b",
+      " насумичних #yклетве.",
+      ""
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Изопачени дуријан",
+    "DESCRIPTION": [
+      "Изгуби #b",
+      "% својих макс. ж. п."
     ]
   },
   "DeadlyEnemies": {
@@ -14,24 +21,60 @@
       "% више штете."
     ]
   },
+  "FullBelly": {
+    "NAME": "Брњица",
+    "DESCRIPTION": [
+      "Више не можеш да повећаш своје макс. ж. п. Све залечивање је упола делотворно."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Авети",
+    "DESCRIPTION": [
+      "Непријатељи почињу са следећим бројем #yнеопипљивости: #b",
+      "."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Гротескни трофеј",
+    "DESCRIPTION": [
+      "По узимању, добијаш #b",
+      " #rПоноса.",
+      "Твој понос се изопачује..."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Древно побољшање",
+    "DESCRIPTION": [
+      "Непријатељи почињу са: #yзаштитом - #b",
+      ", #yопточеним #yоклопом - #b",
+      ", и #yзалечењем - #b",
+      "."
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Инфестација подражавача",
+    "DESCRIPTION": [
+      "Собе са благом су замењени челницима у будућим чиновима. Челници више не испуштају реликвије."
+    ]
+  },
   "Scatterbrain": {
     "NAME": "Сметен",
     "DESCRIPTION": [
-      "По узимању, задоби #b",
-      " насумичне карте.",
-      "Scatterbrained!"
+      "Вуци #b",
+      " мање карата по потезу.",
+      ""
     ]
   },
   "TimeMaze": {
-    "NAME": "Time Maze",
+    "NAME": "Временски лавиринт",
     "DESCRIPTION": [
-      "Непријатељи имају Временски лавиринт моћ.",
-      " cards per turn.",
-      "I can only play up to NL #r"
+      "Не можеш да одиграш више од #b",
+      " карата по потезу.",
+      "Могу да одиграм само још следећи број карата: NL #r"
     ]
   },
   "ToughEnemies": {
-    "NAME": "Tough Enemies",
+    "NAME": "Жилави непријатељи",
     "DESCRIPTION": [
       "Непријатељи имају #b",
       "% више ж. п."
@@ -40,60 +83,17 @@
   "TwistingMind": {
     "NAME": "Искривљени ум",
     "DESCRIPTION": [
-      "По узимању, #yпреобрази #b",
-      " карте.",
-      "Transformation!"
-    ]
-  },
-  "MimicInfestation": {
-    "NAME": "Mimic Infestation",
-    "DESCRIPTION": [
-      "Treasure rooms in future acts are replaced by Elites."
-    ]
-  },
-  "FullBelly": {
-    "NAME": "Full Belly",
-    "DESCRIPTION": [
-      "You can no longer increase your Max HP. All healing is halved."
-    ]
-  },
-  "GrotesqueTrophy": {
-    "NAME": "Grotesque Trophy",
-    "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " #rPrides.",
-      "Your Pride is twisted..."
-    ]
-  },
-  "BlightedDurian": {
-    "NAME": "Blighted Durian",
-    "DESCRIPTION": [
-      "Lose #b",
-      "% of your Max HP."
+      "На крају свог потеза, додај #b",
+      " насумичних Стања на врх гомиле за вучење.",
+      ""
     ]
   },
   "VoidEssence": {
-    "NAME": "Void Essence",
+    "NAME": "Суштина ништавила",
     "DESCRIPTION": [
-      "Gain 1 less [R] at the start of each turn.",
-      "Gain 1 less [G] at the start of each turn.",
-      "Gain 1 less [B] at the start of each turn."
-    ]
-  },
-  "GraspOfShadows": {
-    "NAME": "Grasp Of Shadows",
-    "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yIntangible."
-    ]
-  },
-  "MetallicRebirth": {
-    "NAME": "Metallic Rebirth",
-    "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yArtifact, #b",
-      " #yPlated #yArmor, and #b",
-      " #yRegenerate."
+      "Задоби једну мање [R] на почетку сваког потеза.",
+      "Задоби једну мање [G] на почетку сваког потеза",
+      "Задоби једну мање [B] на почетку сваког потеза"
     ]
   }
 }

@@ -129,6 +129,11 @@
       " Sbloccata!"
     ]
   },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Modalità Ascensione Sbloccata!"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Scegli un'Attacco da Aggiungere alla Mano"
@@ -614,7 +619,7 @@
       "Destra (Alt)*",
       "Su",
       "Giù",
-      "Controller Enabled"
+      "Controller Abilitato"
     ]
   },
   "LanguageDropdown": {
@@ -781,8 +786,8 @@
       "Sconosciuto",
       "Vinci una Sfida del Giorno per sbloccare questa opzione.",
       "Questa opzione non è ancora disponibile.",
-      "Infinito",
-      "Se vinci tornerai all'Esordio con lo stesso mazzo. \n\n Attenzione: la corruzione consuma tutto, NL alla fine..."
+      "Partita Personalizzata",
+      "Scegli le caratteristiche della sfida che vuoi affrontare."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1151,9 +1156,17 @@
       " Hai Sbloccato Qualcosa!"
     ]
   },
-  "AscensionUnlockEffect": {
+  "CustomModeScreen": {
     "TEXT": [
-      "Ascension Unlocked!"
+      "Partita Personalizzata",
+      "Achievements e Punteggi non sono disponibili per questa modalità.",
+      "Personaggi",
+      "Ascensione",
+      "Livello ",
+      "Modalità Ascensione",
+      "Modificatori",
+      "Seed",
+      "Scegli il Seed"
     ]
   }
 }

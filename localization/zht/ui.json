@@ -155,7 +155,7 @@
       "跳過",
       "現在投票： ",
       "秒後結束。",
-      "Choose a Blight"
+      "選擇一項荒疫"
     ]
   },
   "CacheAction": {
@@ -614,7 +614,7 @@
       "右（備用）*",
       "上",
       "下",
-      "Controller Enabled"
+      "已啟用控制器"
     ]
   },
   "LanguageDropdown": {
@@ -1153,7 +1153,20 @@
   },
   "AscensionUnlockEffect": {
     "TEXT": [
-      "Ascension Unlocked!"
+      "解鎖進階模式！"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed"
     ]
   }
 }

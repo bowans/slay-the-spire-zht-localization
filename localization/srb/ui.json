@@ -129,6 +129,11 @@
       ". nivo Uspinjanja!"
     ]
   },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Uspinjanje otkučano!"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Izaberi napad koji ćeš dodati u ruku"
@@ -155,7 +160,7 @@
       "Preskoči",
       "GLASAJ: ",
       "s preostalo.",
-      "Choose a Blight"
+      "Suoči se sa pošasti"
     ]
   },
   "CacheAction": {
@@ -614,7 +619,7 @@
       "Desno (dr.)*",
       "Gore",
       "Dole",
-      "Controller Enabled"
+      "Kontroler je omogućen"
     ]
   },
   "LanguageDropdown": {
@@ -779,7 +784,7 @@
       "",
       "Pogledaj ko je sve doprineo Pohodu na Toranj!",
       "Nepoznato",
-      "Pobedi dnevni pohod kako bi otključao ovaj režim.",
+      "Pobedi dnevni pohod da otključaš ovaj režim.",
       "Ovaj deo je nedostupan.",
       "U nedogled",
       "Pobeda te vraća u Preludijum sa istim špilom. \n\nImaj na umu, Buđ eventualno guta sve..."
@@ -1151,9 +1156,17 @@
       "Nešto si otključao!"
     ]
   },
-  "AscensionUnlockEffect": {
+  "CustomModeScreen": {
     "TEXT": [
-      "Ascension Unlocked!"
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed"
     ]
   }
 }

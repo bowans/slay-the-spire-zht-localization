@@ -129,6 +129,11 @@
       ". ниво Успињања!"
     ]
   },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Успињање откучано!"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Изабери напад који ћеш додати у руку"
@@ -155,7 +160,7 @@
       "Прескочи",
       "ГЛАСАЈ: ",
       "с преостало.",
-      "Choose a Blight"
+      "Суочи се са пошасти"
     ]
   },
   "CacheAction": {
@@ -614,7 +619,7 @@
       "Десно (др.)*",
       "Горе",
       "Доле",
-      "Controller Enabled"
+      "Контролер је омогућен"
     ]
   },
   "LanguageDropdown": {
@@ -779,7 +784,7 @@
       "",
       "Погледај ко је све допринео Походу на Торањ!",
       "Непознато",
-      "Победи дневни поход како би откључао овај режим.",
+      "Победи дневни поход да откључаш овај режим.",
       "Овај део је недоступан.",
       "У недоглед",
       "Победа те враћа у Прелудијум са истим шпилом. \n\nИмај на уму, Буђ евентуално гута све..."
@@ -1151,9 +1156,17 @@
       "Нешто си откључао!"
     ]
   },
-  "AscensionUnlockEffect": {
+  "CustomModeScreen": {
     "TEXT": [
-      "Ascension Unlocked!"
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed"
     ]
   }
 }

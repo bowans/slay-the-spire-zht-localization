@@ -626,7 +626,8 @@
   },
   "Heavy Blade": {
     "NAME": "重刃",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 力量 在 重刃 上發揮 !M! 倍效果。"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 力量 在 重刃 上發揮 !M! 倍效果。",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
   },
   "Heel Hook": {
     "NAME": "腳跟鎖",
@@ -826,7 +827,8 @@
   },
   "Offering": {
     "NAME": "祭品",
-    "DESCRIPTION": "失去 4 點生命。 NL 獲得 [R] [R] 。 NL 抽 !M! 張牌。 NL 消耗 。"
+    "DESCRIPTION": "失去 4 點生命。 NL 獲得 [R] [R] 。 NL 抽 !M! 張牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
     "NAME": "搶佔先機",
@@ -899,7 +901,8 @@
   },
   "Pummel": {
     "NAME": "連續拳",
-    "DESCRIPTION": "造成 !D! 點傷害 !M! 次。 NL 消耗 。"
+    "DESCRIPTION": "造成 !D! 點傷害 !M! 次。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Purity": {
     "NAME": "淨化",
@@ -968,7 +971,8 @@
   },
   "Reprogram": {
     "NAME": "改編程式",
-    "DESCRIPTION": "檢視你抽牌堆頂部的 !M! 張牌。 你可以選擇丟棄其中的任意張。"
+    "DESCRIPTION": "檢視你抽牌堆頂部的 !M! 張牌。 你可以選擇丟棄其中的任意張。",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
   },
   "Riddle With Holes": {
     "NAME": "千穿百刺",
@@ -1290,7 +1294,7 @@
     "DESCRIPTION": "造成 !D! 點傷害。 如果這張牌殺死敵人，它在本局遊戲中的傷害永久性增加 !M! 。 消耗 。"
   },
   "Pride": {
-    "NAME": "Pride",
-    "DESCRIPTION": "Innate. NL Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
+    "NAME": "傲慢",
+    "DESCRIPTION": "固有 。NL 消耗 。 NL 你的回合結束時，在抽牌堆頂部加入一張這張牌的複製品。"
   }
 }

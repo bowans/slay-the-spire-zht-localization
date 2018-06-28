@@ -45,7 +45,7 @@ None, # Hidden
 (7,6), # "Neon"
 None, # "Energy is Overrated"
 (7,7), # "My Lucky Day"
-None, # "The Transient"
+(7,8), # "The Transient"
 ]
 ### DO NOT MODIFY BELOW THIS LINE
 import sys

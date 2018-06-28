@@ -79,7 +79,8 @@
   },
   "Offering": {
     "NAME": "Adak",
-    "DESCRIPTION": "4 HP kaybet. NL [R] [R] kazan. NL !M! kart çek. NL Tüken."
+    "DESCRIPTION": "4 HP kaybet. NL [R] [R] kazan. NL !M! kart çek. NL Tüken.",
+    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Exhume": {
     "NAME": "Canlandır",
@@ -277,7 +278,8 @@
   },
   "Pummel": {
     "NAME": "Yumrukla",
-    "DESCRIPTION": " !M! kere !D! hasar ver. NL Tüken."
+    "DESCRIPTION": " !M! kere !D! hasar ver. NL Tüken.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Riddle With Holes": {
     "NAME": "Delikli Bilmece",
@@ -593,7 +595,8 @@
   },
   "Heavy Blade": {
     "NAME": "Ağır Kılıç",
-    "DESCRIPTION": " !D! hasar ver. NL Kuvvet Ağır Kılıç'ı !M! kez etkiler."
+    "DESCRIPTION": " !D! hasar ver. NL Kuvvet Ağır Kılıç'ı !M! kez etkiler.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
   },
   "Clumsy": {
     "NAME": "Sakar",
@@ -1042,7 +1045,8 @@
   },
   "Reprogram": {
     "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
   },
   "Cache": {
     "NAME": "Cache",

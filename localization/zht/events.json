@@ -188,7 +188,7 @@
       "你以優雅的姿勢落地，繼續前行。",
       "你催動自己的力量，成功在落地時避免了損傷。",
       "你成功掛在了牆上，一個小跳翻上了一個穩固的平台。",
-      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
+      "你有如羽毛一般緩緩降落，安然無恙地落了地。"
     ],
     "OPTIONS": [
       "[繼續]",
@@ -199,7 +199,7 @@
       "[猛擊] #r失去 ",
       "[鎖定] 需要： 攻擊牌",
       "[離開]",
-      "[Land] "
+      "[落地] "
     ]
   },
   "Forgotten Altar": {
@@ -818,16 +818,16 @@
     ]
   },
   "FaceTrader": {
-    "NAME": "Face Trader",
+    "NAME": "換臉商",
     "DESCRIPTIONS": [
-      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
-      "ENJOY YOUR NEW FACE!"
+      "哎呀！閣下看起來應該換張臉啊！！",
+      "新臉愉快啊！！"
     ],
     "OPTIONS": [
-      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
-      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
-      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
-      "[Leave]"
+      "[恩洛斯的面具] #g每次打出稀有牌時獲得3點格擋。",
+      "[蛇的頭] #g每次遇到事件時獲得50金幣。",
+      "[牧師的臉] #g每場戰鬥後你的最大生命值增加1。",
+      "[離開]"
     ]
   }
 }
