@@ -802,7 +802,7 @@
     "NAME": "巢穴",
     "DESCRIPTIONS": [
       "你看見一長串 #b~戴著兜帽的人們~ 正魚貫走進一座 #p看起來沒什麼特別的大教堂。",
-      "於是你理所當然地加入了隊伍裡，很快你的周圍就站滿了 #r邪教徒 ！ NL 他們似乎沒有發現你，只是興奮地 ~揮舞著~ 自己的武器並喜悅地 @呼喊@ 著些什麼。 NL NL #r@「殺！@ #r@殺～@ #r@殺殺殺！！」@ NL #b~“哢～~ #b~哢～~ #b~哢—哢！”~ NL #r@「殺！@ #r@殺～@ #r@殺殺殺！！」@ NL #b~「哢～~ #b~哢～~ #b~哢—哢！」~ NL NL 你看到前面有一個 #y捐款箱 ……",
+      "於是你理所當然地加入了隊伍裡，很快你的周圍就站滿了 #r邪教徒 ！ NL 他們似乎沒有發現你，只是興奮地 ~揮舞著~ 自己的武器並喜悅地 @呼喊@ 著些什麼。 NL NL #r@「殺！@ #r@殺～@ #r@殺殺殺！！」@ NL #b~「哢～~ #b~哢～~ #b~哢—哢！」~ NL #r@「殺！@ #r@殺～@ #r@殺殺殺！！」@ NL #b~「哢～~ #b~哢～~ #b~哢—哢！」~ NL NL 你看到前面有一個 #y捐款箱 ……",
       "你（可能是出於害怕）決定留在佇列中，看看究竟會發生什麼。 NL NL 最終你到達了隊伍的最前，與教徒的領袖面對面。 一名身著華服的邪教徒交給你一把 #y華麗的匕首 。 你照著之前所有人的樣子，用匕首在自己的手臂上劃開了一道口子，讓鮮血滴入了下方一個形狀奇怪的碗。 NL NL 邪教徒們開始對你 @大喊@ @大叫@ ！ NL NL #b~「哢～~ #b~哢～~ #b~哢——哢！」~ NL NL 你也跟著喊了起來。為什麼不呢？",
       "他們甚至完全沒有注意到你的行動。",
       "",
@@ -820,18 +820,18 @@
   "FaceTrader": {
     "NAME": "換臉商",
     "DESCRIPTIONS": [
-      "哎呀！閣下看起來應該換張臉啊！！",
-      "新臉愉快啊！！",
-      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
-      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
-      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
+      "你經過一尊舉著許多不同的面具的奇怪雕像，但沒走幾步…… NL 你就聽見身後傳來一個輕柔的聲音： NL ~「請留步。」~",
+      "你回了回頭，卻發現那尊雕像也已經轉向了你！ NL 仔細一看，原來這並不是一尊雕像，只是一個膚色如同雕像的消瘦男人……他是不是根本沒有在呼吸？ NL NL ~「你的臉。~ ~讓我碰碰？~ ~或者，想要交易？」~",
+      "~「補償嗎？~ ~當然了。」~ NL 他動作機械地伸出手，將一疊 #y金幣 放進了你的錢袋裡。 NL NL ~「真是張好臉。~ ~啊啊，多好的臉。」~ NL 當他觸碰你的臉頰時，你覺得自己的生命好像正在流失！ NL 突然之間，只見他戴著的面具掉落了下來在地上摔得粉碎。他立即尖叫起來，六隻手飛快地捂住了自己的臉，這下那些面具全都摔落下來了！在這淒厲的尖叫與眾多面具粉碎的聲音中，你趕緊逃離了這裡。 NL NL 你在不經意間瞥到了他面具下的樣子：他的臉是一片完全的空白。",
+      "~「和我？~ @和我嗎？@ ~啊，當然了……~ ~可以。~ ~可以……~ ~唔嗯……」~ NL NL 你看見他的一根手臂抖動了一下，突然你的臉出現在了他的手裡！似乎你的臉和那個面具交換了。 NL NL ~「很好的臉。~ ~嗯，很好的臉。」~",
+      "~「留步。~ ~留步啊。~ ~請留步。~ ~請留步。~ ~請留步。」~ NL NL 你覺得自己做出了正確的選擇。"
     ],
     "OPTIONS": [
-      "[恩洛斯的面具] #g每次打出稀有牌時獲得3點格擋。",
-      "[蛇的頭] #g每次遇到事件時獲得50金幣。",
-      "[牧師的臉] #g每場戰鬥後你的最大生命值增加1。",
+      "[觸碰] #r失去最大生命值10%的生命， #g獲得 #g",
+      " #g金幣。",
+      "[交易] #g50%：獲得好臉。 #r50%：獲得壞臉。",
       "[離開]",
-      "[Continue]"
+      "[繼續]"
     ]
   }
 }
