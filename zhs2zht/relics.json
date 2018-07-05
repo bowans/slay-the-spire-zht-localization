@@ -1218,16 +1218,16 @@
     "NAME": "蛇的頭",
     "FLAVOR": "最幸福的人生當然就是什麼東西都能買得起的土豪生活了！",
     "DESCRIPTIONS": [
-      "每次遇到事件時獲得 #b",
+      "每次進入？房間時獲得 #b",
       " #y金幣 。"
     ]
   },
   "NlothsMask": {
-    "NAME": "恩洛斯的面具",
+    "NAME": "恩洛斯的饑餓的臉",
     "FLAVOR": "你覺得好餓。",
     "DESCRIPTIONS": [
-      "每次打出稀有牌時獲得 #b",
-      " 點 #y格擋 。"
+      "你打開的下一個非Boss寶箱將是空的。",
+      ""
     ]
   },
   "FaceOfCleric": {
@@ -1235,6 +1235,57 @@
     "FLAVOR": "人人都愛牧師。",
     "DESCRIPTIONS": [
       "每場戰鬥後你的最大生命值增加 #b1 。"
+    ]
+  },
+  "CultistMask": {
+    "NAME": "邪教徒頭套",
+    "FLAVOR": "自己人！自己人！",
+    "DESCRIPTIONS": [
+      "你覺得自己有開腔的欲望。",
+      "@哢！@ NL @哢哢！@"
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "地精容貌",
+    "FLAVOR": "嗚哇，好想逃跑。",
+    "DESCRIPTIONS": [
+      "在每場戰鬥開始時，你擁有 #b1 層 #y虛弱 。"
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "算盤",
+    "FLAVOR": "“一……二……三……”",
+    "DESCRIPTIONS": [
+      "你每次將抽牌堆洗牌時，獲得 #b6 點 #y格擋 。"
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "多利之鏡",
+    "FLAVOR": "“照出來我的樣子怪怪的。”",
+    "DESCRIPTIONS": [
+      "拾起時，從你的牌組中選擇一張牌進行複製。",
+      "選擇1張牌複製。"
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "工藝機械鐘錶",
+    "FLAVOR": "“你看裡面齒輪這麼多，是不是很精巧。”",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，獲得 #b1 層 #y人工製品 。"
+    ]
+  },
+  "MealTicket": {
+    "NAME": "餐券",
+    "FLAVOR": "“這裡的肉丸子可是有名的！以後每次來都可以嘗嘗哦！”",
+    "DESCRIPTIONS": [
+      "每當你進入商店房間時，回復 #b7 點生命。"
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "扭曲漏斗",
+    "FLAVOR": "“個人建議不要用這個來喝東西。”",
+    "DESCRIPTIONS": [
+      "在每場戰鬥開始時，給予所有敵人 #b4 層 #y中毒 。"
     ]
   }
 }
