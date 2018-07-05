@@ -1175,9 +1175,9 @@
   },
   "Thunder Strike": {
     "NAME": "雷霆打擊",
-    "DESCRIPTION": "你在本場戰鬥中每 生成 過 一個 閃電 充能球，對一名隨機敵人造成一次 !D! 點傷害。",
+    "DESCRIPTION": "你在本場戰鬥中每 生成 過 一個 閃電 充能球，隨機造成一次 !D! 點傷害。",
     "EXTENDED_DESCRIPTION": [
-      "（生成 過 !M! 個閃電 充能球。）"
+      "（共 !M! 次。）"
     ]
   },
   "Thunderclap": {
