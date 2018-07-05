@@ -541,7 +541,7 @@
     "NAME": "Magični cvet",
     "FLAVOR": "Cvet za koji se mislilo da je odavno izumro. Ovaj nekako savršeno očuvan.",
     "DESCRIPTIONS": [
-      "Zalečenje je #b50% delotvornije tokom borbe."
+      "Lečenje je #b50% delotvornije tokom borbe."
     ]
   },
   "Mango": {
@@ -559,10 +559,10 @@
     ]
   },
   "Mark of the Bloom": {
-    "NAME": "Beleg budnog",
+    "NAME": "Beleg žive mašte",
     "FLAVOR": "U Vani, misli i stvarnost su jedno te isto.",
     "DESCRIPTIONS": [
-      "Više ne možeš da se zalečuješ."
+      "Više ne možeš da se lečiš."
     ]
   },
   "Matryoshka": {
@@ -1235,6 +1235,57 @@
     "FLAVOR": "Bela statuica stvorenja koje nikada ranije nisi video.",
     "DESCRIPTIONS": [
       "Napici se sada uvek pojavljuju kao deo plena posle borbe."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Cultist Mask",
+    "FLAVOR": "Part of the Flock!",
+    "DESCRIPTIONS": [
+      "You feel more talkative.",
+      "@CAW!@ NL @CAAAW@"
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Tiny Gremlin Mask",
+    "FLAVOR": "Time to run.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b1 #yWeak."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "The Abacus",
+    "FLAVOR": "One...Two...Three...Dead!",
+    "DESCRIPTIONS": [
+      "Gain #b6 #yBlock whenever you shuffle your draw pile."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Dolly's Mirror",
+    "FLAVOR": "\"I look funny in this.\"",
+    "DESCRIPTIONS": [
+      "Upon pickup, obtain an additional copy of a card in your deck.",
+      "Choose 1 Card to Copy."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Clockwork Souvenir",
+    "FLAVOR": "\"So many intricate gears.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yArtifact."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Meal Ticket",
+    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "DESCRIPTIONS": [
+      "Whenever you enter a shop room, heal #b7 HP."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Twisted Funnel",
+    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
     ]
   }
 }

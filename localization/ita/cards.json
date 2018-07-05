@@ -244,6 +244,10 @@
     "NAME": "Soffocamento",
     "DESCRIPTION": "Infliggi !D! danni. NL Ogni volta che giochi una carta questo turno, il nemico bersaglio perde !M! PV."
   },
+  "Chrysalis": {
+    "NAME": "Crisalide",
+    "DESCRIPTION": "Aggiungi !M! Abilità nella Pila. Costano 0 per questo combattimento. Esaurisci."
+  },
   "Clash": {
     "NAME": "Conflitto",
     "DESCRIPTION": "Puoi giocarla solo se ogni carta nella tua mano è un Attacco. NL Infliggi !D! danni.",
@@ -295,10 +299,10 @@
   },
   "Corpse Explosion": {
     "NAME": "Cadavere Bomba",
-    "DESCRIPTION": "Rimuovi il Veleno da un nemico ed infliggi danno pari al doppio del veleno rimosso a TUTTI i nemici.",
-    "UPGRADE_DESCRIPTION": "Rimuovi il Veleno da un nemico ed infliggi danno pari al triplo del veleno rimosso a TUTTI i nemici.",
+    "DESCRIPTION": "Applica !M! veleno ad un nemico. NL Quando muore, infliggi danno pari ai suoi PV massimi a TUTTI i nemici.",
+    "UPGRADE_DESCRIPTION": "Deprecated.",
     "EXTENDED_DESCRIPTION": [
-      "Quel nemico non è Avvelenato."
+      "Deprecated."
     ]
   },
   "Corruption": {
@@ -760,6 +764,10 @@
     "DESCRIPTION": "Puoi giocarla solo se non hai altre carte in mano. NL Infliggi !D! danni.",
     "UPGRADE_DESCRIPTION": "Questa deve essere NL la mia sola carta."
   },
+  "Mayhem": {
+    "NAME": "Caos",
+    "DESCRIPTION": "A inizio turno giochi la prima carta della Pila."
+  },
   "Melter": {
     "NAME": "Scioglimento",
     "DESCRIPTION": "Rimuovi tutto il Blocco da un nemico. NL Infliggi !D! danni."
@@ -768,17 +776,21 @@
     "NAME": "Metallizzato",
     "DESCRIPTION": "A fine turno ottieni !M! Blocco."
   },
+  "Metamorphosis": {
+    "NAME": "Metamorfosi",
+    "DESCRIPTION": "Aggiungi !M! Attacchi casuali nella Pila. Costano 0 in questo combattimento. NL Esaurisci."
+  },
   "Meteor Strike": {
     "NAME": "Colpo a Meteora",
     "DESCRIPTION": "Infliggi !D! danni. NL Crei !M! Plasma."
   },
   "Mind Blast": {
     "NAME": "Scoppio Mentale",
-    "DESCRIPTION": "Infliggi danni pari al numero di carte nella Pila.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Infliggi danni pari al numero di carte nella Pila.",
+    "DESCRIPTION": "Innata. NL Infliggi danni pari al numero di carte nella Pila.",
     "EXTENDED_DESCRIPTION": [
       " NL (Infliggi !D! danni.)"
-    ]
+    ],
+    "UPGRADE_DESCRIPTION": ""
   },
   "Multi-Cast": {
     "NAME": "Lancio Multiplo",
@@ -1044,6 +1056,10 @@
     "NAME": "Sradica Anima",
     "DESCRIPTION": "Esaurisci tutte le carte non Attacco nella tua mano. NL Infliggi !D! danni."
   },
+  "Shame": {
+    "NAME": "Vergogna",
+    "DESCRIPTION": "Ingiocabile. NL A fine turno ottieni 1 Fragile."
+  },
   "Shiv": {
     "NAME": "Pugnale",
     "DESCRIPTION": "Infliggi !D! danni. NL Esaurisci."
@@ -1166,7 +1182,7 @@
   },
   "The Bomb": {
     "NAME": "La Bomba",
-    "DESCRIPTION": "Infliggi !D! danni a chiunque (anche a te). NL Esaurisci."
+    "DESCRIPTION": "Fra 3 turni, infliggi !D! danni a TUTTI i nemici."
   },
   "Thinking Ahead": {
     "NAME": "Lungimiranza",
@@ -1296,5 +1312,13 @@
   "Pride": {
     "NAME": "Orgoglio",
     "DESCRIPTION": "Innata. Esaurisci. NL A fine turno, metti una copia di questa carta in cima alla tua Pila."
+  },
+  "PanicButton": {
+    "NAME": "Pulsante Antipanico",
+    "DESCRIPTION": "Ottieni !B! Blocco. Non puoi più ottenere blocco da carte per i prossimi !M! turni. NL Esaurisci."
+  },
+  "HandOfGreed": {
+    "NAME": "Mano della Cupidigia",
+    "DESCRIPTION": "Infliggi !D! danni. NL Se uccidi così un nemico non Seguace, guadagni !M! Oro."
   }
 }

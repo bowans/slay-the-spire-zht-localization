@@ -1,9 +1,9 @@
 {
   "Accursed": {
-    "NAME": "Koplje Buđi",
+    "NAME": "Proklet",
     "DESCRIPTION": [
-      "Svaki put kada poraziš vožda, dobijaš #b",
-      " nasumičnih #ykletve.",
+      "Svaki put kada poraziš vožda, dobijaš sledeći broj nasumičnih #ykletvi: #b",
+      ".",
       ""
     ]
   },
@@ -15,7 +15,7 @@
     ]
   },
   "DeadlyEnemies": {
-    "NAME": "Štit Buđi",
+    "NAME": "Koplje Buđi",
     "DESCRIPTION": [
       "Neprijatelji zadaju #b",
       "% više štete."
@@ -24,7 +24,7 @@
   "FullBelly": {
     "NAME": "Brnjica",
     "DESCRIPTION": [
-      "Više ne možeš da povećaš svoje maks. ž. p. Sve zalečivanje je upola delotvorno."
+      "Više ne možeš da povećaš svoje maks. ž. p. Sve lečenje je upola delotvorno."
     ]
   },
   "GraspOfShadows": {
@@ -43,11 +43,11 @@
     ]
   },
   "MetallicRebirth": {
-    "NAME": "Drevno poboljšanje",
+    "NAME": "Drevna poboljšanja",
     "DESCRIPTION": [
       "Neprijatelji počinju sa: #yzaštitom - #b",
       ", #yoptočenim #yoklopom - #b",
-      ", i #yzalečenjem - #b",
+      ", i #ylečenjem - #b",
       "."
     ]
   },
@@ -58,33 +58,33 @@
     ]
   },
   "Scatterbrain": {
-    "NAME": "Smeten",
+    "NAME": "Pošandrcao",
     "DESCRIPTION": [
-      "Vuci #b",
-      " manje karata po potezu.",
+      "Vuci manje karata po potezu: #b",
+      " .",
       ""
     ]
   },
   "TimeMaze": {
     "NAME": "Vremenski lavirint",
     "DESCRIPTION": [
-      "Ne možeš da odigraš više od #b",
-      " karata po potezu.",
+      "Možeš da odigraš samo određen broj karata po potezau: #b",
+      ".",
       "Mogu da odigram samo još sledeći broj karata: NL #r"
     ]
   },
   "ToughEnemies": {
-    "NAME": "Žilavi neprijatelji",
+    "NAME": "Štit Buđi",
     "DESCRIPTION": [
       "Neprijatelji imaju #b",
       "% više ž. p."
     ]
   },
   "TwistingMind": {
-    "NAME": "Iskrivljeni um",
+    "NAME": "Bolestan um",
     "DESCRIPTION": [
-      "Na kraju svog poteza, dodaj #b",
-      " nasumičnih Stanja na vrh gomile za vučenje.",
+      "Na kraju svog poteza, dodaj broj nasumičnih Stanja na vrh gomile za vučenje: #b",
+      ".",
       ""
     ]
   },

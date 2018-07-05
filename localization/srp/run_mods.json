@@ -27,6 +27,10 @@
     "NAME": "Крупна дивљач",
     "DESCRIPTION": "Челници су преплавили Торањ, и сада испуштају боље награде."
   },
+  "Endless": {
+    "NAME": "У недоглед",
+    "DESCRIPTION": "Победа те враћа у Прелудијум са истим шпилом. \n\nИмај на уму, Буђ евентуално гута све..."
+  },
   "Heirloom": {
     "NAME": "Наследство",
     "DESCRIPTION": "Почињеш са једном ретком реликвијом."
@@ -34,6 +38,10 @@
   "Hoarder": {
     "NAME": "Гомилање",
     "DESCRIPTION": "Сваки пут када додаш карту у шпил, убаци још две копије. Трговац више не пружа услугу уклањања карата."
+  },
+  "Inception": {
+    "NAME": "Вазда",
+    "DESCRIPTION": "Мења почетну реликвију са Непрестаном чигром."
   },
   "Insanity": {
     "NAME": "Лудило",
@@ -47,9 +55,21 @@
     "NAME": "Мида",
     "DESCRIPTION": "Непријатељи испуштају 200% више злата, али не можеш да побољшаш карте на одмаралиштима."
   },
+  "My True Form": {
+    "NAME": "Мој прави облик",
+    "DESCRIPTION": "Почињеш са копијом Ђавоиманости, Утваре и Ехо форме."
+  },
   "Night Terrors": {
     "NAME": "Ноћни страхови",
-    "DESCRIPTION": "Одмарање у потпуности залечује, али кошта пет макс. ж. п."
+    "DESCRIPTION": "Одмарање у потпуности лечи, али кошта пет макс. ж. п."
+  },
+  "One Hit Wonder": {
+    "NAME": "Последњи атом снаге",
+    "DESCRIPTION": "Почињеш игру са једним макс. ж. п."
+  },
+  "Praise Snecko": {
+    "NAME": "Слава Змијку",
+    "DESCRIPTION": "Мења почетну реликвију са Змијковим оком."
   },
   "Shiny": {
     "NAME": "Шљашт",
@@ -58,6 +78,10 @@
   "Specialized": {
     "NAME": "Специјализован",
     "DESCRIPTION": "Почињеш са пет копија једне ретке карте."
+  },
+  "Starter Deck": {
+    "NAME": "То ти је што ти је",
+    "DESCRIPTION": "Почињеш са Поломљеном круном and Бинарношћу, тако да непријатељи више не испуштају карте."
   },
   "Terminal": {
     "NAME": "Једном ногом у гробу",
@@ -74,29 +98,5 @@
   "Vintage": {
     "NAME": "Старина",
     "DESCRIPTION": "Нормални непријатељи испуштају реликвије уместо карата."
-  },
-  "Endless": {
-    "NAME": "Endless",
-    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
-  },
-  "One Hit Wonder": {
-    "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 max HP."
-  },
-  "Starter Deck": {
-    "NAME": "Starter Deck",
-    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
-  },
-  "Praise Snecko": {
-    "NAME": "Praise Snecko",
-    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
-  },
-  "Inception": {
-    "NAME": "Inception",
-    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
-  },
-  "My True Form": {
-    "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
   }
 }

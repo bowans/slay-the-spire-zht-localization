@@ -1226,8 +1226,8 @@
     "NAME": "Η Μάσκα του Ν'λοθ",
     "FLAVOR": "Πεινάς.",
     "DESCRIPTIONS": [
-      "Όποτε παίζεις σπάνια κάρτα, πάρε #b",
-      " #yΜπλοκάρισμα."
+      "Το επόμενο σεντούκι (όχι Αρχηγού) ποθ θα ανοίξεις είναι άδειο.",
+      ""
     ]
   },
   "FaceOfCleric": {
@@ -1235,6 +1235,57 @@
     "FLAVOR": "Όλοι αγαπούν τον Κληρικό.",
     "DESCRIPTIONS": [
       "Άυξησε τους μέγιστους ΒΥ κατά #b1 μετά από κάθε μάχη."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Μάσκα του Αιρετικού",
+    "FLAVOR": "Ένας από εμάς!",
+    "DESCRIPTIONS": [
+      "Νιώθεις φλύαρος.",
+      "@ΚΡΑ!@ NL @ΚΡΑΑΑΟΥ@"
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Μάσκα του Καλικάντζαρου",
+    "FLAVOR": "Ώρα να τρέξεις.",
+    "DESCRIPTIONS": [
+      "Ξεκίνα κάθε μάχη με #b1 #yΑδύναμος."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "Ο Άβακας",
+    "FLAVOR": "Ένα...Δύο...Τρία...Νεκρός!",
+    "DESCRIPTIONS": [
+      "Πάρε #b6 #yΜπλοκάρισμα όποτε ανακατεύεις τη Στοίβα Τραβήγματος."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Ο Καθρέφτης της Ντόλλυ",
+    "FLAVOR": "\"Μοιάζω περίεργος στον καθρέφτη.\"",
+    "DESCRIPTIONS": [
+      "Όταν το πάρεις, πάρε ένα αντίγραφο μιας κάρτας στην τράπουλα σου.",
+      "Διάλεξε 1 Κάρτα για Αντιγραφή."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Clockwork Souvenir",
+    "FLAVOR": "\"So many intricate gears.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yArtifact."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Twisted Funnel",
+    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Meal Ticket",
+    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "DESCRIPTIONS": [
+      "Whenever you enter a shop room, heal #b7 HP."
     ]
   }
 }

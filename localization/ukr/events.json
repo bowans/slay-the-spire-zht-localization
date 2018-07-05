@@ -425,7 +425,7 @@
       "Не треба бути жадібним."
     ],
     "OPTIONS": [
-      "[Відкрити цяту] #rБитися. #gНагорода: #gАмулет.",
+      "[Відкрити цяту] #rБитися. #gНагорода: #gРідкісний #gАмулет.",
       "[Покинути]",
       "[Битися]"
     ]
@@ -818,16 +818,20 @@
     ]
   },
   "FaceTrader": {
-    "NAME": "Face Trader",
+    "NAME": "Торговець обличчями",
     "DESCRIPTIONS": [
-      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
-      "ENJOY YOUR NEW FACE!"
+      "ЗДАЄТЬСЯ КОМУСЬ ПОТРІБНЕ НОВЕНЬКЕ ОБЛИЧЧЯ!",
+      "НАСОЛОДЖУЙСЯ НОВЕНЬКИМ ОБЛИЧЧЯМ!",
+      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
+      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
     ],
     "OPTIONS": [
-      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
-      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
-      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
-      "[Leave]"
+      "[Маска Нлота] #gЩоразу, #gграючи #gрідкісні #gкарти, #gотримуєте #g3 #gБроні.",
+      "[Голова Зміюки] #gЩоразу #gВи #gпочинаєте #gподію, #gотримуєте #g50 #gЗолота.",
+      "[Лице Церковника] #gЗбільшує #gВаше #gмакс. #gОЗ #gна #g1 #gпісля #gкожного #gбою.",
+      "[Покинути]",
+      "[Continue]"
     ]
   }
 }

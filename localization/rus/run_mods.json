@@ -13,7 +13,7 @@
   },
   "Cursed Run": {
     "NAME": "Проклятая вылазка",
-    "DESCRIPTION": "Вы получаете Проклятие, побеждая босса. Ваша начальная реликвия заменена на Проклятый ключ, Амулет из тёмного камня и Куклу ду-ву."
+    "DESCRIPTION": "Вы получаете Проклятие, побеждая босса. Ваша начальная реликвия заменяется на «Проклятый ключ», «Амулет из тёмного камня» и «Куклу ду-ву»."
   },
   "Diverse": {
     "NAME": "Разносторонность",
@@ -27,6 +27,10 @@
     "NAME": "Сезон охоты",
     "DESCRIPTION": "Элитные враги заполонили Шпиль и за бой с ними даётся улучшенная награда."
   },
+  "Endless": {
+    "NAME": "Бесконечное восхождение",
+    "DESCRIPTION": "Победа вернёт вас в Преддверие с вашей колодой и реликвиями. Но будьте осторожны — Шпиль сделает всё возможное, чтобы вам помешать..."
+  },
   "Heirloom": {
     "NAME": "Наследство",
     "DESCRIPTION": "Вы начинаете с 1 редкой реликвией."
@@ -34,6 +38,10 @@
   "Hoarder": {
     "NAME": "Барахольщик",
     "DESCRIPTION": "Добавляя карту в колоду, вы также добавляете 2 её копии. Вы больше не можете удалять карты у Торговца."
+  },
+  "Inception": {
+    "NAME": "Начало",
+    "DESCRIPTION": "Ваша начальная реликвия заменяется на «Вечный волчок»."
   },
   "Insanity": {
     "NAME": "Сумасшествие",
@@ -47,9 +55,21 @@
     "NAME": "Мидас",
     "DESCRIPTION": "С врагов падает на 200% больше золота, но вы не можете улучшать карты в лагере."
   },
+  "My True Form": {
+    "NAME": "Мой истинный облик",
+    "DESCRIPTION": "Вы начинаете с картами «Облик демона», «Облик призрака» и Облик эхо."
+  },
   "Night Terrors": {
     "NAME": "Ночные кошмары",
     "DESCRIPTION": "Отдых в лагере восполняет 100% ОЗ, но отнимает 5 Макс. ОЗ."
+  },
+  "One Hit Wonder": {
+    "NAME": "На волоске",
+    "DESCRIPTION": "Вы начинаете игру с 1 Макс. ОЗ."
+  },
+  "Praise Snecko": {
+    "NAME": "Восславь Змекко",
+    "DESCRIPTION": "Ваша начальная реликвия заменяется на «Глаз змекко»."
   },
   "Shiny": {
     "NAME": "Прелесть",
@@ -58,6 +78,10 @@
   "Specialized": {
     "NAME": "Специализация",
     "DESCRIPTION": "Вы начинаете игру с 5-ю копиями одной редкой карты."
+  },
+  "Starter Deck": {
+    "NAME": "Изначальная колода",
+    "DESCRIPTION": "Вы начинаете с реликвией «Разбитая корона» и модификатором «Бинарность», так что вы больше не будете получать карты при победе."
   },
   "Terminal": {
     "NAME": "Лепра",
@@ -74,29 +98,5 @@
   "Vintage": {
     "NAME": "Раритет",
     "DESCRIPTION": "В награду за бой с обычными врагами даются реликвии, а не карты."
-  },
-  "Endless": {
-    "NAME": "Endless",
-    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
-  },
-  "One Hit Wonder": {
-    "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 max HP."
-  },
-  "Starter Deck": {
-    "NAME": "Starter Deck",
-    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
-  },
-  "Praise Snecko": {
-    "NAME": "Praise Snecko",
-    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
-  },
-  "Inception": {
-    "NAME": "Inception",
-    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
-  },
-  "My True Form": {
-    "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
   }
 }

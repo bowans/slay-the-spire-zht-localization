@@ -239,11 +239,26 @@
       "Sammle so viele wie möglich."
     ]
   },
+  "ClockworkSouvenir": {
+    "NAME": "Uhrwerk-Souvenir",
+    "FLAVOR": "\"So viele aufwändige Rädchen.\"",
+    "DESCRIPTIONS": [
+      "Erhalte zu Beginn jedes Kampfes #b1 #yArtefakt."
+    ]
+  },
   "Cracked Core": {
     "NAME": "Gesprungener Kern",
     "FLAVOR": "Die mysteriöse Lebenskraft, welche die Automatone im Spire antreibt. Scheint kaputt zu sein.",
     "DESCRIPTIONS": [
       "#yErschaffe zu Beginn jedes Kampfes #b1 #yBlitz."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Kultisten-Kopfstück",
+    "FLAVOR": "Ich bin Teil des Schwarms!",
+    "DESCRIPTIONS": [
+      "Du fühlst dich gesprächiger.",
+      "@KRÄH!@ NL @KRÄÄÄH@"
     ]
   },
   "Cursed Key": {
@@ -311,6 +326,14 @@
       "Erhalte in jedem Zug [R] .",
       "Erhalte in jedem Zug [G] .",
       "Erhalte in jedem Zug [B] ."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Dollys Spiegel",
+    "FLAVOR": "\"Darin sehe ich komisch aus.\"",
+    "DESCRIPTIONS": [
+      "Beim Aufheben: Erhalte ein weiteres Exemplar einer Karte in deinem Deck.",
+      "Wähle 1 Karte, die du kopierst."
     ]
   },
   "Dream Catcher": {
@@ -402,7 +425,7 @@
     ]
   },
   "Fusion Hammer": {
-    "NAME": "Festgeschmolzener Hammer",
+    "NAME": "Schmelzhammer",
     "FLAVOR": "Wer ihn einmal schwingt, kann ihn nie wieder loslassen.",
     "DESCRIPTIONS": [
       " NL Du kannst an Lagerfeuern nicht mehr schmieden.",
@@ -447,6 +470,13 @@
       "[R] und ziehe #b1 Karte.",
       "[G] und ziehe #b1 Karte.",
       "[B] und ziehe #b1 Karte."
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Gremlin-Visage",
+    "FLAVOR": "Zeit, zu rennen.",
+    "DESCRIPTIONS": [
+      "Beginne jeden Kampf mit #b1 #ySchwach."
     ]
   },
   "Happy Flower": {
@@ -574,6 +604,13 @@
       "Dieses Relikt wurde aufgebraucht."
     ]
   },
+  "MealTicket": {
+    "NAME": "Essenskarte",
+    "FLAVOR": "\"Kostenlose Fleischbällchen bei jedem Besuch!\"",
+    "DESCRIPTIONS": [
+      "Wenn du einen Laden-Raum betrittst, heile #b7 TP."
+    ]
+  },
   "Meat on the Bone": {
     "NAME": "Fleisch am Knochen",
     "FLAVOR": "Das Fleisch erneuert sich immer wieder und scheint nie komplett aufgebraucht zu werden.",
@@ -593,7 +630,7 @@
     "NAME": "Mitgliedskarte",
     "FLAVOR": "„Bonus-Mitgliedschaftsangebot für meine wertvollsten Kunden!“",
     "DESCRIPTIONS": [
-      "In zukünftigen Leveln erscheinen Läden 50% häufiger. NL #yBONUS: #b20% Rabatt auf alle Produkte!"
+      "In zukünftigen Akten erscheinen Läden 50% häufiger. NL #yBONUS: #b20% Rabatt auf alle Produkte!"
     ]
   },
   "Mercury Hourglass": {
@@ -676,11 +713,11 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "N'Loths Maske",
+    "NAME": "N'Loths hungriges Gesicht",
     "FLAVOR": "Du verspürst Hunger.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine seltene Karte spielst, erhalte #b",
-      " #yBlock."
+      "Die nächste Truhe (außer Bosstruhen) ist leer.",
+      ""
     ]
   },
   "Nuclear Battery": {
@@ -1085,6 +1122,13 @@
       "Ziehe bei jedem Zug #b2 zusätzliche Karten. Beginne jeden Kampf mit #yVerwirrt."
     ]
   },
+  "TheAbacus": {
+    "NAME": "Der Abakus",
+    "FLAVOR": "\"Eins... Zwei... Drei...\"",
+    "DESCRIPTIONS": [
+      "Erhalte #b6 #yBlock, wenn du deinen Nachziehstapel mischst."
+    ]
+  },
   "The Courier": {
     "NAME": "Die Kurierin",
     "FLAVOR": "Die persönliche Gehilfin des Händlers!",
@@ -1185,6 +1229,13 @@
     "FLAVOR": "Am Besten mit Ingwer.",
     "DESCRIPTIONS": [
       "Du kannst nicht mehr #yGebrechlich werden."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Knotiger Trichter",
+    "FLAVOR": "\"Daraus würde ich nicht trinken.\"",
+    "DESCRIPTIONS": [
+      "Wende zu Beginn jedes Kampfes #b4 #yGift auf ALLE Gegner an."
     ]
   },
   "Unceasing Top": {

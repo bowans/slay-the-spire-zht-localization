@@ -110,7 +110,7 @@
       "Normalni neprijatelji su smrtonosniji.",
       "Čelnici su smrtonosniji.",
       "Voždovi su smrtonosniji.",
-      "Manje se zalečuješ posle bitaka sa voždovima.",
+      "Manje se lečiš posle bitaka sa voždovima.",
       "Počinješ svaki pohod već ozleđen.",
       "Normalni neprijatelji su izdržljiviji.",
       "Čelnici su izdržljiviji.",
@@ -160,7 +160,7 @@
       "Preskoči",
       "GLASAJ: ",
       "s preostalo.",
-      "Suoči se sa pošasti"
+      "Suoči se sa pošašću"
     ]
   },
   "CacheAction": {
@@ -307,6 +307,19 @@
     "TEXT": [
       "Pritisni ponovo da izađeš",
       "da izađeš"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Proizvoljan režim",
+      "Dostignuća i Tabela su nedostupni.",
+      "Lik",
+      "Uspinjanje",
+      "Nivo ",
+      "Uspinjanje",
+      "Izmene",
+      "Seme",
+      "Podesi seme"
     ]
   },
   "DailyScreen": {
@@ -786,8 +799,8 @@
       "Nepoznato",
       "Pobedi dnevni pohod da otključaš ovaj režim.",
       "Ovaj deo je nedostupan.",
-      "U nedogled",
-      "Pobeda te vraća u Preludijum sa istim špilom. \n\nImaj na umu, Buđ eventualno guta sve..."
+      "Proizvoljno",
+      "Začini svoj pohod jedinstvenim izmenama."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1154,19 +1167,6 @@
   "UnlockTextEffect": {
     "TEXT": [
       "Nešto si otključao!"
-    ]
-  },
-  "CustomModeScreen": {
-    "TEXT": [
-      "Custom Mode",
-      "Achievements and Leaderboards are off.",
-      "Character",
-      "Ascension",
-      "Level ",
-      "Ascension Mode",
-      "Modifiers",
-      "Seed",
-      "Set Seed"
     ]
   }
 }

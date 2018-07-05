@@ -27,6 +27,10 @@
     "NAME": "Sciame di Elite",
     "DESCRIPTION": "La Guglia brulica di Elite che una volta sconfitti offrono ricompense migliori."
   },
+  "Endless": {
+    "NAME": "Infinito",
+    "DESCRIPTION": "Vincere ti riporterà al primo Atto con lo stesso mazzo. Attenzione, la corruzione consuma tutto alla fine..."
+  },
   "Heirloom": {
     "NAME": "Eredità",
     "DESCRIPTION": "Cominci la partita con una reliquia Rara."
@@ -35,21 +39,37 @@
     "NAME": "Compulsivo",
     "DESCRIPTION": "Ogni volta che aggiungi una carta al mazzo, ne aggiungi anche altre due copie. Il mercante non ti permette di rimuovere carte."
   },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "La tua Reliquia iniziale viene sostituita dalla Trottola Perpetua."
+  },
   "Insanity": {
     "NAME": "Pazzia",
     "DESCRIPTION": "Cominci la partita con un mazzo di 50 carte casuali."
   },
   "Lethality": {
-    "NAME": "Nemici Mortali",
+    "NAME": "Morte Rapida",
     "DESCRIPTION": "Cominci ogni combattimento con 3 di Forza in più. Tutti i nemici partono con 3 di Forza."
   },
   "Midas": {
     "NAME": "Re Mida",
     "DESCRIPTION": "I nemici garantiscono il #b200% #yd'Oro in più ma non puoi più Potenziare carte ai Falò."
   },
+  "My True Form": {
+    "NAME": "La Mia Forma Finale",
+    "DESCRIPTION": "Inizi con una copia di Forma Demoniaca, Forma Spettrale e Forma Ricorsiva."
+  },
   "Night Terrors": {
     "NAME": "Incubi",
     "DESCRIPTION": "Riposare ti cura del 100% dei tuoi PV, ma costa 5 PV massimi."
+  },
+  "One Hit Wonder": {
+    "NAME": "Meteora",
+    "DESCRIPTION": "Inizi la partita con 1 PV massimo."
+  },
+  "Praise Snecko": {
+    "NAME": "Lode a Snecko",
+    "DESCRIPTION": "La tua Reliquia Iniziale viene sostituita dall'Occhio di Snecko"
   },
   "Shiny": {
     "NAME": "Luccichio",
@@ -58,6 +78,10 @@
   "Specialized": {
     "NAME": "Specialista",
     "DESCRIPTION": "Cominci la partita con 5 copie di una carta rara."
+  },
+  "Starter Deck": {
+    "NAME": "Mazzo Introduttivo",
+    "DESCRIPTION": "Cominci con Corona Infranta e Binario, perciò non otterrai carte sconfiggendo i nemici."
   },
   "Terminal": {
     "NAME": "Terminale",
@@ -74,29 +98,5 @@
   "Vintage": {
     "NAME": "Vintage",
     "DESCRIPTION": "I nemici Normali offrono reliquie invece che carte."
-  },
-  "Praise Snecko": {
-    "NAME": "Praise Snecko",
-    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
-  },
-  "Starter Deck": {
-    "NAME": "Starter Deck",
-    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
-  },
-  "Endless": {
-    "NAME": "Endless",
-    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
-  },
-  "Inception": {
-    "NAME": "Inception",
-    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
-  },
-  "My True Form": {
-    "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
-  },
-  "One Hit Wonder": {
-    "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 max HP."
   }
 }

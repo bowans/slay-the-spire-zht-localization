@@ -27,6 +27,10 @@
     "NAME": "Олігархія",
     "DESCRIPTION": "Вежа кишить Елітою. Еліта залишає по собі кращі нагороди."
   },
+  "Endless": {
+    "NAME": "Нескінченність",
+    "DESCRIPTION": "Перемога повертає Вас назад до Воріт з тією ж колодою. Та стережіться, бо моровиця знищує усіх, навіть наймогутніших з нас..."
+  },
   "Heirloom": {
     "NAME": "Спадщина",
     "DESCRIPTION": "Починаєте гру з рідкісним амулетом."
@@ -34,6 +38,10 @@
   "Hoarder": {
     "NAME": "Жадібність",
     "DESCRIPTION": "Щоразу Ви додаєте карту у Вашу Колоду, отримуєте ще дві копії. Торговець більше не надає послугу видалення карт."
+  },
+  "Inception": {
+    "NAME": "Початок",
+    "DESCRIPTION": "Замінює початковий амулет на «Неперевершену дзиґа»."
   },
   "Insanity": {
     "NAME": "Божевілля",
@@ -47,9 +55,21 @@
     "NAME": "Мідас",
     "DESCRIPTION": "Вороги лишають по собі 200% більше золота, але ви не можете поліпшувати карти у Таборах."
   },
+  "My True Form": {
+    "NAME": "Моя справжня форма",
+    "DESCRIPTION": "Починаєте з Демоновою формою, Спектральною формою та Відлунням."
+  },
   "Night Terrors": {
     "NAME": "Нічні жахи",
     "DESCRIPTION": "Відпочинок біля вогнища зцілює 100% вашого ОЗ, проте коштує 5 макс. ОЗ."
+  },
+  "One Hit Wonder": {
+    "NAME": "Чудо юдо",
+    "DESCRIPTION": "Починаєте гру з 1 макс. ОЗ."
+  },
+  "Praise Snecko": {
+    "NAME": "Слава Зміяку",
+    "DESCRIPTION": "Замінює початковий амулет на «Око Зміяки»."
   },
   "Shiny": {
     "NAME": "Розкішне",
@@ -58,6 +78,10 @@
   "Specialized": {
     "NAME": "Спеціалізація",
     "DESCRIPTION": "Починаєте з 5-ма копіями одної рідкісної карти."
+  },
+  "Starter Deck": {
+    "NAME": "Початкова колода",
+    "DESCRIPTION": "Починаєте з Пошкодженою короною та Подвійний всесвіт, вороги більше не залишають по собі карти."
   },
   "Terminal": {
     "NAME": "Смертельна хвороба",
@@ -74,29 +98,5 @@
   "Vintage": {
     "NAME": "Осучас",
     "DESCRIPTION": "Звичайні вороги залишають по собі амулети, замість карт."
-  },
-  "Endless": {
-    "NAME": "Endless",
-    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
-  },
-  "One Hit Wonder": {
-    "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 max HP."
-  },
-  "Starter Deck": {
-    "NAME": "Starter Deck",
-    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
-  },
-  "Praise Snecko": {
-    "NAME": "Praise Snecko",
-    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
-  },
-  "Inception": {
-    "NAME": "Inception",
-    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
-  },
-  "My True Form": {
-    "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
   }
 }

@@ -154,8 +154,8 @@
   "Drug Dealer": {
     "NAME": "Spacciatore di J.A.X.",
     "DESCRIPTIONS": [
-      "Un uomo con una benda su un occhio ed un ghigno diabolico ti avvicina con nonchalance. NL \"Ehilà straniero. Ti farebbe comodo un po' di #yJ.A.X.? Ti renderà più forte di qualsiasi allenamento o benedizione. Ne avrai bisogno se sei uno di quegli eroi che desiderano morire. NL Che ne dici? Vuoi un po' di #yJ.A.X.?\" NL ",
-      "~\"Ottimo.\"~ NL Ti offre una siringa dall'aspetto pericoloso, piena di un liquido luminoso. Poi torna ad appostarsi al buio lì vicino.",
+      "Un uomo con una benda su un occhio ed un ghigno diabolico ti si avvicina con nonchalance. NL \"Ehi, straniero. Ti farebbe comodo un po' di #yJ.A.X.? Ti renderà più forte di qualsiasi allenamento o benedizione. Ne avrai bisogno se sei uno di quegli eroi che desiderano morire. NL Che ne dici? Vuoi un po' di #yJ.A.X.?\" NL ",
+      "~\"Ottimo.\"~ NL Ti offre una siringa dall'aspetto pericoloso, piena di un liquido luminoso. Poi torna ad appostarsi al buio, lì vicino.",
       "\"Non importa, c'è sempre il prossimo...\" NL L'uomo si allontana."
     ],
     "OPTIONS": [
@@ -425,7 +425,7 @@
       "Forse è meglio non essere avidi..."
     ],
     "OPTIONS": [
-      "[Apri la Sfera] #rCombatti. #gRicompensa: #gReliquia #Rara.",
+      "[Apri la Sfera] #rCombatti. #gRicompensa: #gReliquia #gRara.",
       "[Ignora]",
       "[Combatti]"
     ]
@@ -820,13 +820,17 @@
   "FaceTrader": {
     "NAME": "Mercante di Volti",
     "DESCRIPTIONS": [
-      "SEMBRA CHE POTREBBE SERVIRTI UNA NUOVA FACCIA!",
-      "GODITI IL TUO NUOVO VOLTO!"
+      "Superi un'inquietante statua con diverse maschere in mano... NL Dietro di te un flebile sussurro ti intima: NL ~\"Fermati.\"~",
+      "Ti giri e ti trovi faccia a faccia con la statua! NL A farci caso, non è affatto una statua, ma un esile uomo di stazza statuaria. Ma respira? NL NL  ~\"Faccia.~ ~Posso~ ~toccare?~ ~O~ ~forse~ ~scambio?\"~ ",
+      "~\"Ricompensa?~ ~Ricompensa.\"~ NL Meccanicamente, pesca una bella pila d'oro e te la mette in tasca. NL NL ~\"Che~ ~bel~ ~viso.~ ~Bel~ ~viso.\"~ NL Mentre sfiora il tuo volto, senti che assorbe la tua energia! NL Durante il processo, gli cade la maschera, che si infrange sul pavimento. Gridando, si copre in fretta il volto con tutte e sei le braccia, facendo cadere ancora più maschere! Nel caos che ne segue, fuggi. NL NL Il suo volto era completamente privo di connotati!",
+      "~\"Per~ ~me?~ @PER@ @ME?@ ~Oh~ ~sì..~ ~Sì.~ ~Sì..~ ~mmm...\"~ NL NL Una delle sue braccia si allunga per un istante e il tuo volto è fra le sue mani! Adesso, hai una faccia nuova. NL NL ~\"Bella~ ~faccia.~ ~Bella~ ~faccia.\"~",
+      "~\"Fermati.~ ~Fermati.~ ~Fermati.~ ~Fermati.~ ~Fermati.\"~ NL NL Sì, probabilmente era la cosa giusta da fare."
     ],
     "OPTIONS": [
-      "[Maschera di N'Loth] #gOgni #gvolta #gche #ggiochi #guna #gcarta #gRara, #gottieni #g3 #gblocco.",
-      "[Testa del Ssserpente] #gOgni #gvolta #gche #ginizi #gun #gEvento, #gottieni #g50 #gOro.",
-      "[Volto del Chierico] #gAumenta #gi #gtuoi #gPV #gMassimi #gdi #g1 #gdopo #gogni #gcombattimento.",
+      "[Tocca] #rPerdi #ril #r10% #rdei #rPV #rmassimi, #gottieni #g",
+      " #gOro.",
+      "[Scambia] #g50%: #gViso #gMigliore. #r50%: #rViso #rPeggiore.",
+      "[Ignora]",
       "[Prosegui]"
     ]
   }

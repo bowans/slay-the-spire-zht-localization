@@ -559,7 +559,7 @@
   "Minion": {
     "NAME": "Podanik",
     "DESCRIPTIONS": [
-      "Podanici beže iz borbe bez svog glavnog."
+      "Podanici beže iz borbe bez svog vođe."
     ]
   },
   "Mode Shift": {
@@ -692,17 +692,17 @@
     ]
   },
   "Regenerate": {
-    "NAME": "Zalečenje",
+    "NAME": "Lečenje",
     "DESCRIPTIONS": [
-      "Zalečuje #b",
+      "Leči #b",
       " #yž. #yp. na kraju svog poteza."
     ]
   },
   "Regeneration": {
-    "NAME": "Zalečenje",
+    "NAME": "Lečenje",
     "DESCRIPTIONS": [
       "Na kraju svog poteza, zaleči #b",
-      " #yž. #yp., pa potom smanji #yzalečenje za jedan.",
+      " #yž. #yp., pa potom smanji #ylečenje za jedan.",
       ""
     ]
   },
@@ -946,6 +946,35 @@
     "DESCRIPTIONS": [
       "Na kraju svog poteza, izgubi #yokretnost ( #b",
       " )."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "No Block Power",
+    "DESCRIPTIONS": [
+      "You cannot gain #yBlock."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Mayhem",
+    "DESCRIPTIONS": [
+      "At the start of your turn, play the top card of your draw pile.",
+      "At the start of your turn, play the top #b",
+      " cards of your draw pile."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTIONS": [
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
+      "At the end of this turn, deal %1$s damage to ALL enemies"
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+      "When this enemy dies, deal damage to ALL enemies equal to #b",
+      " times its Max HP."
     ]
   }
 }

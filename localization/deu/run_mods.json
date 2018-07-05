@@ -39,6 +39,10 @@
     "NAME": "Sammler",
     "DESCRIPTION": "Immer wenn du deinem Deck eine Karte hinzufügst, erhalte 2 weitere Exemplare. Du kannst beim Händler keine Karten entfernen."
   },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Dein Startrelikt wird durch den Immerdrehenden Kreisel ersetzt."
+  },
   "Insanity": {
     "NAME": "Wahnsinn",
     "DESCRIPTION": "Beginne mit einem zufälligen Deck aus 50 Karten."
@@ -51,9 +55,21 @@
     "NAME": "Midas",
     "DESCRIPTION": "Gegner lassen 200% mehr Gold fallen, aber du kannst keine Karten am Lagerfeuer verbessern."
   },
+  "My True Form": {
+    "NAME": "Meine wahre Form",
+    "DESCRIPTION": "Beginne mit einem Exemplar von Dämonenform, Geistform und Echoform."
+  },
   "Night Terrors": {
     "NAME": "Nachtangst",
     "DESCRIPTION": "Ausruhen an einem Lagerfeuer heilt dich komplett, aber kostet dich 5 max. TP."
+  },
+  "One Hit Wonder": {
+    "NAME": "One Hit Wonder",
+    "DESCRIPTION": "Beginne das Spiel mit 1 max. TP."
+  },
+  "Praise Snecko": {
+    "NAME": "Preiset Snecko",
+    "DESCRIPTION": "Dein Startrelikt wird durch das Snecko-Auge ersetzt."
   },
   "Shiny": {
     "NAME": "Glänzend",
@@ -61,10 +77,14 @@
   },
   "Specialized": {
     "NAME": "Spezialisiert",
-    "DESCRIPTION": "Beginne mit 5 Kopien einer seltenen Karte."
+    "DESCRIPTION": "Beginne mit 5 Exemplaren einer seltenen Karte."
+  },
+  "Starter Deck": {
+    "NAME": "Startdeck",
+    "DESCRIPTION": "Beginne mit Zerbrochene Krone und Binär, sodass du bei Gegnern keine Kartenbelohnungen mehr erhältst."
   },
   "Terminal": {
-    "NAME": "Terminiert",
+    "NAME": "Das Ende naht",
     "DESCRIPTION": "Verliere 1 max. TP, wenn du einen Raum betrittst. Beginne jeden Kampf mit 5 Panzerrüstung."
   },
   "Time Dilation": {
@@ -78,25 +98,5 @@
   "Vintage": {
     "NAME": "Antiquitäten",
     "DESCRIPTION": "Normale Gegner hinterlassen Relikte statt Karten."
-  },
-  "One Hit Wonder": {
-    "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 max HP."
-  },
-  "Starter Deck": {
-    "NAME": "Starter Deck",
-    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
-  },
-  "Praise Snecko": {
-    "NAME": "Praise Snecko",
-    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
-  },
-  "Inception": {
-    "NAME": "Inception",
-    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
-  },
-  "My True Form": {
-    "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
   }
 }

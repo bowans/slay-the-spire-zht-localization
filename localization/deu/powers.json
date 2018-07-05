@@ -63,8 +63,8 @@
   "Berserk": {
     "NAME": "Berserker",
     "DESCRIPTIONS": [
-      "Wenn deine TP unter oder genau #b50% sind, erhältst du ",
-      " zu Beginn deines Zuges."
+      "Erhalte zu Beginn deines Zuges ",
+      "  ."
     ]
   },
   "Bias": {
@@ -149,6 +149,14 @@
     "DESCRIPTIONS": [
       "Am Ende deines Zuges erleidest du #b",
       " Schaden."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Leichenexplosion",
+    "DESCRIPTIONS": [
+      "Sobald dieser Gegner stirbt, füge ALLEN Gegnern Schaden in Höhe seiner max. TP zu.",
+      "When this enemy dies, deal damage to ALL enemies equal to #b",
+      " times its Max HP."
     ]
   },
   "Corruption": {
@@ -547,6 +555,14 @@
       " zurück."
     ]
   },
+  "Mayhem": {
+    "NAME": "Wilder Kampf",
+    "DESCRIPTIONS": [
+      "Spiele zu Beginn deines Zuges die oberste Karte deines Nachziehstapels.",
+      "Spiele zu Beginn deines Zuges die obersten #b",
+      " Karten deines Nachziehstapels."
+    ]
+  },
   "Metallicize": {
     "NAME": "Metallschicht",
     "DESCRIPTIONS": [
@@ -587,6 +603,12 @@
     "NAME": "Entwaffnet",
     "DESCRIPTIONS": [
       "Du kannst keine #yAngriffe in diesem Zug spielen."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Kein Block",
+    "DESCRIPTIONS": [
+      "Du kannst keinen #yBlock von Karten erhalten."
     ]
   },
   "No Draw": {
@@ -856,6 +878,13 @@
       "Erhöht Angriffsschaden um #b",
       "Verringert Angriffsschaden um #b",
       "."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "Die Bombe",
+    "DESCRIPTIONS": [
+      "Füge am Ende von %1$s Zügen ALLEN Gegnern %2$s Schaden zu.",
+      "Füge am Ende dieses Zuges ALLEN Gegnern %1$s Schaden zu."
     ]
   },
   "Thievery": {

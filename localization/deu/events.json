@@ -183,14 +183,18 @@
   "FaceTrader": {
     "NAME": "Gesichtshändler",
     "DESCRIPTIONS": [
-      "DU SIEHST AUS, ALS KÖNNTEST DU EIN NEUES GESICHT GEBRAUCHEN!",
-      "VIEL SPAß MIT DEINEM NEUEN GESICHT!"
+      "Du läufst an einer unheimlichen Statue vorbei, die einige Masken in den Händen hat... NL Hinter dir wispert es sanft: NL ~\"Stopp.\"~",
+      "Du wirbelst herum und schaust die Statue an, die jetzt zu dir schaut! NL Bei näherer Betrachtung ist es keine Statue, sondern ein statuenhafter, hagerer Mann. Ob der überhaupt atmet? NL NL ~\"Gesicht.~ ~Darf~ ~ich~ ~anfassen?~ ~Vielleicht~ ~tauschen?\"~",
+      "~\"Vergütung?~ ~Vergütung.\"~ NL Mechanisch angelt er einen hübschen Haufen #yGold hervor und steckt ihn in deinen Geldbeutel. NL NL ~\"So~ ~ein~ ~schönes~ ~Gesicht.~ ~Schönes~ ~Gesicht.\"~ NL Als er dein Gesicht berührt, spürst du, wie dein Leben langsam daraus entschwindet! NL Währenddessen fällt seine Maske herab und zerschellt. Kreischend verbirgt er schnell sein Gesicht mit allen sechs Armen, sodass noch mehr Masken runterfallen! Zwischen all dem Gekreische und Gescheppere entfliehst du. NL NL Sein ganzes Gesicht war leer.",
+      "~\"Für~ ~mich?~ @FÜR@ @MICH?@ ~Oh~ ~ja..~ ~Ja.~ ~Jaa..~ ~mmm...\"~ NL NL Du siehst einen seiner Arme flimmern - und dein Gesicht ist in dieser Hand! Dein Gesicht wurde getauscht. NL NL ~\"Schönes~ ~Gesicht.~ ~Schönes~ ~Gesicht.\"~",
+      "~\"Stopp.~ ~Stopp.~ ~Stopp.~ ~Stopp.~ ~stopp.\"~ NL NL Wahrscheinlich war das die richtige Entscheidung."
     ],
     "OPTIONS": [
-      "[N'Loths Maske] #gImmer #gwenn #gdu #geine #gseltene #gKarte #gspielst, #gerhalte #g3 #gBlock.",
-      "[Ssschlangenkopf] #gErhalte #gzu #gBeginn #gjedes #gEreignisses #g50 #gGold.",
-      "[Priesters Gesicht] #gErhöhe #gdeine #gmax. #gTP #gnach #gjedem #gKampf #gum #g1.",
-      "[Verlassen]"
+      "[Anfassen] #rVerliere #r10% #rmax. #rTP, #gerhalte #g",
+      " #gGold.",
+      "[Austauschen] #g50%: #gGutes #gGesicht. #r50%: #rSchlechtes #rGesicht.",
+      "[Verlassen]",
+      "[Fortsetzen]"
     ]
   },
   "Falling": {
@@ -423,7 +427,7 @@
       "Alles macht jetzt Sinn. NL Die fehlenden Erinnerungen, der Aufstieg, die #yAhnin. NL NL Genau so ist es immer gewesen. NL Genau so wird es immer sein. NL Und alles wird bald wieder vergessen sein..."
     ],
     "OPTIONS": [
-      "[Ich bin Krieg] #rKämpfe #rgegen #reinen #rBoss #raus #rLevel #r1. #gErhalte #gein #gseltenes #gRelikt.",
+      "[Ich bin Krieg] #rKämpfe #rgegen #reinen #rBoss #raus #rdem #r1. #rAkt. #gErhalte #gein #gseltenes #gRelikt.",
       "[Ich bin reich] #gErhalte #g999 #gGold. #rWerde #rverflucht #r- #r2 #rNormalität.",
       "[Ich bin gesund] #gHeile #gdeine #gTP #gkomplett. #rWerde #rverflucht #r- #rZweifel.",
       "[Ich bin wach] #gVerbessere #galle #gKarten. #rDu #rkannst #rdich #rnicht #rmehr #rheilen.",

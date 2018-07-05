@@ -635,7 +635,7 @@
   "Heavy Blade": {
     "NAME": "Густо сечиво",
     "DESCRIPTION": "Задај !D! штете. NL Снага утиче на ову карту пута !M!.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
+    "UPGRADE_DESCRIPTION": "Задај !D! штете. NL Снага утиче на ову карту пута !M!."
   },
   "Heel Hook": {
     "NAME": "Захват",
@@ -810,7 +810,7 @@
     ]
   },
   "Normality": {
-    "NAME": "Ометен",
+    "NAME": "Сметен",
     "DESCRIPTION": "Неодигрива. NL Не можеш одиграти више од три карте у једном потезу.",
     "EXTENDED_DESCRIPTION": [
       "Могу да одиграм само до NL #rтри карте овај потез.",
@@ -835,8 +835,8 @@
   },
   "Offering": {
     "NAME": "Принос",
-    "DESCRIPTION": "Изгуби четири ж. п. NL Задоби [R] [R]. NL Вуци карте: !M!. NL Исцрпи.",
-    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+    "DESCRIPTION": "Изгуби четири ж. п. NL Задоби [R] [R]. NL Вуци !M! карте. NL Исцрпи.",
+    "UPGRADE_DESCRIPTION": "Изгуби четири ж. п. NL Задоби [R] [R]. NL Вуци !M! карата. NL Исцрпи."
   },
   "Outmaneuver": {
     "NAME": "Мат у најави",
@@ -914,7 +914,7 @@
   "Pummel": {
     "NAME": "Премлати",
     "DESCRIPTION": "Задај !D! штете !M! пута. NL Исцрпи.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Задај !D! штете !M! пута. NL Исцрпи."
   },
   "Purity": {
     "NAME": "Чистота",
@@ -983,8 +983,8 @@
   },
   "Reprogram": {
     "NAME": "Репрограмирај",
-    "DESCRIPTION": "Погледај карте ( !M! ) са врха гомиле за вучење. Одбаци било који број њих.",
-    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "DESCRIPTION": "Погледај !M! карте са врха гомиле за вучење. Одбаци било који број њих.",
+    "UPGRADE_DESCRIPTION": "Погледај !M! карата са врха гомиле за вучење. Одбаци било који број њих."
   },
   "Riddle With Holes": {
     "NAME": "Избуши",
@@ -1296,5 +1296,29 @@
   "Zap": {
     "NAME": "Шок",
     "DESCRIPTION": "Призови !M! муњу."
+  },
+  "PanicButton": {
+    "NAME": "Panic Button",
+    "DESCRIPTION": "Gain !B! Block. You cannot gain Block for the next !M! turns. NL Exhaust."
+  },
+  "Chrysalis": {
+    "NAME": "Chrysalis",
+    "DESCRIPTION": "Add !M! random Skills into your Draw Pile. They cost 0 this combat. NL Exhaust."
+  },
+  "Metamorphosis": {
+    "NAME": "Metamorphosis",
+    "DESCRIPTION": "Add !M! random Attacks into your Draw Pile. They cost 0 this combat. NL Exhaust."
+  },
+  "Mayhem": {
+    "NAME": "Mayhem",
+    "DESCRIPTION": "At the start of your turn, play the top card of your draw pile."
+  },
+  "Shame": {
+    "NAME": "Shame",
+    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Frail."
+  },
+  "HandOfGreed": {
+    "NAME": "Hand Of Greed",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
   }
 }

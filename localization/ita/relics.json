@@ -3,7 +3,7 @@
     "NAME": "Ancora",
     "FLAVOR": "Tenendo tra le mani questo ciondolo ti senti più pesante e stabile.",
     "DESCRIPTIONS": [
-      "Inizia ogni combattimento con #b",
+      "Ad inizio combattimento ottieni #b",
       " #yBlocco."
     ]
   },
@@ -101,7 +101,7 @@
     "NAME": "Fiamma in Bottiglia",
     "FLAVOR": "Una fiamma che brucia eternamente, racchiusa in questa piccola bottiglia.",
     "DESCRIPTIONS": [
-      "Quando la raccogli scegli un Attacco. Inizierai ogni combattimento pescando quella carta.",
+      "Quando la raccogli scegli un Attacco. Ad inizio combattimento peschi quella carta.",
       "Scegli una carta per ",
       "Ad inizio combattimento peschi ",
       " ."
@@ -111,7 +111,7 @@
     "NAME": "Fulmine in Bottiglia",
     "FLAVOR": "Dall'altro lato del vetro, in mezzo della tempesta, c'è una parte di te che risponde al tuo sguardo.",
     "DESCRIPTIONS": [
-      "Quando la raccogli scegli un'Abilità. Inizierai ogni combattimento pescando quella carta.",
+      "Quando la raccogli scegli un'Abilità. Ad inizio combattimento peschi quella carta.",
       "Scegli una carta per ",
       "Ad inizio combattimento peschi ",
       " ."
@@ -121,7 +121,7 @@
     "NAME": "Tornado in Bottiglia",
     "FLAVOR": "Test relic.",
     "DESCRIPTIONS": [
-      "Quando la raccogli scegli un Potere. Inizierai ogni combattimento pescando quella carta.",
+      "Quando la raccogli scegli un Potere. Ad inizio combattimento peschi quella carta.",
       "Scegli una carta per ",
       "Ad inizio combattimento peschi ",
       " ."
@@ -180,7 +180,7 @@
     "NAME": "Rompicapo Centenario",
     "FLAVOR": "Una volta risolto il rompicapo, un forte calore si accende nel tuo petto.",
     "DESCRIPTIONS": [
-      "La prima volta che perdi PV in ogni combattimento, peschi #b",
+      "La prima volta che perdi PV in combattimento peschi #b",
       " carte."
     ]
   },
@@ -563,7 +563,7 @@
     "NAME": "Necronomicon",
     "FLAVOR": "Solo un folle provarebbe a sfruttarne l'oscuro potere. Le immagini contenute nel libro ti appaiono in sogno ogni notte, divorandoti la mente.",
     "DESCRIPTIONS": [
-      "Il primo #yAttacco che giochi ogni turno con costo #b",
+      "Ogni turno, il primo #yAttacco che giochi con costo #b",
       " o più viene giocato due volte. Quando la raccogli, vieni #rMaledetto.",
       " o più viene giocato due volte."
     ]
@@ -597,7 +597,7 @@
     "NAME": "Pergamena del Ninja",
     "FLAVOR": "Contiene tutti i segreti dell'arte dell'assassinio.",
     "DESCRIPTIONS": [
-      "Inizia ogni combattimento con #b",
+      "Inizi il combattimento con #b",
       " #yPugnali in mano."
     ]
   },
@@ -808,7 +808,7 @@
     "NAME": "Condensatore Runico",
     "FLAVOR": "Meglio abbondare.",
     "DESCRIPTIONS": [
-      "Inizi ogni combattimento con #b3 Spazi per Globi in più."
+      "Inizi il combattimento con #b3 Spazi per Globi in più."
     ]
   },
   "Runic Cube": {
@@ -1218,7 +1218,7 @@
     "NAME": "Testa del Ssserpente",
     "FLAVOR": "Non c'è vita più piena di quella di chi può #ypermettersi #ytutto!",
     "DESCRIPTIONS": [
-      "Ogni volta che partecipi ad un Evento, ottieni #b",
+      "Ogni volta che attraversi una stanza \"?\" ottieni #b",
       " #yOro."
     ]
   },
@@ -1230,11 +1230,62 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "Maschera di N'Loth",
+    "NAME": "Maschera affamata di N'Loth",
     "FLAVOR": "Ti senti affamato.",
     "DESCRIPTIONS": [
-      "Ogni volta che giochi una carta Rara, ottieni #b",
-      " #yBlocco."
+      "Il prossimo Scrigno non ottenuto da un boss che apri è vuoto.",
+      ""
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Guisa del Gremlin",
+    "FLAVOR": "È il momento di scappare.",
+    "DESCRIPTIONS": [
+      "Inizi il combattimento con #b1 #yDebole."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Diadema del Cultista",
+    "FLAVOR": "Uniti nello stormo!",
+    "DESCRIPTIONS": [
+      "Ti senti più loquace.",
+      "@CRA!@ NL @CRAAA@"
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "L'abaco",
+    "FLAVOR": "\"Uno...Due...Tre...\"",
+    "DESCRIPTIONS": [
+      "Ottieni #b4 #yBlocco ogni volta che mescoli la pila."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Specchio di Dolly",
+    "FLAVOR": "\"Ho un aspetto... diverso... in questo riflesso.\"",
+    "DESCRIPTIONS": [
+      "Quando la raccogli, ottieni una copia in più di una carta nel tuo mazzo.",
+      "Scegli una carta da copiare."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Souvenir ad Orologeria",
+    "FLAVOR": "\"Così tanti ingranaggi...\"",
+    "DESCRIPTIONS": [
+      "Ad inizio combattimento ottieni #b1 #yArtefatto."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Buono Passto",
+    "FLAVOR": "\"Con questo, le polpette sono in omaggio!\"",
+    "DESCRIPTIONS": [
+      "Quando entri in un negozio, ti curi di #b7 PV."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Imbuto Contorto",
+    "FLAVOR": "\"Io non ci berrei da lì.\"",
+    "DESCRIPTIONS": [
+      "Ad inizio combattimento, applichi #b4 #yVeleno a TUTTI i nemici."
     ]
   }
 }

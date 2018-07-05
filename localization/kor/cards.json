@@ -274,12 +274,12 @@
   },
   "Berserk": {
     "NAME": "광폭화",
-    "DESCRIPTION": "체력이 50% 이하일 때 매 턴 [R] 을 얻습니다."
+    "DESCRIPTION": "취약을 !M! 얻습니다. 매 턴 [R] 을 얻습니다."
   },
   "Pummel": {
     "NAME": "연타",
     "DESCRIPTION": " !D! 의 피해를 !M! 번 줍니다. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "!D! 의 피해를 !M! 번 줍니다. NL 소멸"
   },
   "Riddle With Holes": {
     "NAME": "벌집",
@@ -367,8 +367,8 @@
     "DESCRIPTION": "체력을 !M! 회복합니다. NL 소멸"
   },
   "The Bomb": {
-    "NAME": "The Bomb",
-    "DESCRIPTION": "모두에게 !D! 의 피해를 줍니다 (당신도 포함해서). NL 소멸"
+    "NAME": "폭탄",
+    "DESCRIPTION": "3턴 후 턴 종료 시, 적 전체에게 피해를 !M! 줍니다."
   },
   "Sever Soul": {
     "NAME": "영혼 절단",
@@ -608,10 +608,10 @@
   },
   "Corpse Explosion": {
     "NAME": "시체 폭발",
-    "DESCRIPTION": "중독 이 사라집니다. 사라진 중독 의 두 배 만큼의 피해를 적 전체에게 줍니다.",
-    "UPGRADE_DESCRIPTION": "중독 이 사라집니다. 사라진 중독 의 세 배만큼의 피해를 적 전체에게 줍니다.",
+    "DESCRIPTION": "중독을 !M! 부여합니다. NL 적이 죽을 경우, 적 전체에게 대상의 최대 체력만큼 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
-      "중독 상태가 아니다."
+      "deprecated"
     ]
   },
   "Second Wind": {
@@ -784,8 +784,8 @@
   },
   "Mind Blast": {
     "NAME": "정신 공격",
-    "DESCRIPTION": "뽑을 카드 더미에 있는 카드의 수만큼 피해를 줍니다.",
-    "UPGRADE_DESCRIPTION": "선천성 NL 뽑을 카드 더미에 있는 카드의 수만큼 피해를 줍니다.",
+    "DESCRIPTION": "선천성. NL 뽑을 카드 더미에 있는 카드의 수만큼 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL ( !D! 의 피해를 줍니다.)"
     ]
@@ -1213,7 +1213,7 @@
   },
   "Sunder": {
     "NAME": "찢기",
-    "DESCRIPTION": "피해를 !D! 줍니다. NL 만약 적이 죽으면 [B] [B] [B] 를 얻습니다."
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이 공격으로 적이 죽으면 [B] [B] [B] 를 얻습니다."
   },
   "Chill": {
     "NAME": "오한",
@@ -1291,10 +1291,34 @@
   },
   "RitualDagger": {
     "NAME": "의식용 단검",
-    "DESCRIPTION": "피해를 !D! 줍니다. NL 만약 적이 죽으면, 이 카드의 피해량이 영구적으로 !M! 만큼 증가합니다. 소멸."
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이 공격으로 적이 죽으면, 이 카드의 피해량이 영구적으로 !M! 만큼 증가합니다. 소멸."
   },
   "Pride": {
     "NAME": "긍지",
     "DESCRIPTION": "선천성. NL 소멸. NL 턴이 끝날 시, 이 카드를 복사해 뽑을 카드 더미 맨 위에 놓습니다."
+  },
+  "PanicButton": {
+    "NAME": "비상 단추",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. 다음 !M! 턴 동안 카드를 통해 방어도 를 얻을 수 없습니다. NL 소멸."
+  },
+  "Chrysalis": {
+    "NAME": "번데기",
+    "DESCRIPTION": "뽑을 카드 더미에 무작위 스킬 카드를 !M! 장 추가합니다. 이번 전투 동안 그 카드들의 비용이 0이 됩니다. NL 소멸."
+  },
+  "Metamorphosis": {
+    "NAME": "탈바꿈",
+    "DESCRIPTION": "뽑을 카드 더미에 무작위 공격 카드를 !M! 장 추가합니다. 이번 전투 동안 그 카드들의 비용이 0이 됩니다. NL 소멸."
+  },
+  "Mayhem": {
+    "NAME": "대혼란",
+    "DESCRIPTION": "턴 시작 시, 뽑을 카드 더미 맨 위의 카드를 사용합니다."
+  },
+  "Shame": {
+    "NAME": "수치",
+    "DESCRIPTION": "사용불가 NL 턴 종료 시 손상 을 1 받습니다."
+  },
+  "HandOfGreed": {
+    "NAME": "탐욕의 손",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이 공격으로 하수인이 아닌 적이 죽으면, 골드를 !M! 얻습니다."
   }
 }

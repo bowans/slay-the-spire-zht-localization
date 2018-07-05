@@ -278,7 +278,7 @@
   },
   "Berserk": {
     "NAME": "狂暴化",
-    "DESCRIPTION": "HPが 50 ％以下になるとターン開始時、 [R] を得る。"
+    "DESCRIPTION": "弱体 !M! を得る。 NL ターン開始時、 [R] を得る。"
   },
   "Pummel": {
     "NAME": "猛撃",
@@ -800,8 +800,8 @@
   },
   "Mind Blast": {
     "NAME": "マインドブラスト",
-    "DESCRIPTION": "山札にあるカードの枚数に等しいダメージを与える。",
-    "UPGRADE_DESCRIPTION": "天賦 。 NL 山札にあるカードの枚数に等しいダメージを与える。",
+    "DESCRIPTION": "天賦 。 NL 山札にあるカードの枚数に等しいダメージを与える。",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (!D! ダメージを与える。)"
     ]
@@ -1296,5 +1296,29 @@
   "Pride": {
     "NAME": "傲慢",
     "DESCRIPTION": "天賦。 NL 廃棄 。 NL ターン終了時、このカードのコピーを山札の一番上に置く。"
+  },
+  "PanicButton": {
+    "NAME": "非常ボタン",
+    "DESCRIPTION": "!B! ブロックを得る。 次の !M! ターンの間、ブロックを得ることができない。 NL 廃棄 。"
+  },
+  "Chrysalis": {
+    "NAME": "サナギ",
+    "DESCRIPTION": "ランダムな「スキル」を !M! 枚山札に加える。この戦闘中それらのコストは0。 NL 廃棄 。"
+  },
+  "Metamorphosis": {
+    "NAME": "メタモルフォーゼ",
+    "DESCRIPTION": "ランダムな「アタック」を !M! 枚山札に加える。この戦闘中それらのコストは0。 NL 廃棄 。"
+  },
+  "Mayhem": {
+    "NAME": "騒乱",
+    "DESCRIPTION": "ターン開始時、山札の一番上のカードをプレイする。"
+  },
+  "Shame": {
+    "NAME": "羞恥",
+    "DESCRIPTION": "使用不可 。 NL ターン終了時、 脆弱 1 を得る。"
+  },
+  "HandOfGreed": {
+    "NAME": "強欲の手",
+    "DESCRIPTION": "!D! ダメージを与える。 NL この攻撃でミニオン以外の敵を倒すと、 !M! ゴールドを得る。"
   }
 }

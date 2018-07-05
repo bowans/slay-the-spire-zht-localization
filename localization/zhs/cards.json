@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "狂暴",
-    "DESCRIPTION": "如果你的生命等于或低于50%，在每回合开始时获得 [R] 。"
+    "DESCRIPTION": "获得 !M! 层 易伤 。 NL 每回合开始时获得 [R] 。"
   },
   "Biased Cognition": {
     "NAME": "偏差认知",
@@ -295,10 +295,10 @@
   },
   "Corpse Explosion": {
     "NAME": "尸爆术",
-    "DESCRIPTION": "敌人失去所有 中毒 层数，对所有敌人造成所失去层数两倍的伤害。",
-    "UPGRADE_DESCRIPTION": "敌人失去所有 中毒 层数，对所有敌人造成所失去层数三倍的伤害。",
+    "DESCRIPTION": "给予 !M! 层 中毒 。 NL 当这名敌人死亡时，对所有敌人造成等于其最大生命值的伤害。",
+    "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
-      "这名敌人没有 中毒 。"
+      "deprecated"
     ]
   },
   "Corruption": {
@@ -774,8 +774,8 @@
   },
   "Mind Blast": {
     "NAME": "心灵震慑",
-    "DESCRIPTION": "造成你抽牌堆中剩余牌数的伤害。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 造成你抽牌堆中剩余牌数的伤害。",
+    "DESCRIPTION": " 固有 。 NL 造成你抽牌堆中剩余牌数的伤害。",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL （造成 !D! 点伤害。）"
     ]
@@ -806,7 +806,7 @@
     "DESCRIPTION": " 不能被打出 。 NL 在手牌中时，你每回合无法打出3张以上牌。",
     "EXTENDED_DESCRIPTION": [
       "我这回合最多 NL 只能打出 #r3 张牌。",
-      "不能被打出。 NL 在手牌中时，你每回合无法打出 ",
+      "不能被打出 。 NL 在手牌中时，你每回合无法打出 ",
       " 张以上牌。",
       " 张以上牌。 NL 你本回合已经打出 ",
       " 张牌。"
@@ -1166,7 +1166,7 @@
   },
   "The Bomb": {
     "NAME": "炸弹",
-    "DESCRIPTION": "对所有人（包括你自己）造成 !D! 点伤害。 NL 消耗 。"
+    "DESCRIPTION": "在3回合结束后，对所有敌人造成 !M! 点伤害。"
   },
   "Thinking Ahead": {
     "NAME": "深谋远虑",
@@ -1296,5 +1296,29 @@
   "Pride": {
     "NAME": "傲慢",
     "DESCRIPTION": "固有 。NL 消耗 。 NL 你的回合结束时，在抽牌堆顶部加入一张这张牌的复制品。"
+  },
+  "PanicButton": {
+    "NAME": "应急按钮",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 你在接下来 !M! 回合内无法再从卡牌中获得格挡。 NL 消耗 。"
+  },
+  "Chrysalis": {
+    "NAME": "结茧",
+    "DESCRIPTION": "在你的抽牌堆中加入 !M! 张随机技能牌。 他们在本场战斗中耗能为0。 NL 消耗 。"
+  },
+  "Metamorphosis": {
+    "NAME": "羽化",
+    "DESCRIPTION": "在你的抽牌堆中加入 !M! 张随机攻击牌。 他们在本场战斗中耗能为0。 NL 消耗 。"
+  },
+  "Mayhem": {
+    "NAME": "乱战",
+    "DESCRIPTION": "在你的回合开始时，打出你抽牌堆顶部的牌。"
+  },
+  "Shame": {
+    "NAME": "羞耻",
+    "DESCRIPTION": "不能被打出 。 NL 在你的回合结束时，获得1层 脆弱 。"
+  },
+  "HandOfGreed": {
+    "NAME": "贪婪之手",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死一名不是“爪牙”的敌人，则获得 !M! 金币。"
   }
 }

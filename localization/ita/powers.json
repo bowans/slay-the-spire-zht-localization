@@ -63,8 +63,8 @@
   "Berserk": {
     "NAME": "Berserk",
     "DESCRIPTIONS": [
-      "Ad inizio turno, se i tuoi PV sono al #b50% o meno, ottieni ",
-      "."
+      "Ottieni ",
+      "ad inizio turno."
     ]
   },
   "Bias": {
@@ -531,6 +531,14 @@
       " ad inizio turno."
     ]
   },
+  "Mayhem": {
+    "NAME": "Caos",
+    "DESCRIPTIONS": [
+      "Ad inizio turno, giochi la prima carta della Pila.",
+      "Ad inizio turno, giochi le prime #b",
+      " carte della tua pila."
+    ]
+  },
   "Metallicize": {
     "NAME": "Metallizzato",
     "DESCRIPTIONS": [
@@ -835,6 +843,13 @@
       "."
     ]
   },
+  "TheBomb": {
+    "NAME": "La Bomba",
+    "DESCRIPTIONS": [
+      "Fra %1$s turni, infliggi %2$s danno a TUTTI i nemici.",
+      "A fine turno, infliggi %1$s danno a TUTTI i nemici."
+    ]
+  },
   "Thievery": {
     "NAME": "Furto",
     "DESCRIPTIONS": [
@@ -942,10 +957,24 @@
     ]
   },
   "TimeMazePower": {
-    "NAME": "Time Maze",
+    "NAME": "Labirinto Temporale",
     "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
+      "Dopo che giochi #b",
+      " carte, il tuo turno termina."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Niente Blocco",
+    "DESCRIPTIONS": [
+      "Non ottieni #yBlocco da carte."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Cadavere Bomba",
+    "DESCRIPTIONS": [
+      "Quando questo nemico muore, infliggi danno pari ai suoi PV massimi a TUTTI i nemici.",
+      "Quando questo nemico muore, infliggi danno pari a #b",
+      "volte i suoi PV massimi."
     ]
   }
 }

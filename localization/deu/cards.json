@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "Berserker",
-    "DESCRIPTION": "Wenn deine TP unter 50% sind, erhalte zu Beginn jedes Zuges [R]."
+    "DESCRIPTION": "Erhalte !M! Verwundbar. NL Erhalte zu Beginn jedes Zuges [R]."
   },
   "Biased Cognition": {
     "NAME": "Verzerrter Fokus",
@@ -244,6 +244,10 @@
     "NAME": "Würgen",
     "DESCRIPTION": "Füge !D! Schaden zu. Immer wenn du in diesem Zug eine Karte spielst, verliert das Ziel !M! TP."
   },
+  "Chrysalis": {
+    "NAME": "Eingepuppt",
+    "DESCRIPTION": "Erhalte !M! zufällige Fähigkeiten in deinen Nachziehstapel. Sie kosten in diesem Kampf 0. NL Erschöpft."
+  },
   "Clash": {
     "NAME": "Zusammenstoß",
     "DESCRIPTION": "Nur spielbar, wenn alle Handkarten Angriffe sind. NL Füge !D! Schaden zu.",
@@ -303,10 +307,10 @@
   },
   "Corpse Explosion": {
     "NAME": "Leichenexplosion",
-    "DESCRIPTION": "Gegner verliert gesamtes Gift. NL Füge entspr. der doppelten verlorenen Menge ALLEN Gegnern Schaden zu.",
-    "UPGRADE_DESCRIPTION": "Gegner verliert gesamtes Gift. NL Füge entspr. dreimal der verlorenen Menge ALLEN Gegnern Schaden zu.",
+    "DESCRIPTION": "Wende !M! Gift an. NL Sobald der Gegner stirbt, füge ALLEN Gegnern Schaden in Höhe seiner max. TP zu.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Dieser Gegner ist nicht vergiftet."
+      ""
     ]
   },
   "Corruption": {
@@ -495,7 +499,7 @@
   },
   "Expertise": {
     "NAME": "Expertise",
-    "DESCRIPTION": "Ziehe Karten, bis sich !M! Karten in deiner Hand befinden."
+    "DESCRIPTION": "Ziehe Karten, bis du !M! Handkarten hast."
   },
   "FTL": {
     "NAME": "FTL",
@@ -622,6 +626,10 @@
   "Havoc": {
     "NAME": "Verwüstung",
     "DESCRIPTION": "Spiele die oberste Karte des Nachziehstapels aus und erschöpfe sie."
+  },
+  "HandOfGreed": {
+    "NAME": "Arm der Gier",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner außer Untertanen, erhalte !M! Gold."
   },
   "Headbutt": {
     "NAME": "Kopfstoß",
@@ -768,6 +776,10 @@
     "DESCRIPTION": "Nur spielbar, wenn du keine anderen Karten auf deiner Hand hast. NL Füge !D! Schaden zu.",
     "UPGRADE_DESCRIPTION": "Das muss meine NL einzige Karte sein."
   },
+  "Mayhem": {
+    "NAME": "Wilder Kampf",
+    "DESCRIPTION": "Spiele zu Beginn deines Zuges die oberste Karte des Nachziehstapels."
+  },
   "Melter": {
     "NAME": "Schmelzen",
     "DESCRIPTION": "Entferne allen Block von einem Gegner. NL Füge !D! Schaden zu."
@@ -776,14 +788,18 @@
     "NAME": "Metallschicht",
     "DESCRIPTION": "Erhalte am Ende deines Zuges !M! Block."
   },
+  "Metamorphosis": {
+    "NAME": "Metamorphose",
+    "DESCRIPTION": "Erhalte !M! zufällige Angriffe in deinen Nachziehstapel. Sie kosten in diesem Kampf 0. NL Erschöpft."
+  },
   "Meteor Strike": {
     "NAME": "Meteorschlag",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Erschaffe !M! Plasma."
   },
   "Mind Blast": {
     "NAME": "Gedankenstrahl",
-    "DESCRIPTION": "Füge Schaden zu in Höhe der Kartenzahl im Nachziehstapel.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Füge Schaden zu in Höhe der Kartenzahl im Nachziehstapel.",
+    "DESCRIPTION": "Angeboren. NL Füge Schaden zu in Höhe der Kartenzahl im Nachziehstapel.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Fügt !D! Schaden zu.)"
     ]
@@ -859,6 +875,10 @@
   "Panache": {
     "NAME": "Elan",
     "DESCRIPTION": "Immer wenn du in einem einzigen Zug NL 5 Karten ausspielst, NL füge ALLEN Gegnern !M! Schaden zu."
+  },
+  "PanicButton": {
+    "NAME": "Panikknopf",
+    "DESCRIPTION": "Erhalte !B! Block. Du kannst für die nächsten !M! Züge keinen Block von Karten erhalten. NL Erschöpft."
   },
   "Parasite": {
     "NAME": "Parasit",
@@ -1064,6 +1084,10 @@
     "NAME": "Messer",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Erschöpft."
   },
+  "Shame": {
+    "NAME": "Scham",
+    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges 1 Gebrechlich."
+  },
   "Shockwave": {
     "NAME": "Schockwelle",
     "DESCRIPTION": "Wende !M! Schwach und Verwundbar auf ALLE Gegner an. NL Erschöpft."
@@ -1181,8 +1205,8 @@
     "DESCRIPTION": "Wende NL 99 Verwundbar an. NL Erschöpft."
   },
   "The Bomb": {
-    "NAME": "Sprengstoff",
-    "DESCRIPTION": "Füge allen Zielen (auch dir) !D! Schaden zu. NL Erschöpft."
+    "NAME": "Die Bombe",
+    "DESCRIPTION": "Füge für 3 Züge ALLEN Gegnern am Zugende !M! Schaden zu."
   },
   "Thinking Ahead": {
     "NAME": "Vorausdenken",

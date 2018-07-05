@@ -947,5 +947,34 @@
       "每當你打出 #b",
       " 張牌，你的回合會強制結束。"
     ]
+  },
+  "NoBlockPower": {
+    "NAME": "No Block Power",
+    "DESCRIPTIONS": [
+      "You cannot gain #yBlock."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Mayhem",
+    "DESCRIPTIONS": [
+      "At the start of your turn, play the top card of your draw pile.",
+      "At the start of your turn, play the top #b",
+      " cards of your draw pile."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTIONS": [
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
+      "At the end of this turn, deal %1$s damage to ALL enemies"
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+      "When this enemy dies, deal damage to ALL enemies equal to #b",
+      " times its Max HP."
+    ]
   }
 }

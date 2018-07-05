@@ -61,10 +61,10 @@
     ]
   },
   "Berserk": {
-    "NAME": "Εξω φρενών",
+    "NAME": "Έξω φρενών",
     "DESCRIPTIONS": [
-      "Αν οι ΒΥ σου είναι #b50% ή λιγότερο, πάρε ",
-      " στην αρχή του γύρου σου."
+      "Πάρε ",
+      "  στην αρχή του γύρου σου."
     ]
   },
   "Bias": {
@@ -946,6 +946,35 @@
     "DESCRIPTIONS": [
       "Όποτε παίζεις #b",
       " κάρτες, ο γύρος σου τελειώνει"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Αδυναμία Μπλοκαρίσματος",
+    "DESCRIPTIONS": [
+      "Δεν μπορείς να πάρεις #yΜπλοκάρισμα."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Πανδαιμόνιο",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου, παίξε την πρώτη κάρτα στη στοίβα Τραβήγματος.",
+      "Στην αρχή του γύρου, παίξε τις πρώτες #b",
+      " κάρτες στη στοίβα Τραβήγματος."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTIONS": [
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
+      "At the end of this turn, deal %1$s damage to ALL enemies"
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+      "When this enemy dies, deal damage to ALL enemies equal to #b",
+      " times its Max HP."
     ]
   }
 }

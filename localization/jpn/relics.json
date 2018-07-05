@@ -1223,7 +1223,7 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "ヌロスの仮面",
+    "NAME": "ヌロスの飢えた顔",
     "FLAVOR": "You feel hungry.",
     "DESCRIPTIONS": [
       "レアカードをプレイするたび、 #b",
@@ -1235,6 +1235,57 @@
     "FLAVOR": "Everyone loves Cleric.",
     "DESCRIPTIONS": [
       "戦闘を終えるたび、最大HP+1。"
+    ]
+  },
+  "CultistMask": {
+    "NAME": "狂信者の被り物",
+    "FLAVOR": "Part of the Flock!",
+    "DESCRIPTIONS": [
+      "なんだかおしゃべりしたい気分だ。",
+      "@カァー!@ NL @クワァーー！@"
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "グレムリンの顔つき",
+    "FLAVOR": "Time to run.",
+    "DESCRIPTIONS": [
+      "戦闘開始時、 #y脱力 #b1 を得る。"
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "そろばん",
+    "FLAVOR": "One...Two...Three...Dead!",
+    "DESCRIPTIONS": [
+      "デッキをシャッフルするたび、 #b6 #yブロック を得る。"
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "ドリーの鏡",
+    "FLAVOR": "\"I look funny in this.\"",
+    "DESCRIPTIONS": [
+      "獲得時、あなたのデッキのカード1枚を複製する。",
+      "複製するカードを1枚選ぶ。"
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Clockwork Souvenir",
+    "FLAVOR": "\"So many intricate gears.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yArtifact."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Meal Ticket",
+    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "DESCRIPTIONS": [
+      "Whenever you enter a shop room, heal #b7 HP."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Twisted Funnel",
+    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
     ]
   }
 }

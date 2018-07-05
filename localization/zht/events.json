@@ -425,7 +425,7 @@
       "做人不能太貪。"
     ],
     "OPTIONS": [
-      "[打開圓球] #r戰鬥。 #g獎勵：遺物。",
+      "[打開圓球] #r戰鬥。 #g獎勵：稀有遺物。",
       "[離開]",
       "[戰鬥]"
     ]
@@ -559,7 +559,7 @@
       "[鎖定] 需要： 50 金幣。",
       "[離開]",
       "選擇一張牌移除。",
-      "。"
+      " #g點生命。"
     ]
   },
   "The Joust": {
@@ -821,13 +821,17 @@
     "NAME": "換臉商",
     "DESCRIPTIONS": [
       "哎呀！閣下看起來應該換張臉啊！！",
-      "新臉愉快啊！！"
+      "新臉愉快啊！！",
+      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
+      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
     ],
     "OPTIONS": [
       "[恩洛斯的面具] #g每次打出稀有牌時獲得3點格擋。",
       "[蛇的頭] #g每次遇到事件時獲得50金幣。",
       "[牧師的臉] #g每場戰鬥後你的最大生命值增加1。",
-      "[離開]"
+      "[離開]",
+      "[Continue]"
     ]
   }
 }

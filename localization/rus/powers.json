@@ -64,7 +64,7 @@
     "NAME": "Берсерк",
     "DESCRIPTIONS": [
       "Даёт ",
-      " в начале вашего хода, если ваш запас ОЗ не более 50%."
+      " в начале вашего хода."
     ]
   },
   "Bias": {
@@ -547,6 +547,14 @@
       " в начале вашего хода."
     ]
   },
+  "Mayhem": {
+    "NAME": "Беспредел",
+    "DESCRIPTIONS": [
+      "В начале своего хода, вы разыгрываете карту с верха стопки добора.",
+      "В начале своего хода, вы разыгрываете #b",
+      " карты с верха стопки добора."
+    ]
+  },
   "Metallicize": {
     "NAME": "Металлизация",
     "DESCRIPTIONS": [
@@ -593,6 +601,12 @@
     "NAME": "Запрет добора",
     "DESCRIPTIONS": [
       "Вы не можете брать карты до конца хода."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Талант беззащитного",
+    "DESCRIPTIONS": [
+      "Вы не можете получать #yЗащиту."
     ]
   },
   "Noxious Fumes": {
@@ -946,6 +960,21 @@
     "DESCRIPTIONS": [
       "Отнимает #b ",
       " #yЛовкости в конце вашего хода."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTIONS": [
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
+      "At the end of this turn, deal %1$s damage to ALL enemies"
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+      "When this enemy dies, deal damage to ALL enemies equal to #b",
+      " times its Max HP."
     ]
   }
 }
