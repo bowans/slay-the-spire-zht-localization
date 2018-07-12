@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "Шаленість",
-    "DESCRIPTION": "Втрачаючи #b50% життя, чи більше, надає [R] на початку кожного руху."
+    "DESCRIPTION": "Отримуєте !M! Уразливість. Надає [R] на початку кожного руху."
   },
   "Biased Cognition": {
     "NAME": "Упередження",
@@ -244,6 +244,10 @@
     "NAME": "Удушення",
     "DESCRIPTION": "Наносить !D! шкоди. NL Щоразу граючи карту у цьому русі, обраний Вами ворог втрачає !M! ОЗ."
   },
+  "Chrysalis": {
+    "NAME": "Кришталіс",
+    "DESCRIPTION": "Додає !M! випадкових Вміннь у Ваш добір, які коштують 0 енергії у цьому бої. NL Спалюється."
+  },
   "Clash": {
     "NAME": "Зудар",
     "DESCRIPTION": "Грається тільки коли усі карти в руці - Атакуючі. NL Наносить !D! шкоди.",
@@ -295,10 +299,10 @@
   },
   "Corpse Explosion": {
     "NAME": "Підрив тіла",
-    "DESCRIPTION": "Ворог втрачає усю Отруту. Наносить шкоду рівну (втраченій отруті)x2 УСІМ ворогам.",
-    "UPGRADE_DESCRIPTION": "Ворог втрачає усю Отруту. Наносить шкоду рівну (втраченій отруті)x3 УСІМ ворогам.",
+    "DESCRIPTION": "Наносить !D! отрути. Коли цей ворог помирає, наносить шкоду рівну своєму макс. ОЗ, УСІМ ворогам.",
+    "UPGRADE_DESCRIPTION": "-Видалено-",
     "EXTENDED_DESCRIPTION": [
-      "Ворог не отруєний."
+      "-Видалено-."
     ]
   },
   "Corruption": {
@@ -760,6 +764,10 @@
     "DESCRIPTION": "Можна грати тільки коли рука пуста. NL Наносить !D! шкоди.",
     "UPGRADE_DESCRIPTION": "Це має бути моя NL єдина карта."
   },
+  "Mayhem": {
+    "NAME": "Розгардіяш",
+    "DESCRIPTION": "На початку Вашого руху, граєте першу карту з добору."
+  },
   "Melter": {
     "NAME": "Розчинник",
     "DESCRIPTION": "Розчиняє усю Броню одного Ворога. NL Наносить !D! шкоди."
@@ -768,14 +776,18 @@
     "NAME": "Броньований",
     "DESCRIPTION": "Наприкінці Вашого руху, надає !M! Броні."
   },
+  "Metamorphosis": {
+    "NAME": "Перетворення",
+    "DESCRIPTION": "Додає !M! випадкових Атак у добір, які коштують 0 енергії у цьому бої. NL Спалюється."
+  },
   "Meteor Strike": {
     "NAME": "Метеорний удар",
     "DESCRIPTION": "Наносить !D! шкоди. NL Спрямовує !M! Плазму."
   },
   "Mind Blast": {
     "NAME": "Розумовий вибух",
-    "DESCRIPTION": "Наносить шкоди рівну поточній кількості карт у доборі.",
-    "UPGRADE_DESCRIPTION": "Початкова. NL Наносить шкоди рівну поточній кількості карт у доборі.",
+    "DESCRIPTION": "Початкова. NL Наносить шкоди рівну поточній кількості карт у доборі.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Наносить !D! шкоди.)"
     ]
@@ -809,7 +821,8 @@
       "Пасивна. NL Ви не можете грати більше",
       " карти за хід.",
       " карти за хід. NL Ви зіграли ",
-      " карт у цьому русі."
+      " карт у цьому русі.",
+      " cards this turn."
     ]
   },
   "Nova": {
@@ -971,8 +984,8 @@
   },
   "Reprogram": {
     "NAME": "Перепрограмування",
-    "DESCRIPTION": "Заглядаєте на !M! верхніх карт у доборі. Ви можете закинути хоч усі з них у відбій.",
-    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "DESCRIPTION": "Заглядаєте на !M! верхню карту у доборі. Ви можете закинути хоч усі з них у відбій.",
+    "UPGRADE_DESCRIPTION": "Заглядаєте на !M! верхні карти у доборі. Ви можете закинути хоч усі з них у відбій."
   },
   "Riddle With Holes": {
     "NAME": "Звіробі́й ",
@@ -1043,6 +1056,10 @@
   "Sever Soul": {
     "NAME": "Розрив душі",
     "DESCRIPTION": "Спалює усі не-Атакуючі карти у руці. NL Наносить !D! шкоди."
+  },
+  "Shame": {
+    "NAME": "Сором",
+    "DESCRIPTION": "Пасивна. NL Наприкінці руху, отримуєте 1 Кволість."
   },
   "Shiv": {
     "NAME": "Запоясник",
@@ -1166,7 +1183,7 @@
   },
   "The Bomb": {
     "NAME": "Бомба",
-    "DESCRIPTION": "Наносить !D! шкоди усім (навіть Вам). NL Спалюється."
+    "DESCRIPTION": "Після 3 рухів, наносить !D! шкоди усім ворогам."
   },
   "Thinking Ahead": {
     "NAME": "На три кроки в переді",
@@ -1298,27 +1315,11 @@
     "DESCRIPTION": "Початкова. Спалюється. NL Наприкінці Вашого руху, додає копію цієї карти наверх добору."
   },
   "PanicButton": {
-    "NAME": "Panic Button",
-    "DESCRIPTION": "Gain !B! Block. You cannot gain Block for the next !M! turns. NL Exhaust."
-  },
-  "Chrysalis": {
-    "NAME": "Chrysalis",
-    "DESCRIPTION": "Add !M! random Skills into your Draw Pile. They cost 0 this combat. NL Exhaust."
-  },
-  "Metamorphosis": {
-    "NAME": "Metamorphosis",
-    "DESCRIPTION": "Add !M! random Attacks into your Draw Pile. They cost 0 this combat. NL Exhaust."
-  },
-  "Mayhem": {
-    "NAME": "Mayhem",
-    "DESCRIPTION": "At the start of your turn, play the top card of your draw pile."
-  },
-  "Shame": {
-    "NAME": "Shame",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Frail."
+    "NAME": "Кнопка тривоги",
+    "DESCRIPTION": "Отримуєте !B! Броні. Ви не заможете отримати Броню з інших карт наступні !M! рухи. NL Спалюється."
   },
   "HandOfGreed": {
-    "NAME": "Hand Of Greed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+    "NAME": "Рука жаду",
+    "DESCRIPTION": "Наносить !D! шкоди. NL Якщо вб’є не-посіпаку, отримуєте !M! Золота."
   }
 }

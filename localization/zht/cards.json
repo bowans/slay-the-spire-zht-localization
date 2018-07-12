@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "狂暴",
-    "DESCRIPTION": "如果你的生命等於或低於50%，在每回合開始時獲得 [R] 。"
+    "DESCRIPTION": "獲得 !M! 層 易傷 。 NL 每回合開始時獲得 [R] 。"
   },
   "Biased Cognition": {
     "NAME": "偏差認知",
@@ -295,10 +295,10 @@
   },
   "Corpse Explosion": {
     "NAME": "屍爆術",
-    "DESCRIPTION": "敵人失去所有 中毒 層數，對所有敵人造成所失去層數兩倍的傷害。",
-    "UPGRADE_DESCRIPTION": "敵人失去所有 中毒 層數，對所有敵人造成所失去層數三倍的傷害。",
+    "DESCRIPTION": "給予 !M! 層 中毒 。 NL 當這名敵人死亡時，對所有敵人造成等於其最大生命值的傷害。",
+    "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
-      "這名敵人沒有 中毒 。"
+      "deprecated"
     ]
   },
   "Corruption": {
@@ -774,8 +774,8 @@
   },
   "Mind Blast": {
     "NAME": "心靈震懾",
-    "DESCRIPTION": "造成你抽牌堆中剩餘牌數的傷害。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 造成你抽牌堆中剩餘牌數的傷害。",
+    "DESCRIPTION": " 固有 。 NL 造成你抽牌堆中剩餘牌數的傷害。",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL （造成 !D! 點傷害。）"
     ]
@@ -806,10 +806,11 @@
     "DESCRIPTION": " 不能被打出 。 NL 在手牌中時，本回合你無法打出超過3張牌。",
     "EXTENDED_DESCRIPTION": [
       "我這回合最多 NL 只能打出 #r3 張牌。",
-      "不能被打出。 NL 在手牌中時，本回合你無法打出超過 ",
+      "不能被打出 。 NL 在手牌中時，本回合你無法打出超過 ",
       " 張牌。",
       " 張牌。 NL 本回合你已經打出 ",
-      " 張牌。"
+      " 張牌。",
+      " cards this turn."
     ]
   },
   "Nova": {
@@ -1166,7 +1167,7 @@
   },
   "The Bomb": {
     "NAME": "炸彈",
-    "DESCRIPTION": "對所有人（包括你自己）造成 !D! 點傷害。 NL 消耗 。"
+    "DESCRIPTION": "在3回合結束後，對所有敵人造成 !M! 點傷害。"
   },
   "Thinking Ahead": {
     "NAME": "深謀遠慮",
@@ -1175,9 +1176,9 @@
   },
   "Thunder Strike": {
     "NAME": "雷霆打擊",
-    "DESCRIPTION": "你在本場戰鬥中每 生成 過 一個 閃電 充能球，對一名隨機敵人造成一次 !D! 點傷害。",
+    "DESCRIPTION": "你在本場戰鬥中每 生成 過 一個 閃電 充能球，隨機造成一次 !D! 點傷害。",
     "EXTENDED_DESCRIPTION": [
-      "（生成 過 !M! 個閃電 充能球。）"
+      "（共 !M! 次。）"
     ]
   },
   "Thunderclap": {
@@ -1298,27 +1299,27 @@
     "DESCRIPTION": "固有 。NL 消耗 。 NL 你的回合結束時，在抽牌堆頂部加入一張這張牌的複製品。"
   },
   "PanicButton": {
-    "NAME": "Panic Button",
-    "DESCRIPTION": "Gain !B! Block. You cannot gain Block for the next !M! turns. NL Exhaust."
+    "NAME": "應急按鈕",
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 你在接下來 !M! 回合內無法再從卡牌中獲得格擋。 NL 消耗 。"
   },
   "Chrysalis": {
-    "NAME": "Chrysalis",
-    "DESCRIPTION": "Add !M! random Skills into your Draw Pile. They cost 0 this combat. NL Exhaust."
+    "NAME": "結繭",
+    "DESCRIPTION": "在你的抽牌堆中加入 !M! 張隨機技能牌。 他們在本場戰鬥中耗能為0。 NL 消耗 。"
   },
   "Metamorphosis": {
-    "NAME": "Metamorphosis",
-    "DESCRIPTION": "Add !M! random Attacks into your Draw Pile. They cost 0 this combat. NL Exhaust."
+    "NAME": "羽化",
+    "DESCRIPTION": "在你的抽牌堆中加入 !M! 張隨機攻擊牌。 他們在本場戰鬥中耗能為0。 NL 消耗 。"
   },
   "Mayhem": {
-    "NAME": "Mayhem",
-    "DESCRIPTION": "At the start of your turn, play the top card of your draw pile."
+    "NAME": "亂戰",
+    "DESCRIPTION": "在你的回合開始時，打出你抽牌堆頂部的牌。"
   },
   "Shame": {
-    "NAME": "Shame",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Frail."
+    "NAME": "羞恥",
+    "DESCRIPTION": "不能被打出 。 NL 在你的回合結束時，獲得1層 脆弱 。"
   },
   "HandOfGreed": {
-    "NAME": "Hand Of Greed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+    "NAME": "貪婪之手",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果這張牌殺死一名不是「爪牙」的敵人，則獲得 !M! 金幣。"
   }
 }

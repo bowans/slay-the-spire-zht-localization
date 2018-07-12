@@ -710,8 +710,10 @@
   "Ring of the Serpent": {
     "NAME": "サーペントの指輪",
     "DESCRIPTIONS": [
-      "#g蛇の指輪 と入れ替わる。　#yエリート を倒すと、最大HP+ #b"
-    ]
+      "#g蛇の指輪 と入れ替わる。　#yエリート を倒すと、最大HP+ #b",
+      "At the start of your turn, draw #b1 additional card."
+    ],
+    "FLAVOR": "Your ring has morphed and changed forms."
   },
   "Runic Cube": {
     "NAME": "ルーニックキューブ",
@@ -1268,24 +1270,60 @@
     ]
   },
   "ClockworkSouvenir": {
-    "NAME": "Clockwork Souvenir",
+    "NAME": "時計仕掛けの記念品",
     "FLAVOR": "\"So many intricate gears.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b1 #yArtifact."
+      "戦闘開始時、 #yアーティファクト #b1 を得る。"
     ]
   },
   "MealTicket": {
-    "NAME": "Meal Ticket",
+    "NAME": "お食事券",
     "FLAVOR": "\"Complimentary meatballs with every visit!\"",
     "DESCRIPTIONS": [
-      "Whenever you enter a shop room, heal #b7 HP."
+      "ショップに来店するたび、HPを #b7 回復。"
     ]
   },
   "TwistedFunnel": {
-    "NAME": "Twisted Funnel",
+    "NAME": "捻じれた漏斗",
     "FLAVOR": "\"I wouldn't drink out of it.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+      "戦闘開始時、すべての敵に #y毒 #b4 を与える。"
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's block, apply #b2 #yVulnerable."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "Discard #b1 card and gain [G] at the start of each turn."
+    ]
+  },
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Orange Pellets",
+    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
     ]
   }
 }

@@ -608,7 +608,7 @@
   },
   "Corpse Explosion": {
     "NAME": "시체 폭발",
-    "DESCRIPTION": "중독을 !M! 부여합니다. NL 적이 죽을 경우, 적 전체에게 대상의 최대 체력만큼 피해를 줍니다.",
+    "DESCRIPTION": "중독 을 !M! 부여합니다. NL 적이 죽을 경우, 적 전체에게 대상의 최대 체력만큼 피해를 줍니다.",
     "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
       "deprecated"
@@ -658,7 +658,7 @@
   },
   "Bouncing Flask": {
     "NAME": "탄성 플라스크",
-    "DESCRIPTION": "3 의 중독을 무작위 적들에게 !M! 번 나누어 부여합니다."
+    "DESCRIPTION": "3 의 중독 을 무작위 적들에게 !M! 번 나누어 부여합니다."
   },
   "Bludgeon": {
     "NAME": "몽둥이질",
@@ -750,6 +750,7 @@
       "사용불가 NL 한 턴 동안 ",
       " 장의 카드만 사용할 수 있습니다.",
       " 장의 카드만 사용할 수 있습니다. NL 지금까지 카드를 ",
+      " 장 사용했습니다.",
       " 장 사용했습니다."
     ]
   },
@@ -1311,7 +1312,7 @@
   },
   "Mayhem": {
     "NAME": "대혼란",
-    "DESCRIPTION": "턴 시작 시, 뽑을 카드 더미 맨 위의 카드를 사용합니다."
+    "DESCRIPTION": "턴 시작 시, 뽑을 카드 더미 맨 위에 있는 카드를 사용합니다."
   },
   "Shame": {
     "NAME": "수치",

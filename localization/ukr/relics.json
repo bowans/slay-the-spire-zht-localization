@@ -481,12 +481,12 @@
     "NAME": "Чарівна квітка",
     "FLAVOR": "Квітка, вимерлого виду, якось збереглася в ідеальному стані.",
     "DESCRIPTIONS": [
-      "Зцілення від тепер на #b50% більш ефективне у бою."
+      "Зцілення від тепер на #b50% ефективніше у бою."
     ]
   },
   "Mango": {
     "NAME": "Манго",
-    "FLAVOR": "Найбільш бажаний забутий плід. Бездоганно збереглася без ознак забруднення вежею.",
+    "FLAVOR": "Найбажаніший, втрачений плід. Бездоганно зберегся без ознак забруднення вежею.",
     "DESCRIPTIONS": [
       "Підбираючи, збільшує макс. ОЗ на #b"
     ]
@@ -793,8 +793,10 @@
   "Ring of the Serpent": {
     "NAME": "Кільце гадюки",
     "DESCRIPTIONS": [
-      "Замінює #gЗміїне #gкільце. Якщо Ви переможете #yЕліта, збільшить Max ОЗ by #b"
-    ]
+      "Замінює #gЗміїне #gкільце. Якщо Ви переможете #yЕліта, збільшить Max ОЗ by #b",
+      "At the start of your turn, draw #b1 additional card."
+    ],
+    "FLAVOR": "Your ring has morphed and changed forms."
   },
   "Ring of the Snake": {
     "NAME": "Зміїне кільце",
@@ -928,9 +930,9 @@
     "FLAVOR": "«Нерозумна одержимість ранніх людей з часом, змусила їх дивитися на небо в пошуку напрямку, сподіваючись на щось витривале.» - Зорот",
     "DESCRIPTIONS": [
       "Кожен #b",
-      " раз Ви проходите через усю колоду, отримуєте [R] [R] .",
-      " раз Ви проходите через усю колоду, отримуєте [G] [G] .",
-      " раз Ви проходите через усю колоду, отримуєте [B] [B] ."
+      " раз(и) Ви проходите через добір, отримуєте [R] [R] .",
+      " раз(и) Ви проходите через добір, отримуєте [G] [G] .",
+      " раз(и) Ви проходите через добір, отримуєте [B] [B] ."
     ]
   },
   "Symbiotic Virus": {
@@ -1218,7 +1220,7 @@
     "NAME": "Голова Зміюки",
     "FLAVOR": "Найцінніше життя - це те, в якому можна купити усе!",
     "DESCRIPTIONS": [
-      "Щоразу Ви починаєте подію, отримуєте #b",
+      "Щоразу Ви заходите у (?) кімнату, отримуєте #b",
       " #yЗолота."
     ]
   },
@@ -1230,62 +1232,98 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "Маска Нлота",
+    "NAME": "Голодне обличчя Нлота",
     "FLAVOR": "Ви почуваєтеся голодим.",
     "DESCRIPTIONS": [
-      "Щоразу, граючи рідкісні карти, отримуєте #b",
-      " #yБроні."
-    ]
-  },
-  "CultistMask": {
-    "NAME": "Cultist Mask",
-    "FLAVOR": "Part of the Flock!",
-    "DESCRIPTIONS": [
-      "You feel more talkative.",
-      "@CAW!@ NL @CAAAW@"
+      "Наступна не князівська скриня, пуста.",
+      ""
     ]
   },
   "GremlinMask": {
-    "NAME": "Tiny Gremlin Mask",
-    "FLAVOR": "Time to run.",
+    "NAME": "Обличчя Гремліна",
+    "FLAVOR": "Час тікати.",
     "DESCRIPTIONS": [
-      "Start each combat with #b1 #yWeak."
+      "Починаєте кожен бій з #b1 #yСлабкістю."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Мисюрка Культиста",
+    "FLAVOR": "Частина зграї!",
+    "DESCRIPTIONS": [
+      "Ви почуваєтесь говірким.",
+      "@КАА!@ NL @КАААРР@"
     ]
   },
   "TheAbacus": {
-    "NAME": "The Abacus",
-    "FLAVOR": "One...Two...Three...Dead!",
+    "NAME": "Рахівниця",
+    "FLAVOR": "«Один...два...три...»",
     "DESCRIPTIONS": [
-      "Gain #b6 #yBlock whenever you shuffle your draw pile."
+      "Отримуєте #b6 #yБроні щоразу Ви тасуєте добір."
     ]
   },
   "DollysMirror": {
-    "NAME": "Dolly's Mirror",
-    "FLAVOR": "\"I look funny in this.\"",
+    "NAME": "Дзеркало лялечки",
+    "FLAVOR": "«Я виглядаю кумедно у цьому віддзеркаленні.»",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain an additional copy of a card in your deck.",
-      "Choose 1 Card to Copy."
+      "Підбираючи, отримуєте додаткову копію карти у Вашій колоді.",
+      "Оберіть 1 карту щоб скопіювати."
     ]
   },
   "ClockworkSouvenir": {
-    "NAME": "Clockwork Souvenir",
-    "FLAVOR": "\"So many intricate gears.\"",
+    "NAME": "Подарунок Годинникового",
+    "FLAVOR": "«Такий складний механізм.»",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b1 #yArtifact."
+      "На початку кожного бою, отримуєте #b1 #yАртефакт."
     ]
   },
   "MealTicket": {
-    "NAME": "Meal Ticket",
-    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "NAME": "Квиток на їжу",
+    "FLAVOR": "«Безкоштовні фрикадельки з кожним відвідуванням!»",
     "DESCRIPTIONS": [
-      "Whenever you enter a shop room, heal #b7 HP."
+      "Щоразу Ви заходите у крамницю, зцілюєтесь на #b7 ОЗ."
     ]
   },
   "TwistedFunnel": {
-    "NAME": "Twisted Funnel",
-    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "NAME": "Кручена лійка",
+    "FLAVOR": "«Я б не пив звідси.»",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+      "На початку кожного бою, наносить #b4 #yОтрути усім ворогам."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's block, apply #b2 #yVulnerable."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "Discard #b1 card and gain [G] at the start of each turn."
+    ]
+  },
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Orange Pellets",
+    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
     ]
   }
 }

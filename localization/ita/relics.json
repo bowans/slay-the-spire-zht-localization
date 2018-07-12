@@ -228,6 +228,13 @@
       "Ad inizio combattimento #yCrei #b1 #yFulmine."
     ]
   },
+  "FrozenCore": {
+    "NAME": "Nucleo Ghiacciato",
+    "FLAVOR": "Il tuo nucleo è stato riparato, la crepa che aveva è ora ricolma di una fredda energia pulsante.",
+    "DESCRIPTIONS": [
+      "Rimpiazza il #rNucleo #rIncrinato. Se finisci il turno con uno spazio Globi vuoto, #yCrei #b1 #yGhiaccio."
+    ]
+  },
   "Cursed Key": {
     "NAME": "Chiave Maledetta",
     "FLAVOR": "Senti l'energia maledetta che emana dalla chiave. Dunque, il potere ha un prezzo.",
@@ -682,7 +689,7 @@
     "FLAVOR": "Aprirlo non ti sembra un'ottima idea.",
     "DESCRIPTIONS": [
       "#bTrasforma tutti i Colpi ed i Difendi.",
-      "Il Vaso di Pandora è stato aperto..."
+      "Il Vaso di Pandora è ora aperto..."
     ]
   },
   "Pantograph": {
@@ -792,8 +799,10 @@
   },
   "Ring of the Serpent": {
     "NAME": "Anello del Serpente",
+    "FLAVOR": "Il tuo anello si è trasformato, cambiando forma.",
     "DESCRIPTIONS": [
-      "Sostituisce l'#gAnello #gdella #gSerpe. Se sconfiggi un nemico #yElite, aumenta i tuoi PV massimi di #b"
+      "Sostituisce l'#gAnello #gdella #gSerpe. ",
+      "Ad inizio turno peschi #b1 carta in più."
     ]
   },
   "Ring of the Snake": {
@@ -928,9 +937,9 @@
     "FLAVOR": "\"La sciocca ossessione con il tempo dell'uomo primitivo lo portava a cercare nel cielo una guida, sperando di trovare qualcosa di eterno.\" - Zoroth",
     "DESCRIPTIONS": [
       "Ogni #b",
-      " volta che mescoli il tuo mazzo, ottieni [R] [R] .",
-      " volta che mescoli il tuo mazzo, ottieni [G] [G] .",
-      " volta che mescoli il tuo mazzo, ottieni [B] [B] ."
+      " volte che mescoli la Pila, ottieni [R] [R] .",
+      " volte che mescoli la Pila, ottieni [G] [G] .",
+      " volte che mescoli la Pila, ottieni [B] [B] ."
     ]
   },
   "Symbiotic Virus": {
@@ -1223,17 +1232,17 @@
     ]
   },
   "FaceOfCleric": {
-    "NAME": "Volto del Chierico",
+    "NAME": "Viso del Chierico",
     "FLAVOR": "Tutti amano il Chierico.",
     "DESCRIPTIONS": [
       "I tuoi PV Massimi aumentano di #b1 dopo ogni combattimento."
     ]
   },
   "NlothsMask": {
-    "NAME": "Maschera affamata di N'Loth",
+    "NAME": "Viso Famelico di N'Loth",
     "FLAVOR": "Ti senti affamato.",
     "DESCRIPTIONS": [
-      "Il prossimo Scrigno non ottenuto da un boss che apri è vuoto.",
+      "Il prossimo Scrigno che apri in una stanza diversa da quella del boss non contiene nulla.",
       ""
     ]
   },
@@ -1275,7 +1284,7 @@
     ]
   },
   "MealTicket": {
-    "NAME": "Buono Passto",
+    "NAME": "Buono Pasto",
     "FLAVOR": "\"Con questo, le polpette sono in omaggio!\"",
     "DESCRIPTIONS": [
       "Quando entri in un negozio, ti curi di #b7 PV."
@@ -1283,9 +1292,38 @@
   },
   "TwistedFunnel": {
     "NAME": "Imbuto Contorto",
-    "FLAVOR": "\"Io non ci berrei da lì.\"",
+    "FLAVOR": "\"Io, da lì, non berrei.\"",
     "DESCRIPTIONS": [
       "Ad inizio combattimento, applichi #b4 #yVeleno a TUTTI i nemici."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Trapano",
+    "FLAVOR": "\"La sua punta a spirale è particolarmente pericolosa.\"",
+    "DESCRIPTIONS": [
+      "Ogni volta che rompi il #yBlocco di un nemico, gli applichi #b2 #yVulnerabile."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Aquilone Leggero",
+    "FLAVOR": "L'Aquilone ti volteggia intorno durante la battaglia, mosso da una forza misteriosa.",
+    "DESCRIPTIONS": [
+      "Ottieni [G] e scarti #b1 carta ad inizio turno."
+    ]
+  },
+  "Sling": {
+    "NAME": "Fionda del Coraggio",
+    "FLAVOR": "\"Uno strumento utile per affrontare avversari particolarmente tenaci.\"",
+    "DESCRIPTIONS": [
+      "Inizi il combattimento contro Elite con #b",
+      " #yForza."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Pastiglie Arancioni",
+    "FLAVOR": "\"Costituite di un agglomerato di vari funghi nativi della Guglia, respingeranno ogni tipo di malanno.\"",
+    "DESCRIPTIONS": [
+      "Quando giochi un #yPotere, un #yAttacco e una #yAbilità nello stesso turno, rimuovi tutti i tuoi Debuff."
     ]
   }
 }

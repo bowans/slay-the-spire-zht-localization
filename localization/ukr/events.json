@@ -820,18 +820,19 @@
   "FaceTrader": {
     "NAME": "Торговець обличчями",
     "DESCRIPTIONS": [
-      "ЗДАЄТЬСЯ КОМУСЬ ПОТРІБНЕ НОВЕНЬКЕ ОБЛИЧЧЯ!",
-      "НАСОЛОДЖУЙСЯ НОВЕНЬКИМ ОБЛИЧЧЯМ!",
-      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
-      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
-      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
+      "Проходячи повз моторошної статуї яка тримає кілька масок... NL Щось за вами тихо шепоче, NL ~«Cпинись.»~",
+      "Ви повертається, віч-на-віч зі статуєю, яка дивиться на Вас! NL При ближчому розгляді, це не статуя, а висхлий чоловік. Чи живий він? NL NL ~«Обличчя.~ ~Дай~ ~торкнутися?~ ~Може~ ~обмін?»~",
+      "~«Компенсація?~ ~Компенсація.»~ NL Механічно, він дістає кульок #yзолота та протягує у Ваш бік. NL NL ~«Яке~ ~гарнюнє~ ~обличчя.~ ~Маленьке~ ~лице.»~ NL Торкаючися Вашого обличчя, Ви починаєте втрачати енергію! NL Під час цього, його маска відпадає і розколюється. Верескляючи, він швидко ховає своє обличчя усіма шести руками, упускаючи більше масок! Серед усього цього, Ви намагаєтесь втікти. NL NL Його обличчя було зовсім порожнім.",
+      "~«Для~ ~мене?~ @ДЛЯ@ @МЕНЕ?@ ~О~ ~так..~ ~Так.~ ~Так..~ ~хммм...»~ NL NL Ви помічаєте як одина з його рук замерехтіла… і гоп, Ваше обличчя у нього в руках! Ваше лице обміняли. NL NL ~«Файне~ ~обличчя.~ ~Файне~ ~обличчя.»~",
+      "~«Зупинись.~ ~Зупинись.~ ~Зупинись.~ ~зупинись.»~ NL NL Надіюсь, це було правильнe рішення."
     ],
     "OPTIONS": [
-      "[Маска Нлота] #gЩоразу, #gграючи #gрідкісні #gкарти, #gотримуєте #g3 #gБроні.",
-      "[Голова Зміюки] #gЩоразу #gВи #gпочинаєте #gподію, #gотримуєте #g50 #gЗолота.",
-      "[Лице Церковника] #gЗбільшує #gВаше #gмакс. #gОЗ #gна #g1 #gпісля #gкожного #gбою.",
+      "[Торкнутися] #rВтрачаєте #r10% #rмакс #rОЗ, #gотримуєте #g",
+      " #gЗолота",
+      "[Торгуватись] #g50%: #gДобре #gЛице. #r50%: #rПогане #rЛице..",
       "[Покинути]",
-      "[Continue]"
+      " #rHP, #ggain #g",
+      " #rHP, #ggain #g"
     ]
   }
 }

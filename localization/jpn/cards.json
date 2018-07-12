@@ -372,7 +372,7 @@
   },
   "The Bomb": {
     "NAME": "爆弾",
-    "DESCRIPTION": "すべての敵とあなたに!D! ダメージを与える。 NL 廃棄 。"
+    "DESCRIPTION": "3ターン後、 すべての敵に !M! ダメージを与える。"
   },
   "Sever Soul": {
     "NAME": "霊魂切断",
@@ -624,10 +624,10 @@
   },
   "Corpse Explosion": {
     "NAME": "死体爆破",
-    "DESCRIPTION": "敵はすべての 毒 を失う。失った毒ｘ2 のダメージを敵全体に与える。",
-    "UPGRADE_DESCRIPTION": "敵はすべての 毒 を失う。失った毒ｘ3 のダメージを敵全体に与える。",
+    "DESCRIPTION": "毒 !M! を与える。 NL 対象の敵が死亡した時、その最大HPに等しいダメージをすべての敵に与える。",
+    "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
-      "この敵は 毒 を受けていない。"
+      "deprecated"
     ]
   },
   "Second Wind": {
@@ -766,7 +766,8 @@
       "使用不可。 NL あなたはこのターン、",
       " 枚のカードをプレイできない。",
       " 枚のカードをプレイできない。 NL 既に",
-      " 枚のカードをプレイした。"
+      " 枚のカードをプレイした。",
+      " cards this turn."
     ]
   },
   "Accuracy": {
@@ -1299,7 +1300,7 @@
   },
   "PanicButton": {
     "NAME": "非常ボタン",
-    "DESCRIPTION": "!B! ブロックを得る。 次の !M! ターンの間、ブロックを得ることができない。 NL 廃棄 。"
+    "DESCRIPTION": "!B! ブロックを得る。 次の !M! ターンの間、カードからブロックを得ることができない。 NL 廃棄 。"
   },
   "Chrysalis": {
     "NAME": "サナギ",
@@ -1315,7 +1316,7 @@
   },
   "Shame": {
     "NAME": "羞恥",
-    "DESCRIPTION": "使用不可 。 NL ターン終了時、 脆弱 1 を得る。"
+    "DESCRIPTION": "使用不可 。 NL ターン終了時、 脆弱化 1 を得る。"
   },
   "HandOfGreed": {
     "NAME": "強欲の手",

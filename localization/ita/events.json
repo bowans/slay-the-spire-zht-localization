@@ -237,7 +237,7 @@
     "DESCRIPTIONS": [
       "Mentre ascendi, #p~dense~ #p~nubi~ #p~di~ #p~fumo~ #p~nero~ trasudano dai muri e dal terreno. Cominciano a condensarsi, formando tre figure mascherate che ti parlano. NL NL ~\"Un~ ~altro~ ~fantoccio~ ~di~ #y~Neow~ ~a~ ~quanto~ ~pare.\"~ NL #r@\"DECISAMENTE!@ #r@LE@ #r@SUE@ #r@BAMBOLE@ #r@SONO@ #r@SEMPRE@ #r@ESILARANTI!\"@ NL NL Il terzo ti rivolge un gigantesco sorriso e ti parla. NL \"Ignora gli altri... vorresti provare il nostro #y~potere?\"~ ",
       "",
-      "#y\"Eccellente!\" NL Mentre lo spettro ti parla, la sua bocca sembra spalancarsi sempre di più. Ne fuoriesce un #p~denso~ #p~fumo~ #p~nero,~ che avviluppa la stanza. Non vedi nulla e non riesci a respirare... NL NL Appena prima di perdere conoscienza, ti riprendi. NL NL Qualunque cosa fossero, le tre figure sono sparite. Prosegui il tuo cammino, sentendoti stranamente #bvuoto.",
+      "#y\"Eccellente!\" NL Mentre lo spettro ti parla, la sua bocca sembra spalancarsi sempre di più. Ne fuoriesce un #p~denso~ #p~fumo~ #p~nero,~ che avviluppa la stanza. Non vedi nulla e non riesci a respirare... NL NL Appena prima di perdere conoscienza, ti riprendi. NL NL Qualunque cosa fossero, le tre figure sono sparite. Prosegui il tuo cammino, sentendoti stranamente #bsvuotato.",
       "\"Che delusione...\" NL ~\"Ti~ ~unirai~ ~a~ ~noi,~ ~prima~ ~o~ ~poi.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Le figure svaniscono, ma nelle tue orecchie rimane l'agghiacciante eco di una risata.",
       ""
     ],
@@ -827,11 +827,12 @@
       "~\"Fermati.~ ~Fermati.~ ~Fermati.~ ~Fermati.~ ~Fermati.\"~ NL NL Sì, probabilmente era la cosa giusta da fare."
     ],
     "OPTIONS": [
-      "[Tocca] #rPerdi #ril #r10% #rdei #rPV #rmassimi, #gottieni #g",
+      "[Tocca] #rPerdi #r",
       " #gOro.",
       "[Scambia] #g50%: #gViso #gMigliore. #r50%: #rViso #rPeggiore.",
       "[Ignora]",
-      "[Prosegui]"
+      "[Prosegui]",
+      " #rPV, #gottieni #g"
     ]
   }
 }

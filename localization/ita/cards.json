@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "Berserk",
-    "DESCRIPTION": "Ad inizio turno, se hai 50% dei tuoi PV massimi o meno ottieni [R]."
+    "DESCRIPTION": "Ottieni !M! Vulnerabile. NL Ottieni [R] all'inizio di ogni turno."
   },
   "Biased Cognition": {
     "NAME": "Bias Cognitivo",
@@ -179,7 +179,7 @@
   "Buffer": {
     "NAME": "Buffer",
     "DESCRIPTION": "Previene la prossima perdita di PV.",
-    "UPGRADE_DESCRIPTION": "Previene le prossime !M! perdite di PV."
+    "UPGRADE_DESCRIPTION": "Previene le prossime NL !M! perdite di PV."
   },
   "Bullet Time": {
     "NAME": "Tempo Dilatato",
@@ -299,7 +299,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Cadavere Bomba",
-    "DESCRIPTION": "Applica !M! veleno ad un nemico. NL Quando muore, infliggi danno pari ai suoi PV massimi a TUTTI i nemici.",
+    "DESCRIPTION": "Applica !M! veleno ad un nemico. NL Quando muore, infliggi i suoi PV massimi a TUTTI i nemici.",
     "UPGRADE_DESCRIPTION": "Deprecated.",
     "EXTENDED_DESCRIPTION": [
       "Deprecated."
@@ -630,8 +630,8 @@
   },
   "Heavy Blade": {
     "NAME": "Lama Pesante",
-    "DESCRIPTION": "Infliggi !D! danni. NL La tua Forza influisce sulla Lama Pesante !M! volte.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
+    "DESCRIPTION": "Infliggi !D! danni. NL La Forza influisce sulla Lama Pesante !M! volte.",
+    "UPGRADE_DESCRIPTION": "Infliggi !D! danni. NL La Forza influisce sulla Lama Pesante !M! volte."
   },
   "Heel Hook": {
     "NAME": "Presa di Sottomissione",
@@ -821,7 +821,8 @@
       "Ingiocabile. NL Non puoi giocare più di ",
       " carte per turno.",
       " carte per turno. NL Hai giocato ",
-      " carta questo turno."
+      " carta questo turno.",
+      " carte questo turno,"
     ]
   },
   "Nova": {
@@ -840,7 +841,7 @@
   "Offering": {
     "NAME": "Sacrificio",
     "DESCRIPTION": "Perdi 4 PV. NL Ottieni [R] [R]. NL Peschi !M! carte. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Perdi 4 PV. NL Ottieni [R] [R].NL Peschi !M! carte. NL Esaurisci."
   },
   "Outmaneuver": {
     "NAME": "Manovra Evasiva",
@@ -914,7 +915,7 @@
   "Pummel": {
     "NAME": "Pioggia di Pugni",
     "DESCRIPTION": "Infliggi !D! danni !M! volte. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Infliggi !D! danni !M! volte. NL Esaurisci."
   },
   "Purity": {
     "NAME": "Purezza",
@@ -939,7 +940,7 @@
   },
   "Reaper": {
     "NAME": "Mietitore",
-    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. Ti curi di un valore pari al danno che non viene bloccato. NL Esaurisci."
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. Ti curi di PV pari ai danni non bloccati. NL Esaurisci."
   },
   "Reboot": {
     "NAME": "Riavvio",
@@ -984,7 +985,7 @@
   "Reprogram": {
     "NAME": "Riprogramma",
     "DESCRIPTION": "Guarda le prime !M! carte della Pila. Puoi scartarne quante vuoi.",
-    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "UPGRADE_DESCRIPTION": "Guarda le prime !M! carte della Pila. Puoi scartarne quante vuoi."
   },
   "Riddle With Holes": {
     "NAME": "Crivella di Colpi",
@@ -1182,7 +1183,7 @@
   },
   "The Bomb": {
     "NAME": "La Bomba",
-    "DESCRIPTION": "Fra 3 turni, infliggi !D! danni a TUTTI i nemici."
+    "DESCRIPTION": "Fra 3 turni, infliggi !M! danni a TUTTI i nemici."
   },
   "Thinking Ahead": {
     "NAME": "Lungimiranza",
@@ -1307,7 +1308,7 @@
   },
   "RitualDagger": {
     "NAME": "Lama Rituale",
-    "DESCRIPTION": "Infliggi !D! danni. Se il nemico scelto muore così, il danno di questa carta aumenta di !M!. Esaurisci."
+    "DESCRIPTION": "Infliggi !D! danni. Se il nemico ne muore, il danno di questa carta aumenta di !M!. Esaurisci."
   },
   "Pride": {
     "NAME": "Orgoglio",

@@ -63,7 +63,7 @@
   "Berserk": {
     "NAME": "Шаленість",
     "DESCRIPTIONS": [
-      "Втрачаючи #b50% життя, або більше, отримуєте ",
+      "Отримуєте ",
       " на початку Вашого руху."
     ]
   },
@@ -531,6 +531,14 @@
       " на початку Вашого руху."
     ]
   },
+  "Mayhem": {
+    "NAME": "Розгардіяш",
+    "DESCRIPTIONS": [
+      "На початку Вашого руху, граєте першу карту з добору.",
+      "На початку Вашого руху, граєте першу #b",
+      " карти з добору."
+    ]
+  },
   "Metallicize": {
     "NAME": "Броньований",
     "DESCRIPTIONS": [
@@ -835,6 +843,13 @@
       "."
     ]
   },
+  "TheBomb": {
+    "NAME": "Бомба",
+    "DESCRIPTIONS": [
+      "Після %1$s рухів, наносить %2$s шкоди усім ворогам",
+      "Після цього руху, наносить %2$s шкоди усім ворогам"
+    ]
+  },
   "Thievery": {
     "NAME": "Покража",
     "DESCRIPTIONS": [
@@ -949,32 +964,17 @@
     ]
   },
   "NoBlockPower": {
-    "NAME": "No Block Power",
+    "NAME": "Без броні",
     "DESCRIPTIONS": [
-      "You cannot gain #yBlock."
-    ]
-  },
-  "Mayhem": {
-    "NAME": "Mayhem",
-    "DESCRIPTIONS": [
-      "At the start of your turn, play the top card of your draw pile.",
-      "At the start of your turn, play the top #b",
-      " cards of your draw pile."
-    ]
-  },
-  "TheBomb": {
-    "NAME": "The Bomb",
-    "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
-      "At the end of this turn, deal %1$s damage to ALL enemies"
+      "Ви не заможете отримати #yБроню з карт."
     ]
   },
   "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
+    "NAME": "Підрив тіла",
     "DESCRIPTIONS": [
-      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
-      "When this enemy dies, deal damage to ALL enemies equal to #b",
-      " times its Max HP."
+      "Коли цей ворог помирає, наносить шкоду рівну своєму макс. ОЗ, УСІМ ворогам.",
+      "Коли цей ворог помирає, наносить шкоду у #b",
+      " рази більше свого ОЗ, УСІМ ворогам."
     ]
   }
 }

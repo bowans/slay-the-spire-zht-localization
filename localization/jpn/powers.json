@@ -951,7 +951,7 @@
   "NoBlockPower": {
     "NAME": "ブロック不可能",
     "DESCRIPTIONS": [
-      "#yブロック を得られない。"
+      "カードから #yブロック を得られない。"
     ]
   },
   "Mayhem": {
@@ -963,18 +963,18 @@
     ]
   },
   "TheBomb": {
-    "NAME": "The Bomb",
+    "NAME": "爆弾",
     "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
-      "At the end of this turn, deal %1$s damage to ALL enemies"
+      "%1$s ターン後、すべての敵に %2$s ダメージを与える。",
+      "このターンの終了時、すべての敵に %1$s ダメージを与える。"
     ]
   },
   "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
+    "NAME": "死体爆破",
     "DESCRIPTIONS": [
-      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
-      "When this enemy dies, deal damage to ALL enemies equal to #b",
-      " times its Max HP."
+      "この敵が死亡した時、その最大HPに等しいダメージをすべての敵に与える。",
+      "この敵が死亡した時、その最大HPの #b",
+      " 倍に等しいダメージをすべての敵に与える。"
     ]
   }
 }

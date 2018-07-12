@@ -63,7 +63,7 @@
   "Berserk": {
     "NAME": "狂暴",
     "DESCRIPTIONS": [
-      "如果你的生命值等於或低於 #b50% ，在你的回合開始時獲得 ",
+      "在你的回合開始時獲得 ",
       " 。"
     ]
   },
@@ -949,32 +949,32 @@
     ]
   },
   "NoBlockPower": {
-    "NAME": "No Block Power",
+    "NAME": "無法格擋",
     "DESCRIPTIONS": [
-      "You cannot gain #yBlock."
+      "你無法從卡牌中獲得 #y格擋 。"
     ]
   },
   "Mayhem": {
-    "NAME": "Mayhem",
+    "NAME": "亂戰",
     "DESCRIPTIONS": [
-      "At the start of your turn, play the top card of your draw pile.",
-      "At the start of your turn, play the top #b",
-      " cards of your draw pile."
+      "在你的回合開始時，打出你抽牌堆頂部的牌。",
+      "在你的回合開始時，打出你抽牌堆頂部的 #b",
+      " 張牌。"
     ]
   },
   "TheBomb": {
-    "NAME": "The Bomb",
+    "NAME": "炸彈",
     "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
-      "At the end of this turn, deal %1$s damage to ALL enemies"
+      "在 %1$s 回合結束後，對所有敵人造成 %2$s 傷害。",
+      "在本回合結束時，對所有敵人造成 %1$s 傷害。"
     ]
   },
   "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
+    "NAME": "屍爆術",
     "DESCRIPTIONS": [
-      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
-      "When this enemy dies, deal damage to ALL enemies equal to #b",
-      " times its Max HP."
+      "當這名敵人死亡時，對所有敵人造成等於其最大生命值的傷害。",
+      "當這名敵人死亡時，對所有敵人造成等於其最大生命值 #b",
+      " 倍的傷害。"
     ]
   }
 }

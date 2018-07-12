@@ -151,6 +151,14 @@
       " урона в конце своего хода."
     ]
   },
+  "CorpseExplosionPower": {
+    "NAME": "Взрывоопасность",
+    "DESCRIPTIONS": [
+      "Когда этот враг погибнет, урон в размере его Макс. ОЗ будет нанесён ВСЕМ врагам.",
+      "Когда этот враг погибнет, урон в #b",
+      " раза превышающий его Макс. ОЗ будет нанесён ВСЕМ врагам. "
+    ]
+  },
   "Corruption": {
     "NAME": "Скверна",
     "DESCRIPTIONS": [
@@ -550,9 +558,9 @@
   "Mayhem": {
     "NAME": "Беспредел",
     "DESCRIPTIONS": [
-      "В начале своего хода, вы разыгрываете карту с верха стопки добора.",
-      "В начале своего хода, вы разыгрываете #b",
-      " карты с верха стопки добора."
+      "Вы разыгрываете карту с верха стопки добора в начале своего хода.",
+      "Вы разыгрываете #b",
+      " карты с верха стопки добора в начале своего хода."
     ]
   },
   "Metallicize": {
@@ -604,9 +612,9 @@
     ]
   },
   "NoBlockPower": {
-    "NAME": "Талант беззащитного",
+    "NAME": "Запрет защиты",
     "DESCRIPTIONS": [
-      "Вы не можете получать #yЗащиту."
+      "Вы не можете получать #yЗащиту от карт."
     ]
   },
   "Noxious Fumes": {
@@ -872,6 +880,13 @@
       "."
     ]
   },
+  "TheBomb": {
+    "NAME": "Тик-ток",
+    "DESCRIPTIONS": [
+      "Нанесёт %1$s урона ВСЕМ врагам через %2$s хода.",
+      "Нанесёт %1$s урона ВСЕМ врагам в конце этого хода."
+    ]
+  },
   "Thievery": {
     "NAME": "Грабёж",
     "DESCRIPTIONS": [
@@ -960,21 +975,6 @@
     "DESCRIPTIONS": [
       "Отнимает #b ",
       " #yЛовкости в конце вашего хода."
-    ]
-  },
-  "TheBomb": {
-    "NAME": "The Bomb",
-    "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
-      "At the end of this turn, deal %1$s damage to ALL enemies"
-    ]
-  },
-  "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
-    "DESCRIPTIONS": [
-      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
-      "When this enemy dies, deal damage to ALL enemies equal to #b",
-      " times its Max HP."
     ]
   }
 }

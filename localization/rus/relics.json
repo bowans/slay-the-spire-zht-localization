@@ -98,7 +98,7 @@
     ]
   },
   "Boot": {
-    "NAME": "Заводной ботинок",
+    "NAME": "Могучий ботинок",
     "FLAVOR": "Если ботинок завести, он станет больше.",
     "DESCRIPTIONS": [
       "Повышает наносимый #yАтаками урон с #b",
@@ -239,6 +239,13 @@
       "Соберите столько, сколько сможете."
     ]
   },
+  "ClockworkSouvenir": {
+    "NAME": "Заводная безделушка",
+    "FLAVOR": "\"Так много изящных шестеренок.\"",
+    "DESCRIPTIONS": [
+      "Даёт #b1 #yАртефакта в начале каждого боя."
+    ]
+  },
   "Coffee Dripper": {
     "NAME": "Кофейная воронка",
     "FLAVOR": "«Пожалуй, ещё одну чашечку. За работу. За работу!» — Архитектор",
@@ -260,7 +267,7 @@
     "NAME": "Маска культиста",
     "FLAVOR": "Часть Стаи!",
     "DESCRIPTIONS": [
-      "Вы необычно говорливы.",
+      "Вы стали на редкость говорливы.",
       "@КАР!@ NL @КАР-Р-Р!@"
     ]
   },
@@ -323,10 +330,10 @@
   },
   "DollysMirror": {
     "NAME": "Зеркало Долли",
-    "FLAVOR": "\"В нём я выгляжу забавно.\"",
+    "FLAVOR": "«В нём я выгляжу забавно».",
     "DESCRIPTIONS": [
-      "При получении вы создаёт копию выбранной карты в колоде.",
-      "Выберите 1 карту для копирования."
+      "При получении вы выберете и скопируете карту в колоде.",
+      "Выберите 1 карту, которую хотите скопировать."
     ]
   },
   "Dream Catcher": {
@@ -595,6 +602,13 @@
       "В след. #b2 сундуках, которые вы откроете, будет по #b2 #yреликвии (исключая сундуки боссов).",
       "В след. сундуке, который вы откроете, будет #b2 #yреликвии (исключая сундук босса).",
       "Эта реликвия израсходована."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Талон на питание",
+    "FLAVOR": "«Бесплатные фрикадельки при каждом посещении!»",
+    "DESCRIPTIONS": [
+      "Восполняет #b7 ОЗ при каждом посещении магазина."
     ]
   },
   "Meat on the Bone": {
@@ -891,8 +905,10 @@
   "Ring of the Serpent": {
     "NAME": "Кольцо Змея",
     "DESCRIPTIONS": [
-      "Заменяет #g«Змеиное #gкольцо». Побеждая #yэлитного врага, вы повышаете Макс. ОЗ на #b"
-    ]
+      "Заменяет #g«Змеиное #gкольцо». Побеждая #yэлитного врага, вы повышаете Макс. ОЗ на #b",
+      "At the start of your turn, draw #b1 additional card."
+    ],
+    "FLAVOR": "Your ring has morphed and changed forms."
   },
   "Ring of the Snake": {
     "NAME": "Змеиное кольцо",
@@ -1011,8 +1027,8 @@
     "NAME": "Голова З-з-з-з-змея",
     "FLAVOR": "Самое приятное в жизни — возможность купить что угодно!",
     "DESCRIPTIONS": [
-      "При входе в тайные комнаты, даёт #b",
-      " #yЗолота."
+      "Даёт #b",
+      " #yзолота при входе в тайные комнаты."
     ]
   },
   "Strange Spoon": {
@@ -1124,7 +1140,7 @@
   },
   "TheAbacus": {
     "NAME": "Счёты",
-    "FLAVOR": "\"Раз...Два...Три...\"",
+    "FLAVOR": "«Раз...Два...Три...»",
     "DESCRIPTIONS": [
       "Даёт #b6 #yЗащиты при перетасовке колоды."
     ]
@@ -1217,6 +1233,13 @@
       "Даёт иммунитет к #yХрупкости."
     ]
   },
+  "TwistedFunnel": {
+    "NAME": "Искажённая воронка",
+    "FLAVOR": "«Не стоит из неё пить».",
+    "DESCRIPTIONS": [
+      "Накладывает #b4 #yЯда на ВСЕХ врагов в начале каждого боя."
+    ]
+  },
   "Unceasing Top": {
     "NAME": "Вечный волчок",
     "FLAVOR": "Этот волчок продолжает непринуждённо вращаться, словно это сон.",
@@ -1267,25 +1290,40 @@
       "Гарантирует выпадение зелья после боя."
     ]
   },
-  "ClockworkSouvenir": {
-    "NAME": "Clockwork Souvenir",
-    "FLAVOR": "\"So many intricate gears.\"",
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b1 #yArtifact."
+      "Whenever you break an enemy's block, apply #b2 #yVulnerable."
     ]
   },
-  "MealTicket": {
-    "NAME": "Meal Ticket",
-    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
     "DESCRIPTIONS": [
-      "Whenever you enter a shop room, heal #b7 HP."
+      "Discard #b1 card and gain [G] at the start of each turn."
     ]
   },
-  "TwistedFunnel": {
-    "NAME": "Twisted Funnel",
-    "FLAVOR": "\"I wouldn't drink out of it.\"",
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+      "Start each Elite combat with #b",
+      " #yStrength."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Orange Pellets",
+    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
     ]
   }
 }

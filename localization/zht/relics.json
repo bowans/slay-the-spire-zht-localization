@@ -801,8 +801,10 @@
   "Ring of the Serpent": {
     "NAME": "長蛇戒指",
     "DESCRIPTIONS": [
-      "替換 #g蛇之戒指 。 你每打敗一名 #y精英 敵人，將你的最大生命值提升 #b"
-    ]
+      "替換 #g蛇之戒指 。 你每打敗一名 #y精英 敵人，將你的最大生命值提升 #b",
+      "At the start of your turn, draw #b1 additional card."
+    ],
+    "FLAVOR": "Your ring has morphed and changed forms."
   },
   "Ring of the Snake": {
     "NAME": "蛇之戒指",
@@ -1218,16 +1220,16 @@
     "NAME": "蛇的頭",
     "FLAVOR": "最幸福的人生當然就是什麼東西都能買得起的土豪生活了！",
     "DESCRIPTIONS": [
-      "每次遇到事件時獲得 #b",
+      "每次進入？房間時獲得 #b",
       " #y金幣 。"
     ]
   },
   "NlothsMask": {
-    "NAME": "恩洛斯的面具",
+    "NAME": "恩洛斯的饑餓的臉",
     "FLAVOR": "你覺得好餓。",
     "DESCRIPTIONS": [
-      "每次打出稀有牌時獲得 #b",
-      " 點 #y格擋 。"
+      "你打開的下一個非Boss寶箱將是空的。",
+      ""
     ]
   },
   "FaceOfCleric": {
@@ -1238,54 +1240,90 @@
     ]
   },
   "CultistMask": {
-    "NAME": "Cultist Mask",
-    "FLAVOR": "Part of the Flock!",
+    "NAME": "邪教徒頭套",
+    "FLAVOR": "自己人！自己人！",
     "DESCRIPTIONS": [
-      "You feel more talkative.",
-      "@CAW!@ NL @CAAAW@"
+      "你覺得自己有開腔的欲望。",
+      "@哢！@ NL @哢哢！@"
     ]
   },
   "GremlinMask": {
-    "NAME": "Tiny Gremlin Mask",
-    "FLAVOR": "Time to run.",
+    "NAME": "地精容貌",
+    "FLAVOR": "嗚哇，好想逃跑。",
     "DESCRIPTIONS": [
-      "Start each combat with #b1 #yWeak."
+      "在每場戰鬥開始時，你擁有 #b1 層 #y虛弱 。"
     ]
   },
   "TheAbacus": {
-    "NAME": "The Abacus",
-    "FLAVOR": "One...Two...Three...Dead!",
+    "NAME": "算盤",
+    "FLAVOR": "「一……二……三……」",
     "DESCRIPTIONS": [
-      "Gain #b6 #yBlock whenever you shuffle your draw pile."
+      "你每次將抽牌堆洗牌時，獲得 #b6 點 #y格擋 。"
     ]
   },
   "DollysMirror": {
-    "NAME": "Dolly's Mirror",
-    "FLAVOR": "\"I look funny in this.\"",
+    "NAME": "多利之鏡",
+    "FLAVOR": "「照出來我的樣子怪怪的。」",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain an additional copy of a card in your deck.",
-      "Choose 1 Card to Copy."
+      "拾起時，從你的牌組中選擇一張牌進行複製。",
+      "選擇1張牌複製。"
     ]
   },
   "ClockworkSouvenir": {
-    "NAME": "Clockwork Souvenir",
-    "FLAVOR": "\"So many intricate gears.\"",
+    "NAME": "工藝機械鐘錶",
+    "FLAVOR": "「你看裡面齒輪這麼多，是不是很精巧。」",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b1 #yArtifact."
+      "每場戰鬥開始時，獲得 #b1 層 #y人工製品 。"
     ]
   },
   "MealTicket": {
-    "NAME": "Meal Ticket",
-    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "NAME": "餐券",
+    "FLAVOR": "「這裡的肉丸子可是有名的！以後每次來都可以嘗嘗哦！」",
     "DESCRIPTIONS": [
-      "Whenever you enter a shop room, heal #b7 HP."
+      "每當你進入商店房間時，回復 #b7 點生命。"
     ]
   },
   "TwistedFunnel": {
-    "NAME": "Twisted Funnel",
-    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "NAME": "扭曲漏斗",
+    "FLAVOR": "「個人建議不要用這個來喝東西。」",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+      "在每場戰鬥開始時，給予所有敵人 #b4 層 #y中毒 。"
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's block, apply #b2 #yVulnerable."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "Discard #b1 card and gain [G] at the start of each turn."
+    ]
+  },
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Orange Pellets",
+    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
     ]
   }
 }
