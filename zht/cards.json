@@ -232,8 +232,8 @@
   },
   "Chaos": {
     "NAME": "混沌",
-    "DESCRIPTION": "隨機 生成 !M! 個充能球",
-    "UPGRADE_DESCRIPTION": "隨機 生成 !M! 個充能球"
+    "DESCRIPTION": "生成 !M! 個隨機充能球",
+    "UPGRADE_DESCRIPTION": "生成 !M! 個隨機充能球"
   },
   "Chill": {
     "NAME": "冰寒",
@@ -282,7 +282,7 @@
   },
   "Conserve Battery": {
     "NAME": "充電",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 能夠保留多餘的能量一個回合"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 下回合獲得  [B]"
   },
   "Consume": {
     "NAME": "耗盡",
@@ -1105,8 +1105,8 @@
   },
   "Storm of Steel": {
     "NAME": "鋼鐵風暴",
-    "DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張 小刀 ",
-    "UPGRADE_DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張升過級的 小刀 "
+    "DESCRIPTION": "丟棄所有手牌。 NL 每丟棄 1 張牌，增加 1 張 小刀 到手牌",
+    "UPGRADE_DESCRIPTION": "丟棄所有手牌。 NL 每丟棄 1 張牌，增加 1 張 已升級 小刀 到手牌"
   },
   "Streamline": {
     "NAME": "精簡改良",
@@ -1191,8 +1191,8 @@
   },
   "Transmutation": {
     "NAME": "轉化",
-    "DESCRIPTION": "增加 X 張隨機無色牌到你的手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "增加 X 張升級後的隨機無色牌到你的手牌。 NL 消耗 "
+    "DESCRIPTION": "增加 X 張隨機無色牌到手牌。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "增加 X 張 已升級 隨機無色牌到手牌。 NL 消耗"
   },
   "Trip": {
     "NAME": "絆倒",
@@ -1222,7 +1222,7 @@
   },
   "Undo": {
     "NAME": "均衡",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 在本回合保留你的手牌"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 保留 本回合的手牌"
   },
   "Unload": {
     "NAME": "乾坤一擲",

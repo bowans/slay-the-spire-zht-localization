@@ -142,7 +142,7 @@
     ]
   },
   "Blood for Blood": {
-    "NAME": "以血還血",
+    "NAME": "血債血償",
     "DESCRIPTION": "你每在戰鬥中失去生命一次，這張牌的耗能就減少1 [R] 。 NL 造成 !D! 點傷害。"
   },
   "Bloodletting": {
@@ -159,7 +159,7 @@
     "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 你的下一回合開始時 格擋 不會消失。"
   },
   "Body Slam": {
-    "NAME": "全身撞擊",
+    "NAME": "泰山壓頂",
     "DESCRIPTION": "造成你當前 格擋 值的傷害。",
     "UPGRADE_DESCRIPTION": " NL （造成 !D! 點傷害。）"
   },
@@ -410,7 +410,7 @@
     "UPGRADE_DESCRIPTION": "將你的 能量 翻倍。"
   },
   "Double Tap": {
-    "NAME": "雙發",
+    "NAME": "雙連擊",
     "DESCRIPTION": "在這個回合，你打出的下一張攻擊牌會打出兩次。",
     "UPGRADE_DESCRIPTION": "在這個回合，你打出的下 !M! 張攻擊牌會打出兩次。"
   },
@@ -473,7 +473,7 @@
     "DESCRIPTION": "抽1張牌。 NL 如果抽到的是技能牌，獲得 !B! 點 格擋 。"
   },
   "Eviscerate": {
-    "NAME": "內臟切除",
+    "NAME": "開膛破肚",
     "DESCRIPTION": "你在這個回合內每丟棄一張牌，耗能就減少1 [G] 。 NL 造成 !D! 點傷害三次。"
   },
   "Evolve": {
@@ -490,7 +490,7 @@
     "DESCRIPTION": "抽牌直到你的手牌有 !M! 張牌。"
   },
   "FTL": {
-    "NAME": "超越光速",
+    "NAME": "超光速",
     "DESCRIPTION": "造成 !D! 點傷害。 如果你在這回合打出的牌數少於 !M! 張，抽一張牌。",
     "EXTENDED_DESCRIPTION": [
       " NL （已打出",
@@ -647,7 +647,7 @@
     "DESCRIPTION": "在下一回合開始之前你不會損失生命。 NL 消耗 。"
   },
   "Hologram": {
-    "NAME": "全息影像",
+    "NAME": "全像投影",
     "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將棄牌堆中的一張牌放入你的手牌。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將棄牌堆中的一張牌放入你的手牌。"
   },
@@ -794,7 +794,7 @@
     "DESCRIPTION": "造成 !D! 點傷害。 NL 給予 !M! 層 虛弱 。"
   },
   "Night Terror": {
-    "NAME": "夜魘",
+    "NAME": "夢魘",
     "DESCRIPTION": "選擇一張牌， NL 在下一回合，將 !M! 份這張牌的複製品放入你的手牌中。 消耗 。",
     "EXTENDED_DESCRIPTION": [
       "我每回合只能使用 NL ",
@@ -810,7 +810,7 @@
       " 張牌。",
       " 張牌。 NL 本回合你已經打出 ",
       " 張牌。",
-      " cards this turn."
+      " 張牌。"
     ]
   },
   "Nova": {
@@ -1125,7 +1125,7 @@
     "DESCRIPTION": "造成 !D! 點傷害。"
   },
   "Sucker Punch": {
-    "NAME": "突然一拳",
+    "NAME": "突襲",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 給予 !M! 層 虛弱 。"
   },
   "Sunder": {
@@ -1182,7 +1182,7 @@
     ]
   },
   "Thunderclap": {
-    "NAME": "閃電霹靂",
+    "NAME": "天雷地動",
     "DESCRIPTION": "對所有敵人造成 !D! 點傷害，給予1層 易傷 。"
   },
   "Tools of the Trade": {

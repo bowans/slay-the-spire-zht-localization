@@ -1,4 +1,29 @@
 Updates for Translators!
+07-13-2018
+relics.json
+	"Hovering Kite"
+		"Gain [G] and discard #b1 card at the start of each turn." ->
+		"Gain [G] and discard #b2 cards at the start of each turn."
+	"Wrist Blade"
+ui.json
+	"MenuPanels"
+		"Win a Daily Climb to unlock this game mode.", ->
+		"Play a Daily Climb to unlock this game mode.",
+	
+----------------------------------
+
+07-12-2018
+relics.json
+	"Bottled Tornado"
+		"FLAVOR": "Test relic.", ->
+		"FLAVOR": "The bottle gently hums and whirs.",
+
+	"Frozen Eye"
+		"FLAVOR": "No description.", ->
+		"FLAVOR": "Staring into the eye, you see a glimpse of your future.",
+	
+----------------------------------
+
 07-11-2018
 blights.json
 	"VoidEssence"

@@ -97,7 +97,7 @@
   },
   "Bash": {
     "NAME": "痛击",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 易伤 !M! 回合。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 易伤 。"
   },
   "Battle Trance": {
     "NAME": "战斗专注",
@@ -232,8 +232,8 @@
   },
   "Chaos": {
     "NAME": "混沌",
-    "DESCRIPTION": "随机 生成 !M! 个充能球。",
-    "UPGRADE_DESCRIPTION": "随机 生成 !M! 个充能球。"
+    "DESCRIPTION": " 生成 !M! 个随机充能球。",
+    "UPGRADE_DESCRIPTION": " 生成 !M! 个随机充能球。"
   },
   "Chill": {
     "NAME": "冰寒",
@@ -1106,7 +1106,7 @@
   "Storm of Steel": {
     "NAME": "钢铁风暴",
     "DESCRIPTION": "丢弃所有手牌。 NL 每丢弃一张牌，在你的手牌中增加一张 小刀 。",
-    "UPGRADE_DESCRIPTION": "丢弃所有手牌。 NL 每丢弃一张牌，在你的手牌中增加一张升过级的 小刀 。"
+    "UPGRADE_DESCRIPTION": "丢弃所有手牌。 NL 每丢弃一张牌，在你的手牌中增加一张已 升级 的 小刀 。"
   },
   "Streamline": {
     "NAME": "精简改良",
@@ -1192,7 +1192,7 @@
   "Transmutation": {
     "NAME": "转化",
     "DESCRIPTION": "在你的手牌中加入 X 张随机无色牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 张升级过的随机无色牌。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 张 升级 过的随机无色牌。 NL 消耗 。"
   },
   "Trip": {
     "NAME": "绊倒",
@@ -1222,7 +1222,7 @@
   },
   "Undo": {
     "NAME": "均衡",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 在本回合保留你的手牌。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 在本回合 保留 你的手牌。"
   },
   "Unload": {
     "NAME": "乾坤一掷",

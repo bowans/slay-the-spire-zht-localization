@@ -119,7 +119,7 @@
   },
   "Bottled Tornado": {
     "NAME": "Bottled Tornado",
-    "FLAVOR": "Test relic.",
+    "FLAVOR": "The bottle gently hums and whirs.",
     "DESCRIPTIONS": [
       "Upon pickup, choose a Power card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
@@ -360,7 +360,7 @@
   },
   "Frozen Eye": {
     "NAME": "Frozen Eye",
-    "FLAVOR": "No description.",
+    "FLAVOR": "Staring into the eye, you see a glimpse of your future.",
     "DESCRIPTIONS": [
       "When viewing your #yDraw #yPile, the cards are now shown in order."
     ]
@@ -1309,7 +1309,7 @@
     "NAME": "Hovering Kite",
     "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
     "DESCRIPTIONS": [
-      "Gain [G] and discard #b1 card at the start of each turn."
+      "Gain [G] and discard #b2 cards at the start of each turn."
     ]
   },
   "Sling": {
@@ -1325,6 +1325,13 @@
     "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
     "DESCRIPTIONS": [
       "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Wrist Blade",
+    "FLAVOR": "Handy for assassinations.",
+    "DESCRIPTIONS": [
+      "#yAttack cards that cost #b0 deal #b4 additional damage."
     ]
   }
 }
