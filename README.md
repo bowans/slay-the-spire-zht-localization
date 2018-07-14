@@ -1,5 +1,11 @@
 # slay-the-spire-zht-localization
-Slay the Sipre 繁體中文翻譯
+Slay the Spire 繁體中文翻譯
+
+# 檔案結構
+
+* localization: beta branch 更新後從遊戲中取出最新翻譯。
+* zhs2zht: localization 中對 zhs 作簡轉繁，做為參考。
+* zht: 實際上更新翻譯的資料夾，每次 localization 更新後會先覆蓋其中的 zht 資料夾至此，再進行翻譯。
 
 # 參考流程
 
