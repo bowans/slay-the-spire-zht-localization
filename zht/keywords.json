@@ -4,123 +4,123 @@
       "NAMES": [
         "人工製品"
       ],
-      "DESCRIPTION": "免疫下一次受到的負面效果"
+      "DESCRIPTION": "免疫下一次受到的負面效果。"
     },
     "BLOCK": {
       "NAMES": [
         "格擋",
         "blocks"
       ],
-      "DESCRIPTION": "持續到下回合開始前，阻擋傷害"
+      "DESCRIPTION": "持續到下回合開始前，阻擋傷害。"
     },
     "BURN": {
       "NAMES": [
         "灼傷",
         "burns"
       ],
-      "DESCRIPTION": "灼傷是 不能被打出 的狀態牌，並會對你造成傷害"
+      "DESCRIPTION": "灼傷是 不能被打出 的狀態牌，並會對你造成傷害。"
     },
     "CHANNEL": {
       "NAMES": [
         "生成",
         "生成的"
       ],
-      "DESCRIPTION": "生成的充能球將出現在你最右側起的第一個空欄位。當沒有空欄位時，你的第一個充能球將自動被 激發 來空出位置"
+      "DESCRIPTION": "生成的充能球將出現在你最右側起的第一個空欄位。當沒有空欄位時，你的第一個充能球將自動被 激發 來空出位置。"
     },
     "CONFUSED": {
       "NAMES": [
         "混亂"
       ],
-      "DESCRIPTION": "你每抽到一張牌，就將其耗能隨機變化"
+      "DESCRIPTION": "你每抽到一張牌，就將其耗能隨機變化。"
     },
     "CURSE": {
       "NAMES": [
         "詛咒"
       ],
-      "DESCRIPTION": "詛咒牌是留在你牌組中的負面牌"
+      "DESCRIPTION": "詛咒牌是留在你牌組中的負面牌。"
     },
     "DARK": {
       "NAMES": [
         "黑暗",
         "黑暗+"
       ],
-      "DESCRIPTION": "充能球：每回合增加傷害。 #y激發 時，對生命值最少的敵人造成傷害"
+      "DESCRIPTION": "充能球：每回合增加傷害。 #y激發 時，對生命值最少的敵人造成傷害。"
     },
     "DAZED": {
       "NAMES": [
         "暈眩"
       ],
-      "DESCRIPTION": "暈眩是 不能被打出 的 虛無 狀態牌"
+      "DESCRIPTION": "暈眩是 不能被打出 的 虛無 狀態牌。"
     },
     "DEXTERITY": {
       "NAMES": [
         "敏捷"
       ],
-      "DESCRIPTION": "敏捷增加你從牌中獲得的格擋值"
+      "DESCRIPTION": "敏捷增加你從牌中獲得的格擋值。"
     },
     "ETHEREAL": {
       "NAMES": [
         "虛無"
       ],
-      "DESCRIPTION": "如果這張牌在回合結束時仍然在你的手中，它將被消耗。被消耗的牌將在戰鬥結束前被移除出牌組"
+      "DESCRIPTION": "如果這張牌在回合結束時仍然在你的手中，它將被消耗。被消耗的牌將在戰鬥結束前被移除出牌組。"
     },
     "EVOKE": {
       "NAMES": [
         "激發",
         "激發"
       ],
-      "DESCRIPTION": "消耗掉你最右側的充能球，使用其 激發 效果"
+      "DESCRIPTION": "消耗掉你最右側的充能球，使用其 激發 效果。"
     },
     "EXHAUST": {
       "NAMES": [
         "消耗",
         "exhausted"
       ],
-      "DESCRIPTION": "在戰鬥結束前被移除出牌組"
+      "DESCRIPTION": "在戰鬥結束前被移除出牌組。"
     },
     "FOCUS": {
       "NAMES": [
         "集中"
       ],
-      "DESCRIPTION": "集中 會加強 充能球 的效果"
+      "DESCRIPTION": "集中 會加強 充能球 的效果。"
     },
     "FRAIL": {
       "NAMES": [
         "脆弱"
       ],
-      "DESCRIPTION": "處於脆弱狀態時，你從卡牌中獲得的 #y格擋 減少 #b25%"
+      "DESCRIPTION": "處於脆弱狀態時，你從卡牌中獲得的 #y格擋 減少 #b25% 。"
     },
     "FROST": {
       "NAMES": [
         "冰霜",
         "冰霜+"
       ],
-      "DESCRIPTION": "充能球：獲得 #y格擋"
+      "DESCRIPTION": "充能球：獲得 #y格擋。"
     },
     "INNATE": {
       "NAMES": [
         "固有"
       ],
-      "DESCRIPTION": "在每場戰鬥開始時，這張牌會出現在你的手牌中"
+      "DESCRIPTION": "在每場戰鬥開始時，這張牌會出現在你的手牌中。"
     },
     "INTANGIBLE": {
       "NAMES": [
         "無實體"
       ],
-      "DESCRIPTION": "將所有受到的傷害和生命減少效果降低為 #b1"
+      "DESCRIPTION": "將所有受到的傷害和生命減少效果降低為 #b1 。"
     },
     "LIGHTNING": {
       "NAMES": [
         "閃電",
         "閃電+"
       ],
-      "DESCRIPTION": "充能球：對隨機敵人造成傷害"
+      "DESCRIPTION": "充能球：對隨機敵人造成傷害。"
     },
     "LOCKED": {
       "NAMES": [
         "鎖定"
       ],
-      "DESCRIPTION": "這張牌還沒有被解鎖"
+      "DESCRIPTION": "這張牌還沒有被解鎖。"
     },
     "OPENER": {
       "NAMES": [
@@ -133,54 +133,54 @@
         "等離子",
         "等離子+"
       ],
-      "DESCRIPTION": "充能球：獲得 能量"
+      "DESCRIPTION": "充能球：獲得 能量 。"
     },
     "POISON": {
       "NAMES": [
         "中毒",
         "poisoned"
       ],
-      "DESCRIPTION": "中毒的生物會在他們的回合開始時失去相應的生命。中毒層數每回合下降 #b1"
+      "DESCRIPTION": "中毒的生物會在他們的回合開始時失去相應的生命。中毒層數每回合下降 #b1 。"
     },
     "RETAIN": {
       "NAMES": [
         "保留"
       ],
-      "DESCRIPTION": "保留的牌不會在回合結束時被放入棄牌堆"
+      "DESCRIPTION": "保留的牌不會在回合結束時被放入棄牌堆。"
     },
     "SHIV": {
       "NAMES": [
         "小刀",
         "shivs"
       ],
-      "DESCRIPTION": "小刀是會消耗的 #b0 耗能攻擊牌"
+      "DESCRIPTION": "小刀是會消耗的 #b0 耗能攻擊牌。"
     },
     "STATUS": {
       "NAMES": [
         "狀態"
       ],
-      "DESCRIPTION": "狀態牌在戰鬥結束時會被移除"
+      "DESCRIPTION": "狀態牌在戰鬥結束時會被移除。"
     },
     "STRENGTH": {
       "NAMES": [
         "力量"
       ],
-      "DESCRIPTION": "力量會讓攻擊獲得額外的傷害"
+      "DESCRIPTION": "力量會讓攻擊獲得額外的傷害。"
     },
     "STRIKE": {
       "NAMES": [
         "打擊"
       ],
-      "DESCRIPTION": "所有名字中包括「打擊」的牌"
+      "DESCRIPTION": "所有名字中包括「打擊」的牌。"
     },
     "TEXT": [
-      "你需要能量來打出你的手牌"
+      "你需要能量來打出你的手牌。"
     ],
     "THORNS": {
       "NAMES": [
         "荊棘"
       ],
-      "DESCRIPTION": "受到 #y攻擊 傷害時，對攻擊者造成傷害"
+      "DESCRIPTION": "受到 #y攻擊 傷害時，對攻擊者造成傷害。"
     },
     "TODO": {
       "NAMES": [
@@ -196,39 +196,39 @@
       "NAMES": [
         "變化"
       ],
-      "DESCRIPTION": "被變化的牌會變成隨機稀有度的隨機牌"
+      "DESCRIPTION": "被變化的牌會變成隨機稀有度的隨機牌。"
     },
     "UNKNOWN": {
       "NAMES": [
         "未知"
       ],
-      "DESCRIPTION": "這張牌你還沒有遇到過"
+      "DESCRIPTION": "這張牌你還沒有遇到過。"
     },
     "UNPLAYABLE": {
       "NAMES": [
         "不能被打出"
       ],
-      "DESCRIPTION": "不能被打出的牌不能從你的手牌中被打出"
+      "DESCRIPTION": "不能被打出的牌不能從你的手牌中被打出。"
     },
     "UPGRADE": {
       "NAMES": [
         "升級",
         "upgraded"
       ],
-      "DESCRIPTION": "升級卡牌會讓它們變得更加強大。卡牌只能升級一次"
+      "DESCRIPTION": "升級卡牌會讓它們變得更加強大。卡牌只能升級一次。"
     },
     "VOID": {
       "NAMES": [
         "虛空",
         "虛空"
       ],
-      "DESCRIPTION": "虛空是 不能被打出 的 虛無 狀態牌，在被抽到時會消耗能量"
+      "DESCRIPTION": "虛空是 不能被打出 的 虛無 狀態牌，在被抽到時會消耗能量。"
     },
     "VULNERABLE": {
       "NAMES": [
         "易傷"
       ],
-      "DESCRIPTION": "有易傷效果的生物從攻擊中受到的傷害增加 #b50%"
+      "DESCRIPTION": "有易傷效果的生物從攻擊中受到的傷害增加 #b50% 。"
     },
     "WEAK": {
       "NAMES": [
@@ -237,14 +237,14 @@
         "weakened",
         "weakens"
       ],
-      "DESCRIPTION": "有虛弱效果的生物用攻擊造成的傷害減少 #b25%"
+      "DESCRIPTION": "有虛弱效果的生物用攻擊造成的傷害減少 #b25% 。"
     },
     "WOUND": {
       "NAMES": [
         "傷口",
         "wounds"
       ],
-      "DESCRIPTION": "傷口是不能被打出的狀態牌"
+      "DESCRIPTION": "傷口是不能被打出的狀態牌。"
     }
   }
 }
