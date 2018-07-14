@@ -1325,5 +1325,12 @@
     "DESCRIPTIONS": [
       "你每在同一回合內打出 #y能力牌 、 #y攻擊牌 和 #y技能牌 各一張，移除你身上的所有負面效果。"
     ]
+  },
+  "WristBlade": {
+    "NAME": "Wrist Blade",
+    "FLAVOR": "Handy for assassinations.",
+    "DESCRIPTIONS": [
+      "#yAttack cards that cost #b0 deal #b4 additional damage."
+    ]
   }
 }

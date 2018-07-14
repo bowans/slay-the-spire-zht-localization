@@ -1,10 +1,10 @@
 {
   "A Thousand Cuts": {
-    "NAME": "淩遲",
+    "NAME": "凌遲",
     "DESCRIPTION": "你每打出一張牌，就對所有敵人造成 !M! 點傷害。"
   },
   "Accuracy": {
-    "NAME": "精准",
+    "NAME": "精準",
     "DESCRIPTION": " 小刀 造成的傷害增加 !M! 。"
   },
   "Acrobatics": {
@@ -22,7 +22,7 @@
     "UPGRADE_DESCRIPTION": " 固有 。 NL 你每打出一張牌，都獲得1點 格擋 。"
   },
   "Aggregate": {
-    "NAME": "彙集",
+    "NAME": "匯集",
     "DESCRIPTION": "你的抽牌堆中每有 !M! 張牌，獲得一點 [B] 。"
   },
   "All For One": {
@@ -97,7 +97,7 @@
   },
   "Bash": {
     "NAME": "痛擊",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 給予 易傷 !M! 回合。"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 給予 !M! 層 易傷 。"
   },
   "Battle Trance": {
     "NAME": "戰鬥專注",
@@ -200,7 +200,7 @@
     "UPGRADE_DESCRIPTION": "在這個回合，你打出的下 !M! 張技能牌會打出兩次。"
   },
   "Cache": {
-    "NAME": "快取記憶體",
+    "NAME": "高速緩存",
     "DESCRIPTION": "Deprecated."
   },
   "Calculated Gamble": {
@@ -232,8 +232,8 @@
   },
   "Chaos": {
     "NAME": "混沌",
-    "DESCRIPTION": "隨機 生成 !M! 個充能球。",
-    "UPGRADE_DESCRIPTION": "隨機 生成 !M! 個充能球。"
+    "DESCRIPTION": " 生成 !M! 個隨機充能球。",
+    "UPGRADE_DESCRIPTION": " 生成 !M! 個隨機充能球。"
   },
   "Chill": {
     "NAME": "冰寒",
@@ -372,7 +372,7 @@
     "DESCRIPTION": "獲得 !B! 點 格擋 。"
   },
   "Defragment": {
-    "NAME": "磁碟重組",
+    "NAME": "碎片整理",
     "DESCRIPTION": "獲得 !M! 點 集中 。"
   },
   "Demon Form": {
@@ -469,7 +469,7 @@
     "DESCRIPTION": "每有一次攻擊造成未被格擋的傷害，就給予1層 中毒 。"
   },
   "Escape Plan": {
-    "NAME": "逃脫計畫",
+    "NAME": "逃脫計劃",
     "DESCRIPTION": "抽1張牌。 NL 如果抽到的是技能牌，獲得 !B! 點 格擋 。"
   },
   "Eviscerate": {
@@ -577,7 +577,7 @@
     "DESCRIPTION": "造成 !D! 點傷害。 NL 在本場戰鬥中所有 爪擊 牌的傷害增加 !M! 。"
   },
   "Genetic Algorithm": {
-    "NAME": "遺傳演算法",
+    "NAME": "遺傳算法",
     "DESCRIPTION": "獲得 !B! 點 格擋 。 每打出一次，這張牌在本局遊戲中的格擋值永久性增加 !M! 。 NL 消耗 。"
   },
   "Ghostly": {
@@ -639,7 +639,7 @@
     "UPGRADE_DESCRIPTION": "固有 。 NL 在你的回合開始時，增加一張隨機普通牌到你的手牌。"
   },
   "Hemokinesis": {
-    "NAME": "禦血術",
+    "NAME": "御血術",
     "DESCRIPTION": "失去 !M! 點生命。 NL 造成 !D! 點傷害。"
   },
   "Hide": {
@@ -729,7 +729,7 @@
     "DESCRIPTION": "造成 !D! 點傷害。 NL 在接下來的 !M! 回合中，所有 閃電 和 黑暗 充能球將以這名敵人為目標。"
   },
   "Loop": {
-    "NAME": "迴圈",
+    "NAME": "循環",
     "DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力。",
     "UPGRADE_DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力 !M! 次。"
   },
@@ -832,7 +832,7 @@
     "UPGRADE_DESCRIPTION": "失去 4 點生命。 NL 獲得 [R] [R] 。 NL 抽 !M! 張牌。 NL 消耗 。"
   },
   "Outmaneuver": {
-    "NAME": "搶佔先機",
+    "NAME": "搶占先機",
     "DESCRIPTION": "下一回合 NL 獲得 [G] [G] 。",
     "UPGRADE_DESCRIPTION": "下一回合 NL 獲得 [G] [G] [G] 。"
   },
@@ -928,7 +928,7 @@
   },
   "Reaper": {
     "NAME": "死亡收割",
-    "DESCRIPTION": "對所有敵人造成 !D! 點傷害。未被 格擋 的傷害將回復你的生命。 NL 消耗 。"
+    "DESCRIPTION": "對所有敵人造成 !D! 點傷害。未被 格擋 的傷害將回覆你的生命。 NL 消耗 。"
   },
   "Reboot": {
     "NAME": "重啟",
@@ -947,7 +947,7 @@
     "DESCRIPTION": "消耗 一張牌。 NL 獲得與其耗能相等的 [B] 。"
   },
   "Redo": {
-    "NAME": "遞迴",
+    "NAME": "遞歸",
     "DESCRIPTION": "激發 你最右側的充能球。 NL 然後 生成 一個剛才被 激發 的充能球。"
   },
   "Reflex": {
@@ -971,7 +971,7 @@
     "DESCRIPTION": "如果一名敵人的意圖不是攻擊，獲得 !M! 點 集中 。"
   },
   "Reprogram": {
-    "NAME": "重程式設計",
+    "NAME": "重編程",
     "DESCRIPTION": "檢視你抽牌堆頂部的 !M! 張牌。 你可以選擇丟棄其中的任意張。",
     "UPGRADE_DESCRIPTION": "檢視你抽牌堆頂部的 !M! 張牌。 你可以選擇丟棄其中的任意張。"
   },
@@ -1078,7 +1078,7 @@
     "DESCRIPTION": "如果一名敵人的意圖是攻擊，你獲得 !M! 點 力量 。"
   },
   "Stack": {
-    "NAME": "堆疊",
+    "NAME": "堆棧",
     "DESCRIPTION": "獲得與你當前棄牌堆中牌數相等的 格擋 值。",
     "UPGRADE_DESCRIPTION": "獲得你當前棄牌堆中牌數+3的 格擋 值。",
     "EXTENDED_DESCRIPTION": [
@@ -1106,7 +1106,7 @@
   "Storm of Steel": {
     "NAME": "鋼鐵風暴",
     "DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張 小刀 。",
-    "UPGRADE_DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張升過級的 小刀 。"
+    "UPGRADE_DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張已 升級 的 小刀 。"
   },
   "Streamline": {
     "NAME": "精簡改良",
@@ -1192,7 +1192,7 @@
   "Transmutation": {
     "NAME": "轉化",
     "DESCRIPTION": "在你的手牌中加入 X 張隨機無色牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 張升級過的隨機無色牌。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 張 升級 過的隨機無色牌。 NL 消耗 。"
   },
   "Trip": {
     "NAME": "絆倒",
@@ -1222,7 +1222,7 @@
   },
   "Undo": {
     "NAME": "均衡",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 在本回合保留你的手牌。"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 在本回合 保留 你的手牌。"
   },
   "Unload": {
     "NAME": "乾坤一擲",
@@ -1246,7 +1246,7 @@
     "UPGRADE_DESCRIPTION": "抽 !M! 張牌。 NL 將手牌中的一張牌放到你的抽牌堆頂部。 NL 消耗 。"
   },
   "Well Laid Plans": {
-    "NAME": "計畫妥當",
+    "NAME": "計劃妥當",
     "DESCRIPTION": "在你的回合結束時， 保留 最多 !M! 張牌。",
     "UPGRADE_DESCRIPTION": "在你的回合結束時， 保留 最多 !M! 張牌。"
   },
@@ -1255,7 +1255,7 @@
     "DESCRIPTION": "消費所有 [R] 。 NL 對所有敵人造成 !D! 點傷害X次。"
   },
   "White Noise": {
-    "NAME": "白色雜訊",
+    "NAME": "白噪聲",
     "DESCRIPTION": "增加一張隨機能力牌到你的手牌。 NL 這張牌在本回合耗能變為0。  NL 消耗 。"
   },
   "Wild Strike": {
@@ -1283,7 +1283,7 @@
     "DESCRIPTION": "生成 !M! 個 閃電 充能球。"
   },
   "Core Surge": {
-    "NAME": "核心電湧",
+    "NAME": "核心電涌",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 獲得 !M! 層 人工製品 。 NL 消耗 。"
   },
   "Compile Driver": {
