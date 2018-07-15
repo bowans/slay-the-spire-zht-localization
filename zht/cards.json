@@ -39,8 +39,8 @@
   },
   "Amplify": {
     "NAME": "增幅",
-    "DESCRIPTION": "在這個回合，下1張 能力牌 會打出2次",
-    "UPGRADE_DESCRIPTION": "在這個回合，下 !M! 張 能力牌 會打出2次"
+    "DESCRIPTION": "本回合下1張 能力牌 會打出2次",
+    "UPGRADE_DESCRIPTION": "本回合下 !M! 張 能力牌 會打出2次"
   },
   "Anger": {
     "NAME": "憤怒",
@@ -196,8 +196,8 @@
   },
   "Burst": {
     "NAME": "爆發",
-    "DESCRIPTION": "在這個回合，打出的下1張技能牌會打出2次",
-    "UPGRADE_DESCRIPTION": "在這個回合，打出的下 !M! 張技能牌會打出2次"
+    "DESCRIPTION": "本回合打出的下1張技能牌會打出2次",
+    "UPGRADE_DESCRIPTION": "本回合打出的下 !M! 張技能牌會打出2次"
   },
   "Cache": {
     "NAME": "快取記憶體",
@@ -411,8 +411,8 @@
   },
   "Double Tap": {
     "NAME": "雙連擊",
-    "DESCRIPTION": "在這個回合，打出的下1張攻擊牌會打出2次",
-    "UPGRADE_DESCRIPTION": "在這個回合，打出的下 !M! 張攻擊牌會打出2次"
+    "DESCRIPTION": "本回合打出的下1張攻擊牌會打出2次",
+    "UPGRADE_DESCRIPTION": "本回合打出的下 !M! 張攻擊牌會打出2次"
   },
   "Doubt": {
     "NAME": "疑慮",
@@ -456,7 +456,7 @@
   },
   "Enlightenment": {
     "NAME": "開悟",
-    "DESCRIPTION": "在這個回合，當前所有手牌的耗能降低到1",
+    "DESCRIPTION": "本回合當前所有手牌的耗能降低到1",
     "UPGRADE_DESCRIPTION": "在本場戰鬥，當前所有手牌的耗能降低到1"
   },
   "Entrench": {
