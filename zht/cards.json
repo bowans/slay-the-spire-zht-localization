@@ -246,9 +246,9 @@
   },
   "Clash": {
     "NAME": "交鋒",
-    "DESCRIPTION": "只有在手牌每1張牌都是攻擊牌時才能被打出。 NL 造成 !D! 點傷害。",
+    "DESCRIPTION": "手牌只有攻擊牌時才能打出。 NL 造成 !D! 點傷害。",
     "EXTENDED_DESCRIPTION": [
-      "我的手牌中還有非攻擊牌"
+      "手牌中還有非攻擊牌"
     ]
   },
   "Cleave": {
