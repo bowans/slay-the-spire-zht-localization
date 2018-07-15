@@ -178,7 +178,7 @@
   },
   "Buffer": {
     "NAME": "緩衝",
-    "DESCRIPTION": "阻止下一次你受到的生命值損傷",
+    "DESCRIPTION": "阻止下1次你受到的生命值損傷",
     "UPGRADE_DESCRIPTION": "阻止下 !M! 次你受到的生命值損傷"
   },
   "Bullet Time": {
@@ -516,7 +516,7 @@
   },
   "Finisher": {
     "NAME": "終結技",
-    "DESCRIPTION": "本回合每打出過1張攻擊牌，就造成一次 !D! 點傷害",
+    "DESCRIPTION": "本回合每打出過1張攻擊牌，就造成1次 !D! 點傷害",
     "EXTENDED_DESCRIPTION": [
       " NL （你本回合打出過",
       " 張攻擊牌）",
@@ -533,7 +533,7 @@
   },
   "Flame Barrier": {
     "NAME": "火焰護盾",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 你在這個回合每受到一次攻擊，都對攻擊者造成 !M! 點傷害"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 你在這個回合每受到1次攻擊，都對攻擊者造成 !M! 點傷害"
   },
   "Flash of Steel": {
     "NAME": "亮劍",
@@ -578,7 +578,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "遺傳演算法",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 每打出一次，這張牌在本局遊戲中的格擋值永久性增加 !M! 。 NL 消耗 "
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 每打出1次，這張牌在本局遊戲中的格擋值永久性增加 !M! 。 NL 消耗 "
   },
   "Ghostly": {
     "NAME": "靈體",
@@ -596,7 +596,7 @@
   },
   "Glass Knife": {
     "NAME": "玻璃刀刃",
-    "DESCRIPTION": "造成 !D! 點傷害2次。 這張牌每被打出一次，在本場戰鬥中其基礎傷害減少2點"
+    "DESCRIPTION": "造成 !D! 點傷害2次。 這張牌每被打出1次，在本場戰鬥中其基礎傷害減少2點"
   },
   "Go for the Eyes": {
     "NAME": "眼部攻擊",
@@ -798,7 +798,7 @@
     "DESCRIPTION": "選擇1張牌， NL 在下一回合，複製 !M! 張該牌到手牌。 消耗 ",
     "EXTENDED_DESCRIPTION": [
       "我每回合只能使用 NL ",
-      " NL 一次"
+      " NL 1次"
     ]
   },
   "Normality": {
@@ -924,7 +924,7 @@
   },
   "Rampage": {
     "NAME": "暴走",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 這張牌每被打出一次，在本場戰鬥中其傷害增加 !M! "
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 這張牌每被打出1次，在本場戰鬥中其傷害增加 !M! "
   },
   "Reaper": {
     "NAME": "死亡收割",
@@ -1092,7 +1092,7 @@
   },
   "Steam": {
     "NAME": "蒸汽護壁",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。這張牌每被打出一次，在本場戰鬥中的其基礎 格擋 下降1點"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。這張牌每被打出1次，在本場戰鬥中的其基礎 格擋 下降1點"
   },
   "Steam Power": {
     "NAME": "超頻",
@@ -1110,7 +1110,7 @@
   },
   "Streamline": {
     "NAME": "精簡改良",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 這張牌每被打出一次，它在本場戰鬥中的耗能減少 !M! "
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 這張牌每被打出1次，它在本場戰鬥中的耗能減少 !M! "
   },
   "Strike_B": {
     "NAME": "打擊",
@@ -1176,7 +1176,7 @@
   },
   "Thunder Strike": {
     "NAME": "雷霆打擊",
-    "DESCRIPTION": "在本場戰鬥中每 生成 過 一個 閃電 充能球，隨機造成一次 !D! 點傷害",
+    "DESCRIPTION": "在本場戰鬥中每 生成 過 一個 閃電 充能球，隨機造成1次 !D! 點傷害",
     "EXTENDED_DESCRIPTION": [
       "（共 !M! 次）"
     ]
