@@ -23,7 +23,7 @@
   },
   "Aggregate": {
     "NAME": "彙集",
-    "DESCRIPTION": "抽牌堆中每有 !M! 張牌，獲得1點 [B] "
+    "DESCRIPTION": "抽牌堆每有 !M! 張牌，獲得1點 [B] "
   },
   "All For One": {
     "NAME": "萬物一心",
@@ -608,7 +608,7 @@
   },
   "Grand Finale": {
     "NAME": "華麗收場",
-    "DESCRIPTION": "只有當抽牌堆中沒有牌時才能打出。 NL 對所有敵人造成 !D! 點傷害",
+    "DESCRIPTION": "只有當抽牌堆沒有牌時才能打出。 NL 對所有敵人造成 !D! 點傷害",
     "UPGRADE_DESCRIPTION": "我的抽牌堆必須是 #r空的。 "
   },
   "Havoc": {
@@ -774,7 +774,7 @@
   },
   "Mind Blast": {
     "NAME": "心靈震懾",
-    "DESCRIPTION": " 固有 。 NL 造成抽牌堆中剩餘牌數的傷害",
+    "DESCRIPTION": " 固有 。 NL 造成抽牌堆剩餘牌數的傷害",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL （造成 !D! 點傷害）"
@@ -940,7 +940,7 @@
   },
   "Reckless Charge": {
     "NAME": "無謀衝鋒",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL  將1張 暈眩 放入抽牌堆中"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL  將1張 暈眩 放入抽牌堆"
   },
   "Recycle": {
     "NAME": "回收",
@@ -1005,18 +1005,18 @@
   },
   "Secret Technique": {
     "NAME": "秘密技法",
-    "DESCRIPTION": "從抽牌堆中選擇1張技能牌放入手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇1張技能牌放入手牌",
+    "DESCRIPTION": "從抽牌堆選擇1張技能牌放入手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "從抽牌堆選擇1張技能牌放入手牌",
     "EXTENDED_DESCRIPTION": [
-      "我的抽牌堆中 NL 沒有技能牌"
+      "我的抽牌堆 NL 沒有技能牌"
     ]
   },
   "Secret Weapon": {
     "NAME": "秘密武器",
-    "DESCRIPTION": "從抽牌堆中選擇1張攻擊牌放入手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇1張攻擊牌放入手牌",
+    "DESCRIPTION": "從抽牌堆選擇1張攻擊牌放入手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "從抽牌堆選擇1張攻擊牌放入手牌",
     "EXTENDED_DESCRIPTION": [
-      "我的抽牌堆中 NL 沒有攻擊牌"
+      "我的抽牌堆 NL 沒有攻擊牌"
     ]
   },
   "Seeing Red": {
@@ -1025,8 +1025,8 @@
   },
   "Seek": {
     "NAME": "搜尋",
-    "DESCRIPTION": "從抽牌堆中選擇 !M! 張牌放入手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇 !M! 張牌放入手牌。 NL 消耗 "
+    "DESCRIPTION": "從抽牌堆選擇 !M! 張牌放入手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "從抽牌堆選擇 !M! 張牌放入手牌。 NL 消耗 "
   },
   "Self Repair": {
     "NAME": "自我修復",
@@ -1260,7 +1260,7 @@
   },
   "Wild Strike": {
     "NAME": "狂野打擊",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 將1張 傷口 放入抽牌堆中"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 將1張 傷口 放入抽牌堆"
   },
   "Winter": {
     "NAME": "Winter",
@@ -1304,11 +1304,11 @@
   },
   "Chrysalis": {
     "NAME": "結繭",
-    "DESCRIPTION": "在抽牌堆中加入 !M! 張隨機技能牌。 他們在本場戰鬥中耗能為0。 NL 消耗 "
+    "DESCRIPTION": "在抽牌堆加入 !M! 張隨機技能牌。 他們在本場戰鬥中耗能為0。 NL 消耗 "
   },
   "Metamorphosis": {
     "NAME": "羽化",
-    "DESCRIPTION": "在抽牌堆中加入 !M! 張隨機攻擊牌。 他們在本場戰鬥中耗能為0。 NL 消耗 "
+    "DESCRIPTION": "在抽牌堆加入 !M! 張隨機攻擊牌。 他們在本場戰鬥中耗能為0。 NL 消耗 "
   },
   "Mayhem": {
     "NAME": "亂戰",
