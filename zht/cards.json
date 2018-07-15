@@ -57,7 +57,7 @@
   },
   "AscendersBane": {
     "NAME": "進階之災",
-    "DESCRIPTION": "不能打出 。 NL 虛無 。 NL 不能從牌組中移除"
+    "DESCRIPTION": "無法打出 。 NL 虛無 。 NL 不能從牌組中移除"
   },
   "Auto Shields": {
     "NAME": "自動護盾",
@@ -187,8 +187,8 @@
   },
   "Burn": {
     "NAME": "灼傷",
-    "DESCRIPTION": " 不能打出 。 NL 在你的回合結束時，受到2點傷害",
-    "UPGRADE_DESCRIPTION": " 不能打出 。 NL 在你的回合結束時，受到4點傷害"
+    "DESCRIPTION": " 無法打出 。 NL 在你的回合結束時，受到2點傷害",
+    "UPGRADE_DESCRIPTION": " 無法打出 。 NL 在你的回合結束時，受到4點傷害"
   },
   "Burning Pact": {
     "NAME": "燃燒契約",
@@ -266,7 +266,7 @@
   },
   "Clumsy": {
     "NAME": "笨拙",
-    "DESCRIPTION": " 不能打出 。 NL 虛無 "
+    "DESCRIPTION": " 無法打出 。 NL 虛無 "
   },
   "Cold Snap": {
     "NAME": "寒流",
@@ -340,7 +340,7 @@
   },
   "Dazed": {
     "NAME": "暈眩",
-    "DESCRIPTION": " 不能打出 。 NL 虛無 "
+    "DESCRIPTION": " 無法打出 。 NL 虛無 "
   },
   "Deadly Poison": {
     "NAME": "致命毒藥",
@@ -348,7 +348,7 @@
   },
   "Decay": {
     "NAME": "腐朽",
-    "DESCRIPTION": " 不能打出 。 NL 在你的回合結束時，受到2點傷害"
+    "DESCRIPTION": " 無法打出 。 NL 在你的回合結束時，受到2點傷害"
   },
   "Deep Breath": {
     "NAME": "深呼吸",
@@ -416,7 +416,7 @@
   },
   "Doubt": {
     "NAME": "疑慮",
-    "DESCRIPTION": " 不能打出 。 NL 在你的回合結束時，獲得1層 虛弱 "
+    "DESCRIPTION": " 無法打出 。 NL 在你的回合結束時，獲得1層 虛弱 "
   },
   "Dramatic Entrance": {
     "NAME": "閃亮登場",
@@ -688,7 +688,7 @@
   },
   "Injury": {
     "NAME": "受傷",
-    "DESCRIPTION": " 不能打出 "
+    "DESCRIPTION": " 無法打出 "
   },
   "Intimidate": {
     "NAME": "威嚇",
@@ -787,7 +787,7 @@
   },
   "Necronomicurse": {
     "NAME": "死靈詛咒",
-    "DESCRIPTION": " 不能打出 。 NL 這個 詛咒 無法逃脫"
+    "DESCRIPTION": " 無法打出 。 NL 這個 詛咒 無法逃脫"
   },
   "Neutralize": {
     "NAME": "中和",
@@ -803,10 +803,10 @@
   },
   "Normality": {
     "NAME": "凡庸",
-    "DESCRIPTION": " 不能打出 。 NL 在手牌中時，該回合只能打出3張牌",
+    "DESCRIPTION": " 無法打出 。 NL 在手牌中時，該回合只能打出3張牌",
     "EXTENDED_DESCRIPTION": [
       "我這回合最多 NL 只能打出 #r3 張牌",
-      "不能打出 。 NL 在手牌中時，該回合無法打出超過 ",
+      "無法打出 。 NL 在手牌中時，該回合無法打出超過 ",
       " 張牌",
       " 張牌。 NL 已打出 ",
       " 張牌",
@@ -843,7 +843,7 @@
   },
   "Pain": {
     "NAME": "疼痛",
-    "DESCRIPTION": " 不能打出 。 NL 當在手牌中時，每打出1張其他牌，失去1生命"
+    "DESCRIPTION": " 無法打出 。 NL 當在手牌中時，每打出1張其他牌，失去1生命"
   },
   "Panacea": {
     "NAME": "萬能藥",
@@ -855,7 +855,7 @@
   },
   "Parasite": {
     "NAME": "寄生",
-    "DESCRIPTION": " 不能打出 。 NL 若這張牌在牌組中被轉化或移除，你失去3點最大生命"
+    "DESCRIPTION": " 無法打出 。 NL 若這張牌在牌組中被轉化或移除，你失去3點最大生命"
   },
   "Perfected Strike": {
     "NAME": "完美打擊",
@@ -952,15 +952,15 @@
   },
   "Reflex": {
     "NAME": "本能反應",
-    "DESCRIPTION": " 不能打出 。 NL 這張牌從手牌中丟棄時，抽 !M! 張牌",
-    "UPGRADE_DESCRIPTION": " 不能打出 。 NL 這張牌從手牌中丟棄時，抽 !M! 張牌",
+    "DESCRIPTION": " 無法打出 。 NL 這張牌從手牌中丟棄時，抽 !M! 張牌",
+    "UPGRADE_DESCRIPTION": " 無法打出 。 NL 這張牌從手牌中丟棄時，抽 !M! 張牌",
     "EXTENDED_DESCRIPTION": [
       "這張牌不能打出"
     ]
   },
   "Regret": {
     "NAME": "悔恨",
-    "DESCRIPTION": " 不能打出 。 NL 在你的回合結束時，每有1張手牌就失去1點生命"
+    "DESCRIPTION": " 無法打出 。 NL 在你的回合結束時，每有1張手牌就失去1點生命"
   },
   "Reinforced Body": {
     "NAME": "硬化機體",
@@ -1150,8 +1150,8 @@
   },
   "Tactician": {
     "NAME": "戰術大師",
-    "DESCRIPTION": " 不能打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] ",
-    "UPGRADE_DESCRIPTION": " 不能打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] [G] ",
+    "DESCRIPTION": " 無法打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] ",
+    "UPGRADE_DESCRIPTION": " 無法打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] [G] ",
     "EXTENDED_DESCRIPTION": [
       "這張牌不能打出"
     ]
@@ -1238,7 +1238,7 @@
   },
   "Void": {
     "NAME": "虛空",
-    "DESCRIPTION": "不能打出 。 NL 抽到這張牌時失去1點能量。 NL 虛無 "
+    "DESCRIPTION": "無法打出 。 NL 抽到這張牌時失去1點能量。 NL 虛無 "
   },
   "Warcry": {
     "NAME": "戰吼",
@@ -1268,7 +1268,7 @@
   },
   "Wound": {
     "NAME": "傷口",
-    "DESCRIPTION": " 不能打出 "
+    "DESCRIPTION": " 無法打出 "
   },
   "Wraith Form v2": {
     "NAME": "幽魂形態",
@@ -1276,7 +1276,7 @@
   },
   "Writhe": {
     "NAME": "苦惱",
-    "DESCRIPTION": " 不能打出 。 NL 固有 "
+    "DESCRIPTION": " 無法打出 。 NL 固有 "
   },
   "Zap": {
     "NAME": "電擊",
@@ -1316,7 +1316,7 @@
   },
   "Shame": {
     "NAME": "羞恥",
-    "DESCRIPTION": "不能打出 。 NL 在你的回合結束時，獲得1層 脆弱 "
+    "DESCRIPTION": "無法打出 。 NL 在你的回合結束時，獲得1層 脆弱 "
   },
   "HandOfGreed": {
     "NAME": "貪婪之手",
