@@ -39,8 +39,8 @@
   },
   "Amplify": {
     "NAME": "增幅",
-    "DESCRIPTION": "在這個回合，下1張 能力牌 會打出兩次",
-    "UPGRADE_DESCRIPTION": "在這個回合，下 !M! 張 能力牌 會打出兩次"
+    "DESCRIPTION": "在這個回合，下1張 能力牌 會打出2次",
+    "UPGRADE_DESCRIPTION": "在這個回合，下 !M! 張 能力牌 會打出2次"
   },
   "Anger": {
     "NAME": "憤怒",
@@ -196,8 +196,8 @@
   },
   "Burst": {
     "NAME": "爆發",
-    "DESCRIPTION": "在這個回合，打出的下1張技能牌會打出兩次",
-    "UPGRADE_DESCRIPTION": "在這個回合，打出的下 !M! 張技能牌會打出兩次"
+    "DESCRIPTION": "在這個回合，打出的下1張技能牌會打出2次",
+    "UPGRADE_DESCRIPTION": "在這個回合，打出的下 !M! 張技能牌會打出2次"
   },
   "Cache": {
     "NAME": "快取記憶體",
@@ -315,7 +315,7 @@
   },
   "Dagger Spray": {
     "NAME": "匕首雨",
-    "DESCRIPTION": "對所有敵人造成 !D! 點傷害兩次"
+    "DESCRIPTION": "對所有敵人造成 !D! 點傷害2次"
   },
   "Dagger Throw": {
     "NAME": "投擲匕首",
@@ -411,8 +411,8 @@
   },
   "Double Tap": {
     "NAME": "雙連擊",
-    "DESCRIPTION": "在這個回合，打出的下1張攻擊牌會打出兩次",
-    "UPGRADE_DESCRIPTION": "在這個回合，打出的下 !M! 張攻擊牌會打出兩次"
+    "DESCRIPTION": "在這個回合，打出的下1張攻擊牌會打出2次",
+    "UPGRADE_DESCRIPTION": "在這個回合，打出的下 !M! 張攻擊牌會打出2次"
   },
   "Doubt": {
     "NAME": "疑慮",
@@ -437,8 +437,8 @@
   },
   "Echo Form": {
     "NAME": "迴響形態",
-    "DESCRIPTION": "每回合打出的第1張牌會打出兩次。 NL 虛無 ",
-    "UPGRADE_DESCRIPTION": "每回合打出的第1張牌會打出兩次"
+    "DESCRIPTION": "每回合打出的第1張牌會打出2次。 NL 虛無 ",
+    "UPGRADE_DESCRIPTION": "每回合打出的第1張牌會打出2次"
   },
   "Electrodynamics": {
     "NAME": "電動力學",
@@ -596,7 +596,7 @@
   },
   "Glass Knife": {
     "NAME": "玻璃刀刃",
-    "DESCRIPTION": "造成 !D! 點傷害兩次。 這張牌每被打出一次，在本場戰鬥中其基礎傷害減少2點"
+    "DESCRIPTION": "造成 !D! 點傷害2次。 這張牌每被打出一次，在本場戰鬥中其基礎傷害減少2點"
   },
   "Go for the Eyes": {
     "NAME": "眼部攻擊",
@@ -1211,7 +1211,7 @@
   },
   "Twin Strike": {
     "NAME": "雙重打擊",
-    "DESCRIPTION": "造成 !D! 點傷害兩次"
+    "DESCRIPTION": "造成 !D! 點傷害2次"
   },
   "Underhanded Strike": {
     "NAME": "隱秘打擊",
