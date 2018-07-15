@@ -1,7 +1,7 @@
 {
   "A Thousand Cuts": {
     "NAME": "凌遲",
-    "DESCRIPTION": "你每打出一張牌，就對所有敵人造成 !M! 點傷害"
+    "DESCRIPTION": "每打出一張牌，就對所有敵人造成 !M! 點傷害"
   },
   "Accuracy": {
     "NAME": "精準",
@@ -18,16 +18,16 @@
   },
   "After Image": {
     "NAME": "餘像",
-    "DESCRIPTION": "你每打出一張牌，都獲得1點 格擋 ",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 你每打出一張牌，都獲得1點 格擋 "
+    "DESCRIPTION": "每打出一張牌，都獲得1點 格擋 ",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 每打出一張牌，都獲得1點 格擋 "
   },
   "Aggregate": {
     "NAME": "彙集",
-    "DESCRIPTION": "你的抽牌堆中每有 !M! 張牌，獲得一點 [B] "
+    "DESCRIPTION": "抽牌堆中每有 !M! 張牌，獲得一點 [B] "
   },
   "All For One": {
     "NAME": "萬物一心",
-    "DESCRIPTION": "造成 !D! 點傷害。 將棄牌堆中所有0耗能的牌放入你的手牌"
+    "DESCRIPTION": "造成 !D! 點傷害。 將棄牌堆中所有0耗能的牌放入手牌"
   },
   "All Out Attack": {
     "NAME": "全力攻擊",
@@ -39,8 +39,8 @@
   },
   "Amplify": {
     "NAME": "增幅",
-    "DESCRIPTION": "在這個回合，你的下一張 能力牌 會打出兩次",
-    "UPGRADE_DESCRIPTION": "在這個回合，你的下 !M! 張 能力牌 會打出兩次"
+    "DESCRIPTION": "在這個回合，下一張 能力牌 會打出兩次",
+    "UPGRADE_DESCRIPTION": "在這個回合，下 !M! 張 能力牌 會打出兩次"
   },
   "Anger": {
     "NAME": "憤怒",
@@ -48,7 +48,7 @@
   },
   "Apotheosis": {
     "NAME": "神化",
-    "DESCRIPTION": "在本場戰鬥中 升級 你的所有牌。 NL 消耗 "
+    "DESCRIPTION": "在本場戰鬥中 升級 所有牌。 NL 消耗 "
   },
   "Armaments": {
     "NAME": "武裝",
@@ -65,7 +65,7 @@
   },
   "Axe Kick": {
     "NAME": "下壓踢",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 激發 你最右側的充能球"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 激發 最右側的充能球"
   },
   "Backflip": {
     "NAME": "後空翻",
@@ -89,7 +89,7 @@
   },
   "Barrage": {
     "NAME": "彈幕齊射",
-    "DESCRIPTION": "你每擁有一個充能球，造成 !D! 點傷害"
+    "DESCRIPTION": "每擁有一個充能球，造成 !D! 點傷害"
   },
   "Barricade": {
     "NAME": "壁壘",
@@ -101,7 +101,7 @@
   },
   "Battle Trance": {
     "NAME": "戰鬥專注",
-    "DESCRIPTION": "抽 !M! 張牌。 NL 你在這個回合內不能再抽任何牌"
+    "DESCRIPTION": "抽 !M! 張牌。 NL 在這個回合內不能再抽任何牌"
   },
   "Beam Cell": {
     "NAME": "光束射線",
@@ -121,7 +121,7 @@
   },
   "Blade Dance": {
     "NAME": "刀刃之舞",
-    "DESCRIPTION": "增加 !M! 張 小刀 到你的手牌"
+    "DESCRIPTION": "增加 !M! 張 小刀 到手牌"
   },
   "Blaster": {
     "NAME": "爆破射線",
@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "暴雪",
-    "DESCRIPTION": "對所有敵人造成你在本場戰鬥中 生成 過的 冰霜 充能球總數 !M! 倍的傷害",
+    "DESCRIPTION": "對所有敵人造成在本場戰鬥中 生成 過的 冰霜 充能球總數 !M! 倍的傷害",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL （造成 !D! 點傷害。）",
@@ -183,7 +183,7 @@
   },
   "Bullet Time": {
     "NAME": "子彈時間",
-    "DESCRIPTION": "你在本回合內不能再抽牌。你手牌中的所有牌在本回合的耗能變為0點"
+    "DESCRIPTION": "在本回合內不能再抽牌。手牌中的所有牌在本回合的耗能變為0點"
   },
   "Burn": {
     "NAME": "灼傷",
@@ -196,8 +196,8 @@
   },
   "Burst": {
     "NAME": "爆發",
-    "DESCRIPTION": "在這個回合，你打出的下一張技能牌會打出兩次",
-    "UPGRADE_DESCRIPTION": "在這個回合，你打出的下 !M! 張技能牌會打出兩次"
+    "DESCRIPTION": "在這個回合，打出的下一張技能牌會打出兩次",
+    "UPGRADE_DESCRIPTION": "在這個回合，打出的下 !M! 張技能牌會打出兩次"
   },
   "Cache": {
     "NAME": "快取記憶體",
@@ -242,7 +242,7 @@
   },
   "Choke": {
     "NAME": "勒脖",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 你在這個回合內每打出一張牌，該名敵人都會失去 !M! 點生命"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 在這個回合內每打出一張牌，該名敵人都會失去 !M! 點生命"
   },
   "Clash": {
     "NAME": "交鋒",
@@ -257,8 +257,8 @@
   },
   "Cloak And Dagger": {
     "NAME": "斗篷與匕首",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 增加 !M! 張 小刀 到你的手牌",
-    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 增加 !M! 張 小刀 到你的手牌"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 增加 !M! 張 小刀 到手牌",
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 增加 !M! 張 小刀 到手牌"
   },
   "Clothesline": {
     "NAME": "金剛臂",
@@ -307,7 +307,7 @@
   },
   "Creative AI": {
     "NAME": "創造性AI",
-    "DESCRIPTION": "在每回合開始時，增加一張隨機 能力 牌到你的手牌"
+    "DESCRIPTION": "在每回合開始時，增加一張隨機 能力 牌到手牌"
   },
   "Crippling Poison": {
     "NAME": "致殘毒雲",
@@ -352,8 +352,8 @@
   },
   "Deep Breath": {
     "NAME": "深呼吸",
-    "DESCRIPTION": "將你的棄牌堆洗牌後放入你的抽牌堆。 NL 抽 !M! 張牌",
-    "UPGRADE_DESCRIPTION": "將你的棄牌堆洗牌後放入你的抽牌堆。 NL 抽 !M! 張牌"
+    "DESCRIPTION": "將棄牌堆洗牌後放入抽牌堆。 NL 抽 !M! 張牌",
+    "UPGRADE_DESCRIPTION": "將棄牌堆洗牌後放入抽牌堆。 NL 抽 !M! 張牌"
   },
   "Defend_B": {
     "NAME": "防禦",
@@ -389,7 +389,7 @@
   },
   "Distraction": {
     "NAME": "聲東擊西",
-    "DESCRIPTION": "增加一張隨機技能牌到你的手牌。 NL 這張牌在本回合耗能變為0。 NL 消耗 "
+    "DESCRIPTION": "增加一張隨機技能牌到手牌。 NL 這張牌在本回合耗能變為0。 NL 消耗 "
   },
   "Dodge and Roll": {
     "NAME": "閃躲翻滾",
@@ -411,8 +411,8 @@
   },
   "Double Tap": {
     "NAME": "雙連擊",
-    "DESCRIPTION": "在這個回合，你打出的下一張攻擊牌會打出兩次",
-    "UPGRADE_DESCRIPTION": "在這個回合，你打出的下 !M! 張攻擊牌會打出兩次"
+    "DESCRIPTION": "在這個回合，打出的下一張攻擊牌會打出兩次",
+    "UPGRADE_DESCRIPTION": "在這個回合，打出的下 !M! 張攻擊牌會打出兩次"
   },
   "Doubt": {
     "NAME": "疑慮",
@@ -428,17 +428,17 @@
   },
   "Dual Wield": {
     "NAME": "雙持",
-    "DESCRIPTION": "將你手牌中的一張 攻擊 或 能力 牌複製一張",
-    "UPGRADE_DESCRIPTION": "將你手牌中的一張 攻擊 或 能力 牌複製兩張"
+    "DESCRIPTION": "將手牌中的一張 攻擊 或 能力 牌複製一張",
+    "UPGRADE_DESCRIPTION": "將手牌中的一張 攻擊 或 能力 牌複製兩張"
   },
   "Dualcast": {
     "NAME": "雙重釋放",
-    "DESCRIPTION": "激發 你最右側的充能球2次"
+    "DESCRIPTION": "激發 最右側的充能球2次"
   },
   "Echo Form": {
     "NAME": "迴響形態",
-    "DESCRIPTION": "你每回合打出的第一張牌會打出兩次。 NL 虛無 ",
-    "UPGRADE_DESCRIPTION": "你每回合打出的第一張牌會打出兩次"
+    "DESCRIPTION": "每回合打出的第一張牌會打出兩次。 NL 虛無 ",
+    "UPGRADE_DESCRIPTION": "每回合打出的第一張牌會打出兩次"
   },
   "Electrodynamics": {
     "NAME": "電動力學",
@@ -447,17 +447,17 @@
   },
   "Endless Agony": {
     "NAME": "無盡苦痛",
-    "DESCRIPTION": "每當你抽到這張牌，都增加一張其複製品到你的手牌。 NL 造成 !D! 點傷害。 NL 消耗 "
+    "DESCRIPTION": "每當抽到這張牌，都增加一張其複製品到手牌。 NL 造成 !D! 點傷害。 NL 消耗 "
   },
   "Energy Pulse": {
     "NAME": "能量波動",
-    "DESCRIPTION": "獲得你當前 能量 的 格擋 值",
-    "UPGRADE_DESCRIPTION": "獲得你當前 能量 兩倍的 格擋 值"
+    "DESCRIPTION": "獲得當前 能量 的 格擋 值",
+    "UPGRADE_DESCRIPTION": "獲得當前 能量 兩倍的 格擋 值"
   },
   "Enlightenment": {
     "NAME": "開悟",
-    "DESCRIPTION": "在這個回合，你當前所有手牌的耗能降低到1",
-    "UPGRADE_DESCRIPTION": "在本場戰鬥，你當前所有手牌的耗能降低到1"
+    "DESCRIPTION": "在這個回合，當前所有手牌的耗能降低到1",
+    "UPGRADE_DESCRIPTION": "在本場戰鬥，當前所有手牌的耗能降低到1"
   },
   "Entrench": {
     "NAME": "鞏固",
@@ -474,24 +474,24 @@
   },
   "Eviscerate": {
     "NAME": "開膛破肚",
-    "DESCRIPTION": "你在這個回合內每丟棄一張牌，耗能就減少1 [G] 。 NL 造成 !D! 點傷害三次"
+    "DESCRIPTION": "在這個回合內每丟棄一張牌，耗能就減少1 [G] 。 NL 造成 !D! 點傷害三次"
   },
   "Evolve": {
     "NAME": "進化",
-    "DESCRIPTION": "每當你抽到一張 狀態 牌時，抽 !M! 張牌",
-    "UPGRADE_DESCRIPTION": "每當你抽到一張 狀態 牌時，抽 !M! 張牌"
+    "DESCRIPTION": "每當抽到一張 狀態 牌時，抽 !M! 張牌",
+    "UPGRADE_DESCRIPTION": "每當抽到一張 狀態 牌時，抽 !M! 張牌"
   },
   "Exhume": {
     "NAME": "發掘",
-    "DESCRIPTION": "選擇一張已 消耗 的牌，將其放入你的手牌。 NL 消耗 "
+    "DESCRIPTION": "選擇一張已 消耗 的牌，將其放入手牌。 NL 消耗 "
   },
   "Expertise": {
     "NAME": "獨門技術",
-    "DESCRIPTION": "抽牌直到你的手牌有 !M! 張牌"
+    "DESCRIPTION": "抽牌直到手牌有 !M! 張牌"
   },
   "FTL": {
     "NAME": "超光速",
-    "DESCRIPTION": "造成 !D! 點傷害。 如果你在這回合打出的牌數少於 !M! 張，抽一張牌。",
+    "DESCRIPTION": "造成 !D! 點傷害。 如果在這回合打出的牌數少於 !M! 張，抽一張牌。",
     "EXTENDED_DESCRIPTION": [
       " NL （已打出",
       " 張牌。）",
@@ -516,16 +516,16 @@
   },
   "Finisher": {
     "NAME": "終結技",
-    "DESCRIPTION": "你在這個回合內每打出過一張攻擊牌，就造成一次 !D! 點傷害。",
+    "DESCRIPTION": "在這個回合內每打出過一張攻擊牌，就造成一次 !D! 點傷害",
     "EXTENDED_DESCRIPTION": [
       " NL （你本回合打出過",
-      " 張攻擊牌。）",
-      " 張攻擊牌。）"
+      " 張攻擊牌）",
+      " 張攻擊牌）"
     ]
   },
   "Fire Breathing": {
     "NAME": "火焰吐息",
-    "DESCRIPTION": "在你的回合結束時，你這一回合內每出過一張攻擊牌，就對所有敵人造成1點傷害"
+    "DESCRIPTION": "在你的回合結束時，這一回合內每出過一張攻擊牌，就對所有敵人造成1點傷害"
   },
   "Fission": {
     "NAME": "裂變",
@@ -566,7 +566,7 @@
   },
   "Force Field": {
     "NAME": "力場",
-    "DESCRIPTION": "你在本場戰鬥中每打出一張能力牌，耗能就減少1 [B] 。 NL 獲得 !B! 點 格擋 "
+    "DESCRIPTION": "在本場戰鬥中每打出一張能力牌，耗能就減少1 [B] 。 NL 獲得 !B! 點 格擋 "
   },
   "Fusion": {
     "NAME": "聚變",
@@ -621,8 +621,8 @@
   },
   "Heatsinks": {
     "NAME": "散熱片",
-    "DESCRIPTION": "你每打出一張能力牌，抽 !M! 張牌",
-    "UPGRADE_DESCRIPTION": "你每打出一張能力牌，抽 !M! 張牌"
+    "DESCRIPTION": "每打出一張能力牌，抽 !M! 張牌",
+    "UPGRADE_DESCRIPTION": "每打出一張能力牌，抽 !M! 張牌"
   },
   "Heavy Blade": {
     "NAME": "重刃",
@@ -635,8 +635,8 @@
   },
   "Hello World": {
     "NAME": "你好，世界",
-    "DESCRIPTION": "在你的回合開始時，增加一張隨機普通牌到你的手牌",
-    "UPGRADE_DESCRIPTION": "固有 。 NL 在你的回合開始時，增加一張隨機普通牌到你的手牌"
+    "DESCRIPTION": "在你的回合開始時，增加一張隨機普通牌到手牌",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 在你的回合開始時，增加一張隨機普通牌到手牌"
   },
   "Hemokinesis": {
     "NAME": "御血術",
@@ -648,8 +648,8 @@
   },
   "Hologram": {
     "NAME": "全像投影",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將棄牌堆中的一張牌放入你的手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將棄牌堆中的一張牌放入你的手牌"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將棄牌堆中的一張牌放入手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將棄牌堆中的一張牌放入手牌"
   },
   "Hyperbeam": {
     "NAME": "超能光束",
@@ -662,7 +662,7 @@
   },
   "Immolate": {
     "NAME": "燔祭",
-    "DESCRIPTION": "對所有敵人造成 !D! 點傷害。 NL  將一張 灼傷 放入你的棄牌堆中"
+    "DESCRIPTION": "對所有敵人造成 !D! 點傷害。 NL  將一張 灼傷 放入棄牌堆"
   },
   "Impervious": {
     "NAME": "巋然不動",
@@ -675,12 +675,12 @@
   },
   "Infernal Blade": {
     "NAME": "地獄之刃",
-    "DESCRIPTION": "增加一張隨機攻擊牌到你的手牌。 NL 這張牌在本回合耗能變為0。 NL 消耗 "
+    "DESCRIPTION": "增加一張隨機攻擊牌到手牌。 NL 這張牌在本回合耗能變為0。 NL 消耗 "
   },
   "Infinite Blades": {
     "NAME": "無限刀刃",
-    "DESCRIPTION": "在你的回合開始時，增加一張 小刀 到你的手牌",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合開始時，增加一張 小刀 到你的手牌"
+    "DESCRIPTION": "在你的回合開始時，增加一張 小刀 到手牌",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合開始時，增加一張 小刀 到手牌"
   },
   "Inflame": {
     "NAME": "燃燒",
@@ -704,8 +704,8 @@
   },
   "Jack Of All Trades": {
     "NAME": "花樣百出",
-    "DESCRIPTION": "增加 !M! 張隨機無色牌到你的手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "增加 !M! 張隨機無色牌到你的手牌。 NL 消耗 "
+    "DESCRIPTION": "增加 !M! 張隨機無色牌到手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "增加 !M! 張隨機無色牌到手牌。 NL 消耗 "
   },
   "Juggernaut": {
     "NAME": "勢不可當",
@@ -730,8 +730,8 @@
   },
   "Loop": {
     "NAME": "迴圈",
-    "DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力",
-    "UPGRADE_DESCRIPTION": "在你的回合開始時，使用你最右側的1個充能球的被動能力 !M! 次"
+    "DESCRIPTION": "在你的回合開始時，使用最右側的1個充能球的被動能力",
+    "UPGRADE_DESCRIPTION": "在你的回合開始時，使用最右側的1個充能球的被動能力 !M! 次"
   },
   "Machine Learning": {
     "NAME": "機器學習",
@@ -740,11 +740,11 @@
   },
   "Madness": {
     "NAME": "瘋狂",
-    "DESCRIPTION": "你手牌中一張隨機牌在本場戰鬥中耗能變為0。 NL 消耗 "
+    "DESCRIPTION": "手牌中一張隨機牌在本場戰鬥中耗能變為0。 NL 消耗 "
   },
   "Magnetism": {
     "NAME": "磁力",
-    "DESCRIPTION": "在每回合開始時，增加一張隨機無色牌到你的手牌"
+    "DESCRIPTION": "在每回合開始時，增加一張隨機無色牌到手牌"
   },
   "Malaise": {
     "NAME": "萎靡",
@@ -774,7 +774,7 @@
   },
   "Mind Blast": {
     "NAME": "心靈震懾",
-    "DESCRIPTION": " 固有 。 NL 造成你抽牌堆中剩餘牌數的傷害",
+    "DESCRIPTION": " 固有 。 NL 造成抽牌堆中剩餘牌數的傷害",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL （造成 !D! 點傷害。）"
@@ -782,8 +782,8 @@
   },
   "Multi-Cast": {
     "NAME": "多重釋放",
-    "DESCRIPTION": "激發 你最右側的充能球X次",
-    "UPGRADE_DESCRIPTION": "激發 你最右側的充能球X+1次"
+    "DESCRIPTION": "激發 最右側的充能球X次",
+    "UPGRADE_DESCRIPTION": "激發 最右側的充能球X+1次"
   },
   "Necronomicurse": {
     "NAME": "死靈詛咒",
@@ -795,7 +795,7 @@
   },
   "Night Terror": {
     "NAME": "夢魘",
-    "DESCRIPTION": "選擇一張牌， NL 在下一回合，將 !M! 份這張牌的複製品放入你的手牌中。 消耗 。",
+    "DESCRIPTION": "選擇一張牌， NL 在下一回合，將 !M! 份這張牌的複製品放入手牌中。 消耗 。",
     "EXTENDED_DESCRIPTION": [
       "我每回合只能使用 NL ",
       " NL 一次。"
@@ -803,12 +803,12 @@
   },
   "Normality": {
     "NAME": "凡庸",
-    "DESCRIPTION": " 不能被打出 。 NL 在手牌中時，本回合你無法打出超過3張牌。",
+    "DESCRIPTION": " 不能被打出 。 NL 在手牌中時，本回合無法打出超過3張牌。",
     "EXTENDED_DESCRIPTION": [
       "我這回合最多 NL 只能打出 #r3 張牌。",
-      "不能被打出 。 NL 在手牌中時，本回合你無法打出超過 ",
+      "不能被打出 。 NL 在手牌中時，本回合無法打出超過 ",
       " 張牌。",
-      " 張牌。 NL 本回合你已經打出 ",
+      " 張牌。 NL 本回合已經打出 ",
       " 張牌。",
       " 張牌。"
     ]
@@ -851,16 +851,16 @@
   },
   "Panache": {
     "NAME": "神氣制勝",
-    "DESCRIPTION": "你每在同個回合內打出5張牌，就對所有敵人造成 !M! 點傷害"
+    "DESCRIPTION": "每在同個回合內打出5張牌，就對所有敵人造成 !M! 點傷害"
   },
   "Parasite": {
     "NAME": "寄生",
-    "DESCRIPTION": " 不能被打出 。 NL 如果這張牌在你的牌組中被轉化或移除，你失去3點最大生命"
+    "DESCRIPTION": " 不能被打出 。 NL 如果這張牌在牌組中被轉化或移除，你失去3點最大生命"
   },
   "Perfected Strike": {
     "NAME": "完美打擊",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 你每有一張名字中有 打擊 的牌，傷害+2",
-    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 你每有一張名字中有 打擊 的牌，傷害+3"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 每有一張名字中有 打擊 的牌，傷害+2",
+    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 每有一張名字中有 打擊 的牌，傷害+3"
   },
   "Phantasmal Killer": {
     "NAME": "幻影殺手",
@@ -881,7 +881,7 @@
   },
   "Power Through": {
     "NAME": "硬撐",
-    "DESCRIPTION": "增加2張 傷口 到你的手牌。 NL 獲得 !B! 點 格擋 "
+    "DESCRIPTION": "增加2張 傷口 到手牌。 NL 獲得 !B! 點 格擋 "
   },
   "Predator": {
     "NAME": "獵殺者",
@@ -894,7 +894,7 @@
   },
   "Prime": {
     "NAME": "預備",
-    "DESCRIPTION": "每當你 生成 充能球時，抽 !M! 張牌"
+    "DESCRIPTION": "每當 生成 充能球時，抽 !M! 張牌"
   },
   "Primitive Tech": {
     "NAME": "原始科技",
@@ -915,7 +915,7 @@
   },
   "Rage": {
     "NAME": "狂怒",
-    "DESCRIPTION": "打出此牌後，你在這個回合內每打出一張攻擊牌，獲得 !M! 格擋 "
+    "DESCRIPTION": "打出此牌後，在這個回合內每打出一張攻擊牌，獲得 !M! 格擋 "
   },
   "Rainbow": {
     "NAME": "彩虹",
@@ -932,15 +932,15 @@
   },
   "Reboot": {
     "NAME": "重啟",
-    "DESCRIPTION": "將你所有未消耗的牌重新洗牌放入抽牌堆，然後抽 !M! 張牌。 NL 消耗 "
+    "DESCRIPTION": "將所有未消耗的牌重新洗牌放入抽牌堆，然後抽 !M! 張牌。 NL 消耗 "
   },
   "Rebound": {
     "NAME": "彈回",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 你在這個回合打出的下一張牌將會被放置到抽牌堆的頂部。 （只限會移入棄牌堆的牌）"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 在這個回合打出的下一張牌將會被放置到抽牌堆的頂部。 （只限會移入棄牌堆的牌）"
   },
   "Reckless Charge": {
     "NAME": "無謀衝鋒",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL  將一張 暈眩 放入你的抽牌堆中"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL  將一張 暈眩 放入抽牌堆中"
   },
   "Recycle": {
     "NAME": "回收",
@@ -948,12 +948,12 @@
   },
   "Redo": {
     "NAME": "重新生成",
-    "DESCRIPTION": "激發 你最右側的充能球。 NL 然後 生成 一個剛才被 激發 的充能球"
+    "DESCRIPTION": "激發 最右側的充能球。 NL 然後 生成 一個剛才被 激發 的充能球"
   },
   "Reflex": {
     "NAME": "本能反應",
-    "DESCRIPTION": " 不能被打出 。 NL 如果這張牌從你的手牌中被丟棄，抽 !M! 張牌",
-    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果這張牌從你的手牌中被丟棄，抽 !M! 張牌。",
+    "DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，抽 !M! 張牌",
+    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，抽 !M! 張牌。",
     "EXTENDED_DESCRIPTION": [
       "這張牌不能被打出。"
     ]
@@ -972,8 +972,8 @@
   },
   "Reprogram": {
     "NAME": "改編程式",
-    "DESCRIPTION": "檢視你抽牌堆頂部的 !M! 張牌。 你可以選擇丟棄其中的任意張",
-    "UPGRADE_DESCRIPTION": "檢視你抽牌堆頂部的 !M! 張牌。 你可以選擇丟棄其中的任意張"
+    "DESCRIPTION": "檢視抽牌堆頂部的 !M! 張牌。 可以選擇丟棄其中的任意張",
+    "UPGRADE_DESCRIPTION": "檢視抽牌堆頂部的 !M! 張牌。 可以選擇丟棄其中的任意張"
   },
   "Riddle With Holes": {
     "NAME": "千穿百刺",
@@ -1005,16 +1005,16 @@
   },
   "Secret Technique": {
     "NAME": "秘密技法",
-    "DESCRIPTION": "從抽牌堆中選擇一張技能牌放入你的手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇一張技能牌放入你的手牌。",
+    "DESCRIPTION": "從抽牌堆中選擇一張技能牌放入手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇一張技能牌放入手牌。",
     "EXTENDED_DESCRIPTION": [
       "我的抽牌堆中 NL 沒有技能牌。"
     ]
   },
   "Secret Weapon": {
     "NAME": "秘密武器",
-    "DESCRIPTION": "從抽牌堆中選擇一張攻擊牌放入你的手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇一張攻擊牌放入你的手牌。",
+    "DESCRIPTION": "從抽牌堆中選擇一張攻擊牌放入手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇一張攻擊牌放入手牌。",
     "EXTENDED_DESCRIPTION": [
       "我的抽牌堆中 NL 沒有攻擊牌。"
     ]
@@ -1025,8 +1025,8 @@
   },
   "Seek": {
     "NAME": "搜尋",
-    "DESCRIPTION": "從抽牌堆中選擇 !M! 張牌放入你的手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇 !M! 張牌放入你的手牌。 NL 消耗 "
+    "DESCRIPTION": "從抽牌堆中選擇 !M! 張牌放入手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇 !M! 張牌放入手牌。 NL 消耗 "
   },
   "Self Repair": {
     "NAME": "自我修復",
@@ -1079,10 +1079,10 @@
   },
   "Stack": {
     "NAME": "堆疊",
-    "DESCRIPTION": "獲得與你當前棄牌堆中牌數相等的 格擋 值",
-    "UPGRADE_DESCRIPTION": "獲得你當前棄牌堆中牌數+3的 格擋 值。",
+    "DESCRIPTION": "獲得與當前棄牌堆中牌數相等的 格擋 值",
+    "UPGRADE_DESCRIPTION": "獲得與當前棄牌堆中牌數+3的 格擋 值",
     "EXTENDED_DESCRIPTION": [
-      " NL （獲得 !B! 點格擋。）"
+      " NL （獲得 !B! 點格擋）"
     ]
   },
   "Static Discharge": {
@@ -1096,12 +1096,12 @@
   },
   "Steam Power": {
     "NAME": "超頻",
-    "DESCRIPTION": "抽 !M! 張牌。 NL  將一張 灼傷 放入你的棄牌堆中"
+    "DESCRIPTION": "抽 !M! 張牌。 NL  將一張 灼傷 放入棄牌堆"
   },
   "Storm": {
     "NAME": "雷暴",
-    "DESCRIPTION": "你每打出一張能力牌， 生成 1 個 閃電 充能球",
-    "UPGRADE_DESCRIPTION": "固有 。 NL 你每打出一張能力牌，生成 1 個 閃電 充能球"
+    "DESCRIPTION": "每打出一張能力牌， 生成 1 個 閃電 充能球",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 每打出一張能力牌，生成 1 個 閃電 充能球"
   },
   "Storm of Steel": {
     "NAME": "鋼鐵風暴",
@@ -1150,8 +1150,8 @@
   },
   "Tactician": {
     "NAME": "戰術大師",
-    "DESCRIPTION": " 不能被打出 。 NL 如果這張牌從你的手牌中被丟棄，獲得 [G] ",
-    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果這張牌從你的手牌中被丟棄，獲得 [G] [G] 。",
+    "DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] ",
+    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] [G] 。",
     "EXTENDED_DESCRIPTION": [
       "這張牌不能被打出。"
     ]
@@ -1171,14 +1171,14 @@
   },
   "Thinking Ahead": {
     "NAME": "深謀遠慮",
-    "DESCRIPTION": "抽2張牌，然後將手牌中的一張牌放到你抽牌堆的頂端。 消耗 ",
-    "UPGRADE_DESCRIPTION": "抽2張牌，然後將手牌中的一張牌放到你抽牌堆的頂端"
+    "DESCRIPTION": "抽2張牌，然後將手牌中的一張牌放到抽牌堆的頂端。 消耗 ",
+    "UPGRADE_DESCRIPTION": "抽2張牌，然後將手牌中的一張牌放到抽牌堆的頂端"
   },
   "Thunder Strike": {
     "NAME": "雷霆打擊",
-    "DESCRIPTION": "你在本場戰鬥中每 生成 過 一個 閃電 充能球，隨機造成一次 !D! 點傷害。",
+    "DESCRIPTION": "在本場戰鬥中每 生成 過 一個 閃電 充能球，隨機造成一次 !D! 點傷害",
     "EXTENDED_DESCRIPTION": [
-      "（共 !M! 次。）"
+      "（共 !M! 次）"
     ]
   },
   "Thunderclap": {
@@ -1206,8 +1206,8 @@
   },
   "Turbo": {
     "NAME": "核心加速",
-    "DESCRIPTION": "獲得 [B] [B] 。 NL 將一張 虛空 放入你的棄牌堆中",
-    "UPGRADE_DESCRIPTION": "獲得 [B] [B] [B] 。 NL 將一張 虛空 放入你的棄牌堆中"
+    "DESCRIPTION": "獲得 [B] [B] 。 NL 將一張 虛空 放入棄牌堆",
+    "UPGRADE_DESCRIPTION": "獲得 [B] [B] [B] 。 NL 將一張 虛空 放入棄牌堆"
   },
   "Twin Strike": {
     "NAME": "雙重打擊",
@@ -1215,7 +1215,7 @@
   },
   "Underhanded Strike": {
     "NAME": "隱秘打擊",
-    "DESCRIPTION": " 造成 !D! 點傷害。 NL 如果你在這回合丟棄過牌，獲得 [G] [G] 。",
+    "DESCRIPTION": " 造成 !D! 點傷害。 NL 如果在這回合丟棄過牌，獲得 [G] [G] 。",
     "EXTENDED_DESCRIPTION": [
       "這張牌不能被打出。"
     ]
@@ -1242,8 +1242,8 @@
   },
   "Warcry": {
     "NAME": "戰吼",
-    "DESCRIPTION": "抽 !M! 張牌。 NL 將手牌中的一張牌放到你的抽牌堆頂部。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "抽 !M! 張牌。 NL 將手牌中的一張牌放到你的抽牌堆頂部。 NL 消耗 "
+    "DESCRIPTION": "抽 !M! 張牌。 NL 將手牌中的一張牌放到抽牌堆頂部。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "抽 !M! 張牌。 NL 將手牌中的一張牌放到抽牌堆頂部。 NL 消耗 "
   },
   "Well Laid Plans": {
     "NAME": "計劃妥當",
@@ -1256,11 +1256,11 @@
   },
   "White Noise": {
     "NAME": "白色雜訊",
-    "DESCRIPTION": "增加一張隨機能力牌到你的手牌。 NL 這張牌在本回合耗能變為0。  NL 消耗 "
+    "DESCRIPTION": "增加一張隨機能力牌到手牌。 NL 這張牌在本回合耗能變為0。  NL 消耗 "
   },
   "Wild Strike": {
     "NAME": "狂野打擊",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 將一張 傷口 放入你的抽牌堆中"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 將一張 傷口 放入抽牌堆中"
   },
   "Winter": {
     "NAME": "Winter",
@@ -1288,7 +1288,7 @@
   },
   "Compile Driver": {
     "NAME": "編譯衝擊",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 你每有一種不同的 充能球 ，抽 !M! 張牌"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 每有一種不同的 充能球 ，抽 !M! 張牌"
   },
   "RitualDagger": {
     "NAME": "儀式匕首",
@@ -1300,19 +1300,19 @@
   },
   "PanicButton": {
     "NAME": "應急按鈕",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 你在接下來 !M! 回合內無法再從卡牌中獲得格擋。 NL 消耗 "
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 在接下來 !M! 回合內無法再從卡牌中獲得格擋。 NL 消耗 "
   },
   "Chrysalis": {
     "NAME": "結繭",
-    "DESCRIPTION": "在你的抽牌堆中加入 !M! 張隨機技能牌。 他們在本場戰鬥中耗能為0。 NL 消耗 "
+    "DESCRIPTION": "在抽牌堆中加入 !M! 張隨機技能牌。 他們在本場戰鬥中耗能為0。 NL 消耗 "
   },
   "Metamorphosis": {
     "NAME": "羽化",
-    "DESCRIPTION": "在你的抽牌堆中加入 !M! 張隨機攻擊牌。 他們在本場戰鬥中耗能為0。 NL 消耗 "
+    "DESCRIPTION": "在抽牌堆中加入 !M! 張隨機攻擊牌。 他們在本場戰鬥中耗能為0。 NL 消耗 "
   },
   "Mayhem": {
     "NAME": "亂戰",
-    "DESCRIPTION": "在你的回合開始時，打出你抽牌堆頂部的牌"
+    "DESCRIPTION": "在你的回合開始時，打出抽牌堆頂部的牌"
   },
   "Shame": {
     "NAME": "羞恥",
