@@ -161,7 +161,7 @@
   "Body Slam": {
     "NAME": "泰山壓頂",
     "DESCRIPTION": "造成你當前 格擋 值的傷害",
-    "UPGRADE_DESCRIPTION": " NL （造成 !D! 點傷害。）"
+    "UPGRADE_DESCRIPTION": " NL （造成 !D! 點傷害）"
   },
   "BootSequence": {
     "NAME": "啟動流程",
@@ -248,7 +248,7 @@
     "NAME": "交鋒",
     "DESCRIPTION": "只有在手牌每1張牌都是攻擊牌時才能被打出。 NL 造成 !D! 點傷害。",
     "EXTENDED_DESCRIPTION": [
-      "我的手牌中還有非攻擊牌。"
+      "我的手牌中還有非攻擊牌"
     ]
   },
   "Cleave": {
@@ -491,11 +491,11 @@
   },
   "FTL": {
     "NAME": "超光速",
-    "DESCRIPTION": "造成 !D! 點傷害。 如果在這回合打出的牌數少於 !M! 張，抽1張牌。",
+    "DESCRIPTION": "造成 !D! 點傷害。 如果在這回合打出的牌數少於 !M! 張，抽1張牌",
     "EXTENDED_DESCRIPTION": [
       " NL （已打出",
-      " 張牌。）",
-      " 張牌。）"
+      " 張牌）",
+      " 張牌）"
     ]
   },
   "Feed": {
@@ -541,11 +541,11 @@
   },
   "Flechettes": {
     "NAME": "飛鏢",
-    "DESCRIPTION": "手牌中每有1張技能牌，造成 !D! 點傷害。",
+    "DESCRIPTION": "手牌中每有1張技能牌，造成 !D! 點傷害",
     "EXTENDED_DESCRIPTION": [
       " NL （你有",
-      " 張技能牌。）",
-      " 張技能牌。）"
+      " 張技能牌）",
+      " 張技能牌）"
     ]
   },
   "Flex": {
@@ -798,26 +798,26 @@
     "DESCRIPTION": "選擇1張牌， NL 在下一回合，複製 !M! 張該牌到手牌。 消耗 ",
     "EXTENDED_DESCRIPTION": [
       "我每回合只能使用 NL ",
-      " NL 一次。"
+      " NL 一次"
     ]
   },
   "Normality": {
     "NAME": "凡庸",
-    "DESCRIPTION": " 不能被打出 。 NL 在手牌中時，本回合無法打出超過3張牌。",
+    "DESCRIPTION": " 不能被打出 。 NL 在手牌中時，本回合無法打出超過3張牌",
     "EXTENDED_DESCRIPTION": [
-      "我這回合最多 NL 只能打出 #r3 張牌。",
+      "我這回合最多 NL 只能打出 #r3 張牌",
       "不能被打出 。 NL 在手牌中時，本回合無法打出超過 ",
-      " 張牌。",
+      " 張牌",
       " 張牌。 NL 本回合已經打出 ",
-      " 張牌。",
-      " 張牌。"
+      " 張牌",
+      " 張牌"
     ]
   },
   "Nova": {
     "NAME": "新星",
-    "DESCRIPTION": "對所有敵人造成你在本場戰鬥中打出過的能力牌總數乘以 !M! 的傷害。",
+    "DESCRIPTION": "對所有敵人造成你在本場戰鬥中打出過的能力牌總數乘以 !M! 的傷害",
     "EXTENDED_DESCRIPTION": [
-      " NL 消耗 。",
+      " NL 消耗 ",
       " NL （造成 !D! 點傷害。）"
     ],
     "UPGRADE_DESCRIPTION": ""
@@ -953,9 +953,9 @@
   "Reflex": {
     "NAME": "本能反應",
     "DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，抽 !M! 張牌",
-    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，抽 !M! 張牌。",
+    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，抽 !M! 張牌",
     "EXTENDED_DESCRIPTION": [
-      "這張牌不能被打出。"
+      "這張牌不能被打出"
     ]
   },
   "Regret": {
@@ -1014,7 +1014,7 @@
   "Secret Weapon": {
     "NAME": "秘密武器",
     "DESCRIPTION": "從抽牌堆中選擇1張攻擊牌放入手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇1張攻擊牌放入手牌。",
+    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇1張攻擊牌放入手牌",
     "EXTENDED_DESCRIPTION": [
       "我的抽牌堆中 NL 沒有攻擊牌"
     ]
@@ -1153,7 +1153,7 @@
     "DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] ",
     "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] [G] ",
     "EXTENDED_DESCRIPTION": [
-      "這張牌不能被打出。"
+      "這張牌不能被打出"
     ]
   },
   "Tempest": {
