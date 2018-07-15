@@ -948,12 +948,12 @@
   },
   "Redo": {
     "NAME": "重新生成",
-    "DESCRIPTION": "激發 最右側的充能球。 NL 然後 生成 一個剛才被 激發 的充能球"
+    "DESCRIPTION": "激發 最右側的充能球。 NL 然後 生成 1個剛才被 激發 的充能球"
   },
   "Reflex": {
     "NAME": "本能反應",
-    "DESCRIPTION": " 不能打出 。 NL 如果這張牌從手牌中被丟棄，抽 !M! 張牌",
-    "UPGRADE_DESCRIPTION": " 不能打出 。 NL 如果這張牌從手牌中被丟棄，抽 !M! 張牌",
+    "DESCRIPTION": " 不能打出 。 NL 這張牌從手牌中丟棄時，抽 !M! 張牌",
+    "UPGRADE_DESCRIPTION": " 不能打出 。 NL 這張牌從手牌中丟棄時，抽 !M! 張牌",
     "EXTENDED_DESCRIPTION": [
       "這張牌不能打出"
     ]
