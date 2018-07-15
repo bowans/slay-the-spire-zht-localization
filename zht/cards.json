@@ -815,10 +815,10 @@
   },
   "Nova": {
     "NAME": "新星",
-    "DESCRIPTION": "對所有敵人造成你在本場戰鬥中打出過的能力牌總數乘以 !M! 的傷害",
+    "DESCRIPTION": "對所有敵人造成在本場戰鬥中打出過的能力牌總數 !M! 倍的傷害",
     "EXTENDED_DESCRIPTION": [
       " NL 消耗 ",
-      " NL （造成 !D! 點傷害。）"
+      " NL （造成 !D! 點傷害）"
     ],
     "UPGRADE_DESCRIPTION": ""
   },
