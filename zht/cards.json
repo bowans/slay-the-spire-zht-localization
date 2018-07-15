@@ -657,8 +657,8 @@
   },
   "Ice Wall": {
     "NAME": "冰牆",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 每擁有一個 冰霜 充能球，獲得的 格擋 +3",
-    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 每擁有一個 冰霜 充能球，獲得的 格擋 +5"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 每擁有1個 冰霜 充能球，獲得的 格擋 +3",
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 每擁有1個 冰霜 充能球，獲得的 格擋 +5"
   },
   "Immolate": {
     "NAME": "燔祭",
@@ -709,7 +709,7 @@
   },
   "Juggernaut": {
     "NAME": "勢不可當",
-    "DESCRIPTION": "每當你獲得 格擋 時，對隨機一名敵人造成 !M! 點傷害"
+    "DESCRIPTION": "每當你獲得 格擋 時，對隨機1名敵人造成 !M! 點傷害"
   },
   "Leap": {
     "NAME": "飛躍",
