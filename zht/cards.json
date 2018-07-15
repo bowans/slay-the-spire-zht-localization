@@ -955,7 +955,7 @@
     "DESCRIPTION": " 無法打出 。 NL 這張牌從手牌中丟棄時，抽 !M! 張牌",
     "UPGRADE_DESCRIPTION": " 無法打出 。 NL 這張牌從手牌中丟棄時，抽 !M! 張牌",
     "EXTENDED_DESCRIPTION": [
-      "這張牌不能打出"
+      "不能打出這張牌"
     ]
   },
   "Regret": {
@@ -1153,7 +1153,7 @@
     "DESCRIPTION": " 無法打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] ",
     "UPGRADE_DESCRIPTION": " 無法打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] [G] ",
     "EXTENDED_DESCRIPTION": [
-      "這張牌不能打出"
+      "不能打出這張牌"
     ]
   },
   "Tempest": {
@@ -1217,7 +1217,7 @@
     "NAME": "隱秘打擊",
     "DESCRIPTION": " 造成 !D! 點傷害。 NL 若本回合丟棄過牌，獲得 [G] [G] ",
     "EXTENDED_DESCRIPTION": [
-      "這張牌不能打出"
+      "不能打出這張牌"
     ]
   },
   "Undo": {
