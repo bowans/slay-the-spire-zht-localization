@@ -1006,9 +1006,9 @@
   "Secret Technique": {
     "NAME": "秘密技法",
     "DESCRIPTION": "從抽牌堆中選擇1張技能牌放入手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇1張技能牌放入手牌。",
+    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇1張技能牌放入手牌",
     "EXTENDED_DESCRIPTION": [
-      "我的抽牌堆中 NL 沒有技能牌。"
+      "我的抽牌堆中 NL 沒有技能牌"
     ]
   },
   "Secret Weapon": {
@@ -1016,7 +1016,7 @@
     "DESCRIPTION": "從抽牌堆中選擇1張攻擊牌放入手牌。 NL 消耗 ",
     "UPGRADE_DESCRIPTION": "從抽牌堆中選擇1張攻擊牌放入手牌。",
     "EXTENDED_DESCRIPTION": [
-      "我的抽牌堆中 NL 沒有攻擊牌。"
+      "我的抽牌堆中 NL 沒有攻擊牌"
     ]
   },
   "Seeing Red": {
@@ -1151,7 +1151,7 @@
   "Tactician": {
     "NAME": "戰術大師",
     "DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] ",
-    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] [G] 。",
+    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果這張牌從手牌中被丟棄，獲得 [G] [G] ",
     "EXTENDED_DESCRIPTION": [
       "這張牌不能被打出。"
     ]
@@ -1215,9 +1215,9 @@
   },
   "Underhanded Strike": {
     "NAME": "隱秘打擊",
-    "DESCRIPTION": " 造成 !D! 點傷害。 NL 如果在這回合丟棄過牌，獲得 [G] [G] 。",
+    "DESCRIPTION": " 造成 !D! 點傷害。 NL 如果在這回合丟棄過牌，獲得 [G] [G] ",
     "EXTENDED_DESCRIPTION": [
-      "這張牌不能被打出。"
+      "這張牌不能被打出"
     ]
   },
   "Undo": {
