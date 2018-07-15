@@ -248,7 +248,7 @@
   "Draw Card": {
     "NAME": "抽牌",
     "DESCRIPTIONS": [
-      "下1回合抽 #b",
+      "下回合抽 #b",
       " 張牌",
       " 張牌"
     ]
@@ -256,7 +256,7 @@
   "Draw Down": {
     "NAME": "抽牌減少",
     "DESCRIPTIONS": [
-      "下1回合少抽 #b",
+      "下回合少抽 #b",
       " 張牌",
       " 張牌"
     ]
@@ -264,7 +264,7 @@
   "Draw Reduction": {
     "NAME": "抽牌變少",
     "DESCRIPTIONS": [
-      "下1回合少抽 #b1 張牌",
+      "下回合少抽 #b1 張牌",
       "下 #b",
       " 回合少抽 #b1 張牌"
     ]
@@ -288,7 +288,7 @@
   "Energized": {
     "NAME": "能量提升",
     "DESCRIPTIONS": [
-      "下1回合獲得額外 #b",
+      "下回合獲得額外 #b",
       "  [G] ",
       "  [G] ",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
@@ -335,8 +335,8 @@
   "Extra Cards": {
     "NAME": "額外牌數",
     "DESCRIPTIONS": [
-      "下一回合多抽 #b1 張牌",
-      "下一回合多抽 #b",
+      "下回合多抽 #b1 張牌",
+      "下回合多抽 #b",
       " 張牌"
     ]
   },
@@ -935,7 +935,7 @@
   "EnergizedBlue": {
     "NAME": "能量提升",
     "DESCRIPTIONS": [
-      "下一回合獲得額外 #b",
+      "下回合獲得額外 #b",
       " [B] ",
       " [B] ",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
