@@ -44,7 +44,7 @@
   },
   "Anger": {
     "NAME": "憤怒",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 在棄牌堆放入1張此牌的複製品"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 複製 1 張此牌到棄牌堆"
   },
   "Apotheosis": {
     "NAME": "神化",
@@ -447,7 +447,7 @@
   },
   "Endless Agony": {
     "NAME": "無盡苦痛",
-    "DESCRIPTION": "每當抽到這張牌，都增加1張其複製品到手牌。 NL 造成 !D! 點傷害。 NL 消耗 "
+    "DESCRIPTION": "每當抽到這張牌，都會複製1張該牌到手牌。 NL 造成 !D! 點傷害。 NL 消耗 "
   },
   "Energy Pulse": {
     "NAME": "能量波動",
@@ -795,7 +795,7 @@
   },
   "Night Terror": {
     "NAME": "夢魘",
-    "DESCRIPTION": "選擇1張牌， NL 在下一回合，將 !M! 份這張牌的複製品放入手牌中。 消耗 。",
+    "DESCRIPTION": "選擇1張牌， NL 在下一回合，複製 !M! 張該牌到手牌。 消耗 ",
     "EXTENDED_DESCRIPTION": [
       "我每回合只能使用 NL ",
       " NL 一次。"
@@ -1296,7 +1296,7 @@
   },
   "Pride": {
     "NAME": "傲慢",
-    "DESCRIPTION": "固有 。NL 消耗 。 NL 你的回合結束時，在抽牌堆頂部加入1張這張牌的複製品"
+    "DESCRIPTION": "固有 。NL 消耗 。 NL 你的回合結束時，複製1張該牌到抽牌堆頂部"
   },
   "PanicButton": {
     "NAME": "應急按鈕",
