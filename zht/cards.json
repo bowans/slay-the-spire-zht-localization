@@ -1034,8 +1034,8 @@
   },
   "Sentinel": {
     "NAME": "哨衛",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 如果這張牌被 消耗 ， NL 獲得 [R] [R] ",
-    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 如果這張牌被 消耗 ， NL 獲得 [R] [R] [R] "
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 這張牌被 消耗 時， NL 獲得 [R] [R] ",
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 這張牌被 消耗 時， NL 獲得 [R] [R] [R] "
   },
   "Setup": {
     "NAME": "部署",
