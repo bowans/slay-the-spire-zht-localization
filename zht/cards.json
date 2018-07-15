@@ -1079,8 +1079,8 @@
   },
   "Stack": {
     "NAME": "堆疊",
-    "DESCRIPTION": "獲得與當前棄牌堆中牌數相等的 格擋 值",
-    "UPGRADE_DESCRIPTION": "獲得與當前棄牌堆中牌數+3的 格擋 值",
+    "DESCRIPTION": "獲得與當前棄牌堆牌數相等的 格擋 值",
+    "UPGRADE_DESCRIPTION": "獲得與當前棄牌堆牌數+3的 格擋 值",
     "EXTENDED_DESCRIPTION": [
       " NL （獲得 !B! 點格擋）"
     ]
