@@ -156,7 +156,7 @@
   },
   "Blur": {
     "NAME": "殘影",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 下一回合開始時 格擋 不會消失"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 下回合開始時 格擋 不會消失"
   },
   "Body Slam": {
     "NAME": "泰山壓頂",
@@ -282,7 +282,7 @@
   },
   "Conserve Battery": {
     "NAME": "充電",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 下一回合獲得  [B]"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 下回合獲得  [B]"
   },
   "Consume": {
     "NAME": "耗盡",
@@ -393,7 +393,7 @@
   },
   "Dodge and Roll": {
     "NAME": "閃躲翻滾",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 在下一回合獲得 !B! 點 格擋 "
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 在下回合獲得 !B! 點 格擋 "
   },
   "Doom and Gloom": {
     "NAME": "愁雲慘淡",
@@ -401,8 +401,8 @@
   },
   "Doppelganger": {
     "NAME": "雙重存在",
-    "DESCRIPTION": "下一回合，抽X張牌，獲得X [G] 。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "下一回合，抽X+1張牌，獲得X+1 [G] 。 NL 消耗 "
+    "DESCRIPTION": "下回合，抽X張牌，獲得X [G] 。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "下回合，抽X+1張牌，獲得X+1 [G] 。 NL 消耗 "
   },
   "Double Energy": {
     "NAME": "雙倍能量",
@@ -558,7 +558,7 @@
   },
   "Flying Knee": {
     "NAME": "飛膝",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 在下一回合獲得 [G] "
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 在下回合獲得 [G] "
   },
   "Footwork": {
     "NAME": "靈動步法",
@@ -644,7 +644,7 @@
   },
   "Hide": {
     "NAME": "躲藏",
-    "DESCRIPTION": "在下一回合開始之前你不會損失生命。 NL 消耗 "
+    "DESCRIPTION": "在下回合開始之前你不會損失生命。 NL 消耗 "
   },
   "Hologram": {
     "NAME": "全像投影",
@@ -795,7 +795,7 @@
   },
   "Night Terror": {
     "NAME": "夢魘",
-    "DESCRIPTION": "選擇1張牌， NL 在下一回合，複製 !M! 張該牌到手牌。 消耗 ",
+    "DESCRIPTION": "選擇1張牌， NL 在下回合，複製 !M! 張該牌到手牌。 消耗 ",
     "EXTENDED_DESCRIPTION": [
       "我每回合只能使用 NL ",
       " NL 1次"
@@ -833,8 +833,8 @@
   },
   "Outmaneuver": {
     "NAME": "搶佔先機",
-    "DESCRIPTION": "下一回合 NL 獲得 [G] [G] ",
-    "UPGRADE_DESCRIPTION": "下一回合 NL 獲得 [G] [G] [G] "
+    "DESCRIPTION": "下回合 NL 獲得 [G] [G] ",
+    "UPGRADE_DESCRIPTION": "下回合 NL 獲得 [G] [G] [G] "
   },
   "Overclock": {
     "NAME": "超頻（棄用）",
@@ -885,7 +885,7 @@
   },
   "Predator": {
     "NAME": "獵殺者",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 在下一回合多抽2張牌"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 在下回合多抽2張牌"
   },
   "Prepared": {
     "NAME": "早有準備",
