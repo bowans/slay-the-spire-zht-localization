@@ -600,7 +600,7 @@
   },
   "Go for the Eyes": {
     "NAME": "眼部攻擊",
-    "DESCRIPTION": "造成 !D! 點傷害。 敵人是攻擊意圖時，給予其 !M! 層 虛弱 "
+    "DESCRIPTION": "造成 !D! 點傷害。 若敵人是攻擊意圖，給予其 !M! 層 虛弱 "
   },
   "Good Instincts": {
     "NAME": "優秀直覺",
@@ -968,7 +968,7 @@
   },
   "Reprieve": {
     "NAME": "延緩",
-    "DESCRIPTION": "敵人不是攻擊意圖時，獲得 !M! 點 集中 "
+    "DESCRIPTION": "若敵人不是攻擊意圖，獲得 !M! 點 集中 "
   },
   "Reprogram": {
     "NAME": "改編程式",
@@ -1075,7 +1075,7 @@
   },
   "Spot Weakness": {
     "NAME": "觀察弱點",
-    "DESCRIPTION": "敵人是攻擊意圖時，你獲得 !M! 點 力量 "
+    "DESCRIPTION": "若敵人是攻擊意圖，你獲得 !M! 點 力量 "
   },
   "Stack": {
     "NAME": "堆疊",
