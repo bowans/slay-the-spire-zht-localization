@@ -242,7 +242,7 @@
   },
   "Choke": {
     "NAME": "勒脖",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 在這個回合內每打出1張牌，該名敵人都會失去 !M! 點生命"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 本回合每打出1張牌，該名敵人都會失去 !M! 點生命"
   },
   "Clash": {
     "NAME": "交鋒",
@@ -474,7 +474,7 @@
   },
   "Eviscerate": {
     "NAME": "開膛破肚",
-    "DESCRIPTION": "在這個回合內每丟棄1張牌，耗能就減少1 [G] 。 NL 造成 !D! 點傷害三次"
+    "DESCRIPTION": "本回合每丟棄1張牌，耗能就減少1 [G] 。 NL 造成 !D! 點傷害三次"
   },
   "Evolve": {
     "NAME": "進化",
@@ -516,7 +516,7 @@
   },
   "Finisher": {
     "NAME": "終結技",
-    "DESCRIPTION": "在這個回合內每打出過1張攻擊牌，就造成一次 !D! 點傷害",
+    "DESCRIPTION": "本回合每打出過1張攻擊牌，就造成一次 !D! 點傷害",
     "EXTENDED_DESCRIPTION": [
       " NL （你本回合打出過",
       " 張攻擊牌）",
@@ -915,7 +915,7 @@
   },
   "Rage": {
     "NAME": "狂怒",
-    "DESCRIPTION": "打出此牌後，在這個回合內每打出1張攻擊牌，獲得 !M! 格擋 "
+    "DESCRIPTION": "打出此牌後，本回合每打出1張攻擊牌，獲得 !M! 格擋 "
   },
   "Rainbow": {
     "NAME": "彩虹",
