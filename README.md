@@ -1,5 +1,5 @@
 # slay-the-spire-zht-localization
-Slay the Spire 繁體中文翻譯
+Slay the Spire 正體中文翻譯
 
 # 檔案結構
 
