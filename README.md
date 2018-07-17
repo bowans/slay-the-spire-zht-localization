@@ -17,8 +17,8 @@ Slay the Spire 正體中文翻譯
 
 1. 取出遊戲中的 ```localization``` ，更新 ```eng, zhs, zht, REFERENCES.txt, TRANSLATOR_README.txt, UPDATES.txt```。
 2. 將最新的 ```localization\zhs``` 用繁化姬桌面版轉換，選項用台灣化，並移除每個檔案最下面因轉換而多出的空行。
-3. Merge ```localization\zht``` 與實際上生新翻譯的 ```zht```。
-> 在上一次 update 給 dev 後，我們可能還有持續更新 zht。因此要做 Merge 來確保 localization\zht 的新內容與我們後來的更新都還在。
+3. Merge ```localization\zht``` 與實際上更新翻譯的 ```zht```。
+> 在上一次 update 給 dev 後，可能還有持續更新 zht。因此要做 Merge 來確保 localization\zht 的新內容與後來的更新都還在。
 > 
 > 若想要確認在上次給 dev 後做了哪些更新，可以點最新的 Release，會顯示與上次的 release 中相隔了那些 commit。
 
