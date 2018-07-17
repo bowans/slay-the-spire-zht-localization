@@ -13,18 +13,20 @@ Slay the Spire 正體中文翻譯
     ├── zht                             # 實際上 zht 更新翻譯的資料夾
     └── README.md
 
-### 每次更新固定流程
+### 更新固定流程
 
-1. 取出遊戲中的 localization ，更新 ```eng, zhs, zht, REFERENCES.txt, TRANSLATOR_README.txt, UPDATES.txt```。
+1. 取出遊戲中的 ```localization``` ，更新 ```eng, zhs, zht, REFERENCES.txt, TRANSLATOR_README.txt, UPDATES.txt```。
 2. 將最新的 ```localization\zhs``` 用繁化姬桌面版轉換，選項用台灣化，並移除每個檔案最下面因轉換而多出的空行。
-3. Merge localization\zht 與實際上生新翻譯的 zht。
+3. Merge ```localization\zht``` 與實際上生新翻譯的 ```zht```。
 > 在上一次 update 給 dev 後，我們可能還有持續更新 zht。因此要做 Merge 來確保 localization\zht 的新內容與我們後來的更新都還在。
 > 
 > 若想要確認在上次給 dev 後做了哪些更新，可以點最新的 Release，會顯示與上次的 release 中相隔了那些 commit。
 
-### 參考流程
+### 協助翻譯
 
-以下直接是寫執行命令，如果是用其它工具的人，UI上應該會有對應的功能。
+發現遊戲中翻譯有誤或是有翻譯的建議，可以直接發 issue 或是發 Pull Request。
+
+以下是發 Pull Request 的參考流程，這邊直接 command line 指令，如果是用其它工具的人，UI上應該會有對應的功能。
 
 1. 點選 fork 將專案複製至自已的帳號底下，
 2. 將你 fork 過去的專案，也就是你自己的專案 clone 到你的本地端
@@ -35,8 +37,12 @@ Slay the Spire 正體中文翻譯
 7. 執行 `git rebase upstream/master` 將更新內容整併到你的分支
 
 以上為初始化流程，如果 upstream 有更新請執行 5~7 即可，平時請在自己的分支上作業。
-最後發 pull-request 將翻譯內容加回至本專案，每次發之前請務必確認是否同步了最新版。
-（建議翻譯部份成果就可加回，太多可能導致重覆翻譯或衝突發生）
+最後發 Pull Request 將翻譯內容加回至本專案，每次發之前請務必確認是否同步了最新版。
+（翻譯部份成果就可加回，太多可能導致重覆翻譯或衝突發生）
+> Pull Request 有幾項的準則：
+> 1. 較小的 Pull Request。
+> 2. 每個 Pull Request 只做一件事，例如「新增XX的翻譯」、「統一用詞：XX 換成 XX」。
+> 3. 說明 Pull Request 做了什麼修改以及修改的理由。
 
 ### 翻譯和標點符號準則
 
