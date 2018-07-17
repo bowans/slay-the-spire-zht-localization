@@ -211,7 +211,8 @@
     "NAME": "Chemical X",
     "FLAVOR": "WARNING: Do not combine with sugar, spice, and everything nice.",
     "DESCRIPTIONS": [
-      "Whenever you play a cost #bX card, its effects are increased by #b"
+      "The effects of your cost #bX cards are increased by #b",
+      "."
     ]
   },
   "Circlet": {
@@ -296,7 +297,7 @@
     "NAME": "Dream Catcher",
     "FLAVOR": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
     "DESCRIPTIONS": [
-      "Whenever you rest, you may add a card to your deck."
+      "Whenever you #yRest, you may add a card to your deck."
     ]
   },
   "Du-Vu Doll": {
@@ -1324,14 +1325,40 @@
     "NAME": "Orange Pellets",
     "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
+      "Whenever you play a #yPower, #yAttack, and #ySkill in the same turn, remove all of your Debuffs."
     ]
   },
   "WristBlade": {
     "NAME": "Wrist Blade",
     "FLAVOR": "Handy for assassinations.",
     "DESCRIPTIONS": [
-      "#yAttack cards that cost #b0 deal #b4 additional damage."
+      "#yAttacks that cost #b0 deal #b4 additional damage."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Stone Calendar",
+    "FLAVOR": "The passage of time is imperceptible in the Spire.",
+    "DESCRIPTIONS": [
+      "At the end of turn #b",
+      ", deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "A good training tool. Improves the posture and agility of the wielder.",
+    "DESCRIPTIONS": [
+      "Every time you play #b",
+      " #yAttacks, gain [R] .",
+      " #yAttacks, gain [G] .",
+      " #yAttacks, gain [B] ."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Maw Bank",
+    "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",
+    "DESCRIPTIONS": [
+      "Whenever you climb a floor, gain #b5 #yGold. No longer works when you spend any #yGold at the shop."
     ]
   }
 }
