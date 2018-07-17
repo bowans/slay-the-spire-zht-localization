@@ -1,13 +1,19 @@
-# slay-the-spire-zht-localization
+## slay-the-spire-zht-localization
 Slay the Spire 正體中文翻譯
 
-# 檔案結構
+    .
+    ├── localization                    # beta branch 更新後從遊戲中取出最新翻譯
+    │   ├── eng
+    │   ├── zhs
+    │   ├── zht
+    │   ├── REFERENCES.txt              # 官方取名時的 reference
+    │   ├── TRANSLATOR_README.txt       # 官方翻譯人員須知
+    │   └── UPDATES.txt                 # 每次更新的 update note
+    ├── zhs2zht                         # localization 中對 zhs 作簡轉繁，做為參考。
+    ├── zht                             # 實際上 zht 更新翻譯的資料夾
+    └── README.md
 
-* localization: beta branch 更新後從遊戲中取出最新翻譯。
-* zhs2zht: localization 中對 zhs 作簡轉繁，做為參考。
-* zht: 實際上更新翻譯的資料夾，每次 localization 更新後會先覆蓋其中的 zht 資料夾至此，再進行翻譯。
-
-# 每次更新固定流程
+### 每次更新固定流程
 
 1. 取出遊戲中的 localization ，更新 ```eng, zhs, zht, REFERENCES.txt, TRANSLATOR_README.txt, UPDATES.txt```。
 2. 將最新的 ```localization\zhs``` 用繁化姬桌面版轉換，選項用台灣化，並移除每個檔案最下面因轉換而多出的空行。
@@ -16,7 +22,7 @@ Slay the Spire 正體中文翻譯
 > 
 > 若想要確認在上次給 dev 後做了哪些更新，可以點最新的 Release，會顯示與上次的 release 中相隔了那些 commit。
 
-# 參考流程
+### 參考流程
 
 以下直接是寫執行命令，如果是用其它工具的人，UI上應該會有對應的功能。
 
@@ -32,7 +38,7 @@ Slay the Spire 正體中文翻譯
 最後發 pull-request 將翻譯內容加回至本專案，每次發之前請務必確認是否同步了最新版。
 （建議翻譯部份成果就可加回，太多可能導致重覆翻譯或衝突發生）
 
-# 翻譯和標點符號準則
+### 翻譯和標點符號準則
 
 符號一律使用全形符號，請參考[標點符號手冊](http://language.moe.gov.tw/001/Upload/FILES/SITE_CONTENT/M0001/HAU/haushou.htm)，
 打不出來的符號，就直接複製此網頁上的符號，不要找相似的貼，有時樣子一樣但編碼不一樣，
@@ -48,6 +54,6 @@ Slay the Spire 正體中文翻譯
 * 遇到 1 of 5 這種顯示數量的地方，可以用 1/5，/是英文半形斜線，不需要用全形的。
 * 其它待補充。
 
-# 討論區
+### 討論區
 
-[官方 Discord] https://steamcommunity.com/linkfilter/?url=http://discord.gg/slaythespire
+[[官方 Discord]] https://steamcommunity.com/linkfilter/?url=http://discord.gg/slaythespire
