@@ -675,7 +675,7 @@
   },
   "Infernal Blade": {
     "NAME": "地獄之刃",
-    "DESCRIPTION": "增加1張隨機攻擊牌到手牌。 NL 這張牌在本回合耗能變為0。 NL 消耗 "
+    "DESCRIPTION": "增加1張隨機攻擊牌到手牌。 NL 該牌在本回合耗能變為0。 NL 消耗 "
   },
   "Infinite Blades": {
     "NAME": "無限刀刃",
@@ -1039,7 +1039,7 @@
   },
   "Setup": {
     "NAME": "部署",
-    "DESCRIPTION": "將1張手牌放到抽牌堆頂部。 NL 並且在其被打出之前，其耗能將變為0"
+    "DESCRIPTION": "將1張手牌放到抽牌堆頂部。 NL 並且在其被打出之前，其耗能變為0"
   },
   "Sever Soul": {
     "NAME": "斷魂斬",
@@ -1321,22 +1321,22 @@
   "HandOfGreed": {
     "NAME": "貪婪之手",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 若這張牌殺死一名不是「爪牙」的敵人，獲得 !M! 金幣"
-  },
-  "Violence": {
-    "NAME": "Violence",
-    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand."
-  },
-  "Impatience": {
-    "NAME": "Impatience",
-    "DESCRIPTION": "If you have no Attack cards in your hand, draw !M! cards."
-  },
-  "Forethought": {
-    "NAME": "Forethought",
-    "DESCRIPTION": "Place a card from your hand on the bottom of your draw pile. NL It costs 0 until it is played."
-  },
-  "Discovery": {
-    "NAME": "Discovery",
-    "DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn."
-  }
+},
+  "Violence": {
+    "NAME": "暴力",
+    "DESCRIPTION": "隨機將抽牌堆中 !M! 張攻擊牌放入手牌"
+  },
+  "Impatience": {
+    "NAME": "急躁",
+    "DESCRIPTION": "若手牌中沒有攻擊牌，抽 !M! 張牌"
+  },
+  "Forethought": {
+    "NAME": "預謀",
+    "DESCRIPTION": "將1張手牌放到抽牌堆底部。 NL 並且在其被打出之前，其耗能變為0"
+  },
+  "Discovery": {
+    "NAME": "發現",
+    "DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0"
+  }
 }

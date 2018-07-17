@@ -109,7 +109,7 @@
     "NAME": "瓶裝火焰",
     "FLAVOR": "在這個瓶子裡，有著一團永遠燃燒的火焰。",
     "DESCRIPTIONS": [
-      "拾起時，選擇1張攻擊牌。每場戰鬥開始時，這張牌會出現在手牌中",
+      "拾起時，選擇1張 #y攻擊牌 。每場戰鬥開始時，這張牌會出現在手牌中",
       "選擇1張牌 ",
       "每場戰鬥開始時，將 ",
       " 放入手牌"
@@ -216,11 +216,11 @@
     ]
   },
   "Chemical X": {
-    "NAME": "藥劑X",
-    "FLAVOR": "警告：禁止與糖、香料和任何好東西混合。",
+    "NAME": "化學物X",
+    "FLAVOR": "警告：嚴禁與糖、香料還有一切美好的味道混合在一起。",
     "DESCRIPTIONS": [
-      "每打出1張耗能為 #bX 的卡牌，其效果增加 #b",
-      "."
+      "耗能為 #bX 的牌的效果數值增加 #b"
+      " 點"
     ]
   },
   "Circlet": {
@@ -266,7 +266,7 @@
     "NAME": "枯木樹枝",
     "FLAVOR": "從失落遠古時代遺留下來的樹枝。",
     "DESCRIPTIONS": [
-      "每當 #y消耗 1張牌，增加1張隨機卡牌到手牌"
+      "每 #y消耗 1張牌，增加1張隨機卡牌到手牌"
     ]
   },
   "Derp Rock": {
@@ -298,7 +298,7 @@
     "NAME": "捕夢網",
     "FLAVOR": "北方部落會在入睡時掛上這種網，相信這樣做能夠實現自我提升。",
     "DESCRIPTIONS": [
-      "每次休息時，可以增加1張牌到牌組"
+      "每次 #y休息 時，可以增加1張牌到牌組"
     ]
   },
   "Du-Vu Doll": {
@@ -1334,30 +1334,30 @@
       "耗能為0的 #y攻擊牌 額外造成 #b4 點傷害"
     ]
   },
-  "Nunchaku": {
-    "NAME": "Nunchaku",
-    "FLAVOR": "A good training tool. Improves the posture and agility of the wielder.",
+  "StoneCalendar": {
+    "NAME": "歷石",
+    "FLAVOR": "在高塔中幾乎感覺不到時間的流逝。",
     "DESCRIPTIONS": [
-      "Every time you play #b",
-      " Attacks, gain [R] .",
-      " Attacks, gain [G] .",
-      " Attacks, gain [B] ."
+      "在第 #b",
+      " 回合結束時，對所有敵人造成 #b",
+      " 點傷害"
     ]
   },
-  "StoneCalendar": {
-    "NAME": "Stone Calendar",
-    "FLAVOR": "The passage of time is imperceptible in the Spire.",
+  "Nunchaku": {
+    "NAME": "雙節棍",
+    "FLAVOR": "優良的練武器具，能改善使用者的姿勢、提升靈活度。",
     "DESCRIPTIONS": [
-      "At the end of turn #b",
-      ", deal #b",
-      " damage to ALL enemies."
+      "每打出 #b",
+      " 張 #y攻擊牌 ，獲得 [R] ",
+      " 張 #y攻擊牌 ，獲得 [G] ",
+      " 張 #y攻擊牌 ，獲得 [B] "
     ]
   },
   "MawBank": {
-    "NAME": "Maw Bank",
-    "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",
+    "NAME": "巨口儲蓄罐",
+    "FLAVOR": "儘管巨口襲擊頻繁發生，這個造型的儲蓄罐卻意外相當流行。",
     "DESCRIPTIONS": [
-      "Whenever you climb a floor, gain #b5 #yGold. No longer works when you spend any #yGold at the shop."
+      "每攀爬一層樓層獲得 #b5 #y金幣 。 一旦在商店中花費過任何 #y金幣 就會失效"
     ]
   }
 }
