@@ -1322,21 +1322,21 @@
     "NAME": "貪婪之手",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 若這張牌殺死一名不是「爪牙」的敵人，獲得 !M! 金幣"
 },
-  "Violence": {
-    "NAME": "暴力",
-    "DESCRIPTION": "隨機將抽牌堆中 !M! 張攻擊牌放入手牌"
-  },
-  "Impatience": {
-    "NAME": "急躁",
-    "DESCRIPTION": "若手牌中沒有攻擊牌，抽 !M! 張牌"
-  },
-  "Forethought": {
-    "NAME": "預謀",
-    "DESCRIPTION": "將1張手牌放到抽牌堆底部。 NL 並且在其被打出之前，其耗能變為0"
-  },
-  "Discovery": {
-    "NAME": "發現",
-    "DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0。 NL 消耗",
-    "UPGRADE_DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0"
-  }
+  "Violence": {
+    "NAME": "暴力",
+    "DESCRIPTION": "隨機將抽牌堆中 !M! 張攻擊牌放入手牌"
+  },
+  "Impatience": {
+    "NAME": "急躁",
+    "DESCRIPTION": "若手牌中沒有攻擊牌，抽 !M! 張牌"
+  },
+  "Forethought": {
+    "NAME": "預謀",
+    "DESCRIPTION": "將1張手牌放到抽牌堆底部。 NL 並且在其被打出之前，其耗能變為0"
+  },
+  "Discovery": {
+    "NAME": "發現",
+    "DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0"
+  }
 }
