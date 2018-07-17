@@ -1,4 +1,4 @@
-{
+﻿{
   "ANIMATION": {
     "HEADER": "角色動畫",
     "NAMES": [
@@ -57,7 +57,7 @@
     ]
   },
   "LOC_ITA": {
-    "HEADER": "本地化：意大利語",
+    "HEADER": "本地化：義大利語",
     "NAMES": [
       "Hob",
       "Mero Marco",
@@ -168,7 +168,11 @@
   },
   "LOC_ZHT": {
     "HEADER": "本地化：繁體中文",
-    "NAMES": []
+    "NAMES": [
+      "教授",
+      "bowans",
+      "Angryfox"
+    ]
   },
   "OPS": {
     "HEADER": "運營與數據",

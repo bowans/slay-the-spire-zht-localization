@@ -1039,7 +1039,7 @@
   },
   "Setup": {
     "NAME": "部署",
-    "DESCRIPTION": "将手牌中的一张放到抽牌堆的顶部。 NL 并且在其被打出之前，其耗能将变为0。"
+    "DESCRIPTION": "将手牌中的一张牌放到抽牌堆的顶部。 NL 并且在其被打出之前，其耗能变为0。"
   },
   "Sever Soul": {
     "NAME": "断魂斩",
@@ -1321,5 +1321,22 @@
   "HandOfGreed": {
     "NAME": "贪婪之手",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死一名不是“爪牙”的敌人，则获得 !M! 金币。"
+  },
+  "Violence": {
+    "NAME": "暴力",
+    "DESCRIPTION": "随机将你抽牌堆中 !M! 张攻击牌加入你的手牌。"
+  },
+  "Impatience": {
+    "NAME": "急躁",
+    "DESCRIPTION": "如果你的手牌中没有攻击牌，抽 !M! 张牌。"
+  },
+  "Forethought": {
+    "NAME": "预谋",
+    "DESCRIPTION": "将手牌中的一张牌放到抽牌堆的底部。 NL 并且在其被打出之前，其耗能变为0。"
+  },
+  "Discovery": {
+    "NAME": "发现",
+    "DESCRIPTION": "从3张随机牌中选择1张加入你的手牌。这张牌在本回合耗能变为0。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "从3张随机牌中选择1张加入你的手牌。这张牌在本回合耗能变为0。"
   }
 }

@@ -1,4 +1,4 @@
-{
+﻿{
   "A Thousand Cuts": {
     "NAME": "凌遲",
     "DESCRIPTION": "你每打出一張牌，就對所有敵人造成 !M! 點傷害。"
@@ -142,7 +142,7 @@
     ]
   },
   "Blood for Blood": {
-    "NAME": "以血還血",
+    "NAME": "血債血償",
     "DESCRIPTION": "你每在戰鬥中失去生命一次，這張牌的耗能就減少1 [R] 。 NL 造成 !D! 點傷害。"
   },
   "Bloodletting": {
@@ -200,7 +200,7 @@
     "UPGRADE_DESCRIPTION": "在這個回合，你打出的下 !M! 張技能牌會打出兩次。"
   },
   "Cache": {
-    "NAME": "高速緩存",
+    "NAME": "快取記憶體",
     "DESCRIPTION": "Deprecated."
   },
   "Calculated Gamble": {
@@ -528,7 +528,7 @@
     "DESCRIPTION": "在你的回合結束時，你這一回合內每出過一張攻擊牌，就對所有敵人造成1點傷害。"
   },
   "Fission": {
-    "NAME": "裂變",
+    "NAME": "分裂",
     "DESCRIPTION": "激發 所有充能球。 獲得相同數量的充能球欄位。 NL 消耗 。"
   },
   "Flame Barrier": {
@@ -554,7 +554,7 @@
   },
   "Flux Capacitor": {
     "NAME": "通量電容器",
-    "DESCRIPTION": "將所有充能球替換為 等離子 充能球。 NL 消耗 。"
+    "DESCRIPTION": "將所有充能球替換為 電漿 充能球。 NL 消耗 。"
   },
   "Flying Knee": {
     "NAME": "飛膝",
@@ -569,8 +569,8 @@
     "DESCRIPTION": "你在本場戰鬥中每打出一張能力牌，耗能就減少1 [B] 。 NL 獲得 !B! 點 格擋 。"
   },
   "Fusion": {
-    "NAME": "聚變",
-    "DESCRIPTION": "生成 !M! 個 等離子 充能球。"
+    "NAME": "融合",
+    "DESCRIPTION": "生成 !M! 個 電漿 充能球。"
   },
   "Gash": {
     "NAME": "爪擊",
@@ -770,7 +770,7 @@
   },
   "Meteor Strike": {
     "NAME": "隕石打擊",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 生成 !M! 個 等離子 充能球。"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 生成 !M! 個 電漿 充能球。"
   },
   "Mind Blast": {
     "NAME": "心靈震懾",
@@ -947,7 +947,7 @@
     "DESCRIPTION": "消耗 一張牌。 NL 獲得與其耗能相等的 [B] 。"
   },
   "Redo": {
-    "NAME": "遞歸",
+    "NAME": "遞迴",
     "DESCRIPTION": "激發 你最右側的充能球。 NL 然後 生成 一個剛才被 激發 的充能球。"
   },
   "Reflex": {
@@ -1039,7 +1039,7 @@
   },
   "Setup": {
     "NAME": "部署",
-    "DESCRIPTION": "將手牌中的一張放到抽牌堆的頂部。 NL 並且在其被打出之前，其耗能將變為0。"
+    "DESCRIPTION": "將手牌中的一張牌放到抽牌堆的頂部。 NL 並且在其被打出之前，其耗能變為0。"
   },
   "Sever Soul": {
     "NAME": "斷魂斬",
@@ -1283,7 +1283,7 @@
     "DESCRIPTION": "生成 !M! 個 閃電 充能球。"
   },
   "Core Surge": {
-    "NAME": "核心電涌",
+    "NAME": "核心電湧",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 獲得 !M! 層 人工製品 。 NL 消耗 。"
   },
   "Compile Driver": {
@@ -1321,5 +1321,22 @@
   "HandOfGreed": {
     "NAME": "貪婪之手",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 如果這張牌殺死一名不是“爪牙”的敵人，則獲得 !M! 金幣。"
+  },
+  "Violence": {
+    "NAME": "暴力",
+    "DESCRIPTION": "隨機將你抽牌堆中 !M! 張攻擊牌加入你的手牌。"
+  },
+  "Impatience": {
+    "NAME": "急躁",
+    "DESCRIPTION": "如果你的手牌中沒有攻擊牌，抽 !M! 張牌。"
+  },
+  "Forethought": {
+    "NAME": "預謀",
+    "DESCRIPTION": "將手牌中的一張牌放到抽牌堆的底部。 NL 並且在其被打出之前，其耗能變為0。"
+  },
+  "Discovery": {
+    "NAME": "發現",
+    "DESCRIPTION": "從3張隨機牌中選擇1張加入你的手牌。這張牌在本回合耗能變為0。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "從3張隨機牌中選擇1張加入你的手牌。這張牌在本回合耗能變為0。"
   }
 }
