@@ -554,7 +554,7 @@
   },
   "Flux Capacitor": {
     "NAME": "通量電容器",
-    "DESCRIPTION": "將所有充能球替換為 等離子 充能球。 NL 消耗 "
+    "DESCRIPTION": "將所有充能球替換為 電漿 充能球。 NL 消耗 "
   },
   "Flying Knee": {
     "NAME": "飛膝",
@@ -570,7 +570,7 @@
   },
   "Fusion": {
     "NAME": "聚變",
-    "DESCRIPTION": "生成 !M! 個 等離子 充能球"
+    "DESCRIPTION": "生成 !M! 個 電漿 充能球"
   },
   "Gash": {
     "NAME": "爪擊",
@@ -675,7 +675,7 @@
   },
   "Infernal Blade": {
     "NAME": "地獄之刃",
-    "DESCRIPTION": "增加1張隨機攻擊牌到手牌。 NL 這張牌在本回合耗能變為0。 NL 消耗 "
+    "DESCRIPTION": "增加1張隨機攻擊牌到手牌。 NL 該牌在本回合耗能變為0。 NL 消耗 "
   },
   "Infinite Blades": {
     "NAME": "無限刀刃",
@@ -770,7 +770,7 @@
   },
   "Meteor Strike": {
     "NAME": "隕石打擊",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 生成 !M! 個 等離子 充能球"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 生成 !M! 個 電漿 充能球"
   },
   "Mind Blast": {
     "NAME": "心靈震懾",
@@ -947,7 +947,7 @@
     "DESCRIPTION": "消耗 1張牌。 NL 獲得與其耗能相等的 [B] "
   },
   "Redo": {
-    "NAME": "重新生成",
+    "NAME": "遞迴",
     "DESCRIPTION": "激發 最右側的充能球。 NL 然後 生成 1個剛才被 激發 的充能球"
   },
   "Reflex": {
@@ -1039,7 +1039,7 @@
   },
   "Setup": {
     "NAME": "部署",
-    "DESCRIPTION": "將1張手牌放到抽牌堆頂部。 NL 並且在其被打出之前，其耗能將變為0"
+    "DESCRIPTION": "將1張手牌放到抽牌堆頂部。 NL 並且在其被打出之前，其耗能變為0"
   },
   "Sever Soul": {
     "NAME": "斷魂斬",
@@ -1255,7 +1255,7 @@
     "DESCRIPTION": "消費所有 [R] 。 NL 對所有敵人造成 !D! 點傷害X次"
   },
   "White Noise": {
-    "NAME": "白色雜訊",
+    "NAME": "白雜訊",
     "DESCRIPTION": "增加1張隨機能力牌到手牌。 NL 該牌在本回合耗能變為0。  NL 消耗 "
   },
   "Wild Strike": {
@@ -1323,20 +1323,20 @@
     "DESCRIPTION": "造成 !D! 點傷害。 NL 若這張牌殺死一名不是「爪牙」的敵人，獲得 !M! 金幣"
   },
   "Violence": {
-    "NAME": "Violence",
-    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand."
+    "NAME": "暴力",
+    "DESCRIPTION": "隨機將抽牌堆中 !M! 張攻擊牌放入手牌"
   },
   "Impatience": {
-    "NAME": "Impatience",
-    "DESCRIPTION": "If you have no Attack cards in your hand, draw !M! cards."
+    "NAME": "急躁",
+    "DESCRIPTION": "若手牌中沒有攻擊牌，抽 !M! 張牌"
   },
   "Forethought": {
-    "NAME": "Forethought",
-    "DESCRIPTION": "Place a card from your hand on the bottom of your draw pile. NL It costs 0 until it is played."
+    "NAME": "預謀",
+    "DESCRIPTION": "將1張手牌放到抽牌堆底部。 NL 並且在其被打出之前，其耗能變為0"
   },
   "Discovery": {
-    "NAME": "Discovery",
-    "DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn."
+    "NAME": "發現",
+    "DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0"
   }
 }

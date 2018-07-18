@@ -1,4 +1,37 @@
 Updates for Translators!
+07-17-2018
+run_mods.json
+	"Stunted Growth"
+	
+relics.json
+	"Maw Bank"
+		" #yGold. No longer works when you spend any #yGold at the shop."
+	"Bottled Flame"
+		"Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.", ->
+		"Upon pickup, choose an #yAttack card. At the start of each combat, this card will be in your hand.",
+	"Bottled Lightning"
+		"Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.", ->
+		"Upon pickup, choose a #ySkill card. At the start of each combat, this card will be in your hand.",
+	"Bottled Tornado"
+		"Upon pickup, choose a Power card. At the start of each combat, this card will be in your hand.", ->
+		"Upon pickup, choose a #yPower card. At the start of each combat, this card will be in your hand.",
+
+events.json
+	"NoteForYourself"
+
+ui.json
+	"AnyCardFromDeckToHandAction"
+		"Choose a Card to Add to Your Hand",
+		"Choose Cards to Add to Your Hand"
+		->
+		"Choose a Card to Add to Your Hand.",
+		"Choose Cards to Add to Your Hand."
+	"AttackFromDeckToHandAction"
+		"Choose an Attack to Add to Your Hand" ->
+		"Choose an Attack to Add to Your Hand."
+
+----------------------------------
+
 07-16-2018
 relics.json
 	"MawBank"

@@ -101,7 +101,7 @@
     "NAME": "Bottled Flame",
     "FLAVOR": "Inside the bottle resides a flame that eternally burns.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose an #yAttack card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -111,7 +111,7 @@
     "NAME": "Bottled Lightning",
     "FLAVOR": "Peering into the swirling maelstrom, you see a part of yourself staring back.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose a #ySkill card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -121,7 +121,7 @@
     "NAME": "Bottled Tornado",
     "FLAVOR": "The bottle gently hums and whirs.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose a Power card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose a #yPower card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -1358,7 +1358,8 @@
     "NAME": "Maw Bank",
     "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",
     "DESCRIPTIONS": [
-      "Whenever you climb a floor, gain #b5 #yGold. No longer works when you spend any #yGold at the shop."
+      "Whenever you climb a floor, gain #b",
+      " #yGold. No longer works when you spend any #yGold at the shop."
     ]
   }
 }
