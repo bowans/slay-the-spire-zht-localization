@@ -836,19 +836,19 @@
     ]
   },
   "NoteForYourself": {
-    "NAME": "A Note For Yourself",
+    "NAME": "留給自己的訊息",
     "DESCRIPTIONS": [
-      "You spot a loose brick within a pillar that catches your eye.",
-      "You find a folded note and a #ycard inside. It reads, NL \"The Heart awaits.\" NL NL This is your handwriting.",
-      "Choose a Card to Store.",
-      "What is going on?"
+      "一根柱子吸引了你的注意，你發現上面有一塊鬆動的磚塊。",
+      "挪動磚塊，你在裡面找到了一張折起來的紙條和一張 #y牌 。紙條上寫著： NL 「高塔之心在等待。」 NL NL 這……是你自己的筆跡。",
+      "選擇一張牌存放。",
+      "這究竟是怎麼回事？"
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Take and Give] #gReceive ",
-      " #gand #gStore #ga #gCard.",
-      "[Ignore]",
-      "[Leave]"
+      "[繼續]",
+      "[取之與之] #g獲得 ",
+      " #g然後存放一張牌。",
+      "[無視]",
+      "[離開]"
     ]
   }
 }
