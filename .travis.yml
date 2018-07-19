@@ -1,0 +1,12 @@
+language: python
+python:
+    - 3.6
+ 
+script:
+    # copy "zht" into localization and rename it to "new"
+    - cp -r zht/ localization/new/
+    # validation will check json format and compare json item with "eng"
+    - python ./localization/validate_localization.py
+
+notifications:
+    email: false
