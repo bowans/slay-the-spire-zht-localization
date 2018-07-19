@@ -852,26 +852,26 @@
     ]
   },
   "WeMeetAgain": {
-    "NAME": "We Meet Again!",
+    "NAME": "我們又見面了！",
     "DESCRIPTIONS": [
-      "\"We meet again!\" NL A cheery disheveled fellow approaches you gleefully. You do know this man. NL NL \"It's me, #yRanwid! Have any goods for me today? The usual? A fella like me can't make it alone, you know?\" NL You eye him suspiciously and consider your options...",
-      "\"Exquisite! Was feeling parched.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL He downs the potion in one go and lets out a satisfied @burp.@",
-      "\"Magnificent! This will be quite handy if I run into those #rmask #rwearing #rhoodlums again.\"",
-      "\"Exemplary! I shall study this further in my chambers.\"",
-      "\" @Aaaaagghh!!@ What a jerk you are sometimes! NL He ran away.",
-      "  NL NL He rummages around his various pockets... NL \"Here, look what I've got for you today! Take it take it!\""
+      "“我們又見面了！” NL 一個蓬頭垢面的男子歡快地出現在你面前向你問好。你不認識這個男人。 NL NL “是我， #y蘭偉德 啊！所以今天有什麼好東西給我嗎？和往常一樣？哎呀呀，像我這樣的人，獨自一個可實在不好混啊，對不對？” NL 你滿腹狐疑地打量著他，開始思考應該怎麼做……",
+      "“太好了！我正口渴呢。” NL #b~咕嘟~ #b~咕嘟~ #b~咕嘟~ NL NL 他一口氣喝完了藥水，滿意地打了一個 @飽嗝@ 。",
+      "“太棒了！之後要是再遇見那些 #r戴面具的流氓 ，這一定會很有用的。”",
+      "“有意思！我會回去好好研究的。”",
+      "“ @啊！！@ 哎呀你這人有時真是老混蛋了！” NL 他飛快地跑開了。",
+      "  NL NL 他在自己身上的眾多口袋裡摸索了半天…… NL “看我今天為你準備了什麼！給你給你！”"
     ],
     "OPTIONS": [
-      "[Give Potion] #rLose ",
-      "[Locked] Requires: Potion",
-      "[Give Gold] #rLose #r",
-      "[Locked] Requires: At least 50 Gold.",
-      "[Give Card] #rLose ",
-      "[Locked] Requires: Card",
-      ". #gReceive #ga #gRelic",
-      "[Attack]",
-      "[Leave]",
-      " #rGold"
+      "[給他藥水] #r失去 ",
+      "[鎖定] 需要：藥水。",
+      "[給他金幣] #r失去 #r",
+      "[鎖定] 需要：至少50金幣。",
+      "[給他卡牌] #r失去 ",
+      "[鎖定] 需要：卡牌。",
+      "。 #g獲得一件遺物。",
+      "[攻擊]",
+      "[離開]",
+      " #r金幣"
     ]
   }
 }
