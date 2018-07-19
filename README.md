@@ -1,4 +1,6 @@
 ## slay-the-spire-zht-localization
+[![Build Status](https://travis-ci.org/bowans/slay-the-spire-zht-localization.svg?branch=master)](https://travis-ci.org/bowans/slay-the-spire-zht-localization)
+
 Slay the Spire 正體中文翻譯
 
     .
@@ -39,7 +41,7 @@ Slay the Spire 正體中文翻譯
 以上為初始化流程，如果 upstream 有更新請執行 5~7 即可，平時請在自己的分支上作業。
 最後發 Pull Request 將翻譯內容加回至本專案，每次發之前請務必確認是否同步了最新版。
 （翻譯部份成果就可加回，太多可能導致重覆翻譯或衝突發生）
-> Pull Request 有幾項的準則：
+> Pull Request 有幾項準則：
 > 1. 較小的 Pull Request。
 > 2. 每個 Pull Request 只做一件事，例如「新增XX的翻譯」、「統一用詞：XX 換成 XX」。
 > 3. 說明 Pull Request 做了什麼修改以及修改的理由。
@@ -62,4 +64,4 @@ Slay the Spire 正體中文翻譯
 
 ### 討論區
 
-[[官方 Discord]] https://steamcommunity.com/linkfilter/?url=http://discord.gg/slaythespire
+[官方 Discord](https://steamcommunity.com/linkfilter/?url=http://discord.gg/slaythespire) 頻道 chinese-traditional
