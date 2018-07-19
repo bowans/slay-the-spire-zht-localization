@@ -1,4 +1,27 @@
 Updates for Translators!
+07-18-2018
+ui.json
+	"GainGoldTextEffect"
+cards.json
+	"Tactician"
+		"DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G].",
+		"UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G] [G].",
+		->
+		"DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
+		"UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
+	"RitualDagger"
+		"DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
+	"Violence"
+		"DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand."
+		->
+		"DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand. NL Exhaust."
+events.json
+	"WeMeetAgain"
+
+----------------------------------
+
 07-17-2018
 run_mods.json
 	"Stunted Growth"
