@@ -1166,8 +1166,8 @@
   },
   "Tactician": {
     "NAME": "Tactician",
-    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G].",
-    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G] [G].",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
@@ -1308,7 +1308,7 @@
   },
   "RitualDagger": {
     "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
   },
   "Pride": {
     "NAME": "Pride",
@@ -1324,7 +1324,7 @@
   },
   "Violence": {
     "NAME": "Violence",
-    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand."
+    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand. NL Exhaust."
   },
   "Impatience": {
     "NAME": "Impatience",
