@@ -1,4 +1,6 @@
 ## slay-the-spire-zht-localization
+[![Build Status](https://travis-ci.org/bowans/slay-the-spire-zht-localization.svg?branch=master)](https://travis-ci.org/bowans/slay-the-spire-zht-localization)
+
 Slay the Spire 正體中文翻譯
 
     .
@@ -8,15 +10,17 @@ Slay the Spire 正體中文翻譯
     │   ├── zht
     │   ├── REFERENCES.txt              # 官方取名時的 reference
     │   ├── TRANSLATOR_README.txt       # 官方翻譯人員須知
-    │   └── UPDATES.txt                 # 每次更新的 update note
+    │   ├── UPDATES.txt                 # 每次更新的 update note
+    │   └── validate_localization.py    # validation script
     ├── zhs2zht                         # localization 中對 zhs 作簡轉繁，做為參考。
     ├── zht                             # 實際上 zht 更新翻譯的資料夾
+    ├── .travis.yml                     # file for Travis CI
     └── README.md
 
 ### 更新固定流程
 
 1. 取出遊戲中的 ```localization``` ，更新 ```eng, zhs, zht, REFERENCES.txt, TRANSLATOR_README.txt, UPDATES.txt```。
-2. 將最新的 ```localization\zhs``` 用繁化姬桌面版轉換，選項用台灣化，並移除每個檔案最下面因轉換而多出的空行。
+2. 將最新的 ```localization\zhs``` 用繁化姬桌面版轉換，選項用台灣化，每個檔案最下面會多出空行但不影響。
 3. Merge ```localization\zht``` 與實際上更新翻譯的 ```zht```。
 > 在上一次 update 給 dev 後，可能還有持續更新 zht。因此要做 Merge 來確保 localization\zht 的新內容與後來的更新都還在。
 > 
@@ -39,7 +43,7 @@ Slay the Spire 正體中文翻譯
 以上為初始化流程，如果 upstream 有更新請執行 5~7 即可，平時請在自己的分支上作業。
 最後發 Pull Request 將翻譯內容加回至本專案，每次發之前請務必確認是否同步了最新版。
 （翻譯部份成果就可加回，太多可能導致重覆翻譯或衝突發生）
-> Pull Request 有幾項的準則：
+> Pull Request 有幾項準則：
 > 1. 較小的 Pull Request。
 > 2. 每個 Pull Request 只做一件事，例如「新增XX的翻譯」、「統一用詞：XX 換成 XX」。
 > 3. 說明 Pull Request 做了什麼修改以及修改的理由。
@@ -62,4 +66,4 @@ Slay the Spire 正體中文翻譯
 
 ### 討論區
 
-[[官方 Discord]] https://steamcommunity.com/linkfilter/?url=http://discord.gg/slaythespire
+[官方 Discord](https://steamcommunity.com/linkfilter/?url=http://discord.gg/slaythespire) 頻道 chinese-traditional

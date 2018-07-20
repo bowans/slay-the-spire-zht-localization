@@ -828,8 +828,8 @@
   },
   "Offering": {
     "NAME": "祭品",
-    "DESCRIPTION": "失去 4 點生命。 NL 獲得 [R] [R] 。 NL 抽 !M! 張牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "失去 4 點生命。 NL 獲得 [R] [R] 。 NL 抽 !M! 張牌。 NL 消耗 "
+    "DESCRIPTION": "失去 5 點生命。 NL 獲得 [R] [R] 。 NL 抽 !M! 張牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "失去 5 點生命。 NL 獲得 [R] [R] 。 NL 抽 !M! 張牌。 NL 消耗 "
   },
   "Outmaneuver": {
     "NAME": "搶佔先機",
@@ -1292,7 +1292,7 @@
   },
   "RitualDagger": {
     "NAME": "儀式匕首",
-    "DESCRIPTION": "造成 !D! 點傷害。 以這張牌擊殺敵人時，它在本局遊戲中的傷害永久性增加 !M! 。 消耗 "
+    "DESCRIPTION": "造成 !D! 點傷害。 以這張牌擊殺敵人時，它在本局遊戲中的傷害永久性增加 !M! 。 NL 消耗 "
   },
   "Pride": {
     "NAME": "傲慢",
@@ -1324,7 +1324,7 @@
   },
   "Violence": {
     "NAME": "暴力",
-    "DESCRIPTION": "隨機將抽牌堆中 !M! 張攻擊牌放入手牌"
+    "DESCRIPTION": "隨機將抽牌堆中 !M! 張攻擊牌放入手牌。 NL 消耗 "
   },
   "Impatience": {
     "NAME": "急躁",
