@@ -1,4 +1,16 @@
 Updates for Translators!
+07-19-2018
+potions.json
+	"AttackPotion"
+		"Add a random Attack card to your hand, it costs #b0 this turn." ->
+		"Choose #b1 of #b3 random #yAttack cards to add to your hand, it costs #b0 this turn."
+	"PowerPotion"
+		"Add a random Power card to your hand, it costs #b0 this turn." ->
+		"Choose #b1 of #b3 random #yPower cards to add to your hand, it costs #b0 this turn."
+	"SkillPotion": {
+		"Add a random Skill card to your hand, it costs #b0 this turn." ->
+		"Choose #b1 of #b3 random #ySkill cards to add to your hand, it costs #b0 this turn."
+
 07-18-2018
 ui.json
 	"GainGoldTextEffect"
