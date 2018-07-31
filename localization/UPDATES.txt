@@ -1,7 +1,25 @@
 Updates for Translators!
+07-30-2018
+credits.json
+	"LOC_DEU"
+		"Magnus Upmann"
+	"LOC_IND"
+		"Szaal" ->
+		"Haveiszal \"Szaal\" Faroqie""
+	"LOC_RUS"
+		(organization updates, just check credits.json)
+powers.json
+	"Flame Barrier"
+		"Whenever you receive #yAttack damage, deal #b",
+		"When receiving #yAttack damage, deals #b",
+
+----------------------------------
+
 07-25-2018
 credits.json
 	"LOC_IND"
+
+----------------------------------
 
 07-19-2018
 potions.json
@@ -14,6 +32,8 @@ potions.json
 	"SkillPotion": {
 		"Add a random Skill card to your hand, it costs #b0 this turn." ->
 		"Choose #b1 of #b3 random #ySkill cards to add to your hand, it costs #b0 this turn."
+
+----------------------------------
 
 07-18-2018
 ui.json
