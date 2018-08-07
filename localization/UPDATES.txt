@@ -1,4 +1,26 @@
 Updates for Translators!
+08-06-2018
+ui.json
+	"SaveSlot"
+	"DeletePopup"
+	"SaveSlotScreen"
+characters.json
+	"Neow Reward"
+		"[ #rLose #r50% #rof #ryour #rcurrent #rHP ", ->
+		"[ #rTake #r",
+
+		" #rdamage"
+cards.json
+	"Forethought"
+	"Transmutation"
+		"DESCRIPTION": "Add X random colorless cards into your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards into your hand. NL Exhaust."
+		->
+		"DESCRIPTION": "Add X random colorless cards to your hand. They cost 0 this turn. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards to your hand. They cost 0 this turn. NL Exhaust."
+
+----------------------------------
+
 07-31-2018
 run_mods.json
 	"Red Cards"
