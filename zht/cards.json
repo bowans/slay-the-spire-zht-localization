@@ -1191,8 +1191,8 @@
   },
   "Transmutation": {
     "NAME": "轉化",
-    "DESCRIPTION": "增加 X 張隨機無色牌到手牌。 NL 消耗",
-    "UPGRADE_DESCRIPTION": "增加 X 張 已升級 隨機無色牌到手牌。 NL 消耗"
+    "DESCRIPTION": "增加 X 張隨機無色牌到手牌。它們在本回合耗能變為0。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "增加 X 張 已升級 隨機無色牌到手牌。它們在本回合耗能變為0。 NL 消耗"
   },
   "Trip": {
     "NAME": "絆倒",
@@ -1332,8 +1332,8 @@
   },
   "Forethought": {
     "NAME": "預謀",
-    "DESCRIPTION": "將1張手牌放到抽牌堆底部。 NL 並且在其被打出之前，其耗能變為0",
-    "UPGRADE_DESCRIPTION": "Place any number of cards from your hand on the bottom of your draw pile. NL They cost 0 until played."
+    "DESCRIPTION": "將1張手牌放到抽牌堆底部。 NL 該牌在被打出之前耗能變為0",
+    "UPGRADE_DESCRIPTION": "將任意張手牌放到抽牌堆底部。 NL 它們在被打出之前耗能變為0"
   },
   "Discovery": {
     "NAME": "發現",
