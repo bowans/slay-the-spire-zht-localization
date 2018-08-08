@@ -864,7 +864,7 @@
   "RelicViewScreen": {
     "TEXT": [
       "返回",
-      "起始：",
+      "初始：",
       "你醒來時便攜帶在身上的物品..也不知道是哪來的",
       "一般：",
       "較容易能在高塔內或是怪物與其他冒險者身上奪得",
@@ -974,7 +974,7 @@
       "勝利！",
       "牌組",
       "遺物",
-      "起始",
+      "初始",
       "普通",
       "罕見",
       "稀有",
@@ -1054,7 +1054,7 @@
       "稀有",
       "商店",
       "事件",
-      "起始",
+      "初始",
       "罕見",
       "鎖定",
       "未知",
@@ -1182,21 +1182,23 @@
   },
   "SaveSlot": {
     "TEXT": [
-      "Playtime ",
-      "Empty Slot"
+      "遊戲時間 ",
+      "空欄位"
     ]
   },
   "DeletePopup": {
     "TEXT": [
-      "Delete this save?",
-      "Yes",
-      "No",
-      "WARNING: This action cannot be undone."
+      "是否刪除這個存檔？",
+      "是",
+      "否",
+      "警告：這項操作無法還原"
     ]
   },
   "SaveSlotScreen": {
     "TEXT": [
-      "Choose a Save Slot"
+      "選擇一個存檔欄位",
+      "Rename",
+      "Delete this Save"
     ]
   }
 }

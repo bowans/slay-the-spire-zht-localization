@@ -1,4 +1,23 @@
 Updates for Translators!
+08-07-2018v2
+ui.json
+	"SaveSlotScreen"
+		"Rename",
+		"Delete this Save"
+
+----------------------------------
+
+08-07-2018
+cards.json
+	"Offering"
+		"DESCRIPTION": "Lose 5 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Lose 5 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+		->
+		"DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+
+----------------------------------
+
 08-06-2018
 ui.json
 	"SaveSlot"
