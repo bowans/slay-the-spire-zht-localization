@@ -1,4 +1,28 @@
 Updates for Translators!
+08-08-2018
+powers.json
+	"Infinite Blades"
+		"At the start of your turn, draw #b",
+		" #yShivs.",
+		" #yShiv."
+		->
+		"At the start of your turn, add #b",
+		" #yShivs into your hand.",
+		" #yShiv into your hand."
+
+events.json
+	"Nest"
+		"...into an misshapen bowl..."
+		->
+		"...into a misshapen bowl..."
+
+credits.json
+	"LOC_SPA"
+		"xabad98" ->"Xavier \"xabad98\" Abad Salinas",
+		"Skiddome"
+
+----------------------------------
+
 08-07-2018v2
 ui.json
 	"SaveSlotScreen"
