@@ -245,6 +245,12 @@
         "wounds"
       ],
       "DESCRIPTION": "傷口是 無法打出 的狀態牌"
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "lock-on"
+      ],
+      "DESCRIPTION": "Lock-On targets receive #b50% more damage from Orbs."
     }
   }
 }

@@ -1,4 +1,51 @@
 Updates for Translators!
+08-20-2018
+cards.json
+	"Lockon"
+		"Lock-On"
+		->
+		"Bullseye"
+		"Deal !D! damage. NL For the next !M! turns, Lightning and Dark Orbs target this enemy."
+		->
+		"Deal !D! damage. NL Apply !M! Lock-On."
+	"Fission"
+		"Evoke all of your Orbs. Gain an Orb slot for each Orb Evoked. NL Exhaust."
+		->
+		"Remove ALL of your Orbs, gain [B] and draw !M! card for each Orb removed. NL Exhaust."
+	"Masterful Stab"
+		"Can only be played if there are no other cards in your hand. NL Deal !D! damage.",
+		"This has to be my NL only card."
+		->
+		"Deal !D! damage. NL Whenever you take damage, increase this card's cost by 1.",
+		""
+	"J.A.X."
+		"Lose 3 HP. NL Gain !M! Strength . NL Exhaust."
+		->
+		"Lose 3 HP. NL Gain !M! Strength."
+
+keywords.json
+		"LOCK_ON"
+
+powers.json
+	"Lockon"
+
+events.json
+	"Dead Adventurer"
+		"You found a #yrelic! Continue searching?",
+		->
+		"You found a #yrelic! NL Continue searching?",
+	"Addict"
+		Completely reworked, use the eng events.json as a reference
+	"Drug Dealer"
+		Completely reworked, use the eng events.json as a reference
+	"Designer"
+		This is a new event
+
+relics.json
+	"MutagenicStrength"
+
+----------------------------------
+
 08-15-2018
 powers.json
 	"Flight"

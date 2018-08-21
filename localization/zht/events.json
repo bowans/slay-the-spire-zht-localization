@@ -156,7 +156,8 @@
     "DESCRIPTIONS": [
       "一個戴著眼罩的邪笑著的男人大搖大擺地走到你面前： NL 「嘿陌生人，不來試點兒 #yJ.A.X. 嗎？ 可會讓你變得比任何訓練和祝福都要強哦。 如果你是那種一心求死的英雄的話可不能沒有它呢。 NL 你說怎麼樣？ 想不想來 #yJAX 一下？」 NL ",
       "~「好極了。」~ NL 男人遞給你一個看起來很危險的裝著發光液體的針筒，自己又鬼鬼祟祟地走進一條陰暗的小巷子裡。",
-      "「哼，無所謂，反正總會有下一個……」 NL 他踱著腳步走了。"
+      "「哼，無所謂，反正總會有下一個……」 NL 他踱著腳步走了。",
+      "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
     ],
     "OPTIONS": [
       "[付錢] #y",
@@ -281,7 +282,7 @@
     "OPTIONS": [
       "[祈禱] #g獲得 #g",
       " #g金幣",
-      "[褻瀆] #g獲得 #g250 #g金幣。 #r被詛咒──悔恨",
+      "[褻瀆] #g獲得 #g275 #g金幣。 #r被詛咒──悔恨",
       "[離開]"
     ]
   },
@@ -872,6 +873,35 @@
       "[攻擊]",
       "[離開]",
       " #r金幣"
+    ]
+  },
+  "Designer": {
+    "NAME": "Designer In-Spire",
+    "DESCRIPTIONS": [
+      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
+      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
+      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
+      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Adjustments] #rLose #r",
+      "[Clean Up] #rLose #r",
+      "[Full Service] #rLose #r",
+      "[Punch] #rLose #r",
+      " #rHP.",
+      " #rGold. ",
+      "#gUpgrade #g",
+      " #grandom #gcards.",
+      "#gUpgrade #ga #gcard.",
+      "#gRemove #ga #gcard.",
+      "#gTransform #g",
+      " #gcards.",
+      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
+      "[Leave]",
+      "Choose a Card to Upgrade",
+      "Choose 2 Cards to Transform",
+      "Choose a Card to Remove"
     ]
   }
 }
