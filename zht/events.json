@@ -18,21 +18,21 @@
     ]
   },
   "Addict": {
-    "NAME": "癮君子",
+    "NAME": "流浪漢的懇求",
     "DESCRIPTIONS": [
-      "你想要從一群披著斗篷的人旁邊偷偷潛行過去，這時一個皮膚發紅的赤裸男人跑到了你的面前。 NL 「你有 #yJ.A.X. 嗎，朋友？ 我渾身都在 @發抖@ 了！ 求你了……或者，給我點 #y小錢 ？」 NL 他看起來瘋瘋癲癲的，但並沒有危險。",
-      "「啊啊，太好了， ~太好了！~ 來，給你，這很公平吧！」",
-      "癮君子氣得大喊大叫，對你罵了好一通。 NL 你在更多麻煩出現之前趕緊跑了。"
+      "你想要從一群披著斗篷的人旁邊偷偷潛行過去，其中一個跑到了你面前。 NL 「你能給我點什麼嗎，朋友？ 求求你了……一點 #y小錢 就好？」 NL 「我只是需要找個地方過夜，我身上有財寶可以交換……」 NL 他看起來有點瘋瘋癲癲的，但似乎並不危險。",
+      "「啊啊，太好了， ~太好了！~ 來來，給你，公平交易！」",
+      "你一把抓過他手中珍貴的 #y遺物 轉身就走。 NL 身後傳來他的聲音： NL 「你不知道什麼是羞恥嗎？ ~你就~ ~不知道~ ~什麼是羞恥嗎？！~」 NL 你確實感到了一點 #p羞恥 。"
     ],
     "OPTIONS": [
       "[給他金幣] #y",
       " #y金幣： #g得到一件遺物",
       "[鎖定] 需要： ",
       " 金幣",
-      "[給他JAX] #g得到一件遺物。 #r失去 J.A.X.",
-      "[鎖定] 需要： J.A.X.",
-      "[離開] 無視他",
-      "[離開]"
+      "[搶奪] #g得到一件遺物。 #r被詛咒──羞恥",
+      "[離開]",
+      "",
+      ""
     ]
   },
   "Back to Basics": {
@@ -140,7 +140,7 @@
       "NL 儘管他隨身 #y攜帶的東西 好像都還在，你實在是不想知道這裡究竟發生了什麼……",
       "你找到了一些 #y金幣 ！ NL 要繼續找嗎？",
       "唔，什麼也沒找到…… NL 要繼續找嗎？",
-      "你找到一件 #y遺物 ！要繼續找嗎？",
+      "你找到一件 #y遺物 ！ NL 要繼續找嗎？",
       "看起來你成功翻遍了他的所有物，什麼事也沒發生！"
     ],
     "OPTIONS": [
@@ -152,20 +152,20 @@
     ]
   },
   "Drug Dealer": {
-    "NAME": "藥販子",
+    "NAME": "增益研究者",
     "DESCRIPTIONS": [
-      "一個戴著眼罩的邪笑著的男人大搖大擺地走到你面前： NL 「嘿陌生人，不來試點兒 #yJ.A.X. 嗎？ 可會讓你變得比任何訓練和祝福都要強哦。 如果你是那種一心求死的英雄的話可不能沒有它呢。 NL 你說怎麼樣？ 想不想來 #yJAX 一下？」 NL ",
-      "~「好極了。」~ NL 男人遞給你一個看起來很危險的裝著發光液體的針筒，自己又鬼鬼祟祟地走進一條陰暗的小巷子裡。",
-      "「哼，無所謂，反正總會有下一個……」 NL 他踱著腳步走了。",
-      "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
+      "一個戴著眼罩的邪笑著的男人大搖大擺地走到你面前： NL 「嘿陌生人，想不想試試高端的科技？ 可會讓你變得比任何訓練和祝福都要強哦。 如果你是那種一心求死的英雄的話可不能沒有它呢。 NL 你說怎麼樣？ 想不想試一下？」 ",
+      "~「太好了。」~ NL 男人遞給你一個看起來很危險的裝著 #b~發光液體~ 的針筒，自己又鬼鬼祟祟地走進一條陰暗的小巷子裡。",
+      "~「太棒了。」~ NL 他對你注射了三管不知什麼液體，然後拿出一本筆記本。你覺得自己開始有點飄飄忽忽的，他則開始飛快地開始了筆記。  NL 你不記得過了多久，但當你恢復意識的時候，那個可疑的傢伙已經不見了。",
+      "~「太妙了。」~ NL 你喝下了神秘的液體，立即就覺得自己充滿了活力，彷彿全身的肌肉纖維都開始 @抖動@ 了起來！"
     ],
     "OPTIONS": [
-      "[付錢] #y",
-      " #y金幣： #g來 #gJAX #g一下",
-      "[鎖定] 需要： ",
-      " 金幣",
+      "[試一下J.A.X.] #g來點猛藥",
+      "[當一下實驗對象] #g隨機變化3張牌",
+      "[喝一下突變劑] #g獲得一件特殊遺物",
       "[離開]",
-      "[拒絕]"
+      "[鎖定] 需要：牌組中至少有3張牌",
+      ""
     ]
   },
   "Duplicator": {
@@ -876,32 +876,32 @@
     ]
   },
   "Designer": {
-    "NAME": "Designer In-Spire",
+    "NAME": "「尖端」設計師",
     "DESCRIPTIONS": [
-      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
-      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
-      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
-      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
+      "你發現一家 #g~五彩斑斕~ 的店，橫幅上掛著大大的的「尖端」兩個字，就走進去想看看裡面有什麼。 NL 「等等，別，不行。你不能進來！ NL NL 一個穿著打扮無比荒唐的男人出現在門口把你攔了下來。",
+      "「不行不行，這怎麼可以呢。哎呀，你這算是什麼風格？ @令人作嘔！@ 什麼，你還 #r流流、流著血 ？ 哎呀 #p~好噁心啊~ 。啊？你問我是做 @什麼生意@ 的？？你是顧客嗎？好吧。 ~哎呀真是沒辦法啦。~ 」 NL 他誇張地嘆了一口氣，伸手指向一張服務目錄。 NL NL 服務內容看起來還挺正常的，但你現在一心只想對著這自我感覺良好的傢伙洋洋自得的臉上一拳揍過去。",
+      "「好啦，那下次再來哦。」 NL NL ……剛剛真該一拳揍上去的。",
+      "你一拳揍了過去，打到你的手都痛了。 NL 「我的 @臉@ 啊！！ 這下我要──」 NL NL 他暈了過去。呵呵，現在誰才又 #p~噁心~ 又 #r流著血 啦？"
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Adjustments] #rLose #r",
-      "[Clean Up] #rLose #r",
-      "[Full Service] #rLose #r",
-      "[Punch] #rLose #r",
-      " #rHP.",
-      " #rGold. ",
-      "#gUpgrade #g",
-      " #grandom #gcards.",
-      "#gUpgrade #ga #gcard.",
-      "#gRemove #ga #gcard.",
-      "#gTransform #g",
-      " #gcards.",
-      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
-      "[Leave]",
-      "Choose a Card to Upgrade",
-      "Choose 2 Cards to Transform",
-      "Choose a Card to Remove"
+      "[繼續]",
+      "[小修一下] #r失去 #r",
+      "[清潔一下] #r失去 #r",
+      "[全套服務] #r失去 #r",
+      "[一拳過去] #r失去 #r",
+      " #r生命",
+      " #r金幣",
+      "#g隨機升級 #g",
+      " #g張牌",
+      "#g升級一張牌",
+      "#g移除一張牌",
+      "#g變化 #g",
+      " #g張牌",
+      "#g移除一張牌，然後隨機升級一張牌",
+      "[離開]",
+      "選擇一張牌升級",
+      "選擇2張牌變化",
+      "選擇一張牌移除"
     ]
   }
 }
