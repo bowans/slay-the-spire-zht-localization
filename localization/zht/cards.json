@@ -528,8 +528,8 @@
     "DESCRIPTION": "在你的回合結束時，該回合內每出過1張攻擊牌，就對所有敵人造成1點傷害"
   },
   "Fission": {
-    "NAME": "裂變",
-    "DESCRIPTION": "激發 所有充能球。 獲得相同數量的充能球欄位。 NL 消耗 "
+    "NAME": "分裂",
+    "DESCRIPTION": "移除所有充能球，每移除一個充能球獲得 [B] 並抽 !M! 張牌 。 NL 消耗 "
   },
   "Flame Barrier": {
     "NAME": "火焰護盾",
@@ -700,7 +700,7 @@
   },
   "J.A.X.": {
     "NAME": "J.A.X.",
-    "DESCRIPTION": "失去 3 點生命。 NL 獲得 !M! 點 力量 。 NL 消耗 "
+    "DESCRIPTION": "失去 3 點生命。 NL 獲得 !M! 點 力量 "
   },
   "Jack Of All Trades": {
     "NAME": "花樣百出",
@@ -725,8 +725,8 @@
     "UPGRADE_DESCRIPTION": "將你的 力量 變為2倍"
   },
   "Lockon": {
-    "NAME": "跟蹤鎖定",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 在接下來的 !M! 回合中，所有 閃電 和 黑暗 充能球將以這名敵人為目標"
+    "NAME": "瞄準靶心",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 給予敵人 !M! 回合 跟蹤鎖定 效果"
   },
   "Loop": {
     "NAME": "迴圈",
@@ -757,8 +757,8 @@
   },
   "Masterful Stab": {
     "NAME": "精巧刺擊",
-    "DESCRIPTION": "手牌沒有其他牌時才能打出。 NL 造成 !D! 點傷害",
-    "UPGRADE_DESCRIPTION": "這是我唯一的手牌時才能打出"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 每當你受到傷害，這張牌的耗能增加1",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Melter": {
     "NAME": "熔化",

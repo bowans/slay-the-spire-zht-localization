@@ -903,5 +903,21 @@
       "Choose 2 Cards to Transform",
       "Choose a Card to Remove"
     ]
+  },
+  "Colosseum": {
+    "NAME": "The Colosseum",
+    "DESCRIPTIONS": [
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
+	  "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
+	  " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
+	  "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
+	  "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+	  "[Fight]",
+	  "[COWARDICE] Escape.",
+	  "[VICTORY] A powerful fight with many rewards."
+    ]
   }
 }
