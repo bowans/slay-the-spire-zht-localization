@@ -1,4 +1,53 @@
 Updates for Translators!
+08-27-2018
+events.json
+	"Addict"
+		"[Rob] #gRecieve #ga #gRelic. #rBecome #rCursed #r- #rShame.",
+		->
+		"[Rob] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rShame.",
+
+	"Winding Halls"
+		"As you slowly make your way up the twisting pathways, you constantly find yourself losing your way as the walls and ground seem to inexplicably shift before your eyes. The constant whispering voices in the back of your head aren't helping things either.",
+		->
+		"As you slowly make your way up the twisting pathways, you constantly find yourself losing your way as the walls and ground seem to inexplicably shift before your eyes. NL NL The constant #p~whispering~ #p~voices~ in the back of your head aren't helping things either.",
+
+		"Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. That's what the voices say anyway, and why would they lie?",
+		->
+		"Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. NL NL That's what the #p~voices~ say anyway, and why would they lie?",
+
+		"Something in you cracks. Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a \"new\" perspective. Things do seem to make so much more sense now.",
+		->
+		"Something in you cracks. NL NL Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a #p~\"new\"~ perspective. NL Things do seem to make so much more sense now.",
+
+		"You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
+
+		"[Retrace Your Steps] #rLose #r",
+
+		" #rMax #rHP."
+
+	"Accursed Blacksmith"
+		"[Forge] #gUpgrade #ga #gcard. #r25%: #rBecome #rCursed #r- #rInjury.",
+		"[Rummage] #gObtain #ga #gRelic. #r75%: #rBecome #rCursed #r- #rNormality.",
+		->
+		"[Forge] #gUpgrade #ga #gcard.",
+		"[Rummage] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rNormality.",
+
+ui.json
+	"DailyScreen"
+		"  [OFFLINE MODE]"
+
+cards.json
+	"Darkness"
+		"UPGRADE_DESCRIPTION": "Channel !M! Dark."
+		->
+		"UPGRADE_DESCRIPTION": "Channel !M! Dark. NL Trigger the passive ability of all Dark orbs."
+	"Reboot"
+		"DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
+		->
+		"DESCRIPTION": "Shuffle all of your cards into your draw pile. NL Draw !M! cards. NL Exhaust."
+
+----------------------------------
+
 08-21-2018
 events.json
 	"Colosseum"

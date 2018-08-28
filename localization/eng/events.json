@@ -10,8 +10,8 @@
       "There doesn't seem to be anything of use. You exit the way you came, the flames of the furnace casting #p~eerie~ #p~shadows~ on the walls inside the hut..."
     ],
     "OPTIONS": [
-      "[Forge] #gUpgrade #ga #gcard. #r25%: #rBecome #rCursed #r- #rInjury.",
-      "[Rummage] #gObtain #ga #gRelic. #r75%: #rBecome #rCursed #r- #rNormality.",
+      "[Forge] #gUpgrade #ga #gcard.",
+      "[Rummage] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rNormality.",
       "[Leave]",
       "Choose a Card to Upgrade",
       "[Locked] Requires: Upgradeable Cards"
@@ -29,7 +29,7 @@
       " #yGold: #gReceive #ga #gRelic.",
       "[Locked] Requires: ",
       " Gold.",
-      "[Rob] #gRecieve #ga #gRelic. #rBecome #rCursed #r- #rShame.",
+      "[Rob] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rShame.",
       "[Leave]",
 	  "",
 	  ""
@@ -754,10 +754,11 @@
   "Winding Halls": {
     "NAME": "Winding Halls",
     "DESCRIPTIONS": [
-      "As you slowly make your way up the twisting pathways, you constantly find yourself losing your way as the walls and ground seem to inexplicably shift before your eyes. The constant whispering voices in the back of your head aren't helping things either.",
-      "Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. That's what the voices say anyway, and why would they lie?",
-      "Something in you cracks. Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a \"new\" perspective. Things do seem to make so much more sense now.",
-      "As you take a moment to stop and carefully observe the undulating landscape around you, the hint of a pattern starts to emerge from within the randomness. Whenever the demented noises begin to interrupt your thoughts, you struggle through the mental pain and ignore it. NL NL Eventually you successfully map out a path forward, and continue on, now resistant to the nefarious nature of this alien place."
+      "As you slowly make your way up the twisting pathways, you constantly find yourself losing your way as the walls and ground seem to inexplicably shift before your eyes. NL NL The constant #p~whispering~ #p~voices~ in the back of your head aren't helping things either.",
+      "Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. NL NL That's what the #p~voices~ say anyway, and why would they lie?",
+      "Something in you cracks. NL NL Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a #p~\"new\"~ perspective. NL Things do seem to make so much more sense now.",
+      "As you take a moment to stop and carefully observe the undulating landscape around you, the hint of a pattern starts to emerge from within the randomness. Whenever the demented noises begin to interrupt your thoughts, you struggle through the mental pain and ignore it. NL NL Eventually you successfully map out a path forward, and continue on, now resistant to the nefarious nature of this alien place.",
+	  "You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
     ],
     "OPTIONS": [
       "...",
@@ -765,7 +766,9 @@
       " #rHP.",
       "[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
       "[Leave]",
-      " #gHP."
+      " #gHP.",
+	  "[Retrace Your Steps] #rLose #r",
+	  " #rMax #rHP."
     ]
   },
   "World of Goop": {

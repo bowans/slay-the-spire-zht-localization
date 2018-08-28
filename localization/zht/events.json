@@ -757,7 +757,8 @@
       "你沿著彎曲的道路慢慢前進，卻多次發現自己迷失了方向，彷彿牆壁和地面就在你的眼前突然移動了位置。更糟糕的是，你的腦中似乎還有許多聲音在對你輕聲低語。",
       "當你經過一個你十分確定之前見到過的建築物時，你開始懷疑是自己瘋了，還是這個地方違背常理的地形讓你失去了理智。你需要立即做出一些改變──至少那些聲音們是這麼說的，他們怎麼會騙人呢？",
       "你覺得自己的理智出現了裂痕，只有真正的瘋子才能理解這樣的地方，於是你擁抱了那些低語的聲音，用「全新」的視角繼續前進。現在一切似乎都變得合理了。",
-      "你停下腳步，仔細地觀察周圍這片起伏波動的地貌。在混亂的變化中，你似乎逐漸找到了一些規律。可是那些令人瘋狂的話語不停打斷著你的思緒，你花了極大的努力才強忍著痛苦無視了他們。 NL NL 最終你成功地分析出了一條前進的道路，當你離開時，你覺得自己似乎對這個詭異地方的惡毒本質有了一定的抵抗力。"
+      "你停下腳步，仔細地觀察周圍這片起伏波動的地貌。在混亂的變化中，你似乎逐漸找到了一些規律。可是那些令人瘋狂的話語不停打斷著你的思緒，你花了極大的努力才強忍著痛苦無視了他們。 NL NL 最終你成功地分析出了一條前進的道路，當你離開時，你覺得自己似乎對這個詭異地方的惡毒本質有了一定的抵抗力。",
+      "You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
     ],
     "OPTIONS": [
       "……",
@@ -765,7 +766,9 @@
       " #r生命",
       "[集中精神] #r被詛咒──苦惱。 #g回復 #g",
       "[離開]",
-      " #g生命"
+      " #g生命",
+      "[Retrace Your Steps] #rLose #r",
+      " #rMax #rHP."
     ]
   },
   "World of Goop": {
@@ -905,19 +908,19 @@
     ]
   },
   "Colosseum": {
-    "NAME": "The Colosseum",
+    "NAME": "競技場",
     "DESCRIPTIONS": [
-      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
-      "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
-      " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
-      "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
-      "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
+      "@哐！！！@ NL … NL ……… NL …… NL ~你被~ ~打暈了~ ~……~",
+      "你悠悠醒轉，腦袋還 @疼得厲害@ ，腳也 ~站不太穩~ 。你發現自己正處於一座巨大競技場的中央，觀眾席上擠滿了 #b奴隸販子 、 #p邪教徒 和城市區的其他居民們！ NL ",
+      " NL 一個頭戴 #y金冠 的重甲巨人佇立在上方，他對你咆哮： NL @「那麼現在，就讓我們開始第@ @",
+      "@ @輪戰鬥！！！！」@ NL 在你對面的那道大門緩緩打開了……",
+      "@「打得不錯，弱者啊！」@ NL 那名巨人假裝鼓了鼓掌，用誇張的手勢開始鼓動起觀眾們。 NL #y~金幣~ ~和~ #y~彩紙~ ~從天而降~ ~撒落在你身旁！~ NL @「接下來才是真正的挑戰！！」@ NL NL 上一場戰鬥在競技場的圍牆上留下了一個小小缺口，你完全有機會在眾人們沒留意時從那裡逃出去。 NL 你想要留下來繼續戰鬥嗎？"
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Fight]",
-      "[COWARDICE] Escape.",
-      "[VICTORY] A powerful fight with many rewards."
+      "[繼續]",
+      "[戰鬥]",
+      "[怕了] 逃跑",
+      "[戰鬥到底] 一場艱難的戰鬥，贏得眾多獎賞"
     ]
   }
 }
