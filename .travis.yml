@@ -3,8 +3,10 @@ python:
     - 3.6
  
 script:
-    # copy "zht" into localization and rename it to "new"
-    - cp -r zht/ localization/new/
+    # remove original "zht"
+    - rm -r localization/zht
+    # copy "zht" into localization
+    - cp -r zht/ localization/zht/
     # validation will check json format and compare json item with "eng"
     - python ./localization/validate_localization.py
 
