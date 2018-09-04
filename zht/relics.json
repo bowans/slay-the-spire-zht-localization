@@ -1370,40 +1370,40 @@
     ]
   },
   "Brimstone": {
-    "NAME": "Brimstone",
-    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "NAME": "硫磺",
+    "FLAVOR": "散發出地獄般的高熱。",
     "DESCRIPTIONS": [
-      "At the start of your turn, everyone gains #b",
-      " #yStrength."
+      "在你的回合開始時，所有參戰者獲得 #b",
+      " 點 #y力量"
     ]
   },
   "Pocketwatch": {
-    "NAME": "Pocketwatch",
-    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "NAME": "懷錶",
+    "FLAVOR": "指針似乎永遠卡在3點的位置。",
     "DESCRIPTIONS": [
-      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+      "若在一回合內打出的牌數量小於等於 #b3 張，在下回合開始時額外抽 #b3 張牌"
     ]
   },
   "PreservedInsect": {
-    "NAME": "Preserved Insect",
-    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "NAME": "昆蟲標本",
+    "FLAVOR": "這隻昆蟲似乎會對尤其巨大的敵人們散發出虛弱的光環。",
     "DESCRIPTIONS": [
-      "Enemies in Elite rooms have #b",
-      "% less HP."
+      "精英房間的敵人生命減少 #b",
+      "% "
     ]
   },
   "FossilizedHelix": {
-    "NAME": "Fossilized Helix",
-    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "NAME": "螺旋化石",
+    "FLAVOR": "似乎堅不可摧，你很好奇究竟是何種生物曾擁有這樣的部分。",
     "DESCRIPTIONS": [
-      "Prevent the first time you would lose HP in combat."
+      "阻止你在每場戰鬥中第一次受到的生命值損傷"
     ]
   },
   "PrismaticShard": {
-    "NAME": "Prismatic Shard",
-    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "NAME": "稜鏡碎片",
+    "FLAVOR": "通過碎片，你能以全新的視角觀察這個世界。",
     "DESCRIPTIONS": [
-      "Combat reward screens now contain colorless cards and cards from other colors."
+      "戰鬥獎勵掉落的卡牌現在會包括無色牌和其他顏色的牌"
     ]
   }
 }
