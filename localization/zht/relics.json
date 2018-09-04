@@ -93,7 +93,7 @@
     "NAME": "藍蠟燭",
     "FLAVOR": "當處於黑暗中時，這支蠟燭會自動點燃。",
     "DESCRIPTIONS": [
-      "現在能夠打出 #y詛咒 牌 NL NL 打出 #y詛咒 牌會使你失去 #b",
+      "可以打出原本 無法打出 的 #y詛咒 牌 NL NL 打出 #y詛咒 牌會使你失去 #b",
       " 點生命並將其 #y消耗 "
     ]
   },
@@ -279,7 +279,7 @@
   },
   "Discerning Monocle": {
     "NAME": "鑑識單片眼鏡",
-    "FLAVOR": "看起來很有紳士范兒。",
+    "FLAVOR": "看起來很有紳士的感覺。",
     "DESCRIPTIONS": [
       "商人所有商品的賣價降低 #b20%"
     ]
@@ -528,7 +528,7 @@
     "NAME": "醫藥箱",
     "FLAVOR": "「什麼都有！治癢癢、治燒傷、治中毒，應有盡有！」",
     "DESCRIPTIONS": [
-      "現在能夠打出 #y狀態牌 。 打出 #y狀態牌 會將其 #y消耗 "
+      "可以打出原本 無法打出 的 #y狀態牌 。 打出 #y狀態牌 會將其 #y消耗 "
     ]
   },
   "Membership Card": {
@@ -1367,6 +1367,43 @@
     "DESCRIPTIONS": [
       "在每場戰鬥開始時獲得 #b",
       " 點 #y力量 ，在你的回合結束時失去相應力量"
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, everyone gains #b",
+      " #yStrength."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Pocketwatch",
+    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Preserved Insect",
+    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "DESCRIPTIONS": [
+      "Enemies in Elite rooms have #b",
+      "% less HP."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fossilized Helix",
+    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "DESCRIPTIONS": [
+      "Prevent the first time you would lose HP in combat."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prismatic Shard",
+    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "DESCRIPTIONS": [
+      "Combat reward screens now contain colorless cards and cards from other colors."
     ]
   }
 }

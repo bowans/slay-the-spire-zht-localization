@@ -1362,6 +1362,43 @@
       " #yAttacks, gain [B] ."
     ]
   },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "Emanates an infernal heat.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, everyone gains #b",
+      " #yStrength."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Preserved Insect",
+    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "DESCRIPTIONS": [
+      "Enemies in Elite rooms have #b",
+      "% less HP."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Pocketwatch",
+    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fossilized Helix",
+    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "DESCRIPTIONS": [
+      "Prevent the first time you would lose HP in combat."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prismatic Shard",
+    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "DESCRIPTIONS": [
+      "Combat reward screens now contain colorless cards and cards from other colors."
+    ]
+  },
   "MawBank": {
     "NAME": "Maw Bank",
     "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",

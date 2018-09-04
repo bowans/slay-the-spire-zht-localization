@@ -1368,5 +1368,42 @@
       "在每場戰鬥開始時獲得 #b",
       " 點 #y力量 ，在你的回合結束時失去相應力量"
     ]
+  },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, everyone gains #b",
+      " #yStrength."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Pocketwatch",
+    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Preserved Insect",
+    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "DESCRIPTIONS": [
+      "Enemies in Elite rooms have #b",
+      "% less HP."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fossilized Helix",
+    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "DESCRIPTIONS": [
+      "Prevent the first time you would lose HP in combat."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prismatic Shard",
+    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "DESCRIPTIONS": [
+      "Combat reward screens now contain colorless cards and cards from other colors."
+    ]
   }
 }
