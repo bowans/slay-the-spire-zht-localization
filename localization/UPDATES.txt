@@ -1,4 +1,108 @@
 Updates for Translators!
+09-04-2018
+relics.json
+	"WingedGreaves"
+	"WarpedTongs"
+	"Nloth's Gift"
+		"NAME": "Nloth's Gift",
+		->
+		"NAME": "N'loth's Gift",
+ui.json
+	"RunHistoryMonsterNames"
+		"(Deprecated) Flame Bruiser"
+
+cards.json
+	"Fission"
+			"UPGRADE_DESCRIPTION": "Evoke ALL of your Orbs, gain [B] and draw !M! card for each Orb removed. NL Exhaust."
+			->
+			"UPGRADE_DESCRIPTION": "Evoke ALL of your Orbs, gain [B] and draw !M! card for each Orb Evoked. NL Exhaust."
+
+events.json
+	"Accursed Blacksmith"
+		"You can't shake this #r~ugly~ #r~feeling~ as you exit the hut. Maybe you disturbed some sort of spirit?",
+		->
+		"NL NL Taking the relic, you can't shake a sudden feeling of #r~sharp~ #r~pain~ as you exit the hut. Maybe you disturbed some sort of spirit?",
+
+		"[Rummage] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rNormality.",
+		->
+		"[Rummage] #gObtain #ga #gspecial #gRelic. #rBecome #rCursed #r- #rPain.",
+
+	"Addict"
+		" #yGold: #gReceive #ga #gRelic.",
+		->
+		" #yGold: #gObtain #ga #gRelic.",
+
+	"Big Fish"
+		"[Box] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
+		->
+		"[Box] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
+
+	"Drug Dealer"
+		"[Ingest Mutagens] #gGain #ga #gspecial #grelic.",
+		->
+		"[Ingest Mutagens] #gObtain #ga #gspecial #grelic.",
+
+	"Forgotten Altar"
+		"[Offer: Golden Idol] #gReceive #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
+		->
+		"[Offer: Golden Idol] #gObtain #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
+
+	"Ghosts"
+		"[Accept] #gObtain #g5 Apparition. #rLose #r",
+		->
+		"[Accept] #gReceive #g5 Apparition. #rLose #r",
+
+	"Liars Game"
+		"[Agree] #gReceive #g",
+		->
+		"[Agree] #gGain #g",
+
+	"N'loth"
+		"] #rLose #rthis #rrelic. #gGain #ga #gnew #gspecial #grelic.",
+		->
+		"] #rLose #rthis #rrelic. #gObtain #ga #gspecial #grelic.",
+
+	"The Mausoleum"
+		"[Open Coffin] #gReceive #ga #gRelic. #r",
+		->
+		"[Open Coffin] #gObtain #ga #gRelic. #r",
+
+	"The Moai Head"
+		"[Offer: Golden Idol] #gReceive #g333 #gGold. #rLose #rGolden #rIdol.",
+		->
+		"[Offer: Golden Idol] #gGain #g333 #gGold. #rLose #rGolden #rIdol.",
+
+	"Tomb of Lord Red Mask"
+		" Gold] #rLose #rall #rGold. #gGain #ga #gRelic.",
+		->
+		" Gold] #rLose #rall #rGold. #gObtain #ga #gRelic.",
+
+	"Vampires"
+		"[Accept] #gRemove #gall Strikes. #gObtain #g5 Bites. #rLose #r",
+		->
+		"[Accept] #gRemove #gall Strikes. #gReceive #g5 Bites. #rLose #r",
+
+		"] #gRemove #gall Strikes. #gObtain #g5 Bites.",
+		->
+		"] #gRemove #gall Strikes. #gReceive #g5 Bites.",
+
+	"Wheel of Change"
+		"[Prize!] #gGain #ga #gRelic.",
+		->
+		"[Prize!] #gObtain #ga #gRelic.",
+
+	"Mind Bloom"
+		"[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.", 
+		->
+		"[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gObtain #ga #gRare #gRelic.",  
+
+	"WeMeetAgain"
+		". #gReceive #ga #gRelic.",
+		->
+		". #gObtain #ga #gRelic.",
+
+----------------------------------
+
 09-03-2018
 relics.json
 	"PrismaticShard"

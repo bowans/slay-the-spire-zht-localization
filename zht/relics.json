@@ -1405,5 +1405,19 @@
     "DESCRIPTIONS": [
       "戰鬥獎勵掉落的卡牌現在會包括無色牌和其他顏色的牌"
     ]
+  },
+  "WarpedTongs": {
+    "NAME": "Warped Tongs",
+    "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, #yUpgrade a random card in your hand."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Winged Greaves",
+    "FLAVOR": "Stylish.",
+    "DESCRIPTIONS": [
+      "You may ignore paths when choosing the next room to travel to #b3 times."
+    ]
   }
 }
