@@ -1,4 +1,29 @@
 Updates for Translators!
+09-10-2018
+credits.json
+	"LOC_SPA" (see eng/credits.json for where to insert)
+		"Pedro J. \"PJJLegend\" Jiménez",
+
+ui.json
+	"RunHistoryPathNodes"
+		"#bC ",
+		"#bR ",
+		"#bP ",
+		"#bS ",
+		->
+		"[C] ",
+		"[T] ",
+		"[P] ",
+		"[S] ",
+
+	"RunHistoryMonsterNames"
+		"(Deprecated) Slaver and Parasite",
+		"(Deprecated) Snecko and Mystics"
+
+NOTE: [C], [T], [P], and [S] now render icons when they show up in tips (rather than letters).
+		
+----------------------------------
+
 09-05-2018
 relics.json
 	"WingedGreaves"
@@ -11,6 +36,11 @@ relics.json
 		->
 		"NAME": "N'loth's Hungry Face",
 
+credits.json
+	"LOC_SPA"
+		"Grammar and Cleanup:",
+		"Joaquín \"Pip1n\" López"
+		
 ----------------------------------
 
 09-04-2018
