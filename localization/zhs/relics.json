@@ -592,16 +592,6 @@
       "在每回合结束时，你可以从 #b3 张随机牌中选择 #b1 张，随机洗入你的抽牌堆。"
     ]
   },
-  "Nine Lives": {
-    "NAME": "Nine Lives",
-    "FLAVOR": "弃用",
-    "DESCRIPTIONS": [
-      "When you would die, heal to full HP instead. NL (Works #b9 times)",
-      "When you would die, heal to full HP instead. NL (No more lives)",
-      "When you would die, heal to full HP instead. NL (Works #b",
-      " more times)"
-    ]
-  },
   "Ninja Scroll": {
     "NAME": "忍术卷轴",
     "FLAVOR": "暗杀秘术尽在其中。",
@@ -1358,7 +1348,8 @@
     "FLAVOR": "尽管巨口袭击频繁发生，这个造型的储蓄罐却意外相当流行。",
     "DESCRIPTIONS": [
       "每攀爬一层楼层获得 #b",
-      " #y金币 。 一旦在商店中花费 #y金币 就会失效。"
+      " #y金币 。 一旦在商店中花费 #y金币 就会失效。",
+      "这件遗物已经失效。"
     ]
   },
   "MutagenicStrength": {

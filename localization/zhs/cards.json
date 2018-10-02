@@ -199,10 +199,6 @@
     "DESCRIPTION": "在这个回合，你打出的下一张技能牌会打出两次。",
     "UPGRADE_DESCRIPTION": "在这个回合，你打出的下 !M! 张技能牌会打出两次。"
   },
-  "Cache": {
-    "NAME": "高速缓存",
-    "DESCRIPTION": "Deprecated."
-  },
   "Calculated Gamble": {
     "NAME": "计算下注",
     "DESCRIPTION": "丢弃所有手牌。 NL 然后抽相同数量张牌。 NL 消耗 。",
@@ -225,10 +221,6 @@
     "NAME": "催化剂",
     "DESCRIPTION": "将一名敌人的 中毒 层数翻倍。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "将一名敌人的 中毒 层数变为三倍。 NL 消耗 。"
-  },
-  "Channel": {
-    "NAME": "Channel",
-    "DESCRIPTION": "Deprecated."
   },
   "Chaos": {
     "NAME": "混沌",
@@ -656,11 +648,6 @@
     "NAME": "超能光束",
     "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 失去 !M! 点 集中 。"
   },
-  "Ice Wall": {
-    "NAME": "冰墙",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 每拥有一个 冰霜 充能球，获得的 格挡 +3。",
-    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 每拥有一个 冰霜 充能球，获得的 格挡 +5。"
-  },
   "Immolate": {
     "NAME": "燔祭",
     "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL  将一张 灼伤 放入你的弃牌堆中。"
@@ -668,11 +655,6 @@
   "Impervious": {
     "NAME": "岿然不动",
     "DESCRIPTION": "获得 !B! 点 格挡 。 NL 消耗 。"
-  },
-  "Impulse": {
-    "NAME": "脉冲",
-    "DESCRIPTION": "使用所有 充能球 的被动效果。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "使用所有 充能球 的被动效果。"
   },
   "Infernal Blade": {
     "NAME": "地狱之刃",
@@ -814,15 +796,6 @@
       " 张牌。"
     ]
   },
-  "Nova": {
-    "NAME": "新星",
-    "DESCRIPTION": "对所有敌人造成你在本场战斗中打出过的能力牌总数乘以 !M! 的伤害。",
-    "EXTENDED_DESCRIPTION": [
-      " NL 消耗 。",
-      " NL （造成 !D! 点伤害。）"
-    ],
-    "UPGRADE_DESCRIPTION": ""
-  },
   "Noxious Fumes": {
     "NAME": "毒雾",
     "DESCRIPTION": "在你的回合开始时，给予所有敌人 !M! 层 中毒 。"
@@ -836,11 +809,6 @@
     "NAME": "抢占先机",
     "DESCRIPTION": "下一回合 NL 获得 [G] [G] 。",
     "UPGRADE_DESCRIPTION": "下一回合 NL 获得 [G] [G] [G] 。"
-  },
-  "Overclock": {
-    "NAME": "超频（弃用）",
-    "DESCRIPTION": "Deprecated.",
-    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Pain": {
     "NAME": "疼痛",
@@ -892,14 +860,6 @@
     "NAME": "早有准备",
     "DESCRIPTION": "抽 !M! 张牌。 NL 丢弃 !M! 张牌。",
     "UPGRADE_DESCRIPTION": "抽 !M! 张牌。 NL 丢弃 !M! 张牌。"
-  },
-  "Prime": {
-    "NAME": "预备",
-    "DESCRIPTION": "每当你 生成 充能球时，抽 !M! 张牌。"
-  },
-  "Primitive Tech": {
-    "NAME": "原始科技",
-    "DESCRIPTION": "Deprecated."
   },
   "Pummel": {
     "NAME": "连续拳",
@@ -966,10 +926,6 @@
   "Reinforced Body": {
     "NAME": "硬化机体",
     "DESCRIPTION": "获得 !B! 点 格挡 X 次。"
-  },
-  "Reprieve": {
-    "NAME": "延缓",
-    "DESCRIPTION": "如果一名敌人的意图不是攻击，获得 !M! 点 集中 。"
   },
   "Reprogram": {
     "NAME": "重编程",
@@ -1262,10 +1218,6 @@
   "Wild Strike": {
     "NAME": "狂野打击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 将一张 伤口 放入你的抽牌堆中。"
-  },
-  "Winter": {
-    "NAME": "Winter",
-    "DESCRIPTION": "Deprecated."
   },
   "Wound": {
     "NAME": "伤口",
