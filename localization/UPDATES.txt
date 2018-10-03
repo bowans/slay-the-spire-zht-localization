@@ -1,4 +1,26 @@
 Updates for Translators!
+10-02-2018
+tutorials.json
+	"Random Tips"
+		"Effects that generate cards during combat will never heal you."
+		->
+		"Effects that generate random cards during combat will never heal you."
+
+run_mods.json
+	"DeadlyEvents"
+		"DESCRIPTION": "? rooms can now contain Elites but are more likely to contain Treasure rooms."
+		->
+		"DESCRIPTION": "? rooms can now contain Elites but are also more likely to contain Treasure rooms."
+
+	"MonsterHunter"
+		"Monster Hunter"
+		->
+		"Colossus"
+
+	"Daily Mods"
+		"Embark on a run with exactly 3 random Daily Mods."
+
+----------------------------------
 
 10-01-2018
 relics.json

@@ -31,8 +31,8 @@
   "Angry": {
     "NAME": "Angry",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes #yAttack damage, it gains #b",
+      "",
+      "On taking attack damage, gains #b",
       " #yStrength."
     ]
   },
@@ -176,7 +176,7 @@
   "Curl Up": {
     "NAME": "Curl Up",
     "DESCRIPTIONS": [
-      "On taking #yAttack damage, rolls up and gains ",
+      "On receiving attack damage, rolls up and gains ",
       " #yBlock. (Once per combat)"
     ]
   },
@@ -312,7 +312,7 @@
   "Envenom": {
     "NAME": "Envenom",
     "DESCRIPTIONS": [
-      "Whenever you deal unblocked #yAttack damage, apply #b",
+      "Whenever you deal unblocked attack damage, apply #b",
       " #yPoison."
     ]
   },
@@ -358,7 +358,7 @@
   "Flame Barrier": {
     "NAME": "Flame Barrier",
     "DESCRIPTIONS": [
-      "When receiving #yAttack damage, deals #b",
+      "When receiving attack damage, deals #b",
       " damage back."
     ]
   },
@@ -527,7 +527,7 @@
   "Malleable": {
     "NAME": "Malleable",
     "DESCRIPTIONS": [
-      "Upon recieving #yAttack damage, gains #b",
+      "On taking attack damage, gains #b",
       " #yBlock. #yBlock gain increases as ",
       " is triggered. Resets to #b",
       " at the start of your turn."
@@ -559,7 +559,7 @@
   "Mode Shift": {
     "NAME": "Mode Shift",
     "DESCRIPTIONS": [
-      "After taking #b",
+      "After receiving #b",
       " damage, changes to a defensive mode."
     ]
   },
@@ -605,7 +605,7 @@
   "Painful Stabs": {
     "NAME": "Painful Stabs",
     "DESCRIPTIONS": [
-      "Whenever you take damage from this enemy, add a #yWound into your Discard Pile."
+      "Whenever you receive damage from this enemy, add a #yWound into your Discard Pile."
     ]
   },
   "Panache": {
@@ -635,9 +635,9 @@
     "NAME": "Plated Armor",
     "DESCRIPTIONS": [
       "At the end of your turn, gain #b",
-      " #yBlock. Receiving #yAttack damage reduces #yPlated #yArmor by #b1.",
+      " #yBlock. Receiving attack damage reduces #yPlated #yArmor by #b1.",
       "At the end of your turn, gains #b",
-      " #yBlock. Receiving #yAttack damage reduces #yPlated #yArmor by #b1."
+      " #yBlock. Receiving attack damage reduces #yPlated #yArmor by #b1."
     ]
   },
   "Poison": {
@@ -707,11 +707,11 @@
       " HP."
     ]
   },
-  "Repulse": {
-    "NAME": "Repulse",
+    "Repulse": {
+    "NAME": "",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " receives attack damage, puts a #yWound into your hand."
+    	"",
+    	""
     ]
   },
   "Retain Cards": {
@@ -826,7 +826,7 @@
   "StaticDischarge": {
     "NAME": "Static Discharge",
     "DESCRIPTIONS": [
-      "Whenever you receive #yAttack damage, #yChannel #b",
+      "Whenever you receive attack damage, #yChannel #b",
       " #yLightning."
     ]
   },
@@ -862,7 +862,7 @@
   "Thorns": {
     "NAME": "Thorns",
     "DESCRIPTIONS": [
-      "When receiving #yAttack damage, deals #b",
+      "When receiving attack damage, deals #b",
       " damage back."
     ]
   },
@@ -900,7 +900,7 @@
   "Unstable": {
     "NAME": "Unstable",
     "DESCRIPTIONS": [
-      "Deal enough damage to throw it off balance."
+      ""
     ]
   },
   "Venomology": {
@@ -913,7 +913,7 @@
   "Vulnerable": {
     "NAME": "Vulnerable",
     "DESCRIPTIONS": [
-      "Take #b",
+      "Receive #b",
       "% more damage from #yAttacks for #b",
       " turn.",
       " turns."
@@ -954,8 +954,8 @@
   "Shifting": {
     "NAME": "Shifting",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " receives damage, it loses that much #yStrength until the end of the turn."
+      "",
+      "On losing HP, loses that much #yStrength until the end of the turn."
     ]
   },
   "TimeMazePower": {
