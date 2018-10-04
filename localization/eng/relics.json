@@ -54,7 +54,7 @@
     "NAME": "Bird-Faced Urn",
     "FLAVOR": "This urn shows the crow god Mazaleth looking mischievous.",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower, heal #b",
+      "Whenever you play a #yPower card, heal #b",
       " HP."
     ]
   },
@@ -70,7 +70,7 @@
     "NAME": "Black Star",
     "FLAVOR": "Originally discovered in the town of the serpent, aside a solitary candle.",
     "DESCRIPTIONS": [
-      "#yElites drop an additional relic when defeated."
+      "Elites drop an additional relic when defeated."
     ]
   },
   "Blood Vial": {
@@ -93,7 +93,7 @@
     "NAME": "Blue Candle",
     "FLAVOR": "The flame ignites when shrouded in darkness.",
     "DESCRIPTIONS": [
-      "Unplayable #rCurse cards can now be played. NL Whenever you play a #rCurse, lose #b",
+      "#yUnplayable #rCurse cards can now be played. NL Whenever you play a #rCurse, lose #b",
       " HP and #yExhaust it."
     ]
   },
@@ -162,7 +162,7 @@
     "NAME": "Calling Bell",
     "FLAVOR": "This dark iron bell rang 3 times when you found it, but now stays silent.",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain #b3 #rCurses and #b3 #yRelics.",
+      "Upon pickup, obtain #b3 #rCurses and #b3 relics.",
       "The Bell Tolls...",
       "Skip Rewards",
       "Close"
@@ -178,7 +178,7 @@
   },
   "Centennial Puzzle": {
     "NAME": "Centennial Puzzle",
-    "FLAVOR": "Upon solving the puzzle you feel a powerful warmth in your chest.",
+    "FLAVOR": "Upon solving the puzzle, you feel a powerful warmth in your chest.",
     "DESCRIPTIONS": [
       "The first time you lose HP each combat, draw #b",
       " cards."
@@ -212,7 +212,7 @@
     "FLAVOR": "WARNING: Do not combine with sugar, spice, and everything nice.",
     "DESCRIPTIONS": [
       "The effects of your cost #bX cards are increased by #b",
-      "."
+      ""
     ]
   },
   "Circlet": {
@@ -240,7 +240,7 @@
     "NAME": "Cursed Key",
     "FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
     "DESCRIPTIONS": [
-      " at the start of each turn. Whenever you open a non-boss chest, obtain a #rCurse.",
+      " at the start of each turn. Whenever you open a non-Boss chest, obtain a #rCurse.",
       "Gain [R]",
       "Gain [G]",
       "Gain [B]"
@@ -297,7 +297,7 @@
     "NAME": "Dream Catcher",
     "FLAVOR": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
     "DESCRIPTIONS": [
-      "Whenever you #yRest, you may add a card to your deck."
+      "Whenever you #yRest, you may add a card into your deck."
     ]
   },
   "Du-Vu Doll": {
@@ -305,7 +305,7 @@
     "FLAVOR": "A doll devised to gain strength from malicious energy.",
     "DESCRIPTIONS": [
       "For each #rCurse in your deck, start each combat with #b",
-      " additional #yStrength.",
+      " #yStrength.",
       " You have no #rCurses.",
       " You have #b",
       " #rCurses."
@@ -325,14 +325,14 @@
     "NAME": "Emotion Chip",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+      "Whenever you lose HP, trigger the passive ability of all your Orbs at the start of your next turn."
     ]
   },
   "Enchiridion": {
     "NAME": "Enchiridion",
     "FLAVOR": "The legendary journal of an ancient lich.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a random #yPower card to your hand. It costs #b0 for that turn."
+      "At the start of each combat, add a random #yPower card into your hand. It costs #b0 for that turn."
     ]
   },
   "Eternal Feather": {
@@ -344,19 +344,11 @@
       " HP whenever you enter a Rest Site."
     ]
   },
-  "Frozen Egg": {
-    "NAME": "Frozen Egg",
-    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
-    "DESCRIPTIONS": [
-      "Upon pickup, choose and #yUpgrade a #yPower.",
-      "Choose a card for "
-    ]
-  },
   "Frozen Egg 2": {
     "NAME": "Frozen Egg",
     "FLAVOR": "The egg lies inert and frozen, never to hatch.",
     "DESCRIPTIONS": [
-      "Whenever you add a #yPower card into your deck, it is #yUpgraded."
+      "Whenever you add a #yPower card into your deck, #yUpgrade it."
     ]
   },
   "Frozen Eye": {
@@ -452,7 +444,7 @@
       "[R] ",
       "[G] ",
       "[B] ",
-      "."
+      ""
     ]
   },
   "Lee's Waffle": {
@@ -467,7 +459,7 @@
     "NAME": "Letter Opener",
     "FLAVOR": "Unnaturally sharp.",
     "DESCRIPTIONS": [
-      "Every time you play #b3 Skills in a single turn, deal #b",
+      "Every time you play #b3 #ySkills in a single turn, deal #b",
       " damage to ALL enemies."
     ]
   },
@@ -510,8 +502,8 @@
     "NAME": "Matryoshka",
     "FLAVOR": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.",
     "DESCRIPTIONS": [
-      "The next #b2 non-boss chests you open contain #b2 #yRelics.",
-      "The next non-boss chest you open contains #b2 #yRelics.",
+      "The next #b2 non-Boss chests you open contain #b2 #yRelics.",
+      "The next non-Boss chest you open contains #b2 #yRelics.",
       "This relic has been used up."
     ]
   },
@@ -527,44 +519,36 @@
     "NAME": "Medical Kit",
     "FLAVOR": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"",
     "DESCRIPTIONS": [
-      "Unplayable #yStatus cards can now be played. Whenever you play a #yStatus card, #yExhaust it."
+      "#yUnplayable #yStatus cards can now be played. Whenever you play a #yStatus card, #yExhaust it."
     ]
   },
   "Membership Card": {
     "NAME": "Membership Card",
     "FLAVOR": "\"Bonus membership offer for my most valuable customers!\"",
     "DESCRIPTIONS": [
-      "In future acts, shops appear #b50% more often. #yBONUS: #b50% discount on all products!"
+      "#b50% discount on all products!"
     ]
   },
   "Mercury Hourglass": {
     "NAME": "Mercury Hourglass",
     "FLAVOR": "An enchanted hourglass that endlessly drips.",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal #b",
+      "At the start of each turn, deal #b",
       " damage to ALL enemies."
-    ]
-  },
-  "Molten Egg": {
-    "NAME": "Molten Egg",
-    "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
-    "DESCRIPTIONS": [
-      "Upon pickup, choose and #yUpgrade an #yAttack.",
-      "Choose a card for "
     ]
   },
   "Molten Egg 2": {
     "NAME": "Molten Egg",
     "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
     "DESCRIPTIONS": [
-      "Whenever you add an #yAttack into your deck, it is #yUpgraded."
+      "Whenever you add an #yAttack into your deck, #yUpgrade it."
     ]
   },
   "Mummified Hand": {
     "NAME": "Mummified Hand",
     "FLAVOR": "Frequently twitches, especially when your pulse is high.",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower card, a random card in your hand costs #b0 for that turn."
+      "Whenever you play a #yPower card, a random card in your hand costs #b0 that turn."
     ]
   },
   "Necronomicon": {
@@ -581,14 +565,14 @@
     "FLAVOR": "The blessing of lamentation bestowed by Neow.",
     "DESCRIPTIONS": [
       "Enemies in your first #b3 combats will have 1 HP.",
-     "This relic has been used up."
+      "This relic has been used up."
     ]
   },
   "Nilry's Codex": {
     "NAME": "Nilry's Codex",
     "FLAVOR": "Crafted by the infamous game master himself. Said to expand one's mind.",
     "DESCRIPTIONS": [
-      "At the end of each turn, you can choose #b1 of #b3 random cards to shuffle into your draw pile."
+      "At the end of each turn, you may shuffle #b1 of #b3 random cards into your draw pile."
     ]
   },
   "Ninja Scroll": {
@@ -617,14 +601,14 @@
     "NAME": "Nullstone Periapt",
     "FLAVOR": "DEPRECATED.",
     "DESCRIPTIONS": [
-      "Negate the next #yDebuff you receive from an enemy. NL Recharges in #b10 turns."
+      "Negate the next debuff you receive from an enemy. NL Recharges in #b10 turns."
     ]
   },
   "Odd Mushroom": {
     "NAME": "Odd Mushroom",
     "FLAVOR": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid ",
     "DESCRIPTIONS": [
-      "When #yVulnerable, take #b25% more damage rather than #b50%."
+      "When #yVulnerable, take #b25% more attack damage rather than #b50%."
     ]
   },
   "Oddly Smooth Stone": {
@@ -679,7 +663,7 @@
     "NAME": "Pandora's Box",
     "FLAVOR": "You have a bad feeling about opening this.",
     "DESCRIPTIONS": [
-      "#bTransform all Strikes and Defends.",
+      "Upon pickup, #bTransform all Strike and Defend cards.",
       "Pandora's Box has been opened..."
     ]
   },
@@ -687,7 +671,7 @@
     "NAME": "Pantograph",
     "FLAVOR": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect",
     "DESCRIPTIONS": [
-      "At the start of boss combats, heal #b",
+      "At the start of Boss combats, heal #b",
       " HP."
     ]
   },
@@ -784,8 +768,8 @@
     "NAME": "Regal Pillow",
     "FLAVOR": "Now you can get a proper night's rest.",
     "DESCRIPTIONS": [
-      "Heal an additional #b",
-      " HP when you #yRest."
+      "Whenever you #yRest, heal an additional #b",
+      " HP."
     ]
   },
   "Ring of the Serpent": {
@@ -793,7 +777,7 @@
 	"FLAVOR": "Your ring has morphed and changed forms.",
     "DESCRIPTIONS": [
       "Replaces #gRing #gof #gthe #gSnake. ",
-	  "At the start of your turn, draw #b1 additional card."
+      "At the start of each turn, draw #b1 additional card."
     ]
   },
   "Ring of the Snake": {
@@ -834,7 +818,7 @@
     "NAME": "Runic Pyramid",
     "FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-      "At the end of your turn, you no longer discard your hand.",
+      "At the end of each turn, you no longer discard your hand.",
       ""
     ]
   },
@@ -842,7 +826,7 @@
     "NAME": "Self-Forming Clay",
     "FLAVOR": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid",
     "DESCRIPTIONS": [
-      "Whenever you lose HP in combat, gain #b",
+      "Whenever you lose HP, gain #b",
       " #yBlock next turn."
     ]
   },
@@ -866,7 +850,7 @@
     "NAME": "Singing Bowl",
     "FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
     "DESCRIPTIONS": [
-      "When adding cards to your deck, you may gain #b+2 Max HP instead."
+      "When adding cards into your deck, you may raise your Max HP by #b2 instead."
     ]
   },
   "Smiling Mask": {
@@ -889,7 +873,7 @@
     "NAME": "Snecko Eye",
     "FLAVOR": "An eye of a fallen snecko. Much larger than you imagined.",
     "DESCRIPTIONS": [
-      "Draw #b2 additional cards each turn. Start each combat #yConfused."
+      "At the start of each turn, draw #b2 additional cards. Start each combat #yConfused."
     ]
   },
   "Sozu": {
@@ -992,7 +976,7 @@
     "NAME": "Test 7",
     "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
     "DESCRIPTIONS": [
-      "#yElites now drop #b2 #yRelics when defeated."
+      "Elites now drop #b2 #yRelics when defeated."
     ]
   },
   "Test 8": {
@@ -1036,9 +1020,9 @@
     "NAME": "Tiny Chest",
     "FLAVOR": "\"A fine prototype.\" - The Architect",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yGold. You are #b10% more likely to find treasure in ? rooms.",
-      "You are #b10% more likely to find treasure in ? rooms."
+      "Upon pickup, gain #b",
+      " #yGold. You are #b10% more likely to find treasure in #y? rooms.",
+      "You are #b10% more likely to find treasure in #y? rooms."
     ]
   },
   "Tiny House": {
@@ -1055,7 +1039,7 @@
     "NAME": "Toolbox",
     "FLAVOR": "A tool for every job.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a random colorless card into your hand."
+      "At the start of each combat, add a random Colorless card into your hand."
     ]
   },
   "Torii": {
@@ -1074,19 +1058,11 @@
       " #yBlock."
     ]
   },
-  "Toxic Egg": {
-    "NAME": "Toxic Egg",
-    "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Upon pickup, choose and #yUpgrade a #ySkill.",
-      "Choose a card for "
-    ]
-  },
   "Toxic Egg 2": {
     "NAME": "Toxic Egg",
     "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
     "DESCRIPTIONS": [
-      "Whenever you add a #ySkill into your deck, it is #yUpgraded."
+      "Whenever you add a #ySkill into your deck, #yUpgrade it."
     ]
   },
   "Toy Ornithopter": {
@@ -1227,7 +1203,8 @@
     "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
     "DESCRIPTIONS": [
       "Start each combat with #b",
-      " #yStrength that is lost at the end of your turn."
+      " #yStrength. At the end of your first turn, lose #b",
+      " #yStrength."
     ]
   },
   "FaceOfCleric": {
@@ -1241,8 +1218,8 @@
     "NAME": "N'loth's Hungry Face",
     "FLAVOR": "You feel hungry.",
     "DESCRIPTIONS": [
-      "The next non-boss chest you open is empty.",
-	  ""
+      "The next non-Boss chest you open is empty.",
+      ""
     ]
   },
   "GremlinMask": {
@@ -1264,7 +1241,8 @@
     "NAME": "The Abacus",
     "FLAVOR": "\"One...Two...Three...\"",
     "DESCRIPTIONS": [
-      "Gain #b6 #yBlock whenever you shuffle your draw pile."
+      "Whenever you shuffle your discard pile, gain #b",
+      " #yBlock."
     ]
   },
   "DollysMirror": {
@@ -1286,7 +1264,8 @@
     "NAME": "Meal Ticket",
     "FLAVOR": "\"Complimentary meatballs with every visit!\"",
     "DESCRIPTIONS": [
-      "Whenever you enter a shop, heal #b7 HP."
+      "Whenever you enter a shop, heal #b",
+      " HP."
     ]
   },
   "TwistedFunnel": {
@@ -1322,7 +1301,7 @@
     "NAME": "Orange Pellets",
     "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower, #yAttack, and #ySkill in the same turn, remove all of your Debuffs."
+      "Whenever you play a #yPower, #yAttack, and #ySkill in the same turn, remove all of your debuffs."
     ]
   },
   "WristBlade": {
@@ -1355,7 +1334,8 @@
     "NAME": "Brimstone",
     "FLAVOR": "Emanates an infernal heat.",
     "DESCRIPTIONS": [
-      "At the start of your turn, everyone gains #b",
+      "At the start of your turn, gain #b",
+      " #yStrength and ALL enemies gain #b",
       " #yStrength."
     ]
   },
@@ -1371,28 +1351,28 @@
     "NAME": "Pocketwatch",
     "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
     "DESCRIPTIONS": [
-      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+      "Whenever you play #b3 or less cards during your turn, draw #b3 additional cards at the start of your next turn."
     ]
   },
   "FossilizedHelix": {
     "NAME": "Fossilized Helix",
     "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
     "DESCRIPTIONS": [
-      "Prevent the first time you would lose HP in combat."
+      "Prevent the first time you would lose HP each combat."
     ]
   },
   "PrismaticShard": {
     "NAME": "Prismatic Shard",
     "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
     "DESCRIPTIONS": [
-      "Combat reward screens now contain colorless cards and cards from other colors."
+      "Combat reward screens now contain Colorless cards and cards from other colors."
     ]
   },
   "WarpedTongs": {
     "NAME": "Warped Tongs",
     "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
     "DESCRIPTIONS": [
-      "At the start of your turn, #yUpgrade a random card in your hand for the rest of combat."
+      "At the start of each turn, #yUpgrade a random card in your hand for the rest of combat."
     ]
   },
   "WingedGreaves": {
