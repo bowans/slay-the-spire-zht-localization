@@ -57,7 +57,7 @@
   },
   "AscendersBane": {
     "NAME": "進階之災",
-    "DESCRIPTION": "無法打出 。 NL 虛無 。 NL 不能從牌組中移除"
+    "DESCRIPTION": " 無法打出 。 NL 虛無 。 NL 不能從牌組中移除"
   },
   "Auto Shields": {
     "NAME": "自動護盾",
@@ -73,7 +73,7 @@
   },
   "Backstab": {
     "NAME": "背刺",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 固有 。 NL 消耗 "
+    "DESCRIPTION": " 固有 。 NL 造成 !D! 點傷害。 NL 消耗 "
   },
   "Ball Lightning": {
     "NAME": "球狀閃電",
@@ -165,7 +165,7 @@
   },
   "BootSequence": {
     "NAME": "啟動流程",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 固有 。 NL 消耗 "
+    "DESCRIPTION": " 固有 。 NL 獲得 !B! 點 格擋 。 NL 消耗 "
   },
   "Bouncing Flask": {
     "NAME": "彈跳藥瓶",
@@ -230,7 +230,7 @@
   "Chill": {
     "NAME": "冰寒",
     "DESCRIPTION": "當前每有一名敵人，生成 !M! 個 冰霜 充能球。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "固有 。 NL 當前每有一名敵人，生成 !M! 個 冰霜 充能球。 NL 消耗 "
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 當前每有一名敵人，生成 !M! 個 冰霜 充能球。 NL 消耗 "
   },
   "Choke": {
     "NAME": "勒脖",
@@ -429,7 +429,7 @@
   },
   "Echo Form": {
     "NAME": "迴響形態",
-    "DESCRIPTION": "每回合打出的第1張牌會打出2次。 NL 虛無 ",
+    "DESCRIPTION": " 虛無 。 NL 每回合打出的第1張牌會打出2次",
     "UPGRADE_DESCRIPTION": "每回合打出的第1張牌會打出2次"
   },
   "Electrodynamics": {
@@ -575,7 +575,7 @@
   },
   "Ghostly": {
     "NAME": "靈體",
-    "DESCRIPTION": "獲得1層 無實體 。 NL 消耗 。 NL 虛無 ",
+    "DESCRIPTION": " 虛無 。 NL 獲得1層 無實體 。 NL 消耗 ",
     "UPGRADE_DESCRIPTION": "獲得1層 無實體 。 NL 消耗 "
   },
   "Ghostly Armor": {
@@ -629,7 +629,7 @@
   "Hello World": {
     "NAME": "你好，世界",
     "DESCRIPTION": "在你的回合開始時，增加1張隨機普通牌到手牌",
-    "UPGRADE_DESCRIPTION": "固有 。 NL 在你的回合開始時，增加1張隨機普通牌到手牌"
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合開始時，增加1張隨機普通牌到手牌"
   },
   "Hemokinesis": {
     "NAME": "御血術",
@@ -719,7 +719,7 @@
   "Machine Learning": {
     "NAME": "機器學習",
     "DESCRIPTION": "在每回合開始時，額外抽 !M! 張牌",
-    "UPGRADE_DESCRIPTION": "固有 。 NL 在每回合開始時，額外抽 !M! 張牌"
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 在每回合開始時，額外抽 !M! 張牌"
   },
   "Madness": {
     "NAME": "瘋狂",
@@ -789,7 +789,7 @@
     "DESCRIPTION": " 無法打出 。 NL 在手牌中時，該回合只能打出3張牌",
     "EXTENDED_DESCRIPTION": [
       "我這回合最多 NL 只能打出 #r3 張牌",
-      "無法打出 。 NL 在手牌中時，該回合無法打出超過 ",
+      " 無法打出 。 NL 在手牌中時，該回合無法打出超過 ",
       " 張牌",
       " 張牌。 NL 已打出 ",
       " 張牌",
@@ -1058,7 +1058,7 @@
   "Storm": {
     "NAME": "雷暴",
     "DESCRIPTION": "每打出1張能力牌， 生成 1 個 閃電 充能球",
-    "UPGRADE_DESCRIPTION": "固有 。 NL 每打出1張能力牌，生成 1 個 閃電 充能球"
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 每打出1張能力牌，生成 1 個 閃電 充能球"
   },
   "Storm of Steel": {
     "NAME": "鋼鐵風暴",
@@ -1148,8 +1148,8 @@
   },
   "Transmutation": {
     "NAME": "轉化",
-    "DESCRIPTION": "增加 X 張隨機無色牌到手牌。它們在本回合耗能變為0。 NL 消耗",
-    "UPGRADE_DESCRIPTION": "增加 X 張 已升級 隨機無色牌到手牌。它們在本回合耗能變為0。 NL 消耗"
+    "DESCRIPTION": "增加 X 張隨機無色牌到手牌。它們在本回合耗能變為0。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "增加 X 張 已升級 隨機無色牌到手牌。它們在本回合耗能變為0。 NL 消耗 "
   },
   "Trip": {
     "NAME": "絆倒",
@@ -1195,7 +1195,7 @@
   },
   "Void": {
     "NAME": "虛空",
-    "DESCRIPTION": "無法打出 。 NL 抽到這張牌時失去1點能量。 NL 虛無 "
+    "DESCRIPTION": " 無法打出 。 NL 虛無 。 NL 抽到這張牌時失去1點能量"
   },
   "Warcry": {
     "NAME": "戰吼",
@@ -1249,7 +1249,7 @@
   },
   "Pride": {
     "NAME": "傲慢",
-    "DESCRIPTION": "固有 。NL 消耗 。 NL 你的回合結束時，複製1張該牌到抽牌堆頂部"
+    "DESCRIPTION": " 固有 。NL 你的回合結束時，複製1張該牌到抽牌堆頂部。 消耗 "
   },
   "PanicButton": {
     "NAME": "應急按鈕",
@@ -1269,7 +1269,7 @@
   },
   "Shame": {
     "NAME": "羞恥",
-    "DESCRIPTION": "無法打出 。 NL 在你的回合結束時，獲得1層 脆弱 "
+    "DESCRIPTION": " 無法打出 。 NL 在你的回合結束時，獲得1層 脆弱 "
   },
   "HandOfGreed": {
     "NAME": "貪婪之手",
@@ -1290,7 +1290,7 @@
   },
   "Discovery": {
     "NAME": "發現",
-    "DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0。 NL 消耗",
+    "DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0。 NL 消耗 ",
     "UPGRADE_DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0"
   }
 }
