@@ -1,4 +1,17 @@
 Updates for Translators!
+10-09-2018
+run_mods.json
+	"Midas"
+		"DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+		->
+		"DESCRIPTION": "Enemies drop 200% more gold, but you can no longer Smith at Rest Sites."
+
+ui.json
+	"OptionsPanel"
+		"Disable Particle Effects
+
+----------------------------------
+
 10-04-2018
 events.json
 	"Drug Dealer"
