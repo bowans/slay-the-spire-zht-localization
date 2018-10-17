@@ -978,5 +978,11 @@
       "On death, deal damage equal to its Max HP #b",
       " times to ALL enemies."
     ]
+  },
+  "Compulsive": {
+    "NAME": "Compulsive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its Intent."
+    ]
   }
 }

@@ -1,5 +1,45 @@
 Updates for Translators!
 
+10-16-2018
+powers.json
+	"Compulsive"
+
+characters.json
+	"Neow Event"
+		"~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~my..~ ~blessing...~",
+		->
+		"~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~more..~ ~blessings...~",
+
+	"Neow Reward"
+		"[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
+		"#gObtain #g2 #grandom #gcolorless #gCards ]"
+
+ui.json
+	"RunHistoryPathNodes"
+		"#rSpent ",
+		"#rTook ",
+		"#rLost ",
+		"%s Max HP",
+		"#bHealed ",
+		"#bGained ",
+		"#bIgnored ",
+		"%s HP",
+		"#bObtained %s",
+		"#rCursed #rwith #r%s",
+		"%s Damage",
+		"#bUpgraded %s",
+		"#bTransformed %s",
+		"#rLost %s",
+
+monsters.json
+	"WrithingMass"
+
+credits.json
+	"LOC_POL"
+		"Marek \"Skorpionex\" Mazur",
+
+----------------------------------
+
 10-15-2018
 run_mods.json
     "NAME": "Brewmaster",

@@ -967,8 +967,8 @@
   "TheBomb": {
     "NAME": "炸彈",
     "DESCRIPTIONS": [
-      "在 %1$s 回合結束後，對所有敵人造成 %2$s 傷害",
-      "在本回合結束時，對所有敵人造成 %1$s 傷害"
+      "在 #b%1$s 回合結束後，對所有敵人造成 #b%2$s 傷害",
+      "在本回合結束時，對所有敵人造成 #b%1$s 傷害"
     ]
   },
   "CorpseExplosionPower": {
@@ -977,6 +977,12 @@
       "當這名敵人死亡時，對所有敵人造成等於其最大生命值的傷害",
       "當這名敵人死亡時，對所有敵人造成等於其最大生命值 #b",
       " 倍的傷害"
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Compulsive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its Intent."
     ]
   }
 }
