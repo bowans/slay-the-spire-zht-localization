@@ -1,5 +1,48 @@
 Updates for Translators!
 
+10-22-2018
+relics.json
+	"Preserved Insect"
+		"Enemies in Elite rooms have #b",
+		->
+		"Enemies in Elite combats have #b",
+
+run_mods.json
+	"MonsterHunter": {
+		"NAME": "Colossus ",
+		->
+		"NAME": "Colossus",
+
+events.json
+	"Ghosts" (see eng/events.json for placement)
+		"",
+		->
+		"[Accept] #gReceive #g3 Apparition. #rLose #r",
+
+----------------------------------
+
+10-19-2018
+powers.json
+	"Compulsive"
+		"NAME": "Compulsive"
+		->
+		"NAME": "Reactive"
+
+		"Upon receiving attack damage, changes its Intent."
+		->
+		"Upon receiving attack damage, changes its intent."
+
+----------------------------------
+
+10-17-2018
+events.json
+	"Drug Dealer" (Typo fix)
+		" A man with an eyepatch and a devilish grin strides up to you. NL \"Hey there, stranger. Interested in advancing science? I can make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish. NL ~Whad'ya~ ~say?~\"",
+		->
+		" A man with an eyepatch and a devilish grin strides up to you. NL \"Hey there, stranger. Interested in advancing science? I can make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish.\" NL NL ~\"Whad'ya~ ~say?\"~",
+
+----------------------------------
+
 10-16-2018
 powers.json
 	"Compulsive"
