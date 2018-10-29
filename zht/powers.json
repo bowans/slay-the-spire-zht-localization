@@ -980,16 +980,16 @@
     ]
   },
   "BeatOfDeath": {
-    "NAME": "Beat Of Death",
+    "NAME": "死亡律動",
     "DESCRIPTIONS": [
-      "Whenever you play a card, take #b",
-      " damage and increase this powers damage by #b1. Resets every turn."
+      "每打出一張牌，受到 #b",
+      " 點傷害"
     ]
   },
   "Invincible": {
-    "NAME": "Invincible",
+    "NAME": "堅不可摧",
     "DESCRIPTIONS": [
-      "Caps ALL damage and HP loss taken to #b100."
+      "受到的所有傷害和生命減少效果不會超過 #b100"
     ]
   },
   "Compulsive": {
@@ -999,15 +999,15 @@
     ]
   },
   "Surrounded": {
-    "NAME": "Surrounded",
+    "NAME": "夾擊",
     "DESCRIPTIONS": [
-      "Receive #b50% more damage if attacked from behind. Use targetting cards or potions to change your orientation."
+      "從後方受到的傷害增加 #b50% 。用可選定目標的牌和藥水可以改變面對的方向"
     ]
   },
   "BackAttack": {
-    "NAME": "Back Attack",
+    "NAME": "後方攻擊",
     "DESCRIPTIONS": [
-      "Deals #b50% more damage as it is attacking you from behind."
+      "因為攻擊從後方而來，造成的傷害增加 #b50%"
     ]
   }
 }
