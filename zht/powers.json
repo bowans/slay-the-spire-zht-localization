@@ -979,10 +979,35 @@
       " 倍的傷害"
     ]
   },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, take #b",
+      " damage and increase this powers damage by #b1. Resets every turn."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Caps ALL damage and HP loss taken to #b100."
+    ]
+  },
   "Compulsive": {
     "NAME": "扭動",
     "DESCRIPTIONS": [
       "受到攻擊傷害時，改變自己的行動意圖"
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Receive #b50% more damage if attacked from behind. Use targetting cards or potions to change your orientation."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Deals #b50% more damage as it is attacking you from behind."
     ]
   }
 }

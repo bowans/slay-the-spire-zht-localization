@@ -979,10 +979,35 @@
       " 倍的伤害。"
     ]
   },
+  "BeatOfDeath": {
+    "NAME": "死亡律动",
+    "DESCRIPTIONS": [
+      "你每打出一张牌，受到 #b",
+      " 点伤害。"
+    ]
+  },
+  "Invincible": {
+    "NAME": "坚不可摧",
+    "DESCRIPTIONS": [
+      "受到的所有伤害和生命减少效果不会超过 #b100。"
+    ]
+  },
   "Compulsive": {
     "NAME": "扭动",
     "DESCRIPTIONS": [
       "受到攻击伤害时，改变自己的行动意图。"
+    ]
+  },
+  "Surrounded": {
+    "NAME": "夹击",
+    "DESCRIPTIONS": [
+      "从后方受到的伤害增加 #b50% 。用可选定目标的牌和药水可以改变你的朝向。"
+    ]
+  },
+  "BackAttack": {
+    "NAME": "后方攻击",
+    "DESCRIPTIONS": [
+      "因为从后方对你攻击，造成的伤害增加 #b50% 。"
     ]
   }
 }
