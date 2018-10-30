@@ -1,13 +1,13 @@
 Updates for Translators!
-
-10-28-2018v2
-ui.json
-	"RewardItem"
-		"Emerald Key",
-		"Sapphire Key",
-		"Linked",
-		"Obtaining this will remove ",
-		"."
+10-29-2018
+credits.json (adding a name)
+	"LOC_DEU"
+		"Dustin \"Skrelpoid\" Kristen",
+		"Jonas Trodler",
+		->
+		"Dustin \"Skrelpoid\" Kristen",
+		"Christoph \"Deknud\" Hartmann",
+		"Jonas Trodler",
 
 ----------------------------------
 
@@ -26,6 +26,9 @@ achievements.json
 
 characters.json
 	"PostCreditsNeow"
+		"Now... what..? NL ..has it been... done....?",
+		"...the Spire sleeps..... NL So...... shall...",
+		"..I......."
 	"Merchant"
 		"OPTIONS"
 			"How did I get here? NL Beats me.",
@@ -57,12 +60,18 @@ potions.json
 
 powers.json
 	"BeatOfDeath"
+		"Whenever you play a card, take #b",
+		" damage and increase this powers damage by #b1. Resets every turn."
 	"Invincible"
+		"Caps ALL damage and HP loss taken to #b100."
 	"Surrounded"
+		"Receive #b50% more damage if attacked from behind. Use targetting cards or potions to change your orientation."
 	"BackAttack"
+		"Deals #b50% more damage as it is attacking you from behind."
 
 score_bonuses.json
 	"Heartbreaker"
+		"Defeat the Heart."
 
 ui.json
 	"RunHistoryMonsterNames"
@@ -70,8 +79,29 @@ ui.json
 	"SingleCardViewPopup"
 		"Beta Art"
 	"Recall Option"
+		"Recall",
+		"Obtain the Ruby Key."
 	"VictoryScreen"
+		"Proceed",
+		"Floors Climbed",
+		"Bosses Defeated",
+		"Play Time",
+		"Score",
+		"Unlock",
+		"Unlocks Remaining: ",
+		"Unlock Remaining: ",
+		"Enemies Slain",
+		"Elites Killed",
+		"Unspent Gold",
+		"HP Bonus",
+		"Victory!"
 	"TheEnding"
+		"RewardItem"
+		"Emerald Key",
+		"Sapphire Key",
+		"Linked",
+		"Obtaining this will remove ",
+		"."
 
 ----------------------------------
 
