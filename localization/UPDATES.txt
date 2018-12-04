@@ -1,4 +1,30 @@
 Updates for Translators!
+12-04-2018
+run_mods.json
+	"MonsterHunter"
+		"NAME": "Colossus",
+		->
+		"NAME": "[DEPRECATED] Colossus",
+relics.json
+	"Emotion Chip"
+		"Whenever you lose HP, trigger the passive ability of all your Orbs at the start of your next turn."
+		->
+		"If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn."
+
+----------------------------------
+
+11-16-2018
+credits.json
+	"LOC_IND"
+		"Jason Julian"
+
+	"LOC_ITA"
+		"Hob",
+		->
+		"Jade \"HobNob\" Stevanovic",
+
+----------------------------------
+
 11-13-2018
 cards.json
 	"Regret"
@@ -15,7 +41,6 @@ cards.json
 		"DESCRIPTION": "Apply !M! Poison. NL When the enemy dies, deal damage equal to its max HP to ALL enemies.",
 		->
 		"DESCRIPTION": "Apply !M! Poison. NL When the enemy dies, deal damage equal to its Max HP to ALL enemies.",
-
 
 ----------------------------------
 
