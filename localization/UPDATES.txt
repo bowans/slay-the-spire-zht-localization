@@ -1,4 +1,76 @@
 Updates for Translators!
+12-06-2018
+powers.json
+	"Strength"
+		"Decrease attack damage by #b",
+		->
+		"Decreases attack damage by #b",
+
+	"Plated Armor"
+		"At the end of your turn, gains #b",
+		->
+		"At the end of its turn, gains #b",
+
+	"Magnetism"
+		"At the start of your turn, add #b%s random colorless card into your hand.",
+		"At the start of your turn, add #b%s random colorless cards into your hand."
+		->
+		"At the start of your turn, add #b%s random Colorless card into your hand.",
+		"At the start of your turn, add #b%s random Colorless cards into your hand."
+
+credits.json
+	"LOC_DUT"
+
+ui.json
+	"LanguageDropdown"
+		"Dutch"
+
+----------------------------------
+
+12-05-2018
+relics.json
+	"Old Coin"
+		"FLAVOR": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.",
+		->
+		"FLAVOR": "Unique coins are highly valued by merchants for their historical value and rare metallic composition.",
+
+	"Smiling Mask"
+		"FLAVOR": "Mask worn by the merchant. He must have spares...",
+		->
+		"FLAVOR": "Mask worn by the Merchant. He must have spares...",
+
+		"The merchant's card removal service now always costs #b",
+		->
+		"The Merchant's card removal service now always costs #b",
+
+	"The Courier"
+		"FLAVOR": "The merchant's personal pet!",
+		->
+		"FLAVOR": "The Merchant's personal pet!",
+
+		"The merchant restocks cards, relics, or potions. All prices are reduced by #b20%."
+		->
+		"The Merchant restocks cards, relics, and potions. All prices are reduced by #b20%."
+
+ui.json
+	"Legend"
+		"A mysterious merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
+		->
+		"The mysterious Merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
+
+	"DiscardPileToHandAction"
+		"Select a card to return to your hand."
+		->
+		"Select a Card to Return to Your Hand."
+
+	"ExhumeAction"
+		"Select a Card to Return to your Hand"
+		->
+		"Select a Card to Return to Your Hand"
+
+NOTE: Other extraneous double spaces and misc capitalization fixes were also done.
+----------------------------------
+
 12-04-2018
 run_mods.json
 	"MonsterHunter"
