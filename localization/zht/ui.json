@@ -987,7 +987,7 @@
       "#b升級 %s",
       "#b變化 %s",
       "#r失去 %s",
-      "#bRecalled"
+      "#b回憶 "
     ]
   },
   "RunHistoryScreen": {
@@ -1303,6 +1303,14 @@
       "已解鎖寂靜獵手卡牌的測試玩家繪製畫風！",
       "已解鎖故障機器人卡牌的測試玩家繪製畫風！",
       "已解鎖所有角色的測試玩家繪製畫風！"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Daily - Floor %s",
+      "Custom - Floor %s",
+      " - Floor %s",
+      "Main Menu"
     ]
   }
 }
