@@ -327,7 +327,8 @@
       "每日特效： ",
       "排行榜",
       "*每日挑戰中無法解鎖成就。",
-      "  [離線模式]"
+      "  [離線模式]",
+      "yyyy/MM/dd"
     ]
   },
   "DeathScreen": {
@@ -832,7 +833,10 @@
       "測試玩家繪製畫風模式",
       "顯示快速選牌按鍵",
       "操作設置",
-      "關閉粒子效果"
+      "關閉粒子效果",
+      "Resolution:",
+      "Resolution: NL Fullscreen Monitor:",
+      "Changes which monitor is utilized when Fullscreen."
     ]
   },
   "PatchNotesScreen": {
@@ -1027,7 +1031,8 @@
       "僅進階模式",
       "僅每日挑戰模式",
       "種子編號： %s",
-      "自定種子編號： %s"
+      "自定種子編號： %s",
+      "yyyy/M/d, h:mm a"
     ]
   },
   "SeedPanel": {
