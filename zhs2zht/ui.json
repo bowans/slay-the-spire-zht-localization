@@ -682,7 +682,7 @@
       "名字",
       "分數",
       "正在獲取數據……",
-      "排行榜（註：將每週清空重設）",
+      "排行榜",
       "沒有連接到Steam",
       "還沒有分數 \n 還不去爬個塔先！"
     ]
@@ -834,9 +834,9 @@
       "顯示快速選牌按鍵",
       "操作設置",
       "關閉粒子效果",
-      "Resolution:",
-      "Resolution: NL Fullscreen Monitor:",
-      "Changes which monitor is utilized when Fullscreen."
+      "解析度：",
+      "解析度： NL 全螢幕顯示器：",
+      "改變全螢幕模式時遊戲位於哪個顯示器。"
     ]
   },
   "PatchNotesScreen": {
@@ -1032,7 +1032,7 @@
       "僅每日挑戰模式",
       "種子編號： %s",
       "自定種子編號： %s",
-      "yyyy/M/d, h:mm a"
+      "yyyy/M/d, HH:mm"
     ]
   },
   "SeedPanel": {
