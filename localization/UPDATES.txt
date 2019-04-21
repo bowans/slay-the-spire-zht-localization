@@ -1,4 +1,24 @@
 Updates for Translators!
+04-20-2019
+	tutorials.json
+		NOTE: Moved several PC-only tips from "Random Tips" to "PC Tips". Keep in mind that some of them weren't PC-only but they were in the eng one and apparently we need the array sizes to match for now... These were moved for each language.
+
+		"PC Tips"
+	ui.json
+		NOTE: The following strings were translated in each language supported in consoles but not very well. Please verify your language for quality assurance! These strings are only seen on console builds.
+
+		"MenuPanels"
+			"Change your controls.",
+			"Change your graphics, audio, and gameplay preferences."
+		"DailyScreen"
+			"*Trophies are off for Daily Climb."
+		"SeedPanel"
+			"*Trophies and Leaderboards are disabled if a custom Seed is used."
+		"CustomModeScreen"
+			"Trophies and Leaderboards are off."
+
+----------------------------------
+
 04-04-2019
 	ui.json
 		"Leaderboards (NOTE: Will be reset weekly)",

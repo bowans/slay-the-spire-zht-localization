@@ -333,7 +333,8 @@
       "Leaderboards",
       "*Achievements are off for Daily Climb.",
       "  [OFFLINE MODE]",
-      "MMMM dd, yyyy"
+      "MMMM dd, yyyy",
+      "*Trophies are off for Daily Climb."
     ]
   },
   "DeathScreen": {
@@ -810,8 +811,10 @@
       "Unknown",
       "Play a Daily Climb to unlock this game mode.",
       "This feature is not yet available.",
-	  "Custom",
-	  "Customize your own run with unique modifiers."
+      "Custom",
+      "Customize your own run with unique modifiers.",
+      "Change your controls.",
+      "Change your graphics, audio, and gameplay preferences."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1098,7 +1101,8 @@
       "Enter a new Seed",
       "Confirm",
       "Cancel",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "*Achievements and Leaderboards are disabled if a custom Seed is used.",
+      "*Trophies and Leaderboards are disabled if a custom Seed is used."
     ]
   },
   "SettingsScreen": {
@@ -1266,7 +1270,8 @@
       "Ascension Mode",
       "Modifiers",
       "Seed",
-      "Set Seed"
+      "Set Seed",
+      "Trophies and Leaderboards are off."
     ]
   },
   "SaveSlot": {

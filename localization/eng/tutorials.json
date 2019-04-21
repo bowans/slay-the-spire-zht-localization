@@ -125,19 +125,11 @@
       "There is always a rest site before a boss.",
       "Spend gold at shops! (Tip paid for by Merchant)",
       "Take a break every now and then.",
-      "You can right click cards on the card reward screen to see extra info.",
       "Percentage-based calculations always round down at the end.",
       "During combat, you can view the contents of your draw and discard piles.",
-      "Useful information can be revealed by hovering over most objects.",
-      "Toggle tips on/off by clicking on the ? button in the top right corner.",
-      "Right click will release any cards you are dragging.",
-      "Hover over an enemy to see their name and Power information.",
-      "Use the scroll wheel or click and drag the screen to scroll.",
-      "If you can inspect an item, your cursor will become a magnifying glass.",
       "There is no limit to how many relics you can carry.",
       "Chests will always drop a relic.",
       "Every path you take will always have at least 1 treasure room.",
-      "Use the scrollwheel or click and drag to scroll maps, card screens, and others.",
       "Elite enemies will always drop a relic.",
       "You will never see the same relic twice in one run.",
       "Uncommon cards have a blue frame and banner.",
@@ -154,10 +146,23 @@
       "The card removal service increases in price whenever you use it.",
       "The card removal service can only be used once at each shop.",
       "Damage from potions, relics, and powers are not considered attack damage.",
-	  "Effects that generate random cards during combat will never heal you."
+	    "Effects that generate random cards during combat will never heal you."
     ],
     "LABEL": [
       "You can discard potions to make room for others."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "You can right click cards on the card reward screen to see extra info.",
+      "Useful information can be revealed by hovering over most objects.",
+      "Right click will release any cards you are dragging.",
+      "Hover over an enemy to see their name and Power information.",
+      "Use the scroll wheel or click and drag the screen to scroll.",
+      "If you can inspect an item, your cursor will become a magnifying glass.",
+      "Use the scrollwheel or click and drag to scroll maps, card screens, and others."
+    ],
+    "LABEL": [
     ]
   },
   "Relic Tip": {
