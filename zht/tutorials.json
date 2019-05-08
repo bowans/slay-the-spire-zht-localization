@@ -1,7 +1,8 @@
 {
   "Discard Tip": {
     "TEXT": [
-      "如果你的抽牌堆空了，你的棄牌堆將會在洗牌後重新放入抽牌堆 NL NL 點擊這裡可以查看棄牌堆中的牌"
+      "如果你的抽牌堆空了，你的棄牌堆將會在洗牌後重新放入抽牌堆 NL NL 點擊這裡可以查看棄牌堆中的牌",
+      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL View the cards in your discard pile."
     ],
     "LABEL": [
       "棄牌堆"
@@ -11,7 +12,9 @@
     "TEXT": [
       "在每回合的開始，你會從這裡抽 #b",
       " 張牌 NL NL 點擊這裡就會顯示在你抽牌堆中的牌（但在這裡看到的順序是被打亂的，且按稀有度排序）",
-      " 張牌 NL NL 點擊這裡就會顯示在你抽牌堆中的牌"
+      " 張牌 NL NL 點擊這裡就會顯示在你抽牌堆中的牌",
+      " cards are drawn from here. NL NL View the cards in your draw pile (shuffled).",
+      " cards are drawn from here. NL NL View the cards in your draw pile."
     ],
     "LABEL": [
       "抽牌堆"
@@ -44,7 +47,8 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "點擊這裡查看所有在本場戰鬥中被 消耗 的牌"
+      "點擊這裡查看所有在本場戰鬥中被 消耗 的牌",
+      "View cards Exhausted this combat."
     ],
     "LABEL": [
       "被 消耗 的牌"
@@ -179,7 +183,8 @@
   },
   "Rewards Tip": {
     "TEXT": [
-      "不要忘記你的獎勵！ NL 只要點擊它們就可以獲得了。"
+      "不要忘記你的獎勵！ NL 只要點擊它們就可以獲得了。",
+      "Don't forget your rewards!"
     ],
     "LABEL": [
       "獎勵"

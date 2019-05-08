@@ -1,7 +1,8 @@
 {
   "Discard Tip": {
     "TEXT": [
-      "如果你的抽牌堆空了，你的弃牌堆将会被打乱后重新放入抽牌堆。 NL NL 点击这里可以查看弃牌堆中的牌。"
+      "如果你的抽牌堆空了，你的弃牌堆将会被打乱后重新放入抽牌堆。 NL NL 点击这里可以查看弃牌堆中的牌。",
+      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL View the cards in your discard pile."
     ],
     "LABEL": [
       "弃牌堆"
@@ -11,7 +12,9 @@
     "TEXT": [
       "在每回合的开始，你会从这里抽 #b",
       " 张牌。 NL NL 点击这里就会显示在你抽牌堆中的牌（但在这里看到的顺序是被打乱的，且按稀有度排序）。",
-      " 张牌。 NL NL 点击这里就会显示在你抽牌堆中的牌。"
+      " 张牌。 NL NL 点击这里就会显示在你抽牌堆中的牌。",
+      " cards are drawn from here. NL NL View the cards in your draw pile (shuffled).",
+      " cards are drawn from here. NL NL View the cards in your draw pile."
     ],
     "LABEL": [
       "抽牌堆"
@@ -44,7 +47,8 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "点击这里查看所有在本场战斗中被 消耗 的牌。"
+      "点击这里查看所有在本场战斗中被 消耗 的牌。",
+      "View cards Exhausted this combat."
     ],
     "LABEL": [
       "被 消耗 的牌"
@@ -74,7 +78,7 @@
   "Options Tip": {
     "TEXT": [
       "一些游玩数据和错误报告会被发送给制作组，作为平衡的依据。 NL NL 任何关于您身份的信息都不会被收集。",
-      "本游戏在全屏模式下运行最快。在macOS系统下推荐用这一方式，因为这样可以隐藏Dock栏和菜单。 NL 注: 在PC上，你可能会无法用Alt-Tab键切换到全屏模式下的游戏。",
+      "本游戏在全屏模式下运行最快。在macOS系统下推荐用这一方式，因为这样可以隐藏Dock栏和菜单。 NL 注：在PC上，你可能会无法用Alt-Tab键切换到全屏模式下的游戏。",
       "因为游戏使用的系统资源并不多，所以如果你想要经常Alt-Tab的话，我们推荐使用无边框全屏模式。在PC上这一模式最为适合。",
       "注：如果打开垂直同步，那么最高帧数无法超过你显示器的刷新频率。",
       "该屏幕未能完成对控制器的支持。"
@@ -154,7 +158,7 @@
   },
   "PC Tips": {
     "TEXT": [
-      "没有敌人会连续3回合进行完全相同的行动。",
+      "在卡牌奖励画面右键点击卡牌可以看到额外信息。",
       "将鼠标悬停在大部分对象上都可以看到有用的情报。",
       "在拖动卡牌时，点击右键就可以取消选择这张牌。",
       "悬停在敌人身上，可以查看他们的名字和能力的信息。",
@@ -179,7 +183,8 @@
   },
   "Rewards Tip": {
     "TEXT": [
-      "不要忘记你的奖励！ NL 只要点击它们就可以获得了。"
+      "不要忘记你的奖励！ NL 只要点击它们就可以获得了。",
+      "Don't forget your rewards!"
     ],
     "LABEL": [
       "奖励"

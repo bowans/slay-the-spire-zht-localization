@@ -1,4 +1,17 @@
 Updates for Translators!
+05-07-2019
+	tutorials.json
+		"Discard Tip"
+			 "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL View the cards in your discard pile."
+		"Draw Tip"
+			" cards are drawn from here. NL NL View the cards in your draw pile (shuffled).",
+			" cards are drawn from here. NL NL View the cards in your draw pile."
+		"Exhaust Tip"
+			"View cards Exhausted this combat."
+		"Rewards Tip"
+			"Don't forget your rewards!"
+
+----------------------------------
 04-20-2019
 	tutorials.json
 		NOTE: Moved several PC-only tips from "Random Tips" to "PC Tips". Keep in mind that some of them weren't PC-only but they were in the eng one and apparently we need the array sizes to match for now... These were moved for each language.

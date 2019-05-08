@@ -1,7 +1,8 @@
 {
   "Discard Tip": {
     "TEXT": [
-      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL Click to view the cards in your discard pile."
+      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL Click to view the cards in your discard pile.",
+      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL View the cards in your discard pile."
     ],
     "LABEL": [
       "Discard Pile"
@@ -11,7 +12,9 @@
     "TEXT": [
       "At the start of each turn, NL #b",
       " cards are drawn from here. NL NL Click to view the cards in your draw pile (shuffled).",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile."
+      " cards are drawn from here. NL NL Click to view the cards in your draw pile.",
+      " cards are drawn from here. NL NL View the cards in your draw pile (shuffled).",
+      " cards are drawn from here. NL NL View the cards in your draw pile."
     ],
     "LABEL": [
       "Draw Pile"
@@ -44,7 +47,8 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Click to view cards Exhausted this combat."
+      "Click to view cards Exhausted this combat.",
+      "View cards Exhausted this combat."
     ],
     "LABEL": [
       "Exhausted Cards"
@@ -180,7 +184,8 @@
   },
   "Rewards Tip": {
     "TEXT": [
-      "Don't forget your rewards! NL Just click on them to pick them up."
+      "Don't forget your rewards! NL Just click on them to pick them up.",
+      "Don't forget your rewards!"
     ],
     "LABEL": [
       "Rewards"
