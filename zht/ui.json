@@ -147,6 +147,13 @@
       " 回合"
     ]
   },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Choose a Card to Put into Your Hand.",
+      "Choose ",
+      " Cards to Put into Your Hand."
+    ]
+  },
   "BossChest": {
     "TEXT": [
       "前進"
@@ -206,7 +213,8 @@
       "類型",
       "A-Z",
       "耗能",
-      "定位："
+      "定位：",
+      "Obtained"
     ]
   },
   "CardLibraryScreen": {

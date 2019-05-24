@@ -1,4 +1,17 @@
 Updates for Translators!
+05-23-2019
+	ui.json
+		"BetterToHandAction"
+		"CardLibSortHeader"
+			"Obtained"
+	events.json
+		"Vampires"
+			"% #rMax #rHP.",
+		"Ghosts"
+			"% #rMax #rHP.",
+
+----------------------------------
+	
 05-07-2019
 	tutorials.json
 		"Discard Tip"
@@ -12,6 +25,7 @@ Updates for Translators!
 			"Don't forget your rewards!"
 
 ----------------------------------
+
 04-20-2019
 	tutorials.json
 		NOTE: Moved several PC-only tips from "Random Tips" to "PC Tips". Keep in mind that some of them weren't PC-only but they were in the eng one and apparently we need the array sizes to match for now... These were moved for each language.

@@ -244,7 +244,7 @@
     ],
     "OPTIONS": [
       "[Accept] #gReceive #g5 Apparition. #rLose #r",
-      "% #rMax #rHP.",
+      " #rMax #rHP.",
       "[Refuse]",
       "[Accept] #gReceive #g3 Apparition. #rLose #r",
       "",
@@ -725,7 +725,7 @@
     ],
     "OPTIONS": [
       "[Accept] #gRemove #gall Strikes. #gReceive #g5 Bites. #rLose #r",
-      "% #rMax #rHP.",
+      " #rMax #rHP.",
       "[Refuse]",
       "[Lose ",
       "] #gRemove #gall Strikes. #gReceive #g5 Bites.",

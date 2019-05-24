@@ -2,7 +2,7 @@
   "Discard Tip": {
     "TEXT": [
       "如果你的抽牌堆空了，你的弃牌堆将会被打乱后重新放入抽牌堆。 NL NL 点击这里可以查看弃牌堆中的牌。",
-      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL View the cards in your discard pile."
+      "如果你的抽牌堆空了，你的弃牌堆将会被打乱后重新放入抽牌堆。 NL NL 查看弃牌堆中的牌。"
     ],
     "LABEL": [
       "弃牌堆"
@@ -11,10 +11,10 @@
   "Draw Tip": {
     "TEXT": [
       "在每回合的开始，你会从这里抽 #b",
-      " 张牌。 NL NL 点击这里就会显示在你抽牌堆中的牌（但在这里看到的顺序是被打乱的，且按稀有度排序）。",
-      " 张牌。 NL NL 点击这里就会显示在你抽牌堆中的牌。",
-      " cards are drawn from here. NL NL View the cards in your draw pile (shuffled).",
-      " cards are drawn from here. NL NL View the cards in your draw pile."
+      " 张牌。 NL NL 点击这里查看你抽牌堆中的牌（但在这里看到的顺序是被打乱的）。",
+      " 张牌。 NL NL 点击这里查看你抽牌堆中的牌。",
+      " 张牌。 NL NL 查看你抽牌堆中的牌（但在这里看到的顺序是被打乱的）。",
+      " 张牌。 NL NL 查看你抽牌堆中的牌。"
     ],
     "LABEL": [
       "抽牌堆"
@@ -48,7 +48,7 @@
   "Exhaust Tip": {
     "TEXT": [
       "点击这里查看所有在本场战斗中被 消耗 的牌。",
-      "View cards Exhausted this combat."
+      "查看所有在本场战斗中被 消耗 的牌。"
     ],
     "LABEL": [
       "被 消耗 的牌"
@@ -184,7 +184,7 @@
   "Rewards Tip": {
     "TEXT": [
       "不要忘记你的奖励！ NL 只要点击它们就可以获得了。",
-      "Don't forget your rewards!"
+      "不要忘记你的奖励！"
     ],
     "LABEL": [
       "奖励"
