@@ -731,8 +731,8 @@
   },
   "Malaise": {
     "NAME": "萎靡",
-    "DESCRIPTION": "消費所有 [G] 。 NL 敵人失去X點 力量 ，給予X層 虛弱 。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "消費所有 [G] 。 NL 敵人失去X+1點 力量 ，給予X+1層 虛弱 。 NL 消耗 "
+    "DESCRIPTION": "敵人失去X點 力量 ，給予X層 虛弱 。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "敵人失去X+1點 力量 ，給予X+1層 虛弱 。 NL 消耗 "
   },
   "Master of Strategy": {
     "NAME": "戰略大師",
@@ -1016,7 +1016,7 @@
   },
   "Skewer": {
     "NAME": "串刺",
-    "DESCRIPTION": "消費所有 [G] 。 NL 造成 !D! 點傷害X次"
+    "DESCRIPTION": "造成 !D! 點傷害X次"
   },
   "Skim": {
     "NAME": "快速檢索",
@@ -1209,7 +1209,7 @@
   },
   "Whirlwind": {
     "NAME": "旋風斬",
-    "DESCRIPTION": "消費所有 [R] 。 NL 對所有敵人造成 !D! 點傷害X次"
+    "DESCRIPTION": "對所有敵人造成 !D! 點傷害X次"
   },
   "White Noise": {
     "NAME": "白雜訊",
