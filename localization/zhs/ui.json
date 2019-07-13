@@ -125,7 +125,7 @@
       "17. 普通敌人的行动与能力变强。",
       "18. 精英敌人的行动与能力变强。",
       "19. Boss敌人的行动与能力变强。",
-      "（最大等级） 双重Boss。"
+      "20. （最大等级） 双重Boss。"
     ]
   },
   "AscensionTextEffect": {
@@ -849,7 +849,7 @@
       "分辨率：",
       "分辨率： NL 全屏显示器：",
       "改变全屏模式时游戏位于哪个显示器。",
-      "Long-press Confirmations"
+      "长按确认"
     ]
   },
   "PatchNotesScreen": {
@@ -1334,6 +1334,13 @@
       " - 第 %s 层",
       "主菜单",
       "（进阶%s）"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Press ",
+      " to Start",
+      "Switch Profile"
     ]
   }
 }
