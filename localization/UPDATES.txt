@@ -1,5 +1,81 @@
 Updates for Translators!
 
+09-03-2019
+cards.json
+	The following have an added asterisk in front of card keywords. Example: Shiv -> *Shiv to utilize card previews.
+		"Accuracy"
+		"Blade Dance"
+		"Cloak and Dagger"
+		"Immolate"
+		"Infinite Blades"
+		"Power Through"
+		"Steam Power"
+		"Storm of Steel"
+		"Turbo"
+		"Wild Stirke"
+
+	The word upgraded was not consistently capitalized. Is now fixed for:
+		"Searing Blow"
+		"Storm of Steel"
+
+	"Fiend Fire"
+		NOTE: Wording improvement
+	"Static Discharge"
+		NOTE: Wording improvement
+
+	Reworked cards
+		"Reprogram"
+		"Fire Breathing"
+
+	New cards
+		~90 new cards or so (They should have English descriptions).
+		NOTE: DEPRECATED cards don't need to be translated.
+
+stances.json (New file!)
+
+keywords.json
+	SHIV, BURN, VOID, and WOUND keywords are deprecated as we're utilizing card previews.
+
+characters.json
+	Just a little bit of character name stuff here
+
+events.json
+	"SensoryStone"
+	"Spire Heart"
+
+achievements.json
+	Two new achievements (for now!)
+		"Amethyst"
+		"Amethyst+"
+	No changes to previous achievements
+
+potions.json
+	"DuplicationPotion"
+	"FairyPotion"
+	"StancePotion"
+
+ui.json
+	"AbstractPlayer"
+	"CardLibraryScreen"
+	"CharacterOption"
+	"CharacterSelectScreen"
+	"ClarityAction"
+	"LeaderboardFilters"
+	"MenuPanels"
+	"PotionViewScreen"
+	"ReprogramAction"
+	"RunHistoryScreen"
+	"SignatureMoveMessage"
+
+relics.json
+	The following relics have been reworked
+		"WristBlade"
+		"Calling Bell"
+		"HoveringKite"
+	11 or so new relics can be found at the bottom of the file as well
+
+----------------------------------
+
 07-16-2019
 ui.json
 	"MiscConsoleStrings"

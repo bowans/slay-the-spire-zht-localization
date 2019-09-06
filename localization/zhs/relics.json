@@ -166,7 +166,7 @@
     "NAME": "召唤铃铛",
     "FLAVOR": "这个黑铁铃铛在你找到它时作响了3次，但现在它已经不再响了。",
     "DESCRIPTIONS": [
-      "获得 #b3 个 #r诅咒 和 #b3 件 #y遗物 。",
+      "获得一个独特的 #r诅咒 和 #b3 件 #y遗物 。",
       "铃铛鸣响……",
       "跳过奖励",
       "关闭"
@@ -1238,7 +1238,7 @@
     "NAME": "悬浮风筝",
     "FLAVOR": "风筝在战斗中飘浮在你的身旁，不知是何种神秘的力量让它能浮在空中。",
     "DESCRIPTIONS": [
-      "在每回合开始时获得 [G] ，并丢弃 #b2 张牌。"
+      "你在每回合第一次弃牌时，获得 [E] 。"
     ]
   },
   "Sling": {
@@ -1267,7 +1267,7 @@
     "NAME": "袖剑",
     "FLAVOR": "实用的暗杀工具。",
     "DESCRIPTIONS": [
-      "费用为0的 #y攻击牌 额外造成 #b3 点伤害。"
+      "费用为0的 #y攻击牌 额外造成 #b4 点伤害。"
     ]
   },
   "StoneCalendar": {
@@ -1355,6 +1355,116 @@
     "FLAVOR": "很帅气。",
     "DESCRIPTIONS": [
       "你在选择下一层的房间时有3次机会可以无视当前的路线。"
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "陶瓷小鱼",
+    "FLAVOR": "这些被精心上色的鱼儿被认为可以带来滚滚财源。",
+    "DESCRIPTIONS": [
+      "每次你往自己的牌组中加入一张卡牌时，获得 #b",
+      " #y金币 。"
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "打击木偶",
+    "FLAVOR": "被打得破破烂烂的。",
+    "DESCRIPTIONS": [
+      "名字中有“打击”的卡牌造成 #b",
+      " 点额外伤害。"
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "紫色莲花",
+    "FLAVOR": "远古的经书上记载着，“法力池”的水面上总是有许多这些花朵。",
+    "DESCRIPTIONS": [
+      "每次你离开 #y平静 时，获得一点额外 [E] 。"
+    ]
+  },
+  "SacredBark": {
+    "NAME": "神圣树皮",
+    "FLAVOR": "传说中来自于世界树上的一块树皮。",
+    "DESCRIPTIONS": [
+      "药水的效果翻倍。"
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "泪滴吊坠盒",
+    "FLAVOR": "盒子的主人双目失明，其中的东西无人知晓。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时处于 #y平静 。"
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "奴隶贩子颈环",
+    "FLAVOR": "锈蚀可憎的铁链。",
+    "DESCRIPTIONS": [
+      "在Boss战与精英战中，你在每回合开始时获得 [E] 。"
+    ]
+  },
+  "Akabeko": {
+    "NAME": "赤牛",
+    "FLAVOR": "“哞～”",
+    "DESCRIPTIONS": [
+      "你在每场战斗中的第一次攻击造成 #b",
+      " 点额外伤害"
+    ]
+  },
+  "Yang": {
+    "NAME": "阳",
+    "FLAVOR": "“于是太阳永远熄灭了，如同天幕在其之前坠下。”——佐罗斯",
+    "DESCRIPTIONS": [
+      "每回合中，你每次打出一张 #y攻击牌 ，获得 #b1 点临时 #y敏捷 。"
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "斗篷扣",
+    "FLAVOR": "设计简约但牢固。",
+    "DESCRIPTIONS": [
+      "在你的回合结束时，每有一张手牌获得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "Melange": {
+    "NAME": "美琅脂",
+    "FLAVOR": "来源不明的神秘沙子，气味有点像肉桂。",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时，将一张 #y奇迹 放入你的手牌。"
+    ]
+  },
+  "Yin": {
+    "NAME": "阴",
+    "FLAVOR": "无光则无暗，真的时这样吗？",
+    "DESCRIPTIONS": [
+      "每回合中，你每次打出一张 #y技能牌 ，获得 #b1 点临时 #y力量 。"
+    ]
+  },
+  "InkBottle": {
+    "NAME": "墨水瓶",
+    "FLAVOR": "每次用光，都会自动装满一种颜色不同的墨水。",
+    "DESCRIPTIONS": [
+      "你每打出 #b10 张牌，抽 #b1 张牌。"
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "钨合金棍",
+    "FLAVOR": "非常非常重。",
+    "DESCRIPTIONS": [
+      "在第 #b",
+      " 回合前，你在每回合开始时获得与回合数相等的 #y格挡 。"
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Holy Water",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add #b3 #yMiracles into your hand."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Pure Water",
+    "FLAVOR": "Filtered through fine sand and free of impurities.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a #yMiracle into your hand."
     ]
   }
 }

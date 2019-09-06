@@ -1011,5 +1011,221 @@
     "DESCRIPTIONS": [
       "因为从后方对你攻击，造成的伤害增加 #b50% 。"
     ]
+  },
+  "FreeAttackPower": {
+    "NAME": "免费攻击",
+    "DESCRIPTIONS": [
+      "你打出下一张的 #y攻击牌 无视耗能。",
+      "你打出下 #b",
+      " 张 #y攻击牌 无视耗能。"
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "复制",
+    "DESCRIPTIONS": [
+      "本回合你的下一张牌被打出两次。",
+      "本回合你的下 ",
+      " 张牌被打出两次。"
+    ]
+  },
+  "NoSkills": {
+    "NAME": "禁用技能",
+    "DESCRIPTIONS": [
+      "本回合你不能打出 #y技能牌 。"
+    ]
+  },
+  "Mastery": {
+    "NAME": "精通",
+    "DESCRIPTIONS": [
+      "每当你试图将 姿态 转换为你当前的 姿态 时，获得 #b",
+      " [B]。"
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "操控现实",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，在你的手牌中加入 #b",
+      " 。",
+      " 。",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+    ]
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Retribution",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #b",
+      " #yVigor."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "确立基础",
+    "DESCRIPTIONS": [
+      "每当有卡牌被 #y保留 时，将其耗能减少 #b",
+      "."
+    ]
+  },
+  "Controlled": {
+    "NAME": "处变不惊",
+    "DESCRIPTIONS": [
+      "每当你转换 #y姿态 时，获得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "FlowPower": {
+    "NAME": "DEPRECATED FlowPower",
+    "DESCRIPTIONS": [
+      "When you play an Attack, gain #b",
+      " temporary #yStrength. When you play a Skill, gain #b,",
+      " temporary #yDexterity."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "欧米伽",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，对所有敌人造成 ",
+      " 点伤害。"
+    ]
+  },
+  "Nirvana": {
+    "NAME": "涅槃",
+    "DESCRIPTIONS": [
+      "你每打出一张牌，就将其 #y升级 。"
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "脑部接入",
+    "DESCRIPTIONS": [
+      "在你的回合结束时， #y预见 "
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "战歌",
+    "DESCRIPTIONS": [
+      "你每回合抽到的第一张牌在该回合的耗能减少 #b",
+      " 。"
+    ]
+  },
+  "Grounded": {
+    "NAME": "DEPRECATED Grounded",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, enter #yCalm."
+    ]
+  },
+  "Mantra": {
+    "NAME": "真言",
+    "DESCRIPTIONS": [
+      "当你获得 #b",
+      " 层 #y真言 时，进入 #y神格 。"
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "打击提升",
+    "DESCRIPTIONS": [
+      "卡牌名中带有 #y打击 的牌造成 #b",
+      " 点额外伤害。"
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "DEPRECATED Joy",
+    "DESCRIPTIONS": [
+      "Ignore energy costs on the next card you play this turn.",
+      "Ignore energy costs on the next #b",
+      " cards you play this turn."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "顺应变化",
+    "DESCRIPTIONS": [
+      "每当你转换 #y姿态 时，抽 #b",
+      " 张牌。",
+      " 张牌。"
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "不能改变姿态",
+    "DESCRIPTIONS": [
+      "本回合不能改变姿态。"
+    ]
+  },
+  "Vault": {
+    "NAME": "腾跃",
+    "DESCRIPTIONS": [
+      "在你的下回合开始时受到 #b",
+      " 点伤害。"
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "格挡返还",
+    "DESCRIPTIONS": [
+      "当被你攻击时，你获得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "HotHot": {
+    "NAME": "Hot hot",
+    "DESCRIPTIONS": [
+      "While you are in #yWrath, deal #b",
+      " damage back whenever you receive attack damage."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "天人",
+    "DESCRIPTIONS": [
+      "在你的回合结束时，获得 #b",
+      " 层 #y多层护甲 。"
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "DEPRECATED Emotional Turmoil",
+    "DESCRIPTIONS": [
+      "At the start of your turn, enter a new random basic stance."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "Always Mad",
+    "DESCRIPTIONS": [
+      "No longer receive double damage while in #yWrath."
+    ]
+  },
+  "Collect": {
+    "NAME": "收集",
+    "DESCRIPTIONS": [
+      "在你的下回合开始时，获得 [W] [W] 。",
+      "在你的下 #b",
+      " 个回合开始时，获得 [W] [W] 。"
+    ]
+  },
+  "Condense": {
+    "NAME": "DEPRECATED Condense",
+    "DESCRIPTIONS": [
+      "You cannot take more than #b",
+      " from any attack."
+    ]
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Serenity",
+    "DESCRIPTIONS": [
+      "While you are in #yCalm, HP loss is reduced by #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "渎神者",
+    "DESCRIPTIONS": [
+      "在你的回合开始时死亡。"
+    ]
+  },
+  "Vigor": {
+    "NAME": "活力",
+    "DESCRIPTIONS": [
+      "你的下一次攻击造成 #b",
+      " 点额外伤害。"
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "虔信",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，获得 #b",
+      " 层 #y真言 。"
+    ]
   }
 }
