@@ -3,6 +3,8 @@ python:
     - 3.6
  
 script:
+    # remove "zhs", no need to valid zhs
+    - rm -r localization/zhs
     # remove original "zht"
     - rm -r localization/zht
     # copy "zht" into localization
