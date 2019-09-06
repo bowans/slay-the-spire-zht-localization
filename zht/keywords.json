@@ -257,53 +257,53 @@
     },
     "STANCE": {
       "NAMES": [
-        "stance",
+        "姿態",
         "stances"
       ],
-      "DESCRIPTION": "You can only have one stance at a time."
+      "DESCRIPTION": "你同一時間只能處於一種姿態"
     },
     "WRATH": {
       "NAMES": [
-        "wrath"
+        "憤怒"
       ],
-      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
+      "DESCRIPTION": "在這一 #y姿態 中，造成和受到雙倍攻擊傷害"
     },
     "CALM": {
       "NAMES": [
-        "calm"
+        "平靜"
       ],
-      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+      "DESCRIPTION": "離開這一 #y姿態 時，獲得 [W] [W] "
     },
     "DIVINITY": {
       "NAMES": [
-        "divinity"
+        "神格"
       ],
-      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+      "DESCRIPTION": "進入這一 #y姿態 時，獲得 [W] [W] [W] 。攻擊造成三倍傷害。在下回合開始時自動離開這一 #y姿態 "
     },
     "PRAYER": {
       "NAMES": [
-        "mantra",
+        "真言",
         "through violence"
       ],
-      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+      "DESCRIPTION": "當獲得 #b10 層 #y真言 時，進入 #y神格 "
     },
     "SCRY": {
       "NAMES": [
-        "scry"
+        "預見"
       ],
-      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
+      "DESCRIPTION": "檢視抽牌堆頂部的X張牌。可以丟棄其中任意數量的牌"
     },
     "REGEN": {
       "NAMES": [
-        "regen"
+        "再生"
       ],
-      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
+      "DESCRIPTION": "在回合結束時回復相應的生命值。再生每回合減少 #b1 "
     },
     "VIGOR": {
       "NAMES": [
-        "vigor"
+        "活力"
       ],
-      "DESCRIPTION": "Your next Attack deals additional damage."
+      "DESCRIPTION": "下一次攻擊造成額外傷害"
     }
   }
 }
