@@ -1335,7 +1335,7 @@
     "DESCRIPTION": "造成 !D! 点伤害。 NL 退出当前 姿态 。"
   },
   "Wisdom": {
-    "NAME": "Wisdom",
+    "NAME": "睿智",
     "DESCRIPTION": " 保留 。 NL 抽 !M! 张牌。 NL 消耗 。"
   },
   "Retribution": {
@@ -1467,7 +1467,7 @@
   },
   "Mastery": {
     "NAME": "精通",
-    "DESCRIPTION": "每当你试图将 姿态 转换为你当前的 姿态 时，获得 [B]。"
+    "DESCRIPTION": "每当你试图将 姿态 转换为你当前的 姿态 时，获得 [B] 。"
   },
   "Beta": {
     "NAME": "贝塔",
@@ -1513,12 +1513,12 @@
   },
   "Vigilance": {
     "NAME": "警惕",
-    "DESCRIPTION": "进入 平静 。 NL 抽 !M! 张牌.",
-    "UPGRADE_DESCRIPTION": "进入 平静 。 NL 抽 !M! 张牌."
+    "DESCRIPTION": "进入 平静 。 NL 抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "进入 平静 。 NL 抽 !M! 张牌。"
   },
   "PathToVictory": {
     "NAME": "取胜之道",
-    "DESCRIPTION": "抽一张牌，将其在本回合的耗能变为0。 NL 消耗 。",
+    "DESCRIPTION": "抽一张牌，将其在本回合的耗能变为0。	NL 消耗 。",
     "UPGRADE_DESCRIPTION": "抽一张牌，将其在本回合的耗能变为0。"
   },
   "Evaluate": {
@@ -1572,13 +1572,13 @@
   },
   "EmptyMind": {
     "NAME": "化智为空",
-    "DESCRIPTION": "退出当前 姿态 。 NL 抽 !M! 张牌.",
-    "UPGRADE_DESCRIPTION": "退出当前 姿态 。 NL 抽 !M! 张牌."
+    "DESCRIPTION": "退出当前 姿态 。 NL 抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "退出当前 姿态 。 NL 抽 !M! 张牌。"
   },
   "Miracle": {
     "NAME": "奇迹",
-    "DESCRIPTION": " 保留 。 NL 获得 [W]。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": " 保留 。 NL 获得 [W] [W]。 NL 消耗 。"
+    "DESCRIPTION": " 保留 。 NL 获得 [W] 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 获得 [W] [W] 。 NL 消耗 。"
   },
   "DevaForm": {
     "NAME": "天人形态",

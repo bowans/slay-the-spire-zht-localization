@@ -1433,7 +1433,7 @@
   },
   "Yin": {
     "NAME": "阴",
-    "FLAVOR": "无光则无暗，真的时这样吗？",
+    "FLAVOR": "无光则无暗，真的是这样吗？",
     "DESCRIPTIONS": [
       "每回合中，你每次打出一张 #y技能牌 ，获得 #b1 点临时 #y力量 。"
     ]
@@ -1454,17 +1454,17 @@
     ]
   },
   "HolyWater": {
-    "NAME": "Holy Water",
+    "NAME": "圣水",
     "FLAVOR": "TODO.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add #b3 #yMiracles into your hand."
+      "在每场战斗开始时，将 #b3 张 #y奇迹 放入你的手牌。"
     ]
   },
   "PureWater": {
-    "NAME": "Pure Water",
-    "FLAVOR": "Filtered through fine sand and free of impurities.",
+    "NAME": "至纯之水",
+    "FLAVOR": "用极细的沙粒过滤的水，去除了一切杂质。",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a #yMiracle into your hand."
+      "在每场战斗开始时，将一张 #y奇迹 放入你的手牌。"
     ]
   }
 }
