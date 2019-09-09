@@ -73,7 +73,8 @@
   "FairyPotion": {
     "NAME": "瓶中精灵",
     "DESCRIPTIONS": [
-      "不可使用。当你要被杀死时，免死并回复到最大生命值的 #b10% ，丢弃这瓶药水。"
+      "当你要被杀死时，免死并回复到最大生命值的 #b",
+      "% ，丢弃这瓶药水。"
     ]
   },
   "FearPotion": {
@@ -216,6 +217,18 @@
     "DESCRIPTIONS": [
       "给予 #b",
       " 层 #y虚弱 。"
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "复制药水",
+    "DESCRIPTIONS": [
+      "本回合你的下一张牌将被打出两次。"
+    ]
+  },
+  "StancePotion": {
+    "NAME": "姿态药水",
+    "DESCRIPTIONS": [
+      "进入 #y平静 或 #y愤怒 。"
     ]
   }
 }

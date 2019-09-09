@@ -73,7 +73,8 @@
   "FairyPotion": {
     "NAME": "瓶中精靈",
     "DESCRIPTIONS": [
-      "不可使用。當你要被殺死時，免死並回復到最大生命值的 #b10% ，丟棄這瓶藥水"
+      "不可使用。當你要被殺死時，免死並回復到最大生命值的 #b10% ，丟棄這瓶藥水",
+      "% of your Max HP instead and discard this potion."
     ]
   },
   "FearPotion": {
@@ -216,6 +217,18 @@
     "DESCRIPTIONS": [
       "給予 #b",
       " 層 #y虛弱"
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "複製藥水",
+    "DESCRIPTIONS": [
+      "本回合下1張牌將被打出2次"
+    ]
+  },
+  "StancePotion": {
+    "NAME": "姿態藥水",
+    "DESCRIPTIONS": [
+      "進入 #y平靜 或 #y憤怒 "
     ]
   }
 }
