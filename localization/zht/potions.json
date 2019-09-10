@@ -9,7 +9,8 @@
   "AttackPotion": {
     "NAME": "攻擊藥水",
     "DESCRIPTIONS": [
-      "從 #b3 張隨機 #y攻擊牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0"
+      "從 #b3 張隨機 #y攻擊牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
+      "Choose #b1 of #b3 random #yAttack cards and add #b2 to your hand, they cost #b0 this turn."
     ]
   },
   "Block Potion": {
@@ -149,7 +150,8 @@
   "PowerPotion": {
     "NAME": "能力藥水",
     "DESCRIPTIONS": [
-      "從 #b3 張隨機 #y能力牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0"
+      "從 #b3 張隨機 #y能力牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
+      "Choose #b1 of #b3 random #yPower cards and add #b2 to your hand, they cost #b0 this turn."
     ]
   },
   "Regen Potion": {
@@ -163,7 +165,8 @@
   "SkillPotion": {
     "NAME": "技能藥水",
     "DESCRIPTIONS": [
-      "從 #b3 張隨機 #y技能牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0"
+      "從 #b3 張隨機 #y技能牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
+      "Choose #b1 of #b3 random #ySkill cards and add #b2 to your hand, they cost #b0 this turn."
     ]
   },
   "SmokeBomb": {
@@ -220,15 +223,16 @@
     ]
   },
   "DuplicationPotion": {
-    "NAME": "Duplication Potion",
+    "NAME": "複製藥水",
     "DESCRIPTIONS": [
-      "This turn, your next card is played twice."
+      "本回合下1張牌將被打出2次",
+      "This turn, your next #b2 cards are played twice."
     ]
   },
   "StancePotion": {
-    "NAME": "Stance Potion",
+    "NAME": "姿態藥水",
     "DESCRIPTIONS": [
-      "Enter #yCalm or #yWrath."
+      "進入 #y平靜 或 #y憤怒 "
     ]
   }
 }

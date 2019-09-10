@@ -27,7 +27,7 @@
   },
   "All For One": {
     "NAME": "万物一心",
-    "DESCRIPTION": "造成 !D! 点伤害。 将弃牌堆中所有0耗能的牌放入你的手牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 将弃牌堆中所有0耗能的牌放入你的手牌。"
   },
   "All Out Attack": {
     "NAME": "全力攻击",
@@ -105,7 +105,7 @@
   },
   "Beam Cell": {
     "NAME": "光束射线",
-    "DESCRIPTION": "造成 !D! 点伤害，给予 !M! 层 易伤 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 易伤 。"
   },
   "Berserk": {
     "NAME": "狂暴",
@@ -369,7 +369,7 @@
   },
   "Demon Form": {
     "NAME": "恶魔形态",
-    "DESCRIPTION": "在每回合开始时获得 !M! 点 力量 。"
+    "DESCRIPTION": "在每回合开始时获得 NL !M! 点 力量 。"
   },
   "Die Die Die": {
     "NAME": "死吧死吧死吧",
@@ -483,7 +483,7 @@
   },
   "FTL": {
     "NAME": "超越光速",
-    "DESCRIPTION": "造成 !D! 点伤害。 如果你在这回合打出的牌数少于 !M! 张，抽一张牌。",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果你在这回合打出的牌数少于 !M! 张，抽一张牌。",
     "EXTENDED_DESCRIPTION": [
       " NL （已打出",
       " 张牌。）",
@@ -571,7 +571,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "遗传算法",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 每打出一次，这张牌在本局游戏中的格挡值永久性增加 !M! 。 NL 消耗 。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 每打出一次，这张牌在本局游戏中的格挡值永久性增加 !M! 。 NL 消耗 。"
   },
   "Ghostly": {
     "NAME": "灵体",
@@ -589,11 +589,11 @@
   },
   "Glass Knife": {
     "NAME": "玻璃刀刃",
-    "DESCRIPTION": "造成 !D! 点伤害两次。 这张牌每被打出一次，在本场战斗中其基础伤害减少2。"
+    "DESCRIPTION": "造成 !D! 点伤害两次。 NL 这张牌每被打出一次，在本场战斗中其基础伤害减少2。"
   },
   "Go for the Eyes": {
     "NAME": "眼部攻击",
-    "DESCRIPTION": "造成 !D! 点伤害。 如果目标敌人的意图是攻击，则给予其 !M! 层 虚弱 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果目标敌人的意图是攻击，则给予其 !M! 层 虚弱 。"
   },
   "Good Instincts": {
     "NAME": "优秀直觉",
@@ -692,7 +692,7 @@
   },
   "Juggernaut": {
     "NAME": "势不可当",
-    "DESCRIPTION": "每当你获得 格挡 时，对随机一名敌人造成 !M! 点伤害。"
+    "DESCRIPTION": "每当你获得 格挡 时， NL 对随机一名敌人造成 NL !M! 点伤害。"
   },
   "Leap": {
     "NAME": "飞跃",
@@ -1044,12 +1044,12 @@
   },
   "Static Discharge": {
     "NAME": "静电释放",
-    "DESCRIPTION": "每当你受到未被格挡的攻击伤害时， 生成 !M! 个 闪电 充能球。",
-    "UPGRADE_DESCRIPTION": "每当你受到未被格挡的攻击伤害时， 生成 !M! 个 闪电 充能球。"
+    "DESCRIPTION": "每当你受到未被格挡的攻击伤害时， 生成 !M! 个 NL 闪电 充能球。",
+    "UPGRADE_DESCRIPTION": "每当你受到未被格挡的攻击伤害时， 生成 !M! 个 NL 闪电 充能球。"
   },
   "Steam": {
     "NAME": "蒸汽护壁",
-    "DESCRIPTION": "获得 !B! 点 格挡 。这张牌每被打出一次，它在本场战斗中的基础 格挡 下降1。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 这张牌每被打出一次，它在本场战斗中的基础 格挡 下降1。"
   },
   "Steam Power": {
     "NAME": "超频",
@@ -1245,7 +1245,7 @@
   },
   "RitualDagger": {
     "NAME": "仪式匕首",
-    "DESCRIPTION": "造成 !D! 点伤害。 如果这张牌杀死敌人，它在本局游戏中的伤害永久性增加 !M! 。 NL 消耗 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死敌人，它在本局游戏中的伤害永久性增加 !M! 。 NL 消耗 。"
   },
   "Pride": {
     "NAME": "傲慢",
@@ -1253,15 +1253,15 @@
   },
   "PanicButton": {
     "NAME": "应急按钮",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 你在接下来 !M! 回合内无法再从卡牌中获得格挡。 NL 消耗 。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 你在接下来 !M! 回合内无法再从卡牌中获得格挡。 NL 消耗 。"
   },
   "Chrysalis": {
     "NAME": "结茧",
-    "DESCRIPTION": "在你的抽牌堆中加入 !M! 张随机技能牌。 他们在本场战斗中耗能为0。 NL 消耗 。"
+    "DESCRIPTION": "在你的抽牌堆中加入 NL !M! 张随机技能牌。 他们 NL 在本场战斗中耗能为0。 NL 消耗 。"
   },
   "Metamorphosis": {
     "NAME": "羽化",
-    "DESCRIPTION": "在你的抽牌堆中加入 !M! 张随机攻击牌。 他们在本场战斗中耗能为0。 NL 消耗 。"
+    "DESCRIPTION": "在你的抽牌堆中加入 NL !M! 张随机攻击牌。 他们 NL 在本场战斗中耗能为0。 NL 消耗 。"
   },
   "Mayhem": {
     "NAME": "乱战",
@@ -1344,8 +1344,8 @@
   },
   "FlowState": {
     "NAME": "流转",
-    "DESCRIPTION": "愤怒：进入 平静 。 NL 平静：进入 愤怒 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "愤怒：进入 平静 。 NL 平静：进入 愤怒 。"
+    "DESCRIPTION": "愤怒 ：进入 平静 。 NL 平静 ：进入 愤怒 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "愤怒 ：进入 平静 。 NL 平静 ：进入 愤怒 。"
   },
   "Swivel": {
     "NAME": "旋身",
@@ -1353,8 +1353,8 @@
   },
   "Wish": {
     "NAME": "许愿",
-    "DESCRIPTION": "选择你抽牌堆中的一张牌。 NL 将这张牌打出两次然后将其 消耗 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "选择你抽牌堆中的一张牌。 NL 将这张牌打出三次然后将其 消耗 。 NL 消耗 。"
+    "DESCRIPTION": "选择你抽牌堆中的一张牌。 将这张牌打出两次然后将其 消耗 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "选择你抽牌堆中的一张牌。 将这张牌打出三次然后将其 消耗 。 NL 消耗 。"
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1365,7 +1365,7 @@
     "DESCRIPTION": " 不能被打出 。 NL 当你抽到这张牌时，在你的手牌中加入 !M! 张 *奇迹 ，然后 消耗 。"
   },
   "ThroughViolence": {
-    "NAME": "Through Violence",
+    "NAME": "以暴易暴",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 消耗 。"
   },
   "Metaphysics": {
@@ -1375,8 +1375,8 @@
   },
   "Clarity": {
     "NAME": "明晰",
-    "DESCRIPTION": "检视你抽牌堆顶部的 !M! 张牌，将1张加入手牌。 NL 消耗 另一张。",
-    "UPGRADE_DESCRIPTION": "检视你抽牌堆顶部的 !M! 张牌，将1张加入手牌。 NL 消耗 其他牌。"
+    "DESCRIPTION": "检视你抽牌堆顶部的 NL  !M! 张牌，将1张加入手牌。 NL 消耗 另一张。",
+    "UPGRADE_DESCRIPTION": "检视你抽牌堆顶部的 NL  !M! 张牌，将1张加入手牌。 NL 消耗 其他牌。"
   },
   "WreathOfFlame": {
     "NAME": "火焰纹",
@@ -1450,7 +1450,7 @@
   },
   "FlyingSleeves": {
     "NAME": "流云飞袖",
-    "DESCRIPTION": " 保留 。NL 造成 !D! 点伤害两次。"
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害两次。"
   },
   "Wireheading": {
     "NAME": "脑部接入",
@@ -1509,7 +1509,7 @@
   },
   "WaveOfTheHand": {
     "NAME": "摆手",
-    "DESCRIPTION": "平静：给予 !M! 层 虚弱 。 NL 愤怒：给予 !M! 层 易伤 。"
+    "DESCRIPTION": "平静 ：给予 !M! 层 虚弱 。 NL 愤怒 ：给予 !M! 层 易伤 。"
   },
   "Vigilance": {
     "NAME": "警惕",
@@ -1614,7 +1614,7 @@
   },
   "Halt": {
     "NAME": "停顿",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 愤怒：获得 !M! 点额外格挡。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 愤怒 ：获得 !M! 点额外格挡。"
   },
   "CurseOfTheBell": {
     "NAME": "铃铛的诅咒",

@@ -1013,66 +1013,66 @@
     ]
   },
   "FreeAttackPower": {
-    "NAME": "Free Attack Power",
+    "NAME": "免費攻擊",
     "DESCRIPTIONS": [
-      "Ignore energy cost on the next #yAttack you play.",
-      "Ignore energy cost on the next #b",
-      " #yAttacks you play."
+      "打出下1張的 #y攻擊牌 無視耗能",
+      "打出下 #b",
+      " 張 #y攻擊牌 無視耗能"
     ]
   },
   "DuplicationPower": {
-    "NAME": "Duplication",
+    "NAME": "複製",
     "DESCRIPTIONS": [
-      "Your next card is played twice this turn.",
-      "Your next ",
-      " cards are played twice this turn."
+      "本回合下1張牌被打出2次。",
+      "本回合你的下 ",
+      " 張牌被打出2次"
     ]
   },
   "NoSkills": {
-    "NAME": "No Skills",
+    "NAME": "禁用技能",
     "DESCRIPTIONS": [
-      "You cannot play #ySkills this turn."
+      "本回合不能打出 #y技能牌 "
     ]
   },
   "Mastery": {
-    "NAME": "Mastery",
+    "NAME": "精通",
     "DESCRIPTIONS": [
-      "Whenever you attempt to switch Stances to your current Stance, gain #b",
-      " [B]."
+      "試圖將 姿態 轉換為當前的 姿態 時，獲得 #b",
+      " [B]"
     ]
   },
   "MasterRealityPower": {
-    "NAME": "Master Reality",
+    "NAME": "操控現實",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      "s into your hand.",
-      " into your hand.",
+      "在你的回合開始時，在手牌中加入 #b",
+      " 張 #y",
+      " ",
       "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
     ]
   },
   "Retribution": {
-    "NAME": "Retribution",
+    "NAME": "DEPRECATED Retribution",
     "DESCRIPTIONS": [
       "Whenever you lose HP, gain #b",
       " #yVigor."
     ]
   },
   "EstablishmentPower": {
-    "NAME": "Establishment",
+    "NAME": "確立基礎",
     "DESCRIPTIONS": [
-      "Whenever a card is #yRetained, lower its cost by #b",
-      "."
+      "每當有卡牌被 #y保留 時，將其耗能減少 #b",
+      ""
     ]
   },
   "Controlled": {
-    "NAME": "Controlled",
+    "NAME": "處變不驚",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, gain #b",
-      " #yBlock."
+      "轉換 #y姿態 時，獲得 #b",
+      " 點 #y格擋 "
     ]
   },
   "FlowPower": {
-    "NAME": "FlowPower",
+    "NAME": "DEPRECATED FlowPower",
     "DESCRIPTIONS": [
       "When you play an Attack, gain #b",
       " temporary #yStrength. When you play a Skill, gain #b,",
@@ -1080,53 +1080,53 @@
     ]
   },
   "OmegaPower": {
-    "NAME": "Omega Power",
+    "NAME": "歐米伽",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal ",
-      " damage to ALL enemies."
+      "在你的回合開始時，對所有敵人造成 ",
+      " 點傷害"
     ]
   },
   "Nirvana": {
-    "NAME": "Nirvana",
+    "NAME": "涅槃",
     "DESCRIPTIONS": [
-      "Whenever you play a card, #yUpgrade it."
+      "每打出一張牌，就將其 #y升級 "
     ]
   },
   "WireheadingPower": {
-    "NAME": "Wireheading",
+    "NAME": "腦部接入",
     "DESCRIPTIONS": [
-      "At the end of your turn, #yScry "
+      "在你的回合結束時， #y預見 "
     ]
   },
   "BattleHymn": {
-    "NAME": "Battle Hymn",
+    "NAME": "戰歌",
     "DESCRIPTIONS": [
-      "The first card you draw each turn has its cost reduced by #b",
-      " that turn."
+      "每回合抽到的第1張牌在該回合的耗能減少 #b",
+      ""
     ]
   },
   "Grounded": {
-    "NAME": "Grounded",
+    "NAME": "DEPRECATED Grounded",
     "DESCRIPTIONS": [
       "Whenever you play a #ySkill, enter #yCalm."
     ]
   },
   "Mantra": {
-    "NAME": "Mantra",
+    "NAME": "真言",
     "DESCRIPTIONS": [
-      "When you obtain #b",
-      " #yMantra, enter #yDivinity."
+      "當獲得 #b",
+      " 層 #y真言 時，進入 #y神格 "
     ]
   },
   "StrikeUp": {
-    "NAME": "Strike Up",
+    "NAME": "打擊提升",
     "DESCRIPTIONS": [
-      "Cards containing #yStrike deal #b",
-      " additional damage."
+      "卡牌名中帶有 #y打擊 的牌額外造成 #b",
+      " 點傷害"
     ]
   },
   "FreeToPlayPower": {
-    "NAME": "Joy",
+    "NAME": "DEPRECATED Joy",
     "DESCRIPTIONS": [
       "Ignore energy costs on the next card you play this turn.",
       "Ignore energy costs on the next #b",
@@ -1134,31 +1134,31 @@
     ]
   },
   "Adaptation": {
-    "NAME": "Adaptation",
+    "NAME": "順應變化",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, draw #b",
-      " card.",
-      " cards."
+      "轉換 #y姿態 時，抽 #b",
+      " 張牌",
+      " 張牌"
     ]
   },
   "CannotChangeStancePower": {
-    "NAME": "Cannot Change Stance",
+    "NAME": "不能改變姿態",
     "DESCRIPTIONS": [
-      "Cannot change your stance this turn."
+      "本回合不能改變姿態"
     ]
   },
   "Vault": {
-    "NAME": "Vault",
+    "NAME": "騰躍",
     "DESCRIPTIONS": [
-      "Receives #b",
-      " damage at the start of your next turn."
+      "在你的下回合開始時受到 #b",
+      " 點傷害"
     ]
   },
   "BlockReturnPower": {
-    "NAME": "Block Return",
+    "NAME": "格擋返還",
     "DESCRIPTIONS": [
-      "When attacked, you gain #b",
-      " #yBlock."
+      "每當被你攻擊時，你獲得 #b",
+      " 點 #y格擋 "
     ]
   },
   "HotHot": {
@@ -1169,14 +1169,14 @@
     ]
   },
   "AngelForm": {
-    "NAME": "Deva",
+    "NAME": "天人",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yPlated #yArmor."
+      "在你的回合結束時，獲得 #b",
+      " 層 #y多層護甲 "
     ]
   },
   "EmotionalTurmoilPower": {
-    "NAME": "Emotional Turmoil",
+    "NAME": "DEPRECATED Emotional Turmoil",
     "DESCRIPTIONS": [
       "At the start of your turn, enter a new random basic stance."
     ]
@@ -1188,44 +1188,44 @@
     ]
   },
   "Collect": {
-    "NAME": "Collect",
+    "NAME": "收集",
     "DESCRIPTIONS": [
-      "At the start of your next turn, gain [B] [B] .",
-      "At the start of your next #b",
-      " turns, gain [B] [B] ."
+      "在你的下回合開始時，獲得 [W] [W] ",
+      "在你的下 #b",
+      " 個回合開始時，獲得 [W] [W] "
     ]
   },
   "Condense": {
-    "NAME": "Condense",
+    "NAME": "DEPRECATED Condense",
     "DESCRIPTIONS": [
       "You cannot take more than #b",
       " from any attack."
     ]
   },
   "Serenity": {
-    "NAME": "Serenity",
+    "NAME": "DEPRECATED Serenity",
     "DESCRIPTIONS": [
       "While you are in #yCalm, HP loss is reduced by #b"
     ]
   },
   "EndTurnDeath": {
-    "NAME": "Blasphemer",
+    "NAME": "瀆神者",
     "DESCRIPTIONS": [
-      "At the start of your turn, die."
+      "在你的回合開始時死亡"
     ]
   },
   "Vigor": {
-    "NAME": "Vigor",
+    "NAME": "活力",
     "DESCRIPTIONS": [
-      "Your next Attack deals #b",
-      " additional damage."
+      "你的下一次攻擊額外造成 #b",
+      " 點傷害"
     ]
   },
   "DevotionPower": {
-    "NAME": "Devotion",
+    "NAME": "虔信",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
-      " #yMantra."
+      "在你的回合開始時，獲得 #b",
+      " 層 #y真言 "
     ]
   }
 }

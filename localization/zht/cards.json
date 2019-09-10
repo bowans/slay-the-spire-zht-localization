@@ -1294,10 +1294,10 @@
     "UPGRADE_DESCRIPTION": "從3張隨機牌中選擇1張加入手牌。該牌在本回合耗能變為0"
   },
   "SpiritShield": {
-    "NAME": "Spirit Shield",
-    "DESCRIPTION": "Gain !M! Block for each card in your hand.",
+    "NAME": "精神護盾",
+    "DESCRIPTION": "你每有一張手牌，獲得 !M! 點 格擋",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gain !B! Block.)"
+      " NL （獲得 !B! 點 格擋 ）"
     ]
   },
   "BrillianceAura": {
@@ -1305,236 +1305,236 @@
     "DESCRIPTION": "Exhaust. NL At the start of your turn, draw 1 card. NL Retains."
   },
   "Wrath": {
-    "NAME": "Wrath",
-    "DESCRIPTION": "Deal and receive double attack damage."
+    "NAME": "憤怒",
+    "DESCRIPTION": "造成和受到雙倍攻擊傷害"
   },
   "Polymath": {
     "NAME": "DEPRECATED Polymath",
-    "DESCRIPTION": "Enter Calm or Wrath. NL Exhaust."
+    "DESCRIPTION": "Enter Calm or Wrath. NL 消耗 "
   },
   "Tantrum": {
-    "NAME": "Tantrum",
-    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot leave Wrath for the remainder of the turn."
+    "NAME": "發洩",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 進入 憤怒 。 NL 你在本回合內不能離開 憤怒 "
   },
   "Adaptation": {
-    "NAME": "Adaptation",
-    "DESCRIPTION": "Whenever you switch Stances, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you switch Stances, draw !M! card."
+    "NAME": "順應變化",
+    "DESCRIPTION": "每當你轉換 姿態 時，抽 !M! 張牌",
+    "UPGRADE_DESCRIPTION": " 固有。 NL 每當你轉換 姿態 時，抽 !M! 張牌"
   },
   "Causality": {
-    "NAME": "Causality",
-    "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw cards until your hand is full. NL Retains. NL Exhaust."
+    "NAME": "因果始終",
+    "DESCRIPTION": "抽牌直到將手牌抽滿。 NL 消耗",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 抽牌直到將手牌抽滿。 NL 消耗 "
   },
   "Devotion": {
-    "NAME": "Devotion",
-    "DESCRIPTION": "At the start of your turn, gain !M! Mantra."
+    "NAME": "虔信",
+    "DESCRIPTION": "在你的回合開始時，獲得 !M! 層 真言 "
   },
   "EmptyFist": {
-    "NAME": "Empty Fist",
-    "DESCRIPTION": "Deal !D! damage. NL Exit your Stance."
+    "NAME": "化拳為空",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 退出當前 姿態 "
   },
   "Wisdom": {
-    "NAME": "Wisdom",
-    "DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust."
+    "NAME": "睿智",
+    "DESCRIPTION": " 保留 。 NL 抽 !M! 張牌。 NL 消耗 "
   },
   "Retribution": {
     "NAME": "DEPRECATED Retribution",
     "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
   },
   "FlowState": {
-    "NAME": "Flow State",
-    "DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath."
+    "NAME": "流轉",
+    "DESCRIPTION": "憤怒：進入 平靜 。 NL 平靜：進入 憤怒 。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "憤怒：進入 平靜 。 NL 平靜：進入 憤怒 "
   },
   "Swivel": {
-    "NAME": "Swivel",
-    "DESCRIPTION": "Gain !B! Block. NL The next Attack you play costs 0."
+    "NAME": "旋身",
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 你打出的下一張攻擊牌耗能變為0"
   },
   "Wish": {
-    "NAME": "Wish",
-    "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card three times and exhaust it. NL Exhaust."
+    "NAME": "許願",
+    "DESCRIPTION": "選擇抽牌堆中的一張牌。 NL 將這張牌打出兩次然後將其 消耗 。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "選擇抽牌堆中的一張牌。 NL 將這張牌打出三次然後將其 消耗 。 NL 消耗 "
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
     "DESCRIPTION": "Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength. Retains."
   },
   "DeusExMachina": {
-    "NAME": "Deus Ex Machina",
-    "DESCRIPTION": "Unplayable. NL When you draw this card, add !M! *Miracles to your hand and Exhaust."
+    "NAME": "機械降神",
+    "DESCRIPTION": " 無法打出 。 NL 當你抽到這張牌時，在手牌中加入 !M! 張 *奇蹟 ，然後 消耗 "
   },
   "ThroughViolence": {
     "NAME": "Through Violence",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaust."
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 消耗 "
   },
   "Metaphysics": {
-    "NAME": "Metaphysics",
-    "DESCRIPTION": "Shuffle a *Causality into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Causality into your draw pile. NL Exhaust."
+    "NAME": "形上謂道",
+    "DESCRIPTION": "將一張 *因果始終 放入抽牌堆中。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "將一張 已升級 的 *因果始終 放入抽牌堆中。 NL 消耗 "
   },
   "Clarity": {
-    "NAME": "Clarity",
-    "DESCRIPTION": "Look at the top !M! cards of your deck. Add 1 to your hand. NL Exhaust the other.",
-    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your deck. Add 1 to your hand. NL Exhaust the rest."
+    "NAME": "明晰",
+    "DESCRIPTION": "檢視抽牌堆頂部的 !M! 張牌，將1張加入手牌。 NL 消耗 另1張",
+    "UPGRADE_DESCRIPTION": "檢視抽牌堆頂部的 !M! 張牌，將1張加入手牌。 NL 消耗 其他牌"
   },
   "WreathOfFlame": {
-    "NAME": "Wreath of Flame",
-    "DESCRIPTION": "Your next Attack deals !M! additional damage."
+    "NAME": "火焰紋",
+    "DESCRIPTION": "你的下一張攻擊牌造成 !M! 點額外傷害"
   },
   "Flicker": {
     "NAME": "DEPRECATED Flicker",
-    "DESCRIPTION": "Deal !D! damage. If this kills the enemy, return this card to your hand."
+    "DESCRIPTION": "造成 !D! 點傷害。 If this kills the enemy, return this card to your hand."
   },
   "Alpha": {
-    "NAME": "Alpha",
-    "DESCRIPTION": "Shuffle a *Beta into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Shuffle a *Beta into your draw pile. NL Exhaust."
+    "NAME": "阿爾法",
+    "DESCRIPTION": "將1張 *貝塔 放入抽牌堆中。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 將1張 *貝塔 放入抽牌堆中。 NL 消耗 "
   },
   "FollowUp": {
-    "NAME": "Follow-Up",
-    "DESCRIPTION": "Deal !D! damage. NL If the previous card played was an Attack, gain [W]."
+    "NAME": "追擊",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果你打出的上1張牌是攻擊牌，獲得 [W] 。"
   },
   "Vault": {
-    "NAME": "Vault",
-    "DESCRIPTION": "Gain 1 Intangible and end your turn. NL At the start of your next turn, deal !D! damage. Exhaust."
+    "NAME": "騰躍",
+    "DESCRIPTION": "獲得1層 無實體 並結束你的回合。 NL 在你的下個回合開始時，造成 !D! 點傷害。 消耗 "
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Vigor."
+    "DESCRIPTION": "造成 !D! 點傷害。 NL Gain !M! Vigor."
   },
   "Wallop": {
-    "NAME": "Wallop",
-    "DESCRIPTION": "Deal !D! damage. NL Gain Block equal to unblocked damage dealt."
+    "NAME": "當頭棒喝",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 獲得與所造成的未被格擋的傷害相等的 格擋 "
   },
   "Consecrate": {
-    "NAME": "Consecrate",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+    "NAME": "供奉",
+    "DESCRIPTION": "對所有敵人造成 !D! 點傷害"
   },
   "Conclude": {
-    "NAME": "Conclude",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL End your turn."
+    "NAME": "結末",
+    "DESCRIPTION": "對所有敵人造成 !D! 點傷害。 NL 結束你的回合"
   },
   "MasterReality": {
-    "NAME": "Master Reality",
-    "DESCRIPTION": "Choose NL *Smite or *Safety. NL At the start of each turn add the chosen card to your hand."
+    "NAME": "操控現實",
+    "DESCRIPTION": "選擇 NL *懲惡 或 *平安 。 NL 在每回合開始時，將選擇的牌加入手牌。"
   },
   "CleanseEvil": {
-    "NAME": "Cleanse Evil",
-    "DESCRIPTION": "Add X *Smites to your hand.",
-    "UPGRADE_DESCRIPTION": "Add X Upgraded *Smites to your hand."
+    "NAME": "掃除邪惡",
+    "DESCRIPTION": "在手牌中加入 X 張 *懲惡 ",
+    "UPGRADE_DESCRIPTION": "在手牌中加入 X 張 已升級 的 *懲惡 "
   },
   "WindmillStrike": {
-    "NAME": "Windmill Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M!. NL Retains."
+    "NAME": "旋轉打擊",
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害。 NL 每當這張牌被 保留 時，將其傷害增加 !M! 點"
   },
   "Shield": {
     "NAME": "DEPRECATED Shield",
-    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Exhaust."
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 保留 。 NL 消耗 "
   },
   "LessonLearned": {
-    "NAME": "Lesson Learned",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, Upgrade a random card in your deck. Exhaust."
+    "NAME": "勤學精進",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果這張牌殺死了敵人，則 升級 牌組中的一張隨機牌。 消耗 "
   },
   "Calm": {
-    "NAME": "Calm",
-    "DESCRIPTION": "Upon exiting Calm, gain [W] [W]."
+    "NAME": "平靜",
+    "DESCRIPTION": "離開 平靜 時，獲得 [W] [W] "
   },
   "ThirdEye": {
-    "NAME": "Third Eye",
-    "DESCRIPTION": "Gain !B! Block. NL Scry !M!."
+    "NAME": "天眼",
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 預見 !M! "
   },
   "Survey": {
     "NAME": "DEPRECATED Survey",
-    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Vigor."
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL Gain !M! Vigor."
   },
   "FlyingSleeves": {
-    "NAME": "Flying Sleeves",
-    "DESCRIPTION": "Deal !D! damage twice. NL Retains."
+    "NAME": "流雲飛袖",
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害兩次"
   },
   "Wireheading": {
-    "NAME": "Wireheading",
-    "DESCRIPTION": "At the end of your turn, Scry !M!.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the end of your turn, Scry !M!."
+    "NAME": "腦部接入",
+    "DESCRIPTION": "在你的回合結束時， 預見 !M! ",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合結束時， 預見 !M! "
   },
   "Sanctity": {
-    "NAME": "Sanctity",
-    "DESCRIPTION": "Gain !B! Block. NL If the previous card played was a Skill, draw !M! card."
+    "NAME": "聖潔",
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 如果你打出的上一張牌是技能牌，抽 !M! 張牌"
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
-    "DESCRIPTION": "Gain !B! Block. NL At the start of your turn, gain !M! Block. NL Retains."
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL At the start of your turn, gain !M! Block. NL 保留 。"
   },
   "Mastery": {
-    "NAME": "Mastery",
-    "DESCRIPTION": "Whenever you attempt to switch Stances to your current Stance, gain [B]."
+    "NAME": "精通",
+    "DESCRIPTION": "每當你試圖將 姿態 轉換為你當前的 姿態 時，獲得 [B] 。"
   },
   "Beta": {
-    "NAME": "Beta",
-    "DESCRIPTION": "Add an *Omega to the bottom of your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add an Upgraded *Omega to the bottom of your draw pile. NL Exhaust."
+    "NAME": "貝塔",
+    "DESCRIPTION": "將1張 *歐米伽 放入抽牌堆底部。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "將1張 已升級 的 *歐米伽 放入抽牌堆底部。 NL 消耗 "
   },
   "FearNoEvil": {
-    "NAME": "Fear No Evil",
-    "DESCRIPTION": "Deal !D! damage. NL If the enemy intends to Attack, enter Calm."
+    "NAME": "不懼妖邪",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果目標敵人的意圖是攻擊，則進入 平靜 "
   },
   "Perseverance": {
-    "NAME": "Perseverance",
-    "DESCRIPTION": "Gain !B! Block. NL Whenever this card is Retained, increase its Block by !M!. NL Retains."
+    "NAME": "堅韌",
+    "DESCRIPTION": " 保留 。 NL 獲得 !B! 點 格擋 。 NL 每當這張牌被 保留 時，將其格擋增加 !M! 點"
   },
   "Ragnarok": {
-    "NAME": "Ragnarok",
-    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+    "NAME": "諸神黃昏",
+    "DESCRIPTION": "隨機對敵人造成 !D! 點傷害 !M! 次"
   },
   "AwakenedStrike": {
     "NAME": "DEPRECATED Awakened Strike",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "造成 !D! 點傷害"
   },
   "Blessed": {
     "NAME": "DEPRECATED Blessed",
-    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL Exhaust."
+    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL 消耗 "
   },
   "Eruption": {
-    "NAME": "Eruption",
-    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath."
+    "NAME": "暴怒",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 進入 憤怒 "
   },
   "LetFateDecide": {
     "NAME": "DEPRECATED Let Fate Decide",
     "DESCRIPTION": "Play the top X cards of your draw pile. If X is 3 or more, Retain X cards."
   },
   "CutThroughFate": {
-    "NAME": "Cut Through Fate",
-    "DESCRIPTION": "Deal !D! damage. NL Scry !M!. NL Draw 1 card."
+    "NAME": "斬破命運",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 預見 !M! 。 NL 抽1張牌"
   },
   "WaveOfTheHand": {
-    "NAME": "Wave of the Hand",
-    "DESCRIPTION": "Calm: Apply !M! Weak. NL Wrath: Apply !M! Vulnerable."
+    "NAME": "擺手",
+    "DESCRIPTION": "平靜：給予 !M! 層 虛弱 。 NL 憤怒：給予 !M! 層 易傷 "
   },
   "Vigilance": {
-    "NAME": "Vigilance",
-    "DESCRIPTION": "Enter Calm. NL Draw !M! cards.",
-    "UPGRADE_DESCRIPTION": "Enter Calm. NL Draw !M! cards."
+    "NAME": "警惕",
+    "DESCRIPTION": "進入 平靜 。 NL 抽 !M! 張牌",
+    "UPGRADE_DESCRIPTION": "進入 平靜 。 NL 抽 !M! 張牌"
   },
   "PathToVictory": {
-    "NAME": "Path to Victory",
-    "DESCRIPTION": "Draw a card and reduce its cost to 0 this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw a card and reduce its cost to 0 this turn."
+    "NAME": "取勝之道",
+    "DESCRIPTION": "抽1張牌，將其在本回合的耗能變為0。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "抽1張牌，將其在本回合的耗能變為0"
   },
   "Evaluate": {
-    "NAME": "Evaluate",
-    "DESCRIPTION": "Gain !B! Block. NL Shuffle 1 *Insight into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle 1 Upgraded *Insight into your draw pile."
+    "NAME": "評估",
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 在抽牌堆中加入1張 *洞見 。",
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 在抽牌堆中加入1張 已升級 的 *洞見 "
   },
   "Establishment": {
-    "NAME": "Establishment",
-    "DESCRIPTION": "Whenever a card is Retained, lower its cost by !M!.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever a card is Retained, lower its cost by !M!."
+    "NAME": "確立基礎",
+    "DESCRIPTION": "每當有卡牌被 保留 時，將其耗能減少 !M! ",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 每當有卡牌被 保留 時，將其耗能減少 !M! "
   },
   "Collect": {
-    "NAME": "Collect",
-    "DESCRIPTION": "Gain [W] [W] at the start of your next X turns. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain [W] [W] at the start of your next X+1 turns. NL Exhaust."
+    "NAME": "收集",
+    "DESCRIPTION": "在你的下X個回合開始時獲得 [W] [W] 。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "在你的下X+1個回合開始時獲得 [W] [W] 。 NL 消耗 "
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1542,260 +1542,260 @@
   },
   "PerfectedForm": {
     "NAME": "DEPRECATED Perfected Form",
-    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Exhaust.",
+    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL 消耗 ",
     "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
   },
   "JustLucky": {
-    "NAME": "Just Lucky",
-    "DESCRIPTION": "Scry !M!. NL Gain !B! Block. NL Deal !D! damage."
+    "NAME": "幸運一擊",
+    "DESCRIPTION": "預見 !M! 。 NL 獲得 !B! 點 格擋 。 NL 造成 !D! 點傷害"
   },
   "Torrent": {
     "NAME": "DEPRECATED Torrent",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Exhaust."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL 消耗 "
   },
   "Peace": {
-    "NAME": "Peace",
-    "DESCRIPTION": "ALL enemies lose !M! Strength this turn. NL Retains. NL Exhaust."
+    "NAME": "和睦",
+    "DESCRIPTION": " 保留 。 NL 所有敵人失去 !M! 力量 1回合。 NL 消耗 "
   },
   "PalmThatRestrains": {
     "NAME": "DEPRECATED Restraining Palm",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+    "DESCRIPTION": "造成 !D! 點傷害。 NL Apply !M! Weak."
   },
   "Protect": {
-    "NAME": "Protect",
-    "DESCRIPTION": "Gain !B! Block. NL Retains."
+    "NAME": "護身",
+    "DESCRIPTION": " 保留 。 NL 獲得 !B! 點 格擋 "
   },
   "Worship": {
-    "NAME": "Worship",
-    "DESCRIPTION": "Gain !M! Mantra.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Gain !M! Mantra."
+    "NAME": "敬拜",
+    "DESCRIPTION": "獲得 !M! 層 真言 ",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 獲得 !M! 層 真言 "
   },
   "EmptyMind": {
-    "NAME": "Empty Mind",
-    "DESCRIPTION": "Exit your Stance. NL Draw !M! cards.",
-    "UPGRADE_DESCRIPTION": "Exit your Stance. NL Draw !M! cards."
+    "NAME": "化智為空",
+    "DESCRIPTION": "退出當前 姿態 。 NL 抽 !M! 張牌",
+    "UPGRADE_DESCRIPTION": "退出當前 姿態 。 NL 抽 !M! 張牌"
   },
   "Miracle": {
-    "NAME": "Miracle",
-    "DESCRIPTION": "Gain [W]. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain [W] [W]. NL Retains. NL Exhaust."
+    "NAME": "奇蹟",
+    "DESCRIPTION": " 保留 。 NL 獲得 [W] 。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 獲得 [W] [W] 。 NL 消耗 "
   },
   "DevaForm": {
-    "NAME": "Deva Form",
-    "DESCRIPTION": "Gain !M! Plated Armor."
+    "NAME": "天人形態",
+    "DESCRIPTION": "獲得 !M! 層 多層護甲 "
   },
   "TalkToTheHand": {
-    "NAME": "Talk to the Hand",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever this enemy takes damage, gain !M! Block. NL Exhaust."
+    "NAME": "以手拒之",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 每當目標敵人受到攻擊時，你獲得 !M! 點格擋。 NL 消耗 "
   },
   "Strike_P": {
-    "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage."
+    "NAME": "打擊",
+    "DESCRIPTION": "造成 !D! 點傷害"
   },
   "Meditate": {
-    "NAME": "Meditate",
-    "DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm.",
-    "UPGRADE_DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm."
+    "NAME": "冥想",
+    "DESCRIPTION": "消耗至多 !M! 張牌。 NL 進入 平靜 ",
+    "UPGRADE_DESCRIPTION": "消耗至多 !M! 張牌。 NL 進入 平靜 "
   },
   "Nirvana": {
     "NAME": "Nirvana",
-    "DESCRIPTION": "Whenever you play a card, Upgrade it for the rest of combat.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a card, Upgrade it for the rest of combat."
+    "DESCRIPTION": "每打出1張牌，在本場戰鬥中這張牌被 升級 ",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 每打出1張牌，在本場戰鬥中這張牌被 升級 "
   },
   "DeceiveReality": {
-    "NAME": "Deceive Reality",
-    "DESCRIPTION": "Gain !B! Block. NL Choose NL *Safety or *Wisdom. NL Add the chosen card to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Choose Upgraded NL *Safety or *Wisdom. NL Add the chosen card to your hand."
+    "NAME": "欺瞞現實",
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 選擇 NL *平安 或 *睿智 。 NL 將選擇的牌加入手牌",
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 選擇 已升級 的 NL *平安 或 *睿智 。 NL 將選擇的牌加入手牌"
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
-    "DESCRIPTION": "Ethereal. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. If the previous card played was an Attack, return this card to your hand."
+    "DESCRIPTION": "Ethereal. NL 獲得 !B! 點 格擋 。 If the previous card played was an Attack, return this card to your hand.",
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 If the previous card played was an Attack, return this card to your hand."
   },
   "Halt": {
-    "NAME": "Halt",
-    "DESCRIPTION": "Gain !B! Block. NL Wrath: Gain !M! additional Block."
+    "NAME": "停頓",
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 憤怒：額外獲得 !M! 點格擋"
   },
   "CurseOfTheBell": {
-    "NAME": "Curse of the Bell",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+    "NAME": "鈴鐺的詛咒",
+    "DESCRIPTION": " 無法打出 。 NL 不能從牌組中移除"
   },
   "Brilliance": {
-    "NAME": "Brilliance",
-    "DESCRIPTION": "Gain [W] for each turn this card is Retained. NL Retains. NL Exhaust.",
+    "NAME": "光輝",
+    "DESCRIPTION": " 保留 。 NL 這張牌每被 保留 1回合，獲得1點 [W] 。 NL 消耗 ",
     "EXTENDED_DESCRIPTION": [
-      " NL (Retained !M! turns.)"
+      " NL （已保留 !M! 回合。）"
     ]
   },
   "ClearTheMind": {
-    "NAME": "Clear the Mind",
-    "DESCRIPTION": "Enter Calm. NL Exhaust."
+    "NAME": "清醒頭腦",
+    "DESCRIPTION": "進入 平靜 。 NL 消耗 "
   },
   "Safety": {
-    "NAME": "Safety",
-    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Exhaust."
+    "NAME": "平安",
+    "DESCRIPTION": " 保留 。 NL 獲得 !B! 點 格擋 。 NL 消耗 "
   },
   "Scrawl": {
-    "NAME": "Scrawl",
-    "DESCRIPTION": "Draw !M! cards. NL You cannot play Skills for the rest of this turn.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL You cannot play Skills for the rest of this turn."
+    "NAME": "潦草急就",
+    "DESCRIPTION": "抽 !M! 張牌。 NL 本回合不能再打出技能牌",
+    "UPGRADE_DESCRIPTION": "抽 !M! 張牌。 NL 本回合不能再打出技能牌"
   },
   "Prostrate": {
-    "NAME": "Prostrate",
-    "DESCRIPTION": "Gain !M! Mantra. NL Gain 1 Vulnerable. NL Add an *Insight into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Gain 1 Vulnerable. NL Add an *Insight into your discard pile."
+    "NAME": "五體投地",
+    "DESCRIPTION": "獲得 !M! 層 真言 。 NL 獲得1層易傷。 NL 在抽牌堆中加入1張 *洞見 ",
+    "UPGRADE_DESCRIPTION": "獲得 !M! 層 真言 。 NL 獲得1層易傷。 NL 在抽牌堆中加入1張 *洞見 "
   },
   "Pray": {
-    "NAME": "Pray",
-    "DESCRIPTION": "Gain !M! Mantra. NL Shuffle a *Miracle into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Miracle into your draw pile."
+    "NAME": "祈禱",
+    "DESCRIPTION": "獲得 !M! 層 真言 。 NL 在抽牌堆中加入1張 *奇蹟 ",
+    "UPGRADE_DESCRIPTION": "獲得 !M! 層 真言 。 NL 在抽牌堆中加入1張 已升級 的 *奇蹟 "
   },
   "BigBrain": {
     "NAME": "DEPRECATED Big Brain",
-    "DESCRIPTION": "Draw 1 card. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw 1 card. NL Retains."
+    "DESCRIPTION": "Draw 1 card. NL 保留 。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "Draw 1 card. NL 保留 "
   },
   "ForeignInfluence": {
-    "NAME": "Foreign Influence",
-    "DESCRIPTION": "Choose 1 of 3 Attacks to add to your hand. These cards can be of any color. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose 1 of 3 Upgraded Attacks to add to your hand. These cards can be of any color. Exhaust."
+    "NAME": "他山之石",
+    "DESCRIPTION": "從3張攻擊牌中選擇1張加入手牌。這些攻擊牌可以是任意顏色。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "從3張 已升級 的攻擊牌中選擇1張加入手牌。這些攻擊牌可以是任意顏色。 NL 消耗 "
   },
   "SignatureMove": {
-    "NAME": "Signature Move",
-    "DESCRIPTION": "Can only be played if this is your only Attack. Deal !D! damage."
+    "NAME": "招牌技",
+    "DESCRIPTION": "只有當這張牌是手牌中唯一的一張攻擊牌時才可以被打出。 造成 !D! 點傷害"
   },
   "SublimeSlice": {
     "NAME": "DEPRECATED Sublime Slice",
-    "DESCRIPTION": "Deal !D! damage. NL Enter a random Stance."
+    "DESCRIPTION": "造成 !D! 點傷害。 NL Enter a random Stance."
   },
   "ReachHeaven": {
-    "NAME": "Reach Heaven",
-    "DESCRIPTION": "Deal !D! damage. NL Shuffle a NL *Through *Violence into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle an Upgraded *Through *Violence into your draw pile."
+    "NAME": "立地升天",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 在抽牌堆中加入1張 NL *以暴易暴 ",
+    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 在抽牌堆中加入1張 已升級 的 *以暴易暴 "
   },
   "Insight": {
-    "NAME": "Insight",
-    "DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust."
+    "NAME": "洞見",
+    "DESCRIPTION": " 保留 。 NL 抽 !M! 張牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 抽 !M! 張牌。 NL 消耗 "
   },
   "BattleHymn": {
-    "NAME": "Battle Hymn",
-    "DESCRIPTION": "The first card you draw each turn has its cost reduced by !M! for the turn."
+    "NAME": "戰歌",
+    "DESCRIPTION": "每回合抽到的第1張牌在該回合的耗能減少 !M! "
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
-    "DESCRIPTION": "Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy. NL Retains."
+    "DESCRIPTION": "Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy. NL 保留 "
   },
   "BowlingBash": {
-    "NAME": "Bowling Bash",
-    "DESCRIPTION": "Deal !D! damage for each enemy in combat."
+    "NAME": "碰撞連擊",
+    "DESCRIPTION": "當前每有一名敵人，造成 !D! 點傷害。"
   },
   "Truth": {
-    "NAME": "Truth",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Retains. NL Exhaust."
+    "NAME": "真知",
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害。 NL 抽 !M! 張牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害。 NL 抽 !M! 張牌。 NL 消耗 "
   },
   "Punishment": {
     "NAME": "DEPRECATED Punishment",
     "DESCRIPTION": "Enter Punishment Stance."
   },
   "Smite": {
-    "NAME": "Smite",
-    "DESCRIPTION": "Deal !D! damage. NL Retains. NL Exhaust."
+    "NAME": "懲惡",
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害。 NL 消耗 "
   },
   "Omniscience": {
-    "NAME": "Omniscience",
-    "DESCRIPTION": "Scry your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Scry your draw pile."
+    "NAME": "通曉萬物",
+    "DESCRIPTION": " 預見 抽牌堆。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": " 預見 抽牌堆"
   },
   "Omega": {
-    "NAME": "Omega",
-    "DESCRIPTION": "At the start of your turn deal !M! damage to ALL enemies."
+    "NAME": "歐米伽",
+    "DESCRIPTION": "在你的回合開始時，對所有敵人造成 !M! 點傷害"
   },
   "Serenity": {
-    "NAME": "Serenity",
-    "DESCRIPTION": "While you are in Calm, HP loss is reduced by !M!."
+    "NAME": "寧靜",
+    "DESCRIPTION": "在 平靜 中時，所有生命值損失減少 !M! 點"
   },
   "Judgement": {
-    "NAME": "Judgement",
-    "DESCRIPTION": "If the enemy has !M! or less HP, set their NL HP to 0."
+    "NAME": "審判",
+    "DESCRIPTION": "如果目標敵人的生命值小於等於 !M! 點， NL 則將其生命值變為0"
   },
   "MentalFortress": {
-    "NAME": "Mental Fortress",
-    "DESCRIPTION": "Whenever you switch Stances, gain !M! Block."
+    "NAME": "心靈堡壘",
+    "DESCRIPTION": "每當你轉換 姿態 時，獲得 !M! 點 格擋 "
   },
   "EmptyBody": {
-    "NAME": "Empty Body",
-    "DESCRIPTION": "Gain !B! Block. NL Exit your Stance."
+    "NAME": "化體為空",
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 退出當前 姿態 "
   },
   "Crescendo": {
-    "NAME": "Crescendo",
-    "DESCRIPTION": "Enter Wrath. NL Retains. NL Exhaust."
+    "NAME": "漸強",
+    "DESCRIPTION": " 保留 。 NL 進入 憤怒 。 NL 消耗 "
   },
   "SandsOfTime": {
-    "NAME": "Sands of Time",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever this card is Retained, lower its cost by 1. NL Retains."
+    "NAME": "時之沙",
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害。 NL 每當這張牌被 保留 時，將其耗能減少1"
   },
   "Blasphemy": {
-    "NAME": "Blasphemy",
-    "DESCRIPTION": "Enter Divinity. NL Die next turn."
+    "NAME": "瀆神",
+    "DESCRIPTION": "進入 神格 。 NL 在下回合死亡"
   },
   "Transcendence": {
-    "NAME": "Transcendence",
-    "DESCRIPTION": "Upgrade all cards that Retain in your hand."
+    "NAME": "超凡脫俗",
+    "DESCRIPTION": " 升級 手牌中所有 保留 牌"
   },
   "Flare": {
     "NAME": "DEPRECATED Flare",
     "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Wrath: Gain [W] [W] ."
   },
   "Unraveling": {
-    "NAME": "Unraveling",
-    "DESCRIPTION": "Play all of the cards in your hand from left to right. Targets are chosen randomly. NL Exhaust."
+    "NAME": "徹悟",
+    "DESCRIPTION": "從左至右打出所有手牌。需要選擇目標的牌將隨機選擇目標。 NL 消耗 "
   },
   "Weave": {
-    "NAME": "Weave",
-    "DESCRIPTION": "Deal !D! damage. NL Add this card to your hand when it would be discarded from your draw pile."
+    "NAME": "迂迴",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果這張牌從棄牌堆中被丟棄，將其加入手牌"
   },
   "CrushJoints": {
-    "NAME": "Crush Joints",
-    "DESCRIPTION": "Deal !D! damage. NL If the previous card played was a Skill, apply !M! Vulnerable."
+    "NAME": "粉碎關節",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果你打出的上一張牌是技能牌，給予 !M! 層 易傷 "
   },
   "Vengeance": {
-    "NAME": "Vengeance",
-    "DESCRIPTION": "If your HP is less than it was last turn, enter Wrath."
+    "NAME": "復仇",
+    "DESCRIPTION": "如果你的生命值低於上回合，進入 憤怒 "
   },
   "CarveReality": {
-    "NAME": "Carve Reality",
-    "DESCRIPTION": "Deal !D! damage. NL Choose NL *Smite or *Truth. NL Add the chosen card to your hand.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Choose Upgraded NL *Smite or *Truth. NL Add the chosen card to your hand."
+    "NAME": "改造現實",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 選擇 NL *懲惡 或 *真知 。 NL 將選擇的牌加入手牌",
+    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 選擇 已升級 的 NL *懲惡 或 *真知 。 NL 將選擇的牌加入手牌"
   },
   "Defend_P": {
-    "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "防禦",
+    "DESCRIPTION": "獲得 !B! 點 格擋 "
   },
   "CrescentKick": {
     "NAME": "DEPRECATED Crescent Kick",
-    "DESCRIPTION": "Deal !D! damage. NL If you have Vigor, NL gain [W] and NL draw 1 card."
+    "DESCRIPTION": "造成 !D! 點傷害。 NL If you have Vigor, NL gain [W] and NL draw 1 card."
   },
   "Thwack": {
     "NAME": "DEPRECATED Thwack",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "造成 !D! 點傷害"
   },
   "Fasting": {
-    "NAME": "Fasting",
-    "DESCRIPTION": "Gain !M! Artifact."
+    "NAME": "齋戒",
+    "DESCRIPTION": "獲得 !M! 層 人工製品 "
   },
   "Swipe": {
     "NAME": "DEPRECATED Swipe",
-    "DESCRIPTION": "Deal !D! damage. Deal half this damage to all other enemies."
+    "DESCRIPTION": "造成 !D! 點傷害。 Deal half this damage to all other enemies."
   },
   "InnerPeace": {
-    "NAME": "Inner Peace",
-    "DESCRIPTION": "Enter Calm. NL End your turn."
+    "NAME": "內心寧靜",
+    "DESCRIPTION": "進入 平靜 。 NL 結束你的回合"
   },
   "StepAndStrike": {
-    "NAME": "Step and Strike",
-    "DESCRIPTION": "Costs 1 less per switched Stance this turn. NL Gain !B! Block. NL Deal !D! damage."
+    "NAME": "跨步打擊",
+    "DESCRIPTION": "你在本回合每轉換一次 姿態 ，這張牌在本回合的耗能減少1。 NL 獲得 !B! 點 格擋 。 NL 造成 !D! 點傷害"
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",
@@ -1810,7 +1810,7 @@
     "DESCRIPTION": "Gain !M! Strength."
   },
   "FlurryOfBlows": {
-    "NAME": "Flurry Of Blows",
-    "DESCRIPTION": "Deal !D! damage !M! times. NL On Stance change, returns from the Exhaust Pile to your Hand. Exhaust."
+    "NAME": "疾風連擊",
+    "DESCRIPTION": "造成 !D! 點傷害 !M! 次。 NL 如果在已消耗牌堆中，每次 姿態 變化時都會回到手牌中。 消耗 "
   }
 }

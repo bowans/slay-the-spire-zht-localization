@@ -145,7 +145,9 @@
     },
     "RETAIN": {
       "NAMES": [
-        "保留"
+        "保留",
+        "retains",
+        "retained"
       ],
       "DESCRIPTION": "保留的牌不會在回合結束時被放入棄牌堆。"
     },
@@ -252,6 +254,56 @@
         "跟蹤鎖定"
       ],
       "DESCRIPTION": "被跟蹤鎖定的目標從充能球受到的傷害增加 #b50% 。"
+    },
+    "STANCE": {
+      "NAMES": [
+        "姿態",
+        "stances"
+      ],
+      "DESCRIPTION": "你同一時間只能處於一種姿態。"
+    },
+    "WRATH": {
+      "NAMES": [
+        "憤怒"
+      ],
+      "DESCRIPTION": "在這一 #y姿態 中，你造成和受到雙倍攻擊傷害。"
+    },
+    "CALM": {
+      "NAMES": [
+        "平靜"
+      ],
+      "DESCRIPTION": "離開這一 #y姿態 時，獲得 [W] [W] 。"
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "神格"
+      ],
+      "DESCRIPTION": "進入這一 #y姿態 時，獲得 [W] [W] [W] 。你的攻擊造成三倍傷害。你在下一回合開始時自動離開這一 #y姿態 。"
+    },
+    "PRAYER": {
+      "NAMES": [
+        "真言",
+        "through violence"
+      ],
+      "DESCRIPTION": "當你獲得 #b10 層 #y真言 時，進入 #y神格 。"
+    },
+    "SCRY": {
+      "NAMES": [
+        "預見"
+      ],
+      "DESCRIPTION": "檢視你抽牌堆頂部的X張牌。你可以選擇丟棄其中的任意張。"
+    },
+    "REGEN": {
+      "NAMES": [
+        "再生"
+      ],
+      "DESCRIPTION": "在你的回合結束時回復相應的生命值。再生每回合減少 #b1 。"
+    },
+    "VIGOR": {
+      "NAMES": [
+        "活力"
+      ],
+      "DESCRIPTION": "你的下一次攻擊造成額外傷害。"
     }
   }
 }

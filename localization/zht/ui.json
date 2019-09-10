@@ -72,7 +72,7 @@
       "鐵衛士",
       "寂靜獵手",
       "故障機器人",
-      "the Watcher"
+      "觀者"
     ]
   },
   "AbstractPotion": {
@@ -228,7 +228,7 @@
       "詛咒",
       "狀態",
       "看升級版卡牌",
-      "Purple"
+      "紫色"
     ]
   },
   "CardRewardScreen": {
@@ -254,7 +254,7 @@
       "未知",
       "？？？",
       " 到下組解鎖內容的分數",
-      "This character is unlocked by completing a Standard run and having the 3rd character unlocked."
+      "這名角色需要通關一次標準模式且解鎖第三名角色才能解鎖"
     ]
   },
   "CharacterSelectScreen": {
@@ -812,8 +812,8 @@
       "可以自訂需要的特效和各種選項，充分體驗遊戲樂趣的模式",
       "更改操作方式",
       "更改影像、音效和偏好設定",
-      "Potion Lab",
-      "Observe the numerous potions found climbing the Spire."
+      "藥水研究所",
+      "查看你在高塔中找到過的各種藥水"
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1054,7 +1054,7 @@
       "種子碼： %s",
       "自訂種子碼： %s",
       "yyyy/M/d, HH:mm",
-      "The Watcher"
+      "觀者"
     ]
   },
   "SeedPanel": {
@@ -1334,7 +1334,7 @@
       "已解鎖寂靜獵手卡牌的測試玩家繪製畫風！",
       "已解鎖故障機器人卡牌的測試玩家繪製畫風！",
       "已解鎖所有角色的測試玩家繪製畫風！",
-      "Watcher Beta Card Art Unlocked!"
+      "已解鎖觀者卡牌的測試玩家繪製畫風！"
     ]
   },
   "RichPresence": {
@@ -1359,28 +1359,28 @@
   },
   "SignatureMoveMessage": {
     "TEXT": [
-      "This must be my only #rAttack!"
+      "這張牌必須是我唯一的 #r攻擊牌 ！"
     ]
   },
   "PotionViewScreen": {
     "TEXT": [
-      "Return",
-      "Common:",
-      "The most frequent potions found in the Spire.",
-      "Uncommon:",
-      "Stronger potions which appear less often than common potions.",
-      "Rare:",
-      "Unique and powerful potions which are rarely seen."
+      "返回",
+      "普通：",
+      "高塔中最常見的藥水",
+      "罕見：",
+      "比普通藥水更強大也更少見的藥水",
+      "稀有：",
+      "極少出現的獨特且強大的藥水"
     ]
   },
   "ClarityAction": {
     "TEXT": [
-      "Choose 1 card to keep. The rest are exhausted."
+      "選擇1張牌保留。其餘卡牌將被消耗"
     ]
   },
   "WishAction": {
     "TEXT": [
-      "Choose a Card to play."
+      "選擇一張牌打出"
     ]
   }
 }
