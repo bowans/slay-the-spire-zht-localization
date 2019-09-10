@@ -1432,20 +1432,6 @@
       ""
     ]
   },
-  "PureWater": {
-    "NAME": "Pure Water",
-    "FLAVOR": "Filtered through fine sand and free of impurities.",
-    "DESCRIPTIONS": [
-      "At the start of each combat, add a #yMiracle into your hand."
-    ]
-  },
-  "HolyWater": {
-    "NAME": "Holy Water",
-    "FLAVOR": "TODO.",
-    "DESCRIPTIONS": [
-      "Replaces #pPure #pWater. At the start of each combat, add #b3 #yMiracles into your hand."
-    ]
-  },
   "Yin": {
     "NAME": "陰",
     "FLAVOR": "無光則無暗，真的是這樣嗎？",
@@ -1466,6 +1452,20 @@
     "DESCRIPTIONS": [
       "在第 #b",
       " 回合前，每回合開始時獲得與回合數相等的 #y格擋 "
+    ]
+  },
+  "HolyWater": {
+    "NAME": "聖水",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "在每場戰鬥開始時，將 #b3 張 #y奇蹟 放入手牌"
+    ]
+  },
+  "PureWater": {
+    "NAME": "至純之水",
+    "FLAVOR": "用極細的沙粒過濾的水，去除了一切雜質。",
+    "DESCRIPTIONS": [
+      "在每場戰鬥開始時，將1張 #y奇蹟 放入手牌"
     ]
   }
 }
