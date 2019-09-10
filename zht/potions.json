@@ -10,7 +10,7 @@
     "NAME": "攻擊藥水",
     "DESCRIPTIONS": [
       "從 #b3 張隨機 #y攻擊牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
-      "Choose #b1 of #b3 random #yAttack cards and add #b2 to your hand, they cost #b0 this turn."
+      "從 #b3 張隨機 #y攻擊牌 中選擇 #b1 張加入手牌 #b2 次。這些牌在本回合耗能變為 #b0"
     ]
   },
   "Block Potion": {
@@ -74,8 +74,8 @@
   "FairyPotion": {
     "NAME": "瓶中精靈",
     "DESCRIPTIONS": [
-      "不可使用。當你要被殺死時，免死並回復到最大生命值的 #b10% ，丟棄這瓶藥水",
-      "% of your Max HP instead and discard this potion."
+      "當你要被殺死時，免死並回復到最大生命值的 #b",
+      "% ，丟棄這瓶藥水"
     ]
   },
   "FearPotion": {
@@ -151,7 +151,7 @@
     "NAME": "能力藥水",
     "DESCRIPTIONS": [
       "從 #b3 張隨機 #y能力牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
-      "Choose #b1 of #b3 random #yPower cards and add #b2 to your hand, they cost #b0 this turn."
+      "從 #b3 張隨機 #y能力牌 中選擇 #b1 張加入手牌 #b2 次。這些牌在本回合耗能變為 #b0"
     ]
   },
   "Regen Potion": {
@@ -166,7 +166,7 @@
     "NAME": "技能藥水",
     "DESCRIPTIONS": [
       "從 #b3 張隨機 #y技能牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
-      "Choose #b1 of #b3 random #ySkill cards and add #b2 to your hand, they cost #b0 this turn."
+      "從 #b3 張隨機 #y技能牌 中選擇 #b1 張加入手牌 #b2 次。這些牌在本回合耗能變為 #b0"
     ]
   },
   "SmokeBomb": {
@@ -226,7 +226,7 @@
     "NAME": "複製藥水",
     "DESCRIPTIONS": [
       "本回合下1張牌將被打出2次",
-      "This turn, your next #b2 cards are played twice."
+      "本回合下2張牌將被打出2次"
     ]
   },
   "StancePotion": {
