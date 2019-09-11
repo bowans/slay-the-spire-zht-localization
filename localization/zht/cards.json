@@ -1533,8 +1533,8 @@
   },
   "Collect": {
     "NAME": "收集",
-    "DESCRIPTION": "在你的下X個回合開始時獲得 [W] [W] 。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "在你的下X+1個回合開始時獲得 [W] [W] 。 NL 消耗 "
+    "DESCRIPTION": "在接下來X個回合的回合開始時獲得 [W] [W] 。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "在接下來X+1個回合的回合開始時獲得 [W] [W] 。 NL 消耗 "
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1754,7 +1754,7 @@
   },
   "Weave": {
     "NAME": "迂迴",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果這張牌從棄牌堆中被丟棄，將其加入手牌"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果這張牌從抽牌堆中被丟棄，將其加入手牌"
   },
   "CrushJoints": {
     "NAME": "粉碎關節",
