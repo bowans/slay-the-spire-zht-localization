@@ -1454,8 +1454,8 @@
   },
   "Wireheading": {
     "NAME": "腦部接入",
-    "DESCRIPTION": "在你的回合結束時， 預見 !M! ",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合結束時， 預見 !M! "
+    "DESCRIPTION": "在你的回合開始時， 預見 !M! ",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合開始時， 預見 !M! "
   },
   "Sanctity": {
     "NAME": "聖潔",
@@ -1513,13 +1513,13 @@
   },
   "Vigilance": {
     "NAME": "警惕",
-    "DESCRIPTION": "進入 平靜 。 NL 抽 !M! 張牌",
-    "UPGRADE_DESCRIPTION": "進入 平靜 。 NL 抽 !M! 張牌"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 進入 平靜 ",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "PathToVictory": {
     "NAME": "取勝之道",
     "DESCRIPTION": "抽1張牌，將其在本回合的耗能變為0。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "抽1張牌，將其在本回合的耗能變為0"
+    "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
     "NAME": "評估",
@@ -1572,8 +1572,8 @@
   },
   "EmptyMind": {
     "NAME": "化智為空",
-    "DESCRIPTION": "退出當前 姿態 。 NL 抽 !M! 張牌",
-    "UPGRADE_DESCRIPTION": "退出當前 姿態 。 NL 抽 !M! 張牌"
+    "DESCRIPTION": "抽 !M! 張牌。 NL 退出當前 姿態 ",
+    "UPGRADE_DESCRIPTION": "抽 !M! 張牌。 NL 退出當前 姿態 "
   },
   "Miracle": {
     "NAME": "奇蹟",
@@ -1604,8 +1604,8 @@
   },
   "DeceiveReality": {
     "NAME": "欺瞞現實",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 選擇 NL *平安 或 *睿智 。 NL 將選擇的牌加入手牌",
-    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 選擇 已升級 的 NL *平安 或 *睿智 。 NL 將選擇的牌加入手牌"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將一張 *平安 加入手牌",
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 將一張  已升級 的 *平安 加入手牌"
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
@@ -1622,9 +1622,9 @@
   },
   "Brilliance": {
     "NAME": "光輝",
-    "DESCRIPTION": " 保留 。 NL 這張牌每被 保留 1回合，獲得1點 [W] 。 NL 消耗 ",
+    "DESCRIPTION": "將手牌全部變為 *奇蹟 。 NL 消耗 ",
     "EXTENDED_DESCRIPTION": [
-      " NL （已保留 !M! 回合。）"
+      ""
     ]
   },
   "ClearTheMind": {
@@ -1642,8 +1642,8 @@
   },
   "Prostrate": {
     "NAME": "五體投地",
-    "DESCRIPTION": "獲得 !M! 層 真言 。 NL 獲得1層易傷。 NL 在抽牌堆中加入1張 *洞見 ",
-    "UPGRADE_DESCRIPTION": "獲得 !M! 層 真言 。 NL 獲得1層易傷。 NL 在抽牌堆中加入1張 *洞見 "
+    "DESCRIPTION": "獲得 !M! 層 真言 。 NL 獲得 !B! 點 格擋 ",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Pray": {
     "NAME": "祈禱",
@@ -1718,9 +1718,9 @@
   },
   "Judgement": {
     "NAME": "審判",
-    "DESCRIPTION": "如果目標敵人的生命值小於等於 !M! 點， NL 則將其生命值變為0",
+    "DESCRIPTION": "如果目標敵人的生命值小於等於 !M! 點， NL 則將其生命值變為0點",
     "EXTENDED_DESCRIPTION": [
-      "JUDGED"
+      "審判"
     ]
   },
   "MentalFortress": {
@@ -1764,13 +1764,13 @@
     "DESCRIPTION": "造成 !D! 點傷害。 NL 如果你打出的上一張牌是技能牌，給予 !M! 層 易傷 "
   },
   "Vengeance": {
-    "NAME": "復仇",
-    "DESCRIPTION": "如果你的生命值低於上回合，進入 憤怒 "
+    "NAME": "怒火中燒",
+    "DESCRIPTION": "預見 !M! 。 NL 在你的下個回合開始時進入 憤怒 "
   },
   "CarveReality": {
     "NAME": "改造現實",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 選擇 NL *懲惡 或 *真知 。 NL 將選擇的牌加入手牌",
-    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 選擇 已升級 的 NL *懲惡 或 *真知 。 NL 將選擇的牌加入手牌"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 將一張 *懲惡 加入手牌",
+    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 將一張 已升級 的 *懲惡 加入手牌"
   },
   "Defend_P": {
     "NAME": "防禦",
@@ -1794,7 +1794,7 @@
   },
   "InnerPeace": {
     "NAME": "內心寧靜",
-    "DESCRIPTION": "進入 平靜 。 NL 結束你的回合"
+    "DESCRIPTION": "平靜 ： 抽 !M! 張牌。 NL 否則，進入 平靜 "
   },
   "StepAndStrike": {
     "NAME": "跨步打擊",
@@ -1814,6 +1814,6 @@
   },
   "FlurryOfBlows": {
     "NAME": "疾風連擊",
-    "DESCRIPTION": "造成 !D! 點傷害 !M! 次。 NL 如果在已消耗牌堆中，每次 姿態 變化時都會回到手牌中。 消耗 "
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果在棄牌堆中，每次 姿態 變化時都會回到手牌中"
   }
 }
