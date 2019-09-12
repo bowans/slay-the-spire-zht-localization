@@ -10,7 +10,7 @@
     "NAME": "攻击药水",
     "DESCRIPTIONS": [
       "从 #b3 张随机攻击牌中选择 #b1 张加入你的手牌。这张牌在本回合耗能变为 #b0 。",
-      "Choose #b1 of #b3 random #yAttack cards and add #b2 to your hand, they cost #b0 this turn."
+      "从 #b3 张随机攻击牌中选择 #b1 张，将其加入你的手牌 #b2 次。这两张牌在本回合耗能变为 #b0 。"
     ]
   },
   "Block Potion": {
@@ -151,7 +151,7 @@
     "NAME": "能力药水",
     "DESCRIPTIONS": [
       "从 #b3 张随机能力牌中选择 #b1 张加入你的手牌。这张牌在本回合耗能变为 #b0 。",
-      "Choose #b1 of #b3 random #yPower cards and add #b2 to your hand, they cost #b0 this turn."
+      "从 #b3 张随机能力牌中选择 #b1 张，将其加入你的手牌 #b2 次。这两张牌在本回合耗能变为 #b0 。"
     ]
   },
   "Regen Potion": {
@@ -166,7 +166,7 @@
     "NAME": "技能药水",
     "DESCRIPTIONS": [
       "从 #b3 张随机技能牌中选择 #b1 张加入你的手牌。这张牌在本回合耗能变为 #b0 。",
-      "Choose #b1 of #b3 random #ySkill cards and add #b2 to your hand, they cost #b0 this turn."
+      "从 #b3 张随机技能牌中选择 #b1 张，将其加入你的手牌 #b2 次。这两张牌在本回合耗能变为 #b0 。"
     ]
   },
   "SmokeBomb": {
@@ -226,7 +226,7 @@
     "NAME": "复制药水",
     "DESCRIPTIONS": [
       "本回合你的下一张牌将被打出两次。",
-      "This turn, your next #b2 cards are played twice."
+      "本回合你的下两张牌将被打出两次。"
     ]
   },
   "StancePotion": {

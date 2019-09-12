@@ -1718,7 +1718,10 @@
   },
   "Judgement": {
     "NAME": "審判",
-    "DESCRIPTION": "如果目標敵人的生命值小於等於 !M! 點， NL 則將其生命值變為0"
+    "DESCRIPTION": "如果目標敵人的生命值小於等於 !M! 點， NL 則將其生命值變為0",
+    "EXTENDED_DESCRIPTION": [
+      "JUDGED"
+    ]
   },
   "MentalFortress": {
     "NAME": "心靈堡壘",

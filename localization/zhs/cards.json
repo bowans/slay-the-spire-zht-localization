@@ -1454,8 +1454,8 @@
   },
   "Wireheading": {
     "NAME": "脑部接入",
-    "DESCRIPTION": "在你的回合结束时， 预见 !M! 。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合结束时， 预见 !M! 。"
+    "DESCRIPTION": "在你的回合开始时， 预见 !M! 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合开始时， 预见 !M! 。"
   },
   "Sanctity": {
     "NAME": "圣洁",
@@ -1513,13 +1513,13 @@
   },
   "Vigilance": {
     "NAME": "警惕",
-    "DESCRIPTION": "进入 平静 。 NL 抽 !M! 张牌。",
-    "UPGRADE_DESCRIPTION": "进入 平静 。 NL 抽 !M! 张牌。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 进入 平静 。",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "PathToVictory": {
     "NAME": "取胜之道",
     "DESCRIPTION": "抽一张牌，将其在本回合的耗能变为0。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "抽一张牌，将其在本回合的耗能变为0。"
+    "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
     "NAME": "评估",
@@ -1572,8 +1572,8 @@
   },
   "EmptyMind": {
     "NAME": "化智为空",
-    "DESCRIPTION": "退出当前 姿态 。 NL 抽 !M! 张牌。",
-    "UPGRADE_DESCRIPTION": "退出当前 姿态 。 NL 抽 !M! 张牌。"
+    "DESCRIPTION": "抽 !M! 张牌。 NL 退出当前 姿态 。",
+    "UPGRADE_DESCRIPTION": "抽 !M! 张牌。 NL 退出当前 姿态 。"
   },
   "Miracle": {
     "NAME": "奇迹",
@@ -1604,8 +1604,8 @@
   },
   "DeceiveReality": {
     "NAME": "欺瞒现实",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 选择 NL *平安 或 *睿智 。 NL 将选择的牌加入你的手牌。",
-    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 选择 升级 的 NL *平安 或 *睿智 。 NL 将选择的牌加入你的手牌。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 将一张 *平安 加入你的手牌。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 将一张 升级 的 *平安 加入你的手牌。"
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
@@ -1622,9 +1622,9 @@
   },
   "Brilliance": {
     "NAME": "光辉",
-    "DESCRIPTION": " 保留 。 NL 这张牌每被 保留 一回合，获得一点 [W] 。 NL 消耗 。",
+    "DESCRIPTION": "将你的手牌全部变为 *奇迹 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
-      " NL （已保留 !M! 回合。）"
+      ""
     ]
   },
   "ClearTheMind": {
@@ -1642,8 +1642,8 @@
   },
   "Prostrate": {
     "NAME": "五体投地",
-    "DESCRIPTION": "获得 !M! 层 真言 。 NL 获得1层易伤。 NL 在你的抽牌堆中加入1张 *洞见 。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 层 真言 。 NL 获得1层易伤。 NL 在你的抽牌堆中加入1张 *洞见 。"
+    "DESCRIPTION": "获得 !M! 层 真言 。 NL 获得 !B! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Pray": {
     "NAME": "祈祷",
@@ -1718,7 +1718,10 @@
   },
   "Judgement": {
     "NAME": "审判",
-    "DESCRIPTION": "如果目标敌人的生命值小于等于 !M! 点， NL 则将其生命值变为0。"
+    "DESCRIPTION": "如果目标敌人的生命值小于等于 !M! 点， NL 则将其生命值变为0。",
+    "EXTENDED_DESCRIPTION": [
+      "审判"
+    ]
   },
   "MentalFortress": {
     "NAME": "心灵堡垒",
@@ -1754,20 +1757,20 @@
   },
   "Weave": {
     "NAME": "迂回",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌从你的弃牌堆中被丢弃，将其加入你的手牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌从你的抽牌堆中被丢弃，将其加入你的手牌。"
   },
   "CrushJoints": {
     "NAME": "粉碎关节",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 如果你打出的上一张牌是技能牌，给予 !M! 层 易伤 。"
   },
   "Vengeance": {
-    "NAME": "复仇",
-    "DESCRIPTION": "如果你的生命值低于上一回合，进入 愤怒 。"
+    "NAME": "怒火中烧",
+    "DESCRIPTION": "预见 !M! 。 NL 在你的下个回合开始时进入 愤怒 。"
   },
   "CarveReality": {
     "NAME": "改造现实",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 选择 NL *惩恶 或 *真知 。 NL 将选择的牌加入你的手牌。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 选择 升级 的 NL *惩恶 或 *真知 。 NL 将选择的牌加入你的手牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 将一张 *惩恶 加入你的手牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 将一张 升级 的 *惩恶 加入你的手牌。"
   },
   "Defend_P": {
     "NAME": "防御",
@@ -1791,7 +1794,7 @@
   },
   "InnerPeace": {
     "NAME": "内心宁静",
-    "DESCRIPTION": "进入 平静 。 NL 结束你的回合。"
+    "DESCRIPTION": "平静 ： 抽 !M! 张牌。 NL 否则，进入 平静 。"
   },
   "StepAndStrike": {
     "NAME": "跨步打击",
@@ -1811,6 +1814,6 @@
   },
   "FlurryOfBlows": {
     "NAME": "疾风连击",
-    "DESCRIPTION": "造成 !D! 点伤害 !M! 次。 NL 如果在已消耗牌堆中，每次 姿态 变化时都会回到你的手牌中。 消耗 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果在弃牌堆中，每次 姿态 变化时都会回到你的手牌。"
   }
 }

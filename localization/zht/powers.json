@@ -1095,7 +1095,8 @@
   "WireheadingPower": {
     "NAME": "腦部接入",
     "DESCRIPTIONS": [
-      "在你的回合結束時， #y預見 "
+      "在你的回合結束時， #y預見 ",
+      "."
     ]
   },
   "BattleHymn": {
@@ -1226,6 +1227,12 @@
     "DESCRIPTIONS": [
       "在你的回合開始時，獲得 #b",
       " 層 #y真言 "
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Simmering Rage",
+    "DESCRIPTIONS": [
+      "Enter #yWrath at the start of your turn."
     ]
   }
 }

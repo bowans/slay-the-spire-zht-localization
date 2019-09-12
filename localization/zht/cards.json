@@ -1365,7 +1365,7 @@
     "DESCRIPTION": " 無法打出 。 NL 當你抽到這張牌時，在手牌中加入 !M! 張 *奇蹟 ，然後 消耗 "
   },
   "ThroughViolence": {
-    "NAME": "Through Violence",
+    "NAME": "以暴易暴",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 消耗 "
   },
   "Metaphysics": {
@@ -1598,7 +1598,7 @@
     "UPGRADE_DESCRIPTION": "消耗至多 !M! 張牌。 NL 進入 平靜 "
   },
   "Nirvana": {
-    "NAME": "Nirvana",
+    "NAME": "涅槃",
     "DESCRIPTION": "每打出1張牌，在本場戰鬥中這張牌被 升級 ",
     "UPGRADE_DESCRIPTION": " 固有 。 NL 每打出1張牌，在本場戰鬥中這張牌被 升級 "
   },
@@ -1718,7 +1718,10 @@
   },
   "Judgement": {
     "NAME": "審判",
-    "DESCRIPTION": "如果目標敵人的生命值小於等於 !M! 點， NL 則將其生命值變為0"
+    "DESCRIPTION": "如果目標敵人的生命值小於等於 !M! 點， NL 則將其生命值變為0",
+    "EXTENDED_DESCRIPTION": [
+      "JUDGED"
+    ]
   },
   "MentalFortress": {
     "NAME": "心靈堡壘",
