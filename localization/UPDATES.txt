@@ -1,4 +1,43 @@
 Updates for Translators!
+
+09-12-2019
+potions.json
+	"SneckoOil"
+		    "Become #yConfused. Draw #b",
+			" cards.",
+			"card."
+			->
+			"Draw #b",
+			" cards. Randomize the cost of cards in your hand.",
+			""
+
+cards.json
+	"ClearTheMind"
+		RENAME: "Clear the Mind" -> "Tranquility"
+			"DESCRIPTION": "Enter Calm. NL Exhaust."
+			->
+			"DESCRIPTION": "Retain. NL Enter Calm. NL Exhaust."
+	"Worship"
+		"UPGRADE_DESCRIPTION": "Innate. NL Gain !M! Mantra."
+		->
+		"UPGRADE_DESCRIPTION": "Retain. NL Gain !M! Mantra."
+	"Judgement"
+		"NAME": "Judgement",
+		->
+		"NAME": "Judgment",
+
+powers.json
+	"Controlled"
+	   "NAME"
+		"Controlled",
+		->
+		"NAME": "Mental Fortress",
+	"WireheadingPower"
+		"At the start of your turn, #yScry #b",
+		"."
+
+----------------------------------
+
 09-11-2019
 cards.json
 	"Brilliance"
