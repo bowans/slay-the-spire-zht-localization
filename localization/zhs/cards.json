@@ -439,7 +439,7 @@
   },
   "Endless Agony": {
     "NAME": "无尽苦痛",
-    "DESCRIPTION": "每当你抽到这张牌，都增加一张其复制品到你的手牌。 NL 造成 !D! 点伤害。 NL 消耗 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 每当你抽到这张牌，都增加一张其复制品到你的手牌。 NL 消耗 。"
   },
   "Energy Pulse": {
     "NAME": "能量波动",
@@ -1393,11 +1393,11 @@
   },
   "FollowUp": {
     "NAME": "追击",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果你打出的上一张牌是攻击牌，获得 [W] 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果本场战斗中打出的上一张牌是攻击牌，获得 [W] 。"
   },
   "Vault": {
     "NAME": "腾跃",
-    "DESCRIPTION": "获得1层 无实体 并结束你的回合。 NL 在你的下个回合开始时，造成 !D! 点伤害。 消耗 。"
+    "DESCRIPTION": "获得1层 无实体 。 NL 在下回合造成 !D! 点伤害。 NL 结束你的回合。 NL 消耗 。"
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
@@ -1426,7 +1426,7 @@
   },
   "WindmillStrike": {
     "NAME": "旋转打击",
-    "DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害。 NL 每当这张牌被 保留 时，将其伤害增加 !M! 点。"
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害。 NL 每当这张牌被 保留 时，将其在本场战斗的伤害增加 !M! 点。"
   },
   "Shield": {
     "NAME": "DEPRECATED Shield",
@@ -1453,13 +1453,13 @@
     "DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害两次。"
   },
   "Wireheading": {
-    "NAME": "脑部接入",
+    "NAME": "先见之明",
     "DESCRIPTION": "在你的回合开始时， 预见 !M! 。",
     "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合开始时， 预见 !M! 。"
   },
   "Sanctity": {
     "NAME": "圣洁",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 如果你打出的上一张牌是技能牌，抽 !M! 张牌。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 如果本场战斗中打出的上一张牌是技能牌，抽 !M! 张牌。"
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
@@ -1480,7 +1480,7 @@
   },
   "Perseverance": {
     "NAME": "坚韧",
-    "DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 每当这张牌被 保留 时，将其格挡增加 !M! 点。"
+    "DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 每当这张牌被 保留 时，将其在本场战斗的格挡增加 !M! 点。"
   },
   "Ragnarok": {
     "NAME": "诸神之黄昏",
@@ -1518,18 +1518,18 @@
   },
   "PathToVictory": {
     "NAME": "取胜之道",
-    "DESCRIPTION": "抽一张牌，将其在本回合的耗能变为0。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": ""
+    "DESCRIPTION": "打出抽牌堆顶部的牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "打出抽牌堆顶部的牌。"
   },
   "Evaluate": {
     "NAME": "评估",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 在你的抽牌堆中加入1张 *洞见 。",
-    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 在你的抽牌堆中加入1张 升级 的 *洞见 。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 在你的抽牌堆中加入一张 *洞见 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 在你的抽牌堆中加入一张 升级 的 *洞见 。"
   },
   "Establishment": {
     "NAME": "确立基础",
-    "DESCRIPTION": "每当有卡牌被 保留 时，将其耗能减少 !M! 。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 每当有卡牌被 保留 时，将其耗能减少 !M! 。"
+    "DESCRIPTION": "每当有卡牌被 保留 时，将其在本场战斗的耗能减少 !M! 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 每当有卡牌被 保留 时，将其在本场战斗的耗能减少 !M! 。"
   },
   "Collect": {
     "NAME": "收集",
@@ -1594,13 +1594,13 @@
   },
   "Meditate": {
     "NAME": "冥想",
-    "DESCRIPTION": "消耗至多 !M! 张牌。 NL 进入 平静 。",
-    "UPGRADE_DESCRIPTION": "消耗至多 !M! 张牌。 NL 进入 平静 。"
+    "DESCRIPTION": "将弃牌堆中的一张牌放入你的手牌，并将其 保留 。 NL 进入 平静 。 NL 结束你的回合。",
+    "UPGRADE_DESCRIPTION": "将弃牌堆中的2张牌放入你的手牌，并将它们 保留 。 NL 进入 平静 。 NL 结束你的回合。"
   },
   "Nirvana": {
     "NAME": "涅槃",
-    "DESCRIPTION": "你每打出一张牌，在本场战斗中这张牌被 升级 。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 你每打出一张牌，在本场战斗中这张牌被 升级 。"
+    "DESCRIPTION": "你每次 预见 时，获得 !M! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": ""
   },
   "DeceiveReality": {
     "NAME": "欺瞒现实",
@@ -1638,7 +1638,7 @@
   "Scrawl": {
     "NAME": "潦草急就",
     "DESCRIPTION": "抽 !M! 张牌。 NL 本回合你不能再打出技能牌。",
-    "UPGRADE_DESCRIPTION": "抽 !M! 张牌。 NL 本回合你不能再打出技能牌。"
+    "UPGRADE_DESCRIPTION": ""
   },
   "Prostrate": {
     "NAME": "五体投地",
@@ -1657,8 +1657,8 @@
   },
   "ForeignInfluence": {
     "NAME": "他山之石",
-    "DESCRIPTION": "从3张攻击牌中选择1张加入你的手牌。这些攻击牌可以是任意颜色。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "从3张 升级 的攻击牌中选择1张加入你的手牌。这些攻击牌可以是任意颜色。 NL 消耗 。"
+    "DESCRIPTION": "从3张任意颜色的攻击牌中选择1张加入你的手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "从3张 升级 的任意颜色的攻击牌中选择1张加入你的手牌。这些攻击牌可以是任意颜色。 NL 消耗 。"
   },
   "SignatureMove": {
     "NAME": "招牌技",
@@ -1737,7 +1737,7 @@
   },
   "SandsOfTime": {
     "NAME": "时之沙",
-    "DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害。 NL 每当这张牌被 保留 时，将其耗能减少1。"
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害。 NL 每当这张牌被 保留 时，将其在本场战斗的耗能减少1。"
   },
   "Blasphemy": {
     "NAME": "渎神",
@@ -1757,11 +1757,11 @@
   },
   "Weave": {
     "NAME": "迂回",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌从你的抽牌堆中被丢弃，将其加入你的手牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果你在 预见 时将这张牌丢弃，将其加入你的手牌。"
   },
   "CrushJoints": {
     "NAME": "粉碎关节",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果你打出的上一张牌是技能牌，给予 !M! 层 易伤 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果本场战斗中打出的上一张牌是技能牌，给予 !M! 层 易伤 。"
   },
   "Vengeance": {
     "NAME": "怒火中烧",
@@ -1815,5 +1815,9 @@
   "FlurryOfBlows": {
     "NAME": "疾风连击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 如果在弃牌堆中，每次 姿态 变化时都会回到你的手牌。"
+  },
+  "SashWhip": {
+    "NAME": "腰带抽打",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果本场战斗中打出的上一张牌是攻击牌，给予 !M! 层 虚弱 。"
   }
 }

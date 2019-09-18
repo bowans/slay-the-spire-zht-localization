@@ -1089,13 +1089,14 @@
   "Nirvana": {
     "NAME": "涅槃",
     "DESCRIPTIONS": [
-      "你每打出一张牌，就将其 #y升级 。"
+      "你每次 预见 时，获得 #b",
+      " 点#y格挡 。"
     ]
   },
   "WireheadingPower": {
-    "NAME": "脑部接入",
+    "NAME": "先见之明",
     "DESCRIPTIONS": [
-      "在你的回合结束时， #y预见 ",
+      "在你的回合开始时， #y预见 ",
       " 。"
     ]
   },

@@ -1010,7 +1010,8 @@
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Whenever you play a card, #yUpgrade it."
+      "Whenever you Scry, gain #b",
+	  " #yBlock."
     ]
   },
   "BackAttack": {
@@ -1123,7 +1124,7 @@
     ]
   },
   "WireheadingPower": {
-    "NAME": "Wireheading",
+    "NAME": "Foresight",
 	"DESCRIPTIONS": [
     "At the start of your turn, #yScry #b",
     "."
