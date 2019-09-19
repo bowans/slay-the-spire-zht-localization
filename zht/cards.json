@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "狂暴",
-    "DESCRIPTION": "獲得 !M! 層 易傷 。 NL 每回合開始時獲得 [R] "
+    "DESCRIPTION": "獲得 !M! 層 易傷 。 NL 在每回合開始時獲得 [R] "
   },
   "Biased Cognition": {
     "NAME": "偏差認知",
@@ -1366,7 +1366,7 @@
   },
   "ThroughViolence": {
     "NAME": "以暴易暴",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 消耗 "
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害。 NL 消耗 "
   },
   "Metaphysics": {
     "NAME": "形上謂道",
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "操控現實",
-    "DESCRIPTION": "選擇 NL *懲惡 或 *平安 。 NL 在每回合開始時，將選擇的牌加入手牌。"
+    "DESCRIPTION": "選擇1張手牌。 NL 在每回合開始時，將1張所選擇牌的複製品加入手牌"
   },
   "CleanseEvil": {
     "NAME": "掃除邪惡",
@@ -1533,8 +1533,8 @@
   },
   "Collect": {
     "NAME": "收集",
-    "DESCRIPTION": "在接下來X個回合的回合開始時獲得 [W] [W] 。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "在接下來X+1個回合的回合開始時獲得 [W] [W] 。 NL 消耗 "
+    "DESCRIPTION": "在接下來X個回合的回合開始時，增加1張 已升級 的 *奇蹟 到手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "在接下來X+1個回合的回合開始時，增加1張 已升級 的 *奇蹟 到手牌。 NL 消耗 "
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1582,7 +1582,8 @@
   },
   "DevaForm": {
     "NAME": "天人形態",
-    "DESCRIPTION": "獲得 !M! 層 多層護甲 "
+    "DESCRIPTION": " 虛無 。 NL 在你的回合開始時獲得 [W] ，每回合增加 !M! ",
+    "UPGRADE_DESCRIPTION": "在你的回合開始時獲得 [W] ，每回合增加 !M! "
   },
   "TalkToTheHand": {
     "NAME": "以手拒之",
@@ -1622,7 +1623,7 @@
   },
   "Brilliance": {
     "NAME": "光輝",
-    "DESCRIPTION": "將手牌全部變為 *奇蹟 。 NL 消耗 ",
+    "DESCRIPTION": "回復 !M! 點生命 X 次。 NL 消耗 ",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
