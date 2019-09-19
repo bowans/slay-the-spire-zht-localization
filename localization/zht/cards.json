@@ -439,7 +439,7 @@
   },
   "Endless Agony": {
     "NAME": "無盡苦痛",
-    "DESCRIPTION": "每當抽到這張牌，都會複製1張該牌到手牌。 NL 造成 !D! 點傷害。 NL 消耗 "
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 每當抽到這張牌，都會複製1張該牌到手牌。 NL 消耗 "
   },
   "Energy Pulse": {
     "NAME": "能量波動",
@@ -1393,11 +1393,11 @@
   },
   "FollowUp": {
     "NAME": "追擊",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果你打出的上1張牌是攻擊牌，獲得 [W] 。"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果本場戰鬥中打出的上1張牌是攻擊牌，獲得 [W] 。"
   },
   "Vault": {
     "NAME": "騰躍",
-    "DESCRIPTION": "獲得1層 無實體 並結束你的回合。 NL 在你的下個回合開始時，造成 !D! 點傷害。 消耗 "
+    "DESCRIPTION": "獲得1層 無實體 。 NL 在下回合造成 !D! 點傷害。 NL 結束你的回合。 NL 消耗 "
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
@@ -1426,7 +1426,7 @@
   },
   "WindmillStrike": {
     "NAME": "旋轉打擊",
-    "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害。 NL 每當這張牌被 保留 時，將其傷害增加 !M! 點"
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害。 NL 每當這張牌被 保留 時，在本場戰鬥中將其傷害增加 !M! 點"
   },
   "Shield": {
     "NAME": "DEPRECATED Shield",
@@ -1453,13 +1453,13 @@
     "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害兩次"
   },
   "Wireheading": {
-    "NAME": "腦部接入",
+    "NAME": "先見之明",
     "DESCRIPTION": "在你的回合開始時， 預見 !M! ",
     "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合開始時， 預見 !M! "
   },
   "Sanctity": {
     "NAME": "聖潔",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 如果你打出的上一張牌是技能牌，抽 !M! 張牌"
+    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 如果本場戰鬥中打出的上1張牌是技能牌，抽 !M! 張牌"
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
@@ -1480,7 +1480,7 @@
   },
   "Perseverance": {
     "NAME": "堅韌",
-    "DESCRIPTION": " 保留 。 NL 獲得 !B! 點 格擋 。 NL 每當這張牌被 保留 時，將其格擋增加 !M! 點"
+    "DESCRIPTION": " 保留 。 NL 獲得 !B! 點 格擋 。 NL 每當這張牌被 保留 時，在本場戰鬥中將其格擋增加 !M! 點"
   },
   "Ragnarok": {
     "NAME": "諸神黃昏",
@@ -1518,8 +1518,8 @@
   },
   "PathToVictory": {
     "NAME": "取勝之道",
-    "DESCRIPTION": "抽1張牌，將其在本回合的耗能變為0。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": ""
+    "DESCRIPTION": "打出抽牌堆頂部的牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "打出抽牌堆頂部的牌"
   },
   "Evaluate": {
     "NAME": "評估",
@@ -1528,8 +1528,8 @@
   },
   "Establishment": {
     "NAME": "確立基礎",
-    "DESCRIPTION": "每當有卡牌被 保留 時，將其耗能減少 !M! ",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 每當有卡牌被 保留 時，將其耗能減少 !M! "
+    "DESCRIPTION": "每當有卡牌被 保留 時，將其在本場戰鬥的耗能減少 !M! ",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 每當有卡牌被 保留 時，將其在本場戰鬥的耗能減少 !M! "
   },
   "Collect": {
     "NAME": "收集",
@@ -1594,13 +1594,13 @@
   },
   "Meditate": {
     "NAME": "冥想",
-    "DESCRIPTION": "消耗至多 !M! 張牌。 NL 進入 平靜 ",
-    "UPGRADE_DESCRIPTION": "消耗至多 !M! 張牌。 NL 進入 平靜 "
+    "DESCRIPTION": "將棄牌堆中的1張牌放入手牌，並將其 保留 。 NL 進入 平靜 。 NL 結束你的回合",
+    "UPGRADE_DESCRIPTION": "將棄牌堆中的2張牌放入你的手牌，並將它們 保留 。 NL 進入 平靜 。 NL 結束你的回合"
   },
   "Nirvana": {
     "NAME": "涅槃",
-    "DESCRIPTION": "每打出1張牌，在本場戰鬥中這張牌被 升級 ",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 每打出1張牌，在本場戰鬥中這張牌被 升級 "
+    "DESCRIPTION": "你每次 預見 時，獲得 !M! 點 格擋 ",
+    "UPGRADE_DESCRIPTION": ""
   },
   "DeceiveReality": {
     "NAME": "欺瞞現實",
@@ -1657,8 +1657,8 @@
   },
   "ForeignInfluence": {
     "NAME": "他山之石",
-    "DESCRIPTION": "從3張攻擊牌中選擇1張加入手牌。這些攻擊牌可以是任意顏色。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從3張 已升級 的攻擊牌中選擇1張加入手牌。這些攻擊牌可以是任意顏色。 NL 消耗 "
+    "DESCRIPTION": "從3張任意顏色的攻擊牌中選擇1張加入手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "從3張 已升級 的任意顏色的攻擊牌中選擇1張加入手牌。 NL 消耗 "
   },
   "SignatureMove": {
     "NAME": "招牌技",
@@ -1737,7 +1737,7 @@
   },
   "SandsOfTime": {
     "NAME": "時之沙",
-    "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害。 NL 每當這張牌被 保留 時，將其耗能減少1"
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 點傷害。 NL 每當這張牌被 保留 時，將其在本場戰鬥的耗能減少1"
   },
   "Blasphemy": {
     "NAME": "瀆神",
@@ -1757,11 +1757,11 @@
   },
   "Weave": {
     "NAME": "迂迴",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果這張牌從抽牌堆中被丟棄，將其加入手牌"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果你在 預見 時將這張牌丟棄，，將其加入手牌"
   },
   "CrushJoints": {
     "NAME": "粉碎關節",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果你打出的上一張牌是技能牌，給予 !M! 層 易傷 "
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果本場戰鬥中打出的上1張牌是技能牌，給予 !M! 層 易傷 "
   },
   "Vengeance": {
     "NAME": "怒火中燒",
@@ -1817,7 +1817,7 @@
     "DESCRIPTION": "造成 !D! 點傷害。 NL 如果在棄牌堆中，每次 姿態 變化時都會回到手牌中"
   },
   "SashWhip": {
-    "NAME": "Sash Whip",
-    "DESCRIPTION": "Deal !D! damage. NL If the previous card played was an Attack, apply !M! Weak."
+    "NAME": "腰帶抽打",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果本場戰鬥中打出的上1張牌是攻擊牌，給予 !M! 層 虛弱 "
   }
 }

@@ -1,5 +1,20 @@
 Updates for Translators!
 
+09-18-2019
+credits.json
+	"LOC_POL"
+		"Kasper \"Awokado\" Beræ",
+		->
+		"Kasper \"Awokado\" Berc",
+
+cards.json
+	"Wish"
+		"UPGRADE_DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card three times and exhaust it. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": ""
+
+----------------------------------
+
 09-16-2019v2
 cards.json
 	"Nirvana"
