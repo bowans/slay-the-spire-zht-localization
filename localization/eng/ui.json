@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Proceed",
-	  "Blights:"
+      "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -173,7 +173,7 @@
       "Skip",
       "VOTE NOW: ",
       "s left.",
-	  "Choose a Blight"
+      "Choose a Blight"
     ]
   },
   "CacheAction": {
@@ -588,7 +588,8 @@
       "Choose ",
       " Cards to ",
       "Choose Any Number of Cards to ",
-      "Choose a Card to "
+      "Choose a Card to ",
+      " Copy"
     ]
   },
   "HiddenChamberAction": {
@@ -601,6 +602,7 @@
       "Exhaust"
     ]
   },
+
   "InputKeyNames": {
     "TEXT_DICT": {
       "Escape": "ESC",

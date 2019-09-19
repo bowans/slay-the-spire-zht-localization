@@ -1332,8 +1332,8 @@
   },
   "Collect": {
     "NAME": "Collect",
-    "DESCRIPTION": "Gain [W] [W] at the start of your next X turns. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain [W] [W] at the start of your next X+1 turns. NL Exhaust."
+    "DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X turns. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X+1 turns. NL Exhaust."
   },
   "ForeignInfluence": {
     "NAME": "Foreign Influence",
@@ -1467,7 +1467,7 @@
   },
   "SignatureMove": {
     "NAME": "Signature Move",
-    "DESCRIPTION": "Can only be played if this is the only Attack in your hand. NL Deal !D! damage." 
+    "DESCRIPTION": "Can only be played if this isw the only Attack in your hand. NL Deal !D! damage." 
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",
@@ -1484,7 +1484,8 @@
   },
   "DevaForm": {
     "NAME": "Deva Form",
-    "DESCRIPTION": "Gain !M! Plated Armor."
+    "DESCRIPTION": "Ethereal. NL At the start of your turn, gain [W] and increase this gain by !M!.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] and increase this gain by !M!."
   },
   "Wireheading": {
     "NAME": "Foresight",
@@ -1498,7 +1499,7 @@
   },
   "ThroughViolence": {
     "NAME": "Through Violence",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaust."
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust."
   },
   "Clarity": {
     "NAME": "Clarity",
@@ -1565,7 +1566,7 @@
   },
   "WindmillStrike": {
     "NAME": "Windmill Strike",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M! this combat."
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, increase its damage by !M! this combat."
   },
   "Establishment": {
     "NAME": "Establishment",
@@ -1724,7 +1725,7 @@
   },
   "MasterReality": {
     "NAME": "Master Reality",
-    "DESCRIPTION": "Choose NL *Smite or *Safety. NL At the start of each turn add the chosen card into your hand."
+    "DESCRIPTION": "Choose a card from your hand. NL At the start of your turn, add a copy of it into your hand."
   },
   "BowlingBash": {
     "NAME": "Bowling Bash",
@@ -1745,7 +1746,7 @@
   },
   "Brilliance": {
     "NAME": "Brilliance",
-    "DESCRIPTION": "Transform your hand into *Miracles. NL Exhaust.",
+    "DESCRIPTION": "Heal !M! HP X times. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       ""
     ]

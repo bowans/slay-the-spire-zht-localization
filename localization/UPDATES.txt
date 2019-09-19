@@ -1,5 +1,61 @@
 Updates for Translators!
 
+09-19-2019
+potions.json
+	"Ambrosia"
+	"BottledMiracle"
+	"CunningPotion"
+	"ElixirPotion"
+	"EssenceOfDarkness"
+	"HeartOfIron"
+	"PotionOfCapacity"
+
+cards.json
+	"Collect"
+		"DESCRIPTION": "Gain [W] [W] at the start of your next X turns. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Gain [W] [W] at the start of your next X+1 turns. NL Exhaust."
+		->
+		"DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X turns. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X+1 turns. NL Exhaust."
+	"DevaForm"
+		"DESCRIPTION": "Gain !M! Plated Armor."
+		->
+		"DESCRIPTION": "Ethereal. NL At the start of turn, gain [W] and increase this gain by !M!.",
+		"UPGRADE_DESCRIPTION": "At the start of turn, gain [W] and increase this gain by !M!."
+	"MasterReality"
+		"DESCRIPTION": "Choose NL *Smite or *Safety. NL At the start of each turn add the chosen card into your hand."
+		->
+		"DESCRIPTION": "Choose a card from your hand. NL At the start of turn, add a copy of it into your hand."
+	"WindmillStrike"
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M! this combat."
+		->
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, increase its damage by !M! this combat."
+	"ThroughViolence"
+		"DESCRIPTION": "Deal !D! damage. NL Exhaust."
+		->
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust."
+	"Brilliance"
+		"DESCRIPTION": "Transform your hand into *Miracles. NL Exhaust.",
+		->
+		"DESCRIPTION": "Heal !M! HP X times.",
+
+ui.json
+	"HandCardSelectScreen"
+		" Copy"
+
+powers.json
+	"DevaForm"
+	"Collect"
+		"At the start of your next turn, gain [W] [W] .",
+		->
+		"At the start of your next turn, put an #yUpgraded #yMiracle into your hand.",
+
+		" turns, gain [W] [W] ."
+		->
+		" turns, put an #yUpgraded #yMiracle into your hand."
+
+----------------------------------
+
 09-18-2019
 credits.json
 	"LOC_POL"
