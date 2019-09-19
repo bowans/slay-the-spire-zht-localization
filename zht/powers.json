@@ -1192,9 +1192,9 @@
   "Collect": {
     "NAME": "收集",
     "DESCRIPTIONS": [
-      "在下回合開始時，獲得 [W] [W] ",
+      "在下回合開始時，增加1張 #y已升級 的 #y奇蹟 到手牌",
       "在接下來 #b",
-      " 個回合的回合開始時，獲得 [W] [W] "
+      " 個回合的回合開始時，增加1張 #y已升級 的 #y奇蹟 到手牌"
     ]
   },
   "Condense": {
@@ -1234,6 +1234,17 @@
     "NAME": "怒火中燒",
     "DESCRIPTIONS": [
       "在你的回合開始時進入 #y憤怒 "
+    ]
+  },
+  "DevaForm": {
+    "NAME": "天人",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，獲得 [W] ",
+      "在你的回合開始時，獲得 [W] #b",
+      " 次 ",
+      "，然後將次數增加 #b",
+      " ",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
     ]
   }
 }
