@@ -1681,7 +1681,8 @@
   },
   "BattleHymn": {
     "NAME": "戰歌",
-    "DESCRIPTION": "每回合抽到的第1張牌在該回合的耗能減少 !M! "
+    "DESCRIPTION": "每回合抽到的第1張牌在該回合的耗能減少 !M! ",
+    "UPGRADE_DESCRIPTION": "At the start of each turn add !M! *Smites into your hand."
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",

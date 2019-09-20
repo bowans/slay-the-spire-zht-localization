@@ -1597,7 +1597,7 @@
   },
   "BrillianceAura": {
     "NAME": "DEPRECATED Brilliance Aura",
-    "DESCRIPTION": "Retain. NL At the start of your turn, draw 1 card. NL Exhaust."
+    "DESCRIPTION": "DEPRECATED"
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1634,7 +1634,8 @@
   },
   "BattleHymn": {
     "NAME": "Battle Hymn",
-    "DESCRIPTION": "The first card you draw each turn has its cost reduced by !M! for the turn."
+    "DESCRIPTION": "At the start of each turn add a *Smite into your hand.",
+	"UPGRADE_DESCRIPTION": "At the start of each turn add !M! *Smites into your hand."
   },
   "Prostrate": {
     "NAME": "Prostrate",
@@ -1687,7 +1688,7 @@
   },
   "Perseverance": {
     "NAME": "Perseverance",
-    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Whenever this card is Retained, increase its Block by !M! this combat."
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL When Retained, increase its Block by !M! this combat."
   },
   "CrushJoints": {
     "NAME": "Crush Joints",
@@ -1725,7 +1726,7 @@
   },
   "MasterReality": {
     "NAME": "Master Reality",
-    "DESCRIPTION": "Choose NL *Smite or *Safety. NL At the start of each turn add the chosen card into your hand."
+    "DESCRIPTION": "At the end of your turn, deal !M! damage to a random enemy for each Retained card in your hand."
   },
   "BowlingBash": {
     "NAME": "Bowling Bash",
@@ -1742,11 +1743,11 @@
   },
   "SandsOfTime": {
     "NAME": "Sands of Time",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, lower its cost by 1 this combat."
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, lower its cost by 1 this combat."
   },
   "Brilliance": {
     "NAME": "Brilliance",
-    "DESCRIPTION": "Heal !M! HP X times. NL Exhaust.",
+    "DESCRIPTION": "Ethereal. NL Heal !M! HP X times. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -1766,7 +1767,7 @@
   "Adaptation": {
     "NAME": "Adaptation",
     "DESCRIPTION": "Whenever you switch Stances, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you switch Stances, draw !M! card."
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Causality": {
     "NAME": "Causality",

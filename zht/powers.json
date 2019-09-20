@@ -1044,10 +1044,10 @@
   "MasterRealityPower": {
     "NAME": "操控現實",
     "DESCRIPTIONS": [
-      "在你的回合開始時，在手牌中加入 #b",
-      " 張 #y",
-      " ",
-      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+      "在你的回合結束時，手牌中每張被 #y保留 的牌對1名隨機敵人造成 #b",
+      " 點傷害",
+      "deprecated",
+      "deprecated"
     ]
   },
   "Retribution": {
@@ -1103,8 +1103,9 @@
   "BattleHymn": {
     "NAME": "戰歌",
     "DESCRIPTIONS": [
-      "每回合抽到的第1張牌在該回合的耗能減少 #b",
-      ""
+      "在你的回合開始時，將 #b",
+      " 張 #y懲惡 加入手牌",
+      " 張 #y懲惡 加入手牌"
     ]
   },
   "Grounded": {
