@@ -1169,8 +1169,9 @@
   "BattleHymn": {
     "NAME": "Battle Hymn",
     "DESCRIPTIONS": [
-    "The first card you draw each turn has its cost reduced by #b",
-    " that turn."
+     "At the start of your turn, add #b",
+     " #ySmites into your hand.",
+     " #ySmite into your hand."
   ]
   },
   "FreeAttackPower": {
@@ -1190,10 +1191,10 @@
   "MasterRealityPower": {
     "NAME": "Master Reality",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " #y",
-      " into your hand.",
-      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+      "At the end of your turn, deal #b",
+      " damage to a random enemy for each Retained card in your hand.",
+      "deprecated",
+      "deprecated"
     ]
   },
   "StrikeUp": {
