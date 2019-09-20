@@ -1467,7 +1467,7 @@
   },
   "SignatureMove": {
     "NAME": "Signature Move",
-    "DESCRIPTION": "Can only be played if this isw the only Attack in your hand. NL Deal !D! damage." 
+    "DESCRIPTION": "Can only be played if this is the only Attack in your hand. NL Deal !D! damage." 
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",
@@ -1725,7 +1725,7 @@
   },
   "MasterReality": {
     "NAME": "Master Reality",
-    "DESCRIPTION": "Choose a card from your hand. NL At the start of your turn, add a copy of it into your hand."
+    "DESCRIPTION": "Choose NL *Smite or *Safety. NL At the start of each turn add the chosen card into your hand."
   },
   "BowlingBash": {
     "NAME": "Bowling Bash",

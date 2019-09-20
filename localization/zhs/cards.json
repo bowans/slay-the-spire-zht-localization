@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "狂暴",
-    "DESCRIPTION": "获得 !M! 层 易伤 。 NL 每回合开始时获得 [R] 。"
+    "DESCRIPTION": "获得 !M! 层 易伤 。 NL 在每回合开始时获得 [R] 。"
   },
   "Biased Cognition": {
     "NAME": "偏差认知",
@@ -1366,7 +1366,7 @@
   },
   "ThroughViolence": {
     "NAME": "以暴易暴",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 消耗 。"
+    "DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害。 NL 消耗 。"
   },
   "Metaphysics": {
     "NAME": "形上谓道",
@@ -1533,8 +1533,8 @@
   },
   "Collect": {
     "NAME": "收集",
-    "DESCRIPTION": "在你的下X个回合开始时获得 [W] [W] 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "在你的下X+1个回合开始时获得 [W] [W] 。 NL 消耗 。"
+    "DESCRIPTION": "在你的下X个回合开始时，增加一张 升级的 *奇迹 到你的手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "在你的下X+1个回合开始时，增加一张 升级的 *奇迹 到你的手牌。 NL 消耗 。"
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1582,8 +1582,8 @@
   },
   "DevaForm": {
     "NAME": "天人形态",
-    "DESCRIPTION": "获得 !M! 层 多层护甲 。",
-    "UPGRADE_DESCRIPTION": "At the start of turn, gain [W] and increase this gain by !M!."
+    "DESCRIPTION": " 虚无 。 NL 在你的回合开始时获得 [W] ，每回合增加 !M! 。",
+    "UPGRADE_DESCRIPTION": "在你的回合开始时获得 [W] ，每回合增加 !M! 。"
   },
   "TalkToTheHand": {
     "NAME": "以手拒之",
@@ -1623,7 +1623,7 @@
   },
   "Brilliance": {
     "NAME": "光辉",
-    "DESCRIPTION": "将你的手牌全部变为 *奇迹 。 NL 消耗 。",
+    "DESCRIPTION": "回复 !M! 点生命 X 次。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
