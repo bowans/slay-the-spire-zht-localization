@@ -1191,8 +1191,8 @@
   "MasterRealityPower": {
     "NAME": "Master Reality",
     "DESCRIPTIONS": [
-      "At the end of your turn, deal #b",
-      " damage to a random enemy for each Retained card in your hand.",
+      "Whenever you play a card that #yRetains, deal #b",
+      " damage to a random enemy",
       "deprecated",
       "deprecated"
     ]
