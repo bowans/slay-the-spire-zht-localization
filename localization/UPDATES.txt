@@ -1,5 +1,47 @@
 Updates for Translators!
 
+09-24-2019
+cards.json
+	"Indignation" (new card)
+	
+	"MasterReality"
+		"DESCRIPTION": "At the end of your turn, deal !M! damage to a random enemy for each Retained card in your hand."
+		->
+		"DESCRIPTION": "Whenever you play a card that Retains, deal !M! damage to a random enemy."
+	
+	"Tantrum"
+		"DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot exit Wrath this turn."
+		->
+		"DESCRIPTION": "Deal !D! damage to !M! random enemies. NL Enter Wrath. NL Shuffle this card into your draw pile."
+
+	"InnerPeace" (capitalization)
+		"DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise Enter Calm."
+		->
+		"DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise enter Calm."
+
+characters.json
+	"Neow Reward"
+		"[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
+		"#gObtain #g2 #grandom #gcolorless #gCards ]"
+		->
+		"[ #gChoose #ga #gcolorless #gCard #gto #gobtain ]",
+		"#gChoose #ga #grare #gcolorless #gCard #gto #gobtain ]"
+
+
+powers.json
+	"MasterRealityPower"
+		"At the end of your turn, deal #b",
+		" damage to a random enemy for each Retained card in your hand.",
+		"deprecated",
+		"deprecated"
+		->
+		"Whenever you play a card that #yRetains, deal #b",
+		" damage to a random enemy",
+		"deprecated",
+		"deprecated"
+
+----------------------------------
+
 09-23-2019
 monsters.json
 	"TimeEater"
