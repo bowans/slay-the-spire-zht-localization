@@ -1,5 +1,46 @@
 Updates for Translators!
 
+09-23-2019
+monsters.json
+	"TimeEater"
+		"DIALOG"
+			"~Never....~ NL ~...liked..~ NL ~..you...~"
+
+cards.json
+	"Adaptation"
+		"NAME": "Adaptation",
+		"DESCRIPTION": "Whenever you switch Stances, draw !M! card.",
+		->
+		"NAME": "Rushdown",
+		"DESCRIPTION": "Whenever you enter Wrath, draw !M! card.",
+	"WheelKick"
+		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
+	"Omniscience"
+		"DESCRIPTION": "Scry your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Scry your draw pile."
+		->
+		"DESCRIPTION": "Whenever you Scry, Scry !M! additional cards.",
+		"UPGRADE_DESCRIPTION": ""
+
+powers.json
+	"Adaptation"
+		"NAME": "Adaptation",
+		->
+		"NAME": "Rushdown",
+
+		"Whenever you switch #yStances, draw #b",
+		->
+		"Whenever you enter #yWrath, draw #b",
+	"OmnisciencePower"
+
+potions.json
+	These two potion fields aren't used so their fields are now marked as DEPRECATED.
+		"Elixir"
+		"Health Potion"
+
+----------------------------------
+
 09-20-2019
 cards.json
 	"Adaptation"

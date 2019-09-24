@@ -1247,5 +1247,12 @@
       " ",
       "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
     ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Omniscience",
+    "DESCRIPTIONS": [
+      "Whenver you #yScry, #yScry #b",
+      " additional cards."
+    ]
   }
 }

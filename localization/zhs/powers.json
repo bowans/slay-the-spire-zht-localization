@@ -1044,10 +1044,10 @@
   "MasterRealityPower": {
     "NAME": "操控现实",
     "DESCRIPTIONS": [
-      "在你的回合开始时，在你的手牌中加入 #b",
-      " 张 #y",
-      " 。",
-      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+      "在你的回合结束时，手牌中每张被 #y保留 的牌对一名随机敌人造成 #b",
+      " 点伤害。",
+      "deprecated",
+      "deprecated"
     ]
   },
   "Retribution": {
@@ -1103,9 +1103,9 @@
   "BattleHymn": {
     "NAME": "战歌",
     "DESCRIPTIONS": [
-      "你每回合抽到的第一张牌在该回合的耗能减少 #b",
-      " 。",
-      " #ySmite into your hand."
+      "在你的回合开始时，在你的手牌中加入 #b",
+      " 张 #y惩恶 。",
+      " 张 #y惩恶 。"
     ]
   },
   "Grounded": {
@@ -1137,9 +1137,9 @@
     ]
   },
   "Adaptation": {
-    "NAME": "顺应变化",
+    "NAME": "猛虎下山",
     "DESCRIPTIONS": [
-      "每当你转换 #y姿态 时，抽 #b",
+      "每当你进入 #y愤怒 时，抽 #b",
       " 张牌。",
       " 张牌。"
     ]
@@ -1246,6 +1246,13 @@
       "，然后将次数增加 #b",
       " 。",
       "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "通晓万物",
+    "DESCRIPTIONS": [
+      "你每次 #y预见 时，额外 #y预见 #b",
+      " 张牌。"
     ]
   }
 }

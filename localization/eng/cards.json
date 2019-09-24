@@ -1386,7 +1386,7 @@
     "DESCRIPTION": "Gain !M! Strength."
   },
   "StepAndStrike": {
-    "NAME": "Step and Strike",
+    "NAME": "DEPRECATED Step and Strike",
     "DESCRIPTION": "Costs 1 less per switched Stance this turn. NL Gain !B! Block. NL Deal !D! damage."
   },
   "Survey": {
@@ -1704,8 +1704,8 @@
   },
   "Omniscience": {
     "NAME": "Omniscience",
-    "DESCRIPTION": "Scry your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Scry your draw pile."
+    "DESCRIPTION": "Whenever you Scry, Scry !M! additional cards.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Scrawl": {
     "NAME": "Scrawl",
@@ -1765,8 +1765,8 @@
     "DESCRIPTION": "Deal !D! damage. NL Whenever you Scry and would discard this card, add it into your hand instead."
   },
   "Adaptation": {
-    "NAME": "Adaptation",
-    "DESCRIPTION": "Whenever you switch Stances, draw !M! card.",
+    "NAME": "Rushdown",
+    "DESCRIPTION": "Whenever you enter Wrath, draw !M! card.",
     "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Causality": {
@@ -1821,5 +1821,10 @@
   "Halt": {
     "NAME": "Halt",
     "DESCRIPTION": "Gain !B! Block. NL Wrath: Gain !M! additional Block."
+  },
+  "WheelKick": {
+    "NAME": "Wheel Kick",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
   }
 }

@@ -1317,9 +1317,9 @@
     "DESCRIPTION": "造成 !D! 點傷害。 NL 進入 憤怒 。 NL 你在本回合內不能離開 憤怒 。"
   },
   "Adaptation": {
-    "NAME": "順應變化",
-    "DESCRIPTION": "每當你轉換 姿態 時，抽 !M! 張牌。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 每當你轉換 姿態 時，抽 !M! 張牌。"
+    "NAME": "猛虎下山",
+    "DESCRIPTION": "每當你進入 憤怒 時，抽 !M! 張牌。",
+    "UPGRADE_DESCRIPTION": "DEPRECATED."
   },
   "Causality": {
     "NAME": "因果始終",
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "操控現實",
-    "DESCRIPTION": "選擇 NL *懲惡 或 *平安 。 NL 在每回合開始時，將選擇的牌加入你的手牌。"
+    "DESCRIPTION": "在你的回合結束時，手牌中每有一張被 保留 的牌，對一名隨機敵人造成 !M! 點傷害。"
   },
   "CleanseEvil": {
     "NAME": "掃除邪惡",
@@ -1623,7 +1623,7 @@
   },
   "Brilliance": {
     "NAME": "光輝",
-    "DESCRIPTION": "回復 !M! 點生命 X 次。 NL 消耗 。",
+    "DESCRIPTION": " 虛無 。 NL 回復 !M! 點生命 X 次。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -1681,8 +1681,8 @@
   },
   "BattleHymn": {
     "NAME": "戰歌",
-    "DESCRIPTION": "你每回合抽到的第一張牌在該回合的耗能減少 !M! 。",
-    "UPGRADE_DESCRIPTION": "At the start of each turn add !M! *Smites into your hand."
+    "DESCRIPTION": "在每回合開始時，將一張 *懲惡 加入你的手牌。",
+    "UPGRADE_DESCRIPTION": "在每回合開始時，將 !M! 張 *懲惡 加入你的手牌。"
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
@@ -1707,8 +1707,8 @@
   },
   "Omniscience": {
     "NAME": "通曉萬物",
-    "DESCRIPTION": " 預見 你的抽牌堆。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": " 預見 你的抽牌堆。"
+    "DESCRIPTION": "你每次 預見 時，額外預見 !M! 張牌。",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
     "NAME": "歐米伽",
@@ -1821,5 +1821,10 @@
   "SashWhip": {
     "NAME": "腰帶抽打",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 如果本場戰鬥中打出的上一張牌是攻擊牌，給予 !M! 層 虛弱 。"
+  },
+  "WheelKick": {
+    "NAME": "迴環踢",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 抽 !M! 張牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 抽 !M! 張牌。"
   }
 }

@@ -1041,9 +1041,9 @@
     ]
   },
   "Adaptation": {
-    "NAME": "Adaptation",
+    "NAME": "Rushdown",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, draw #b",
+      "Whenever you enter #yWrath, draw #b",
       " card.",
       " cards."
     ]
@@ -1247,6 +1247,13 @@
       "and increase this by #b",
       ".",
       "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Omniscience",
+    "DESCRIPTIONS": [
+      "Whenever you #yScry, #yScry #b",
+      " additional cards."
     ]
   }
 }

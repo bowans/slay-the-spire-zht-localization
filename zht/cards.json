@@ -1821,5 +1821,10 @@
   "SashWhip": {
     "NAME": "腰帶抽打",
     "DESCRIPTION": "造成 !D! 點傷害 NL 如果本場戰鬥中打出的上1張牌是攻擊牌，給予 !M! 層 虛弱 "
+  },
+  "WheelKick": {
+    "NAME": "Wheel Kick",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
   }
 }
