@@ -1,5 +1,50 @@
 Updates for Translators!
 
+09-26-2019
+cards.json
+	"Omniscience"
+		"DESCRIPTION": "Whenever you Scry, Scry !M! additional cards.",
+		->
+		"DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
+	
+	"Pray"
+		"DESCRIPTION": "Gain !M! Mantra. NL Shuffle a *Miracle into your draw pile.",
+		"UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Miracle into your draw pile."
+		->
+		"DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight into your draw pile.",
+		"UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Insight into your draw pile."
+
+	"Adaptation" (Aka Rushdown)
+		"DESCRIPTION": "Whenever you enter Wrath, draw !M! card.",
+		"UPGRADE_DESCRIPTION": "Deprecated."
+		->
+		"DESCRIPTION": "Whenever you enter Wrath, draw !M! cards.",
+		"UPGRADE_DESCRIPTION": "DEPRECATED"
+
+	"Wish"
+		"DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": ""
+		->
+		"DESCRIPTION": "Lose 25% of your current HP. NL Makes your dreams come true. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Lose 25% of your current HP. NL Makes your wildest dreams come true. NL Exhaust."
+	
+	"BecomeAlmighty"
+	"LiveForever"
+	"FameAndFortune"
+
+powers.json
+	"OmnisciencePower"
+		"Whenever you #yScry, #yScry #b",
+		" additional cards."
+		->
+		"DEPERCATED",
+		"DEPRECATED"
+
+relics.json
+	"GoldenEye"
+
+----------------------------------
+
 09-25-2019
 cards.json
 	"WheelKick"
