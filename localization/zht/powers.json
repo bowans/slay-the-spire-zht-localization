@@ -1044,7 +1044,7 @@
   "MasterRealityPower": {
     "NAME": "操控現實",
     "DESCRIPTIONS": [
-      "在你的回合結束時，手牌中每張被 #y保留 的牌對1名隨機敵人造成 #b",
+      "每打出1張 #y保留 的牌，對1名隨機敵人造成 #b",
       " 點傷害",
       "deprecated",
       "deprecated"
@@ -1137,9 +1137,9 @@
     ]
   },
   "Adaptation": {
-    "NAME": "順應變化",
+    "NAME": "猛虎下山",
     "DESCRIPTIONS": [
-      "轉換 #y姿態 時，抽 #b",
+      "進入 #y憤怒 時，抽 #b",
       " 張牌",
       " 張牌"
     ]
@@ -1249,10 +1249,10 @@
     ]
   },
   "OmnisciencePower": {
-    "NAME": "Omniscience",
+    "NAME": "通曉萬物",
     "DESCRIPTIONS": [
-      "Whenver you #yScry, #yScry #b",
-      " additional cards."
+      "每次 #y預見 時，額外 #y預見 #b",
+      " 張牌"
     ]
   }
 }

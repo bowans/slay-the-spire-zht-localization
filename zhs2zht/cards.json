@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "發洩",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 進入 憤怒 。 NL 你在本回合內不能離開 憤怒 。"
+    "DESCRIPTION": "隨機對敵人造成 !D! 點傷害 !M! 次。 NL 進入 憤怒 。 NL 將這張牌放入你的抽牌堆。"
   },
   "Adaptation": {
     "NAME": "猛虎下山",
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "操控現實",
-    "DESCRIPTION": "在你的回合結束時，手牌中每有一張被 保留 的牌，對一名隨機敵人造成 !M! 點傷害。"
+    "DESCRIPTION": "你每打出一張 保留 的牌，對一名隨機敵人造成 !M! 點傷害。"
   },
   "CleanseEvil": {
     "NAME": "掃除邪惡",
@@ -1828,7 +1828,7 @@
     "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 抽 !M! 張牌。"
   },
   "Indignation": {
-    "NAME": "Indignation",
-    "DESCRIPTION": "If you are in Wrath, apply !M! Vulnerable to ALL enemies, otherwise enter Wrath."
+    "NAME": "義憤填膺",
+    "DESCRIPTION": " 憤怒 ：給予所有敵人 !M! 層 易傷 。 NL 否則，進入 憤怒 。"
   }
 }
