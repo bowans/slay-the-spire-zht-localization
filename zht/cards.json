@@ -1353,8 +1353,8 @@
   },
   "Wish": {
     "NAME": "許願",
-    "DESCRIPTION": "選擇抽牌堆中的一張牌 NL 將這張牌打出兩次然後將其 消耗 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "選擇抽牌堆中的一張牌 NL 將這張牌打出三次然後將其 消耗 NL 消耗 "
+    "DESCRIPTION": "失去你當前生命的25% NL 實現你的夢想 NL 消耗",
+    "UPGRADE_DESCRIPTION": "失去你當前生命的25% NL 實現你最瘋狂的夢想 NL 消耗 "
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1648,8 +1648,8 @@
   },
   "Pray": {
     "NAME": "祈禱",
-    "DESCRIPTION": "獲得 !M! 層 真言 NL 在抽牌堆中加入1張 *奇蹟 ",
-    "UPGRADE_DESCRIPTION": "獲得 !M! 層 真言 NL 在抽牌堆中加入1張 已升級 的 *奇蹟 "
+    "DESCRIPTION": "獲得 !M! 層 真言 NL 在抽牌堆中加入1張 *洞見 ",
+    "UPGRADE_DESCRIPTION": "獲得 !M! 層 真言 NL 在抽牌堆中加入1張 已升級 的 *洞見 "
   },
   "BigBrain": {
     "NAME": "DEPRECATED Big Brain",
@@ -1707,7 +1707,7 @@
   },
   "Omniscience": {
     "NAME": "通曉萬物",
-    "DESCRIPTION": "每次 預見 時，額外預見 !M! 張牌",
+    "DESCRIPTION": "選擇抽牌堆中的一張牌，將這張牌打出2次然後將其 消耗 NL 消耗 ",
     "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
@@ -1830,5 +1830,17 @@
   "Indignation": {
     "NAME": "義憤填膺",
     "DESCRIPTION": " 憤怒 ：給予所有敵人 !M! 層 易傷 NL 否則，進入 憤怒 "
+  },
+  "BecomeAlmighty": {
+    "NAME": "力大無窮",
+    "DESCRIPTION": "獲得 !M! 點 力量 "
+  },
+  "FameAndFortune": {
+    "NAME": "名利雙收",
+    "DESCRIPTION": "獲得 !M! 金幣"
+  },
+  "LiveForever": {
+    "NAME": "永生不死",
+    "DESCRIPTION": "在你的回合結束時，獲得 !M! 層 多層護甲 "
   }
 }

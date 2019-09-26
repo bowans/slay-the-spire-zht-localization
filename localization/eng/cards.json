@@ -1442,8 +1442,8 @@
   },
   "Pray": {
     "NAME": "Pray",
-    "DESCRIPTION": "Gain !M! Mantra. NL Shuffle a *Miracle into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Miracle into your draw pile."
+    "DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Insight into your draw pile."
   },
   "Conclude": {
     "NAME": "Conclude",
@@ -1704,7 +1704,7 @@
   },
   "Omniscience": {
     "NAME": "Omniscience",
-    "DESCRIPTION": "Whenever you Scry, Scry !M! additional cards.",
+    "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Scrawl": {
@@ -1766,8 +1766,8 @@
   },
   "Adaptation": {
     "NAME": "Rushdown",
-    "DESCRIPTION": "Whenever you enter Wrath, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Deprecated."
+    "DESCRIPTION": "Whenever you enter Wrath, draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Causality": {
     "NAME": "Causality",
@@ -1776,8 +1776,8 @@
   },
   "Wish": {
     "NAME": "Wish",
-    "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": ""
+    "DESCRIPTION": "Lose 25% of your current HP. NL Makes your dreams come true. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Lose 25% of your current HP. NL Makes your wildest dreams come true. NL Exhaust."
   },
   "CurseOfTheBell": {
     "NAME": "Curse of the Bell",
@@ -1830,5 +1830,17 @@
   "Indignation": {
     "NAME": "Indignation",
     "DESCRIPTION": "If you are in Wrath, apply !M! Vulnerable to ALL enemies, otherwise enter Wrath."
+  },
+  "BecomeAlmighty": {
+    "NAME": "Become Almighty",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "LiveForever": {
+    "NAME": "Live Forever",
+    "DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+  },
+  "FameAndFortune": {
+    "NAME": "Fame and Fortune",
+    "DESCRIPTION": "Gain !M! Gold."
   }
 }
