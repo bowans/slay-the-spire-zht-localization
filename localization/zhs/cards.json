@@ -1353,8 +1353,8 @@
   },
   "Wish": {
     "NAME": "许愿",
-    "DESCRIPTION": "选择你抽牌堆中的一张牌。 将这张牌打出两次然后将其 消耗 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "选择你抽牌堆中的一张牌。 将这张牌打出三次然后将其 消耗 。 NL 消耗 。"
+    "DESCRIPTION": "失去你当前生命的25%。 NL 实现你的梦想。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "失去你当前生命的25%。 NL 实现你最疯狂的梦想。 NL 消耗 。"
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1648,8 +1648,8 @@
   },
   "Pray": {
     "NAME": "祈祷",
-    "DESCRIPTION": "获得 !M! 层 真言 。 NL 在你的抽牌堆中加入1张 *奇迹 。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 层 真言 。 NL 在你的抽牌堆中加入1张 升级 的 *奇迹 。"
+    "DESCRIPTION": "获得 !M! 层 真言 。 NL 在你的抽牌堆中加入1张 *洞见 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 真言 。 NL 在你的抽牌堆中加入1张 升级 的 *洞见 。"
   },
   "BigBrain": {
     "NAME": "DEPRECATED Big Brain",
@@ -1707,7 +1707,7 @@
   },
   "Omniscience": {
     "NAME": "通晓万物",
-    "DESCRIPTION": "你每次 预见 时，额外预见 !M! 张牌。",
+    "DESCRIPTION": "选择你抽牌堆中的一张牌。 将这张牌打出两次然后将其 消耗 。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
@@ -1832,15 +1832,15 @@
     "DESCRIPTION": " 愤怒 ：给予所有敌人 !M! 层 易伤 。 NL 否则，进入 愤怒 。"
   },
   "BecomeAlmighty": {
-    "NAME": "Become Almighty",
-    "DESCRIPTION": "Gain !M! Strength."
+    "NAME": "力大无穷",
+    "DESCRIPTION": "获得 !M! 点 力量 。"
   },
   "FameAndFortune": {
-    "NAME": "Fame and Fortune",
-    "DESCRIPTION": "Gain !M! Gold."
+    "NAME": "名利双收",
+    "DESCRIPTION": "获得 !M! 金币。"
   },
   "LiveForever": {
-    "NAME": "Live Forever",
-    "DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+    "NAME": "永生不死",
+    "DESCRIPTION": "在你的回合结束时，获得 !M! 层 多层护甲 。"
   }
 }
