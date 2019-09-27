@@ -1656,7 +1656,7 @@
   },
    "WaveOfTheHand": {
     "NAME": "Wave of the Hand",
-    "DESCRIPTION": "Calm: Apply !M! Weak. NL Wrath: Apply !M! Vulnerable."
+    "DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
   },
   "SpiritShield": {
     "NAME": "Spirit Shield",
@@ -1803,7 +1803,7 @@
   },
   "Omega": {
     "NAME": "Omega",
-    "DESCRIPTION": "At the start of your turn, deal !M! damage to ALL enemies."
+    "DESCRIPTION": "At the end of your turn, deal !M! damage to ALL enemies."
   },
   "Vengeance": {
     "NAME": "Simmering Fury",
@@ -1842,5 +1842,18 @@
   "FameAndFortune": {
     "NAME": "Fame and Fortune",
     "DESCRIPTION": "Gain !M! Gold."
+  },
+  "ConjureBlade": {
+    "NAME": "Conjure Blade",
+    "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Expunger into your draw pile. NL Exhaust."
+  },
+  "Expunger": {
+    "NAME": "Expunger",
+    "DESCRIPTION": "Deal !D! damage X times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+    "EXTENDED_DESCRIPTION": [
+      "Deal !D! damage !M! times."
+    ]
   }
 }

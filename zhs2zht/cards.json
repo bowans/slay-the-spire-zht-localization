@@ -1842,5 +1842,18 @@
   "LiveForever": {
     "NAME": "永生不死",
     "DESCRIPTION": "在你的回合結束時，獲得 !M! 層 多層護甲 。"
+  },
+  "Expunger": {
+    "NAME": "Expunger",
+    "DESCRIPTION": "Deal !D! damage X times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+    "EXTENDED_DESCRIPTION": [
+      "Deal !D! damage !M! times."
+    ]
+  },
+  "ConjureBlade": {
+    "NAME": "Conjure Blade",
+    "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Expunger into your draw pile. NL Exhaust."
   }
 }
