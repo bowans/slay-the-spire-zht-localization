@@ -478,7 +478,7 @@
   "IntangiblePlayer": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
+      "Reduce ALL damage taken from #yAttacks to #b1."
     ]
   },
   "Inverted": {
@@ -1220,7 +1220,7 @@
   "OmegaPower": {
     "NAME": "Omega",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal ",
+      "At the end of your turn, deal #b",
       " damage to ALL enemies."
     ]
   },
@@ -1254,6 +1254,13 @@
     "DESCRIPTIONS": [
       "DEPERCATED",
       "DEPRECATED"
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Wave Of The Hand",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yBlock, apply #b",
+      " #yWeak and #yVulnerable to ALL enemies."
     ]
   }
 }

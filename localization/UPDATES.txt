@@ -1,5 +1,31 @@
 Updates for Translators!
 
+09-27-2019
+cards.json
+	"ConjureBlade"
+	"Expunger"
+	"WaveOfTheHand"
+		"DESCRIPTION": "Calm: Apply !M! Weak. NL Wrath: Apply !M! Vulnerable."
+		->
+		"DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+
+	"Omega"
+		"DESCRIPTION": "At the start of your turn, deal !M! damage to ALL enemies."
+		->
+		"DESCRIPTION": "At the end of your turn, deal !M! damage to ALL enemies."
+
+powers.json
+	"WaveOfTheHandPower"
+	"IntangiblePlayer"
+		"Reduce ALL damage taken and HP loss to #b1."
+		->
+		"Reduce ALL damage taken from #yAttacks to #b1."
+
+	"OmegaPower"
+		"At the start of your turn, deal ",
+		->
+		"At the end of your turn, deal #b",
+
 09-26-2019
 cards.json
 	"Omniscience"
