@@ -462,7 +462,7 @@
   "IntangiblePlayer": {
     "NAME": "无实体",
     "DESCRIPTIONS": [
-      "将受到的所有伤害和生命减少效果降低为 #b1 。"
+      "将受到的所有 #y攻击 伤害降低为 #b1 。"
     ]
   },
   "Inverted": {
@@ -1082,7 +1082,7 @@
   "OmegaPower": {
     "NAME": "欧米伽",
     "DESCRIPTIONS": [
-      "在你的回合开始时，对所有敌人造成 ",
+      "在你的回合结束时，对所有敌人造成 #b",
       " 点伤害。"
     ]
   },
@@ -1256,10 +1256,10 @@
     ]
   },
   "WaveOfTheHandPower": {
-    "NAME": "Wave Of The Hand",
+    "NAME": "摆手",
     "DESCRIPTIONS": [
-      "Whenever you gain #yBlock, apply #b",
-      " #yWeak and #yVulnerable to ALL enemies."
+      "在本回合，你每次获得 #y格挡 时，给予所有敌人 #b",
+      " 层 #y虚弱 和 #y易伤 。"
     ]
   }
 }

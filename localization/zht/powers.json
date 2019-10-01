@@ -1082,7 +1082,7 @@
   "OmegaPower": {
     "NAME": "歐米伽",
     "DESCRIPTIONS": [
-      "在你的回合開始時，對所有敵人造成 ",
+      "在你的回合結束時，對所有敵人造成 #b",
       " 點傷害"
     ]
   },
@@ -1256,10 +1256,10 @@
     ]
   },
   "WaveOfTheHandPower": {
-    "NAME": "Wave Of The Hand",
+    "NAME": "擺手",
     "DESCRIPTIONS": [
-      "Whenever you gain #yBlock, apply #b",
-      " #yWeak and #yVulnerable to ALL enemies."
+      "每次獲得 #y格擋 時，給予所有敵人 #b",
+      " 層 #y虛弱 和 #y易傷 "
     ]
   }
 }

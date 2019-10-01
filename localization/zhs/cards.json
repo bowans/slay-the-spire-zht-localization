@@ -1509,7 +1509,7 @@
   },
   "WaveOfTheHand": {
     "NAME": "摆手",
-    "DESCRIPTION": "平静 ：给予 !M! 层 虚弱 。 NL 愤怒 ：给予 !M! 层 易伤 。"
+    "DESCRIPTION": "在本回合，你每次获得 格挡 时，给予所有敌人 !M! 层 虚弱 和 !M! 层 易伤 。"
   },
   "Vigilance": {
     "NAME": "警惕",
@@ -1712,7 +1712,7 @@
   },
   "Omega": {
     "NAME": "欧米伽",
-    "DESCRIPTION": "在你的回合开始时，对所有敌人造成 !M! 点伤害。"
+    "DESCRIPTION": "在你的回合结束时，对所有敌人造成 !M! 点伤害。"
   },
   "Serenity": {
     "NAME": "宁静",
@@ -1844,16 +1844,16 @@
     "DESCRIPTION": "在你的回合结束时，获得 !M! 层 多层护甲 。"
   },
   "Expunger": {
-    "NAME": "Expunger",
-    "DESCRIPTION": "Deal !D! damage X times.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+    "NAME": "灭除之刃",
+    "DESCRIPTION": "造成 !D! 点伤害 X 次。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害 X+1 次。",
     "EXTENDED_DESCRIPTION": [
-      "Deal !D! damage !M! times."
+      "造成 !D! 点伤害 !M! 次。"
     ]
   },
   "ConjureBlade": {
-    "NAME": "Conjure Blade",
-    "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Expunger into your draw pile. NL Exhaust."
+    "NAME": "聚能成刃",
+    "DESCRIPTION": "将一张 *灭除之刃 放入你的抽牌堆中。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将一张 升级 的 *灭除之刃 放入你的抽牌堆中。 NL 消耗 。"
   }
 }
