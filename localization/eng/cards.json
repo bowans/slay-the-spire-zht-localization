@@ -1083,7 +1083,7 @@
   "Storm of Steel": {
     "NAME": "Storm of Steel",
     "DESCRIPTION": "Discard your hand. NL Add 1 *Shiv into your hand for each card discarded.",
-    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 Upgraded *Shiv into your hand for each card discarded."
+    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 *Shiv+ into your hand for each card discarded."
   },
   "Streamline": {
     "NAME": "Streamline",
@@ -1324,7 +1324,7 @@
   },
   "MentalFortress": {
     "NAME": "Mental Fortress",
-    "DESCRIPTION": "Whenever you switch Stances, gain !M! Block."
+    "DESCRIPTION": "Whenever you change Stances, gain !M! Block."
   },
   "Mastery": {
     "NAME": "Mastery",
@@ -1332,8 +1332,8 @@
   },
   "Collect": {
     "NAME": "Collect",
-    "DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X turns. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X+1 turns. NL Exhaust."
+    "DESCRIPTION": "Put a *Miracle+ into your hand at the start of your next X turns. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Put a *Miracle+ into your hand at the start of your next X+1 turns. NL Exhaust."
   },
   "ForeignInfluence": {
     "NAME": "Foreign Influence",
@@ -1400,7 +1400,7 @@
   "Blessed": {
     "NAME": "DEPRECATED Blessed",
     "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Shuffle !M! *Miracles+ into your draw pile. NL Exhaust."
   },
   "LetFateDecide": {
     "NAME": "DEPRECATED Let Fate Decide",
@@ -1443,7 +1443,7 @@
   "Pray": {
     "NAME": "Pray",
     "DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Insight into your draw pile."
+    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight+ into your draw pile."
   },
   "Conclude": {
     "NAME": "Conclude",
@@ -1479,8 +1479,12 @@
     "UPGRADE_DESCRIPTION": "Retain. NL Gain !M! Mantra."
   },
   "Fasting": {
-    "NAME": "Fasting",
-    "DESCRIPTION": "Gain !M! Artifact."
+    "NAME": "Fasting A",
+    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity."
+  },
+  "Fasting2": {
+    "NAME": "Fasting B",
+    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Gain 1 less [W] at the start of each turn."
   },
   "DevaForm": {
     "NAME": "Deva Form",
@@ -1495,7 +1499,7 @@
   "ReachHeaven": {
     "NAME": "Reach Heaven",
     "DESCRIPTION": "Deal !D! damage. NL Shuffle a NL *Through *Violence into your draw pile.",
-	  "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle an Upgraded *Through *Violence into your draw pile."
+	  "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle an *Through *Violence+ into your draw pile."
   },
   "ThroughViolence": {
     "NAME": "Through Violence",
@@ -1522,7 +1526,7 @@
   },
   "Vault": {
     "NAME": "Vault",
-    "DESCRIPTION": "Gain 1 Intangible. NL Next turn, deal !D! damage. NL End your turn. NL Exhaust."
+    "DESCRIPTION": "Skip the enemies next turn. NL End your turn. NL Exhaust."
   },
   "Flow": {
     "NAME": "DEPRECATED Flow",
@@ -1531,7 +1535,7 @@
   "CarveReality": {
     "NAME": "Carve Reality",
     "DESCRIPTION": "Deal !D! damage. NL Add a *Smite into your hand.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add an Upgraded *Smite into your hand."
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add a *Smite+ into your hand."
   },
   "Smite": {
     "NAME": "Smite",
@@ -1550,7 +1554,7 @@
   "DeceiveReality": {
     "NAME": "Deceive Reality",
     "DESCRIPTION": "Gain !B! Block. NL Add a *Safety into your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add an Upgraded *Safety into your hand."
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add a *Safety+ into your hand."
   },
   "Safety": {
     "NAME": "Safety",
@@ -1580,12 +1584,12 @@
   "Metaphysics": {
     "NAME": "Metaphysics",
     "DESCRIPTION": "Shuffle a *Causality into your draw pile. NL Exhaust.",
-	  "UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Causality into your draw pile. NL Exhaust."
+	  "UPGRADE_DESCRIPTION": "Shuffle a *Causality+ into your draw pile. NL Exhaust."
   },
   "Evaluate": {
     "NAME": "Evaluate",
     "DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an Upgraded *Insight into your draw pile."
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight+ into your draw pile."
   },
   "Devotion": {
     "NAME": "Devotion",
@@ -1609,8 +1613,8 @@
   },
   "CleanseEvil": {
     "NAME": "Cleanse Evil",
-    "DESCRIPTION": "Add X *Smites into your hand.",
-    "UPGRADE_DESCRIPTION": "Add X Upgraded *Smites into your hand."
+    "DESCRIPTION": "Add X *Smite into your hand.",
+    "UPGRADE_DESCRIPTION": "Add X *Smite+ into your hand."
   },
   "Torrent": {
     "NAME": "DEPRECATED Torrent",
@@ -1654,9 +1658,9 @@
     "NAME": "Tranquility",
     "DESCRIPTION": "Retain. NL Enter Calm. NL Exhaust."
   },
-   "WaveOfTheHand": {
-    "NAME": "Wave of the Hand",
-    "DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+  "WaveOfTheHand": {
+    "NAME": "Wave of the Hand B",
+    "DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak to ALL enemies."
   },
   "SpiritShield": {
     "NAME": "Spirit Shield",
@@ -1776,8 +1780,8 @@
   },
   "Wish": {
     "NAME": "Wish",
-    "DESCRIPTION": "Lose 25% of your current HP. NL Makes your dreams come true. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Lose 25% of your current HP. NL Makes your wildest dreams come true. NL Exhaust."
+    "DESCRIPTION": "Gain !D! Strength, NL !M! Gold, or !B! Plated Armor each turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
     "NAME": "Curse of the Bell",
@@ -1789,7 +1793,7 @@
   },
   "Tantrum": {
     "NAME": "Tantrum",
-    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
+    "DESCRIPTION": "Deal !D! damage NL !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
   },
   "Alpha": {
     "NAME": "Alpha",
@@ -1799,7 +1803,7 @@
   "Beta": {
     "NAME": "Beta",
     "DESCRIPTION": "Add an *Omega to the bottom of your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add an Upgraded *Omega to the bottom of your draw pile. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Add an *Omega+ to the bottom of your draw pile. NL Exhaust."
   },
   "Omega": {
     "NAME": "Omega",
@@ -1846,7 +1850,7 @@
   "ConjureBlade": {
     "NAME": "Conjure Blade",
     "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Expunger into your draw pile. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Shuffle an *Expunger+ into your draw pile. NL Exhaust."
   },
   "Expunger": {
     "NAME": "Expunger",
@@ -1855,5 +1859,9 @@
     "EXTENDED_DESCRIPTION": [
       "Deal !D! damage !M! times."
     ]
+  },
+  "WaveOfTheHand2": {
+    "NAME": "Wave of the Hand A",
+    "DESCRIPTION": "Whenever you gain change Stances this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
   }
 }

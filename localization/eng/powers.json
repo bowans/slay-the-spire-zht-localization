@@ -478,7 +478,7 @@
   "IntangiblePlayer": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken from #yAttacks to #b1."
+      "Reduce ALL damage taken and HP loss to #b1."
     ]
   },
   "Inverted": {
@@ -1080,9 +1080,9 @@
   "Collect": {
     "NAME": "Collect",
     "DESCRIPTIONS": [
-      "At the start of your next turn, put an #yUpgraded #yMiracle into your hand.",
+      "At the start of your next turn, put a #yMiracle+ into your hand.",
       "At the start of your next #b",
-      " turns, put an #yUpgraded #yMiracle into your hand."
+      " turns, put a #yMiracle+ into your hand."
     ]
   },
   "EmotionalTurmoilPower": {
@@ -1260,7 +1260,21 @@
     "NAME": "Wave Of The Hand",
     "DESCRIPTIONS": [
       "Whenever you gain #yBlock, apply #b",
+      " #yWeak to ALL enemies."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "Wave Of The Hand2",
+    "DESCRIPTIONS": [
+      "Whenever you gain change #yStances, apply #b",
       " #yWeak and #yVulnerable to ALL enemies."
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Fasting",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose ",
+      ""
     ]
   }
 }

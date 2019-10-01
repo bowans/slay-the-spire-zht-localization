@@ -1,5 +1,132 @@
 Updates for Translators!
 
+09-30-2019
+cards.json
+	"Fasting2"
+	"WaveOfTheHand2"
+	"Tantrum"
+		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
+		->
+		"DESCRIPTION": "Deal !D! damage NL !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
+	
+	"Fasting"
+		"NAME": "Fasting",
+		"DESCRIPTION": "Gain !M! Artifact."
+		->
+		"NAME": "Fasting A",
+		"DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity."
+
+	"WaveOfTheHand"
+		"NAME": "Wave of the Hand",
+		"DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+		->
+		"NAME": "Wave of the Hand B",
+		"DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak to ALL enemies."
+
+	"Wish"
+		"DESCRIPTION": "Lose 25% of your current HP. NL Makes your dreams come true. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Lose 25% of your current HP. NL Makes your wildest dreams come true. NL Exhaust."
+		->
+		"DESCRIPTION": "Gain !D! Strength, NL !M! Gold, or !B! Plated Armor each turn. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": ""
+
+	"MentalFortress"
+		"DESCRIPTION": "Whenever you switch Stances, gain !M! Block."
+		->
+		"DESCRIPTION": "Whenever you change Stances, gain !M! Block."
+
+	"Vault"
+		"DESCRIPTION": "Gain 1 Intangible. NL Next turn, deal !D! damage. NL End your turn. NL Exhaust."
+		->
+		"DESCRIPTION": "Skip the enemies next turn. NL End your turn. NL Exhaust."
+
+	"Storm of Steel"
+		"UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 Upgraded *Shiv into your hand for each card discarded."
+		->
+		"UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 *Shiv+ into your hand for each card discarded."
+
+	"Collect"
+		"DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X turns. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X+1 turns. NL Exhaust."
+		->
+		"DESCRIPTION": "Put a *Miracle+ into your hand at the start of your next X turns. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Put a *Miracle+ into your hand at the start of your next X+1 turns. NL Exhaust."
+
+	"Pray"
+		"UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Insight into your draw pile."
+		->
+		"UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight+ into your draw pile."
+
+	"ReachHeaven"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle an Upgraded *Through *Violence into your draw pile."
+		->
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle an *Through *Violence+ into your draw pile."
+
+	"CarveReality"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add an Upgraded *Smite into your hand."
+		->
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add a *Smite+ into your hand."
+
+	"DeceiveReality"
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add an Upgraded *Safety into your hand."
+		->
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add a *Safety+ into your hand."
+
+	"Metaphysics"
+		"UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Causality into your draw pile. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": "Shuffle a *Causality+ into your draw pile. NL Exhaust."
+
+	"Evaluate"
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an Upgraded *Insight into your draw pile."
+		->
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight+ into your draw pile."
+
+	"CleanseEvil"
+		"DESCRIPTION": "Add X *Smites into your hand.",
+		"UPGRADE_DESCRIPTION": "Add X Upgraded *Smites into your hand."
+		->
+		"DESCRIPTION": "Add X *Smite into your hand.",
+		"UPGRADE_DESCRIPTION": "Add X *Smite+ into your hand."
+
+	"Beta"
+		"UPGRADE_DESCRIPTION": "Add an Upgraded *Omega to the bottom of your draw pile. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": "Add an *Omega+ to the bottom of your draw pile. NL Exhaust."
+
+	"ConjureBlade"
+		"UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Expunger into your draw pile. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": "Shuffle an *Expunger+ into your draw pile. NL Exhaust."
+
+powers.json
+	"EnergyDownPower"
+	"WaveOfTheHandPower2"
+	"IntangiblePlayer"
+		"Reduce ALL damage taken from #yAttacks to #b1."
+		->
+		"Reduce ALL damage taken and HP loss to #b1."
+
+	"WaveOfTheHandPower"
+		" #yWeak and #yVulnerable to ALL enemies."
+		->
+		" #yWeak to ALL enemies."
+
+	"Collect"
+		"At the start of your next turn, put an #yUpgraded #yMiracle into your hand.",
+		->
+		"At the start of your next turn, put a #yMiracle+ into your hand.",
+
+		" turns, put an #yUpgraded #yMiracle into your hand."
+		->
+		" turns, put a #yMiracle+ into your hand."
+
+potions.json
+	"Cunning Potion"
+		" #yUpgraded #yShivs to your hand."
+		->
+		" #yShiv+ to your hand."
+
 09-27-2019
 cards.json
 	"ConjureBlade"
@@ -25,6 +152,8 @@ powers.json
 		"At the start of your turn, deal ",
 		->
 		"At the end of your turn, deal #b",
+
+----------------------------------
 
 09-26-2019
 cards.json
