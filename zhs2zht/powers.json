@@ -1261,5 +1261,19 @@
       "在本回合，你每次獲得 #y格擋 時，給予所有敵人 #b",
       " 層 #y虛弱 和 #y易傷 。"
     ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "Wave Of The Hand2",
+    "DESCRIPTIONS": [
+      "Whenever you gain change #yStances, apply #b",
+      " #yWeak and #yVulnerable to ALL enemies."
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Fasting",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose ",
+      ""
+    ]
   }
 }
