@@ -462,7 +462,7 @@
   "IntangiblePlayer": {
     "NAME": "无实体",
     "DESCRIPTIONS": [
-      "将受到的所有 #y攻击 伤害降低为 #b1 。"
+      "将受到的所有伤害和生命减少效果降低为 #b1 。"
     ]
   },
   "Inverted": {
@@ -1172,7 +1172,7 @@
     ]
   },
   "AngelForm": {
-    "NAME": "天人",
+    "NAME": "永生不死",
     "DESCRIPTIONS": [
       "在你的回合结束时，获得 #b",
       " 层 #y多层护甲 。"
@@ -1193,9 +1193,9 @@
   "Collect": {
     "NAME": "收集",
     "DESCRIPTIONS": [
-      "在你的下回合开始时，增加一张 #y升级 的 #y奇迹 到你的手牌。",
+      "在你的下回合开始时，增加一张 #y奇迹+ 到你的手牌。",
       "在你的下 #b",
-      " 个回合开始时，增加一张 #y升级 的 #y奇迹 到你的手牌。"
+      " 个回合开始时，增加一张 #y奇迹+ 到你的手牌。"
     ]
   },
   "Condense": {
@@ -1259,20 +1259,20 @@
     "NAME": "摆手",
     "DESCRIPTIONS": [
       "在本回合，你每次获得 #y格挡 时，给予所有敌人 #b",
-      " 层 #y虚弱 和 #y易伤 。"
+      " 层 #y虚弱 。"
     ]
   },
   "WaveOfTheHandPower2": {
     "NAME": "Wave Of The Hand2",
     "DESCRIPTIONS": [
-      "Whenever you gain change #yStances, apply #b",
-      " #yWeak and #yVulnerable to ALL enemies."
+      "在本回合，你每次转换 #y姿态 时，给予所有敌人 #b",
+      " 层 #y虚弱 和 #y易伤 。"
     ]
   },
   "EnergyDownPower": {
-    "NAME": "Fasting",
+    "NAME": "斋戒",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose ",
+      "在你的回合开始时，失去 ",
       ""
     ]
   }

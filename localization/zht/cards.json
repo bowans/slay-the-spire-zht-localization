@@ -1062,8 +1062,8 @@
   },
   "Storm of Steel": {
     "NAME": "鋼鐵風暴",
-    "DESCRIPTION": "丟棄所有手牌 NL 每丟棄 1 張牌，增加 1 張 小刀 到手牌",
-    "UPGRADE_DESCRIPTION": "丟棄所有手牌 NL 每丟棄 1 張牌，增加 1 張 已升級 小刀 到手牌"
+    "DESCRIPTION": "丟棄所有手牌 NL 每丟棄 1 張牌，增加 1 張 *小刀 到手牌",
+    "UPGRADE_DESCRIPTION": "丟棄所有手牌 NL 每丟棄 1 張牌，增加 1 張 *小刀+ 到手牌"
   },
   "Streamline": {
     "NAME": "精簡改良",
@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "發洩",
-    "DESCRIPTION": "對1名隨機敵人造成 !D! 點傷害 !M! 次 NL 進入 憤怒 NL 將這張牌放入抽牌堆"
+    "DESCRIPTION": "造成 !D! 點傷害 !M! 次 NL 進入 憤怒 NL 將這張牌放入抽牌堆"
   },
   "Adaptation": {
     "NAME": "猛虎下山",
@@ -1353,8 +1353,8 @@
   },
   "Wish": {
     "NAME": "許願",
-    "DESCRIPTION": "失去你當前生命的25% NL 實現你的夢想 NL 消耗",
-    "UPGRADE_DESCRIPTION": "失去你當前生命的25% NL 實現你最瘋狂的夢想 NL 消耗 "
+    "DESCRIPTION": "選擇：獲得 !D! 點 力量 、獲得 !M! 金幣 、或每回合獲得 !B! 層 多層護甲 NL 消耗",
+    "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1371,7 +1371,7 @@
   "Metaphysics": {
     "NAME": "形上謂道",
     "DESCRIPTION": "將一張 *因果始終 放入抽牌堆中 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "將一張 已升級 的 *因果始終 放入抽牌堆中 NL 消耗 "
+    "UPGRADE_DESCRIPTION": "將一張 *因果始終+ 放入抽牌堆中 NL 消耗 "
   },
   "Clarity": {
     "NAME": "明晰",
@@ -1397,7 +1397,7 @@
   },
   "Vault": {
     "NAME": "騰躍",
-    "DESCRIPTION": "獲得1層 無實體 NL 在下回合造成 !D! 點傷害 NL 結束你的回合 NL 消耗 "
+    "DESCRIPTION": "跳過所有敵人下個回合的行動 NL 結束你的回合 NL 消耗 "
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
@@ -1422,7 +1422,7 @@
   "CleanseEvil": {
     "NAME": "掃除邪惡",
     "DESCRIPTION": "在手牌中加入 X 張 *懲惡 ",
-    "UPGRADE_DESCRIPTION": "在手牌中加入 X 張 已升級 的 *懲惡 "
+    "UPGRADE_DESCRIPTION": "在手牌中加入 X 張 *懲惡+ "
   },
   "WindmillStrike": {
     "NAME": "旋轉打擊",
@@ -1472,7 +1472,7 @@
   "Beta": {
     "NAME": "貝塔",
     "DESCRIPTION": "將1張 *歐米伽 放入抽牌堆底部 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "將1張 已升級 的 *歐米伽 放入抽牌堆底部 NL 消耗 "
+    "UPGRADE_DESCRIPTION": "將1張 *歐米伽+ 放入抽牌堆底部 NL 消耗 "
   },
   "FearNoEvil": {
     "NAME": "不懼妖邪",
@@ -1508,8 +1508,8 @@
     "DESCRIPTION": "造成 !D! 點傷害 NL 預見 !M! NL 抽1張牌"
   },
   "WaveOfTheHand": {
-    "NAME": "擺手",
-    "DESCRIPTION": "本回合你每次獲得 格擋 時，給予所有敵人 !M! 層 虛弱 和 !M! 層 易傷 "
+    "NAME": "擺手B",
+    "DESCRIPTION": "本回合你每次獲得 格擋 時，給予所有敵人 !M! 層 虛弱 "
   },
   "Vigilance": {
     "NAME": "警惕",
@@ -1524,7 +1524,7 @@
   "Evaluate": {
     "NAME": "評估",
     "DESCRIPTION": "獲得 !B! 點 格擋 NL 在抽牌堆中加入1張 *洞見",
-    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 NL 在抽牌堆中加入1張 已升級 的 *洞見 "
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 NL 在抽牌堆中加入1張 *洞見+ "
   },
   "Establishment": {
     "NAME": "確立基礎",
@@ -1533,8 +1533,8 @@
   },
   "Collect": {
     "NAME": "收集",
-    "DESCRIPTION": "在接下來X個回合的回合開始時，增加1張 已升級 的 *奇蹟 到手牌 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "在接下來X+1個回合的回合開始時，增加1張 已升級 的 *奇蹟 到手牌 NL 消耗 "
+    "DESCRIPTION": "在接下來X個回合的回合開始時，增加1張 *奇蹟+ 到手牌 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "在接下來X+1個回合的回合開始時，增加1張 *奇蹟+ 到手牌 NL 消耗 "
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1606,7 +1606,7 @@
   "DeceiveReality": {
     "NAME": "欺瞞現實",
     "DESCRIPTION": "獲得 !B! 點 格擋 NL 將一張 *平安 加入手牌",
-    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 NL 將一張  已升級 的 *平安 加入手牌"
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 NL 將一張 *平安+ 加入手牌"
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
@@ -1649,7 +1649,7 @@
   "Pray": {
     "NAME": "祈禱",
     "DESCRIPTION": "獲得 !M! 層 真言 NL 在抽牌堆中加入1張 *洞見 ",
-    "UPGRADE_DESCRIPTION": "獲得 !M! 層 真言 NL 在抽牌堆中加入1張 已升級 的 *洞見 "
+    "UPGRADE_DESCRIPTION": "獲得 !M! 層 真言 NL 在抽牌堆中加入1張 *洞見+ "
   },
   "BigBrain": {
     "NAME": "DEPRECATED Big Brain",
@@ -1672,7 +1672,7 @@
   "ReachHeaven": {
     "NAME": "立地升天",
     "DESCRIPTION": "造成 !D! 點傷害 NL 在抽牌堆中加入1張 NL *以暴易暴 ",
-    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害 NL 在抽牌堆中加入1張 已升級 的 *以暴易暴 "
+    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害 NL 在抽牌堆中加入1張 *以暴易暴+ "
   },
   "Insight": {
     "NAME": "洞見",
@@ -1772,7 +1772,7 @@
   "CarveReality": {
     "NAME": "改造現實",
     "DESCRIPTION": "造成 !D! 點傷害 NL 將一張 *懲惡 加入手牌",
-    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害 NL 將一張 已升級 的 *懲惡 加入手牌"
+    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害 NL 將一張 *懲惡+ 加入手牌"
   },
   "Defend_P": {
     "NAME": "防禦",
@@ -1787,8 +1787,8 @@
     "DESCRIPTION": "造成 !D! 點傷害"
   },
   "Fasting": {
-    "NAME": "齋戒",
-    "DESCRIPTION": "獲得 !M! 層 人工製品 "
+    "NAME": "齋戒A",
+    "DESCRIPTION": "獲得 !M! 點 力量 NL 獲得 !M! 敏捷 "
   },
   "Swipe": {
     "NAME": "DEPRECATED Swipe",
@@ -1854,14 +1854,14 @@
   "ConjureBlade": {
     "NAME": "聚能成刃",
     "DESCRIPTION": "將1張 *滅除之刃 放入抽牌堆中 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "將1張 已升級 的 *滅除之刃 放入抽牌堆中 NL 消耗 "
+    "UPGRADE_DESCRIPTION": "將1張 *滅除之刃+ 放入抽牌堆中 NL 消耗 "
   },
   "WaveOfTheHand2": {
-    "NAME": "Wave of the Hand A",
-    "DESCRIPTION": "Whenever you gain change Stances this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+    "NAME": "擺手A",
+    "DESCRIPTION": "本回合你每次轉換 姿態 時，給予所有敵人 !M! 層 虛弱 和 !M! 層 易傷 "
   },
   "Fasting2": {
-    "NAME": "Fasting B",
-    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Gain 1 less [W] at the start of each turn."
+    "NAME": "齋戒B",
+    "DESCRIPTION": "獲得 !M! 點 力量 NL 獲得 !M! 敏捷 NL 每回合開始時少獲得1 [W] "
   }
 }

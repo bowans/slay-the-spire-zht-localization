@@ -1780,7 +1780,7 @@
   },
   "Wish": {
     "NAME": "Wish",
-    "DESCRIPTION": "Gain !D! Strength, NL !M! Gold, or !B! Plated Armor each turn. NL Exhaust.",
+    "DESCRIPTION": "Choose one: NL Gain !B! Plated Armor each turn, !D! Strength, or !M! Gold. NL Exhaust.",
     "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
@@ -1862,6 +1862,6 @@
   },
   "WaveOfTheHand2": {
     "NAME": "Wave of the Hand A",
-    "DESCRIPTION": "Whenever you gain change Stances this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+    "DESCRIPTION": "Whenever you change Stances this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
   }
 }

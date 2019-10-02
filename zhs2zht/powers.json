@@ -462,7 +462,7 @@
   "IntangiblePlayer": {
     "NAME": "無實體",
     "DESCRIPTIONS": [
-      "將受到的所有 #y攻擊 傷害降低為 #b1 。"
+      "將受到的所有傷害和生命減少效果降低為 #b1 。"
     ]
   },
   "Inverted": {
@@ -1172,7 +1172,7 @@
     ]
   },
   "AngelForm": {
-    "NAME": "天人",
+    "NAME": "永生不死",
     "DESCRIPTIONS": [
       "在你的回合結束時，獲得 #b",
       " 層 #y多層護甲 。"
@@ -1193,9 +1193,9 @@
   "Collect": {
     "NAME": "收集",
     "DESCRIPTIONS": [
-      "在你的下回合開始時，增加一張 #y升級 的 #y奇蹟 到你的手牌。",
+      "在你的下回合開始時，增加一張 #y奇蹟+ 到你的手牌。",
       "在你的下 #b",
-      " 個回合開始時，增加一張 #y升級 的 #y奇蹟 到你的手牌。"
+      " 個回合開始時，增加一張 #y奇蹟+ 到你的手牌。"
     ]
   },
   "Condense": {
@@ -1259,20 +1259,20 @@
     "NAME": "擺手",
     "DESCRIPTIONS": [
       "在本回合，你每次獲得 #y格擋 時，給予所有敵人 #b",
-      " 層 #y虛弱 和 #y易傷 。"
+      " 層 #y虛弱 。"
     ]
   },
   "WaveOfTheHandPower2": {
     "NAME": "Wave Of The Hand2",
     "DESCRIPTIONS": [
-      "Whenever you gain change #yStances, apply #b",
-      " #yWeak and #yVulnerable to ALL enemies."
+      "在本回合，你每次轉換 #y姿態 時，給予所有敵人 #b",
+      " 層 #y虛弱 和 #y易傷 。"
     ]
   },
   "EnergyDownPower": {
-    "NAME": "Fasting",
+    "NAME": "齋戒",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose ",
+      "在你的回合開始時，失去 ",
       ""
     ]
   }

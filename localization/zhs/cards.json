@@ -1063,7 +1063,7 @@
   "Storm of Steel": {
     "NAME": "钢铁风暴",
     "DESCRIPTION": "丢弃所有手牌。 NL 每丢弃一张牌，在你的手牌中增加一张 *小刀 。",
-    "UPGRADE_DESCRIPTION": "丢弃所有手牌。 NL 每丢弃一张牌，在你的手牌中增加一张 升级 的 *小刀 。"
+    "UPGRADE_DESCRIPTION": "丢弃所有手牌。 NL 每丢弃一张牌，在你的手牌中增加一张 *小刀+ 。"
   },
   "Streamline": {
     "NAME": "精简改良",
@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "发泄",
-    "DESCRIPTION": "随机对敌人造成 !D! 点伤害 !M! 次。 NL 进入 愤怒 。 NL 将这张牌放入你的抽牌堆。"
+    "DESCRIPTION": "造成 !D! 点伤害 !M! 次。 NL 进入 愤怒 。 NL 将这张牌放入你的抽牌堆。"
   },
   "Adaptation": {
     "NAME": "猛虎下山",
@@ -1353,8 +1353,8 @@
   },
   "Wish": {
     "NAME": "许愿",
-    "DESCRIPTION": "失去你当前生命的25%。 NL 实现你的梦想。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "失去你当前生命的25%。 NL 实现你最疯狂的梦想。 NL 消耗 。"
+    "DESCRIPTION": "选择：获得 !D! 点 力量 、 NL 获得 !M! 金币 、或每回合获得 !B! 层 多层护甲 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1371,7 +1371,7 @@
   "Metaphysics": {
     "NAME": "形上谓道",
     "DESCRIPTION": "将一张 *因果始终 放入你的抽牌堆中。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "将一张 升级 的 *因果始终 放入你的抽牌堆中。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": "将一张 *因果始终+ 放入你的抽牌堆中。 NL 消耗 。"
   },
   "Clarity": {
     "NAME": "明晰",
@@ -1397,7 +1397,7 @@
   },
   "Vault": {
     "NAME": "腾跃",
-    "DESCRIPTION": "获得1层 无实体 。 NL 在下回合造成 !D! 点伤害。 NL 结束你的回合。 NL 消耗 。"
+    "DESCRIPTION": "跳过所有敌人下个回合的行动。 NL 结束你的回合。 NL 消耗 。"
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
@@ -1422,7 +1422,7 @@
   "CleanseEvil": {
     "NAME": "扫除邪恶",
     "DESCRIPTION": "在你的手牌中加入 X 张 *惩恶 。",
-    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 张 升级 的 *惩恶 。"
+    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 张 *惩恶+ 。"
   },
   "WindmillStrike": {
     "NAME": "旋转打击",
@@ -1472,7 +1472,7 @@
   "Beta": {
     "NAME": "贝塔",
     "DESCRIPTION": "将一张 *欧米伽 放入你的抽牌堆底部。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "将一张 升级 的 *欧米伽 放入你的抽牌堆底部。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": "将一张 *欧米伽+ 放入你的抽牌堆底部。 NL 消耗 。"
   },
   "FearNoEvil": {
     "NAME": "不惧妖邪",
@@ -1508,8 +1508,8 @@
     "DESCRIPTION": "造成 !D! 点伤害。 NL 预见 !M! 。 NL 抽1张牌。"
   },
   "WaveOfTheHand": {
-    "NAME": "摆手",
-    "DESCRIPTION": "在本回合，你每次获得 格挡 时，给予所有敌人 !M! 层 虚弱 和 !M! 层 易伤 。"
+    "NAME": "摆手B",
+    "DESCRIPTION": "在本回合，你每次获得 格挡 时，给予所有敌人 !M! 层 虚弱 。"
   },
   "Vigilance": {
     "NAME": "警惕",
@@ -1524,7 +1524,7 @@
   "Evaluate": {
     "NAME": "评估",
     "DESCRIPTION": "获得 !B! 点 格挡 。 NL 在你的抽牌堆中加入一张 *洞见 。",
-    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 在你的抽牌堆中加入一张 升级 的 *洞见 。"
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 在你的抽牌堆中加入一张 *洞见+ 。"
   },
   "Establishment": {
     "NAME": "确立基础",
@@ -1606,7 +1606,7 @@
   "DeceiveReality": {
     "NAME": "欺瞒现实",
     "DESCRIPTION": "获得 !B! 点 格挡 。 NL 将一张 *平安 加入你的手牌。",
-    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 将一张 升级 的 *平安 加入你的手牌。"
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 将一张 *平安+ 加入你的手牌。"
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
@@ -1649,7 +1649,7 @@
   "Pray": {
     "NAME": "祈祷",
     "DESCRIPTION": "获得 !M! 层 真言 。 NL 在你的抽牌堆中加入1张 *洞见 。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 层 真言 。 NL 在你的抽牌堆中加入1张 升级 的 *洞见 。"
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 真言 。 NL 在你的抽牌堆中加入1张 *洞见+ 。"
   },
   "BigBrain": {
     "NAME": "DEPRECATED Big Brain",
@@ -1672,7 +1672,7 @@
   "ReachHeaven": {
     "NAME": "立地升天",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 在你的抽牌堆中加入1张 NL *以暴易暴 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 在你的抽牌堆中加入1张 升级 的 *以暴易暴 。"
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 在你的抽牌堆中加入1张 *以暴易暴+ 。"
   },
   "Insight": {
     "NAME": "洞见",
@@ -1772,7 +1772,7 @@
   "CarveReality": {
     "NAME": "改造现实",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 将一张 *惩恶 加入你的手牌。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 将一张 升级 的 *惩恶 加入你的手牌。"
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 将一张 *惩恶+ 加入你的手牌。"
   },
   "Defend_P": {
     "NAME": "防御",
@@ -1787,8 +1787,8 @@
     "DESCRIPTION": "造成 !D! 点伤害。"
   },
   "Fasting": {
-    "NAME": "斋戒",
-    "DESCRIPTION": "获得 !M! 层 人工制品 。"
+    "NAME": "斋戒A",
+    "DESCRIPTION": "获得 !M! 点 力量 。 NL 获得 !M! 敏捷 。 "
   },
   "Swipe": {
     "NAME": "DEPRECATED Swipe",
@@ -1854,14 +1854,14 @@
   "ConjureBlade": {
     "NAME": "聚能成刃",
     "DESCRIPTION": "将一张 *灭除之刃 放入你的抽牌堆中。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "将一张 升级 的 *灭除之刃 放入你的抽牌堆中。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": "将一张 *灭除之刃+ 放入你的抽牌堆中。 NL 消耗 。"
   },
   "WaveOfTheHand2": {
-    "NAME": "Wave of the Hand A",
-    "DESCRIPTION": "Whenever you gain change Stances this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+    "NAME": "摆手A",
+    "DESCRIPTION": "在本回合，你每次转换 姿态 时，给予所有敌人 !M! 层 虚弱 和 !M! 层 易伤 。"
   },
   "Fasting2": {
-    "NAME": "Fasting B",
-    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Gain 1 less [W] at the start of each turn."
+    "NAME": "斋戒B",
+    "DESCRIPTION": "获得 !M! 点 力量 。 NL 获得 !M! 敏捷 。 NL 每回合开始时少获得1 [W] 。"
   }
 }
