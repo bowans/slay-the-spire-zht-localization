@@ -1375,7 +1375,7 @@
   },
   "Blasphemy": {
     "NAME": "Blasphemy",
-    "DESCRIPTION": "Enter Divinity. NL Die next turn."
+    "DESCRIPTION": "Enter Divinity. NL Die next turn. NL Exhaust."
   },
   "Ragnarok": {
     "NAME": "Ragnarok",
@@ -1479,11 +1479,11 @@
     "UPGRADE_DESCRIPTION": "Retain. NL Gain !M! Mantra."
   },
   "Fasting": {
-    "NAME": "Fasting A",
-    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity."
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
   },
   "Fasting2": {
-    "NAME": "Fasting B",
+    "NAME": "Fasting",
     "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Gain 1 less [W] at the start of each turn."
   },
   "DevaForm": {
@@ -1526,7 +1526,7 @@
   },
   "Vault": {
     "NAME": "Vault",
-    "DESCRIPTION": "Skip the enemies next turn. NL End your turn. NL Exhaust."
+    "DESCRIPTION": "Skip the next enemy turn. NL End your turn. NL Exhaust."
   },
   "Flow": {
     "NAME": "DEPRECATED Flow",
@@ -1553,7 +1553,7 @@
   },
   "DeceiveReality": {
     "NAME": "Deceive Reality",
-    "DESCRIPTION": "Gain !B! Block. NL Add a *Safety into your hand.",
+    "DESCRIPTION": "Gain !B! Block. NL Add a *Safety into NL your hand.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add a *Safety+ into your hand."
   },
   "Safety": {
@@ -1582,9 +1582,9 @@
     "DESCRIPTION": "Retain. NL Gain !B! Block. NL At the start of your turn, gain !M! Block."
   },
   "Metaphysics": {
-    "NAME": "Metaphysics",
-    "DESCRIPTION": "Shuffle a *Causality into your draw pile. NL Exhaust.",
-	  "UPGRADE_DESCRIPTION": "Shuffle a *Causality+ into your draw pile. NL Exhaust."
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED",
+	"UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Evaluate": {
     "NAME": "Evaluate",
@@ -1659,7 +1659,7 @@
     "DESCRIPTION": "Retain. NL Enter Calm. NL Exhaust."
   },
   "WaveOfTheHand": {
-    "NAME": "Wave of the Hand B",
+    "NAME": "Wave of the Hand",
     "DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak to ALL enemies."
   },
   "SpiritShield": {
@@ -1861,7 +1861,7 @@
     ]
   },
   "WaveOfTheHand2": {
-    "NAME": "Wave of the Hand A",
-    "DESCRIPTION": "Whenever you change Stances this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
   }
 }

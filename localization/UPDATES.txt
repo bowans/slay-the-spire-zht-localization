@@ -1,5 +1,63 @@
 Updates for Translators!
 
+10-01-2019
+cards.json
+	"Blasphemy"
+		"DESCRIPTION": "Enter Divinity. NL Die next turn."
+		->
+		"DESCRIPTION": "Enter Divinity. NL Die next turn. NL Exhaust."
+
+	"Fasting"
+		"NAME": "Fasting A",
+		"DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity."
+		->
+		"NAME": "DEPRECATED",
+		"DESCRIPTION": "DEPRECATED"
+
+	"Fasting2"
+		"NAME": "Fasting B",
+		->
+		"NAME": "Fasting",
+
+	"WaveOfTheHand"
+		"NAME": "Wave of the Hand B",
+		->
+		"NAME": "Wave of the Hand",
+
+	"WaveOfTheHand2"
+		"NAME": "Wave of the Hand A",
+		"DESCRIPTION": "Whenever you change Stances this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+		->
+		"NAME": "DEPRECATED",
+		"DESCRIPTION": "DEPRECATED"
+
+	"Vault"
+		"DESCRIPTION": "Skip the enemies next turn. NL End your turn. NL Exhaust."
+		->
+		"DESCRIPTION": "Skip the next enemy turn. NL End your turn. NL Exhaust."
+
+	"Metaphysics"
+		"NAME": "Metaphysics",
+		"DESCRIPTION": "Shuffle a *Causality into your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Shuffle a *Causality+ into your draw pile. NL Exhaust."
+		  ->
+		"NAME": "DEPRECATED",
+		"DESCRIPTION": "DEPRECATED",
+		"UPGRADE_DESCRIPTION": "DEPRECATED"
+
+	"DeceiveReality" (Formatting affects ENG only)
+		"DESCRIPTION": "Gain !B! Block. NL Add a *Safety into your hand.",
+		->
+		"DESCRIPTION": "Gain !B! Block. NL Add a *Safety into NL your hand.",
+
+powers.json
+	"WaveOfTheHandPower"
+		"NAME": "Wave Of The Hand",
+		->
+		"NAME": "Wave of the Hand",
+
+----------------------------------
+
 09-30-2019
 cards.json
 	"Fasting2"
