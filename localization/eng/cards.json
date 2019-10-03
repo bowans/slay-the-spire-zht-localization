@@ -1347,7 +1347,7 @@
   },
   "FlurryOfBlows": {
     "NAME": "Flurry Of Blows",
-    "DESCRIPTION": "Deal !D! damage. NL On Stance change, returns from the discard pile to your Hand."
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you change Stances, return this from the discard pile to your Hand."
   },
   "PalmThatRestrains": {
     "NAME": "DEPRECATED Restraining Palm",
@@ -1639,7 +1639,7 @@
   "BattleHymn": {
     "NAME": "Battle Hymn",
     "DESCRIPTION": "At the start of each turn add a *Smite into your hand.",
-	"UPGRADE_DESCRIPTION": "At the start of each turn add !M! *Smites into your hand."
+	"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Smite into your hand."
   },
   "Prostrate": {
     "NAME": "Prostrate",
@@ -1766,7 +1766,7 @@
   },
   "Weave": {
     "NAME": "Weave",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you Scry and would discard this card, add it into your hand instead."
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you Scry, return this from the discard pile to your Hand."
   },
   "Adaptation": {
     "NAME": "Rushdown",

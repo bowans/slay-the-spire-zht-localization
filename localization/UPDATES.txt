@@ -1,5 +1,24 @@
 Updates for Translators!
 
+10-02-2019
+cards.json
+	"FlurryOfBlows"
+		"DESCRIPTION": "Deal !D! damage. NL On Stance change, returns from the discard pile to your Hand."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you change Stances, return this from the discard pile to your Hand."
+
+	"Weave"
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you Scry and would discard this card, add it into your hand instead."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you Scry, return this from the discard pile to your Hand."
+
+	"BattleHymn"
+		"UPGRADE_DESCRIPTION": "At the start of each turn add !M! *Smites into your hand."
+		->
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Smite into your hand."
+
+----------------------------------
+
 10-01-2019
 cards.json
 	"Blasphemy"
