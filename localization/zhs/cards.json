@@ -1369,9 +1369,9 @@
     "DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害。 NL 消耗 。"
   },
   "Metaphysics": {
-    "NAME": "形上谓道",
-    "DESCRIPTION": "将一张 *因果始终 放入你的抽牌堆中。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "将一张 *因果始终+ 放入你的抽牌堆中。 NL 消耗 。"
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Clarity": {
     "NAME": "明晰",
@@ -1508,7 +1508,7 @@
     "DESCRIPTION": "造成 !D! 点伤害。 NL 预见 !M! 。 NL 抽1张牌。"
   },
   "WaveOfTheHand": {
-    "NAME": "摆手B",
+    "NAME": "摆手",
     "DESCRIPTION": "在本回合，你每次获得 格挡 时，给予所有敌人 !M! 层 虚弱 。"
   },
   "Vigilance": {
@@ -1743,7 +1743,7 @@
   },
   "Blasphemy": {
     "NAME": "渎神",
-    "DESCRIPTION": "进入 神格 。 NL 在下回合死亡。"
+    "DESCRIPTION": "进入 神格 。 NL 在下回合死亡。 NL 消耗 。"
   },
   "Transcendence": {
     "NAME": "超凡脱俗",
@@ -1787,8 +1787,8 @@
     "DESCRIPTION": "造成 !D! 点伤害。"
   },
   "Fasting": {
-    "NAME": "斋戒A",
-    "DESCRIPTION": "获得 !M! 点 力量 。 NL 获得 !M! 敏捷 。 "
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
   },
   "Swipe": {
     "NAME": "DEPRECATED Swipe",
@@ -1857,11 +1857,11 @@
     "UPGRADE_DESCRIPTION": "将一张 *灭除之刃+ 放入你的抽牌堆中。 NL 消耗 。"
   },
   "WaveOfTheHand2": {
-    "NAME": "摆手A",
-    "DESCRIPTION": "在本回合，你每次转换 姿态 时，给予所有敌人 !M! 层 虚弱 和 !M! 层 易伤 。"
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
   },
   "Fasting2": {
-    "NAME": "斋戒B",
+    "NAME": "斋戒",
     "DESCRIPTION": "获得 !M! 点 力量 。 NL 获得 !M! 敏捷 。 NL 每回合开始时少获得1 [W] 。"
   }
 }
