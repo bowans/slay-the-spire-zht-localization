@@ -1,5 +1,42 @@
 Updates for Translators!
 
+10-03-2019
+cards.json
+	"Discipline"
+	"Scrawl"
+		"DESCRIPTION": "Draw !M! cards. NL You cannot play Skills this turn.",
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL You cannot play Skills this turn."
+		->
+		"DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": ""
+
+	"MasterReality"
+		"DESCRIPTION": "Whenever you play a card that Retains, deal !M! damage to a random enemy."
+		->
+		"DESCRIPTION": "Whenever a card is created during combat, Upgrade it."
+
+powers.json
+	"DisciplinePower"
+	"MasterRealityPower"
+		"Whenever you play a card that #yRetains, deal #b",
+		" damage to a random enemy.",
+		->
+		"Whenever a card is created, it is #yUpgraded.",
+		"deprecated",
+
+	"WaveOfTheHandPower2"
+		"NAME": "Wave Of The Hand2",
+		->
+		"NAME": "DEPRECATED",
+
+		"Whenever you gain change #yStances, apply #b",
+		" #yWeak and #yVulnerable to ALL enemies."
+		->
+		"DEPRECATED",
+		"DEPRECATED"
+
+----------------------------------
+
 10-02-2019
 cards.json
 	"FlurryOfBlows"

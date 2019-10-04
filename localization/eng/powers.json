@@ -1191,8 +1191,8 @@
   "MasterRealityPower": {
     "NAME": "Master Reality",
     "DESCRIPTIONS": [
-      "Whenever you play a card that #yRetains, deal #b",
-      " damage to a random enemy.",
+      "Whenever a card is created, it is #yUpgraded.",
+      "deprecated",
       "deprecated",
       "deprecated"
     ]
@@ -1264,10 +1264,10 @@
     ]
   },
   "WaveOfTheHandPower2": {
-    "NAME": "Wave Of The Hand2",
+    "NAME": "DEPRECATED",
     "DESCRIPTIONS": [
-      "Whenever you gain change #yStances, apply #b",
-      " #yWeak and #yVulnerable to ALL enemies."
+      "DEPRECATED",
+      "DEPRECATED"
     ]
   },
   "EnergyDownPower": {
@@ -1275,6 +1275,12 @@
     "DESCRIPTIONS": [
       "At the start of your turn, lose ",
       ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "Discipline",
+    "DESCRIPTIONS": [
+      "If you end your turn with unused [W] , draw that many additional cards next turn."
     ]
   }
 }

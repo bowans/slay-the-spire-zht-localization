@@ -1713,8 +1713,8 @@
   },
   "Scrawl": {
     "NAME": "Scrawl",
-    "DESCRIPTION": "Draw !M! cards. NL You cannot play Skills this turn.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL You cannot play Skills this turn."
+    "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Swivel": {
     "NAME": "Swivel",
@@ -1730,7 +1730,7 @@
   },
   "MasterReality": {
     "NAME": "Master Reality",
-    "DESCRIPTION": "Whenever you play a card that Retains, deal !M! damage to a random enemy."
+    "DESCRIPTION": "Whenever a card is created during combat, Upgrade it."
   },
   "BowlingBash": {
     "NAME": "Bowling Bash",
@@ -1863,5 +1863,9 @@
   "WaveOfTheHand2": {
     "NAME": "DEPRECATED",
     "DESCRIPTION": "DEPRECATED"
+  },
+  "Discipline": {
+    "NAME": "Discipilne",
+    "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
   }
 }
