@@ -1682,7 +1682,7 @@
   "BattleHymn": {
     "NAME": "战歌",
     "DESCRIPTION": "在每回合开始时，将一张 *惩恶 加入你的手牌。",
-    "UPGRADE_DESCRIPTION": "在每回合开始时，将 !M! 张 *惩恶 加入你的手牌。"
+    "UPGRADE_DESCRIPTION": " 固有 。 在每回合开始时，将一张 *惩恶 加入你的手牌。"
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
@@ -1759,7 +1759,7 @@
   },
   "Weave": {
     "NAME": "迂回",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果你在 预见 时将这张牌丢弃，将其加入你的手牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你每次 预见 时，将这张牌从弃牌堆放回你的手牌。"
   },
   "CrushJoints": {
     "NAME": "粉碎关节",
@@ -1816,7 +1816,7 @@
   },
   "FlurryOfBlows": {
     "NAME": "疾风连击",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果在弃牌堆中，每次 姿态 变化时都会回到你的手牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你每次转换 姿态 时，将这张牌从弃牌堆放回你的手牌。"
   },
   "SashWhip": {
     "NAME": "腰带抽打",
