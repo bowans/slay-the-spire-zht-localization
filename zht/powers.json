@@ -1044,8 +1044,8 @@
   "MasterRealityPower": {
     "NAME": "操控現實",
     "DESCRIPTIONS": [
-      "每打出1張 #y保留 的牌，對1名隨機敵人造成 #b",
-      " 點傷害",
+      "在戰鬥中臨時增加的牌將被 #y升級 ",
+      "deprecated",
       "deprecated",
       "deprecated"
     ]
@@ -1263,10 +1263,10 @@
     ]
   },
   "WaveOfTheHandPower2": {
-    "NAME": "擺手A",
+    "NAME": "DEPRECATED",
     "DESCRIPTIONS": [
-      "每次轉換 #y姿態 時，給予所有敵人 #b",
-      " 層 #y虛弱 和 #y易傷 "
+      "DEPRECATED",
+      "DEPRECATED"
     ]
   },
   "EnergyDownPower": {
@@ -1274,6 +1274,12 @@
     "DESCRIPTIONS": [
       "在你的回合開始時，失去 ",
       ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "戒律",
+    "DESCRIPTIONS": [
+      "若你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌"
     ]
   }
 }
