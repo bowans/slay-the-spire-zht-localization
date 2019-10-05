@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "操控現實",
-    "DESCRIPTION": "每打出一張 保留 的牌，對1名隨機敵人造成 !M! 點傷害"
+    "DESCRIPTION": "所有在戰鬥中臨時增加的牌將被 升級 "
   },
   "CleanseEvil": {
     "NAME": "掃除邪惡",
@@ -1638,8 +1638,8 @@
   },
   "Scrawl": {
     "NAME": "潦草急就",
-    "DESCRIPTION": "抽 !M! 張牌 NL 本回合不能再打出技能牌",
-    "UPGRADE_DESCRIPTION": "抽 !M! 張牌 NL 本回合不能再打出技能牌"
+    "DESCRIPTION": "抽牌直到將手牌抽滿 NL 消耗",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Prostrate": {
     "NAME": "五體投地",
@@ -1865,7 +1865,7 @@
     "DESCRIPTION": "獲得 !M! 點 力量 NL 獲得 !M! 敏捷 NL 每回合開始時少獲得1 [W] "
   },
   "Discipline": {
-    "NAME": "Discipilne",
-    "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
+    "NAME": "戒律",
+    "DESCRIPTION": "若你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌"
   }
 }
