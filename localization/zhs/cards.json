@@ -85,7 +85,7 @@
   },
   "Bane": {
     "NAME": "灾祸",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有 中毒  状态 ，则再次造成 !D! 点伤害。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有 中毒 状态 ，则再次造成 !D! 点伤害。"
   },
   "Barrage": {
     "NAME": "弹幕齐射",
@@ -416,7 +416,7 @@
   },
   "Dropkick": {
     "NAME": "飞身踢",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有 易伤  状态 ， NL 获得 [R] 并且 NL 抽1张牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有 易伤 状态 ， NL 获得 [R] 并且 NL 抽1张牌。"
   },
   "Dual Wield": {
     "NAME": "双持",
@@ -624,7 +624,7 @@
   },
   "Heel Hook": {
     "NAME": "足跟勾",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有 虚弱  状态 ， NL 获得 [G] 并且 NL 抽1张牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有 虚弱 状态 ， NL 获得 [G] 并且 NL 抽1张牌。"
   },
   "Hello World": {
     "NAME": "你好，世界",
@@ -650,7 +650,7 @@
   },
   "Immolate": {
     "NAME": "燔祭",
-    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL  将一张 *灼伤 放入你的弃牌堆中。"
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 将一张 *灼伤 放入你的弃牌堆中。"
   },
   "Impervious": {
     "NAME": "岿然不动",
@@ -901,7 +901,7 @@
   },
   "Reckless Charge": {
     "NAME": "无谋冲锋",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL  将一张 晕眩 放入你的抽牌堆中。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 将一张 晕眩 放入你的抽牌堆中。"
   },
   "Recycle": {
     "NAME": "回收",
@@ -1053,7 +1053,7 @@
   },
   "Steam Power": {
     "NAME": "超频",
-    "DESCRIPTION": "抽 !M! 张牌。 NL  将一张 *灼伤 放入你的弃牌堆中。"
+    "DESCRIPTION": "抽 !M! 张牌。 NL 将一张 *灼伤 放入你的弃牌堆中。"
   },
   "Storm": {
     "NAME": "雷暴",
@@ -1213,7 +1213,7 @@
   },
   "White Noise": {
     "NAME": "白噪声",
-    "DESCRIPTION": "增加一张随机能力牌到你的手牌。 NL 这张牌在本回合耗能变为0。  NL 消耗 。"
+    "DESCRIPTION": "增加一张随机能力牌到你的手牌。 NL 这张牌在本回合耗能变为0。 NL 消耗 。"
   },
   "Wild Strike": {
     "NAME": "狂野打击",
@@ -1375,8 +1375,8 @@
   },
   "Clarity": {
     "NAME": "明晰",
-    "DESCRIPTION": "检视你抽牌堆顶部的 NL  !M! 张牌，将1张加入手牌。 NL 消耗 另一张。",
-    "UPGRADE_DESCRIPTION": "检视你抽牌堆顶部的 NL  !M! 张牌，将1张加入手牌。 NL 消耗 其他牌。"
+    "DESCRIPTION": "检视你抽牌堆顶部的 NL !M! 张牌，将1张加入手牌。 NL 消耗 另一张。",
+    "UPGRADE_DESCRIPTION": "检视你抽牌堆顶部的 NL !M! 张牌，将1张加入手牌。 NL 消耗 其他牌。"
   },
   "WreathOfFlame": {
     "NAME": "火焰纹",
@@ -1659,7 +1659,7 @@
   "ForeignInfluence": {
     "NAME": "他山之石",
     "DESCRIPTION": "从3张任意颜色的攻击牌中选择1张加入你的手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "从3张 升级 的任意颜色的攻击牌中选择1张加入你的手牌。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": "从3张任意颜色的攻击牌中选择1张加入你的手牌。 NL 这张牌在本回合耗能变为0。 NL 消耗 。"
   },
   "SignatureMove": {
     "NAME": "招牌技",
@@ -1867,5 +1867,9 @@
   "Discipline": {
     "NAME": "戒律",
     "DESCRIPTION": "如果你在回合结束时有未使用的 [W] ，则在下一回合额外抽相应张数的牌。"
+  },
+  "Flick": {
+    "NAME": "Flick",
+    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
   }
 }

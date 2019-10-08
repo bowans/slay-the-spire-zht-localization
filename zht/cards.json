@@ -1867,5 +1867,9 @@
   "Discipline": {
     "NAME": "戒律",
     "DESCRIPTION": "若你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌"
+  },
+  "Flick": {
+    "NAME": "Flick",
+    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
   }
 }

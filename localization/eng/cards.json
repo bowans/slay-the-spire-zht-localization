@@ -1815,8 +1815,8 @@
   },
   "PathToVictory": {
     "NAME": "Path to Victory",
-    "DESCRIPTION": "Play the top card of your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Play the top card of your draw pile."
+    "DESCRIPTION": "Whenever you play *Path *to *Victory, this enemy loses !M! HP.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Wallop": {
     "NAME": "Wallop",
@@ -1867,5 +1867,9 @@
   "Discipline": {
     "NAME": "Discipline",
     "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
+  },
+  "Flick": {
+    "NAME": "Flick",
+    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
   }
 }

@@ -1282,5 +1282,21 @@
     "DESCRIPTIONS": [
       "If you end your turn with unused [W] , draw that many additional cards next turn."
     ]
+  },
+  "FlickPower": {
+    "NAME": "Flick",
+    "DESCRIPTIONS": [
+      "When this enemy gets #yFlick #b",
+      "2 more times, it receives #b",
+      "1 more time, it receives #b",
+      " damage."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Path to Victory",
+    "DESCRIPTIONS": [
+      "Whenever you play #yPath #yto #yVictory, loses #b",
+      " HP."
+    ]
   }
 }
