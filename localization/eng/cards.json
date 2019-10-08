@@ -1338,7 +1338,7 @@
   "ForeignInfluence": {
     "NAME": "Foreign Influence",
     "DESCRIPTION": "Choose 1 of 3 Attacks of any color to add into your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose 1 of 3 Upgraded Attacks of any color to add into your hand. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 Attacks of any color to add into your hand. NL It costs 0 this turn. NL Exhaust."
   },
   "FlowState": {
     "NAME": "Flow State",
@@ -1443,7 +1443,7 @@
   "Pray": {
     "NAME": "Pray",
     "DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight+ into your draw pile."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Conclude": {
     "NAME": "Conclude",
@@ -1499,7 +1499,7 @@
   "ReachHeaven": {
     "NAME": "Reach Heaven",
     "DESCRIPTION": "Deal !D! damage. NL Shuffle a NL *Through *Violence into your draw pile.",
-	  "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle an *Through *Violence+ into your draw pile."
+	  "UPGRADE_DESCRIPTION": ""
   },
   "ThroughViolence": {
     "NAME": "Through Violence",
@@ -1535,7 +1535,7 @@
   "CarveReality": {
     "NAME": "Carve Reality",
     "DESCRIPTION": "Deal !D! damage. NL Add a *Smite into your hand.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add a *Smite+ into your hand."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Smite": {
     "NAME": "Smite",
@@ -1554,7 +1554,7 @@
   "DeceiveReality": {
     "NAME": "Deceive Reality",
     "DESCRIPTION": "Gain !B! Block. NL Add a *Safety into NL your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add a *Safety+ into your hand."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Safety": {
     "NAME": "Safety",
@@ -1865,7 +1865,7 @@
     "DESCRIPTION": "DEPRECATED"
   },
   "Discipline": {
-    "NAME": "Discipilne",
+    "NAME": "Discipline",
     "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
   }
 }

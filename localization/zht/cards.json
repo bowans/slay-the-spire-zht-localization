@@ -61,7 +61,7 @@
   },
   "Auto Shields": {
     "NAME": "自動護盾",
-    "DESCRIPTION": "如果你沒有格擋，獲得 !B! 點 格擋 "
+    "DESCRIPTION": "若你沒有格擋，獲得 !B! 點 格擋 "
   },
   "Axe Kick": {
     "NAME": "下壓踢",
@@ -462,7 +462,7 @@
   },
   "Escape Plan": {
     "NAME": "逃脫計劃",
-    "DESCRIPTION": "抽1張牌 NL 如果抽到的是技能牌，獲得 !B! 點 格擋 "
+    "DESCRIPTION": "抽1張牌 NL 若抽到的是技能牌，獲得 !B! 點 格擋 "
   },
   "Eviscerate": {
     "NAME": "開膛破肚",
@@ -1107,8 +1107,8 @@
   },
   "Tactician": {
     "NAME": "戰術大師",
-    "DESCRIPTION": " 無法打出 NL 如果這張牌從手牌中被丟棄，獲得 [G] ",
-    "UPGRADE_DESCRIPTION": " 無法打出 NL 如果這張牌從手牌中被丟棄，獲得 [G] [G] ",
+    "DESCRIPTION": " 無法打出 NL 若這張牌從手牌中被丟棄，獲得 [G] ",
+    "UPGRADE_DESCRIPTION": " 無法打出 NL 若這張牌從手牌中被丟棄，獲得 [G] [G] ",
     "EXTENDED_DESCRIPTION": [
       "不能打出這張牌"
     ]
@@ -1393,7 +1393,7 @@
   },
   "FollowUp": {
     "NAME": "追擊",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 如果本場戰鬥中打出的上1張牌是攻擊牌，獲得 [W]"
+    "DESCRIPTION": "造成 !D! 點傷害 NL 若本場戰鬥中打出的上1張牌是攻擊牌，獲得 [W]"
   },
   "Vault": {
     "NAME": "騰躍",
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "操控現實",
-    "DESCRIPTION": "每打出一張 保留 的牌，對1名隨機敵人造成 !M! 點傷害"
+    "DESCRIPTION": "所有在戰鬥中臨時增加的牌將被 升級 "
   },
   "CleanseEvil": {
     "NAME": "掃除邪惡",
@@ -1434,7 +1434,7 @@
   },
   "LessonLearned": {
     "NAME": "勤學精進",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 如果這張牌殺死了敵人，則 升級 牌組中的一張隨機牌 NL 消耗 "
+    "DESCRIPTION": "造成 !D! 點傷害 NL 若這張牌殺死了敵人，則 升級 牌組中的一張隨機牌 NL 消耗 "
   },
   "Calm": {
     "NAME": "平靜",
@@ -1459,7 +1459,7 @@
   },
   "Sanctity": {
     "NAME": "聖潔",
-    "DESCRIPTION": "獲得 !B! 點 格擋 NL 如果本場戰鬥中打出的上1張牌是技能牌，抽 !M! 張牌"
+    "DESCRIPTION": "獲得 !B! 點 格擋 NL 若本場戰鬥中打出的上1張牌是技能牌，抽 !M! 張牌"
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
@@ -1476,7 +1476,7 @@
   },
   "FearNoEvil": {
     "NAME": "不懼妖邪",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 如果目標敵人的意圖是攻擊，則進入 平靜 "
+    "DESCRIPTION": "造成 !D! 點傷害 NL 若目標敵人的意圖是攻擊，則進入 平靜 "
   },
   "Perseverance": {
     "NAME": "堅韌",
@@ -1638,8 +1638,8 @@
   },
   "Scrawl": {
     "NAME": "潦草急就",
-    "DESCRIPTION": "抽 !M! 張牌 NL 本回合不能再打出技能牌",
-    "UPGRADE_DESCRIPTION": "抽 !M! 張牌 NL 本回合不能再打出技能牌"
+    "DESCRIPTION": "抽牌直到將手牌抽滿 NL 消耗",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Prostrate": {
     "NAME": "五體投地",
@@ -1720,7 +1720,7 @@
   },
   "Judgement": {
     "NAME": "審判",
-    "DESCRIPTION": "如果目標敵人的生命值小於等於 !M! 點， NL 則將其生命值變為0點",
+    "DESCRIPTION": "若目標敵人的生命值小於等於 !M! 點， NL 則將其生命值變為0點",
     "EXTENDED_DESCRIPTION": [
       "審判"
     ]
@@ -1763,7 +1763,7 @@
   },
   "CrushJoints": {
     "NAME": "粉碎關節",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 如果本場戰鬥中打出的上1張牌是技能牌，給予 !M! 層 易傷 "
+    "DESCRIPTION": "造成 !D! 點傷害 NL 若本場戰鬥中打出的上1張牌是技能牌，給予 !M! 層 易傷 "
   },
   "Vengeance": {
     "NAME": "怒火中燒",
@@ -1820,7 +1820,7 @@
   },
   "SashWhip": {
     "NAME": "腰帶抽打",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 如果本場戰鬥中打出的上1張牌是攻擊牌，給予 !M! 層 虛弱 "
+    "DESCRIPTION": "造成 !D! 點傷害 NL 若本場戰鬥中打出的上1張牌是攻擊牌，給予 !M! 層 虛弱 "
   },
   "WheelKick": {
     "NAME": "迴環踢",
@@ -1865,7 +1865,7 @@
     "DESCRIPTION": "獲得 !M! 點 力量 NL 獲得 !M! 敏捷 NL 每回合開始時少獲得1 [W] "
   },
   "Discipline": {
-    "NAME": "Discipilne",
-    "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
+    "NAME": "戒律",
+    "DESCRIPTION": "若你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌"
   }
 }

@@ -371,7 +371,7 @@
   "Flight": {
     "NAME": "飛行",
     "DESCRIPTIONS": [
-      "將所受到的 #y攻擊 傷害降低 #b50% 。 如果在一個回合內被 #y攻擊 傷害 #b",
+      "將所受到的 #y攻擊 傷害降低 #b50% 。 若在一個回合內被 #y攻擊 傷害 #b",
       " 次，就會取消"
     ]
   },
@@ -488,7 +488,7 @@
   "Life Link": {
     "NAME": "生命連結",
     "DESCRIPTIONS": [
-      "如果其他敵人還生存，將在 #b2 回合後以 #b50% 生命復活"
+      "若其他敵人還生存，將在 #b2 回合後以 #b50% 生命復活"
     ]
   },
   "Lockon": {
@@ -1044,8 +1044,8 @@
   "MasterRealityPower": {
     "NAME": "操控現實",
     "DESCRIPTIONS": [
-      "每打出1張 #y保留 的牌，對1名隨機敵人造成 #b",
-      " 點傷害",
+      "在戰鬥中臨時增加的牌將被 #y升級 ",
+      "deprecated",
       "deprecated",
       "deprecated"
     ]
@@ -1263,10 +1263,10 @@
     ]
   },
   "WaveOfTheHandPower2": {
-    "NAME": "擺手A",
+    "NAME": "DEPRECATED",
     "DESCRIPTIONS": [
-      "每次轉換 #y姿態 時，給予所有敵人 #b",
-      " 層 #y虛弱 和 #y易傷 "
+      "DEPRECATED",
+      "DEPRECATED"
     ]
   },
   "EnergyDownPower": {
@@ -1277,9 +1277,9 @@
     ]
   },
   "DisciplinePower": {
-    "NAME": "Discipline",
+    "NAME": "戒律",
     "DESCRIPTIONS": [
-      "If you end your turn with unused [W]  , draw that many additional cards next turn."
+      "若你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌"
     ]
   }
 }
