@@ -650,7 +650,7 @@
   },
   "Immolate": {
     "NAME": "燔祭",
-    "DESCRIPTION": "對所有敵人造成 !D! 點傷害 NL  將1張 灼傷 放入棄牌堆"
+    "DESCRIPTION": "對所有敵人造成 !D! 點傷害 NL 將1張 灼傷 放入棄牌堆"
   },
   "Impervious": {
     "NAME": "巋然不動",
@@ -901,7 +901,7 @@
   },
   "Reckless Charge": {
     "NAME": "無謀衝鋒",
-    "DESCRIPTION": "造成 !D! 點傷害 NL  將1張 暈眩 放入抽牌堆"
+    "DESCRIPTION": "造成 !D! 點傷害 NL 將1張 暈眩 放入抽牌堆"
   },
   "Recycle": {
     "NAME": "回收",
@@ -1053,7 +1053,7 @@
   },
   "Steam Power": {
     "NAME": "超頻",
-    "DESCRIPTION": "抽 !M! 張牌 NL  將1張 灼傷 放入棄牌堆"
+    "DESCRIPTION": "抽 !M! 張牌 NL 將1張 灼傷 放入棄牌堆"
   },
   "Storm": {
     "NAME": "雷暴",
@@ -1518,8 +1518,8 @@
   },
   "PathToVictory": {
     "NAME": "取勝之道",
-    "DESCRIPTION": "打出抽牌堆頂部的牌 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "打出抽牌堆頂部的牌"
+    "DESCRIPTION": "給予一名敵人狀態：每當你打出 *取勝之道 時，這名敵人失去 !M! 點生命",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
     "NAME": "評估",
@@ -1659,7 +1659,7 @@
   "ForeignInfluence": {
     "NAME": "他山之石",
     "DESCRIPTION": "從3張任意顏色的攻擊牌中選擇1張加入手牌 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從3張 已升級 的任意顏色的攻擊牌中選擇1張加入手牌 NL 消耗 "
+    "UPGRADE_DESCRIPTION": "從3張任意顏色的攻擊牌中選擇1張加入手牌 NL 該牌在本回合耗能變為0 NL 消耗 "
   },
   "SignatureMove": {
     "NAME": "招牌技",
@@ -1867,5 +1867,9 @@
   "Discipline": {
     "NAME": "戒律",
     "DESCRIPTION": "若你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌"
+  },
+  "Flick": {
+    "NAME": "輕彈",
+    "DESCRIPTION": "造成 !D! 點傷害 NL 當一名敵人被 *輕彈 3 次時，將額外受到 !M! 點傷害"
   }
 }
