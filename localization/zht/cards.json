@@ -85,7 +85,7 @@
   },
   "Bane": {
     "NAME": "災禍",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 若敵人有 中毒  狀態 ，再次造成 !D! 點傷害"
+    "DESCRIPTION": "造成 !D! 點傷害 NL 若敵人有 中毒 狀態，再次造成 !D! 點傷害"
   },
   "Barrage": {
     "NAME": "彈幕齊射",
@@ -274,7 +274,7 @@
   },
   "Conserve Battery": {
     "NAME": "充電",
-    "DESCRIPTION": "獲得 !B! 點 格擋 NL 下回合獲得  [B]"
+    "DESCRIPTION": "獲得 !B! 點 格擋 NL 下回合獲得 [B]"
   },
   "Consume": {
     "NAME": "耗盡",
@@ -416,7 +416,7 @@
   },
   "Dropkick": {
     "NAME": "飛身踢",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 若敵人有 易傷  狀態 ， NL 你獲得 [R] 並且 NL 抽1張牌"
+    "DESCRIPTION": "造成 !D! 點傷害 NL 若敵人有 易傷 狀態， NL 你獲得 [R] 並且 NL 抽1張牌"
   },
   "Dual Wield": {
     "NAME": "雙持",
@@ -624,7 +624,7 @@
   },
   "Heel Hook": {
     "NAME": "腳跟鎖",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 若敵人有 虛弱  狀態 ， NL 你獲得 [G] 並且 NL 抽1張牌"
+    "DESCRIPTION": "造成 !D! 點傷害 NL 若敵人有 虛弱 狀態， NL 你獲得 [G] 並且 NL 抽1張牌"
   },
   "Hello World": {
     "NAME": "你好，世界",
@@ -650,7 +650,7 @@
   },
   "Immolate": {
     "NAME": "燔祭",
-    "DESCRIPTION": "對所有敵人造成 !D! 點傷害 NL  將1張 灼傷 放入棄牌堆"
+    "DESCRIPTION": "對所有敵人造成 !D! 點傷害 NL 將1張 灼傷 放入棄牌堆"
   },
   "Impervious": {
     "NAME": "巋然不動",
@@ -901,7 +901,7 @@
   },
   "Reckless Charge": {
     "NAME": "無謀衝鋒",
-    "DESCRIPTION": "造成 !D! 點傷害 NL  將1張 暈眩 放入抽牌堆"
+    "DESCRIPTION": "造成 !D! 點傷害 NL 將1張 暈眩 放入抽牌堆"
   },
   "Recycle": {
     "NAME": "回收",
@@ -946,7 +946,7 @@
   },
   "Sadistic Nature": {
     "NAME": "殘虐天性",
-    "DESCRIPTION": "每當你對一名敵人造成負面 狀態 ，使對方受到 !M! 點傷害"
+    "DESCRIPTION": "每當你對一名敵人造成負面效果，使對方受到 !M! 點傷害"
   },
   "Scrape": {
     "NAME": "刮削",
@@ -1053,7 +1053,7 @@
   },
   "Steam Power": {
     "NAME": "超頻",
-    "DESCRIPTION": "抽 !M! 張牌 NL  將1張 灼傷 放入棄牌堆"
+    "DESCRIPTION": "抽 !M! 張牌 NL 將1張 灼傷 放入棄牌堆"
   },
   "Storm": {
     "NAME": "雷暴",
@@ -1518,8 +1518,8 @@
   },
   "PathToVictory": {
     "NAME": "取勝之道",
-    "DESCRIPTION": "打出抽牌堆頂部的牌 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "打出抽牌堆頂部的牌"
+    "DESCRIPTION": "給予一名敵人狀態：每當你打出 *取勝之道 時，這名敵人失去 !M! 點生命",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
     "NAME": "評估",
@@ -1659,7 +1659,7 @@
   "ForeignInfluence": {
     "NAME": "他山之石",
     "DESCRIPTION": "從3張任意顏色的攻擊牌中選擇1張加入手牌 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "從3張 已升級 的任意顏色的攻擊牌中選擇1張加入手牌 NL 消耗 "
+    "UPGRADE_DESCRIPTION": "從3張任意顏色的攻擊牌中選擇1張加入手牌 NL 該牌在本回合耗能變為0 NL 消耗 "
   },
   "SignatureMove": {
     "NAME": "招牌技",
@@ -1869,7 +1869,7 @@
     "DESCRIPTION": "若你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌"
   },
   "Flick": {
-    "NAME": "Flick",
-    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
+    "NAME": "輕彈",
+    "DESCRIPTION": "造成 !D! 點傷害 NL 當一名敵人被 *輕彈 3 次時，將額外受到 !M! 點傷害"
   }
 }

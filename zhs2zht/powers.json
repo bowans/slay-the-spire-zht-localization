@@ -1283,19 +1283,19 @@
     ]
   },
   "FlickPower": {
-    "NAME": "Flick",
+    "NAME": "輕彈",
     "DESCRIPTIONS": [
-      "When this enemy gets #yFlick #b",
-      "2 more times, it receives #b",
-      "1 more time, it receives #b",
-      " damage."
+      "當這名敵人再被 #y輕彈 #b",
+      "2 次時，將受到 #b",
+      "1 次時，將受到 #b",
+      " 點傷害。"
     ]
   },
   "PathToVictoryPower": {
-    "NAME": "Path to Victory",
+    "NAME": "取勝之道",
     "DESCRIPTIONS": [
-      "Whenever you play #yPath #yto #yVictory, loses #b",
-      " HP."
+      "每當你打出 #y取勝之道 時，這名敵人失去 #b",
+      " 點生命。"
     ]
   }
 }

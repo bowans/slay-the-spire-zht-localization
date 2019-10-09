@@ -1518,8 +1518,8 @@
   },
   "PathToVictory": {
     "NAME": "取勝之道",
-    "DESCRIPTION": "打出抽牌堆頂部的牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "打出抽牌堆頂部的牌。"
+    "DESCRIPTION": "給予一名敵人狀態：每當你打出 *取勝之道 時，這名敵人失去 !M! 點生命。",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
     "NAME": "評估",
@@ -1869,7 +1869,7 @@
     "DESCRIPTION": "如果你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌。"
   },
   "Flick": {
-    "NAME": "Flick",
-    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
+    "NAME": "輕彈",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 當一名敵人被 *輕彈 3 次時，將額外受到 !M! 點傷害。"
   }
 }
