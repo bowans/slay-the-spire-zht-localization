@@ -1871,5 +1871,13 @@
   "Flick": {
     "NAME": "轻弹",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 当一名敌人被 *轻弹 3 次时，将额外受到 !M! 点伤害。"
+  },
+  "LikeWater": {
+    "NAME": "LikeWater",
+    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTION": "At the end of your turn, shuffle an *Insight into your draw pile."
   }
 }

@@ -532,6 +532,14 @@
       " additional cards."
     ]
   },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTIONS": [
+	  "At the end of your turn, shuffle #b",
+      " #yInsight into your draw pile.",
+      " #yInsights into your draw pile."
+    ]
+  },
   "Magnetism": {
     "NAME": "Magnetism",
     "DESCRIPTIONS": [
@@ -1278,7 +1286,7 @@
     ]
   },
   "DisciplinePower": {
-    "NAME": "Discipline",
+    "NAME": "DEPRECATED Discipline",
     "DESCRIPTIONS": [
       "If you end your turn with unused [W] , draw that many additional cards next turn."
     ]
@@ -1293,10 +1301,17 @@
     ]
   },
   "PathToVictoryPower": {
-    "NAME": "Path to Victory",
+    "NAME": "Mark",
     "DESCRIPTIONS": [
       "Whenever you play #yPath #yto #yVictory, loses #b",
       " HP."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Like Water",
+    "DESCRIPTIONS": [
+      "At the end of your turn, if you are in #yCalm, gain #b",
+      " #yBlock."
     ]
   }
 }
