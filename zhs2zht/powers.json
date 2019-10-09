@@ -1297,5 +1297,20 @@
       "每當你打出 #y取勝之道 時，這名敵人失去 #b",
       " 點生命。"
     ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Like Water",
+    "DESCRIPTIONS": [
+      "At the end of your turn, if you are in #yCalm, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTIONS": [
+      "At the end of your turn, shuffle #b",
+      " #yInsight into your draw pile.",
+      " #yInsights into your draw pile."
+    ]
   }
 }

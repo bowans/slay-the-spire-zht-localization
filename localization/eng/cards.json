@@ -729,6 +729,10 @@
     "DESCRIPTION": "At the start of your turn, draw !M! additional card.",
     "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, draw !M! additional card."
   },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTION": "At the end of your turn, shuffle an *Insight into your draw pile."
+  },
   "Madness": {
     "NAME": "Madness",
     "DESCRIPTION": "Reduce the cost of a random card in your hand to 0 this combat. NL Exhaust."
@@ -1341,7 +1345,7 @@
     "UPGRADE_DESCRIPTION": "Choose 1 of 3 Attacks of any color to add into your hand. NL It costs 0 this turn. NL Exhaust."
   },
   "FlowState": {
-    "NAME": "Flow State",
+    "NAME": "DEPRECATED Flow State",
     "DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath. NL Exhaust.",
   	"UPGRADE_DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath."
   },
@@ -1815,7 +1819,7 @@
   },
   "PathToVictory": {
     "NAME": "Path to Victory",
-    "DESCRIPTION": "Whenever you play *Path *to *Victory, this enemy loses !M! HP.",
+    "DESCRIPTION": " Apply !M! *Mark. NL ALL enemies lose HP equal to their *Mark.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Wallop": {
@@ -1865,11 +1869,15 @@
     "DESCRIPTION": "DEPRECATED"
   },
   "Discipline": {
-    "NAME": "Discipline",
+    "NAME": "DEPRECATED Discipline",
     "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
   },
   "Flick": {
     "NAME": "Flick",
     "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
+  },
+  "LikeWater": {
+    "NAME": "Like Water",
+    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
   }
 }
