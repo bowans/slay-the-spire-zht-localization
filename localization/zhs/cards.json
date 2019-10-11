@@ -1343,7 +1343,7 @@
     "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
   },
   "FlowState": {
-    "NAME": "流转",
+    "NAME": "DEPRECATED 流转",
     "DESCRIPTION": "愤怒 ：进入 平静 。 NL 平静 ：进入 愤怒 。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "愤怒 ：进入 平静 。 NL 平静 ：进入 愤怒 。"
   },
@@ -1518,7 +1518,7 @@
   },
   "PathToVictory": {
     "NAME": "取胜之道",
-    "DESCRIPTION": "给予一名敌人状态：每当你打出 *取胜之道 时，这名敌人失去 !M! 点生命。",
+    "DESCRIPTION": "给予 !M! *印记 。 NL 所有拥有 *印记 的敌人，失去与层数相等的生命。",
     "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
@@ -1715,7 +1715,7 @@
     "DESCRIPTION": "在你的回合结束时，对所有敌人造成 !M! 点伤害。"
   },
   "Serenity": {
-    "NAME": "宁静",
+    "NAME": "DEPRECATED 宁静",
     "DESCRIPTION": "在 平静 中时，所有生命值损失减少 !M! 点。"
   },
   "Judgement": {
@@ -1865,7 +1865,7 @@
     "DESCRIPTION": "获得 !M! 点 力量 。 NL 获得 !M! 敏捷 。 NL 每回合开始时少获得1 [W] 。"
   },
   "Discipline": {
-    "NAME": "戒律",
+    "NAME": "DEPRECATED 戒律",
     "DESCRIPTION": "如果你在回合结束时有未使用的 [W] ，则在下一回合额外抽相应张数的牌。"
   },
   "Flick": {
@@ -1873,11 +1873,11 @@
     "DESCRIPTION": "造成 !D! 点伤害。 NL 当一名敌人被 *轻弹 3 次时，将额外受到 !M! 点伤害。"
   },
   "LikeWater": {
-    "NAME": "LikeWater",
-    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
+    "NAME": "如水",
+    "DESCRIPTION": "在你的回合结束时，如果你处于 平静 ， 则获得 !M! 点 格挡 。"
   },
   "Study": {
-    "NAME": "Study",
-    "DESCRIPTION": "At the end of your turn, shuffle an *Insight into your draw pile."
+    "NAME": "研习",
+    "DESCRIPTION": "在你的回合结束时，在你的抽牌堆中加入一张 *洞见 。"
   }
 }

@@ -1343,7 +1343,7 @@
     "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
   },
   "FlowState": {
-    "NAME": "流轉",
+    "NAME": "DEPRECATED 流轉",
     "DESCRIPTION": "憤怒 ：進入 平靜 。 NL 平靜 ：進入 憤怒 。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "憤怒 ：進入 平靜 。 NL 平靜 ：進入 憤怒 。"
   },
@@ -1518,7 +1518,7 @@
   },
   "PathToVictory": {
     "NAME": "取勝之道",
-    "DESCRIPTION": "給予一名敵人狀態：每當你打出 *取勝之道 時，這名敵人失去 !M! 點生命。",
+    "DESCRIPTION": "給予 !M! *印記 。 NL 所有擁有 *印記 的敵人，失去與層數相等的生命。",
     "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
@@ -1715,7 +1715,7 @@
     "DESCRIPTION": "在你的回合結束時，對所有敵人造成 !M! 點傷害。"
   },
   "Serenity": {
-    "NAME": "寧靜",
+    "NAME": "DEPRECATED 寧靜",
     "DESCRIPTION": "在 平靜 中時，所有生命值損失減少 !M! 點。"
   },
   "Judgement": {
@@ -1865,7 +1865,7 @@
     "DESCRIPTION": "獲得 !M! 點 力量 。 NL 獲得 !M! 敏捷 。 NL 每回合開始時少獲得1 [W] 。"
   },
   "Discipline": {
-    "NAME": "戒律",
+    "NAME": "DEPRECATED 戒律",
     "DESCRIPTION": "如果你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌。"
   },
   "Flick": {
@@ -1873,11 +1873,11 @@
     "DESCRIPTION": "造成 !D! 點傷害。 NL 當一名敵人被 *輕彈 3 次時，將額外受到 !M! 點傷害。"
   },
   "LikeWater": {
-    "NAME": "LikeWater",
-    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
+    "NAME": "如水",
+    "DESCRIPTION": "在你的回合結束時，如果你處於 平靜 ， 則獲得 !M! 點 格擋 。"
   },
   "Study": {
-    "NAME": "Study",
-    "DESCRIPTION": "At the end of your turn, shuffle an *Insight into your draw pile."
+    "NAME": "研習",
+    "DESCRIPTION": "在你的回合結束時，在你的抽牌堆中加入一張 *洞見 。"
   }
 }

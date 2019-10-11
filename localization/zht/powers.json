@@ -1277,7 +1277,7 @@
     ]
   },
   "DisciplinePower": {
-    "NAME": "戒律",
+    "NAME": "DEPRECATED 戒律",
     "DESCRIPTIONS": [
       "若你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌"
     ]
@@ -1292,25 +1292,25 @@
     ]
   },
   "PathToVictoryPower": {
-    "NAME": "取勝之道",
+    "NAME": "印記",
     "DESCRIPTIONS": [
       "每當你打出 #y取勝之道 時，這名敵人失去 #b",
       " 點生命"
     ]
   },
   "LikeWaterPower": {
-    "NAME": "Like Water",
+    "NAME": "如水",
     "DESCRIPTIONS": [
-      "At the end of your turn, if you are in #yCalm, gain #b",
-      " #yBlock."
+      "在你的回合結束時，若你處於 #y平靜 ，則獲得 #b",
+      " 點 #y格擋 "
     ]
   },
   "Study": {
-    "NAME": "Study",
+    "NAME": "研習",
     "DESCRIPTIONS": [
-      "At the end of your turn, shuffle #b",
-      " #yInsight into your draw pile.",
-      " #yInsights into your draw pile."
+      "在你的回合結束時，在抽牌堆中加入 #b",
+      " 張 #y洞見 ",
+      " 張 #y洞見 "
     ]
   }
 }
