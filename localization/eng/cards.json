@@ -1530,7 +1530,7 @@
   },
   "Vault": {
     "NAME": "Vault",
-    "DESCRIPTION": "Skip the next enemy turn. NL End your turn. NL Exhaust."
+    "DESCRIPTION": "Take an extra turn after this one. NL End your turn. NL Exhaust."
   },
   "Flow": {
     "NAME": "DEPRECATED Flow",
@@ -1806,8 +1806,8 @@
   },
   "Beta": {
     "NAME": "Beta",
-    "DESCRIPTION": "Add an *Omega to the bottom of your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add an *Omega+ to the bottom of your draw pile. NL Exhaust."
+    "DESCRIPTION": "Shuffle an *Omega into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle an *Omega+ into your draw pile. NL Exhaust."
   },
   "Omega": {
     "NAME": "Omega",
@@ -1873,7 +1873,7 @@
     "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
   },
   "Flick": {
-    "NAME": "Flick",
+    "NAME": "DEPRECATED Flick",
     "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
   },
   "LikeWater": {
