@@ -1,5 +1,26 @@
 Updates for Translators!
 
+10-14-2019
+cards.json
+	"Halt"
+		"DESCRIPTION": "Gain !B! Block. NL Wrath: Gain !M! additional Block."
+		->
+		"DESCRIPTION": "Gain !B! Block. NL If you are in Wrath, gain !M! additional Block."
+
+keywords.json
+	"RITUAL"
+
+potions.json
+	"CultistPotion"
+	"LiquidMemories"
+	"DistilledChaos"
+
+powers.json
+	"Ritual"
+		"At the end of your turn, gain #b"
+
+----------------------------------
+
 10-11-2019
 cards.json
 	"Flick"
