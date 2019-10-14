@@ -281,5 +281,27 @@
     "DESCRIPTIONS": [
       "進入 #y神格 #y姿態 "
     ]
+  },
+  "DistilledChaos": {
+    "NAME": "精煉混沌",
+    "DESCRIPTIONS": [
+      "打出抽牌堆頂部的 #b",
+      " 張牌"
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "液態記憶",
+    "DESCRIPTIONS": [
+      "選擇棄牌堆中的1張牌放入手牌。這張牌在本回合的耗能變為 #b0 ",
+      "選擇棄牌堆中的 #b ",
+      " 張牌放入你的手牌。它們在本回合的耗能變為 #b0 "
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "邪教徒藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 層 #y儀式 "
+    ]
   }
 }
