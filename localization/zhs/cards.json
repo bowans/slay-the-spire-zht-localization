@@ -1397,7 +1397,7 @@
   },
   "Vault": {
     "NAME": "腾跃",
-    "DESCRIPTION": "跳过所有敌人下个回合的行动。 NL 结束你的回合。 NL 消耗 。"
+    "DESCRIPTION": "在本回合结束后，额外获得一回合。 NL 结束你的回合。 NL 消耗 。"
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
@@ -1471,8 +1471,8 @@
   },
   "Beta": {
     "NAME": "贝塔",
-    "DESCRIPTION": "将一张 *欧米伽 放入你的抽牌堆底部。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "将一张 *欧米伽+ 放入你的抽牌堆底部。 NL 消耗 。"
+    "DESCRIPTION": "将一张 *欧米伽 放入你的抽牌堆中。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将一张 *欧米伽+ 放入你的抽牌堆中。 NL 消耗 。"
   },
   "FearNoEvil": {
     "NAME": "不惧妖邪",
@@ -1869,7 +1869,7 @@
     "DESCRIPTION": "如果你在回合结束时有未使用的 [W] ，则在下一回合额外抽相应张数的牌。"
   },
   "Flick": {
-    "NAME": "轻弹",
+    "NAME": "DEPRECATED 轻弹",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 当一名敌人被 *轻弹 3 次时，将额外受到 !M! 点伤害。"
   },
   "LikeWater": {
