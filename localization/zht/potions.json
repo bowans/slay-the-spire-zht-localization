@@ -283,25 +283,25 @@
     ]
   },
   "DistilledChaos": {
-    "NAME": "Distilled Chaos",
+    "NAME": "精煉混沌",
     "DESCRIPTIONS": [
-      "Play the top #b",
-      " cards of your draw pile."
+      "打出抽牌堆頂部的 #b",
+      " 張牌"
     ]
   },
   "LiquidMemories": {
-    "NAME": "Liquid Memories",
+    "NAME": "液態記憶",
     "DESCRIPTIONS": [
-      "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
-      "Choose #b ",
-      " cards in your discard pile and return them to your hand. They cost #b0 this turn."
+      "選擇棄牌堆中的1張牌放入手牌。這張牌在本回合的耗能變為 #b0 ",
+      "選擇棄牌堆中的 #b ",
+      " 張牌放入你的手牌。它們在本回合的耗能變為 #b0 "
     ]
   },
   "CultistPotion": {
-    "NAME": "Cultist Potion",
+    "NAME": "邪教徒藥水",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yRitual."
+      "獲得 #b",
+      " 層 #y儀式 "
     ]
   }
 }

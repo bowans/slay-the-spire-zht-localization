@@ -1,5 +1,24 @@
 Updates for Translators!
 
+10-15-2019
+NOTE: Just legibility + typo fixes today
+
+cards.json
+	"DevaForm"
+		"DESCRIPTION": "Ethereal. NL At the start of your turn, gain [W] and increase this gain by !M!.",
+		"UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] and increase this gain by !M!."
+		->
+		"DESCRIPTION": "Ethereal. NL At the start of your turn, gain [W] NL and increase this gain by !M!.",
+		"UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] NL and increase this gain by !M!."
+
+potions.json
+	"LiquidMemories"
+		"Choose #b ",
+		->
+		"Choose #b",
+
+----------------------------------
+
 10-14-2019
 cards.json
 	"Halt"
