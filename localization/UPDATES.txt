@@ -1,5 +1,19 @@
 Updates for Translators!
 
+10-17-2019
+cards.json
+	"ConjureBlade"
+		"UPGRADE_DESCRIPTION": "Shuffle an *Expunger+ into your draw pile. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": "Shuffle an *Expunger with X+1 into your draw pile. NL Exhaust."
+
+	"Reckless Charge"
+		"DESCRIPTION": "Deal !D! damage. NL Shuffle a Dazed into your draw pile."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Shuffle a *Dazed into your draw pile."
+
+----------------------------------
+
 10-16-2019
 ui.json
 	"InputSettingsScreen"
