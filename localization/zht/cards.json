@@ -901,7 +901,7 @@
   },
   "Reckless Charge": {
     "NAME": "無謀衝鋒",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 將1張 暈眩 放入抽牌堆"
+    "DESCRIPTION": "造成 !D! 點傷害 NL 將1張 *暈眩 放入抽牌堆"
   },
   "Recycle": {
     "NAME": "回收",
@@ -1846,7 +1846,7 @@
   "Expunger": {
     "NAME": "滅除之刃",
     "DESCRIPTION": "造成 !D! 點傷害 X 次",
-    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害 X+1 次",
+    "UPGRADE_DESCRIPTION": "DEPRECATED 造成 !D! 點傷害 X+1 次",
     "EXTENDED_DESCRIPTION": [
       "造成 !D! 點傷害 !M! 次"
     ]
@@ -1854,7 +1854,7 @@
   "ConjureBlade": {
     "NAME": "聚能成刃",
     "DESCRIPTION": "將1張 *滅除之刃 放入抽牌堆中 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "將1張 *滅除之刃+ 放入抽牌堆中 NL 消耗 "
+    "UPGRADE_DESCRIPTION": "將1張次數為X+1的 *滅除之刃 放入抽牌堆中 NL 消耗 "
   },
   "WaveOfTheHand2": {
     "NAME": "DEPRECATED",

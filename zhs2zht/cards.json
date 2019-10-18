@@ -315,7 +315,7 @@
   },
   "Dark Embrace": {
     "NAME": "黑暗之擁",
-    "DESCRIPTION": "每當有一張牌被 消耗 時， NL 抽1張牌。"
+    "DESCRIPTION": "每當有一張牌被 消耗 時， 抽1張牌。"
   },
   "Dark Shackles": {
     "NAME": "黑暗鐐銬",
@@ -901,7 +901,7 @@
   },
   "Reckless Charge": {
     "NAME": "無謀衝鋒",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 將一張 暈眩 放入你的抽牌堆中。"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 將一張 *暈眩 放入你的抽牌堆中。"
   },
   "Recycle": {
     "NAME": "回收",
@@ -1044,8 +1044,8 @@
   },
   "Static Discharge": {
     "NAME": "靜電釋放",
-    "DESCRIPTION": "每當你受到未被格擋的攻擊傷害時， 生成 !M! 個 NL 閃電 充能球。",
-    "UPGRADE_DESCRIPTION": "每當你受到未被格擋的攻擊傷害時， 生成 !M! 個 NL 閃電 充能球。"
+    "DESCRIPTION": "每當你受到未被格擋的攻擊傷害時， 生成 !M! 個 閃電 充能球。",
+    "UPGRADE_DESCRIPTION": "每當你受到未被格擋的攻擊傷害時， 生成 !M! 個 閃電 充能球。"
   },
   "Steam": {
     "NAME": "蒸汽護壁",
@@ -1846,7 +1846,7 @@
   "Expunger": {
     "NAME": "滅除之刃",
     "DESCRIPTION": "造成 !D! 點傷害 X 次。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害 X+1 次。",
+    "UPGRADE_DESCRIPTION": "DEPRECATED 造成 !D! 點傷害 X+1 次。",
     "EXTENDED_DESCRIPTION": [
       "造成 !D! 點傷害 !M! 次。"
     ]
@@ -1854,7 +1854,7 @@
   "ConjureBlade": {
     "NAME": "聚能成刃",
     "DESCRIPTION": "將一張 *滅除之刃 放入你的抽牌堆中。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "將一張 *滅除之刃+ 放入你的抽牌堆中。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": "將一張X數值+1的 *滅除之刃 放入你的抽牌堆中。 NL 消耗 。"
   },
   "WaveOfTheHand2": {
     "NAME": "DEPRECATED",
