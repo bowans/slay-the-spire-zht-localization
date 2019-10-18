@@ -1,5 +1,35 @@
 Updates for Translators!
 
+10-18-2019
+achievements.json
+	"CharStat"
+		"%02d:%02d:%02d",
+		"%02d:%02d",
+		"#y%02dh #y%02dm #y%02ds",
+		"#y%02dm #y%02ds",
+		"%01d:%02d:%02d"
+
+monsters.json
+	"Champ"
+		"DIALOG"
+			"@THAT'S@ NL @MY@ @BELT!!@"
+
+cards.json
+	"Blasphemy"
+		"UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
+
+	"Beta"
+		"UPGRADE_DESCRIPTION": "Shuffle an *Omega+ into your draw pile. NL Exhaust."
+		    ->
+		"UPGRADE_DESCRIPTION": ""
+
+	"Expunger"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+		->
+		"UPGRADE_DESCRIPTION": "",
+
+----------------------------------
+
 10-17-2019
 cards.json
 	"ConjureBlade"

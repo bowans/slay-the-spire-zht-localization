@@ -1379,7 +1379,8 @@
   },
   "Blasphemy": {
     "NAME": "Blasphemy",
-    "DESCRIPTION": "Enter Divinity. NL Die next turn. NL Exhaust."
+    "DESCRIPTION": "Enter Divinity. NL Die next turn. NL Exhaust.",
+	"UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
   },
   "Ragnarok": {
     "NAME": "Ragnarok",
@@ -1807,7 +1808,7 @@
   "Beta": {
     "NAME": "Beta",
     "DESCRIPTION": "Shuffle an *Omega into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an *Omega+ into your draw pile. NL Exhaust."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
     "NAME": "Omega",
