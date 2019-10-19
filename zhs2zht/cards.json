@@ -1472,7 +1472,7 @@
   "Beta": {
     "NAME": "貝塔",
     "DESCRIPTION": "將一張 *歐米伽 放入你的抽牌堆中。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "將一張 *歐米伽+ 放入你的抽牌堆中。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": ""
   },
   "FearNoEvil": {
     "NAME": "不懼妖邪",
@@ -1744,7 +1744,7 @@
   "Blasphemy": {
     "NAME": "瀆神",
     "DESCRIPTION": "進入 神格 。 NL 在下回合死亡。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "保留 。 NL 進入 神格 。 NL 在下回合死亡。 NL 消耗 。"
   },
   "Transcendence": {
     "NAME": "超凡脫俗",
@@ -1847,7 +1847,7 @@
   "Expunger": {
     "NAME": "滅除之刃",
     "DESCRIPTION": "造成 !D! 點傷害 X 次。",
-    "UPGRADE_DESCRIPTION": "DEPRECATED 造成 !D! 點傷害 X+1 次。",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       "造成 !D! 點傷害 !M! 次。"
     ]
