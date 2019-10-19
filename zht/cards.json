@@ -517,7 +517,7 @@
   },
   "Fire Breathing": {
     "NAME": "火焰吐息",
-    "DESCRIPTION": "在你的回合結束時，該回合內每出過1張攻擊牌，就對所有敵人造成1點傷害"
+    "DESCRIPTION": "每當抽到1張 狀態 或 詛咒 牌時，對所有敵人造成 !M! 點傷害"
   },
   "Fission": {
     "NAME": "分裂",
@@ -929,8 +929,8 @@
   },
   "Reprogram": {
     "NAME": "改編程式",
-    "DESCRIPTION": "檢視抽牌堆頂部的 !M! 張牌，可以選擇丟棄其中的任意張",
-    "UPGRADE_DESCRIPTION": "檢視抽牌堆頂部的 !M! 張牌，可以選擇丟棄其中的任意張"
+    "DESCRIPTION": "預見 !M!",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
     "NAME": "千穿百刺",
