@@ -929,7 +929,7 @@
   },
   "Reprogram": {
     "NAME": "改編程式",
-    "DESCRIPTION": "預見 !M!",
+    "DESCRIPTION": "失去 !M! 點 集中 NL 獲得1點 力量 NL 獲得1點 敏捷",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
@@ -1353,7 +1353,7 @@
   },
   "Wish": {
     "NAME": "許願",
-    "DESCRIPTION": "選擇：獲得 !D! 點 力量 、獲得 !M! 金幣 、或每回合獲得 !B! 層 多層護甲 NL 消耗",
+    "DESCRIPTION": "選擇：獲得 !B! 層 多層護甲 、 !D! 點 力量 、或 !M! 金幣 NL 消耗",
     "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
@@ -1455,7 +1455,7 @@
   "Wireheading": {
     "NAME": "先見之明",
     "DESCRIPTION": "在你的回合開始時， 預見 !M! ",
-    "UPGRADE_DESCRIPTION": " 固有 NL 在你的回合開始時， 預見 !M! "
+    "UPGRADE_DESCRIPTION": ""
   },
   "Sanctity": {
     "NAME": "聖潔",
@@ -1842,7 +1842,7 @@
   },
   "LiveForever": {
     "NAME": "永生不死",
-    "DESCRIPTION": "在你的回合結束時，獲得 !M! 層 多層護甲 "
+    "DESCRIPTION": "獲得 !M! 層 多層護甲 "
   },
   "Expunger": {
     "NAME": "滅除之刃",
