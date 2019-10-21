@@ -5,7 +5,7 @@
   },
   "Accuracy": {
     "NAME": "精準",
-    "DESCRIPTION": " 小刀 造成的傷害增加 !M! "
+    "DESCRIPTION": " *小刀 造成的傷害增加 !M! "
   },
   "Acrobatics": {
     "NAME": "雜技",
@@ -121,7 +121,7 @@
   },
   "Blade Dance": {
     "NAME": "刀刃之舞",
-    "DESCRIPTION": "增加 !M! 張 小刀 到手牌"
+    "DESCRIPTION": "增加 !M! 張 *小刀 到手牌"
   },
   "Blaster": {
     "NAME": "爆破射線",
@@ -249,8 +249,8 @@
   },
   "Cloak And Dagger": {
     "NAME": "斗篷與匕首",
-    "DESCRIPTION": "獲得 !B! 點 格擋 NL 增加 !M! 張 小刀 到手牌",
-    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 NL 增加 !M! 張 小刀 到手牌"
+    "DESCRIPTION": "獲得 !B! 點 格擋 NL 增加 !M! 張 *小刀 到手牌",
+    "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 NL 增加 !M! 張 *小刀 到手牌"
   },
   "Clothesline": {
     "NAME": "金剛臂",
@@ -517,7 +517,7 @@
   },
   "Fire Breathing": {
     "NAME": "火焰吐息",
-    "DESCRIPTION": "在你的回合結束時，該回合內每出過1張攻擊牌，就對所有敵人造成1點傷害"
+    "DESCRIPTION": "每當抽到1張 狀態 或 詛咒 牌時，對所有敵人造成 !M! 點傷害"
   },
   "Fission": {
     "NAME": "分裂",
@@ -650,7 +650,7 @@
   },
   "Immolate": {
     "NAME": "燔祭",
-    "DESCRIPTION": "對所有敵人造成 !D! 點傷害 NL 將1張 灼傷 放入棄牌堆"
+    "DESCRIPTION": "對所有敵人造成 !D! 點傷害 NL 將1張 *灼傷 放入棄牌堆"
   },
   "Impervious": {
     "NAME": "巋然不動",
@@ -662,8 +662,8 @@
   },
   "Infinite Blades": {
     "NAME": "無限刀刃",
-    "DESCRIPTION": "在你的回合開始時，增加1張 小刀 到手牌",
-    "UPGRADE_DESCRIPTION": " 固有 NL 在你的回合開始時，增加1張 小刀 到手牌"
+    "DESCRIPTION": "在你的回合開始時，增加1張 *小刀 到手牌",
+    "UPGRADE_DESCRIPTION": " 固有 NL 在你的回合開始時，增加1張 *小刀 到手牌"
   },
   "Inflame": {
     "NAME": "燃燒",
@@ -850,7 +850,7 @@
   },
   "Power Through": {
     "NAME": "硬撐",
-    "DESCRIPTION": "增加2張 傷口 到手牌 NL 獲得 !B! 點 格擋 "
+    "DESCRIPTION": "增加2張 *傷口 到手牌 NL 獲得 !B! 點 格擋 "
   },
   "Predator": {
     "NAME": "獵殺者",
@@ -929,8 +929,8 @@
   },
   "Reprogram": {
     "NAME": "改編程式",
-    "DESCRIPTION": "檢視抽牌堆頂部的 !M! 張牌，可以選擇丟棄其中的任意張",
-    "UPGRADE_DESCRIPTION": "檢視抽牌堆頂部的 !M! 張牌，可以選擇丟棄其中的任意張"
+    "DESCRIPTION": "預見 !M!",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
     "NAME": "千穿百刺",
@@ -1053,7 +1053,7 @@
   },
   "Steam Power": {
     "NAME": "超頻",
-    "DESCRIPTION": "抽 !M! 張牌 NL 將1張 灼傷 放入棄牌堆"
+    "DESCRIPTION": "抽 !M! 張牌 NL 將1張 *灼傷 放入棄牌堆"
   },
   "Storm": {
     "NAME": "雷暴",
@@ -1163,8 +1163,8 @@
   },
   "Turbo": {
     "NAME": "核心加速",
-    "DESCRIPTION": "獲得 [B] [B] NL 將1張 虛空 放入棄牌堆",
-    "UPGRADE_DESCRIPTION": "獲得 [B] [B] [B] NL 將1張 虛空 放入棄牌堆"
+    "DESCRIPTION": "獲得 [B] [B] NL 將1張 *虛空 放入棄牌堆",
+    "UPGRADE_DESCRIPTION": "獲得 [B] [B] [B] NL 將1張 *虛空 放入棄牌堆"
   },
   "Twin Strike": {
     "NAME": "雙重打擊",
@@ -1217,7 +1217,7 @@
   },
   "Wild Strike": {
     "NAME": "狂野打擊",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 將1張 傷口 放入抽牌堆"
+    "DESCRIPTION": "造成 !D! 點傷害 NL 將1張 *傷口 放入抽牌堆"
   },
   "Wound": {
     "NAME": "傷口",

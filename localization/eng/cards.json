@@ -949,7 +949,7 @@
   },
   "Reprogram": {
     "NAME": "Reprogram",
-    "DESCRIPTION": "Scry !M!.",
+    "DESCRIPTION": "Lose !M! Focus. NL Gain 1 Strength. NL Gain 1 Dexterity.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
@@ -1499,12 +1499,12 @@
   "Wireheading": {
     "NAME": "Foresight",
     "DESCRIPTION": "At the start of your turn, Scry !M!.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, Scry !M!."
+    "UPGRADE_DESCRIPTION": ""
   },
   "ReachHeaven": {
     "NAME": "Reach Heaven",
     "DESCRIPTION": "Deal !D! damage. NL Shuffle a NL *Through *Violence into your draw pile.",
-	  "UPGRADE_DESCRIPTION": ""
+	"UPGRADE_DESCRIPTION": ""
   },
   "ThroughViolence": {
     "NAME": "Through Violence",
@@ -1785,7 +1785,7 @@
   },
   "Wish": {
     "NAME": "Wish",
-    "DESCRIPTION": "Choose one: NL Gain !B! Plated Armor each turn, !D! Strength, or !M! Gold. NL Exhaust.",
+    "DESCRIPTION": "Choose one: NL Gain !B! Plated Armor, !D! Strength, or !M! Gold. NL Exhaust.",
     "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
@@ -1819,7 +1819,7 @@
     "DESCRIPTION": "Scry !M!. NL Enter Wrath at the start of your next turn."
   },
   "PathToVictory": {
-    "NAME": "Path to Victory",
+    "NAME": "Pressure Points",
     "DESCRIPTION": "Apply !M! *Mark. NL ALL enemies lose HP equal to their *Mark.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -1846,7 +1846,7 @@
   },
   "LiveForever": {
     "NAME": "Live Forever",
-    "DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+    "DESCRIPTION": "Gain !M! Plated Armor."
   },
   "FameAndFortune": {
     "NAME": "Fame and Fortune",

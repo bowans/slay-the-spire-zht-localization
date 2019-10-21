@@ -1,5 +1,40 @@
 Updates for Translators!
 
+10-19-2019
+cards.json
+	"Wireheading"
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, Scry !M!."
+		->
+		"UPGRADE_DESCRIPTION": ""
+
+	"Reprogram"
+		"DESCRIPTION": "Scry !M!.",
+		->
+		"DESCRIPTION": "Lose !M! Focus. NL Gain 1 Strength. NL Gain 1 Dexterity.",
+
+	"LiveForever"
+		"DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+		->
+		"DESCRIPTION": "Gain !M! Plated Armor."
+
+	"Wish"
+		"DESCRIPTION": "Choose one: NL Gain !B! Plated Armor each turn, !D! Strength, or !M! Gold. NL Exhaust.",
+		->
+		"DESCRIPTION": "Choose one: NL Gain !B! Plated Armor, !D! Strength, or !M! Gold. NL Exhaust.",
+
+	"PathToVictory"
+		"Path to Victory"
+		->
+		"Pressure Points"
+
+powers.json
+	"Fire Breathing"
+		"Whenever you draw a #yStatus or #yCurse card, deal ",
+		->
+		"Whenever you draw a #yStatus or #yCurse card, deal #b",
+
+----------------------------------
+
 10-18-2019
 achievements.json
 	"CharStat"
