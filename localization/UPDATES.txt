@@ -1,5 +1,18 @@
 Updates for Translators!
 
+10-22-2019
+powers.json
+	"PathToVictoryPower"
+		"Whenever you play #yPath #yto #yVictory, loses #b",
+		->
+		"Whenever you play #yPressure #yPoints, loses #b",
+
+ui.json
+	"OptionsPanel"
+		"Bigger Text"
+
+----------------------------------
+
 10-21-2019
 cards.json
 	"Wireheading"
