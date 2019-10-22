@@ -929,7 +929,7 @@
   },
   "Reprogram": {
     "NAME": "重编程",
-    "DESCRIPTION": "预见 !M! 。",
+    "DESCRIPTION": "失去 !M! 点 集中 。 NL 获得1点 力量 。 NL 获得1点 敏捷 。",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
@@ -1353,7 +1353,7 @@
   },
   "Wish": {
     "NAME": "许愿",
-    "DESCRIPTION": "选择：获得 !D! 点 力量 、 NL 获得 !M! 金币 、或每回合获得 !B! 层 多层护甲 。 NL 消耗 。",
+    "DESCRIPTION": "选择：获得 !B! 层 多层护甲 、 !D! 点 力量 、 或 !M! 金币 。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
@@ -1455,7 +1455,7 @@
   "Wireheading": {
     "NAME": "先见之明",
     "DESCRIPTION": "在你的回合开始时， 预见 !M! 。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合开始时， 预见 !M! 。"
+    "UPGRADE_DESCRIPTION": ""
   },
   "Sanctity": {
     "NAME": "圣洁",
@@ -1517,8 +1517,8 @@
     "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "PathToVictory": {
-    "NAME": "取胜之道",
-    "DESCRIPTION": "给予 !M! *印记 。 NL 所有拥有 *印记 的敌人，失去与层数相等的生命。",
+    "NAME": "点穴",
+    "DESCRIPTION": "给予 !M! 层 *印记 。 NL 所有拥有 *印记 的敌人，失去与层数相等的生命。",
     "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
@@ -1842,7 +1842,7 @@
   },
   "LiveForever": {
     "NAME": "永生不死",
-    "DESCRIPTION": "在你的回合结束时，获得 !M! 层 多层护甲 。"
+    "DESCRIPTION": "获得 !M! 层 多层护甲 。"
   },
   "Expunger": {
     "NAME": "灭除之刃",
