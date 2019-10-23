@@ -305,16 +305,16 @@
     ]
   },
   "ColorlessPotion": {
-    "NAME": "Colorless Potion",
+    "NAME": "無色藥水",
     "DESCRIPTIONS": [
-      "Choose #b1 of #b3 random #yColorless cards to add to your hand, it costs #b0 this turn.",
-      "Choose #b1 of #b3 random #yColorless cards and add #b2 copies to your hand, they cost #b0 this turn."
+      "從 #b3 張隨機 #y無色牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
+      "從 #b3 張隨機 #y無色牌 中選擇 #b1 張加入手牌 #b2 次。這些牌在本回合耗能變為 #b0"
     ]
   },
   "BlessingOfTheForge": {
-    "NAME": "Blessing of the Forge",
+    "NAME": "熔爐的祝福",
     "DESCRIPTIONS": [
-      "Upgrade all cards in your hand."
+      "升級所有手牌"
     ]
   }
 }
