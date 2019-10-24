@@ -1,5 +1,34 @@
 Updates for Translators!
 
+10-24-2019
+relics.json
+	"Damaru"
+	"Tiny Chest"
+		"Upon pickup, gain #b",
+		" #yGold. You are #b10% more likely to find treasure in #y? rooms.",
+		"You are #b10% more likely to find treasure in #y? rooms."
+		->
+		"Every #b",
+		" #y? rooms is a #yTreasure room."
+		""
+
+	"Dodecahedron"
+		"NAME": "Runic Dodecahedron",
+		->
+		"NAME": "DEPRECATED Runic Dodecahedron",
+
+run_mods.json
+	"My True Form"
+		"DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+		->
+		"DESCRIPTION": "Start with a copy of Demon Form, Wraith Form, Echo Form, and Deva Form."
+	"Chimera"
+		"DESCRIPTION": "Your starting deck is a fusion of 3 characters."
+		->
+		"DESCRIPTION": "Your starting deck is a fusion of all characters."
+
+----------------------------------
+
 10-23-2019
 potions.json
 	"Colorless Potion"

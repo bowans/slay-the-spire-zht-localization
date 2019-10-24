@@ -278,7 +278,7 @@
     ]
   },
   "Dodecahedron": {
-    "NAME": "Runic Dodecahedron",
+    "NAME": "DEPRECATED Runic Dodecahedron",
     "FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
       "If your HP is full, gain ",
@@ -996,9 +996,9 @@
     "NAME": "Tiny Chest",
     "FLAVOR": "\"A fine prototype.\" - The Architect",
     "DESCRIPTIONS": [
-      "Upon pickup, gain #b",
-      " #yGold. You are #b10% more likely to find treasure in #y? rooms.",
-      "You are #b10% more likely to find treasure in #y? rooms."
+      "Every #b",
+      " #y? rooms is a #yTreasure room.",
+      ""
     ]
   },
   "Tiny House": {
@@ -1490,6 +1490,14 @@
     "DESCRIPTIONS": [
       "Whenever you #yScry, #yScry #b",
       " additional cards."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "TODO. Don't forget to write stuff here, devs.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yMantra."
     ]
   }
 }
