@@ -279,7 +279,7 @@
     ]
   },
   "Dodecahedron": {
-    "NAME": "符文十二面体",
+    "NAME": "DEPRECATED符文十二面体",
     "FLAVOR": "上面的符文无法辨识。",
     "DESCRIPTIONS": [
       "在你生命值为满时，每回合开始时获得 ",
@@ -997,9 +997,9 @@
     "NAME": "小宝箱",
     "FLAVOR": "“作为原型而言相当不错。”——建筑师",
     "DESCRIPTIONS": [
-      "获得 #b",
-      "  #y金币 。 你在 ? 房间找到财宝的几率增加 #b10% 。",
-      "你在 ? 房间找到财宝的几率增加 #b10% 。"
+      "每 #b",
+      " 个 #y？ 房间的最后一个必是 #y宝箱房 。",
+      ""
     ]
   },
   "Tiny House": {
@@ -1493,11 +1493,11 @@
     ]
   },
   "Damaru": {
-    "NAME": "Damaru",
-    "FLAVOR": "TODO. Don't forget to write stuff here, devs.",
+    "NAME": "手摇鼓",
+    "FLAVOR": "还没写。制作组你们要记得写啊。",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
-      " #yMantra."
+      "在你的回合开始时，获得 #b",
+      " 层 #y真言 。"
     ]
   }
 }
