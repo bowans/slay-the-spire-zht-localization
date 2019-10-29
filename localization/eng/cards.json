@@ -1756,9 +1756,10 @@
   },
   "Brilliance": {
     "NAME": "Brilliance",
-    "DESCRIPTION": "Ethereal. NL Heal !M! HP X times. NL Exhaust.",
+    "DESCRIPTION": "Deal !D! damage for each unique Stance entered this combat.",
     "EXTENDED_DESCRIPTION": [
-      ""
+      " NL (Entered !M! Stance.)",
+      " NL (Entered !M! Stances.)"
     ]
   },
   "Retribution": {
