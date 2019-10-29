@@ -1,5 +1,34 @@
 Updates for Translators!
 
+10-29-2019
+cards.json
+	"Brilliance"
+		"DESCRIPTION": "Ethereal. NL Heal !M! HP X times. NL Exhaust.",
+		->
+		"DESCRIPTION": "Deal !D! damage for each unique Stance entered this combat.",
+
+		"EXTENDED_DESCRIPTION": [
+			""
+		]
+		->
+		"EXTENDED_DESCRIPTION": [
+			" NL (Entered !M! Stance.)",
+			" NL (Entered !M! Stances.)"
+		]
+
+----------------------------------
+
+10-28-2019
+cards.json
+	"BattleHymn" (Typo)
+		"DESCRIPTION": "At the start of each turn add a *Smite into your hand.",
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Smite into your hand."
+		->
+		"DESCRIPTION": "At the start of each turn, add a *Smite into your hand.",
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, add a *Smite into your hand."
+
+----------------------------------
+
 10-24-2019
 relics.json
 	"Damaru"
