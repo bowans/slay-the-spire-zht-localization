@@ -571,7 +571,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "遺傳演算法",
-    "DESCRIPTION": "獲得 !B! 點 格擋 每打出1次，本局遊戲內這張牌格擋值永久性增加 !M! NL 消耗 "
+    "DESCRIPTION": "獲得 !B! 點 格擋 NL 每打出1次，這張牌的格擋值永久增加 !M! 點 NL 消耗 "
   },
   "Ghostly": {
     "NAME": "靈體",
@@ -1245,7 +1245,7 @@
   },
   "RitualDagger": {
     "NAME": "儀式匕首",
-    "DESCRIPTION": "造成 !D! 點傷害 NL 斬殺 時，它在本局遊戲中的傷害永久性增加 !M! NL 消耗 "
+    "DESCRIPTION": "造成 !D! 點傷害 NL 斬殺 時，這張牌的傷害永久增加 !M! 點 NL 消耗 "
   },
   "Pride": {
     "NAME": "傲慢",
