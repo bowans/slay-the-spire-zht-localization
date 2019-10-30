@@ -1,5 +1,73 @@
 Updates for Translators!
 
+10-30-2019
+cards.json
+	"LiveForever"
+		"DESCRIPTION": "Gain !M! Plated Armor."
+		->
+		"DESCRIPTION": "Gain !M! *Plated *Armor."
+
+	"Brilliance"
+		"DESCRIPTION": "Deal !D! damage for each unique Stance entered this combat.",
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Deals additional damage for all Mantra gained this combat.",
+
+		"EXTENDED_DESCRIPTION": [
+			" NL (Entered !M! Stance.)",
+			" NL (Entered !M! Stances.)"
+		]
+		->
+		"EXTENDED_DESCRIPTION": [
+			" NL (Gained !M! Mantra.)",
+			""
+		]
+
+	"Feed"
+		"DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, raise your Max HP by !M!. Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, raise your Max HP by !M!. Exhaust."
+
+	"RitualDagger"
+		"DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, permanently increase this card's damage by !M!. NL Exhaust."
+
+	"HandOfGreed"
+		"DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, gain !M! Gold."
+
+	"LessonLearned"
+		"DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, Upgrade a random card in your deck. Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, Upgrade a random card in your deck. NL Exhaust."
+
+relics.json
+	"HolyWater"
+		"FLAVOR": "TODO.",
+		->
+		"FLAVOR": "Collected from a time before the Spire.",
+
+	"GoldenEye"
+		"FLAVOR": "TODO",
+		->
+		"FLAVOR": "See into the minds of those nearby, predicting their future moves.",
+
+	"Damaru"
+		"FLAVOR": "TODO. Don't forget to write stuff here, devs.",
+		->
+		"FLAVOR": "The sound of the small drum keeps your mind awake, revealing a path forward.",
+
+	"Yang"
+		"NAME": "Yang",
+		->
+		"NAME": "Duality",
+
+keywords.json
+	"FATAL"
+
+----------------------------------
+
 10-29-2019
 cards.json
 	"Brilliance"

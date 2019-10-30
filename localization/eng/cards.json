@@ -500,7 +500,7 @@
   },
   "Feed": {
     "NAME": "Feed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, raise your Max HP by !M!. Exhaust."
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, raise your Max HP by !M!. Exhaust."
   },
   "Feel No Pain": {
     "NAME": "Feel No Pain",
@@ -1273,7 +1273,7 @@
   },
   "RitualDagger": {
     "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, permanently increase this card's damage by !M!. NL Exhaust."
   },
   "Pride": {
     "NAME": "Pride",
@@ -1285,7 +1285,7 @@
   },
   "HandOfGreed": {
     "NAME": "Hand of Greed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, gain !M! Gold."
   },
   "Violence": {
     "NAME": "Violence",
@@ -1456,7 +1456,7 @@
   },
   "LessonLearned": {
     "NAME": "Lesson Learned",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, Upgrade a random card in your deck. Exhaust."
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, Upgrade a random card in your deck. NL Exhaust."
   },
   "CutThroughFate": {
     "NAME": "Cut Through Fate",
@@ -1756,10 +1756,10 @@
   },
   "Brilliance": {
     "NAME": "Brilliance",
-    "DESCRIPTION": "Deal !D! damage for each unique Stance entered this combat.",
+    "DESCRIPTION": "Deal !D! damage. NL Deals additional damage for all Mantra gained this combat.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Entered !M! Stance.)",
-      " NL (Entered !M! Stances.)"
+      " NL (Gained !M! Mantra.)",
+      ""
     ]
   },
   "Retribution": {
@@ -1847,7 +1847,7 @@
   },
   "LiveForever": {
     "NAME": "Live Forever",
-    "DESCRIPTION": "Gain !M! Plated Armor."
+    "DESCRIPTION": "Gain !M! *Plated *Armor."
   },
   "FameAndFortune": {
     "NAME": "Fame and Fortune",
