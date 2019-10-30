@@ -310,6 +310,12 @@
         "仪式"
       ],
       "DESCRIPTION": "在你的回合结束时，获得相应点数的 #y力量 。"
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Triggers whenever this card kills a non-minion enemy."
     }
   }
 }
