@@ -1623,10 +1623,10 @@
   },
   "Brilliance": {
     "NAME": "光辉",
-    "DESCRIPTION": " 虚无 。 NL 回复 !M! 点生命 X 次。 NL 消耗 。",
+    "DESCRIPTION": "你在本场战斗中每进入过一种姿态，造成一次 !D! 点伤害。",
     "EXTENDED_DESCRIPTION": [
-      "",
-      " NL (Entered !M! Stances.)"
+      " NL （进入过 !M! 种姿态。）",
+      " NL （进入过 !M! 种姿态。）"
     ]
   },
   "ClearTheMind": {
