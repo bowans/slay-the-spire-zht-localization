@@ -492,7 +492,7 @@
   },
   "Feed": {
     "NAME": "狂宴",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死一名不是“爪牙”的敌人，则永久获得 !M! 点最大生命。 消耗 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 斩杀 时，永久获得 !M! 点最大生命。 消耗 。"
   },
   "Feel No Pain": {
     "NAME": "无惧疼痛",
@@ -1245,11 +1245,11 @@
   },
   "RitualDagger": {
     "NAME": "仪式匕首",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死敌人，它在本局游戏中的伤害永久性增加 !M! 。 NL 消耗 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 斩杀 时，它在本局游戏中的伤害永久性增加 !M! 。 NL 消耗 。"
   },
   "Pride": {
     "NAME": "傲慢",
-    "DESCRIPTION": "固有 。NL 消耗 。 NL 你的回合结束时，在抽牌堆顶部加入一张这张牌的复制品。"
+    "DESCRIPTION": "固有 。 消耗 。 NL 你的回合结束时，在抽牌堆顶部加入一张这张牌的复制品。"
   },
   "PanicButton": {
     "NAME": "应急按钮",
@@ -1273,7 +1273,7 @@
   },
   "HandOfGreed": {
     "NAME": "贪婪之手",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死一名不是“爪牙”的敌人，则获得 !M! 金币。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 斩杀 时，获得 !M! 金币。"
   },
   "Violence": {
     "NAME": "暴力",
@@ -1434,7 +1434,7 @@
   },
   "LessonLearned": {
     "NAME": "勤学精进",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死了敌人，则 升级 你牌组中的一张随机牌。 消耗 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 斩杀 时， 升级 你牌组中的一张随机牌。 消耗 。"
   },
   "Calm": {
     "NAME": "平静",
@@ -1623,10 +1623,10 @@
   },
   "Brilliance": {
     "NAME": "光辉",
-    "DESCRIPTION": "你在本场战斗中每进入过一种姿态，造成一次 !D! 点伤害。",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 额外造成本场战斗中获得的 真言 总层数的伤害。",
     "EXTENDED_DESCRIPTION": [
-      " NL （进入过 !M! 种姿态。）",
-      " NL （进入过 !M! 种姿态。）"
+      " NL （共获得过 !M! 层 真言 。）",
+      ""
     ]
   },
   "ClearTheMind": {
@@ -1843,7 +1843,7 @@
   },
   "LiveForever": {
     "NAME": "永生不死",
-    "DESCRIPTION": "获得 !M! 层 多层护甲 。"
+    "DESCRIPTION": "获得 !M! 层 *多层护甲 。"
   },
   "Expunger": {
     "NAME": "灭除之刃",

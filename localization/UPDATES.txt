@@ -1,5 +1,23 @@
 Updates for Translators!
 
+11-1-2019
+cards.json
+	"Brilliance"
+		" NL (Gained !M! Mantra.)",
+		->
+		"",
+
+----------------------------------
+
+10-31-2019
+cards.json
+	"Brilliance"
+		"DESCRIPTION": "Deal !D! damage. NL Deals additional damage for all Mantra gained this combat.",
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Deals additional damage equal to Mantra gained this combat.",
+
+----------------------------------
+
 10-30-2019
 cards.json
 	"LiveForever"
