@@ -1769,7 +1769,7 @@
   },
   "Vengeance": {
     "NAME": "怒火中燒",
-    "DESCRIPTION": "預見 !M! NL 在你的下個回合開始時進入 憤怒 "
+    "DESCRIPTION": "在你的下個回合開始時，進入 憤怒 並抽 !M! 張牌"
   },
   "CarveReality": {
     "NAME": "改造現實",
@@ -1850,6 +1850,7 @@
     "DESCRIPTION": "造成 !D! 點傷害 X 次",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
+      "造成 !D! 點傷害 !M! 次",
       "造成 !D! 點傷害 !M! 次"
     ]
   },
