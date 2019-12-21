@@ -470,8 +470,8 @@
   },
   "Evolve": {
     "NAME": "進化",
-    "DESCRIPTION": "每當你抽到一張 狀態 牌時，抽 !M! 張牌。",
-    "UPGRADE_DESCRIPTION": "每當你抽到一張 狀態 牌時，抽 !M! 張牌。"
+    "DESCRIPTION": "每當你抽到一張 狀態牌 時，抽 !M! 張牌。",
+    "UPGRADE_DESCRIPTION": "每當你抽到一張 狀態牌 時，抽 !M! 張牌。"
   },
   "Exhume": {
     "NAME": "發掘",
@@ -496,7 +496,7 @@
   },
   "Feel No Pain": {
     "NAME": "無懼疼痛",
-    "DESCRIPTION": "每當有一張牌被 消耗 ， NL 獲得 !M! 點 格擋 。"
+    "DESCRIPTION": "每當有一張牌被 消耗 時， 獲得 !M! 點 格擋 。"
   },
   "Fiend Fire": {
     "NAME": "惡魔之焰",
@@ -517,7 +517,7 @@
   },
   "Fire Breathing": {
     "NAME": "火焰吐息",
-    "DESCRIPTION": "每當你抽到一張 狀態 或 詛咒 牌時，對所有敵人造成 !M! 點傷害。"
+    "DESCRIPTION": "每當你抽到一張 狀態牌 或 詛咒 牌時，對所有敵人造成 !M! 點傷害。"
   },
   "Fission": {
     "NAME": "分裂",
@@ -1672,8 +1672,8 @@
   },
   "ReachHeaven": {
     "NAME": "立地升天",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 在你的抽牌堆中加入1張 NL *以暴易暴 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 在你的抽牌堆中加入1張 *以暴易暴+ 。"
+    "DESCRIPTION": "造成 !D! 點傷害。 在你的抽牌堆中加入1張 NL *以暴易暴 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 在你的抽牌堆中加入1張 *以暴易暴+ 。"
   },
   "Insight": {
     "NAME": "洞見",
