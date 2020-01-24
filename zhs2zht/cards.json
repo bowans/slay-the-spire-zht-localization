@@ -1533,8 +1533,8 @@
   },
   "Collect": {
     "NAME": "收集",
-    "DESCRIPTION": "在你的下X個回合開始時，增加一張 升級的 *奇蹟 到你的手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "在你的下X+1個回合開始時，增加一張 升級的 *奇蹟 到你的手牌。 NL 消耗 。"
+    "DESCRIPTION": "在你的下X個回合開始時，增加一張 *奇蹟+ 到你的手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "在你的下X+1個回合開始時，增加一張 *奇蹟+ 到你的手牌。 NL 消耗 。"
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1660,7 +1660,7 @@
   "ForeignInfluence": {
     "NAME": "他山之石",
     "DESCRIPTION": "從3張任意顏色的攻擊牌中選擇1張加入你的手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "從3張任意顏色的攻擊牌中選擇1張加入你的手牌。 NL 這張牌在本回合耗能變為0。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": "從3張任意顏色的攻擊牌中選擇1張加入你的手牌。 這張牌在本回合耗能變為0。 消耗 。"
   },
   "SignatureMove": {
     "NAME": "招牌技",
@@ -1769,7 +1769,7 @@
   },
   "Vengeance": {
     "NAME": "怒火中燒",
-    "DESCRIPTION": "預見 !M! 。 NL 在你的下個回合開始時進入 憤怒 。"
+    "DESCRIPTION": "在你的下個回合開始時，進入 憤怒 並抽 !M! 張牌。"
   },
   "CarveReality": {
     "NAME": "改造現實",
@@ -1851,7 +1851,7 @@
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       "造成 !D! 點傷害 !M! 次。",
-      "Deal !D! damage !M! time."
+      "造成 !D! 點傷害 !M! 次。"
     ]
   },
   "ConjureBlade": {
