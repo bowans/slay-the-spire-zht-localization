@@ -329,7 +329,8 @@
   "CreditsScreen": {
     "TEXT": [
       "Click again to exit",
-      "to exit"
+      "to exit",
+      "Tap again to exit"
     ]
   },
   "DailyScreen": {
@@ -764,7 +765,8 @@
       "Embark",
       "Return",
       "click to edit",
-      "to edit"
+      "to edit",
+      "tap to edit"
     ]
   },
   "MasterDeckViewScreen": {
@@ -1371,9 +1373,9 @@
     "TEXT": [
       "Daily - Floor %s",
       "Custom - Floor %s",
-      " - Floor %s",
+      " F%s",
       "Main Menu",
-      " (A%s)"
+      "A%s "
     ]
   },
   "ClarityAction": {

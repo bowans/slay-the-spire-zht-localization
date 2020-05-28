@@ -1,5 +1,76 @@
 Updates for Translators!
 
+05-26-2020
+ui.json
+	"CreditsScreen"
+		"Tap again to exit"
+		
+	"MainMenuScreen"
+		"tap to edit"
+
+credits.json (see eng/credits.json)
+	"LOC_SPA"
+		"Translation and Coordination:",
+		"Pedro Luis \"PerikiyoXD\" Valadés Viera",
+		"Translation:",
+		"Xavier \"xabad98\" Abad Salinas",
+		"Sergio \"Skiddome\" Malagón",
+		"Juanjo \"ajuanjojjj\" Martinez",
+		"Pedro J. \"PJJLegend\" Jiménez",
+		"Grammar and Cleanup:",
+		"Joaquín \"Pip1n\" López",
+		"Xavier Castañer",
+		->
+		"Translation and Coordination:",
+		"Juanjo \"ajuanjojjj\" Martinez",
+		"Pedro Luis \"PerikiyoXD\" Valadés Viera",
+		"Translation:",
+		"Erick Marroquin",
+		"Accord",
+		"Xavier \"xabad98\" Abad Salinas",
+		"Sergio \"Skiddome\" Malagón",
+		"Pedro J. \"PJJLegend\" Jiménez Moyano",
+		"Rodrigo \"skylex\" Zabattaro",
+		"Alberto \"RadeonThe1st\" Botana",
+		"Spooktacular",
+		"Grammar and Cleanup:",
+		"Joaquín \"Pip1n\" López",
+		"Xavier Castañer",
+
+	"LOC_TUR"
+		"Erdem Gürbüz",
+		"Ege \"sLanKy\" Güçkıran",
+		"\"onparalelkenarag\"",
+		"Berkan Çalıkoğlu",
+		"Ertürk Yılmaz"
+		->
+		"Translation and Coordination:",
+		"Ertürk Yılmaz",
+		"Translation:",
+		"Erdem Gürbüz",
+		"Ege \"sLanKy\" Güçkıran",
+		"\"onparalelkenarag\"",
+		"Berkan Çalıkoğlu"
+
+	"TEST"
+		"Jacob Morris",
+		->
+		"Jade Wesley",
+
+----------------------------------
+
+02-17-2020
+ui.json
+	"RichPresence"
+		" - Floor %s", -> " F%s",
+		" (A%s)" -> "A%s "
+
+NOTE: This changes the rich presence string from "Ironclad - Floor 15 (A2)" to "A2 Ironclad F15". This is to accomodate rich presence strings being truncated with a recent Steam update.
+
+The order render is changed from <Character><Floor><Ascension> to <Ascension><Character><Floor> but is currently applied to English only. If you want this changed for your language, be sure to let me know!
+
+----------------------------------
+
 12-20-2019
 cards.json
 	"Vengeance" (aka Simmering Fury)
