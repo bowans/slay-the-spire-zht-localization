@@ -81,13 +81,15 @@
       "Slay the Spire runs the fastest when running in true fullscreen. Recommended for macOS as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
       "As Slay the Spire isn't a demanding game, we recommend Borderless Fullscreen for fast alt-tab. Works best on PC.",
       "Note: If VSync is on, the Max Framerate cannot go above your monitor refresh rate.",
-      "Controller support incomplete for this screen."
+      "Controller support incomplete for this screen.",
+      "Changes which monitor is utilized when Fullscreen."
     ],
     "LABEL": [
       "Metrics",
       "Fullscreen",
       "Borderless Fullscreen",
-      "Max Framerate"
+      "Max Framerate",
+      "Fullscreen Monitor"
     ]
   },
   "Player Tips": {
